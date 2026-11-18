@@ -200,11 +200,58 @@ function dsIn(els,o){if(!els||!els.length)return;try{gsap.killTweensOf(els);gsap
    CFG.pxui ('' = actual, 'p2' = pixel) pone html[data-px=p2]; los estilos están en style.css. html[data-pxf] activa además el pixelado
    de retratos, escudos, trofeos, logos y portadas (filtros SVG de ui_v16f_gx.js); se omite con el mapa ligero para no cargar equipos lentos.
    El mapa (map.js) se dibuja a 1 px por px CSS con escalado pixelado y fronteras del mismo grosor; la portada (ui_v19a.js), a 1/3 con tramado. */
-function pxUI(){const h=document.documentElement;if(pxOn()){h.dataset.px='p2';if(typeof mapMode==='undefined'||mapMode!=='lite')h.dataset.pxf='1';else delete h.dataset.pxf;}else{delete h.dataset.px;delete h.dataset.pxf;}}
-function pxUISet(k){CFG.pxui=k;saveCfg();pxUI();try{if(mapReady){fitCanvas();refreshMap();}}catch(e){}try{if(typeof CV!=='undefined'&&CV.on)cvStart();}catch(e){}}
+/* ---------- v2.2c — tema Pixel con desbloqueo (locked / preview / unlocked) y modo desarrollador ----------
+   Estado guardado en CFG.th.pixel (localStorage 'imperioCfg'): {st:'locked'|'preview'|'unlocked', pvEnd, pvLast, src}.
+   · locked: el estilo Actual es el único disponible (es el predeterminado al iniciar por primera vez).
+   · preview: vista previa de PXT.PV minutos, una vez cada PXT.CD horas; al vencer vuelve sola a 'locked' y a Actual.
+   · unlocked: para siempre; thUnlock('pixel','compra'|'logro'|…) es el gancho para la tienda o los logros (sin ventajas de juego).
+   Modo desarrollador/tester: CFG.devMode=1 (persistente) desbloquea el tema sin restricciones. Se activa tocando 5 veces
+   el texto de versión al final de Ajustes, o abriendo el juego con ?devMode=1 en la dirección. pxOn() (map.js) se redefine aquí
+   para que el tema bloqueado nunca se aplique aunque CFG.pxui siga en 'p2'. */
+const PXT={PV:10,CD:20};
+function thState(id){let t=CFG.th;if(!t||typeof t!=='object')t=CFG.th={};let x=t[id];
+  if(!x||typeof x!=='object')x=t[id]={st:'locked',pvEnd:0,pvLast:0,src:''};
+  if(!['locked','preview','unlocked'].includes(x.st))x.st='locked';
+  if(x.st==='preview'&&!(x.pvEnd>Date.now())){x.st='locked';try{saveCfg();}catch(e){}}
+  return x;}
+function thUnlock(id,src){const x=thState(id);x.st='unlocked';x.src=src||'';x.pvEnd=0;saveCfg();if(id==='pixel')pxRefresh();return x;}
+function pxDev(){try{const q=/[?&]devMode=(1|0)\b/.exec(location.search||'');if(q&&(+q[1])!==(+!!CFG.devMode)){CFG.devMode=+q[1];saveCfg();}}catch(e){}return !!CFG.devMode;}
+function pxAccess(){if(pxDev())return 'unlocked';return thState('pixel').st;}
+function pxPreviewLeft(){const x=thState('pixel');return Math.max(0,x.pvLast+PXT.CD*3600e3-Date.now());}
+function pxPreview(){if(pxAccess()!=='locked')return true;if(pxPreviewLeft()>0)return false;const x=thState('pixel'),now=Date.now();
+  x.st='preview';x.pvLast=now;x.pvEnd=now+PXT.PV*60e3;CFG.pxui='p2';saveCfg();pxRefresh();return true;}
+pxOn=function(){try{return CFG.pxui==='p2'&&pxAccess()!=='locked';}catch(e){return false;}};
+function pxRefresh(){pxUI();try{if(typeof navH==='function')setTimeout(navH,30);}catch(e){}try{if(mapReady){fitCanvas();refreshMap();}}catch(e){}try{if(typeof CV!=='undefined'&&CV.on)cvStart();}catch(e){}}
+/* destello en 2 pasos al cambiar una cifra clave (dinero/PIB/tesoro en la barra de arriba; valores de la vista País) */
+const PXFL={mo:null,raf:0,last:new Map(),sel:'.money .v,.money .y,.nst b'};
+function pxFlashScan(){PXFL.raf=0;const now=new Map();document.querySelectorAll(PXFL.sel).forEach((el,i)=>{
+  const lab=el.matches('.nst b')&&el.previousElementSibling?'n:'+el.previousElementSibling.textContent:'s'+i;
+  let k=lab,j=0;while(now.has(k))k=lab+'#'+(++j);const v=el.textContent;now.set(k,v);const o=PXFL.last.get(k);
+  if(o!=null&&o!==v){el.classList.remove('pxfl');void el.offsetWidth;el.classList.add('pxfl');}});PXFL.last=now;}
+function pxFlashWatch(){const on=!!document.documentElement.dataset.pxa;
+  if(on&&!PXFL.mo&&document.body&&typeof MutationObserver!=='undefined'){PXFL.mo=new MutationObserver(()=>{if(!PXFL.raf)PXFL.raf=requestAnimationFrame(pxFlashScan);});
+    PXFL.mo.observe(document.body,{childList:true,subtree:true,characterData:true});pxFlashScan();}
+  else if(!on&&PXFL.mo){PXFL.mo.disconnect();PXFL.mo=null;PXFL.last=new Map();}}
+function pxUI(){const h=document.documentElement;if(pxOn()){h.dataset.px='p2';const lite=typeof mapMode!=='undefined'&&mapMode==='lite';if(!lite)h.dataset.pxf='1';else delete h.dataset.pxf;
+  /* v2.2c: micro-animaciones (aparición escalonada y destello) solo fuera del modo ligero, sin «reducir movimiento» y con Animaciones ≠ No */
+  let rm=false;try{rm=matchMedia('(prefers-reduced-motion: reduce)').matches;}catch(e){}if(!lite&&!rm&&CFG.dsa!=='off')h.dataset.pxa='1';else delete h.dataset.pxa;}
+  else{delete h.dataset.px;delete h.dataset.pxf;delete h.dataset.pxa;}try{pxFlashWatch();}catch(e){}}
+function pxUISet(k){if(k==='p2'&&pxAccess()==='locked')return;CFG.pxui=k;saveCfg();pxRefresh();}
 try{pxUI();}catch(e){}
-{const _ss=showSettings;showSettings=function(){_ss();try{pxUI();const b=$('sheetIn');if(!b||b.querySelector('[data-pxui]'))return;const m=pxOn()?'p2':'';
-  const x=document.createElement('div');x.className='item';x.style.display='block';x.id='cfPxUI';
-  x.innerHTML=`<div class="t">🕹️ Estilo pixel (prueba 2)</div><div class="s"><span>Toda la interfaz en pixel art: bordes 16-bit, botones que se hunden, barras en bloques, letra pixel, retratos y escudos pixelados.</span> <span>El mapa se dibuja a 1 px por punto y conserva el grosor de las fronteras.</span></div><div class="chips" style="margin-top:6px"><button data-pxui="" class="${m===''?'on':''}">Actual</button><button data-pxui="p2" class="${m==='p2'?'on':''}">Pixel</button></div>`;
+/* al vencer la vista previa (o al apagar el modo desarrollador) se vuelve sola a Actual */
+setInterval(()=>{try{const want=pxOn(),has=document.documentElement.dataset.px==='p2';if(want===has)return;pxRefresh();
+  if(!want&&CFG.pxui==='p2')toast('🕹️ Terminó la vista previa','El estilo pixel volvió a Actual. Desbloquéalo para usarlo siempre.');}catch(e){}},5000);
+{const _ss=showSettings;showSettings=function(){_ss();try{pxUI();const b=$('sheetIn');if(!b||b.querySelector('[data-pxui]'))return;
+  const acc=pxAccess(),dev=pxDev(),m=pxOn()?'p2':'',x=document.createElement('div');x.className='item';x.style.display='block';x.id='cfPxUI';
+  const th=thState('pixel'),cd=pxPreviewLeft();
+  const st=acc==='unlocked'?(dev?'🛠️ desbloqueado (modo desarrollador)':'🔓 desbloqueado'):acc==='preview'?`⏳ vista previa: quedan ${Math.max(1,Math.ceil((th.pvEnd-Date.now())/60000))} min`:'🔒 bloqueado';
+  x.innerHTML=`<div class="t">🕹️ Estilo pixel <span class="pxst">${st}</span></div><div class="s"><span>Toda la interfaz en pixel art: bordes 16-bit, botones que se hunden, barras en bloques, letra pixel, retratos y escudos pixelados.</span> <span>El mapa se dibuja a 1 px por punto y conserva el grosor de las fronteras.</span></div><div class="chips" style="margin-top:6px"><button data-pxui="" class="${m===''?'on':''}">Actual</button><button data-pxui="p2" class="${m==='p2'?'on':''}"${acc==='locked'?' disabled':''}>${acc==='locked'?'🔒 ':''}Pixel</button>${acc==='locked'?`<button data-pxpv${cd>0?' disabled':''}>${cd>0?`👁️ Otra vista previa en ${Math.ceil(cd/3600e3)} h`:`👁️ Probar ${PXT.PV} min`}</button>`:''}</div>`;
   const ref=b.querySelector('#sMfx');(ref?ref.after(x):b.insertBefore(x,b.querySelector('.item')||null));
-  x.querySelectorAll('[data-pxui]').forEach(y=>y.onclick=()=>{pxUISet(y.dataset.pxui);showSettings();});}catch(e){console.warn('v22b ajustes',e);}};}
+  x.querySelectorAll('[data-pxui]').forEach(y=>y.onclick=()=>{pxUISet(y.dataset.pxui);showSettings();});
+  const pv=x.querySelector('[data-pxpv]');if(pv)pv.onclick=()=>{if(pxPreview())toast('🕹️ Vista previa del estilo pixel',`Tienes ${PXT.PV} minutos para probarlo.`);showSettings();};
+  /* texto de versión: 5 toques en menos de 3 s activan o apagan el modo desarrollador/tester (gratis, sin restricciones) */
+  const v=document.createElement('div');v.className='s pxver';v.setAttribute('data-noi18n','');v.textContent=`ECONOMY v${VERSION} · interfaz v2.2c`+(dev?' · 🛠️ modo desarrollador':'');
+  let n=0,t0=0;v.onclick=()=>{const now=Date.now();if(now-t0>3000)n=0;t0=now;if(++n<5)return;n=0;CFG.devMode=CFG.devMode?0:1;saveCfg();pxRefresh();
+    toast(CFG.devMode?'🛠️ Modo desarrollador activado':'🛠️ Modo desarrollador apagado',CFG.devMode?'El estilo pixel queda desbloqueado para tus pruebas.':'Los temas vuelven a su estado normal (bloqueado, vista previa o desbloqueado).');showSettings();};
+  b.appendChild(v);}catch(e){console.warn('v22c ajustes',e);}};}
+

@@ -140,13 +140,13 @@ html[data-px=p2] .sheet{border-bottom:none!important}
 html[data-px=p2] .overlay{background:rgba(0,0,0,.6);backdrop-filter:none}
 /* botones: esquinas escalonadas, bisel, labio inferior y hundimiento al pulsar */
 html[data-px=p2] :is(.btn,.item,.opt,.mode,.nav,.ntabs button,.vtabs button,.chips button,.seg button,.mkt button,.zoom button,.mmodes button,#ageBtn,.cv-b,.mpa button,.pla button,.bt button,.ff,#clk button,.tutBox button){
- border:2px solid var(--px-edge)!important;clip-path:var(--px-cut);box-shadow:inset 2px 2px 0 var(--px-hi),inset -2px -4px 0 var(--px-lo)!important;transition:none!important}
+ border:2px solid var(--px-edge)!important;clip-path:var(--px-cut);box-shadow:inset 2px 2px 0 var(--px-hi),inset -2px -4px 0 var(--px-lo)!important;transition:transform 60ms steps(2,end)!important}
 html[data-px=p2] :is(.btn,.item,.opt,.mode,.nav,.ntabs button,.vtabs button,.chips button,.seg button,.mkt button,.zoom button,.mmodes button,#ageBtn,.cv-b,.mpa button,.pla button,.bt button,.ff,#clk button,.tutBox button):not(:disabled):active{
- transform:translateY(2px)!important;box-shadow:inset 2px 3px 0 var(--px-lo),inset -2px -2px 0 var(--px-hi)!important;filter:brightness(.92)}
+ transform:translateY(2px)!important;box-shadow:inset 2px 2px 0 var(--px-lo),inset -2px -2px 0 var(--px-hi)!important;filter:brightness(.92);transition:transform 60ms steps(2,end)!important}
 html[data-px=p2] :is(.ntabs button,.chips button,.mkt button,.mode,.mmodes button,.army).on{box-shadow:inset 0 0 0 2px var(--gold),inset -2px -4px 0 var(--px-lo)!important}
 html[data-px=p2] :where(button,[role=button],select,input,a):focus-visible{outline:2px dashed var(--focus);outline-offset:-5px}
-/* barras y medidores en bloques de 6 px (5 de color + 1 de separación) */
-html[data-px=p2] :is(.bar,.hb,.mpbar,.cmd-bar,.rb,.lg-bar){-webkit-mask:repeating-linear-gradient(90deg,#000 0 5px,transparent 5px 6px);mask:repeating-linear-gradient(90deg,#000 0 5px,transparent 5px 6px);height:8px}
+/* barras y medidores en bloques de 8 px (6 de color + 2 de separación; v2.2c) */
+html[data-px=p2] :is(.bar,.hb,.mpbar,.cmd-bar,.rb,.lg-bar){-webkit-mask:repeating-linear-gradient(90deg,#000 0 6px,transparent 6px 8px);mask:repeating-linear-gradient(90deg,#000 0 6px,transparent 6px 8px);height:8px}
 html[data-px=p2] :is(.bar,.hb,.mpbar,.cmd-bar,.rb,.lg-bar) i,html[data-px=p2] .mpbar b{transition:width .5s steps(5,end)!important}
 /* tipografía pixel: botones, títulos, pestañas y números (la PX5 se ve nítida en múltiplos de 4 px en pantallas 2×) */
 html[data-px=p2] :is(.btn,.opt,.mode b,.item .t,.nav,.ntabs button,.vtabs button,.chips button,.seg button,.mkt button,.mpa button,.cv-b,.ff,#clk button,.sect,.cv-fl,.np-k){font-family:var(--pxf);font-size:12px;font-weight:400;letter-spacing:0;font-synthesis:none;-webkit-font-smoothing:none}
@@ -154,8 +154,39 @@ html[data-px=p2] :is(h1,h2,h3,.tutBox h4,.sheet h3,.modal h2,.who .name,.nwho .n
 html[data-px=p2] :is(.money .v,.money .y,#pYear,.nst b,.hv,.bctl span,.frow span:last-child,.badge,.badge2,.nav .badge,.stat .lab span:last-child,.item .r){font-family:var(--pxn);font-weight:400;font-synthesis:none;-webkit-font-smoothing:none}
 html[data-px=p2] .money .v{font-size:16px}html[data-px=p2] :is(.money .y,.nst b,.hv,.bctl span,.frow span:last-child,.nav .badge){font-size:12px}
 html[data-px=p2] .badge2{font-size:8px;line-height:16px}
-html[data-px=p2] #clk .seg button{padding-left:3px;padding-right:3px;white-space:nowrap}
-html[data-px=p2] .nav{font-size:8px;line-height:1.3;padding:7px 2px 9px}html[data-px=p2] .nav .ic{font-size:18px}
-html[data-px=p2] #ageBtn{box-shadow:inset 2px 2px 0 rgba(255,255,255,.35),inset -2px -5px 0 rgba(0,0,0,.35)!important}
+html[data-px=p2] .nav{font-size:8px;line-height:1.25;padding:6px 2px 8px}html[data-px=p2] .nav .ic{font-size:18px}
+html[data-px=p2] #ageBtn{box-shadow:inset 2px 2px 0 rgba(255,255,255,.35),inset -2px -4px 0 rgba(0,0,0,.35)!important}
 html[data-px=p2] .lg.new,html[data-px=p2] .modal.on,html[data-px=p2] .paper{animation-timing-function:steps(3,end)}
+/* ===== v2.2c — pulido del Modo Pixel: medidas en múltiplos de 2 px, toque de 44 px, sin saltos de línea y micro-animaciones =====
+   Todo cuelga de html[data-px=p2] (solo con el tema Pixel desbloqueado o en vista previa; ver ui_v19b.js). Las animaciones de aparición
+   y el destello de cifras cuelgan además de html[data-pxa], que se apaga con el mapa ligero, «reducir movimiento» o Animaciones = No. */
+/* área táctil mínima de 44 px de alto (guía de Apple) en todo botón interactivo */
+html[data-px=p2] :is(.btn,.item,.opt,.mode,.nav,.ntabs button,.vtabs button,.chips button,.seg button,.mkt button,.mmodes button,.cv-b,.mpa button,.pla button,.bt button,.ff,#clk button,.tutBox button){min-height:44px}
+html[data-px=p2] .zoom button{min-height:44px;min-width:44px}
+html[data-px=p2] :is(.chips button,.seg button,.ntabs button,.vtabs button,.mkt button,.mmodes button,.mpa button,.pla button,.bt button,.ff,.cv-b,.tutBox button){padding:6px 8px}
+/* botones compactos: nunca en dos líneas; si no cabe, se recorta con «…» en vez de partirse */
+html[data-px=p2] :is(.btn,.nav,.ntabs button,.vtabs button,.chips button,.seg button,.mkt button,.mpa button,.pla button,.bt button,.ff,.cv-b,#clk button,.tutBox button){white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+html[data-px=p2] :is(.mmodes button,.zoom button){white-space:nowrap}
+html[data-px=p2] .nav{padding-left:0;padding-right:0;text-overflow:clip}
+/* selector de velocidad (Día · Semana · Mes · Año · 5 años): 5 botones en una fila; la PX5 es nítida en 8/12/16 px */
+html[data-px=p2] #clk .in{gap:2px;padding:2px;border:2px solid var(--px-edge)!important;box-shadow:inset 2px 2px 0 var(--px-hi),inset -2px -2px 0 var(--px-lo)!important;max-width:calc(100vw - 16px)}
+html[data-px=p2] #clk .in button{flex:0 1 auto;min-width:0;padding:4px 8px!important;font-size:12px}
+html[data-px=p2] #clk .ap button{height:auto;padding:4px 8px!important}
+@media (max-width:374px){html[data-px=p2] #clk .in button{padding:4px 4px!important;font-size:8px}}
+html[data-px=p2]:is([lang^=ru],[lang^=de],[lang^=fr],[lang^=pt],[lang^=it],[lang^=tr]) #clk .in button{padding-left:4px!important;padding-right:4px!important}
+/* destello de cifras clave (dinero, PIB, aprobación, tesoro…) en 2 pasos */
+@keyframes pxFl{0%,49.9%{background:color-mix(in srgb,var(--gold) 45%,transparent);box-shadow:0 0 0 2px var(--gold)}50%,100%{background:transparent;box-shadow:none}}
+html[data-px=p2][data-pxa] .pxfl{animation:pxFl .32s steps(1,end) 1}
+/* aparición escalonada de tarjetas en hojas y de ventanas modales (rápida: 2–3 pasos, 120–140 ms) */
+@keyframes pxIn{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+@keyframes pxPop{from{opacity:0;transform:scale(.94)}to{opacity:1;transform:none}}
+html[data-px=p2][data-pxa] .sheet.on #sheetIn>*{animation:pxIn .12s steps(2,end) both}
+html[data-px=p2][data-pxa] .sheet.on #sheetIn>:nth-child(2){animation-delay:30ms}html[data-px=p2][data-pxa] .sheet.on #sheetIn>:nth-child(3){animation-delay:60ms}
+html[data-px=p2][data-pxa] .sheet.on #sheetIn>:nth-child(4){animation-delay:90ms}html[data-px=p2][data-pxa] .sheet.on #sheetIn>:nth-child(5){animation-delay:120ms}
+html[data-px=p2][data-pxa] .sheet.on #sheetIn>:nth-child(6){animation-delay:150ms}html[data-px=p2][data-pxa] .sheet.on #sheetIn>:nth-child(n+7){animation-delay:180ms}
+html[data-px=p2][data-pxa] .modal.on{animation:pxPop .14s steps(3,end) both!important}
+html[data-px=p2]:not([data-pxa]) :is(.modal.on,.sheet.on #sheetIn>*,.pxfl){animation:none!important}
+/* Ajustes: estado del tema y texto de versión (5 toques = modo desarrollador) */
+.pxst{font-size:11px;font-weight:600;color:var(--mut);margin-left:6px;white-space:nowrap}
+.pxver{text-align:center;padding:16px 0 8px;opacity:.6;user-select:none;-webkit-user-select:none;touch-action:manipulation;cursor:default}
 </style>
