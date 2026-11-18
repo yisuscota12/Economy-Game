@@ -1,0 +1,106 @@
+da4112	Pertumbuhan negara
+e770f6	Resesi
+c42c4a	Suku bunga
+b82b50	Perang
+2091ec	Harga minyak
+6f40f5	Harga logam
+de3107	Krisis perbankan
+eaa432	Kesehatan bank
+25df08	Pelanggannya (rantai)
+8ba059	Konsumsi rumah tangga
+428aa6	Kebangkrutan terbaru
+eb9d92	Tren sektor
+2a9066	Rumah tangga di provinsi
+ba2f44	Wisatawan
+0ed580	Perusahaan lain di negara ini
+2b3fa3	Perusahaan dan rumah tangga yang mengadopsi teknologi
+90c48c	Rumah tangga di seluruh negeri
+cfcdcf	Pasar dunia: kamu menjual dengan harga internasional
+bf3612	karena kebangkrutan sebuah perusahaan
+fe1287	karena penutupan sebuah perusahaan
+04d5bf	{0} bulan
+01c6b3	Kontribusi bagi ekonomi lokal
+e29d55	Belum menutup bulan pertamanya.
+ae31cc	Nilai tambah per tahun
+a59004	Dengan pemasok dan gaji
+a14887	Lapangan kerja
+e0373a	langsung + tidak langsung
+8cf54c	Pajak dan iuran
+78ca2c	per tahun
+f45225	PDB provinsi
+54e3cd	PDB negara
+c37c0c	Nilai tambah = penjualan − input: apa yang ditambahkan perusahaanmu ke ekonomi.
+2ccea0	Pembeliannya dari pemasok dan gaji yang dibelanjakan karyawanmu menciptakan lebih banyak aktivitas (pengganda).
+bd431d	Setiap tahun kontribusi itu masuk ke PDB {0}.
+5d2777	Rantai pasok
+163de9	Input
+e9b8a1	{0} % dari biaya
+725a2b	harga sejak 2026
+3c8275	Diproduksi oleh perusahaanmu
+f9c7b3	(10 % lebih murah)
+c60a91	Integrasi vertikal: kamu menghemat {0} per bulan untuk input.
+e84b64	Pelanggan
+928862	Kesehatan sektormu
+cd52f2	Efek pada permintaanmu
+0b5c1a	Permintaan provinsi
+6b7103	Kontribusimu bagi ekonomi
+33a71c	PDB negaramu
+e0d793	Lihat perusahaanmu di peta
+b5aae0	Membeli di negara lain adalah investasi asing langsung: kamu membayar {0} % biaya perizinan dan perusahaan beroperasi dengan gaji, pajak, dan krisis negara itu.
+59502b	Biaya perizinan: {0}
+c33869	Negara itu sudah tidak ada.
+ff7f4c	Biaya perizinan investasi asing: {0}.
+afd069	Kamu membeli {0} seharga {1}. Biaya perizinan investasi asing: {2}.
+bd6bcf	Kamu membeli {0} seharga {1} (membayar {2}; {3} kredit menjadi utang perusahaan). Biaya perizinan investasi asing: {4}.
+b5a26e	Pesaing di bidang yang sama
+ec0385	Membayar lebih jika perusahaan sehat: menambah pelanggan dan cabangnya.
+488eb4	Dana ekuitas swasta
+2fabc6	Hanya membeli perusahaan yang untung; membayar sesuai arus kasnya.
+1342fe	Investor perorangan
+67b06b	Menawar lebih rendah, tetapi membeli hampir semua perusahaan.
+033f80	Jual perusahaan
+3b6679	Nilai perkiraan
+99ff29	Kesehatan perusahaan
+e4ed68	Setiap pembeli menawar sesuai kesehatan perusahaan: margin, reputasi, pertumbuhan, dan utang.
+21206a	Kamu bisa menerima atau meminta lebih: jika ia menolak, tawarannya turun sedikit; setelah penolakan kedua ia mundur.
+5b72aa	Tawaran diperbarui setiap 3 bulan.
+095408	Untuk saat ini tidak ada pembeli yang tertarik.
+c733ab	Sudah menolak membayar lebih: {0}
+8f9f73	Terima
+4f5c13	Dana {0} Capital
+37b68c	{0} mundur: tidak mau membayar lebih untuk {1}.
+362d66	{0} menolak membayar lebih dan menurunkan tawarannya menjadi {1}. Kamu bisa menerimanya atau mencoba sekali lagi.
+dadf29	Kamu menjual {0} kepada {1} seharga {2} ({3} % lebih tinggi dari tawarannya). Perusahaan tetap beroperasi dengan pemilik barunya.
+2b53c9	Kamu menjual {0} kepada {1} seharga {2}. Perusahaan tetap beroperasi dengan pemilik barunya.
+ba0b31	Kesehatan sektor
+19f297	50 adalah normal.
+f3c89a	Setiap sektor bergantung pada pelanggannya: jika konstruksi turun, industri dan pertambangan merasakannya kemudian (rantai pasok).
+cd2c1f	Ketuk sebuah sektor untuk melihat penyebabnya.
+84fdb6	Debiturnya
+99ebbc	Ekonomi lokal
+84b89e	Aktivitas ekonomi
+d276d5	Sektor utama
+1bc7f4	{0} % dari ekonomi
+b6d859	Ekonomi lokal dan perusahaanmu
+df6537	lemah
+7af0f1	kuat
+ee64e3	Perusahaanmu
+bd7d15	Aktivitas ekonomi provinsi dihitung di thread utama.
+d215c8	Tidak tersedia di browser ini: dihitung di thread utama.
+012346	Aktivitas ekonomi 3.422 provinsi dihitung di thread lain setiap bulan.
+59e47e	Ekonomi dunia di latar belakang: aktif
+1f3ade	Ekonomi dunia di latar belakang: nonaktif
+1662ca	Kebangkrutan {0} membuat {1} orang menganggur di {2}; bank-bank {3} kehilangan {4} dari kredit yang tidak akan dibayar.
+737a53	Dengan ditutupnya {0}, {1} orang kehilangan pekerjaan di {2} dan permintaan provinsi turun selama beberapa bulan.
+694f77	Nilai tambah
+01640b	Apa yang ditambahkan sebuah perusahaan ke ekonomi: penjualannya dikurangi apa yang dibelinya dari perusahaan lain (input). Jumlah nilai tambah semua perusahaan adalah PDB.
+66fdc7	Pengganda ekonomi
+54f06b	Setiap peso yang dibelanjakan perusahaan untuk pemasok dan gaji dibelanjakan lagi di usaha lain; karena itu efek totalnya pada ekonomi lebih besar daripada penjualannya sendiri.
+aaabdb	Integrasi vertikal
+3daa84	Memiliki pemasokmu sendiri (atau pelanggan): input lebih murah dan kamu tidak bergantung pada pihak lain, tetapi risikonya terpusat.
+4d3788	Investasi asing langsung
+816d1b	Membeli atau membuka perusahaan di negara lain. Membawa lapangan kerja dan modal ke negara penerima; investor menanggung krisis, pajak, dan mata uangnya.
+60cc9e	Kelipatan valuasi
+fab259	Berapa kali laba tahunannya dibayar untuk sebuah perusahaan. Pembeli membayar kelipatan lebih tinggi jika perusahaan tumbuh, marginnya baik, dan utangnya sedikit.
+220bd8	Jaringan perusahaan yang saling menjual: jika pelanggan besar masuk krisis, pemasoknya merasakannya kemudian, dan begitu seterusnya di sepanjang rantai.
+d0a528	Ekonomi terhubung

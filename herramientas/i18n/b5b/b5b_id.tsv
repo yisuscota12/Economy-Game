@@ -1,0 +1,273 @@
+001	(+{0}/tahun). Ketuk salah satu provinsimu → 🏗️ Bangun.
+002	Aksi pemerintah ({0} dari 2)
+003	Persetujuan / Kongres
+004	Dukungan di kongres {0} % (peluang meloloskan undang-undang: {1} %)
+005	tanpa pemilihan ulang
+006	pemilihan ulang tidak berturut-turut
+007	maksimal 2 periode berturut-turut
+008	pemilihan ulang tanpa batas
+009	kamu yang memerintah ({0})
+010	Investasi infrastruktur
+011	Pertumbuhan ekonomi
+012	Perkuat militer
+013	belanja militer
+014	Reformasi sosial
+015	Propaganda
+016	Turunkan pajak
+017	Ekonomi jangka panjang
+018	Rencana antiinflasi
+019	Selewengkan dana publik
+020	untukmu
+021	risiko diadili
+022	Kamu meluncurkan rencana infrastruktur.
+023	Kamu membeli perlengkapan dan melatih pasukan.
+024	Reformasi sosial disetujui.
+025	Kampanye propaganda nasional.
+026	Kamu menurunkan pajak. Rakyat bersorak.
+027	Bank sentral menaikkan suku bunga; inflasi mereda.
+028	Kamu mengalihkan dana ke rekening atas namamu.
+029	Pendapatan kas negara (pajak tinggi)
+030	Pendapatan kas negara (pajak normal)
+031	Pendapatan kas negara (pajak rendah)
+032	Pajak (memakai satu aksi pemerintah)
+033	Pajak (memakai satu aksi pemerintah, perlu pemungutan suara)
+034	Pajak tinggi
+035	Pajak normal
+036	Pajak rendah
+037	Pendapatan ×{0}
+038	Kamu menetapkan pajak di tingkat tinggi.
+039	Kamu menetapkan pajak di tingkat normal.
+040	Kamu menetapkan pajak di tingkat rendah.
+041	Terbitkan obligasi senilai {0}
+042	Bunga {0} per tahun
+043	Lunasi obligasi ({0})
+044	Kamu berutang {0} dalam obligasi sendiri
+045	Kamu menerbitkan obligasi senilai {0} dengan bunga {1}. Utang publik naik menjadi {2} % dari PDB.
+046	Kamu melunasi obligasi senilai {0}.
+047	Riset sipil: level {0} → {1}
+048	Riset militer: level {0} → {1}
+049	Negaramu mencapai level {0} teknologi sipil ({1}).
+050	Negaramu mencapai level {0} teknologi militer ({1}).
+051	Perjanjian: {0} (+{1} % per tahun)
+052	{0} (sampai {1})
+053	tidak ada
+054	tidak ada
+055	Embargo: {0} (−{1} % per tahun)
+056	kamu terapkan pada {0}
+057	{0} menerapkannya padamu
+058	Anggaran kas negara ({0} per tahun)
+059	Yang tidak kamu alokasikan disimpan di kas negara:
+060	Investasi
+061	Kesejahteraan
+062	pembangunan provinsi dan pertumbuhan
+063	teknologi sipil dan militer
+064	membayar pasukan tambahan, moral, dan rekrut
+065	kebahagiaan dan stabilitas
+066	Memakai satu aksi pemerintah. Bisa diubah setiap 4 tahun. Beralih dari demokrasi ke rezim lain mendinginkan hubungan dengan negara demokrasi dan bisa memicu sanksi.
+067	Kamu adalah vasal {0}
+068	Pasukan {0}
+069	{0} prajurit dalam {1} pasukan
+070	kualitas {0} (belanja per prajurit {1}/tahun, SIPRI)
+071	biaya pasukan tambahan {0}/tahun
+072	(di laut)
+073	sedang berlatih
+074	moral
+075	pasokan
+076	kualitas
+077	prajurit
+078	Rekrut di {0}
+079	Untuk merekrut di provinsi lain, ketuk provinsi itu di peta sebelum membuka lembar ini. Rekrut berlatih {0} bulan dan mulai dengan moral rendah.
+080	Rekrut {0} prajurit
+081	{0} dari kas negara
+082	kas negara {0}. Perang dimainkan bulan demi bulan dengan pasukanmu.
+083	Pasukan {0} ({1}) siap: ketuk tujuan di peta.
+084	Tersisa {0} dari 3 aksi diplomatik tahun ini.
+085	Opini setiap negara naik dengan kedutaan dan perjanjian, dan turun dengan ultimatum dan perang.
+086	kekuatannya {0} dari kekuatanmu
+087	kekuatan {0} dari kekuatanmu
+088	Aksi ({0} diplomatik, {1} pemerintah)
+089	Hanya yang memerintah yang menjalankan diplomasi.
+090	⚠️ Melanggar pakta non-agresi: −10 stabilitas dan semua jadi tidak percaya
+091	Perbaiki hubungan
+092	Kedutaan dan kunjungan resmi
+093	Usulkan aliansi
+094	Peluang
+095	pasukannya mendukungmu dalam perang
+096	Putuskan aliansi
+097	Kamu kehilangan dukungannya
+098	Pakta non-agresi (10 tahun)
+099	kalian tak bisa saling serang tanpa melanggarnya
+100	Minta akses militer
+101	pasukanmu boleh melintasi wilayahnya
+102	Lepaskan akses militer
+103	Jamin kemerdekaannya
+104	Selalu menerima
+105	jika ada yang menyerang mereka, mereka akan memanggilmu untuk membela
+106	Tarik jaminan
+107	Ultimatum: tuntut {0}
+108	Ultimatum: tuntut status vasal
+109	Penerimaan
+110	jika menolak, kamu mendapat casus belli (menyatakan perang tidak menurunkan stabilitas)
+111	vasal membayar upeti dan bertempur di sisimu
+112	Integrasikan vasal
+113	Kamu mencaplok seluruh wilayahnya
+114	perlu 5 tahun sebagai vasal (sudah {0}) dan opini 40+
+115	Bebaskan vasal
+116	Perjanjian dagang (10 tahun)
+117	keduanya tumbuh lebih cepat (+{0} % per tahun untukmu)
+118	Batalkan perjanjian dagang
+119	Embargo dagang
+120	Ekonominya kehilangan ~{0} % per tahun; kamu juga rugi sedikit
+121	Cabut embargo
+122	Kirim hadiah ({0})
+123	opini +15 sampai +25
+124	Hina pemerintahnya
+125	opini −30; jika mereka lebih kuat, mereka bisa menyatakan perang padamu
+126	Serukan angkat senjata melawan {0}
+127	ikut dengan pasukannya
+128	Usulkan persatuan bangsa
+129	Perlu opini 75+, budaya atau sistem yang sama, dan mereka lebih lemah
+130	inflasi {0}.
+131	Bank sentral menaikkan suku bunga saat inflasi melewati target dan menurunkannya saat ekonomi melambat (aturan Taylor).
+132	Kamu memakai mata uang yang tidak kamu terbitkan: suku bunganya ditetapkan oleh {0}.
+133	Reformasi memakai satu aksi pemerintah (tersisa {0}).
+134	Pasar menentukan harga dan meredam guncangan; kamu tetap memegang suku bunga.
+135	Hong Kong (dewan mata uang sejak 1983) dan Arab Saudi (3,75 per dolar sejak 1986) mempertahankan kurs tetap. Meksiko pada 1994, Thailand pada 1997, dan Argentina pada 2002 mengalami devaluasi ketika kurs tetap tak lagi dipercaya.
+136	Setiap uang kertas dijamin dolar: sangat kredibel, tetapi tanpa kebijakan moneter. Perlu kas negara sebesar 5 % PDB.
+137	Cetak uang untuk pemerintah (seigniorase): {0}
+138	Membiayai belanja dengan mencetak uang memicu hiperinflasi di Jerman (1923), Zimbabwe (2008), dan Venezuela (2016-2021).
+139	dari PDB per tahun
+140	1 baru = 1.000 lama. {0}
+141	Meksiko menghapus tiga nol pada 1993 (peso baru), Turki enam pada 2005, Brasil beralih ke real pada 1994, dan Sierra Leone menghapus tiga nol pada 2022.
+142	Hapus {0} nol
+143	Membuat dolar menjadi ~{0} unit.
+144	Akhir pencetakan uang, bank sentral independen, suku bunga +8 dan, bila perlu, redenominasi. Bekerja seperti Plano Real Brasil (1994): inflasi turun dalam 3 tahun dengan harga resesi.
+145	Ekuador beralih ke dolar pada 2000 setelah krisis perbankan; El Salvador pada 2001. Inflasi mendekati inflasi AS, tetapi kamu kehilangan kebijakan moneter.
+146	Kamu memenuhi kriteria. {0}
+147	Kriteria: {0}
+148	Kroasia mengadopsi euro pada 2023 dan Bulgaria pada 2026, setelah memenuhi syarat inflasi, defisit, utang, dan dua tahun kurs stabil.
+149	Inflasi ≤ {0} % (milikmu {1} %)
+150	Utang ≤ 90 % PDB (milikmu {0} %)
+151	Dua tahun dipatok ke euro (ERM II)
+152	Stabilitas ≥ 40 (milikmu {0})
+153	Keluar dari euro dan buat mata uang sendiri
+154	Kamu mendapatkan kembali suku bunga dan kurs, tetapi transisinya memicu pelarian modal, resesi, dan devaluasi awal.
+155	Lebih banyak investasi dan pertumbuhan; kamu kembali rentan terhadap pelarian modal.
+156	Menahan pelarian modal dan serangan spekulatif, tetapi mengurangi pertumbuhan dan melarang membeli saham asing (seperti “cepo” Argentina).
+157	Kamu mengambil alih kendali {0}. Sekarang kamu yang menetapkan suku bunga; pasar curiga (+1 poin inflasi per tahun selama berlangsung).
+158	Kamu mengembalikan otonomi kepada {0}: suku bunga kembali ditetapkan dengan aturannya (inflasi dan pertumbuhan).
+159	Kamu menetapkan suku bunga acuan {0} % ({1}). Kredit jadi lebih mahal: menahan inflasi dan pertumbuhan, serta menguatkan mata uang.
+160	Kamu menetapkan suku bunga acuan {0} % ({1}). Kredit jadi lebih murah: mendorong pertumbuhan, tetapi inflasi naik dan mata uang melemah.
+161	Dewan mata uang butuh cadangan: kas negara minimal 5 % PDB.
+162	{0} mengambang bebas: pasar menentukan kurs dan meredam guncangan.
+163	{0} mengambang bebas: pasar menentukan kurs dan meredam guncangan.
+164	Mengambang terkendali: bank sentral meredam gerak {0}.
+165	Mengambang terkendali: bank sentral meredam gerak {0}.
+166	{0} dipatok di {1} per {2}. Suku bungamu akan mengikuti jangkar; jika inflasimu melebihi inflasi jangkar, kurs tetap menjadi rentan terhadap serangan spekulatif.
+167	{0} dipatok di {1} per {2}. Suku bungamu akan mengikuti jangkar; jika inflasimu melebihi inflasi jangkar, kurs tetap menjadi rentan terhadap serangan spekulatif.
+168	{0} beralih ke dewan mata uang di {1} per {2}. Suku bungamu akan mengikuti jangkar; jika inflasimu melebihi inflasi jangkar, kurs tetap menjadi rentan terhadap serangan spekulatif.
+169	{0} beralih ke dewan mata uang di {1} per {2}. Suku bungamu akan mengikuti jangkar; jika inflasimu melebihi inflasi jangkar, kurs tetap menjadi rentan terhadap serangan spekulatif.
+170	Kamu memerintahkan pemerintah dibiayai dengan mencetak uang: {0} masuk ke kas negara setiap tahun. Bersiaplah untuk inflasi lebih tinggi dan mata uang lebih lemah.
+171	Kamu berhenti mencetak uang untuk pemerintah.
+172	Mata uangnya tidak punya nol sebanyak itu untuk dihapus.
+173	Rencana stabilisasi: kamu berhenti mencetak uang, bank sentral kembali independen dan menaikkan suku bunga 8 poin. Inflasi akan turun tajam dalam 3 tahun ke depan; harganya adalah resesi dan persetujuan yang lebih rendah.
+174	Kamu menerapkan kontrol modal: lebih sedikit serangan spekulatif dan pelarian modal, tetapi ekonomi tumbuh lebih lambat dan tak seorang pun bisa membeli saham di luar negeri.
+175	Kamu mencabut kontrol modal: uang bebas keluar masuk.
+176	dipatok ke dolar AS ({0})
+177	dipatok ke euro ({0})
+178	dewan mata uang (dolar AS)
+179	dewan mata uang (euro)
+180	Langsung menurunkan kurs; kamu menghabiskan cadangan.
+181	Daya saing ekspor dan cadangan bertambah; inflasi sedikit naik.
+182	Isi cadangan strategis ({0})
+183	Melindungi dari gangguan pasokan; mendorong harga naik.
+184	Negaramu tidak menerbitkan mata uangnya sendiri: tidak bisa mengintervensi kurs.
+185	Kamu tidak punya cadangan devisa.
+186	Kamu menjual cadangan senilai {0}: {1} menguat.
+187	Kamu menjual cadangan senilai {0}: {1} menguat.
+188	Kamu membeli {0} dalam dolar dengan mencetak uang: {1} melemah (daya saing naik, inflasi sedikit naik) dan cadanganmu bertambah.
+189	Kamu membeli {0} dalam dolar dengan mencetak uang: {1} melemah (daya saing naik, inflasi sedikit naik) dan cadanganmu bertambah.
+190	Kamu butuh {0} di kas negara atau di cadangan.
+191	Kamu membeli {0} ton emas ({1}).
+192	Kamu tidak punya emas.
+193	Kamu menjual {0} ton emas: cadangan devisamu naik {1}.
+194	Kamu butuh {0} di kas negara.
+195	Kamu membeli {0} untuk cadangan strategismu ({1}).
+196	Cadangan strategismu kosong.
+197	Kamu melepas {0}: {1} masuk ke kas negara dan harga dunia turun.
+198	longgar
+199	ketat
+200	{0} belum dibayar
+201	dinasionalisasi
+202	swasta
+203	Regulasi longgar
+204	Regulasi normal
+205	Regulasi ketat
+206	Kredit murah untuk perusahaan di provinsi termiskin: +pembangunan dan +pertumbuhan selama 3 tahun.
+207	Untuk infrastruktur: +0,5 pembangunan di 10 provinsi termiskinmu; utang naik.
+208	Negara menentukan kredit; saham bank jatuh di bursa dan ekonomi tumbuh lebih lambat.
+209	Kamu menetapkan regulasi perbankan yang longgar.
+210	Kamu menetapkan regulasi perbankan yang normal.
+211	Kamu menetapkan regulasi perbankan yang ketat.
+212	IMF meminjamkan {0} (separuh ke kas negara, separuh ke cadangan). Syarat: 3 tahun penghematan (pertumbuhan dan persetujuan turun), tanpa cetak uang, dan bank sentral independen.
+213	Bank Dunia meminjamkan {0} untuk infrastruktur: +0,5 pembangunan di 10 provinsi termiskinmu dan pertumbuhan lebih tinggi selama 5 tahun.
+214	Bank pembangunan meminjamkan {0} kepada perusahaan di provinsi termiskin: +pembangunan dan sedikit tambahan pertumbuhan selama 3 tahun.
+215	Kamu menasionalisasi perbankan: negara memutuskan kepada siapa meminjamkan. Saham bank jatuh di bursa dan kredit menjadi kurang efisien (−0,3 % pertumbuhan per tahun).
+216	Kamu memprivatisasi kembali perbankan: persaingan kembali.
+217	{0} tidak punya produksi berarti untuk minyak, gas, mineral, maupun biji-bijian ekspor.
+218	Royalti dari 10 % → 35 %; investasi berkurang (−0,3 % pertumbuhan per tahun) dan saham perusahaan sektor ini jatuh di bursa. Seperti Meksiko dengan minyak pada 1938 atau Bolivia dengan gas pada 2006.
+219	Larang ekspor (memakai satu aksi): harga dunia naik dan pasarmu terpasok, tetapi kamu kehilangan devisa.
+220	Kamu menasionalisasi minyak dan tambang: royalti ke kas negara naik dari 10 % menjadi 35 % dari nilai produksi, tetapi investasi turun (−0,3 % pertumbuhan per tahun) dan saham perusahaan sektor ini jatuh di bursa.
+221	Kamu memprivatisasi kembali sektor ini: menjual konsesi (5 % dari nilai tahunan ke kas negara) dan investasi kembali; royalti kembali ke 10 %.
+222	Kamu melarang ekspor {0}: harga dunia naik dan pasar dalam negeri terpasok, tetapi kamu kehilangan devisa (pertumbuhanmu melambat).
+223	Kamu mencabut larangan ekspor {0}.
+224	Tidak ada pertempuran baru-baru ini.
+225	Jend. {0}
+226	Ofensif (+15 % saat menyerang)
+227	Defensif (+15 % saat bertahan)
+228	Logistik (−35 % atrisi dan pasokan lebih baik)
+229	Cepat (+1 gerakan per bulan)
+230	Karismatik (moral pulih dua kali lebih cepat)
+231	Pegunungan (+25 % di gunung dan bukit)
+232	Belum berpengalaman (−10 % dalam pertempuran; cepat belajar)
+233	barel
+234	ribu barel
+235	miliar barel
+236	juta BTU
+237	ribu juta BTU
+238	miliar juta BTU
+239	ton
+240	ribu ton
+241	miliar ton
+242	ton karbonat
+243	ribu ton karbonat
+244	ton oksida
+245	ribu ton oksida
+246	ons
+247	ribu ons
+248	miliar ons
+249	pon U₃O₈
+250	ribu pon U₃O₈
+251	miliar pon U₃O₈
+252	Barel
+253	Juta BTU
+254	Ton
+255	Ton karbonat
+256	Ton oksida
+257	Ons
+258	Pon U₃O₈
+259	per barel
+260	per juta BTU
+261	per ton
+262	per ton karbonat
+263	per ton oksida
+264	per ons
+265	per pon U₃O₈
+266	juta barel
+267	juta ton
+268	juta ons
+269	triliun BTU
+270	juta pon U₃O₈
+271	juta ton karbonat
+272	juta ton oksida
+273	cadangan rekrut {0} (penduduk yang dapat dimobilisasi)

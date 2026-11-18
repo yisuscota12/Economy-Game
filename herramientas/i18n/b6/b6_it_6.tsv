@@ -1,0 +1,27 @@
+b879b9	<b>Il tuo posto di lavoro:</b> quando ottieni un lavoro comune (cameriere, operaio, commesso, muratore, bracciante, impiegato, dipendente pubblico, poliziotto, tecnico, insegnante, programmatore, ingegnere, avvocato o medico) viene generata l’azienda o l’ente: nome, dimensioni, se è regolare o in nero, se c’è un sindacato, il tuo capo e da 4 a 8 colleghi con un tratto e un rapporto; uno di loro è il tuo rivale.<br><b>Rendimento:</b> ogni mese si muove verso un obiettivo che dipende dalla tua abilità nel mestiere, dalle tue ore, dal rapporto con il capo, dalla certificazione, dall’anzianità, dallo stress e dalla salute. Ogni 6 mesi c’è una valutazione con bonus, aumento, richiamo o licenziamento.<br><b>Promozioni:</b> ogni mestiere ha la sua scala di ruoli. Sali solo quando si libera un posto reale; ti candidi con una probabilità visibile. Alcuni ruoli richiedono una certificazione (la specializzazione per il medico specialista, per esempio).<br><b>Condizioni reali per paese:</b> orario legale, pagamento degli straordinari, ferie, tredicesima, indennità, sindacati e lavoro in nero. Guarda la scheda Condizioni.<br><b>E inoltre:</b> offerte della concorrenza da usare per negoziare, chiedere un aumento, turni di notte, incidenti nei mestieri a rischio, stress ed esaurimento, e conversazioni con conseguenze (coprire un turno, voci di tagli, un capo che umilia, pettegolezzi, progetti urgenti).
+0edbeb	È il massimo di ore settimanali che la legge consente come orario normale. La maggior parte dei paesi usa 40 ore; il Messico 48 (è in arrivo una riforma per portarle a 40); la Francia 35.
+d8de10	Nel gioco, le ore del tuo paese stabiliscono quanto vale ogni ora di straordinario.
+6dd758	Il lavoro oltre l’orario legale si paga con una maggiorazione: in Messico il doppio; negli USA 1.5 volte. Alcuni paesi non fissano maggiorazioni e le lasciano ai contratti.
+56fc3e	Con «Straordinari» lavori circa 8 ore in più a settimana: salgono rendimento, stress e stipendio.
+06fcb6	Giorni di riposo retribuiti. Variano molto: gli USA non li impongono; il Brasile ne dà 30; il Messico 12 il primo anno, che aumentano con l’anzianità.
+f01b1d	Ogni settimana di ferie ti dà tempo libero e abbassa molto lo stress. Nel lavoro in nero non è pagata.
+525dce	Pagamento annuale aggiuntivo obbligatorio in molti paesi: in Messico almeno 15 giorni di stipendio a dicembre; in Brasile e Argentina un mese intero; in Spagna due mensilità extra.
+b22979	La ricevi a fine anno se il tuo lavoro è regolare, in proporzione ai mesi lavorati.
+ee390f	Compenso che l’azienda paga quando ti licenzia senza giusta causa. In Messico sono 3 mesi di stipendio più 20 giorni per anno lavorato; negli USA non è obbligatoria.
+ecd03b	Se ti licenziano da un lavoro regolare, la ricevi secondo la legge del tuo paese e la tua anzianità.
+b86f21	Un sindacato negozia per conto dei lavoratori: salari, orari e condizioni (contratto collettivo). Nei paesi nordici più della metà dei lavoratori è iscritta; in Messico circa il 12 %.
+439ff4	Se nel tuo lavoro c’è un sindacato, ogni anno si firma un contratto collettivo che aumenta lo stipendio di tutti. Iscriversi costa l’1 % dello stipendio e ti dà qualcuno a cui rivolgerti in un conflitto.
+03d7a7	Lavoro senza contratto né previdenza sociale. In Messico è più della metà dell’occupazione; nei paesi ricchi meno del 15 %. È più comune nei campi, nell’edilizia e nei piccoli servizi.
+17d657	Un lavoro in nero non dà tredicesima, ferie pagate né indennità, e quasi mai ha un sindacato.
+2401f3	Un lavoro regolare è registrato: versi i contributi (sanità, pensione, casa) e hai i diritti della legge sul lavoro.
+231617	Si decide all’assunzione, in base al paese e al mestiere.
+816484	Le aziende valutano il personale per obiettivi, ore, qualità e modo di trattare gli altri. Una buona valutazione porta aumenti; diverse cattive, il licenziamento.
+069402	Ogni 6 mesi c’è una valutazione: 80 o più è eccellente (bonus e aumento), 65 buona, 50 discreta, sotto 50 scarsa (richiamo). Con 2 richiami e un’altra valutazione scarsa, ti licenziano.
+f86001	Lo stress cronico riduce produttività e salute. L’esaurimento estremo (burnout) è riconosciuto dall’OMS come fenomeno lavorativo.
+c2daff	Sale con straordinari, turni di notte e mestieri a rischio; scende con le ferie e la buona convivenza. Sopra 85 cominci a perdere salute.
+05359d	Il tempo che hai passato in azienda. In molti paesi aumenta le ferie, l’indennità e le possibilità di promozione.
+03c767	Si somma al tuo rendimento e alla probabilità di ottenere un posto vacante.
+6e9fb5	I turni notturni e a rotazione alterano il sonno e aumentano la stanchezza; in alcuni paesi sono pagati meglio.
+0343a4	I turni di notte e a rotazione aumentano lo stress ogni mese.
+d324ed	La scala dei ruoli di un mestiere. Per salire serve un posto vacante reale: qualcuno va in pensione, si dimette, viene licenziato o l’azienda cresce.
+fdc66f	Quando si libera un posto puoi candidarti. La probabilità dipende da rendimento, anzianità, certificazione, rapporto con il capo e livello del tuo rivale.

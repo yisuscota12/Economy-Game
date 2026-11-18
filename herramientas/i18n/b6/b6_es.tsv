@@ -1,0 +1,540 @@
+04aa40	<ul><li><b>Partidas:</b> 10 ranuras (Más → 💾 Partidas guardadas). La partida en juego se guarda sola en su ranura cada año y al salir de la app; «Guardar ahora» fuerza el guardado. 📤 copia una partida como texto para pasarla a otro teléfono o computadora.</li>\n<li><b>Dificultad:</b> 🌱 Fácil (+12 puntos en cada tirada, +15 % de ingresos, −10 % de gastos, menos guerras contra tu país, ayudas encendidas), ⚖️ Medio (calibrado con datos reales) y 🔥 Difícil (−10 puntos, −10 % de ingresos, +10 % de gastos, IA más agresiva). Se cambia en Ajustes.</li>\n<li><b>Temas:</b> Noche, Deportivo, Corporativo, Amigable, Retro, Medieval y Dinámico (Ajustes → Tema).</li>\n<li><b>Vista:</b> automática (al girar el teléfono se usa el diseño horizontal: mapa grande a la izquierda y las pantallas a la derecha), siempre vertical o siempre horizontal.</li></ul>
+554a2e	<b>Al crear la partida eliges un nivel:</b> 🌱 Fácil, ⚖️ Medio o 🎓 Realista. En «⚙️ Más opciones» puedes combinar el modo (Rápido o Realista) y la dificultad como antes: eso aparece como «Personalizado».\n<ul><li><b>Fácil:</b> el menú Más muestra primero lo básico y abre lo demás con tu avance (Bancos y empresas a los 18 años, la Bolsa con ahorros de un año de salario medio…); el aviso «🔓» te dice cuándo. En Ajustes puedes mostrar todo desde el inicio.</li>\n<li><b>Primera vez:</b> cada pantalla importante se explica con una tarjeta corta y un «¿Sabías que…?» con fuente.</li>\n<li><b>Te conviene:</b> arriba del mapa aparece el siguiente paso sugerido; tócalo para ir a la pantalla, o ✕ para ocultarlo este año.</li>\n<li><b>Tu año en números:</b> cada año el historial resume ingresos, gastos y cómo cambió tu patrimonio, y explica por qué.</li>\n<li><b>Avisos:</b> si tienes en un banco riesgoso más de lo que cubre el seguro de depósitos, te avisa antes de que pase algo.</li>\n<li><b>📖 Glosario</b> (Más): términos de economía y finanzas; en Fácil aparecen subrayados en las pantallas de dinero y del país.</li></ul>
+2732b8	<b>En todos los niveles se aprende algo real</b>, con más o menos detalle:\n<ul><li><b>💡 ¿Sabías que…?</b> arriba de cada pantalla (dinero, carrera, país, gobierno, guerra, deportes): un dato real con su fuente. Toca el dato para ver otro; toca el título para plegarlo.</li>\n<li><b>📖 Glosario</b> (Más): 42 términos por categoría y con buscador. En Fácil y Medio aparecen subrayados en las pantallas; en Realista se encienden en Ajustes.</li>\n<li><b>⚖️ Medio:</b> cada año, «Tu año en números» con la causa de lo que pasó con tu patrimonio; en Finanzas, «🔎 Por qué» con cuánto ahorras.</li>\n<li><b>🎓 Realista:</b> además, la inflación del año y lo que más pesó, tu ingreso contra los precios, impuestos con tasa efectiva, el rendimiento real de tus cuentas y el costo real de tus créditos, y por qué el banco central movió su tasa. En Finanzas, «🔎 Por qué» con los tramos de impuestos y las tasas reales.</li>\n<li><b>🌱 Fácil:</b> tarjetas de primera vez también en gobierno y guerra, y <b>🎯 retos</b> cortos con su logro.</li>\n<li><b>📚 Al morir:</b> las decisiones clave de tu vida, los conceptos que usaste (tócalos para ver su definición) y un consejo para la próxima.</li></ul>\nTodo se apaga o se enciende en Ajustes → 🎓 Aprender.
+1a8fcf	<b>Ya no hay tope de empresas</b>, pero sí de atención: puedes dirigir en persona hasta 5; desde la 6.ª, todas pierden reputación cada mes hasta que las agrupes.\n<ul><li><b>🛒 Empresas en venta</b> (Mis empresas): negocios de tu país con historia real. Revisa las cifras con una <b>auditoría</b> antes de ofrecer: algunas esconden deudas o inflan sus ventas. Ofreces 80, 90 o 100 % del precio y el dado decide; puedes pagar la mitad con crédito (queda como deuda de la empresa).</li>\n<li><b>🏛️ Grupos:</b> reúne empresas, contrata un director (crecimiento, eficiencia o conservador) y aprovecha las sinergias entre empresas del mismo giro. Barre la caja de sobra hacia tu dinero o muévela a la empresa que la necesite.</li>\n<li><b>🏢 Control en bolsa:</b> en la ficha de una empresa de la Bolsa, lanza una <b>OPA</b> por el 51 % con prima de 20, 30 o 40 %. Con el control eliges su estrategia y su director; los dividendos llegan a tu dinero.</li></ul>
+304b5e	<b>Tus empresas mueven la economía y la economía mueve a tus empresas.</b>\n<ul><li><b>🌐 Aporte:</b> en la ficha de cada empresa ves su valor agregado (ventas − insumos), el efecto en proveedores y sueldos (multiplicador), los empleos, los impuestos y qué parte del PIB de la provincia y del país representa. Cada año ese aporte entra al PIB de la provincia.</li>\n<li><b>🔗 Cadena:</b> tus insumos siguen el precio mundial; si una empresa tuya produce el insumo de otra tuya, te sale 10 % más barato. Una quiebra deja desempleo en la provincia y pérdidas en los bancos.</li>\n<li><b>🏭 Sectores:</b> en País → Economía cada sector tiene su salud (50 = normal) con sus causas; mueve la demanda de tus empresas y la Bolsa.</li>\n<li><b>🤝 Vender:</b> en la ficha de tu empresa, «Vender» abre la negociación con tres compradores.</li>\n<li><b>🛒 Otros países:</b> en Empresas en venta elige el país; pagas 3 % de trámites.</li>\n<li><b>🏢 Mapa:</b> el modo 🏢 pinta la actividad económica de cada provincia y marca tus empresas (el color del marco es su grupo).</li></ul>
+33adf7	<b>Todo está conectado: una crisis empieza en un lugar y se contagia.</b>\n<ul><li><b>🩺 Medidores:</b> en Más → 🩺 Salud de la economía cada empresa, banco, gobierno y organización tiene un medidor de 0 a 100 con lo que lo sube y lo que lo baja. Tócalo para ver sus causas.</li>\n<li><b>💵 Empresas:</b> salud financiera (margen, reputación, crecimiento, deuda) y social (sueldos, carga de trabajo, pérdidas, sector y provincia), y cuántos meses de gastos cubre su caja.</li>\n<li><b>🏦 Bancos:</b> lo que mueve su salud este año y la probabilidad de una crisis bancaria.</li>\n<li><b>💰 Gobierno:</b> salud fiscal (deuda, tasas, reservas) y social (aprobación, estabilidad, felicidad, consumo).</li>\n<li><b>🧨 Riesgo:</b> el riesgo sistémico de cada país, su cadena de contagio y los vecinos en crisis. El modo de mapa 🩺 lo pinta en todo el mundo.</li>\n<li><b>👨‍👩‍👧 Personas:</b> tu familia, tus amigos y tú trabajan en un sector: si cae, hay recortes y despidos; si va bien, aumentos. Puedes ayudar con dinero a quien busca empleo.</li></ul>
+81014b	<b>Toca el mapa:</b> al tocar una provincia aparece una burbuja con su población, su PIB por persona y su felicidad, más los botones para actuar desde ahí (mudarte, invertir, abrir un negocio, construir, mover tu ejército o hacer diplomacia, según tu situación). Si tocas el nombre de una ciudad, la burbuja es de esa ciudad.\n<ul><li><b>📋 Ficha:</b> pestañas Provincia (datos, recursos, edificios, tus intereses y todas las acciones), País (gobierno, economía, su bolsa y su liga) y Ciudades (habitantes y clubes).</li>\n<li><b>ⓘ Explicar:</b> agrega debajo de los datos qué significa cada uno en el mundo real y en el juego. Se queda encendido hasta que lo apagues.</li>\n<li><b>✏️:</b> en la ficha de un país, un club, una empresa de bolsa o tu empresa puedes cambiarle el nombre ahí mismo.</li>\n<li><b>Avance automático:</b> mientras corre, una barra muestra cuánto falta para cerrar el mes y qué viene (pelea, final, evaluación, una conversación por vencer, elecciones o año nuevo). Tócala para pausar.</li>\n<li><b>👥 junto al reloj:</b> el punto de color resume tu vida social (verde buena, ámbar estable, rojo tensa). Tócalo para ver tus conversaciones pendientes.</li></ul>
+a95a04	<b>Tus ejércitos en la burbuja:</b> toca una provincia donde tengas tropas y cada ejército tuyo aparece como un botón, con sus soldados y una barra de moral (verde, ámbar o roja). Tócalo para elegirlo: queda marcado también en el mapa.\n<ul><li><b>Órdenes:</b> debajo aparecen las del ejército elegido: 🎯 Mover, 🤖 Automático, ✂️ Dividir, 🔗 Unir aquí, 💰 Saquear y 🧲 Reagrupar. Son las mismas de la ficha de abajo del mapa.</li>\n<li><b>🎯 Mover:</b> la burbuja se cierra y un aviso arriba del mapa te pide tocar la provincia destino; «Cancelar» lo deshace.</li>\n<li><b>Íconos y animaciones:</b> en Ajustes eliges el estilo de íconos (Juego, Línea o emoji del sistema) y si quieres una animación corta al conseguir un logro, un ascenso o una victoria.</li></ul>
+a2393f	<b>Arrastra tus ejércitos:</b> mantén presionado el marcador de tu ejército en el mapa (un instante, hasta que aparece la línea) y, sin soltar, llévalo a la provincia destino. Una etiqueta muestra el nombre de la provincia; al soltar recibe la misma orden que «🎯 Mover».\n<ul><li><b>Cancelar:</b> suelta sobre la misma provincia o fuera del mapa.</li><li><b>Mover el mapa:</b> si arrastras de inmediato (sin mantener), el mapa se desplaza como siempre; con dos dedos haces zoom.</li>\n<li><b>Sonido y efectos:</b> en Ajustes eliges volumen (o apagado), música y partículas (monedas, confeti, chispas de batalla).</li></ul>
+4fbd3f	<ul><li>El mundo corre por horas: la hora aparece junto a la fecha (a. m. / p. m.) y el mapa y tu escena se oscurecen de noche.</li>\n<li>Cada acción muestra dos costos: ⏳ días de tu tiempo libre del año (la constancia que exige ese hábito) y 🕗 las horas que toma hoy. Si una acción cruza la medianoche, el mundo avanza un día.</li>\n<li><b>Por franja:</b> 🌅 de 5 a 9 a. m. puedes correr al amanecer; el médico atiende de 8 a. m. a 7 p. m.; 🌙 de 7 p. m. a 3 a. m. puedes salir de noche (diversión, contactos, pareja… y algún riesgo); buscar pareja rinde más de noche; estudiar de madrugada cuesta concentración.</li>\n<li><b>Dormir:</b> desde las 8 p. m. puedes dormir hasta las 7 a. m. Si pasas la medianoche despierto te desvelas: pierdes salud y ánimo cada noche seguida hasta que duermas. De día solo hay siesta.</li>\n<li>Con la unidad <b>Hora</b> el reloj avanza de hora en hora; Día, Semana, Mes y Año conservan la hora actual.</li></ul>
+61a608	<b>Avance automático:</b> junto a la fecha, ▶ pone el tiempo a correr solo y ×1, ×2 o ×5 cambia la velocidad (1, 2 o 5 días por segundo). Se detiene solo ante diálogos, eventos, ofertas, peleas, finales y noticias importantes. Los botones de Hora, Día, Semana, Mes y Año siguen funcionando igual.\n<ul><li><b>Conversaciones pendientes (💬):</b> las de familia, amigos, trabajo, negocios y fama ya no te interrumpen: esperan hasta 30 días. Al llegar su plazo aparecen solas; ignorarlas tiene consecuencias.</li>\n<li><b>Tu vida social:</b> tus relaciones cercanas mueven tu ánimo cada mes, así que lo que decides en cada conversación sigue contando después.</li>\n<li><b>Divisa:</b> toca el código de moneda bajo tu dinero (o Ajustes) para ver todo en la moneda que quieras.</li>\n<li><b>Renombrar (Más → ✏️ Renombrar):</b> países, empresas, bancos, clubes, ligas, organismos, promotoras y secretarías.</li></ul>
+a04705	La barra de abajo (Acciones, Carrera, avanzar, Nación, Más) está <b>siempre visible</b>, aunque tengas una pantalla abierta: el botón iluminado indica en qué sección estás; tócalo otra vez para cerrar.\nToca cualquier <b>ⓘ</b> o una etiqueta <u style="text-decoration-style:dotted">subrayada</u> para ver qué es en el mundo real y para qué sirve en el juego. También puedes <b>mantener presionado</b> cualquier pestaña o botón. Puedes ocultarlas en Ajustes.
+eab09d	<b>Tres tipos de partida:</b> Híbrido (de persona a gobernante), Vida (solo persona; el país lo maneja la IA) y Líder (empiezas como jefe de Estado). <b>Reloj:</b> avanza por Día, Semana, Mes, Año o 5 años; se detiene solo ante decisiones importantes. Vives una vida año por año en el mundo real de 2026 (175 países, ~3,400 provincias, datos del Banco Mundial, FMI, OIT, OMS y SIPRI). Cada vez que tocas <b>+1 AÑO</b> envejeces, el mundo avanza (economía, elecciones, guerras de todo el mundo mes a mes) y pueden aparecer eventos con decisiones.<ul><li><b>Vista 👤 Personaje:</b> tu vida: estudios, trabajo, dinero, familia, salud, ambición.</li><li><b>Vista 🏛️ País:</b> cuando gobiernas, administras la nación: provincias, ejército, economía, diplomacia y guerra.</li><li>Las dos vistas comparten la misma partida: puedes empezar como bebé y terminar gobernando un imperio.</li></ul>
+f84b94	Cada acción cuesta <b>días de tu tiempo libre</b> (120 al año; se recupera ~10 por mes): estudiar ~30 días, gimnasio ~20, una cita ~5, contactos ~10, una campaña ~45. Repetir la misma acción en el año rinde menos (rendimientos decrecientes). Cada una mueve tus atributos: salud, felicidad, inteligencia, apariencia e influencia.<ul><li><b>Carrera:</b> empleos y trayectorias (política, militar, empresa, fama). Subes de rango con años de experiencia, inteligencia e influencia.</li><li><b>Estudios:</b> escuela (calificaciones, clubes), universidad y posgrados; abren mejores carreras.</li><li><b>Ambición:</b> eliges una meta de vida; cumplirla da puntos de legado.</li></ul>
+2dd3f9	Tu ingreso usa el salario medio real de tu región. En modo Realista hay impuestos, inflación, préstamos, hipoteca y bancarrota.<ul><li><b>Negocio propio:</b> cuatro tipos, se mejora por niveles; su ingreso depende de la economía de la provincia y de la suerte.</li><li><b>Inversiones en provincias:</b> “negocio” (rinde ~1.5× el crecimiento de la provincia, con riesgo de quiebra del 4 % anual) o “inmueble” (sigue crecimiento + inflación y paga renta del 3 %).</li><li><b>Fama:</b> carreras de streamer, actuación, música o deporte; la fama alta da ingresos muy altos e influencia.</li></ul>
+451edb	<b>Bolsa (Más → 📈 Bolsa de valores):</b> 32 bolsas reales con sus índices (S&P 500, IPC, Ibovespa, DAX, Nikkei…) y más de 100 empresas ficticias inspiradas en compañías reales. Los precios avanzan día a día con el reloj; al saltar años, lo lejano se simula por semanas y los últimos seis meses día por día.<ul>\n<li><b>Por qué se mueven:</b> crecimiento e inflación del país, tasas del banco central, guerras, recesiones, sanciones, golpes de Estado, crisis cambiarias, resultados trimestrales de cada empresa y el ánimo del mercado (si las valuaciones se inflan, sube el riesgo de un crac).</li>\n<li><b>Gráficas:</b> velas o línea de 1 mes a 20 años, medias móviles y volumen. Toca la gráfica para ver apertura, máximo, mínimo y cierre.</li>\n<li><b>Órdenes:</b> a mercado, límite (precio máximo de compra o mínimo de venta) y stop (para cortar pérdidas). Vencen en 90 días de bolsa. Comisión 0.1 % (+0.25 % si cambias de moneda).</li>\n<li><b>Margen y cortos:</b> con cuenta de margen (21 años) te prestan hasta la mitad de lo que compras y puedes vender en corto. Si tu capital cae del 25 % (30 % en cortos), hay llamada de margen y el corredor vende por ti.</li>\n<li><b>Dividendos e impuestos:</b> los dividendos se cobran cada trimestre; en Realista pagas impuesto a las ganancias de bolsa según tu país (México 10 %, EE. UU. 15 %, Suiza 0 %…).</li>\n<li><b>Salida a bolsa:</b> si tu negocio es empresa grande con utilidades, puedes vender 20–40 % al público (Bienes o Bolsa → Cartera). Su precio sigue a tus resultados; desde entonces solo cobras tu parte de las utilidades.</li></ul>\n<b>Monedas:</b> tu dinero está en la moneda de tu país (Ajustes permite verlo en dólares). El tipo de cambio sigue la inflación de cada país frente a la de EE. UU. más un desvío que mueven tasas, impresión de dinero y crisis. Al emigrar o si tu país es anexado, tus ahorros se convierten al tipo del día. Los tipos fijos pueden sufrir ataques especulativos; las monedas con mucha inflación acaban quitando ceros o cambiando de nombre (Irán tiene programado quitar cuatro ceros en 2028).<br>\n<b>Si gobiernas (País → Economía):</b> banco central autónomo o bajo tu control, tasa de referencia, régimen cambiario (flotar, fijo, caja de conversión), imprimir dinero, quitar ceros, plan de estabilización, dolarizar, adoptar el euro (si eres de la UE y cumples los criterios), salir de una unión monetaria y controles de capital.
+915101	<b>Mis empresas (Más → 🏪):</b> 28 giros, de un puesto de comida a una fábrica, una mina o un pozo petrolero. Cada mes la empresa vende según la demanda (población, economía, turismo, tasas, reputación, precio y mercadotecnia), paga insumos (que siguen al precio del trigo, maíz, café, petróleo, acero, cobre u oro), nómina con prestaciones, renta, intereses e impuestos reales del país; lo que reparte llega a tu dinero.<ul>\n<li><b>Decisiones:</b> precio, calidad, sueldos, mercadotecnia, reparto, empleados, sucursales, préstamos, aportar o retirar caja, vender, cerrar o salir a bolsa.</li><li><b>Estado de resultados</b> del último mes, de 12 meses y del año anterior, con gráfica de ventas y utilidad y consejos según lo que pasa.</li>\n<li><b>Quiebra:</b> si las deudas superan lo que vale la empresa, cierra.</li></ul>\n<b>Recursos (mapa ⛏️):</b> 14 materias primas con la producción real de cada país repartida en sus provincias según el terreno. Los precios suben si falta oferta (guerras, ocupación, prohibiciones de exportar) y caen cuando la economía mundial se frena; el oro sube con el miedo. Cambian el crecimiento de los países exportadores, la inflación mundial, las acciones de energía y minería y los costos de tus empresas. Conquistar provincias con yacimientos te da su producción.<br>\n<b>Inversiones (📈 Bolsa):</b> fondos indexados, materias primas (con almacenaje) y bonos de gobierno a 10 años (intereses mensuales, riesgo de tasas y de moratoria).<br><b>Si gobiernas:</b> nacionalizar o reprivatizar el petróleo y la minería y prohibir exportaciones (País → Economía).
+b028e8	<b>Corporativo (Carrera):</b> de Becario a Director general de una empresa que cotiza en tu bolsa. El sueldo de los directivos crece con el tamaño de la empresa. Como Director general tomas una decisión al año (expansión, recorte, recompra, dividendo, I+D o adquisición) que mueve su acción; si la acción queda dos años por debajo del índice, el consejo te destituye.<br>\n<b>Finanzas:</b> de Analista junior a Director de inversiones en un banco o fondo. Desde Trader administras capital real (US$5 M a US$1,000 M): repartes el dinero entre acciones, materias primas, divisas y bonos, y el resultado sale de los precios del juego. Cobras bono sobre las ganancias; si pierdes más de 12 % en el año, te despiden. Puedes fundar tu propio fondo (2 % y 20 %).<br>\n<b>Preparación:</b> MBA (2 años, entras como Gerente o Asociado), certificación de analista financiero (3 niveles), curso de trading y diplomado en dirección.<br>\n<b>Servicios (Más → 🧑‍💼):</b> seguridad, escoltas, chofer, asistente, contador, abogado, asesor financiero, entrenador, nutriólogo, chef, personal doméstico y relaciones públicas, en tres niveles. El riesgo de secuestro y extorsión depende de tu patrimonio y de la violencia real de tu país.<br>\n<b>Barra de cotizaciones:</b> debajo de las noticias; tócala para elegir mercado (tu bolsa, Wall Street, mundo, divisas, materias primas) y plazo.<br>\n<b>Forex:</b> en Bolsa → Divisas compras y vendes monedas; tus depósitos ganan la tasa de su banco central.<br><b>Reservas (País → Economía):</b> divisas, oro y petróleo estratégico; intervenir en el tipo de cambio, comprar o vender oro, llenar o liberar la reserva de crudo.
+982d5f	<b>Bancos (Más → 🏦):</b> cajas populares, bancos regionales y nacionales de tu país, y bancos internacionales, MEGA y GIGA del mundo, además de banca privada para patrimonios grandes. Los chicos pagan más intereses, pero quiebran más; el seguro de depósitos cubre hasta 25 salarios medios por banco. Tu historial crediticio (300–850) define tasa y monto de tus créditos.<br>\n<b>Fondos:</b> de dinero, conservador, balanceado, crecimiento, materias primas y de cobertura; rinden lo que hacen sus activos en el juego, menos comisión.<br><b>Tu banco:</b> capital mínimo y licencia; fijas tasas, riesgo y reparto; crece de local a GIGA si lo haces bien, y puede sufrir corridas.<br>\n<b>Como país (País → Economía):</b> regulación, seguro de depósitos, banca de desarrollo, Banco Mundial, FMI (en crisis, con austeridad) y nacionalizar la banca. Las crisis bancarias llegan cuando la salud del sistema cae.<br>\n<b>Secretarías (País → Gabinete):</b> 14 secretarías con titulares de distinta capacidad, honestidad y lealtad; si gobiernas, nombras y das directivas. Como persona puedes entrar al servicio público (Carrera) y llegar a Secretario, también en modo Vida: tus directivas mueven al país.
+6eb3c7	<b>Amateur:</b> entrena por atributo (pegada, velocidad, defensa, resistencia, quijada, técnica; en MMA también lucha y sumisiones), haz sparring, pelea como amateur y entra a torneos: local, nacional, continental, mundial (años impares) y Juegos Olímpicos (cada cuatro años). Las medallas atraen a las promotoras.\n<ul><li><b>Profesional (18+):</b> firma con una promotora (local, nacional o global) o, en MMA, con una liga (circuito regional → Arena Global de Peleas → Liga Mundial de Combate).</li>\n<li><b>El mundo:</b> cada división tiene peleadores generados con nacionalidad, estilo, atributos, récord y potencial. Pelean entre ellos cada mes, ganan y pierden cinturones, se retiran y llegan prospectos.</li>\n<li><b>Organismos:</b> CMP, AGB, FIP y OMR (inspirados en los cuatro grandes del box). Cada uno tiene su campeón y su ranking; quien junta los cuatro es campeón indiscutido. El retador obligatorio es el número 1 del organismo.</li>\n<li><b>Ofertas y bolsas:</b> cada oferta trae rival, rounds, lugar en la cartelera, recinto y bolsa. Puedes aceptar, pedir más (+15 %, +35 %), porcentaje del pago por evento, cláusula de revancha o más campamento. La probabilidad depende de tu valor de mercado frente al del rival y de tu mánager; pedir de más puede tirar la pelea.</li>\n<li><b>Semana de la pelea:</b> campamento (cuesta días libres), equipo de esquina (cutman, preparador físico, nutriólogo), rueda de prensa y pesaje.</li>\n<li><b>La pelea:</b> round por round con salud, energía, cortadas, caídas, estadísticas y tres jueces con el sistema de 10 puntos. Entre rounds das instrucciones desde la esquina. Final por nocaut, nocaut técnico, sumisión, decisión unánime, dividida o mayoritaria, o empate.</li>\n<li><b>Salud:</b> el daño acumulado erosiona la quijada y la salud; después de un nocaut hay suspensión médica. Tu entrenador y tu familia te lo dirán.</li></ul>
+b77fa3	<b>Escuelas:</b> cada gimnasio enseña una (mexicana, estadounidense, cubana, soviética, británica, filipina; en MMA, Daguestán, jiu-jitsu brasileño, kickboxing holandés, muay thai y lucha universitaria). El dominio sube al entrenar y da ventajas en la pelea.\n<ul><li><b>Estilos:</b> se adquieren con afinidad; con 60 puedes cambiar y con 70 en un segundo estilo eres híbrido.</li>\n<li><b>Bloques y fatiga:</b> bloques de dos semanas con intensidad ligera, normal o dura; la fatiga baja 20 al mes y arriba de 45 aumenta el riesgo de lesión.</li>\n<li><b>Campamento:</b> antes de una pelea combina bloques físico, técnico y de sparring, y termina con afinamiento. Suma sesiones especiales como el análisis de video del rival.</li>\n<li><b>Amateur:</b> cada combate se registra; con puntos o con el campeonato nacional entras a la selección (beca y torneos internacionales).</li>\n<li><b>Bolsas:</b> las funciones locales y nacionales pagan según el mercado de cada país; las defensas obligatorias pueden ir a subasta (75/25).</li>\n<li><b>Negocios:</b> gimnasio propio (socios, entrenadores, peleadores) y promotora propia (carteleras, boletos, televisión). Siguen funcionando después de tu retiro desde el menú Carrera.</li></ul>
+b879b9	<b>Tu lugar de trabajo:</b> al conseguir un empleo común (mesero, obrero, vendedor, albañil, campesino, oficinista, servidor público, policía, técnico, profesor, programador, ingeniero, abogado o médico) se genera la empresa o institución: nombre, tamaño, si es formal o informal, si hay sindicato, tu jefe y de 4 a 8 compañeros con rasgo y relación; uno de ellos es tu rival.<br><b>Desempeño:</b> cada mes se mueve hacia un objetivo que depende de tu habilidad en el oficio, tus horas, la relación con tu jefe, tu certificación, tu antigüedad, tu estrés y tu salud. Cada 6 meses hay evaluación con bono, aumento, advertencia o despido.<br><b>Ascensos:</b> cada oficio tiene su escalafón. Solo subes cuando se abre una vacante real; te postulas con una probabilidad visible. Algunos puestos exigen una certificación (la especialidad para el médico especialista, por ejemplo).<br><b>Condiciones reales por país:</b> jornada legal, pago de horas extra, vacaciones, aguinaldo, indemnización, sindicatos e informalidad. Revisa la pestaña Condiciones.<br><b>Y además:</b> ofertas de la competencia que puedes usar para negociar, pedir aumento, turnos de noche, accidentes en oficios de riesgo, estrés y agotamiento, y conversaciones con causa (cubrir un turno, rumores de recorte, un jefe que humilla, chismes, proyectos urgentes).
+2f4310	<b>El mundo:</b> 12 ligas simuladas con clubes ficticios en ciudades reales (Inglaterra, España, Italia, Alemania, Francia, Portugal, Países Bajos, Brasil, Argentina, México, EE. UU. y Arabia Saudita; y la de tu país si juegas fútbol). Temporada europea (agosto–mayo), de año calendario, o Apertura y Clausura con liguilla en México. Ascensos y descensos, copas nacionales, Liga de Campeones de Europa, Copa de Campeones de América y Mundial de Clubes.\n<ul><li><b>Selecciones:</b> Mundial de 48 equipos (12 grupos, mejores terceros y dieciseisavos) cada cuatro años con sedes reales (2026 EE. UU./México/Canadá, 2030 España/Portugal/Marruecos, 2034 Arabia Saudita), Eurocopa, Copa América, Copa de Oro, Copa Africana y Copa Asiática.</li>\n<li><b>Tu carrera:</b> posición, 7 atributos y una media que depende de tu posición; fuerzas básicas, debut, rol (titular, rotación, suplente), minutos, goles, asistencias y calificación por partido; forma y confianza del entrenador.</li>\n<li><b>Fichajes:</b> ventanas de verano e invierno, valor de mercado, ofertas de traspaso, préstamos, cláusula de rescisión, renovaciones y agente libre. Puedes negociar sueldo y titularidad.</li>\n<li><b>Selección:</b> te convocan si tu media se acerca a la fuerza del equipo nacional. Juegas fechas FIFA y torneos.</li>\n<li><b>Finales:</b> si tu club o tu selección llega a una final, la juegas en pantalla: decides en los momentos clave y en los penales.</li>\n<li><b>Premios:</b> campeón de goleo, mejor jugador de la liga, mejor joven y Balón Dorado.</li></ul>
+331ab6	<b>Entrenadores:</b> cada club tiene un DT con estilo (posesión, presión alta, contragolpe, bloque bajo, juego directo o equilibrado) y calidad. Los destituyen por malos resultados y los clubes grandes se llevan a los que destacan.\n<ul><li><b>Encaje táctico:</b> si eres futbolista, tus atributos se comparan con los que pide el estilo de tu DT.</li>\n<li><b>Mercado:</b> clubes compradores, vendedores, de cantera y equilibrados; ventanas en verano (junio a agosto) y en enero. En ⚽ Fútbol mundial → Mercado ves fichajes, valores y el dinero de cada liga.</li>\n<li><b>Tu club:</b> cómpralo o fúndalo desde el menú Carrera o desde ⚽ Fútbol mundial. Decides la masa salarial, el precio de los boletos, los fichajes y quién dirige.</li>\n<li><b>Instalaciones:</b> amplía el estadio (con permiso de obra), construye el centro de entrenamiento y abre una academia.</li>\n<li><b>Licencias:</b> con la licencia adecuada puedes dirigir tú mismo a tu club.</li></ul>
+294f55	<b>Un mundo por carrera:</b> al empezar en música, actuación, creación de contenido, modelaje, comedia, escritura, cocina o como DJ se genera su industria: unas 60 figuras con nombre, país, estilo, nivel y público; compañías ficticias de cuatro tamaños (independiente, nacional, grande y multinacional); una lista mensual de éxitos, un ranking y un premio anual.\n<ul><li><b>Atributos:</b> cinco por oficio, con distinto peso en tu nivel. Practicas uno a la vez y también aprendes trabajando y presentándote.</li>\n<li><b>Obras:</b> eliges tipo y tamaño de producción, trabajas sus sesiones (cada una con calidad variable), la lanzas con promoción y recibes crítica, respuesta del público, puesto en la lista y una gráfica de su vida mes a mes. En actuación y modelaje primero tienes que ganar la audición o el casting.</li>\n<li><b>Dinero:</b> como independiente te quedas 70 % pero pagas todo y solo llegas a tu propio público. Una compañía te da anticipo, paga la producción y aporta su alcance, a cambio de quedarse la mayor parte: tus regalías (14–22 %) primero <b>recuperan el anticipo</b>, y hasta entonces no cobras.</li>\n<li><b>Contratos:</b> las ofertas llegan según tu fama (o toca puertas). Puedes negociar anticipo, regalías, duración y control creativo con probabilidad visible y dado.</li>\n<li><b>En vivo:</b> presentaciones con cuatro momentos de decisión y giras regionales, nacionales, continentales y mundiales por ciudades reales.</li>\n<li><b>Escena:</b> lista de éxitos, ranking, fichas de colegas (convive, colabora o provoca una rivalidad), historial de premios y noticias.</li>\n<li><b>Premios:</b> cinco nominados por categoría; si estás nominado, vives la ceremonia: alfombra, sobres y discurso. En cocina, además, la Guía Gourmet da o quita estrellas cada año.</li>\n<li><b>Reloj:</b> se detiene cuando llega una oferta, una presentación de gira o una ceremonia. En el avance rápido de 5 años tu equipo produce, lanza, firma y sale de gira por ti.</li></ul>
+8c3661	<b>Cómo empezar:</b> Carrera → Fama y espectáculo. Hay 11 carreras: música, actuación, fútbol, box, MMA, creador de contenido, modelaje, comedia, escritura, cocina y DJ. Cada una usa un atributo clave (apariencia, salud o inteligencia).\n<ul><li><b>Fans por territorio:</b> primero tu provincia, luego tu país y al final el mundo. Cada nivel tiene un techo (su población) y sin actividad los fans se van.</li>\n<li><b>Nivel y talento:</b> entrenar sube tu nivel; el talento natural (×0.7 a ×1.35) lo multiplica. Los primeros puntos son rápidos y los últimos muy lentos.</li>\n<li><b>Equipo:</b> entrenador gratis, regular, profesional o de élite (calidad-precio) y agente local, nacional o internacional (comisión de 10–20 %).</li>\n<li><b>Contratos:</b> llegan ofertas cada año según tu fama: anticipo, regalías, duración y alcance. Los escándalos pueden cancelarlos.</li>\n<li><b>Escándalos con causa:</b> publicaciones provocadoras, declaraciones, cancelar por agotamiento o plagio. El publicista (Servicios) reduce el daño; las causas sociales recuperan tu imagen.</li>\n<li><b>Premios y torneos:</b> Gramófono de Oro, Estatuilla Dorada, Pluma de Oro, Balón Dorado, cinturones mundiales, campeonatos de liga y la selección nacional.</li>\n<li><b>Tiempo completo:</b> sin otro empleo ni escuela, cada actividad de fama toma la mitad de días.</li></ul>
+68f13c	Abre <b>Más → Dinastía y herencia</b>.<ul><li>Tus hijos heredan inteligencia y apariencia (promedio tuyo y de tu pareja) y pueden tener un <b>rasgo</b>: Genio, Atlético, Carismático, Ambicioso, Astuto, Leal, Enfermizo o Rebelde.</li><li><b>Educación:</b> pública (gratis), privada o élite: cuesta cada año y sube su inteligencia.</li><li><b>Heredero:</b> por defecto el mayor; puedes nombrar a otro.</li><li><b>Testamento:</b> reparto igual o heredero principal (70 % y se queda casa y negocios). Se cobra el <b>impuesto a la herencia real</b> del país (p. ej. EE. UU. 40 % sobre lo que pase de ~$14 M; Japón 55 %; México 0 %).</li><li><b>Poder:</b> en monarquía absoluta o dictadura el heredero hereda el gobierno; si es menor, gobierna un regente hasta sus 18 (puede negarse a devolver el poder). En democracia, tu familia política da +10 de influencia.</li><li><b>Prestigio de la casa:</b> suma el legado de cada generación y da influencia inicial a los herederos.</li></ul>
+bd8024	Las situaciones no salen de un sorteo: aparecen porque <b>se cumplen sus causas</b> (tu relación con alguien, tus deudas, tu trabajo, la inflación o la estabilidad de tu país). Cada persona <b>recuerda</b>: relación, favores que te debe o le debes, rencores e historial; su <b>rasgo</b> (honesto, leal, generoso, ambicioso, codicioso, rencoroso) lo descubres al tratarla y decide cómo responde años después.<ul><li>Las opciones con 🎲 muestran su probabilidad de éxito según tu atributo contra la dificultad, y el dado es visible.</li><li>Las historias continúan: un préstamo se cobra al año, un soborno puede volver como investigación, una recomendación se paga o se cobra.</li><li><b>Suerte y mala suerte</b> van aparte, con probabilidades reales de tu país (p. ej. el riesgo de asalto usa la tasa de homicidios).</li><li>Ajustes → frecuencia: baja, normal o alta.</li></ul>
+449bca	<ul><li><b>Vía política:</b> carrera política, contactos y campañas; elecciones según el sistema real del país (periodo y reelección).</li><li><b>Vía militar:</b> sube de rango hasta General; con influencia y un régimen débil puedes intentar un golpe.</li><li><b>Herencia:</b> en monarquías absolutas y dictaduras, el poder pasa a tu heredero.</li><li>Gobernar da acciones nacionales cada año, decide guerras y abre la vista 🏛️ País.</li></ul>
+831746	Pestañas de la vista País:<ul><li><b>Resumen:</b> PIB, población, estabilidad, aprobación, tesoro y deuda.</li><li><b>Provincias:</b> felicidad, desarrollo, crecimiento y núcleos. Acciones: invertir en desarrollo, programa de crecimiento, festival, asimilar o liberar. Edificios: fábrica, escuela, hospital, fortaleza, puerto, granja, taller, biblioteca, armería, torre de vigía y depósito de suministros.</li><li><b>Economía:</b> presupuesto en porcentajes (ejército, investigación, bienestar…), impuestos, bonos y deuda con el FMI, tratados comerciales, embargos y tecnología.</li><li><b>Sistema de gobierno:</b> 9 sistemas (república, monarquía parlamentaria, tecnocracia, república autoritaria, monarquía absoluta, comunismo, fascismo, teocracia, junta militar) con bonos y penalizaciones; cambiar de sistema cuesta estabilidad.</li><li><b>Naciones formables:</b> 22 uniones históricas o regionales si controlas sus núcleos.</li></ul>
+901ab0	Si gobiernas o eres General, la guerra se juega <b>mes a mes</b>.<ul><li><b>Ejércitos:</b> tamaño real; calidad según el gasto por soldado; moral, abasto y desgaste. Toca un ejército y luego una provincia para moverlo (gasta puntos de movimiento del mes).</li><li><b>Terreno e invierno:</b> montaña, bosque, ríos y frío dan defensa y causan desgaste. Defender tu propio territorio da +20 %.</li><li><b>Asedios:</b> las provincias con guarnición o fortaleza tardan meses en caer; al caer quedan ocupadas.</li><li><b>Flechas de frente:</b> cada ejército en marcha dibuja su avance (dorado tuyo, rojo enemigo, azul aliado).</li><li><b>Resistencia:</b> las provincias ocupadas generan guerrilla; al ser invadido, un país decreta <b>movilización general</b> y forma divisiones de reclutas; las potencias rivales del agresor pueden enviar <b>armas y voluntarios</b>.</li><li><b>Paz:</b> la conferencia de paz reparte lo ocupado según los puntos de guerra. Un país capitula si pierde su capital y más de la mitad de su población (o está agotado); las potencias nucleares solo capitulan si pierden el 80 %.</li><li><b>Cansancio de guerra:</b> sube con pérdidas y ocupación; baja la estabilidad y empuja a la paz.</li></ul>
+d95ce3	Alianzas, pactos de no agresión, acceso militar, garantías, vasallos, ultimátum, regalos, insultos y llamado a las armas. La <b>opinión</b> de cada país depende de ideología, historia reciente y tus acciones. Los aliados entran a tus guerras con sus propios ejércitos (coaliciones).
+7e37cd	<ul><li>Arrastra para moverte, pellizca o usa +/− para el zoom, ⛶ para pantalla completa.</li><li><b>Modos de mapa</b> (barra de iconos): político, terreno, riqueza, población, felicidad, desarrollo, diplomacia, núcleos, gobierno, terreno militar…</li><li>Al acercar aparecen provincias, más ciudades, <b>carreteras reales</b> e iconos de edificios y puertos.</li><li>Toca una provincia para ver sus datos y acciones.</li><li><b>Ajustes:</b> efectos del mapa (agua, bordes, textura) y carreteras; <b>Más → Mapa ligero</b> para computadoras lentas.</li></ul>
+0df69b	<b>Rápido:</b> partidas ágiles, menos penalizaciones y una batalla por año fuera de la capa Mando. <b>Realista:</b> mortalidad real por edad y país, recesiones, inflación, impuestos y préstamos, guerras más largas y costosas.
+d09875	<ul><li>Invierte en educación temprano: la inteligencia abre casi todas las carreras.</li><li>Ten hijos y elige bien al heredero: la dinastía es tu verdadera partida larga.</li><li>Antes de una guerra, revisa terreno, invierno, abasto y alianzas del enemigo.</li><li>Un país feliz y desarrollado crece más; las provincias conquistadas sin núcleo se rebelan.</li><li>Usa ⏩ avance rápido de 5 años cuando no haya decisiones importantes.</li></ul>
+8476ec	Una empresa sana gana dinero (margen), crece, tiene buena reputación y debe poco frente a lo que vende. La liquidez —efectivo para pagar— importa tanto como la utilidad: muchas empresas rentables quiebran por quedarse sin caja.
+e246a0	0–100, con 50 de base: margen × 150, (reputación − 50) × 0.5, crecimiento de ventas × 60 y deuda frente a ventas × −15. Es la misma salud que usan los compradores al ofrecer por tu empresa. Abajo ves cuántos meses de gastos cubre su caja.
+e66719	Los empleados mal pagados o sobrecargados rinden menos, se van o protestan, y eso daña la reputación. Una empresa también depende de la salud de su sector y de su ciudad.
+0fd5f8	0–100, con 55 de base: sueldos (±12), carga de trabajo (−8 al tope, −6 con poco trabajo), reputación, pérdidas recientes (hasta −10), salud de su sector y demanda de la provincia. Bajo 30 hay malestar: la reputación baja 0.5 cada mes.
+e83276	Un gobierno puede endeudarse sin problema mientras su economía crezca más rápido que el costo de su deuda. Con mucha deuda y tasas altas, cada vez más impuestos se van en intereses.
+bc4dd1	0–100, con 60 de base: deuda pública (−35 a +15), costo de la deuda contra crecimiento más inflación, tesoro, reservas, inflación alta, programa del FMI, guerra y recesión. Bajo 35 se congelan los aumentos de los empleados públicos; bajo 15 hay recortes de plazas.
+050c35	Bancos, empresas y hogares están conectados por créditos, ventas y empleos: si un eslabón cae, puede arrastrar a los demás. Por eso los reguladores vigilan a los bancos grandes y exigen más capital.
+c73fc5	0–100 (más es peor), con 20 de base: bancos débiles, crisis activa (+25), deuda pública alta, sectores bajo 35, hogares en apuros, economía concentrada en un sector, vecinos en crisis o recesión y reservas que amortiguan. Cuando estalla una crisis bancaria, los bancos de los vecinos reciben un golpe proporcional al tamaño de esa economía.
+5fb9e3	El PIB de un lugar es la suma del valor agregado de sus empresas. Una empresa además compra a proveedores y paga sueldos que se gastan en otros negocios: es el efecto multiplicador.
+98c0d1	Valor agregado = ventas − insumos de los últimos 12 meses. «Con proveedores y sueldos» suma la mitad de los insumos que se compran en la región y 35 % de los sueldos. Cada año, el cambio de ese aporte entra al PIB de la provincia (70 %: el resto lo habría hecho la competencia) y mueve su PIB por persona, que a su vez mueve los sueldos de la provincia; si la empresa quiebra o cierra, se resta.
+1eacf6	Las empresas se venden entre sí. Por eso una crisis en un sector viaja a sus proveedores, y la quiebra de una empresa grande deja deudas impagas en los bancos y desempleo en su ciudad.
+080846	Tus insumos siguen el precio mundial de sus materias primas. Si una empresa tuya produce el insumo de otra tuya en el mismo país, ese insumo sale 10 % más barato (integración vertical). Si quiebras, la provincia pierde empleos y demanda por 12 meses y los bancos del país pierden 60 % de tu deuda.
+2fe629	Los sectores no se mueven igual: con tasas altas sufren la construcción y la tecnología; en recesión, el lujo; el petróleo caro ayuda a las petroleras y daña al transporte.
+f6855d	Cada mes cada sector de cada país se mueve hacia un objetivo: 50 + crecimiento, recesión, tasas, guerra, materias primas, bancos, quiebras y la salud de sus clientes. Mueve hasta ±12 % la demanda de tus empresas, las utilidades de las empresas de bolsa del país y la salud de sus bancos.
+7aa53c	Una empresa vale lo que alguien paga por ella: un competidor paga más porque gana clientes (sinergias); un fondo paga por los flujos; un particular suele ofrecer menos.
+ac6a5a	Tres compradores ofrecen según la salud de la empresa (margen, reputación, crecimiento y deuda). Aceptar es seguro; pedir +10 o +20 % tiene probabilidad visible. Si se niega, baja 3 % su oferta; a la segunda negativa se retira. Al venderla, su aporte al PIB se queda en la provincia.
+1e96c3	Comprar una empresa que ya funciona ahorra el arranque, pero el comprador sabe menos que el vendedor (información asimétrica): por eso existen las auditorías y por eso se negocia el precio.
+7d8926	Cada 6 meses aparecen negocios de tu país con 12 meses de historia real. Las cifras pueden estar maquilladas y algunas esconden deudas: la auditoría las revela. Ofreces 80, 90 o 100 % del precio con probabilidad visible; con prisa del vendedor sube la probabilidad. Con crédito pagas la mitad y la otra mitad queda como deuda de la empresa.
+15fadd	Los conglomerados reúnen empresas bajo una dirección común: ahorran costos y comparten clientes (sinergias), pero un mal director afecta a todas a la vez.
+f08e56	Puedes dirigir en persona hasta 5 empresas; desde la 6.ª, todas pierden reputación cada mes. En un grupo con director no: él cobra un sueldo (lo pagan las empresas) y, según su estilo, abre sucursales, recorta costos o paga deudas. Las empresas del mismo giro suman sinergias.
+181008	Quien tiene más de la mitad de las acciones con voto nombra al consejo y decide la estrategia. Para conseguirla se lanza una oferta pública con una prima sobre el precio.
+ba9d0d	Con el 51 % eliges estrategia (crecer, eficiencia o dividendos) y director. Crecer sube las utilidades y baja los dividendos; dividendos hace lo contrario. Si bajas del 50 %, pierdes el control. Solo un intento de OPA por empresa al año.
+43d9ec	Entender de dónde sale cada cifra (cuánto se lleva cada tramo de impuestos, cuánto suben los precios, cuánto rinde de verdad tu dinero) es lo que separa una decisión informada de una apuesta.
+c2a439	En Realista: impuestos por tramos con tu tasa marginal y efectiva, precios y poder de compra desde que empezaste a trabajar, y la tasa real de la tasa de referencia, tus cuentas y tus créditos. En Medio: cuánto ahorras y cuántos meses te duran tus ahorros.
+5274fc	Las metas cortas y concretas son más fáciles de cumplir que una meta grande y lejana: cada paso cumplido da información y motivación para el siguiente.
+6d7487	En Fácil, arriba del mapa aparece el siguiente reto (abrir una cuenta, ahorrar un año de salario, diversificar…). Al cumplirlo ganas su logro y un poco de felicidad. Se pueden apagar en Ajustes → 🎓 Aprender.
+67a448	Aprender por niveles (andamiaje) es como se enseña casi todo: primero lo esencial con apoyo, después más variables y menos ayuda. Así se entiende cada pieza antes de juntarlas.
+ab3a63	🌱 Fácil: reglas simples, más margen y ayudas; las opciones avanzadas se abren con tu avance. ⚖️ Medio: datos reales con reglas simples. 🎓 Realista: todas las mecánicas. En «Más opciones» puedes combinar modo y dificultad a tu gusto.
+dca45b	Entender unas pocas palabras (inflación, interés, patrimonio) basta para seguir la mayoría de las noticias de economía y tomar mejores decisiones con tu dinero.
+54989d	Cada término trae una definición corta y precisa. En el modo Fácil, los términos aparecen subrayados en las pantallas de dinero y del país: tócalos para leerla.
+b5c2b3	Los efectos de partículas (monedas, confeti, chispas) son una forma barata de dar «jugo» a un juego: el jugador siente que sus acciones tienen peso. Se dibujan en un lienzo aparte y solo mientras hay algo que mostrar, para no gastar batería.
+c9c007	Monedas cuando entra mucho dinero de golpe, confeti y estrellas en los logros, ascensos y victorias, y chispas con humo en las batallas que se ven en el mapa. En automático se apagan en equipos lentos.
+286aae	Todos los sonidos y la música se generan en el momento con osciladores y ruido filtrado (síntesis), como en las consolas antiguas: no hay archivos de audio que descargar.
+c10549	Elige el volumen (Bajo, Medio o Alto) o apágalo, y la música aparte. En iPhone el sonido empieza después de tu primer toque, porque Safari no deja sonar una página antes.
+756a9e	Los juegos usan un solo estilo de íconos para que cada cosa se reconozca de un vistazo, sin leer. game-icons.net es una colección libre de más de 4,000 íconos hechos por artistas voluntarios y se usa en muchos juegos de estrategia.
+a4df34	Juego (rellenos, por omisión), Línea (trazos finos) o los emoji de tu sistema. Al cambiar, la página se recarga y tu partida se guarda antes.
+cca52d	Una señal inmediata al lograr algo refuerza la sensación de avance: es una idea básica del diseño de juegos y de la psicología del aprendizaje.
+47f32b	Aparecen al conseguir un logro, un ascenso o una victoria. No detienen el juego ni tapan los botones; en automático se apagan en equipos lentos o con «reducir movimiento».
+5b2719	Cada provincia tiene su propia economía: el PIB por persona de Nuevo León es más del triple que el de Chiapas, aunque sean del mismo país. Por eso dónde vives, inviertes o abres un negocio cambia el resultado.
+b596ea	Toca cualquier provincia o ciudad del mapa: la burbuja muestra lo esencial y los botones para actuar desde ahí. «📋 Ficha» abre todo: provincia, país y ciudades. «ⓘ Explicar» agrega qué significa cada dato.
+7a15d7	En la vida real no todo se responde al instante: una llamada, un favor o una charla pueden esperar unos días, pero ignorarlos desgasta la relación.
+d640ac	Las conversaciones de familia, amigos, trabajo, negocios y fama esperan hasta 30 días sin detener el reloj. Al llegar su plazo aparecen solas; si las ignoras, la persona pierde 6 puntos de relación (y si es rencorosa, te guarda rencor).
+19fe1c	El Estudio de Desarrollo Adulto de Harvard, que sigue a cientos de personas desde 1938, encontró que la calidad de las relaciones cercanas predice la felicidad y la salud mejor que el dinero o la fama.
+6ccaa6	Cada mes, la relación media con tu pareja, hijos, padres, hermanos y amistades mueve tu ánimo (hasta 0.5 puntos al mes, hacia arriba o hacia abajo). Tres o más rencores lo bajan un poco más; sin nadie cercano, también baja.
+aa4833	Los organismos internacionales reportan en dólares para comparar países, pero tu poder de compra depende de la moneda en la que cobras y gastas. Un tipo de cambio convierte cantidades; no cambia lo que puedes comprar donde vives.
+0da157	Solo cambia cómo se muestran las cantidades. Tus ahorros siguen en la moneda de tu país, así que en otra divisa su valor sube o baja cuando se mueve el tipo de cambio.
+928334	Los países y las empresas sí cambian de nombre: Birmania pasó a llamarse Myanmar en 1989, Suazilandia pasó a ser Esuatini en 2018 y Turquía pidió que la llamen Türkiye en 2022; las empresas lo hacen al fusionarse o cambiar de imagen.
+4ff650	El nombre nuevo se ve en todo el juego (mapa, listas y noticias nuevas) y se guarda en tu partida. Puedes restaurar el original cuando quieras.
+1ba5bf	Cada entrenador tiene una idea de juego: posesión, presión alta, contragolpe, bloque bajo o juego directo. Unos estilos neutralizan a otros: la presión alta incomoda a los equipos de posesión, pero deja espacio para el contragolpe.
+d03645	El choque de estilos y la calidad del DT mueven poco la fuerza de cada partido. Cuando cambia el estilo, el plantel tarda unos meses en adaptarse. Toca un club en cualquier tabla para ver a su DT.
+476cab	Un jugador puede brillar con un entrenador y quedarse en la banca con otro: cada sistema pide cualidades distintas.
+c8f42d	Compara tus atributos con los que más valora el estilo de tu DT. Un buen encaje te acerca a la titularidad; cuando llega un DT nuevo, su confianza en ti empieza de cero.
+618328	Los clubes grandes compran figuras y venden caro; muchos clubes de Portugal, Países Bajos o Sudamérica viven de vender jugadores a las ligas ricas; otros apuestan por su cantera.
+3d5e9e	El modelo decide qué tan fácil vende un club, a qué precio y quién compra en cada ventana. Los clubes de cantera sacan juveniles con más potencial.
+f7b5e9	En el fútbol la fuerza del equipo sigue muy de cerca a lo que paga en sueldos: los estudios sobre las ligas europeas encuentran que la masa salarial explica la mayor parte de la posición en la tabla.
+df5f62	La masa salarial te coloca en la tabla de gasto de tu liga y la fuerza del equipo se acerca poco a poco a la que paga. Los sueldos de las figuras cuentan.
+e3a61c	Las ligas piden requisitos para competir: aforo mínimo del estadio, instalaciones de entrenamiento y finanzas en orden.
+577ea4	En primera división hace falta un centro de entrenamiento. Si tu club termina en zona de ascenso sin licencia, sube el siguiente; en primera, la liga te multa cada temporada.
+0daa1f	Para dirigir en las ligas profesionales se exige una licencia: en Europa la UEFA C, B, A y Pro, con cursos de varios meses.
+29cb28	Con la B diriges un club regional, con la A uno de segunda y con la Pro uno de primera. Tu fuerza como DT sube cada mes que diriges.
+66ea3e	Las obras grandes, como ampliar un estadio, necesitan permiso del ayuntamiento y pueden tardar o ser rechazadas.
+613c1d	El permiso cuesta 1 % de la obra y tarda de 2 a 4 meses; 15 % de las veces se rechaza. Solo puede haber una obra a la vez.
+f91cf1	Los entrenadores dividen la preparación en bloques de una a tres semanas con un objetivo (fuerza, acondicionamiento, técnica, sparring) y la afinan antes de la pelea. Entrenar sin descanso lleva al sobreentrenamiento: menos rendimiento y más lesiones.
+473d36	Cada bloque sube varias cualidades a la vez y suma fatiga. La intensidad cambia la ganancia, la fatiga y el riesgo de lesión, que ves antes de hacerlo. Si tienes pelea programada, los bloques cuentan para el campamento.
+dc9cdc	La fatiga acumulada se mide con la carga de entrenamiento, la variabilidad del pulso y el sueño. Si no se recupera, aparecen el sobreentrenamiento y las lesiones.
+f518ff	Baja 20 puntos al mes y mucho con «Descanso activo» o fisioterapia. Arriba de 45 sube el riesgo de lesión y reduce lo que ganas al entrenar; arriba de 70 llegas con menos energía a la pelea.
+78755f	Los equipos profesionales contratan especialistas: analistas de video, fisiólogos, nutriólogos, psicólogos deportivos y sparrings pagados. Los campamentos en altura (como los de Big Bear en California o los del Estado de México) buscan más glóbulos rojos.
+f991fb	Cada sesión cuesta dinero y días, y tiene un tiempo de espera. El análisis de video revela los atributos exactos de tu rival y suma técnica si tu plan es bueno contra su estilo.
+3d0047	Un campamento típico dura de 6 a 12 semanas: base física, técnica, sparring específico contra el estilo del rival y afinamiento con corte de peso al final.
+1fa92f	La calificación va de 0 a 5: un bloque físico, uno técnico, uno de sparring, terminar con afinamiento (corte de peso o descanso) y 4 bloques o más. Cada punto suma energía al empezar la pelea.
+a7d5cb	Cada país desarrolla una forma de pelear: la mexicana con presión y golpes al cuerpo, la cubana con defensa y juego de piernas, la soviética con fundamentos y jab; en MMA, la lucha de Daguestán, el jiu-jitsu brasileño, el kickboxing holandés y el muay thai.
+67ff90	Tu gimnasio enseña una escuela. El dominio (0–100) cambia cuánto sube cada atributo al entrenar y da ventajas en la pelea. Los rivales del mundo también tienen la escuela de su país.
+5b8dab	Un estilo no es fijo: muchos peleadores cambian con los años o según el entrenador. Los más completos combinan dos estilos.
+3d0e31	La afinidad sube al entrenar lo que el estilo necesita, con una escuela que lo enseña y al pelear con su plan. Con 60 lo puedes adoptar (dos meses de adaptación); con 70 en un segundo estilo eres híbrido.
+60397f	El box amateur olímpico se pelea a 3 rounds con puntuación de 10 puntos por round. Las federaciones nacionales llevan rankings y forman selecciones que reciben becas y concentraciones.
+55a4eb	Cada combate queda registrado. Los puntos del ranking nacional salen de tus victorias y medallas y bajan cada año; con el campeonato nacional o el top 2 entras a la selección: beca mensual y acceso a torneos internacionales.
+bca1d3	Empresas especializadas cuentan los golpes de cada pelea en vivo (lanzados, conectados, de poder, jabs). En las MMA se registran golpes significativos, derribos y tiempo de control.
+8e4981	Se suman todas tus peleas profesionales. En la noche de pelea las ves round por round con una gráfica de barras y un radar de atributos.
+2cdca9	Un gimnasio de box vive de las cuotas mensuales de sus socios; los entrenadores de peleadores profesionales suelen cobrar alrededor de 10 % de las bolsas.
+9c2fb4	Los socios dependen de la reputación, la cuota, el equipo y de tener entrenadores. Firmas prospectos que te dejan 10 % de sus bolsas y mejoran con la calidad de tus entrenadores.
+3b998c	Las promotoras pagan las bolsas y cobran boletos, derechos de televisión, pago por evento y patrocinios. Muchas funciones locales apenas salen tablas: el negocio está en desarrollar peleadores y en la televisión.
+9c0c28	Antes de cada función ves la proyección. La reputación sube con funciones llenas, victorias y títulos, y abre los niveles nacional e internacional y mejores contratos de televisión.
+5d803c	Cuando el campeón y su retador obligatorio no se ponen de acuerdo, el organismo abre una subasta entre promotoras: gana la oferta más alta y la bolsa se reparte según el reglamento, a menudo 70/30 o 75/25 a favor del campeón.
+f702ea	En este juego el reparto es 75/25. El resultado de una subasta no se negocia.
+0edbeb	Es el máximo de horas a la semana que la ley permite como jornada normal. La mayoría de los países usa 40 horas; México, 48 (hay una reforma en camino para bajarla a 40); Francia, 35.
+d8de10	En el juego, las horas de tu país definen cuánto vale cada hora extra.
+6dd758	Lo que trabajas por encima de la jornada legal se paga con recargo: en México, al doble; en EE. UU., 1.5 veces. Algunos países no fijan recargo y lo deja a los contratos.
+56fc3e	Con «Horas extra» trabajas unas 8 horas más por semana: sube tu desempeño, tu estrés y tu sueldo.
+06fcb6	Días de descanso con sueldo. Varían mucho: EE. UU. no obliga a darlas; Brasil da 30 días; México da 12 el primer año y suben con la antigüedad.
+f01b1d	Cada semana de vacaciones te da tiempo libre y baja mucho tu estrés. En un empleo informal no se pagan.
+525dce	Pago anual adicional obligatorio en muchos países: en México, al menos 15 días de sueldo en diciembre; en Brasil y Argentina, un mes completo; en España, dos pagas extra.
+b22979	Lo cobras al cerrar el año si tu empleo es formal, en proporción a los meses trabajados.
+ee390f	Compensación que la empresa paga al despedirte sin causa justificada. En México son 3 meses de sueldo más 20 días por año trabajado; en EE. UU. no es obligatoria.
+ecd03b	Si te despiden de un empleo formal, la recibes según la ley de tu país y tu antigüedad.
+b86f21	Un sindicato negocia en nombre de los trabajadores: salarios, horarios y condiciones (contrato colectivo). En los países nórdicos más de la mitad de los trabajadores está afiliada; en México, alrededor de 12 %.
+439ff4	Si hay sindicato en tu trabajo, cada año se firma un contrato colectivo que sube el sueldo de todos. Afiliarte cuesta 1 % de tu sueldo y te da a quién acudir en un conflicto.
+03d7a7	Trabajo sin contrato ni seguridad social. En México es más de la mitad del empleo; en los países ricos, menos de 15 %. Es más común en el campo, la construcción y los servicios pequeños.
+17d657	Un empleo informal no da aguinaldo, vacaciones pagadas ni indemnización, y casi nunca tiene sindicato.
+2401f3	Un empleo formal está registrado: cotizas a la seguridad social (salud, pensión, vivienda) y tienes los derechos de la ley laboral.
+231617	Se decide al contratarte según tu país y tu oficio.
+816484	Las empresas evalúan a su personal con metas, horas, calidad y trato. Una buena evaluación trae aumentos; varias malas, el despido.
+069402	Cada 6 meses hay evaluación: 80 o más es excelente (bono y aumento), 65 buena, 50 regular, menos de 50 baja (advertencia). Con 2 advertencias y otra evaluación baja, te despiden.
+f86001	El estrés crónico baja la productividad y la salud. El agotamiento extremo (burnout) es reconocido por la OMS como fenómeno laboral.
+c2daff	Sube con horas extra, turnos de noche y oficios de riesgo; baja con vacaciones y buena convivencia. Arriba de 85 empiezas a perder salud.
+05359d	El tiempo que llevas en la empresa. En muchos países aumenta tus vacaciones, tu indemnización y tus oportunidades de ascenso.
+03c767	Suma a tu desempeño y a tu probabilidad de ganar una vacante.
+6e9fb5	Los turnos nocturnos y rotativos alteran el sueño y aumentan el cansancio; suelen pagarse mejor en algunos países.
+0343a4	Los turnos de noche y rotativos suben tu estrés cada mes.
+d324ed	La escalera de puestos de un oficio. Para subir se necesita una vacante real: alguien se jubila, renuncia, lo despiden o la empresa crece.
+fdc66f	Cuando se abre una vacante puedes postularte. Tu probabilidad depende de tu desempeño, antigüedad, certificación, relación con tu jefe y del nivel de tu rival.
+545241	Una carrera artística se sostiene en un oficio (técnica), un público y una imagen. Los tres se construyen por separado.
+180ff1	Atributos, práctica, estilo, fans por territorio, redes, patrocinios y tu equipo.
+469a6c	El catálogo es el patrimonio de un creador: cada obra sigue generando ingresos años después de publicarse.
+1eea71	Proyecto en marcha, lanzamientos y la vida de cada obra con su gráfica.
+5d1bb1	Disqueras, estudios, editoriales, agencias y sellos financian, distribuyen y promueven a cambio de la mayor parte de los ingresos.
+d1f405	Tu contrato, las ofertas (con negociación) y las compañías por tamaño y prestigio.
+0f707d	Ninguna carrera ocurre sola: se compite por atención con cientos de colegas y las listas se renuevan cada semana.
+54ea66	Lista de éxitos, ranking, colegas, premios y noticias de tu industria.
+282b14	Para muchos artistas el directo deja más dinero que las obras grabadas; una gira es una empresa con costos enormes.
+4ef35a	Presentaciones sueltas y giras; ambas con momentos de decisión en pantalla.
+baba27	Los números de una carrera: obras, éxitos, público, premios e ingresos a lo largo del tiempo.
+b9837a	Estadísticas, ingreso por año, premios y retiro.
+f6b4b8	Cada disciplina combina habilidades distintas: en música importan la voz y la composición; en cocina, la técnica y el paladar.
+aeb24b	Tu nivel es el promedio ponderado. Cada tipo de obra usa dos atributos y cada decisión en vivo, uno.
+2459d2	El talento cuenta, pero el nivel se construye con miles de horas de práctica enfocada, mejor con un buen maestro.
+b62950	Sube sobre todo el atributo elegido; rinde menos conforme repites en el año y conforme te acercas a 100.
+eb53c6	El género define con quién compites y qué público te busca. Cambiarlo es posible, pero confunde a quien ya te seguía.
+c89b6f	Es tu etiqueta en listas y rankings; puedes cambiarla cuando quieras.
+f9c70a	Una obra pasa por preproducción, sesiones de trabajo, posproducción y lanzamiento. La calidad no es pareja: hay días buenos y malos.
+9a3ba7	Cada sesión cuesta días y suma calidad; al terminar eliges la promoción y la lanzas.
+3e5b56	Más presupuesto compra mejor equipo, estudio y tiempo, pero no garantiza un éxito.
+ca356e	Modesta, profesional o de gran escala: sube la calidad 0, 5 o 10 %. Con contrato, la compañía adelanta el costo y lo recupera de tus regalías.
+44b917	Actores y modelos no producen sus propias obras: compiten por papeles y campañas. La mayoría de las audiciones termina en un «no».
+3718c2	Probabilidad visible según nivel, fama y representación. Si te eligen, cobras honorarios y trabajas las sesiones.
+8d54a2	Casi todo lo que se publica alcanza su pico en las primeras semanas y luego decae; unas pocas obras se vuelven clásicos.
+49c08a	Cada obra arranca fuerte y se apaga a su ritmo (un sencillo rápido, un álbum o un libro más lento).
+58885f	El anticipo no es un regalo: es un pago adelantado de tus regalías. La compañía se cobra primero el anticipo y los costos; solo después recibes dinero («recuperar»).
+8f4d48	«Anticipo por recuperar» baja con lo que generan tus obras. Al terminar el contrato, lo no recuperado lo absorbe la compañía.
+d8eb8f	Las independientes dan libertad y mejor porcentaje; las multinacionales, dinero y distribución mundial. Tres o cuatro grupos concentran la mayor parte de cada industria.
+34b046	El alcance propio de la compañía se suma a tu público en cada lanzamiento.
+91feab	Porcentaje de los ingresos de una obra que corresponde a su creador. En música grabada ronda 15–25 %; en libros, 8–15 %.
+874e57	Tu parte de lo que generan tus obras cada mes.
+e18ad6	Mientras exista este saldo, tus regalías se quedan en la compañía.
+5fe798	Incluye el anticipo, la producción y la promoción que adelantó la compañía.
+d6e76d	Quien tiene el control creativo decide el contenido final de la obra. Las compañías grandes rara vez lo ceden a artistas nuevos.
+ae8ff3	Con control creativo tus obras ganan un poco de calidad.
+7af5de	Los contratos suelen medirse en obras entregadas, no solo en años.
+8ec927	Si el contrato termina y debes obras, tu imagen con la industria baja.
+92e261	Los pagos llegan periódicamente según el consumo real de tus obras.
+e48ddc	Lo que tu catálogo te dejó el mes pasado, después de recuperar anticipos.
+c6443c	Las listas ordenan las obras por consumo reciente (reproducciones, taquilla, ventas). Entrar al top 10 multiplica la exposición.
+c58005	Las 20 obras con más consumo del mes; las tuyas aparecen resaltadas.
+ee99cb	Además de las obras, se mide a las personas: público total, taquilla, cotización.
+61e943	Ordenado por público. Tu puesto aparece aunque estés fuera de los 30 primeros.
+201be2	Las colaboraciones juntan públicos; las rivalidades generan atención pero queman puentes.
+656634	Convive para subir la relación; con 25 o más puedes invitar a colaborar.
+183004	Los premios los votan academias o jurados del propio gremio; pesan la calidad, la campaña y el momento.
+951fde	Historial de ganadores. Si estás nominado, la ceremonia se vive en pantalla.
+75fec1	Los logros de una carrera se cuentan en obras, éxitos, público en vivo y premios.
+6371a2	Se actualizan cada mes.
+0e8276	Un futbolista profesional vive de su rendimiento: minutos, goles, calificaciones y la confianza de su entrenador definen su valor y su futuro.
+4b699d	Atributos, media, valor de mercado, contrato, temporada, entrenamiento y vestidor.
+48c9d4	Los clubes son empresas con presupuesto, estadio y afición; su fuerza deportiva suele seguir a su dinero.
+79037a	Tabla de tu liga, último partido, figuras del plantel y palmarés.
+6f5292	Los clubes compran y venden jugadores en las ventanas de transferencias (verano e invierno). El club que vende cobra un traspaso; el jugador negocia sueldo y años.
+6bf534	Ofertas de traspaso, préstamo o como agente libre; tu club decide si vende, salvo que paguen tu cláusula.
+fcc944	Ligas, copas nacionales, copas continentales y torneos de selecciones se juegan al mismo tiempo durante el año.
+ae5558	Tablas, grupos, rondas eliminatorias e historial de campeones.
+502e20	Velocidad, técnica, pase, tiro, defensa, físico y, para porteros, portería. Cada posición necesita una mezcla distinta.
+87c97a	Tu media es el promedio ponderado según tu posición. Un central depende de la defensa; un delantero, del tiro.
+24ea96	Lo que un club pagaría hoy por ti: depende de tu nivel, edad, liga y años de contrato (con un año o menos vales mucho menos).
+2d7ffe	Base de los traspasos y de los sueldos que te ofrecen.
+7227e6	Cantidad fija que, si otro club la paga, obliga a tu club a dejarte ir (muy común en España).
+0096c5	Si una oferta la iguala, tu club no puede negarse.
+b037ab	Los visores estiman hasta dónde puede llegar un jugador joven; nunca es seguro.
+cd847d	Hasta los 23 años creces solo según tus minutos; las estrellas indican tu techo natural.
+a37789	El entrenador decide quién juega. Rendir bien, entrenar fuerte y no generar problemas suma confianza.
+3f3ee2	Sube o baja con tus calificaciones y decisiones; define tu rol.
+33cad9	Los jugadores pasan por rachas buenas y malas.
+a8a4c4	Promedio reciente de tus calificaciones; mejora tus probabilidades de jugar.
+6478a7	Las estadísticas se cuentan por temporada: partidos, minutos, goles, asistencias y calificación media (de 1 a 10).
+ba2b2f	Tus números se guardan en la Trayectoria al terminar cada temporada.
+e019a7	Las relaciones con el entrenador y los compañeros pesan tanto como el talento.
+52039b	Habla con el entrenador para pedir minutos (puede salir mal).
+209715	Cada oferta trae traspaso (lo que pagan a tu club), sueldo, años y el rol que te prometen.
+b62d6d	Puedes negociar sueldo o titularidad con probabilidad visible; pedir de más puede cancelar la oferta.
+bda8ca	El agente negocia contratos y busca clubes; cobra una comisión.
+fec17e	Mejora tus probabilidades al negociar.
+fb988f	La carrera de un futbolista se cuenta en temporadas, clubes y títulos.
+152947	Tus temporadas, la selección y tus trofeos.
+38646d	Los equipos nacionales juegan eliminatorias, fechas FIFA y torneos; el Mundial es el más importante del deporte.
+954b28	Torneos en juego y ranking de selecciones por fuerza.
+26d226	Cada liga juega todos contra todos; en México, dos torneos cortos con liguilla. En muchas ligas los últimos descienden.
+ab52cd	Tabla de posiciones, última jornada, liguilla y goleadores.
+e9a2a0	Un peleador profesional es una pequeña empresa: tiene entrenador, mánager, promotora, equipo médico y un récord que define su valor.
+e390fa	Tus atributos, daño acumulado, récord, gimnasio, promotora, fans y tu próxima pelea.
+80cf6f	En el box existen varios organismos que reconocen campeones (por eso hay varios "campeones del mundo" en una misma división). Las revistas y sitios especializados publican además un ranking independiente.
+88f2e1	El ranking mundial consolidado mezcla calidad y resultados; cada organismo tiene el suyo y su campeón. El número 1 de un organismo es el retador obligatorio.
+c6078c	La carrera de un peleador se cuenta en su récord, sus títulos y su gente: promotora, mánager y entrenador.
+1bad47	Contrato de promotora, mánager, gimnasios, cambio de división, historial de peleas y medallas amateur.
+9f0338	Los profesionales no eligen a cualquier rival: la promotora negocia peleas que convengan a su carrera y a su negocio.
+7507d1	Busca peleas, revisa ofertas y negocia la bolsa.
+cb4d81	Pegada, velocidad, defensa, resistencia (cardio), quijada (aguantar golpes) y técnica (inteligencia en el ring). En MMA cuentan además la lucha (derribos y control) y las sumisiones (llaves y estrangulaciones).
+668a4a	Cada atributo pesa en la simulación de cada round. La quijada es casi toda natural y el daño acumulado la va reduciendo.
+1043b8	Los golpes repetidos en la cabeza dañan el cerebro de forma permanente (encefalopatía traumática crónica). Por eso las comisiones imponen suspensiones médicas tras un nocaut.
+438ee1	Sube con cada pelea dura, cada caída y el sparring. Reduce tu quijada y tu salud. Más de 12 es preocupante; más de 20, grave.
+058518	Sistema para medir la fuerza relativa con base en resultados: ganarle a alguien mejor sube mucho; perder con alguien peor baja mucho.
+019299	Una parte de tu lugar en los rankings.
+9966fa	Los campamentos se planean por bloques: fuerza y potencia, velocidad, técnica, cardio. Cada peleador trabaja sus debilidades y afila sus armas.
+ff5d85	El atributo elegido sube mucho y los demás un poco. La especialidad del gimnasio suma 30 %. Cerca de 100 cada punto cuesta más.
+874145	Pelea de práctica con careta y guantes grandes. Es donde se aprende de verdad, pero también donde se acumula mucho daño en la carrera.
+63cb56	Sube técnica y defensa según el nivel de los compañeros de tu gimnasio; suma un poco de daño acumulado.
+4c5f69	Combates cortos (3 rounds) que se ganan por puntos; el réferi detiene la pelea en cuanto un peleador está en peligro. Es la escuela de casi todos los campeones.
+a88475	Sube tu récord amateur y tu técnica; con 4 victorias puedes entrar al campeonato nacional.
+2b6269	Se pelea por eliminación directa: quien pierde, queda fuera. En el box olímpico los dos que pierden en semifinales reciben bronce.
+b3b89f	Medallas, fans e interés de las promotoras. El nacional abre el continental y el mundial; los Juegos Olímpicos son cada cuatro años.
+8efa71	Al volverse profesional el peleador empieza a cobrar bolsas y deja el box olímpico. Las medallas amateur valen mucho al negociar el primer contrato.
+053581	Recibes ofertas de promotoras según tu historial amateur.
+35f0c6	La promotora llama a otros promotores para cerrar rivales, fechas y recintos; sin promotora, el peleador depende de funciones pequeñas.
+c9e0e5	Genera ofertas de pelea. Con promotora llegan más y mejor pagadas.
+3246c5	Toda pelea se negocia: rival, fecha, rounds, recinto, lugar en la cartelera y la bolsa (lo que cobra cada peleador).
+4f06b8	Pelea de preparación (rival más débil), de tu nivel, prueba de fuego (rival mejor) o por el título. Puedes negociar antes de firmar.
+aa8792	Entre la firma y la pelea hay un campamento de 6 a 12 semanas.
+817346	Contrata tu equipo de esquina y elige tu plan de pelea. El día de la pelea el reloj se detiene.
+2fe8a3	El cutman cierra cortadas entre rounds; el preparador físico construye el cardio; el nutriólogo guía el corte de peso para llegar al límite sin perder fuerza.
+f905f4	Cada uno tiene un costo por pelea y un efecto en la noche de la pelea.
+b3f703	"Los estilos hacen las peleas": cada estilo tiene ventaja contra unos y desventaja contra otros.
+46da77	Define volumen, precisión, defensa, poder y gasto de energía en cada round. Entre rounds puedes cambiarlo desde la esquina.
+44c8fe	La promotora organiza las funciones, paga las bolsas, negocia con la televisión y decide a quién enfrentas. Los contratos garantizan un número de peleas al año.
+dd98a0	Más peleas, mejores bolsas y acceso a títulos según su nivel (local, nacional, global). Romper un contrato cuesta una penalización.
+6f7b47	Representa al peleador frente a promotores y cobra entre 10 y 33 % de sus bolsas.
+6bbc58	Cobra su comisión y mejora tu probabilidad al negociar.
+a81bf6	El gimnasio define a tu entrenador, tu sparring y tu método. Cambiar de equipo exige meses para crear química.
+8b345e	Eficacia del entrenamiento, calidad del sparring, especialidad y costo; desde el nivel de barrio, el entrenador cobra 10 % de tus bolsas.
+e97869	Los peleadores compiten por peso para que la pelea sea justa. Muchos se deshidratan para dar el peso el día anterior y se rehidratan para la pelea.
+537484	Subir da pegada y rivales más grandes; bajar da velocidad y un corte de peso más arriesgado.
+724e20	Cada organismo reconoce a un campeón por división; quien tiene los cuatro cinturones es campeón indiscutido.
+96666e	Campeones actuales de cada división y organismo (o liga en MMA).
+c92f04	El récord se escribe ganados-perdidos-empates; los nocauts dicen cuánto pega un peleador.
+9f4002	Todas tus peleas con método, round, título, recinto y bolsa.
+f32960	Cada acción es una pequeña parte de la propiedad de una empresa: te da derecho a una porción de sus utilidades (dividendos) y a votar en la asamblea.
+a041e9	Número de acciones que tienes de esta empresa.
+15dfe2	Lo que haces con tu tiempo libre: estudiar, ejercitarte, convivir, divertirte. En la vida real, el tiempo es el recurso más escaso: nadie puede comprar más de 24 horas al día.
+34ebfc	Cada acción gasta días de tu tiempo libre (unos 120 al año, 40 en prisión). Repetir lo mismo en el año rinde cada vez menos (rendimientos decrecientes), así que conviene variar.
+0b3cb4	Tu trabajo define tu ingreso, tu red de contactos y tu estatus. Las carreras con ascensos (política, ejército, empresa, finanzas, gobierno) premian la antigüedad y el desempeño; las de fama premian el talento, la constancia y la suerte.
+348ef3	Aquí eliges universidad, empleo, carreras hacia el poder y carreras de fama (⭐). Cada puesto pide requisitos (edad, estudios, inteligencia, influencia).
+f1b327	Un país es un territorio con gobierno, economía, ejército y relaciones con otros países. Como ciudadano lo afectas poco; como gobernante decides impuestos, gasto, leyes y guerras.
+a3dba5	Muestra los datos de tu país. Si gobiernas, aquí están las acciones de gobierno, que consumen puntos de mandato y a veces necesitan aprobación del congreso.
+b8f992	Todo lo demás de tu vida: familia, bienes, finanzas, bancos, bolsa, empresas, noticias y ajustes.
+a7f0f7	Menú con el resto de pantallas. La barra de abajo está siempre visible: puedes saltar entre Acciones, Carrera, Nación y Más sin cerrar nada.
+580e6e	El tiempo trae intereses compuestos, inflación, envejecimiento y oportunidades. Las decisiones pequeñas repetidas por años son las que más cambian una vida.
+b2f63e	Avanza la unidad elegida en el reloj (día, semana, mes, año o 5 años). La economía y la guerra se calculan al cerrar cada mes y cada año; el reloj se detiene solo ante decisiones importantes.
+be26f5	Tu vida individual: salud, dinero, familia, carrera.
+d5322c	Muestra tu vida, tus estadísticas y el registro de lo que te pasa.
+39502b	La visión de estadista: un país visto como un todo, con su economía, su gente, su ejército y su diplomacia.
+06f29a	Pestañas con todo sobre tu país. Funciona aunque no gobiernes: sirve para entender el contexto que afecta tu vida (inflación, desempleo, guerras).
+37a436	Depende de genética, hábitos (dieta, ejercicio, sueño, alcohol, tabaco), acceso a médicos y estrés. Es la base de todo: sin salud no se trabaja ni se disfruta.
+176819	Si llega a 0 mueres. Baja con la edad, las enfermedades y las peleas; sube con ejercicio, médico y buenos hábitos. Cuenta para deportes y empleos físicos.
+0dcee8	Los estudios (por ejemplo, el de Harvard sobre desarrollo adulto, que sigue a personas por más de 80 años) muestran que las relaciones cercanas pesan más que el dinero, una vez cubiertas las necesidades básicas.
+d86d06	Sube con relaciones, logros y tiempo libre; baja con deudas, pérdidas y soledad. Muy baja provoca crisis y malas decisiones.
+de23ed	Mezcla de capacidad innata y aprendizaje acumulado. La educación sigue siendo una de las inversiones con mejor rendimiento a largo plazo.
+cffe79	Requisito de carreras, universidad y ascensos. Sube estudiando y leyendo. Es el atributo clave de creadores, comediantes, escritores, chefs y DJs.
+86e0ac	Cómo te perciben los demás. Influye (aunque no debería) en contrataciones y salarios, y es central en modelaje, actuación y música.
+be47b9	Sube con ejercicio, cuidado personal y servicios como entrenador. Es el atributo clave de música, actuación y modelaje.
+19f8ef	Tu capital social y político: a quién conoces y quién te escucha. Abre puertas que el dinero solo no abre.
+33840b	Necesaria para ascender en política, ejército y empresa, y para dar golpes de Estado. Sube con puestos, contactos, fama y relaciones públicas.
+7a7424	Lo que te queda después de impuestos y gastos fijos. Es lo que de verdad puedes ahorrar o invertir.
+8a85f0	La barra compara tu ingreso con el salario medio de tu región.
+9909db	Todo lo que tienes (efectivo, casa, inversiones, empresas) menos todo lo que debes. Es la medida real de riqueza, más que el sueldo.
+c1205c	Determina a qué bancos tienes acceso (banca privada), cuánto crédito te dan y tu herencia.
+a597b9	Dinero prestado que debes devolver con intereses. Bien usada (casa, educación, negocio rentable) acelera; mal usada (consumo) empobrece.
+ece881	Si no pagas, baja tu historial crediticio y te pueden embargar. Revisa Más → Finanzas y Bancos.
+28f91d	Los grandes números de un país: población, PIB (todo lo que produce en un año), crecimiento, inflación y estabilidad.
+23ea97	Vista rápida de tu país y de quién gobierna.
+261285	Las divisiones internas de un país (estados, provincias, departamentos). Cada una tiene su economía y su población.
+846fe6	Lista y mapa de provincias con población, riqueza, desarrollo y edificios. Si gobiernas puedes construir obras en ellas.
+11b02b	Las fuerzas armadas: personal, equipo y presupuesto. El gasto militar mundial ronda el 2 % del PIB global; mantener un ejército grande cuesta caro en tiempo de paz.
+293043	Tus ejércitos, su tamaño, moral y calidad. Reclutar cuesta dinero y población; el terreno y los generales cambian las batallas.
+cd08a3	Cómo produce, gasta y comercia un país: PIB, inflación, desempleo, deuda, moneda, banco central, bancos y reservas.
+080283	Datos económicos de tu país y, si gobiernas, las palancas: impuestos, gasto, política monetaria, reservas y sistema financiero.
+2d7c66	Las relaciones entre países: alianzas, tratados comerciales, sanciones y rivalidades. La mayor parte de la política internacional se decide negociando, no peleando.
+2405f4	Relaciones con cada país. Mejora relaciones, firma tratados, forma alianzas o declara la guerra.
+a9c55f	El conflicto armado entre países. Además de vidas, cuesta PIB, deuda y estabilidad; las guerras largas suelen terminar en negociación.
+67fcba	Frentes, batallas y moral. Un frente de ±100 permite tomar provincias; la conferencia de paz reparte territorio.
+07a36d	Comparación entre países por poder económico y militar. Las potencias cambian con las décadas: crecimiento, demografía y tecnología.
+07ad98	Tu lugar en el mundo y las potencias militares.
+ee7c6e	Los ministerios o secretarías ejecutan las políticas: Hacienda, Salud, Educación, Defensa, Energía... El presidente nombra a sus titulares y les da presupuesto.
+683c37	Cada secretaría tiene titular, competencia y presupuesto. Si gobiernas nombras secretarios y das directivas; si eres secretario, diriges tu ramo.
+66fdfb	Democracia, monarquía, dictadura, régimen de partido único... Define cómo se elige al poder, cuánto dura y qué límites tiene.
+27f9ea	Cambia cómo llegas al poder, si hay elecciones y cuánto apoyo necesitas en el congreso.
+620a3c	Lo que el gobierno recauda (impuestos, recursos naturales) y gasta (salud, educación, defensa, deuda). Gastar más de lo que entra genera déficit y deuda.
+795394	Ingresos y gastos anuales del gobierno. Un tesoro vacío obliga a endeudarte, imprimir dinero o recortar.
+c07e84	Acuerdos firmados entre países: comercio, defensa, no agresión. Reducen la incertidumbre y facilitan el intercambio.
+bccf78	Tratados activos de tu país y años que les quedan.
+3402aa	Los países con mayor capacidad militar, medida por personal, presupuesto y tecnología.
+3ac3d7	Comparativa del poder militar mundial.
+8906ab	A lo largo de la historia se han unificado países (Alemania en 1871, Italia en 1861) y se han separado otros.
+cdc99b	Si controlas ciertas provincias puedes proclamar una nación nueva.
+2a0696	El banco central controla la cantidad de dinero y la tasa de interés de referencia. Sube la tasa para frenar la inflación (el crédito se encarece) y la baja para estimular la economía. Muchos siguen la regla de Taylor.
+4cbae2	Tu moneda, tipo de cambio, régimen cambiario y tasa. Si gobiernas puedes devaluar, fijar el tipo de cambio, imprimir dinero o hacer una reforma monetaria.
+bfdca8	Cada país usa su moneda (o adopta otra, como el dólar en Ecuador). Su valor depende de la inflación, las tasas de interés y la confianza.
+96de9e	Tu dinero está en la moneda local; si se devalúa, todo lo importado se encarece.
+5411ea	La tasa a la que el banco central presta a los bancos. De ella dependen las tasas de hipotecas, créditos y ahorros.
+c35a82	Sube con la inflación. Tasas altas: ahorrar rinde más y pedir prestado cuesta más.
+9c1dfd	El aumento general de precios. Una inflación de 2–3 % anual se considera sana; si supera el 50 % mensual se habla de hiperinflación (Zimbabue 2008, Venezuela 2018). Se come el valor del efectivo.
+e2ba61	Erosiona tu efectivo y tus salarios si no se ajustan. Proteger tu dinero en activos reales o en bancos con buena tasa es clave.
+8c6fc4	Flotante: el mercado fija el precio de la moneda. Fijo: el banco central lo sostiene con reservas. Caja de conversión: cada billete respaldado por divisas. Los tipos fijos dan estabilidad, pero pueden sufrir ataques especulativos.
+fb54ef	Define cómo se mueve tu tipo de cambio y el riesgo de crisis cambiaria.
+184332	Diferencia entre el tipo de cambio oficial y el que el mercado considera justo. Si crece, los especuladores apuestan contra la moneda.
+c01db3	Un desvío grande aumenta el riesgo de devaluación forzada.
+9c6af2	Financiar al gobierno creando dinero nuevo. A corto plazo paga cuentas; a mediano plazo provoca inflación y depreciación.
+2c07d3	Aumenta el tesoro hoy y la inflación mañana.
+7d82c3	Restricciones para sacar dinero del país o comprar divisas (por ejemplo, el cepo en Argentina). Frenan fugas, pero ahuyentan inversión.
+ca7ee6	Reducen la presión sobre tu moneda a cambio de menos crecimiento.
+752281	Divisas, oro y otros activos que guarda el banco central para pagar importaciones, deuda externa y defender la moneda. Un nivel sano cubre al menos 3 meses de importaciones.
+b29ed0	Si gobiernas puedes comprar o vender divisas para intervenir, acumular oro y crear reservas estratégicas de petróleo. Protegen contra crisis.
+0e3b2d	Las monedas de todos los países y su precio frente al dólar.
+cd9a3a	Tipos de cambio y su variación.
+8f3006	Lo que realmente puedes comprar con tu dinero. Si tu sueldo sube 5 % y los precios 10 %, eres más pobre.
+700bc4	Compara tu dinero ajustado por inflación.
+7f69e8	Mercado donde se compran y venden acciones (partes de propiedad de empresas). A largo plazo, las bolsas han rendido en promedio 6–10 % anual, con caídas fuertes de por medio (2008, 2020).
+ad8c2b	32 bolsas reales con empresas inspiradas en reales. Las cotizaciones se mueven cada día hábil por resultados, noticias y la economía.
+a72efb	Las bolsas e índices del mundo (S&P 500, IPC, Ibovespa, DAX, Nikkei...). Un índice resume cómo van las empresas más grandes de un mercado.
+adefa4	Elige una bolsa para ver sus empresas e índices.
+e01e21	El conjunto de tus inversiones. Diversificar (tener muchas empresas y sectores) reduce el riesgo sin reducir mucho el rendimiento esperado.
+acca51	Tus posiciones, ganancia abierta, margen y cortos.
+815e39	Instrucciones para comprar o vender. Orden de mercado: se ejecuta ya al precio actual. Límite: solo a tu precio o mejor. Stop: se activa si el precio cruza un nivel, para cortar pérdidas.
+74a9e3	Órdenes pendientes que se ejecutan solas cuando el precio llega.
+e14604	Adquirir acciones para ganar si suben (posición larga) y cobrar dividendos.
+735265	Compra al precio actual más comisión.
+dfd1ad	Deshacer una posición. La ganancia solo es real cuando vendes; mientras, es "ganancia abierta".
+4629e4	Vende tus acciones al precio actual.
+c5fcb2	Pedir prestadas acciones y venderlas esperando que bajen para recomprarlas más baratas. La pérdida potencial es ilimitada si el precio sube.
+d98a9c	Ganas si la acción baja. Requiere margen y paga costo de préstamo.
+7d1955	Comprar las acciones que vendiste en corto para devolverlas y cerrar la apuesta.
+eafe5a	Cierra tu posición corta.
+44cb0e	Compra solo si el precio baja hasta tu nivel (o vende solo si sube). Controlas el precio, no el momento.
+84cbeb	Queda pendiente hasta que el precio la alcance.
+016956	Venta automática si el precio cae a cierto nivel. Sirve para limitar pérdidas sin estar mirando la pantalla.
+c0e2bf	Se activa sola al cruzar el nivel.
+eda590	Precio de la acción por número de acciones: lo que el mercado dice que vale la empresa entera.
+d6cf10	Tamaño de la empresa.
+29bbcd	Cuántos años de utilidades pagas al comprar la acción. Un P/U de 15 es típico; uno de 40 indica que el mercado espera mucho crecimiento (o una burbuja).
+51198c	Más bajo = más barata respecto a lo que gana.
+d0409a	Cuánto se mueve la acción frente al mercado. Beta 1: igual que el índice; 2: el doble (más riesgo); 0.5: la mitad (defensiva).
+3cd5b2	Riesgo de la acción frente a su bolsa.
+0b00e1	Parte de las utilidades que la empresa reparte a sus accionistas, normalmente cada trimestre o año.
+628d79	Lo recibes en efectivo mientras tengas la acción.
+0fbd20	El precio más alto del último año. Sirve para saber si una acción está cerca de sus extremos.
+42dbf0	Referencia de rango de precios.
+74a594	El precio más bajo del último año.
+70500f	Cuántas acciones se intercambian al día. Más volumen = más fácil entrar y salir sin mover el precio (liquidez).
+080e85	Liquidez de la acción.
+5b55c4	El precio medio al que compraste tus acciones, considerando todas tus compras.
+e6bc56	Base para calcular tu ganancia.
+fe550d	Lo que ganarías o perderías si vendieras hoy. No es real hasta que vendes.
+2601f8	Diferencia entre el valor actual y tu costo.
+dbfed5	Diferencia entre lo que vale tu posición y lo que te costó.
+b54f1d	Verde gana, rojo pierde.
+2e4d1f	Dinero que te presta el corredor para invertir más de lo que tienes. Multiplica ganancias y pérdidas; si cae mucho, te piden más dinero (llamada de margen) o venden por ti.
+7623c6	Si tu garantía baja demasiado, el juego liquida posiciones.
+eda137	Una empresa vende acciones al público por primera vez para conseguir capital. Los fundadores se vuelven millonarios en papel, pero comparten el control.
+ee6e77	Puedes sacar tu negocio a bolsa si es grande y rentable.
+10e8ee	Fondos que copian un índice completo con comisiones muy bajas. Para la mayoría de los ahorradores han rendido más que elegir acciones a mano, porque diversifican y casi no cobran.
+cfff56	Compras todo un mercado de una vez.
+57f5fe	Bienes básicos que se compran en grandes cantidades: petróleo, oro, cobre, trigo. Sus precios suben con la demanda global y con las crisis de oferta (guerras, sequías).
+0af9f3	Compra y vende materias primas; sus precios afectan a países y empresas productoras.
+7189b6	Petróleo, oro, cobre, litio, granos... Su precio lo fijan la oferta y la demanda mundiales.
+cc971a	Opera materias primas.
+3f0397	Préstamos que haces a un gobierno o empresa a cambio de intereses fijos. Más seguros que las acciones; si suben las tasas, el precio de los bonos que ya existen baja.
+7996ef	Compra bonos de gobiernos; cobras cupones cada año.
+d01260	Los bonos que tienes, su tasa (cupón) y vencimiento.
+e4d2e1	Cobras intereses hasta que venzan o los vendas.
+db2d23	El mercado de divisas es el más grande del mundo: unos 7.5 billones de dólares al día. El precio de una moneda frente a otra cambia por tasas de interés, inflación y flujos de capital.
+17c775	Compra y vende monedas extranjeras; protege tu dinero de la devaluación o especula.
+0dbde4	Cambiar tu moneda por otra. Ahorrar en una moneda fuerte protege contra la devaluación, pero tiene costo de cambio.
+aeb81d	Opera monedas con su diferencial de compra-venta.
+e896ab	Las tasas de interés de cada país y sus monedas. El dinero tiende a ir a donde paga más con menos riesgo (carry trade).
+daca62	Panorama de tasas y tipos de cambio.
+87670f	Los mercados reaccionan a resultados de empresas, datos económicos, decisiones de bancos centrales y eventos políticos.
+ad7689	Noticias recientes que movieron precios.
+e75595	Las bolsas transmiten precios en una cinta que corre (ticker). Verde sube, rojo baja.
+ba53b9	Elige qué mercado y qué temporalidad ves en la barra.
+087d77	Los bancos guardan depósitos y los prestan; ganan con la diferencia entre lo que cobran y lo que pagan. Hay cajas populares, bancos regionales, nacionales, internacionales y gigantes sistémicos.
+c06eea	Abre cuentas, pide créditos, invierte en fondos o funda tu banco.
+a82950	Depósitos en bancos que pagan interés. Los bancos pequeños suelen pagar más, pero quiebran más; el seguro de depósitos cubre hasta cierto monto por banco.
+89d855	Deposita y retira. Reparte tu dinero entre bancos para no exceder el seguro.
+28d86c	Préstamos con intereses. La tasa depende de tu historial crediticio, tus ingresos y tus garantías. Un buen historial abre créditos más baratos.
+a74774	Pide crédito según tu capacidad de pago.
+2e60f9	Un administrador profesional invierte el dinero de muchas personas a cambio de una comisión. Hay fondos de acciones, bonos, mixtos y de cobertura (hedge funds).
+6ed91b	Invierte en fondos con distinto riesgo y comisión.
+14ec15	Fundar un banco exige mucho capital y licencia del regulador. El banco presta varias veces su capital (apalancamiento), por eso puede ser muy rentable o quebrar en una corrida.
+180410	Funda y administra tu banco: fija tasas, capital y riesgo.
+637dab	Una calificación (en muchos países de 300 a 850) que mide qué tan buen pagador eres. Pagar a tiempo la sube; atrasarte la hunde por años.
+d6cb57	Define cuánto y a qué tasa te prestan.
+8c5109	Un fondo público que devuelve tus ahorros si tu banco quiebra, hasta un límite. Evita corridas bancarias.
+a16daa	Cubre tus depósitos por banco hasta el tope.
+2d99d1	El conjunto de bancos, fondos y reguladores de un país. Si los bancos caen, el crédito se congela y la economía entra en recesión (2008).
+526e28	Salud de la banca del país, crisis bancarias y ayuda del FMI y el Banco Mundial.
+e8cfc2	Qué tan capitalizados y sanos están los bancos. Por debajo de cierto nivel aumenta el riesgo de crisis bancaria.
+ccb952	Si baja mucho, puede estallar una crisis.
+38a3d0	El Fondo Monetario Internacional presta a países en crisis a cambio de condiciones (austeridad, reformas). Ayuda a estabilizar, pero suele ser impopular.
+b10cc7	Dinero para el tesoro en crisis, con condiciones.
+9bf7b4	Recortar el gasto público para reducir déficit y deuda. Da confianza a los acreedores, pero puede frenar la economía y causar protestas.
+5e12ea	Menos gasto, menos aprobación, más confianza.
+583b5a	Ingresos, gastos, ahorro, deudas e impuestos. La regla básica: gastar menos de lo que ganas e invertir la diferencia.
+f8dc23	Tu estado de cuenta personal.
+1d9a01	Personas que contratas para mejorar tu vida: entrenador, nutriólogo, abogado, contador, publicista, seguridad. Cuestan, pero ahorran tiempo y riesgos.
+09ce11	Cada servicio da un beneficio anual (salud, impuestos, condenas, escándalos, seguridad).
+329cd6	Un negocio vende productos o servicios; su utilidad es lo que queda después de pagar costos, nómina, renta, impuestos y depreciación. La mayoría de los negocios nuevos cierra en sus primeros años.
+0eb753	Abre, expande, contrata, endéudate o vende tus empresas.
+dd3f07	El reporte que muestra si una empresa gana o pierde: ventas menos costo de ventas = utilidad bruta; menos gastos de operación = utilidad operativa; menos intereses e impuestos = utilidad neta.
+16f53b	Cuánto vendió y ganó tu empresa este mes y en los últimos 12.
+86a4da	Lo que queda al final, después de todos los gastos e impuestos. Es lo que pertenece a los dueños.
+0b062c	Ganancia final de la empresa.
+4efe03	Utilidad neta entre ventas. Un supermercado gana 2–4 %; una empresa de software, 20–30 %.
+a1f27a	Qué porcentaje de cada venta es ganancia.
+085f31	Qué tanto de tu capacidad instalada estás usando. Muy bajo: costos fijos sin aprovechar; cerca de 100 %: conviene expandirse.
+390e7e	Si está al tope, abre otra sucursal.
+c6164b	La demanda es cuánto quiere comprar el mercado; la capacidad, cuánto puedes producir.
+1b2f66	Si la demanda supera tu capacidad estás dejando dinero en la mesa.
+575a9b	La confianza de clientes y socios. Se construye en años y se pierde en días.
+30bca0	Afecta las ventas de tu empresa.
+3b1f0f	Puntos de venta o plantas adicionales. Expandirse aumenta ventas, pero también costos fijos y riesgo.
+e4948f	Cada sucursal añade capacidad.
+61384d	La nómina suele ser el mayor gasto de una empresa de servicios. Pocos empleados limitan el servicio; demasiados se comen la utilidad.
+ca6029	Ajusta el personal según la demanda.
+5744cf	Petróleo, gas, litio, cobre, tierras raras, uranio... Quien los tiene gana divisas y poder geopolítico; depender de un solo recurso es riesgoso (enfermedad holandesa).
+1ae644	Producción de recursos de tu país; puedes nacionalizar o prohibir exportaciones.
+3a2e23	Los países que más producen cada recurso. Concentrar la producción en pocos países vuelve frágiles los precios.
+10df95	Quién domina cada recurso.
+547cb5	Documento que decide quién hereda tus bienes. Sin testamento, la ley reparte la herencia según el parentesco y pueden surgir conflictos.
+afd6b7	Elige a tu heredero: continúas el juego con esa persona.
+ed55fa	Criar a un hijo cuesta tiempo y dinero, y su educación define en buena parte sus oportunidades.
+419984	Tus hijos pueden heredar y continuar tu legado.
+779bd0	Una relación estable aporta apoyo, felicidad y a veces ingresos compartidos. Requiere tiempo y cuidado.
+05f8d7	Dedícale tiempo para mantener la relación.
+678769	Tu familia de origen influye en tus oportunidades, educación y salud.
+45715c	Puedes convivir con ellos y heredar de ellos.
+2f8db6	Las generaciones de tu familia y sus vínculos.
+7eb753	Toda tu dinastía.
+c2f4d2	Casa, autos, empresas y otros activos. Los activos que generan ingresos (rentas, negocios, inversiones) construyen riqueza; los que solo cuestan (autos de lujo) la consumen.
+9531a3	Tus propiedades y su valor.
+85d487	Migrar cambia salarios, costo de vida, idioma y oportunidades. Millones de personas migran cada año buscando trabajo o seguridad.
+472a0e	Cambia de provincia o país.
+7fce21	Metas de largo plazo. Escribirlas y medir avances aumenta la probabilidad de cumplirlas.
+4bde81	Tus metas y logros desbloqueados.
+96f035	La industria del entretenimiento y el deporte sigue una ley de potencia: unos pocos concentran la mayor parte de la fama y el dinero, y la gran mayoría vive con ingresos modestos. Talento, constancia, red de contactos y suerte pesan juntos.
+18993d	Música, actuación, fútbol, box, MMA, contenido, modelaje, comedia, escritura, cocina y DJ. Cada una con fans por territorio, equipo, contratos, escándalos, premios y torneos.
+c51430	Una carrera artística o deportiva se construye en años: primero tu provincia, luego tu país y, si todo sale bien, el mundo.
+aa431e	Panel completo: fans, nivel, equipo, obras, presentaciones, contratos y premios.
+f369de	El público se gana de cerca hacia afuera: la escena local, luego la radio y los medios nacionales, y al final las plataformas y giras internacionales. Internet acelera el salto para creadores y DJs.
+31d6c4	Tus fans en tu provincia, tu país y el mundo. Cada nivel tiene un techo (su población) y sin actividad los fans se van olvidando de ti.
+631acf	La habilidad se construye con práctica deliberada: los primeros avances son rápidos y los últimos muy lentos. Un buen entrenador acelera el proceso.
+eb1ff1	Sube entrenando; determina la calidad de tus obras y tus resultados deportivos. El talento natural multiplica cada entrenamiento.
+42ea01	Parte de la habilidad viene de condiciones innatas (coordinación, oído, memoria, físico), pero sin práctica el talento no alcanza.
+f32ee4	Multiplica lo que ganas con cada entrenamiento (de ×0.7 a ×1.35). Lo descubres al empezar.
+32a3c0	Victorias, derrotas y nocauts de un peleador. Un récord invicto vende más boletos.
+6f5273	Tus peleas ganadas, perdidas y por nocaut.
+ce335f	Las figuras viven de varias fuentes: ventas, regalías, sueldo, bolsas, presentaciones y patrocinios, menos comisiones y costos.
+a508ba	Todo lo que generó tu carrera de fama el año pasado, antes de impuestos.
+9bcd55	Cómo te perciben el público y las marcas. Un escándalo la hunde y las causas sociales la recuperan.
+43d9a0	Con imagen baja no hay patrocinios ni buenas ofertas, y los escándalos son más probables.
+f77d20	Un entrenador corrige errores que tú no ves. Calidad-precio: el gratuito de un centro comunitario enseña lo básico; uno de élite cuesta varios sueldos al año, pero acelera mucho y reduce lesiones.
+b2caf5	Multiplica lo que ganas en cada entrenamiento. Se cobra cada mes.
+88c2e2	Consigue contratos, papeles y patrocinios a cambio de una comisión (en la industria real, típicamente 10–20 % de lo que generas).
+04ea69	Más alcance, más ofertas y más audiciones ganadas, a cambio de su comisión sobre todos tus ingresos de fama.
+b2ed54	Un sello, editorial, productora o promotora te da un anticipo y su maquinaria (distribución, promoción) a cambio de parte de tus ingresos. El anticipo se descuenta de tus regalías futuras.
+01d5ca	Multiplica tu alcance y tus ingresos recurrentes durante los años del contrato. Un escándalo puede rescindirlo.
+13dfdf	Cuantos más fans tienes, mejores ofertas llegan. Un agente fuerte consigue más y mejores.
+c21435	Llegan cada año si eres conocido. Compara anticipo, regalías, duración y alcance.
+b6aa6a	El porcentaje que te toca cada vez que se vende o reproduce tu obra. En música por streaming se pagan fracciones de centavo por reproducción.
+66c4d2	Más regalías = más ingreso recurrente.
+c96bb6	Las marcas pagan por asociar su imagen a la tuya. Para muchos atletas y creadores es el ingreso principal.
+856d6b	Una vez al año, si tienes fama 35+ y buena imagen.
+f2b7c1	Los premios de la industria (inspirados en los grandes premios de música, cine, literatura, gastronomía y deporte) multiplican la atención y los contratos.
+69b6c3	Si tuviste obras de gran calidad en el año, puedes ser nominado y ganar.
+30ddbf	En box y MMA los organismos clasifican a los peleadores; para pelear por el título hay que estar entre los primeros.
+168f54	Ganas puestos venciendo a rivales; el top 3 puede pelear por el título mundial.
+dc1861	Polémicas en redes, declaraciones, cancelaciones o plagio. Un buen equipo de relaciones públicas reduce el daño.
+81186c	Te cuestan fans, imagen y a veces el contrato.
+beca3d	Las figuras exitosas rara vez trabajan solas: entrenador, agente, publicista, abogado y contador.
+74a307	Contrata entrenador y agente aquí; el publicista y el abogado en Servicios.
+b04d29	Lo que creas: canciones, papeles, videos, libros, menús, rutinas. La calidad varía: no todo lo que haces será un éxito.
+4e125c	Cada obra suma fans según su calidad; los éxitos se comparten mucho más.
+dd7974	Conciertos, funciones, shows y giras. En la música actual, las giras dejan más dinero que las ventas.
+e45a6f	Necesitan un mínimo de fans en cada territorio. Dejan dinero y fans, pero cansan.
+9e82fa	Los clubes fichan a quien rinde. Se empieza en ligas amateur y se sube de división con nivel y resultados.
+160415	Cada año te pueden fichar equipos de mayor nivel o bajarte; ganas sueldo, campeonatos y convocatorias a la selección.
+7d5c49	Los peleadores suelen hacer de 2 a 4 peleas al año: cada una exige campamento de entrenamiento y deja secuelas.
+9db012	Elige rival: uno accesible (poca bolsa, poco ranking), uno de tu nivel o uno mejor (más bolsa y más puestos si ganas). Se muestra tu probabilidad.
+fb9956	Los medios informan a escala local, nacional e internacional. Contrastar fuentes ayuda a no caer en desinformación.
+9f78f2	Portal con lo que pasa en tu provincia, país y el mundo.
+3cc049	Explicaciones completas de cada sistema del juego.
+d711b7	Lee por temas o repite el recorrido guiado.
+1a895b	Preferencias del juego.
+982115	Sonido, periódico, efectos del mapa, frecuencia de diálogos, moneda y burbujas de ayuda.
+c9158d	Los datos iniciales vienen de fuentes públicas (Banco Mundial, FMI, OIT, ONU).
+5bfbed	Lista de fuentes usadas.
+b2d47a	Un título universitario suele aumentar de forma importante el ingreso de por vida, aunque varía mucho por carrera y país.
+a4ed82	Estudiar toma años y a veces colegiatura; abre empleos y carreras.
+35eda5	Trabajos asalariados. El sueldo depende de tu formación, la ocupación y la economía de tu región; el desempleo hace más difícil que te contraten.
+3e6389	Elige un empleo según tus requisitos.
+4b137e	Política, ejército, empresa y gobierno: escaleras de ascensos que pueden llevarte a gobernar un país.
+324e42	Cada rango exige años, influencia e inteligencia.

@@ -1,0 +1,120 @@
+79f1a0	D	Crecimiento
+13860a	D	Abre sucursales cuando hay caja y la empresa vende a tope.
+9aa21f	D	Eficiencia
+a419b8	D	Recorta costos: la utilidad sube con la calidad del director.
+61c537	D	Conservador
+31385f	D	Paga deudas primero y guarda caja para las crisis.
+a31d55	T	Grupo {0}
+bfb596	T	{0} dirige {1} ({2}, capacidad {3}). Sueldo: {4} al año, a cargo de las empresas del grupo.
+962793	T	Despides a {0}: la indemnización ({1}) sale de la caja de las empresas del grupo.
+4c1e09	T	Barres la caja de {0}: {1} pasan a tu dinero. Cada empresa conserva 3 meses de costos.
+84f001	T	Ninguna empresa de {0} tiene caja de sobra (cada una necesita 3 meses de costos).
+6f31ff	D	Se necesitan al menos 2 empresas en el grupo.
+cfbdb2	D	No hace falta mover caja: ninguna empresa la necesita o ninguna tiene de sobra.
+dcefdf	T	Préstamo interno: {0} pasa {1} a {2}, que paga {3} de deuda bancaria.
+97b844	T	Préstamo interno: {0} pasa {1} a {2}.
+96cf14	T	Disuelves {0}: sus empresas vuelven a depender de ti.
+90205f	T	Te faltan {0} para la auditoría.
+653aca	T	La auditoría de {0} ({1}) encuentra una deuda oculta de {2} y resultados inflados: las ventas reales son {3} % de lo que declaraba el vendedor.
+07432e	T	La auditoría de {0} ({1}) confirma las cifras del vendedor: no hay deudas ocultas.
+d92860	T	Te faltan {0}.
+e4eca8	D	Necesitas 18 años.
+774901	T	El vendedor rechaza tu oferta por {0} y la retira del mercado.
+d038f3	T	El vendedor rechaza {0} por {1}. Puedes volver a intentarlo una vez más.
+2c4f8e	T	Compras {0} por {1} (pagas {2}; {3} de crédito quedan como deuda de la empresa).
+8a32dc	T	Compras {0} por {1}.
+c3810a	T	Compras {0} por {1}. Al revisar los libros descubres una deuda oculta de {2}: no hiciste auditoría.
+7d6cad	T	Compras {0} por {1} (pagas {2}; {3} de crédito quedan como deuda de la empresa). Al revisar los libros descubres una deuda oculta de {4}: no hiciste auditoría.
+a80a45	D	Esta empresa no se puede comprar por OPA.
+b447c9	D	Ya controlas esta empresa.
+6cba2b	D	Ya lanzaste una oferta por esta empresa este año: los accionistas no aceptan otra hasta el próximo.
+5fc942	T	Los accionistas de {0} rechazan tu oferta de {1} por acción. Pagas {2} a los asesores y la acción sube por la especulación.
+14aff7	T	{0} toma el control de {1} con una oferta pública: compra el 51 % de las acciones con una prima de {2} %.
+cc2471	T	Tomas el control de {0}: compras {1} acciones a {2} ({3} con comisiones). Ahora eliges su estrategia y su director.
+da1738	D	Equilibrada
+e65e56	D	Sigue como estaba.
+7a76c3	D	Crecer
+3da0c1	D	Reinvierte casi todo: las utilidades crecen más rápido y reparte menos dividendos.
+94f59e	D	Recorta costos: utilidades algo mayores y la acción se mueve menos.
+b94493	D	Dividendos
+908b77	D	Reparte más: dividendos mucho mayores, pero crece menos.
+026517	T	{0} cambia de estrategia: {1}.
+d6c94d	T	{0} es la nueva directora o director general de {1} (capacidad {2}).
+c33cbb	T	Bajas del 50 % de las acciones de {0}: pierdes el control de la empresa.
+61204b	T	Necesitabas {0} o menos.
+b2c202	D	Cada mes tu empresa vende, paga insumos, nómina, renta, impuestos y deudas; lo que reparte llega a tu dinero.
+00124f	T	Puedes dirigir en persona hasta {0} empresas; más allá, agrúpalas con un director.
+4696d6	T	{0} en persona
+fa9f4a	T	⚠️ Diriges {0} empresas en persona: no te alcanza el tiempo y cada mes todas pierden {1} puntos de reputación.
+31ac0c	D	Crea un grupo con director para recuperarla.
+55fb54	D	Empresas en venta
+83f3eb	D	Grupos
+3c25b5	D	Controladas en bolsa
+e0af5d	T	Estrategia: {0}
+5cba62	D	Mis empresas
+b2cd36	T	Negocios de {0} cuyos dueños quieren vender. Las cifras son las que declara el vendedor: pueden estar maquilladas.
+a7f651	D	Una auditoría revisa libros y deudas antes de comprar.
+fcf966	D	La lista se renueva cada 6 meses.
+ff1f4f	D	Por ahora no hay empresas en venta.
+5a55b8	T	{0} empleados
+8c58df	T	reputación {0}
+906c35	D	Ventas al año
+a753b2	D	Utilidad al año
+e8d23f	D	Deuda
+29ce23	D	Caja
+2a469b	D	Auditada
+75939d	D	Vendedor con prisa
+0c06e4	T	Deuda oculta: {0}
+d83204	T	Ofertas rechazadas: {0}
+d9d394	T	Auditar ({0})
+1e872c	D	Con crédito: pagas la mitad y la otra mitad queda como deuda de la empresa
+e146d0	D	Auditoría
+345238	D	Un grupo (conglomerado) reúne varias de tus empresas bajo un director.
+fddf77	D	Así puedes tener todas las que quieras sin perder atención, y las del mismo giro comparten clientes y proveedores (sinergias).
+15c6fa	T	{0} empresas
+c665a3	D	Sin director
+948086	T	valor {0}
+b63dfe	D	Crear un grupo
+92ac3b	D	Nombre del grupo
+12a447	D	Director
+306fa7	T	capacidad {0}
+f702aa	T	{0} al año
+3408b6	D	Sin director, las empresas del grupo no reciben sus mejoras. Su sueldo lo pagan las empresas del grupo.
+c701f1	D	Despedir
+7181cb	D	Empresas del grupo
+f9059b	T	{0}/mes
+024340	T	sinergias {0}/mes
+819e73	T	ahorros {0}/mes
+36d9a1	D	Sacar
+ba39af	D	Aún no tiene empresas.
+f6cb1f	D	Agregar al grupo
+76afcf	D	Barrer caja
+749f23	D	Préstamo interno
+67de03	D	Disolver
+96a561	D	Control de la empresa
+5fa13a	D	Tus acciones
+4b5b07	D	Estrategia
+1c6a17	D	Dividendo al año
+8381a9	T	Controlas {0}: decides su estrategia y su director. Si vendes acciones y bajas del 50 %, pierdes el control.
+66ca3f	D	Cambiar de director
+d9a1b7	D	Elegir director
+cf5468	D	Con más del 50 % de las acciones controlas la empresa. Una oferta pública de adquisición (OPA) compra a todos los accionistas que quieran vender con una prima sobre el precio de hoy: a más prima, más aceptan.
+fb16fb	D	Te faltan
+8ca912	T	{0} acc.
+be3ffa	D	Valor de mercado
+136044	D	Ya lanzaste una oferta este año: los accionistas no aceptan otra hasta el próximo.
+05f71c	D	Prima
+e11d21	D	Oferta pública de adquisición
+4705dc	D	Oferta para comprar las acciones de una empresa en bolsa a todos sus accionistas, a un precio fijo, para tomar el control. Se conoce por sus siglas, OPA.
+3759a9	D	Prima de control
+6cc33f	D	Lo que se paga por encima del precio de mercado para convencer a los accionistas de vender y quedarse con el control.
+28a776	D	Auditoría (due diligence)
+b88955	D	Revisión de los libros, contratos y deudas de una empresa antes de comprarla, para no pagar de más por cifras maquilladas.
+73ebba	D	Compra apalancada
+46cbb8	D	Comprar una empresa con mucho dinero prestado que después paga la propia empresa con sus utilidades. Multiplica la ganancia y el riesgo.
+d39083	D	Conglomerado
+1fa8cc	D	Grupo de empresas de giros distintos bajo un mismo dueño y una dirección común.
+860c3b	D	Sinergia
+5e13be	D	Ahorro o venta extra que aparece al juntar empresas que comparten clientes, proveedores o procesos.
+77c8d3	D	Control en bolsa
+e6850f	D	Comprar empresas y grupos

@@ -1,0 +1,273 @@
+001	T	(+{0}/año). Toca una provincia tuya → 🏗️ Construir.
+002	T	Acciones de gobierno ({0} de 2)
+003	D	Aprobación / Congreso
+004	T	Apoyo en el congreso {0} % (probabilidad de aprobar una ley: {1} %)
+005	D	sin reelección
+006	D	reelección no consecutiva
+007	D	máximo 2 periodos seguidos
+008	D	reelección sin límite
+009	T	gobiernas tú ({0})
+010	D	Invertir en infraestructura
+011	D	Crecimiento económico
+012	D	Reforzar el ejército
+013	D	gasto militar
+014	D	Reformas sociales
+015	D	Propaganda
+016	D	Bajar impuestos
+017	D	Economía a largo plazo
+018	D	Plan antiinflación
+019	D	Desviar fondos públicos
+020	D	para ti
+021	D	riesgo de juicio
+022	D	Lanzas un plan de infraestructura.
+023	D	Compras equipo y entrenas tropas.
+024	D	Aprobación de reformas sociales.
+025	D	Campaña de propaganda nacional.
+026	D	Bajas los impuestos. La gente lo celebra.
+027	D	El banco central sube tasas; la inflación cede.
+028	D	Desvías fondos a cuentas a tu nombre.
+029	D	Ingresos del tesoro (impuestos altos)
+030	D	Ingresos del tesoro (impuestos normales)
+031	D	Ingresos del tesoro (impuestos bajos)
+032	D	Impuestos (usa una acción de gobierno)
+033	D	Impuestos (usa una acción de gobierno, requiere votación)
+034	D	Impuestos altos
+035	D	Impuestos normales
+036	D	Impuestos bajos
+037	T	Ingresos ×{0}
+038	D	Fijas los impuestos en nivel altos.
+039	D	Fijas los impuestos en nivel normales.
+040	D	Fijas los impuestos en nivel bajos.
+041	T	Emitir bonos por {0}
+042	T	Tasa {0} al año
+043	T	Pagar bonos ({0})
+044	T	Debes {0} en bonos propios
+045	T	Emites bonos por {0} a una tasa de {1}. La deuda pública sube a {2} % del PIB.
+046	T	Pagas {0} de bonos.
+047	T	Investigación civil: nivel {0} → {1}
+048	T	Investigación militar: nivel {0} → {1}
+049	T	Tu país alcanza el nivel {0} de tecnología civil ({1}).
+050	T	Tu país alcanza el nivel {0} de tecnología militar ({1}).
+051	T	Tratados: {0} (+{1} % al año)
+052	T	{0} (hasta {1})
+053	D	ninguno
+054	D	ninguna
+055	T	Embargos: {0} (−{1} % al año)
+056	T	impones a {0}
+057	T	{0} te lo impone
+058	T	Presupuesto del tesoro ({0} al año)
+059	D	Lo que no asignes se ahorra en el tesoro:
+060	D	Inversión
+061	D	Bienestar
+062	D	desarrollo de provincias y crecimiento
+063	D	tecnología civil y militar
+064	D	paga tropas extra, moral y reclutas
+065	D	felicidad y estabilidad
+066	D	Usa una acción de gobierno. Se puede cambiar cada 4 años. Pasar de democracia a otro régimen enfría la relación con las democracias y puede traer sanciones.
+067	T	Eres vasallo de {0}
+068	T	Ejércitos de {0}
+069	T	{0} soldados en {1} ejército(s)
+070	T	calidad {0} (gasto por soldado {1}/año, SIPRI)
+071	T	costo de tropas extra {0}/año
+072	D	(en el mar)
+073	D	entrenando
+074	D	moral
+075	D	abasto
+076	D	calidad
+077	D	soldados
+078	T	Reclutar en {0}
+079	T	Para reclutar en otra provincia, tócala en el mapa antes de abrir esta hoja. Los reclutas entrenan {0} mes(es) y empiezan con moral baja.
+080	T	Reclutar {0} soldados
+081	T	{0} del tesoro
+082	T	tesoro {0}. Las guerras se juegan mes a mes con tus ejércitos.
+083	T	Ejército de {0} ({1}) listo: toca el destino en el mapa.
+084	T	Te quedan {0} de 3 acciones diplomáticas este año.
+085	D	La opinión de cada país sube con embajadas y tratados y baja con ultimátums y guerras.
+086	T	su poder es {0} del tuyo
+087	T	poder {0} del tuyo
+088	T	Acciones ({0} diplomáticas, {1} de gobierno)
+089	D	Solo quien gobierna hace diplomacia.
+090	D	⚠️ Rompe el pacto de no agresión: −10 estabilidad y todos desconfían
+091	D	Mejorar relaciones
+092	D	Embajada y visitas oficiales
+093	D	Proponer alianza
+094	D	Probabilidad
+095	D	sus fuerzas te apoyan en guerra
+096	D	Romper la alianza
+097	D	Pierdes su apoyo
+098	D	Pacto de no agresión (10 años)
+099	D	no podrán atacarse sin romperlo
+100	D	Pedir acceso militar
+101	D	tus ejércitos pueden cruzar su territorio
+102	D	Renunciar al acceso militar
+103	D	Garantizar su independencia
+104	D	Siempre aceptan
+105	D	si alguien los ataca, te llamarán a defenderlos
+106	D	Retirar la garantía
+107	T	Ultimátum: exigir {0}
+108	D	Ultimátum: exigir vasallaje
+109	D	Aceptan
+110	D	si se niegan, ganas motivo de guerra (declararla no baja la estabilidad)
+111	D	el vasallo paga tributo y lucha a tu lado
+112	D	Integrar al vasallo
+113	D	Anexas todo su territorio
+114	T	requiere 5 años de vasallaje (llevas {0}) y opinión 40+
+115	D	Liberar al vasallo
+116	D	Tratado comercial (10 años)
+117	T	ambos crecen más (+{0} % al año para ti)
+118	D	Cancelar el tratado comercial
+119	D	Embargo comercial
+120	T	Su economía pierde ~{0} % al año; tú también pierdes un poco
+121	D	Levantar el embargo
+122	T	Enviar un regalo ({0})
+123	D	+15 a +25 de opinión
+124	D	Insultar a su gobierno
+125	D	−30 de opinión; si son más fuertes, pueden declararte la guerra
+126	T	Llamar a las armas contra {0}
+127	D	entra con sus ejércitos
+128	D	Proponer una unión de naciones
+129	D	Requiere opinión 75+, misma cultura o sistema y que sean más débiles
+130	T	inflación {0}.
+131	D	El banco central sube la tasa cuando la inflación pasa de su meta y la baja cuando la economía se enfría (regla de Taylor).
+132	T	Usas una moneda que no emites: la tasa la fija {0}.
+133	T	Las reformas usan una acción de gobierno (te quedan {0}).
+134	D	El mercado fija el precio y absorbe los choques; tú conservas la tasa.
+135	D	Hong Kong (caja de conversión desde 1983) y Arabia Saudita (3.75 por dólar desde 1986) mantienen tipos fijos. México en 1994, Tailandia en 1997 y Argentina en 2002 sufrieron devaluaciones cuando el tipo fijo dejó de ser creíble.
+136	D	Cada billete respaldado por dólares: muy creíble, pero sin política monetaria. Requiere un tesoro del 5 % del PIB.
+137	T	Imprimir dinero para el gobierno (señoreaje): {0}
+138	D	Financiar el gasto imprimiendo dinero llevó a hiperinflaciones en Alemania (1923), Zimbabue (2008) y Venezuela (2016-2021).
+139	D	del PIB al año
+140	T	1 nuevo = 1,000 antiguos. {0}
+141	D	México quitó tres ceros en 1993 (nuevo peso), Turquía seis en 2005, Brasil cambió al real en 1994 y Sierra Leona quitó tres ceros en 2022.
+142	T	Quitar {0} ceros
+143	T	Deja el dólar en ~{0} unidades.
+144	D	Fin de la emisión, banco central autónomo, tasa +8 y, si hace falta, quitar ceros. Funciona como el Plan Real de Brasil (1994): baja la inflación en 3 años a costa de una recesión.
+145	D	Ecuador se dolarizó en 2000 tras una crisis bancaria; El Salvador en 2001. La inflación converge a la de EE. UU., pero pierdes la política monetaria.
+146	T	Cumples los criterios. {0}
+147	T	Criterios: {0}
+148	D	Croacia adoptó el euro en 2023 y Bulgaria en 2026, tras cumplir inflación, déficit, deuda y dos años de tipo de cambio estable.
+149	T	Inflación ≤ {0} % (tienes {1} %)
+150	T	Deuda ≤ 90 % del PIB (tienes {0} %)
+151	D	Dos años fijo al euro (MTC II)
+152	T	Estabilidad ≥ 40 (tienes {0})
+153	D	Salir del euro y crear moneda propia
+154	D	Recuperas tasa y tipo de cambio, pero la transición provoca fuga de capitales, recesión y una devaluación inicial.
+155	D	Más inversión y crecimiento; vuelves a quedar expuesto a fugas de capital.
+156	D	Frena fugas y ataques especulativos, pero resta crecimiento y prohíbe comprar acciones extranjeras (como el “cepo” argentino).
+157	T	Tomas el control {0}. Ahora fijas tú la tasa; los mercados desconfían (+1 punto de inflación al año mientras dure).
+158	T	Devuelves la autonomía a {0}: vuelve a fijar las tasas con su regla (inflación y crecimiento).
+159	T	Fijas la tasa de referencia en {0} % ({1}). El crédito se encarece: frena la inflación y el crecimiento, y fortalece la moneda.
+160	T	Fijas la tasa de referencia en {0} % ({1}). El crédito se abarata: impulsa el crecimiento, pero sube la inflación y debilita la moneda.
+161	D	Para una caja de conversión necesitas reservas: un tesoro de al menos el 5 % del PIB.
+162	T	El {0} flota libremente: el mercado fija el tipo de cambio y absorbe los choques.
+163	T	La {0} flota libremente: el mercado fija el tipo de cambio y absorbe los choques.
+164	T	Flotación administrada: el banco central suaviza los movimientos del {0}.
+165	T	Flotación administrada: el banco central suaviza los movimientos de la {0}.
+166	T	El {0} queda fijo en {1} por {2}. Tu tasa seguirá a la del ancla; si tu inflación supera a la del ancla, el tipo fijo se vuelve vulnerable a un ataque especulativo.
+167	T	La {0} queda fijo en {1} por {2}. Tu tasa seguirá a la del ancla; si tu inflación supera a la del ancla, el tipo fijo se vuelve vulnerable a un ataque especulativo.
+168	T	El {0} queda en caja de conversión en {1} por {2}. Tu tasa seguirá a la del ancla; si tu inflación supera a la del ancla, el tipo fijo se vuelve vulnerable a un ataque especulativo.
+169	T	La {0} queda en caja de conversión en {1} por {2}. Tu tasa seguirá a la del ancla; si tu inflación supera a la del ancla, el tipo fijo se vuelve vulnerable a un ataque especulativo.
+170	T	Ordenas financiar al gobierno imprimiendo dinero: {0} entra al tesoro cada año. Espera más inflación y una moneda más débil.
+171	D	Dejas de imprimir dinero para el gobierno.
+172	D	La moneda no tiene tantos ceros que quitar.
+173	D	Plan de estabilización: dejas de imprimir, el banco central recupera su autonomía y sube la tasa 8 puntos. La inflación caerá con fuerza en los próximos 3 años; el costo es una recesión y menos aprobación.
+174	D	Impones controles de capital: menos ataques especulativos y fugas, pero crece menos la economía y nadie puede comprar acciones en el extranjero.
+175	D	Levantas los controles de capital: el dinero entra y sale libremente.
+176	T	fijo contra el dólar estadounidense ({0})
+177	T	fijo contra el euro ({0})
+178	D	caja de conversión (dólar estadounidense)
+179	D	caja de conversión (euro)
+180	D	Baja el tipo de cambio de inmediato; gastas reservas.
+181	D	Más competitividad exportadora y más reservas; algo más de inflación.
+182	T	Llenar la reserva estratégica ({0})
+183	D	Protege ante cortes de suministro; presiona el precio al alza.
+184	D	Tu país no emite su moneda: no puede intervenir en el tipo de cambio.
+185	D	No tienes reservas en divisas.
+186	T	Vendes {0} de reservas: el {1} se fortalece.
+187	T	Vendes {0} de reservas: la {1} se fortalece.
+188	T	Compras {0} en dólares emitiendo moneda: el {1} se debilita (más competitividad, algo más de inflación) y crecen tus reservas.
+189	T	Compras {0} en dólares emitiendo moneda: la {1} se debilita (más competitividad, algo más de inflación) y crecen tus reservas.
+190	T	Necesitas {0} en el tesoro o en reservas.
+191	T	Compras {0} toneladas de oro ({1}).
+192	D	No tienes oro.
+193	T	Vendes {0} toneladas de oro: tus reservas en divisas suben {1}.
+194	T	Necesitas {0} en el tesoro.
+195	T	Compras {0} para tu reserva estratégica ({1}).
+196	D	Tu reserva estratégica está vacía.
+197	T	Liberas {0}: entran {1} al tesoro y baja el precio mundial.
+198	D	laxa
+199	D	estricta
+200	T	{0} por pagar
+201	D	nacionalizada
+202	D	privada
+203	D	Regulación laxa
+204	D	Regulación normal
+205	D	Regulación estricta
+206	D	Crédito barato a empresas de las provincias más pobres: +desarrollo y +crecimiento por 3 años.
+207	D	Para infraestructura: +0.5 de desarrollo en tus 10 provincias más pobres; sube la deuda.
+208	D	El Estado decide el crédito; los bancos caen en bolsa y la economía crece menos.
+209	D	Fijas una regulación bancaria laxa.
+210	D	Fijas una regulación bancaria normal.
+211	D	Fijas una regulación bancaria estricta.
+212	T	El FMI presta {0} (mitad al tesoro, mitad a reservas). Condiciones: 3 años de austeridad (menos crecimiento y aprobación), sin imprimir dinero y banco central autónomo.
+213	T	El Banco Mundial presta {0} para infraestructura: +0.5 de desarrollo en tus 10 provincias más pobres y más crecimiento por 5 años.
+214	T	La banca de desarrollo presta {0} a empresas de las provincias más pobres: +desarrollo y algo más de crecimiento por 3 años.
+215	D	Nacionalizas la banca: el Estado decide a quién prestar. Los bancos caen en bolsa y el crédito se vuelve menos eficiente (−0.3 % de crecimiento al año).
+216	D	Reprivatizas la banca: vuelve la competencia.
+217	T	{0} no tiene producción relevante de petróleo, gas, minerales ni granos de exportación.
+218	D	Regalías de 10 % → 35 %; menos inversión (−0.3 % de crecimiento al año) y las empresas del sector caen en bolsa. Como México con el petróleo en 1938 o Bolivia con el gas en 2006.
+219	D	Prohibir exportaciones (usa una acción): sube el precio mundial y abastece tu mercado, pero pierdes divisas.
+220	D	Nacionalizas el petróleo y la minería: las regalías al tesoro suben del 10 % al 35 % del valor producido, pero baja la inversión (−0.3 % de crecimiento al año) y las empresas del sector caen en bolsa.
+221	D	Reprivatizas el sector: vendes concesiones (5 % del valor anual al tesoro) y la inversión vuelve; las regalías regresan al 10 %.
+222	T	Prohíbes exportar {0}: el precio mundial sube y el mercado interno se abastece, pero pierdes divisas (frena tu crecimiento).
+223	T	Levantas la prohibición de exportar {0}.
+224	D	Sin batallas recientes.
+225	T	Gral. {0}
+226	D	Ofensivo (+15 % al atacar)
+227	D	Defensivo (+15 % al defender)
+228	D	Logístico (−35 % de desgaste y mejor abasto)
+229	D	Veloz (+1 de movimiento al mes)
+230	D	Carismático (la moral se recupera el doble)
+231	D	Montañés (+25 % en montaña y colinas)
+232	D	Inexperto (−10 % en batalla; aprende rápido)
+233	D	barriles
+234	D	mil barriles
+235	D	mil M barriles
+236	D	millones de BTU
+237	D	mil millones de BTU
+238	D	mil M millones de BTU
+239	D	toneladas
+240	D	mil toneladas
+241	D	mil M toneladas
+242	D	toneladas de carbonato
+243	D	mil toneladas de carbonato
+244	D	toneladas de óxidos
+245	D	mil toneladas de óxidos
+246	D	onzas
+247	D	mil onzas
+248	D	mil M onzas
+249	D	libras de U₃O₈
+250	D	mil libras de U₃O₈
+251	D	mil M libras de U₃O₈
+252	D	Barriles
+253	D	Millones de BTU
+254	D	Toneladas
+255	D	Toneladas de carbonato
+256	D	Toneladas de óxidos
+257	D	Onzas
+258	D	Libras de U₃O₈
+259	D	por barril
+260	D	por millón de BTU
+261	D	por tonelada
+262	D	por tonelada de carbonato
+263	D	por tonelada de óxidos
+264	D	por onza
+265	D	por libra de U₃O₈
+266	D	M barriles
+267	D	M toneladas
+268	D	M onzas
+269	D	M millones de BTU
+270	D	M libras de U₃O₈
+271	D	M toneladas de carbonato
+272	D	M toneladas de óxidos
+273	T	reserva de reclutas {0} (población movilizable)

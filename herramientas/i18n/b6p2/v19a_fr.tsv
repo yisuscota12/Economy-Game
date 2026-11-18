@@ -1,0 +1,120 @@
+506a34	Vivez, investissez et gouvernez dans le monde réel de 2026.
+e6fcd8	Continuer la partie
+7d9fd1	Retour au jeu
+e4ec59	Nouvelle partie
+e77cdc	Commencer une vie
+f24a47	Parties sauvegardées
+9ced0e	Style de couverture
+a1b16e	Nuit
+6cefe9	Planète
+ed2c91	Marchés
+8bd28d	Atlas
+b7d1df	Chargement de la carte…
+af3525	Données du monde
+2cbf5b	Natural Earth (frontières, routes, relief), geoBoundaries (districts), Wikidata (population), Banque mondiale, FMI, OIT, OMS, SIPRI, EIA, AIE, USGS, FAO, WGC et WNA.
+c179d9	Icônes
+3cf419	Tabler Icons (licence MIT) et icônes maison.
+77722f	Fiction
+b140a9	Entreprises, clubs, ligues commerciales, organismes, promoteurs, prix et marques sont fictifs, inspirés des vrais. Pays, villes et données sont réels.
+84a715	Retour
+e8786c	Retour à la couverture
+4c0145	Couverture
+0c83db	Touchez pour la voir et changer de style.
+a7ac7d	habitants
+b6c144	par personne
+93e630	Vous vivez ici
+cedc95	Occupée
+0d6919	En guerre
+58dc18	Fiche
+ee5318	Clubs
+f60922	Zoomer
+4b0816	Fermer
+f664ca	Fiche du lieu
+7c86cc	Votre pays
+0fec4c	Étranger
+b86427	Occupée par {0}
+d2bbbe	anciennement {0}
+cf0dc3	Expliquer
+4cd516	Province
+0c664f	Pays
+f7e632	Villes ({0})
+f8e94c	Population
+618cf4	PIB
+83e922	(est.)
+8a44a3	PIB par habitant
+6af8c0	Densité
+71739b	hab./km²
+2cb7bf	Bonheur
+60ed4c	Développement
+79f1a0	Croissance
+699169	Terrain
+8121ac	Noyau
+873caa	Oui
+816c52	Non
+fb7f24	Ressources
+87d2de	Bâtiments
+f9dcd5	Vos intérêts ici
+304287	Qu’est-ce que cela signifie ?
+ff4b2a	Actions ici
+bfec88	Voir sur la carte
+96ad6f	Personnes qui vivent ici, selon les recensements et estimations récentes.
+c01e30	Plus de population, c’est plus de marché pour vos entreprises, plus de voix et plus d’impôts pour le gouvernement.
+4b0528	Valeur de tout ce qui est produit ici en un an (produit intérieur brut).
+94d1e0	Il fait bouger les salaires, les ventes de vos entreprises et les recettes de l’État ; il monte ou baisse chaque année.
+417e28	Le PIB divisé par la population : la mesure la plus utilisée du niveau de vie moyen.
+fdcc52	Il fixe les salaires et les prix locaux : une entreprise rapporte plus là où il est élevé, mais coûte plus cher à ouvrir.
+075e00	Habitants par kilomètre carré : indique à quel point la zone est urbaine ou rurale.
+fb2e47	Les zones denses concentrent clients et emplois ; les zones peu denses, terres et ressources.
+0a1929	Satisfaction de la population ; dans le monde réel, elle se mesure par des enquêtes comme le Rapport mondial sur le bonheur.
+edf38f	Avec un bonheur faible, les manifestations, les rébellions et la perte de soutien au gouvernement augmentent.
+91317c	Infrastructures, services et capital humain accumulés (de 0 à 10).
+1a45b3	Il augmente la production et la croissance de la province ; le gouvernement peut investir pour l’améliorer.
+048ee9	Variation annuelle du PIB de la province.
+c7eb8c	Les investissements rapportent davantage là où l’économie croît.
+b4ead8	Relief et climat : montagnes, jungles et déserts sont difficiles à conquérir et à ravitailler.
+b1fa53	Il multiplie la défense en temps de guerre et affecte la production.
+7fb1e6	Une province est un noyau quand sa population s’identifie au pays qui la gouverne.
+23f39c	Si ce n’est pas un noyau : −20 de bonheur et moitié moins d’impôts jusqu’à l’assimilation.
+7a0bb5	Gisements et cultures stratégiques selon les données de production réelles du pays.
+3311ed	Leur valeur dépend des prix mondiaux : guerres et crises les font varier.
+e00bbe	Stabilité
+7214b1	La solidité du gouvernement face aux manifestations, coups d’État et rébellions.
+0cc466	Avec une stabilité faible, il y a plus de crises, de grèves et de changements de gouvernement.
+ce4ec9	Voir votre pays
+45c933	Diplomatie
+3c22db	Renommer
+672410	Capitale du pays
+39e5af	Ville nº {0} du pays
+6ce898	Habitants
+c0aae1	De la province
+5221e7	Population de la ville ou de son aire métropolitaine, selon le recensement le plus récent disponible.
+10862d	Les grandes villes concentrent emplois formels, clients et clubs ; la vie y coûte plus cher.
+09d2a9	Clubs de football
+f08aff	Déménager ici
+7525c0	Aucune ville enregistrée dans cette province.
+64b2d0	À venir
+114d8b	Combat
+672b22	Finale
+08ece5	Spectacle
+83d224	Prix
+88d830	Évaluation des performances
+43ba44	Une conversation arrive à échéance
+ab1dab	Élections
+1a6b70	Nouvel an
+0dc62a	Fin du mois
+ec80f5	aujourd’hui
+a8079d	dans {0} jours
+9e88a6	Votre vie sociale
+8a0a5f	Votre vie sociale : bonne
+99ffcb	Votre vie sociale : stable
+08b3cd	Votre vie sociale : tendue
+f5847d	Votre vie sociale : aucune relation proche
+103156	Bulle en touchant la carte : activée
+6883c6	Bulle en touchant la carte : désactivée
+624861	En touchant une province ou une ville, ses informations apparaissent avec des boutons pour agir sur place.
+1d7e7b	En touchant la carte, seule la fiche du bas est mise à jour, comme avant la v1.9a.
+6e5f0f	Bienvenue dans ECONOMY
+31853e	La carte : bulle et fiche du lieu
+b8a8a8	Crédits du jeu
+173a56	dans 1 jour
+a5460c	multiplicateur de défense

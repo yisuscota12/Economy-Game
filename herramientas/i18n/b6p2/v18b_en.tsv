@@ -1,0 +1,6 @@
+79fb15	⚙️ Background saving: on
+b5a885	⚙️ Background saving: off
+ba9757	Your game is prepared and compressed on another thread so the screen doesn't stutter while saving.
+bebce2	Your game is saved on the main thread, as before v1.8b.
+f3bfa7	Not available in this browser: the usual saving is used.
+14ce48	Advance stopped. {0} day(s) left: tap the button again to finish it.

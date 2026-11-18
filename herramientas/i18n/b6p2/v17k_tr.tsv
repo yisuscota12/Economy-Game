@@ -1,0 +1,573 @@
+0adf3f	{0}, {2} ülkesinden {1} eyaleti fethediyor; aralarında {3} de var.
+cd602f	{0}, {1} bölgesini fethediyor (eskiden {2} ülkesine aitti).
+fd755b	{0} haritadan siliniyor.
+8c3216	Savaş ({0}): ülken 12 aylık çatışmanın {1} ayını kazandı. Moral %{2}.
+937532	{0} bu yıl {2} ülkesinden {1} eyalet aldı.
+9d2ed9	{0}, {1} ülkesine savaş ilan ediyor.
+7d6d2f	Birçok ülke {0} ülkesine ticari yaptırım uyguluyor.
+f0b630	Barış: {0} ve {1}.
+a2623f	Resesyon ({0}): ekonomi küçülüyor.
+68b345	Darbe ({0}): yönetimi {1} ele geçiriyor.
+632f75	{0} demokrasiye geri dönüyor.
+e06af8	{0} teslim oluyor ve {1} eyaleti {2} ülkesine bırakıyor.
+46b146	{0}, {1} ülkesini savunmak için savaşa giriyor.
+f996aa	{0}, {1} ülkesine karşı ayaklanıyor ve bağımsızlığını ilan ediyor.
+6b46f4	{0}, {2} tarafında {1} ülkesine karşı savaşa giriyor.
+23dc97	{0}, {2} ülkesinin {1} eyaletini elinde tutuyor.
+ce167e	İsyan: {0}, {2} eyalette {1} ülkesinden bağımsızlığını ilan ediyor.
+93d462	Huzursuzluk ({0}): halkın bir kısmı {1} yönetimini kabul etmiyor.
+154566	{0} ve {1} askeri ittifak imzalıyor.
+ec52a2	Huzursuzluk ({0}): mutluluk {1} seviyesinde.
+4351e1	İsyan ({0}): {1}, {2} ülkesinden bağımsızlığını ilan ediyor.
+52e3fb	{0} bağımsızlığını geri kazanıyor.
+75a832	{0}, {1} ülkesinin vasalı olarak bağımsızlığını geri kazanıyor.
+de6703	{0} kendini ilan ediyor: {1}.
+2579bb	Devrim ({0}): yeni rejim {1}.
+81f70d	Kolombiya Borsası
+ab62d1	Santiago Borsası
+662ec5	Toronto Borsası
+769bbc	Londra Borsası
+5c67e5	Euronext Amsterdam
+781045	Euronext Paris
+e24dbc	Frankfurt Borsası (Xetra)
+d7ffbb	Madrid Borsası
+7b50ae	Varşova Borsası
+720241	Tokyo Borsası
+7e2880	Şanghay ve Shenzhen borsaları
+d8a4ee	Hong Kong Borsası
+11e55e	Kore Borsası
+e46110	Tayvan Borsası
+e6f8e1	Hindistan Ulusal Borsası
+af2ac1	Singapur Borsası
+d7ae01	Endonezya Borsası
+def80b	Avustralya Borsası
+062b18	Tel Aviv Borsası
+518b0d	Johannesburg Borsası
+e528e5	MOEX Endeksi
+ffe2f8	Moskova Borsası
+526456	Nijerya Borsası
+c064f5	Mısır Borsası
+9e2919	E-ticaret
+a2cea1	Sağlık ve ilaç
+d7e98f	Savunma ve havacılık
+403d0f	Medya ve eğlence
+57e548	Kamu hizmetleri
+158c86	milyon BTU
+d24bde	milyar m³
+96c770	milyon ton
+ef1058	bin ton
+2067d4	ton karbonat
+3c52b5	bin ton karbonat eşdeğeri
+92c927	bin ton oksit
+b67943	ton oksit
+876706	ton uranyum
+f057e1	libre U₃O₈
+8a3c09	Yemek büfesi
+92653a	Bakkal
+e9fd9e	Oto tamirhanesi
+9fc1b1	Yazılım şirketi
+a9dadb	Giyim mağazası
+a9a6b7	Çevrimiçi mağaza
+e8df6f	Pazarlama ajansı
+7bb2fd	Video oyun stüdyosu
+26823a	Yük taşımacılığı
+96ea93	Taksi filosu
+27c105	Tıp kliniği
+7f92f4	Kiralık gayrimenkul şirketi
+6b4140	Finansman şirketi (krediler)
+cca0d4	Tarım çiftliği
+2d1f04	Para piyasası fonu (kısa vadeli borç)
+a34efa	Ülkenin politika faizini, eksi ücretler, kazandırır; neredeyse risksiz
+e98580	Tahviller ve biraz hisse
+06460f	Dünya hisseleri: daha çok getiri, daha sert düşüşler
+1e019b	Emtia fonu
+733bfd	Petrol, altın ve bakır
+a7708a	Büyüme fonu
+0e6f9f	Hedge fon
+5baa46	Kaldıraçlı makro strateji; %2 ve kazancın %20'sini alır
+03af00	3 yıl boyunca vergi geliri +%8; onay −2
+9bddc8	Vergi geliri +%5; en zenginler arasında onay −3
+b08957	Vergi kaçakçılığıyla mücadele
+f65139	Vergi tahsilatı ve harcama denetimi
+09dab7	Yabancı yatırım çekmek
+50b899	Küçük işletmelere destek
+50dc72	Büyüme +%0.2 ve +mutluluk
+53b83a	3 yıl boyunca büyüme +%0.4
+97c62c	Büyüme, yatırım ve ticaret
+05e424	5 yıl boyunca kaynak üretimi +%10
+3fd6c3	+mutluluk, −petrol bağımlılığı
+7948ee	Temiz enerjiye geçiş
+7d1981	Petrol sahaları ve madenler için ihale açmak
+b3c719	Petrol, gaz, elektrik ve madencilik
+0c9836	Ordu kalitesi +%5
+1ef1d5	Onay kaybetmeden +asker
+d9f99b	Askeri teçhizatı modernize etmek
+442f9d	Diplomatik tur
+50e246	Serbest ticaret anlaşmaları
+bcd226	Diplomasi, antlaşmalar ve dış ticaret
+c8f7fd	Komşularında +10 görüş
+ff7559	3 yıl boyunca büyüme +%0.3
+503860	Eyaletlerde +mutluluk, −1 istikrar
+5a570f	İç istikrar, seçimler ve çatışmalar
+76f05d	+6 istikrar
+d63fe9	İçişleri
+dc8778	Muhalefetle diyalog
+24a34a	3 yıl boyunca suçlarda −%25; +onay
+51971c	Polis ve suçla mücadele
+7b1a71	Polisi profesyonelleştirmek
+826c00	Suçlarda kalıcı −%15
+b3d3cf	Organize suça karşı operasyon
+1fbfd0	Okullar, üniversiteler ve bilim
+49dea8	Ulusal burs programı
+556aab	Yeni devlet üniversiteleri
+c74b42	+kalkınma ve +araştırma
+cf816c	En yoksul eyaletlerde +0.5 kalkınma
+06b593	En kalabalık eyaletlerde +mutluluk
+25559a	Aşı kampanyası
+58d801	+mutluluk ve daha az ölüm
+bde775	Hastaneler ve halk sağlığı
+1d9314	Kırsal eyaletlerde +kalkınma
+6e583e	Yol programı
+830e44	Yollar, limanlar ve iletişim
+8a3835	Kırsal internet ağı
+9acb91	+kalkınma ve büyüme +%0.2
+5fd837	5 yıl boyunca tarımsal üretim +%15
+73a24c	Tarım ve gıda
+84deda	Tarımsal üretim +%10 ve +kırsal mutluluk
+87f4d3	Tarım sübvansiyonları
+0cbf46	+mutluluk; büyüme −%0.1
+6ea7a2	Asgari ücrete zam
+852b3d	İstihdam ve ücretler
+d2c17e	Büyüme +%0.1 ve +mutluluk
+d5fde1	Mesleki eğitim
+9cbd36	3 yıl boyunca turist +%20 (oteller, barlar, kuyumcular)
+c2f941	Turizm tanıtımı
+f44aab	Uluslararası turizm kampanyası
+06ef63	Doğal kaynaklar ve kirlilik
+d790f3	Ulusal ağaçlandırma
+9e3909	Departman şefi
+dc00cd	Alan direktörü
+4e7aed	Para birimi değişimi: {0} ({1}) birikimin artık {2} ({3}), günün kuruyla.
+4c0c27	Döviz krizi ({0}): spekülatif saldırının ardından {1} %{2} değer kaybediyor (dolar başına {3} → {4}) ve dalgalanmaya geçiyor.
+5bc580	Döviz krizi ({0}): {1} %{2} değer kaybediyor (dolar başına {3} → {4}).
+7573fa	Döviz krizi ({0}): {1} %{2} değer kaybediyor (dolar başına {3} → {4}) ve dalgalanmaya geçiyor.
+901c84	Döviz krizi ({0}): spekülatif saldırının ardından {1} %{2} değer kaybediyor (dolar başına {3} → {4}).
+0fcdb7	Para reformu: {0} parasından bir sıfır atıyor. Her {1}, eski paranın {2} birimine eşit.
+52361a	Para reformu: {0} parasından {1} sıfır atıyor. Her {2}, eski paranın {3} birimine eşit.
+5c2150	Para reformu: {0} parasından bir sıfır atıyor; yeni para: {1}. Her {2}, eski paranın {3} birimine eşit.
+b988c5	ihraççı
+fb4c96	Para reformu: {0} parasından {1} sıfır atıyor; yeni para: {2}. Her {3}, eski paranın {4} birimine eşit.
+3d88d2	Ülken para birimini değiştiriyor: artık {0} kullanıyorsun. Paran günün kuruyla çevriliyor ({3} başına {1} {2}).
+407655	{0}, {1} para birimine geçiyor. {2} tedavülden kalkıyor.
+53d50f	{0}, {1} para birimine geçiyor {2}. {3} tedavülden kalkıyor.
+88d019	yeni para birimi ({0})
+7e847e	para birliğinden çıkış
+a7a31d	{0}: {1} yönetimli dalgalanmaya geçiyor.
+b09a14	{0}: {1}, {2} karşısında sabitleniyor (birim başına {3}).
+bec586	{0}: {1}, {2} karşısında para kuruluna geçiyor (birim başına {3}).
+cdcf0d	hiperenflasyonu durdurmak için
+3de844	{0} istikrar planı başlatıyor: harcama kesintisi, para basımına son ve faiz artışı.
+b51406	{0} savaşı para basarak finanse ediyor.
+6b55dc	Maastricht kriterlerini karşıladıktan sonra
+1f1e10	yılda GSYİH'nin %10'u
+510406	yılda GSYİH'nin %1'i
+86bdd5	yılda GSYİH'nin %6'sı
+e6498b	yılda GSYİH'nin %3'ü
+95d74b	{0}: sert düşüş — neden: {1} ({2}).
+98fdc3	{0}: sert yükseliş — neden: {1} ({2}).
+5195af	{0} faizi {1} puan indirerek %{2} yapıyor. Borsalar seviniyor.
+b1cece	{0} faizi {1} puan artırarak %{2} yapıyor. Borsalar sarsılıyor.
+b5d367	Borsa çöküşü: Wall Street yıllarca şişen değerlemelerin ardından paniğe kapılıyor; dünya piyasaları düşüyor.
+f35e57	Borsa çöküşü: Wall Street bir satış dalgasıyla paniğe kapılıyor; dünya piyasaları düşüyor.
+a03436	{0} çeyrek sonuçlarında beklentiyi aşıyor: kâr beklentinin %{1} üzerinde. Hisse %{2} yükseliyor.
+b644f6	{0} çeyrek sonuçlarında hayal kırıklığı yaratıyor: kâr beklentiye göre %{1}. Hisse %{2} düşüyor.
+8903b0	{0} iflas ediyor ve borsadan çıkıyor.
+b320a8	bir savaşın patlak vermesi
+306ba3	resesyon
+329727	uluslararası yaptırımlar
+5b3d47	darbe
+54883d	ülkenin işgali
+96f236	Bu şirket artık borsada işlem görmüyor.
+0e4270	Aracı kurum hesabı açmak için 18 yaşında olmalısın.
+4e9e7a	Hapisteyken işlem yapamazsın.
+ec0e51	Ülkende sermaye kontrolü var: yabancı hisse alamazsın.
+dcacf4	Savaştasın ({0}): o ülkenin borsası sana kapalı.
+f7b7e6	Moskova Borsası yaptırımlar nedeniyle yabancılara kapalı.
+97dd29	Açığa satış için kredili hesap gerekir.
+33a539	Hisselerin {0} işlem günü daha kilitli (halka arz kilit süresi).
+e955a1	Geçersiz miktar.
+938be8	Kapatacak açık pozisyonun yok.
+bf23b6	Önce açık pozisyonunu kapat.
+72bad5	Yetmiyor: {0} gerekiyor.
+23bc5d	Yetersiz teminat: kredili hesapla sermayenin iki katına kadar alabilirsin ({0}).
+a242eb	Bu şirketin hissesine sahip değilsin.
+0af9ab	Bu açığa satış için teminat yetersiz (sermaye {0}).
+d0f3fa	Önce bu şirketteki hisselerini sat.
+f015ab	{0} hisselerinin sonuncusunu satıyorsun: şirket artık senin değil.
+d2c2f7	{0}: {2} hissesinden {1} adet, {3} fiyattan (komisyon {4}).
+0051eb	Limit emir kaydedildi: {0} adet geri al, fiyat {1}. 90 işlem gününde sona erer.
+467bbd	Stop emir kaydedildi: {0} adet geri al, fiyat {1}. 90 işlem gününde sona erer.
+4fee5d	Geçersiz fiyat.
+672292	Limit emir kaydedildi: {0} adet al, fiyat {1}. 90 işlem gününde sona erer.
+964fba	Stop emir kaydedildi: {0} adet sat, fiyat {1}. 90 işlem gününde sona erer.
+b7db44	Stop emir kaydedildi: {0} adet al, fiyat {1}. 90 işlem gününde sona erer.
+c59d95	Limit emir kaydedildi: {0} adet açığa sat, fiyat {1}. 90 işlem gününde sona erer.
+ebdb9f	Stop emir kaydedildi: {0} adet açığa sat, fiyat {1}. 90 işlem gününde sona erer.
+f02450	Limit emir kaydedildi: {0} adet sat, fiyat {1}. 90 işlem gününde sona erer.
+42854e	⚠️ Teminat çağrısı: aracı kurumun teminatı karşılamak için {0} pozisyon satıyor.
+5044ca	Borsa hesabında teminat çağrısı.
+0653b0	Yatırımını kaybediyorsun ({0}): şirket iflas etti.
+ebb2d0	Açığa satışın ({0}) tam kazanç getiriyor: şirket iflas etti.
+480fd3	Borsa kazanç vergisi (%{0}): {2} kazanç üzerinden {1}.
+95f5d0	Yıl içinde alınan temettü: {0}.
+49fdcc	İşletmen henüz halka açılamaz (kârlı büyük bir şirket olması gerekir).
+12e946	{0} halka açılıyor ({1}): hisselerinin %{2} kadarını satıyor ve değeri {3}.
+260753	Şirketin halka açılıyor! %{0} satıyorsun ve {1} alıyorsun (%7 aracılık komisyonu). %{2} sende kalıyor, 6 ay satış yasağıyla.
+7a099a	{0} zarar nedeniyle kapanıyor ve borsadan çıkıyor.
+78d746	Spekülatif saldırı ({0}): piyasalar, dolar başına {1} kurunu koruyamayacağına bahse giriyor (denge değeri yaklaşık {2}). Hazine ve rezervler baskı altında.
+e130ce	Savun: faizi 8 puan artır ve rezerv sat
+1301e6	Bahsi kaybediyorsun: rezervler tükeniyor ve para, düzenli bir devalüasyonda olacağından daha çok çöküyor.
+898e93	Saldırıya direniyorsun: {0} rezerv harcıyorsun ve faiz %{1} oluyor. Ekonomi soğuyor ama kur tutunuyor.
+2c2401	Düzenli devalüasyon yap ve sabit kuru yeni seviyede tut
+57ce7e	Düzenli bir devalüasyon açıklıyorsun. Acı veriyor ama piyasa sakinleşiyor.
+b11a06	düzenli devalüasyon
+e1eac8	Parayı dalgalanmaya bırakıyorsun. Bir anda ayarlanıyor ve merkez bankası faiz belirleme özerkliğini geri alıyor.
+62745c	Özerklik geri verildi: {0} faizi yine kendi kuralıyla belirliyor (enflasyon ve büyüme).
+ae037b	{0} sıfır atıyorsun: 1 {1} = {2} eski birim. Fiyatlar ve maaşlar yeniden yazılıyor; satın alma gücü değişmiyor.
+2b6ab6	{0} yeni parayla istikrar planı başlatıyor: para basımına son, bağımsız merkez bankası ve faiz artışı.
+ec5085	{0} istikrar planı başlatıyor: para basımına son, bağımsız merkez bankası ve faiz artışı.
+a7381e	İstikrar planı: para basmayı bırakıyorsun, merkez bankası özerkliğini geri alıyor ve faizi 8 puan artırıyor; yeni para: {0}. Enflasyon önümüzdeki 3 yılda sert düşecek; bedeli resesyon ve daha az onay.
+a37ef7	avro bölgesi üyesi olarak
+02ba38	{0}, {1} para birimine geçiyor. Enflasyonun ABD'ninkine yaklaşacak ama para politikasını ve senyorajı kaybediyorsun.
+27503e	{0}, {1} para birimine geçiyor. Enflasyonun avro bölgesininkine yaklaşacak ama para politikasını ve senyorajı kaybediyorsun.
+83d01c	{0} para biriminden çıkıp {1} ({2}) para birimini başlatıyorsun. Para politikasını geri kazanıyorsun ama geçiş korkutucu: sermaye kaçışı, resesyon ve zayıf doğan bir para.
+5ec038	2026 öncesinden beri
+632f4c	IPC Meksika endeks fonu
+58f214	Şanghay endeks fonu
+4567fe	yükseliş sonrası kâr satışları
+4a0bcf	belirsizlik karşısında güvenli liman arayışı
+6b8028	piyasalardaki spekülasyon
+dda919	dünya ekonomisindeki yavaşlama
+fce0e8	arzdaki düşüş ({0})
+270591	{0} bu ay %{1} yükseliyor (neden: {2}): {3}.
+ed8840	{0} bu ay %{1} düşüyor (neden: {2}): {3}.
+51b04a	{0} iç fiyatları dizginlemek için ihracatı yasaklıyor: {1}; dünya üretiminin %{2} kadarı bu ülkede.
+bf48f2	{0} ihracat yasağını kaldırıyor: {1}.
+804a21	ihracat yasağı
+cf7c6d	toprak kaybı
+c4f935	{0} ({1}), dünyanın %{2}
+f95218	üretim aksaklıkları
+27ccad	{1} başına {0} ABD$
+43f16e	18 yaşında olmalısın (yemek büfesi için 16).
+8bc824	Hapisteyken işletme açamazsın.
+aba2e5	Zaten {0} şirketin var: önce birini sat ya da kapat.
+7b7e1d	Bu eyalette maden yatağı yok. Kaynak haritasında ⛏️ olan bir eyalet ara.
+10b067	Savaşta olduğun bir ülkeye yatırım yapamazsın.
+5c65e7	Bu eyalette ne petrol ne gaz var.
+204331	Yeni işletmeni açıyorsun ({0}, konum: {1}): mekân ve ekipmana {2}, işletme sermayesine {3} yatırıyorsun.
+55514d	Yeni işletmeni açıyorsun ({0}, konum: {1}): mekân ve ekipmana {2}, işletme sermayesine {3} yatırıyorsun (banka kredisi: {4}).
+ffc91d	💥 {0} iflas ediyor: borçlar ({1}) değerini aşıyor. İşletmeyi ({2}) kapatıyorsun ve yatırdığını kaybediyorsun.
+0238eb	Bu iş kolu için azami şube sayısına ulaştın ({0}).
+be71a6	{0} gerekiyor (şirket kasası + senin paran).
+6eba35	{1} için {0} numaralı şubeyi açıyorsun ({2}) ve {3} çalışan işe alıyorsun.
+f83e91	Tek şuben bu: kapatmak için şirketi kapat.
+fd80e9	Bir şubeyi kapatıyorsun ve ekipmanı satarak {0} geri alıyorsun.
+ceb925	Personelsiz kalamazsın.
+926cc6	{0} çalışanı işten çıkarıyorsun ve {1} kıdem tazminatı ödüyorsun (3 aylık maaş).
+69d59b	Banka sana artık kredi vermiyor: borcun, şirketin kazancına göre zaten yüksek.
+77945d	Banka {1} için yıllık %{2} faizle {0} kredi veriyor.
+571a62	{0} borç ödüyorsun.
+62681d	Borç ödemek için kasada para yok.
+0e8dd9	{1} kasasına {0} koyuyorsun.
+aae75a	Koyacak paran yok.
+1c0c3a	Şirketin kasası boş.
+7d0bde	{1} kasasından {0} çekiyorsun.
+31b219	{0} işletmesini {1} karşılığında satıyorsun (borçları ödendikten sonra).
+4a941c	Şirketin borsada: hisselerini 📈 Borsa üzerinden sat.
+630e0d	Borsadaki bir şirket böyle kapatılamaz: hisselerini sat.
+ecb515	{0} işletmesini kapatıyorsun: ekipmanı elden çıkarıyor, borçları ve tazminatları ({1}) ödüyorsun. Elinde {2} kalıyor.
+27ea54	{0} {1} alıyorsun, fiyat {2} ({3}).
+6b0250	O hammaddeden hiç yok.
+bae7f6	{0} {1} satıyorsun, karşılığı {2}.
+7c925f	Yetmiyor.
+baf6a2	Savaşta olduğun bir ülkenin borcunu alamazsın.
+bbf6f5	Ülkende sermaye kontrolü var.
+6af867	{0} 10 yıllık tahvili alıyorsun ({1}): yıllık %{2} getiri, para birimi {3}.
+13cebb	{0} tahvillerini {1} karşılığında satıyorsun.
+305eb6	{0} borç moratoryumu ilan ediyor: tahvil sahipleri yaklaşık %45 geri alıyor.
+dd05d2	{0} tahvillerin moratoryum nedeniyle %55 kesintiye uğruyor.
+43a741	{0} ortadan kalkıyor: tahvilleri %30 üzerinden ödeniyor.
+9b507f	{0} tahvillerinin vadesi doluyor: {1} alıyorsun.
+bf7d52	{0} petrol ve madenciliği millileştiriyor: devlet rantın daha büyük kısmını alıyor.
+ee4020	{0} ihracatı yasaklıyor: {1}.
+2d50c7	Masa şefi
+700b36	Yatırım direktörü
+8d5800	MBA (işletme okulu)
+0257bd	öğrenim ücreti {0}/yıl
+6e153a	lisansüstü
+e9d78e	Müdür ya da Ortak olarak başlarsın
+113347	kariyer CEO'ya kadar yükselir
+4d769b	Seçme sürecini geçemiyorsun. Gelecek yıl tekrar dene ya da profilini güçlendir.
+576d1c	{0}/yıl
+656ad2	Kurumsal bir şirkete Müdür olarak gir (MBA)
+23a64d	Ekonomi, Mühendislik, MBA ya da sertifika gerekir
+85fa39	Trader'dan itibaren gerçek parayı yönetirsin
+7ca370	Teknik mülakatları geçemiyorsun.
+0b52a0	geçme ~%{0}
+569c92	finans kariyerini açar ve terfilerini iyileştirir
+57e016	Finansal analist sertifikası: seviye {0}/3 ({1})
+c0e5e6	Yıllık sınav
+3995f8	Sertifikanın {0}. seviyesini geçiyorsun.
+7a09c7	Sınavda kalıyorsun: gelecek yıl tekrar girebilirsin.
+3e742d	Kursu bitiriyorsun: piyasayı daha iyi okuyorsun.
+cb3f9d	Trading ve piyasalar kursu ({0})
+24274d	İşletme yönetimi diploması ({0})
+8cfc92	Diploma programını bitiriyorsun.
+8c5619	{0} genel müdürlüğü (yılda bir karar)
+48abe7	{1} bünyesinde {0} yönetiyorsun
+d5ff8d	İşin
+efa665	📊 İşlem masası
+2edaf0	Yatırımcılar sana sermaye emanet ediyor; %2 yönetim ve kazancın %20'sini alıyorsun
+42564e	{0} katkı yapıyorsun
+ca4b86	Kendi yatırım fonunu kur
+6e5622	📈 Fonun: {0}
+17d3c4	Piyasa genişleme planını ödüllendiriyor.
+5a0b5e	3 yıl boyunca +kâr büyümesi; ters giderse hisse düşer
+841768	Agresif büyüme
+8ecc3d	Büyüme planlanandan pahalıya mal oluyor: hisse düşüyor.
+4c6e13	Maliyetleri kısıyorsun: kâr ve hisse yükseliyor ama şirket içi hava kötüleşiyor.
+7b6f53	Maliyet kesintisi
+e0576a	Bu yıl +kâr; moral ve itibar düşer
+9399ec	Hisselerin %4'ünü geri alıyorsun: hisse başına kâr artıyor.
+b458d4	Hisse fiyatını yükseltir; şirket kasasını kullanır
+c27d10	Hisse geri alımı
+27184f	Uzun vadeli yatırımcı çeker
+69918e	Temettü %{0} oluyor.
+c2999f	Temettüyü artır
+2df232	İnovasyona oynuyorsun: bugün daha az kâr, yarın daha çok büyüme.
+564eee	Bugün kârdan yer, sonra daha çok büyüme getirir
+85448f	İnovasyona yatırım (Ar-Ge)
+035f3b	Satın alma için fazla ödedin: hisse cezalandırılıyor.
+63f610	Kâr +%12; fazla ödeme riski
+b5d232	Bir rakibi satın al
+fe8ebd	Satın alma işe yarıyor: pazar payı kazanıyorsun.
+abb0ef	🇯🇵 Japonya hisseleri
+0a7cf6	🛢️ Petrol
+584d6a	🏛️ ABD 10 yıllık tahvilleri
+e72c5c	{0} fonunu kuruyorsun: {1} koyuyorsun, ilk yatırımcıların dört katını ekliyor. Yılda %2 yönetim ücreti ve kazancın %20'sini alıyorsun.
+5106eb	💥 Yıl içinde masanın sermayesinin %{0} kadarını kaybediyorsun: {1} seni kovuyor.
+5f5a62	{0} fonun kapanıyor: yatırımcılar neredeyse her şeyi çekti. {1} geri alıyorsun.
+4a3689	Masan yılı %{0} ile kapattı: prim yok.
+c12d26	Masan %{0} kazandı ({1}). Prim: {2}.
+1a153c	{0} yıl içinde %{1} getiri sağladı.
+a1a82b	{0} yıl içinde %{1} getiri sağladı: {2} performans ücreti alıyorsun.
+7e1ebe	Şirketin ortadan kalkıyor: makamsız kalıyorsun.
+45d93c	Yönetim kurulu sana {0} prim ödüyor: hisse endeksi {1} puan geçti.
+ab150a	{0} yönetim kurulu seni görevden alıyor: hisse iki yıl üst üste piyasanın gerisinde kaldı. {1} tazminatla ayrılıyorsun.
+bb8308	Hizmet alıyorsun: {0} ({1}), yılda {2}.
+e693ca	Hizmeti iptal ediyorsun: {0}.
+731b8d	Avukatın süreçte usul hataları buluyor: beraat ediyorsun.
+f137be	Silahlı bir grup önünü kesip seni kaçırıyor. Serbest bırakılman için {0} istiyorlar.
+42111f	Ödüyorsun ve birkaç gün sonra serbest bırakılıyorsun. Bu deneyim iz bırakıyor.
+5db447	Fidyeyi öde ({0})
+2cbf7c	Arabulucu serbest kalmanı yarı fiyatına sağlıyor.
+4f2e40	Bir uzmanla pazarlık et (yarı fiyatına, daha riskli)
+9f6abb	Pazarlık zorlaşıyor: yaralı olarak serbest bırakılıyorsun.
+443c00	Bir polis operasyonu seni kurtarıyor.
+7d0475	Polisi bekle
+ae8f9d	Operasyon ters gidiyor: ağır yaralarla hayatta kalıyorsun.
+0b52b8	Bir suç örgütü {0} işletmesinden aylık “haraç” istiyor.
+1db265	Ödüyorsun. İşletme açık kalıyor ama daha az kazanıyorsun.
+e62652	Haracı öde (ayda {0}, bir yıl boyunca)
+2f0550	Misilleme yapıyorlar: mekânına saldırıp müşterileri kaçırıyorlar.
+d580fe	Polis haraççıları yakalıyor.
+cff0dc	Baskı azalana kadar birkaç haftalığına kapatıyorsun.
+324947	Bu zaten senin para birimin.
+855305	Ülkende sermaye kontrolü var: döviz alamazsın.
+a689c2	{0} ({1}) alıyorsun, karşılığı {2}.
+823b1e	O dövize sahip değilsin.
+255dfd	{0} satıyorsun ve {1} alıyorsun.
+2e735d	{0}, {2} para birimini güçlendirmek için {1} rezerv satıyor.
+00c917	{0} stratejik rezervinden {1} piyasaya sürüyor: ham petrol düşüyor.
+2a6ced	Savun: faiz +8 ve rezerv sat ({0} rezervin var)
+fc75c7	{0} rezerv harcıyorsun.
+813041	Artık {0} yönetiyorsun: Kariyer'de 📊 İşlem masası'nı aç.
+651871	Hazırlığın sayesinde terfi! Artık {0} oldun.
+1ca4c3	{0}, hesap açmak için {1} servet istiyor.
+889a63	Banka kullanılamıyor.
+331e6c	{1} bankasına {0} yatırıyorsun (yıllık %{2}).
+654abd	Yatıracak nakdin yok.
+fb4937	Orada bakiyen yok.
+0b675e	{0} geçmişine göre sana {1} tutarına kadar kredi veriyor (puan {2}).
+a589c2	İflastasın: hiçbir banka sana kredi vermiyor.
+0c2b9c	{0} sana {2} yıl vadeyle %{3} faizle {1} kredi veriyor (yılda {4} ödeme).
+54be5f	Mevduat sigortası yok
+d13bdd	Mevduat sigortası sana {0} geri ödüyor
+f7309c	{0} batıyor: bankaya {1} el koyuyor.
+3187f3	Asgari yatırım: {0} servet (özel bankacılık).
+a96434	{1} fonuna {0} yatırıyorsun.
+4a5fdf	Fondan {0} çekiyorsun (zarar: {1}).
+4e9dd3	Fondan {0} çekiyorsun (kazanç: {1}).
+6538a8	O fona sahip değilsin.
+6171d5	{0} seviyesindeki bir banka için asgari sermaye: {1}.
+6936f6	Düzenleyici kurum ({0}) banka lisansını reddediyor (başvuruya {1} harcıyorsun). Etkini ya da finans deneyimini artırıp yeniden dene.
+e11cd2	Lisansı alıyorsun! {2} sermayeyle {0} ({1}) bankasını kuruyorsun.
+4cecda	🏦 {0} büyüyor ve {1} seviyesine çıkıyor.
+d0a0de	{0} banka seviyesinde yükseliyor: {1}.
+6e66ac	Banka hücumu ({0}): mudiler paralarını çekmek için kuyruğa giriyor. Sermayen kredilerin %{1} kadarını karşılıyor.
+6e3497	Yetmiyor: banka mevduatlarının %30'unu kaybediyor ve itibarı düşüyor.
+b68f68	Sermaye ekliyorsun ve kuyruk dağılıyor.
+a986dd	Merkez bankasından likidite iste
+ee94bd	Merkez bankası sana ceza faiziyle borç veriyor; daha az mevduatla ayakta kalıyorsun.
+177185	Bankayı bir rakibe sat
+b26157	Bankayı {0} karşılığında satıyorsun.
+3e2462	{0} bankasını {1} karşılığında satıyorsun (sermayesinin 1.2 katı).
+39fc63	bankacılık krizi
+28b604	Bankacılık krizi ({0}): hükümet bankaları GSYİH'nin %4'ü ile kurtarıyor.
+fdcb5f	Bankacılık krizi ({0}): hükümet birkaç bankanın batmasına izin veriyor ve resesyon derinleşiyor.
+5fc2b3	Bankacılık krizi ({0}): birçok banka mudilerine ödeme yapamıyor ve kredi donuyor.
+8a2aa1	Sistemi kurtarıyorsun: kredi geri geliyor ama faturayı vergi mükellefleri ödüyor.
+f05ccf	Bankaları kurtar (GSYİH'nin %4'ü)
+77b2da	Batık bankaların batmasına izin ver
+be0090	En kötü bankaların batmasına izin veriyorsun: sistem temizleniyor ama resesyon daha uzun sürecek.
+41e7f3	IMF'den kurtarma paketi iste
+729d39	IMF, kemer sıkma programı karşılığında {1} için {0} kredi onaylıyor.
+7687e7	sadık politikacı
+819f3f	Bakanlıkta skandal ({0}, {1}): {2} fon zimmetine geçirmekle suçlanıyor.
+24af4c	{0} ({1}) kişisini bakanlığa atıyorsun: {2}.
+b11981	Hükümet seni bakanlıktan alıyor.
+0192d5	Hazine yetmiyor ({0}).
+5b9325	{0}: Bakanlık ({1}) «{2}» programını başlatıyor ({3}).
+49e5c7	Kamu hizmeti
+3c3c5f	Giriş sınavını geçemiyorsun.
+ac7078	{0} Bakanlığa gir: {1}
+bcd495	Bakan olabilirsin
+eef9d9	Bakanlığa giriyorsun ({0}), unvan: {1}.
+48bbf4	Bakan olarak ({0}) (yılda bir yönerge)
+ecd4e3	bakanlık bütçesinin {0} kadarı
+0bd064	Bakan olarak yemin ediyorsun ({0}, {1}). Kararların ülkeyi yönlendiriyor.
+bf9039	Yeni bir hükümet geliyor ve başka bir Bakan atıyor: görevden ayrılıyorsun.
+78c17c	1 yıl
+9bd244	para birimin: {0}
+74ba60	ödemiyor
+fe92cb	Stop: fiyat seviyene değince tetiklenir (zararı kesmek ya da kırılımda girmek için). Fiyat boşlukla açılırsa daha kötü fiyattan gerçekleşebilir.
+170f73	teminat sermayesi {0}
+11e8cf	✓ Kredili hesap aktif
+3ea143	Şartlar: geçen yıl kâr etmiş seviye 3 veya üstü bir işletme (büyük şirket) ve 18 yaş.
+a5e095	Bir kısmını halka satıp hemen parayı alıyorsun; kalanı sende kalıyor (6 ay satış yasağı). Sonrasında sadece kârdan kendi payını alırsın ve hisse fiyatı sonuçlarını izler.
+30c3a0	Kredili hesap borcundan {0} ödüyorsun.
+3670d3	para kurulu ({0})
+36d964	— (Hızlı)
+e77ca5	✓ Bağımsız merkez bankası
+9562fa	Para birliğinden çık ({0}) ve kendi paranı oluştur
+ee8705	Para birliğinden çık ({0}) ve kendi paranı oluştur
+350c61	Yeni paranın adı (“{0}” kalsın istersen sil)
+3ff1df	32 gerçek borsa, mumlar, emirler, açığa satış ve kredi
+affc3b	📈 Menkul kıymetler borsası
+9454fd	Borsa hesabı: net {0} hisse.
+3a7d39	Değeri ~{0}: bir kısmını halka sat
+006b78	📈 Borsa, para birimleri ve merkez bankası
+545c11	resesyonlarda zarar görür
+7662cb	borsada işlem görüyor (payın %{0})
+56a277	Çalışanın eksik ({0}): kapasite ve itibar kaybediyorsun.
+9540ce	İtibar düşük: kaliteyi ya da maaşları artır (personel devri hizmeti batırır).
+12f89e	Girdilerin 2026 başına göre %{0} daha pahalı ({1}).
+7c8b5b	Kira ve hizmetler + telif
+650e37	{0} ~{1} karşılığında satılsın mı?
+695ef3	{0} kapatılsın mı?
+5c4a7e	{0} {1} ({2}/yıl)
+35cec7	1 gün
+b31942	5 gün
+1d5139	Yılda −%12
+616664	Kazancın %5'i
+5a9fde	Masa yıl içinde kazanırsa daha erken terfi edersin; %12'den fazla kaybederse kovulursun.
+b65233	Yılda %2 yönetim ücreti ve önceki zirvenin üstündeki kazancın %20'sini alırsın; kazanırsan yeni yatırımcılar gelir; kaybedersen giderler.
+91aac6	⚠️ Limit
+fd2e45	💼 İş ve finans kariyerleri, hizmetler ve rezervler
+771e2a	asgari servet {0}
+1db201	istemek için bir tutara dokun
+4de215	18 yaşında olmalısın
+ecb974	iflastasın
+7da48a	asgari servet {0}
+661b0d	{1} için {0} sermaye koyuyorsun.
+53fd74	{0} satılsın mı?
+335ab1	Bakanlıkta çalışıyorsun: {0}.
+59702c	Bakanları sen atıyor ve yönerge veriyorsun (her atama ya da yönerge bir hükümet eylemi harcar).
+c65b54	Kabine: {0}.
+d11aed	🏦 Bankalar, fonlar ve bakanlıklar
+5ee328	ABD Merkez Bankası (Fed)
+2041ec	Avrupa Merkez Bankası
+26c03f	Brezilya Merkez Bankası
+86fc3a	İngiltere Merkez Bankası
+200627	Japonya Merkez Bankası
+8db8d1	Çin Halk Bankası
+d1ca53	Kanada Merkez Bankası
+5c1b98	İsviçre Ulusal Bankası
+21550c	Hindistan Merkez Bankası
+8fe486	Rusya Merkez Bankası
+f2534c	Türkiye Cumhuriyet Merkez Bankası
+998cf7	Kore Merkez Bankası
+51229e	Avustralya Merkez Bankası
+21a31c	Şili Merkez Bankası
+9925ce	Kolombiya Cumhuriyet Bankası
+525350	Güney Afrika Merkez Bankası
+9bbe9c	Hong Kong Para Otoritesi
+226d1b	merkez bankası ({0})
+3f2c41	merkez bankası ({0})
+3ae616	yeni {0}
+0702e4	yeni {0}
+b2a193	Komisyon %0.1 (en az 1 ABD$).
+dcba28	Komisyon %0.1 (en az 1 ABD$) + döviz çevirimi için %0.25.
+00f47a	bankalarda {0}.
+22a105	Küçük bankalar daha çok öder ama daha sık batar; ülkenin mevduat sigortası banka başına {0} tutarına kadar karşılar.
+b44b54	Küçük bankalar daha çok öder ama daha sık batar; ülkenin mevduat sigortası banka başına {0} tutarına kadar karşılar (şu an devre dışı).
+0ff969	{0}, Maastricht kriterlerini karşılayınca {1} para birimine geçiyor. {2} tedavülden kalkıyor.
+7125d0	{0}, avro bölgesi üyesi olarak {1} para birimine geçiyor. {2} tedavülden kalkıyor.
+f63169	{0}, hiperenflasyonu durdurmak için {1} para birimine geçiyor. {2} tedavülden kalkıyor.
+ff094a	{0}, kendi para birimi olarak {1} para birimine geçiyor. {2} tedavülden kalkıyor.
+2501a3	📈 Borsa
+e1fa56	Alış
+3b19a7	Satış
+4ea185	Geri alım
+57c463	Portekiz eskudosu
+64954b	Fransız frangı
+8847fa	Alman markı
+099132	Fin markkası
+aa7e4b	Lüksemburg frangı
+b4efbc	Avusturya şilini
+bf8146	El Salvador colónu
+9ef9b3	İtalyan lireti
+c4705a	İspanyol pesetası
+9bfbe8	Yunan drahmisi
+22d907	Hollanda guldeni
+cef7ce	Belçika frangı
+6b075a	İrlanda poundu
+cca819	Slovenya toları
+c74305	Slovak korunası
+460dd9	Estonya kronu
+2cf929	Letonya latı
+57e993	Litvanya litası
+928435	Kıbrıs poundu
+faac0b	Malta lirası
+851b9d	Hırvat kunası
+ca5ec7	Bulgar levası
+40bb9f	Karadağ perperi
+329924	Kosova dinarı
+09dcbb	Ekvador sucresi
+5a9c37	Panama balboası
+6d058c	Timor eskudosu
+05dede	Dünya ekonomisi {0}: küresel üretim %{1} büyüdü. En hızlı büyüme: {2}. En büyük daralma: {3}.
+11a184	Dünya ekonomisi {0}: küresel üretim %{1} daraldı. En hızlı büyüme: {2}. En büyük daralma: {3}.
+866937	Güvenlik görünümü {0}: dünyada {1} aktif silahlı çatışma.
+93234e	Güvenlik görünümü {0}: dünyada {1} aktif silahlı çatışma.
+13f047	{0} — {1} bilançosu: ekonomi %{2} daraldı, enflasyon %{3}, politika faizi %{4}. Hükümete onay: %{5}; istikrar: {6}.
+fe2b02	{0} — {1} bilançosu: ekonomi %{2} büyüdü, enflasyon %{3}, politika faizi %{4}. Hükümete onay: %{5}; istikrar: {6}.
+5b51e0	{0}: {1} nüfus, kişi başı GSYİH {2}, kalkınma {3}.
+7988ba	{0}: {1} nüfus, kişi başı GSYİH {2}, mutluluk {3}, kalkınma {4}.
+b31d0a	{0}: {1} nüfus, kişi başı GSYİH {2}.
+c02039	Eyalet şu anda şu ülkenin kontrolünde: {0}.
+cdd8d3	{0}: {1} nüfus, kişi başı GSYİH {2}, mutluluk {3}.
+e90d2d	yeni riyal
+045952	Toplum
+d8fbfd	{0} genel seferberlik ilan ediyor.
+635daa	{0}, {2} ülkesine karşı {1} ülkesine silah, para ve gönüllü gönderiyor.

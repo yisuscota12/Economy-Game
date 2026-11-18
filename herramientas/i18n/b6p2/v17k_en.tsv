@@ -1,0 +1,573 @@
+0adf3f	{0} conquered {1} provinces of {2}, including {3}.
+cd602f	{0} conquered {1} (formerly part of {2}).
+fd755b	{0} disappears from the map.
+8c3216	War with {0}: your country won {1} of 12 months of fighting. Morale {2} %.
+937532	{0} took {1} province(s) from {2} this year.
+9d2ed9	{0} declares war on {1}.
+7d6d2f	Several countries impose trade sanctions on {0}.
+f0b630	Peace between {0} and {1}.
+a2623f	Recession in {0}: the economy shrinks.
+68b345	Coup in {0}: {1} seizes power.
+632f75	{0} returns to democracy.
+e06af8	{0} capitulates and cedes {1} province(s) to {2}.
+46b146	{0} enters the war to defend {1}.
+f996aa	{0} rebels against {1} and declares independence.
+6b46f4	{0} enters the war against {1} on the side of {2}.
+23dc97	{0} keeps {1} province(s) of {2}.
+ce167e	Rebellion: {0} declares independence from {1} in {2} province(s).
+93d462	Unrest in {0}: part of the population rejects the rule of {1}.
+154566	{0} and {1} sign a military alliance.
+ec52a2	Unrest in {0}: happiness stands at {1}.
+4351e1	Rebellion in {0}: {1} declares independence from {2}.
+52e3fb	{0} regains its independence.
+75a832	{0} regains its independence as a vassal of {1}.
+de6703	{0} proclaims itself {1}.
+2579bb	Revolution in {0}: the new regime is {1}.
+81f70d	Colombia Stock Exchange
+ab62d1	Santiago Stock Exchange
+662ec5	Toronto Stock Exchange
+769bbc	London Stock Exchange
+5c67e5	Euronext Amsterdam
+781045	Euronext Paris
+e24dbc	Frankfurt Stock Exchange (Xetra)
+d7ffbb	Madrid Stock Exchange
+7b50ae	Warsaw Stock Exchange
+720241	Tokyo Stock Exchange
+7e2880	Shanghai and Shenzhen Stock Exchanges
+d8a4ee	Hong Kong Stock Exchange
+11e55e	Korea Exchange
+e46110	Taiwan Stock Exchange
+e6f8e1	National Stock Exchange of India
+af2ac1	Singapore Exchange
+d7ae01	Indonesia Stock Exchange
+def80b	Australian Securities Exchange
+062b18	Tel Aviv Stock Exchange
+518b0d	Johannesburg Stock Exchange
+e528e5	MOEX Index
+ffe2f8	Moscow Exchange
+526456	Nigerian Exchange
+c064f5	Egyptian Exchange
+9e2919	E-commerce
+a2cea1	Health and pharmaceuticals
+d7e98f	Defense and aerospace
+403d0f	Media and entertainment
+57e548	Utilities
+158c86	million BTU
+d24bde	billion m³
+96c770	million tonnes
+ef1058	thousand tonnes
+2067d4	tonne of carbonate
+3c52b5	thousand tonnes of carbonate equivalent
+92c927	thousand tonnes of oxides
+b67943	tonne of oxides
+876706	tonnes of uranium
+f057e1	pound of U₃O₈
+8a3c09	Food stall
+92653a	Grocery store
+e9fd9e	Auto repair shop
+9fc1b1	Software company
+a9dadb	Clothing store
+a9a6b7	Online store
+e8df6f	Marketing agency
+7bb2fd	Video game studio
+26823a	Freight transport
+96ea93	Taxi fleet
+27c105	Medical clinic
+7f92f4	Rental property company
+6b4140	Lender (loans)
+cca0d4	Farm
+2d1f04	Money market fund (short-term debt)
+a34efa	Earns your country's policy rate minus fees; almost risk-free
+e98580	Bonds and some stocks
+06460f	Global stocks: higher returns and deeper drops
+1e019b	Commodities fund
+733bfd	Oil, gold and copper
+a7708a	Growth fund
+0e6f9f	Hedge fund
+5baa46	Leveraged macro strategy; charges 2 % and 20 % of gains
+03af00	+8 % tax revenue for 3 years; −2 approval
+9bddc8	+5 % tax revenue; −3 approval among the richest
+b08957	Crackdown on tax evasion
+f65139	Tax collection and spending control
+09dab7	Attract foreign investment
+50b899	Support for small businesses
+50dc72	+0.2 % growth and +happiness
+53b83a	+0.4 % growth for 3 years
+97c62c	Growth, investment and trade
+05e424	+10 % resource output for 5 years
+3fd6c3	+happiness, −oil dependence
+7948ee	Transition to clean energy
+7d1981	Auction oil fields and mines
+b3c719	Oil, gas, electricity and mining
+0c9836	+5 % army quality
+1ef1d5	+troops without losing approval
+d9f99b	Modernize military equipment
+442f9d	Diplomatic tour
+50e246	Free trade agreements
+bcd226	Diplomacy, treaties and foreign trade
+c8f7fd	+10 opinion with your neighbors
+ff7559	+0.3 % growth for 3 years
+503860	+happiness in provinces, −1 stability
+5a570f	Internal stability, elections and conflicts
+76f05d	+6 stability
+d63fe9	Interior
+dc8778	Dialogue with the opposition
+24a34a	−25 % crime for 3 years; +approval
+51971c	Police and crime fighting
+7b1a71	Professionalize the police
+826c00	−15 % crime, permanent
+b3d3cf	Operation against organized crime
+1fbfd0	Schools, universities and science
+49dea8	National scholarship program
+556aab	New public universities
+c74b42	+development and +research
+cf816c	+0.5 development in the poorest provinces
+06b593	+happiness in the most populous provinces
+25559a	Vaccination campaign
+58d801	+happiness and lower mortality
+bde775	Hospitals and public health
+1d9314	+development in rural provinces
+6e583e	Road program
+830e44	Roads, ports and communications
+8a3835	Rural internet network
+9acb91	+development and +0.2 % growth
+5fd837	+15 % farm output for 5 years
+73a24c	Agriculture and food
+84deda	+10 % farm output and +rural happiness
+87f4d3	Farm subsidies
+0cbf46	+happiness; −0.1 % growth
+6ea7a2	Minimum wage increase
+852b3d	Jobs and wages
+d2c17e	+0.1 % growth and +happiness
+d5fde1	Job training
+9cbd36	+20 % tourists (hotels, bars, jewelers) for 3 years
+c2f941	Tourism promotion
+f44aab	International tourism campaign
+06ef63	Natural resources and pollution
+d790f3	National reforestation
+9e3909	Department head
+dc00cd	Area director
+4e7aed	Currency change: your savings of {0} ({1}) are now {2} ({3}), at the day's exchange rate.
+4c0c27	Currency crisis in {0}: after a speculative attack, {1} devalues {2} % ({3} → {4} per dollar) and starts to float.
+5bc580	Currency crisis in {0}: {1} devalues {2} % ({3} → {4} per dollar).
+7573fa	Currency crisis in {0}: {1} devalues {2} % ({3} → {4} per dollar) and starts to float.
+901c84	Currency crisis in {0}: after a speculative attack, {1} devalues {2} % ({3} → {4} per dollar).
+0fcdb7	Currency reform: {0} removes a zero from its currency. Each {1} equals {2} units of the old currency.
+52361a	Currency reform: {0} removes {1} zeros from its currency. Each {2} equals {3} units of the old currency.
+5c2150	Currency reform: {0} removes a zero from its currency; {1} is born. Each {2} equals {3} units of the old currency.
+b988c5	the issuer
+fb4c96	Currency reform: {0} removes {1} zeros from its currency; {2} is born. Each {3} equals {4} units of the old currency.
+3d88d2	Your country changes its currency: you now use {0}. Your money is converted at the day's rate ({1} {2} per {3}).
+407655	{0} adopts {1}. {2} stops circulating.
+53d50f	{0} adopts {1} {2}. {3} stops circulating.
+88d019	new currency of {0}
+7e847e	exit from the monetary union
+a7a31d	{0}: {1} moves to a managed float.
+b09a14	{0}: {1} is pegged to {2} ({3} per unit).
+bec586	{0}: {1} moves to a currency board against {2} ({3} per unit).
+cdcf0d	to stop hyperinflation
+3de844	{0} launches a stabilization plan: spending cuts, an end to money printing and higher rates.
+b51406	{0} finances the war by printing money.
+6b55dc	after meeting the Maastricht criteria
+1f1e10	10 % of GDP per year
+510406	1 % of GDP per year
+86bdd5	6 % of GDP per year
+e6498b	3 % of GDP per year
+95d74b	{0}: sharp drop due to {1} in {2}.
+98fdc3	{0}: sharp rise due to {1} in {2}.
+5195af	{0} cuts its rate {1} points, to {2} %. Stock markets cheer.
+b1cece	{0} raises its rate {1} points, to {2} %. Stock markets take the hit.
+b5d367	Stock market crash: Wall Street panics after years of inflated valuations; markets around the world fall.
+f35e57	Stock market crash: Wall Street panics in a wave of selling; markets around the world fall.
+a03436	{0} beats its quarterly earnings: profits +{1} % above expectations. The stock rises {2} %.
+b644f6	{0} disappoints in its quarterly earnings: profits {1} % below expectations. The stock falls {2} %.
+8903b0	{0} files for bankruptcy and is delisted.
+b320a8	the outbreak of a war
+306ba3	the recession
+329727	international sanctions
+5b3d47	the coup
+54883d	the occupation of the country
+96f236	This company is no longer listed.
+0e4270	You must be 18 to open a brokerage account.
+4e9e7a	You can't trade from prison.
+ec0e51	Your country has capital controls: you can't buy foreign stocks.
+dcacf4	You are at war with {0}: its stock market is closed to you.
+f7b7e6	The Moscow Exchange is closed to foreigners because of sanctions.
+97dd29	To sell short you need a margin account.
+33a539	Your shares are locked for {0} more trading days (IPO lock-up period).
+e955a1	Invalid quantity.
+938be8	You have no shorts to cover.
+bf23b6	First cover your short position.
+72bad5	You can't afford it: you need {0}.
+23bc5d	Insufficient margin: with margin you can buy up to twice your equity ({0}).
+a242eb	You don't own shares of this company.
+0af9ab	Insufficient margin for that short (equity {0}).
+d0f3fa	First sell your shares of this company.
+f015ab	You sell your last share of {0}: the company is no longer yours.
+d2c2f7	{0}: {1} shares of {2} at {3} (commission {4}).
+0051eb	Limit order placed: buy to cover {0} at {1}. Expires in 90 trading days.
+467bbd	Stop order placed: buy to cover {0} at {1}. Expires in 90 trading days.
+4fee5d	Invalid price.
+672292	Limit order placed: buy {0} at {1}. Expires in 90 trading days.
+964fba	Stop order placed: sell {0} at {1}. Expires in 90 trading days.
+b7db44	Stop order placed: buy {0} at {1}. Expires in 90 trading days.
+c59d95	Limit order placed: sell short {0} at {1}. Expires in 90 trading days.
+ebdb9f	Stop order placed: sell short {0} at {1}. Expires in 90 trading days.
+f02450	Limit order placed: sell {0} at {1}. Expires in 90 trading days.
+42854e	⚠️ Margin call: your broker sells {0} position(s) to cover the collateral.
+5044ca	Margin call on your brokerage account.
+0653b0	You lose your investment in {0}: the company went bankrupt.
+ebb2d0	Your short on {0} wins it all: the company went bankrupt.
+480fd3	Capital gains tax on stocks ({0} %): {1} on {2} of gains.
+95f5d0	Dividends collected this year: {0}.
+49fdcc	Your business can't go public yet (it must be a large company with profits).
+12e946	{0} goes public on the {1}: it floats {2} % of its shares and is worth {3}.
+260753	Your company goes public! You sell {0} % and receive {1} (7 % underwriting fees). You keep {2} % with a 6-month lock-up.
+7a099a	{0} shuts down after losses and is delisted.
+78d746	Speculative attack on {0}: markets are betting you can't hold the rate of {1} per dollar (the equilibrium value is around {2}). The treasury and reserves are under pressure.
+e130ce	Defend it: raise the rate 8 points and sell reserves
+1301e6	You lose the bet: reserves run out and the currency collapses further than it would have with an orderly devaluation.
+898e93	You withstand the attack: you spend {0} of reserves and the rate rises to {1} %. The economy cools, but the peg holds.
+2c2401	Devalue in an orderly way and keep the peg at the new level
+57ce7e	You announce an orderly devaluation. It hurts, but the market calms down.
+b11a06	orderly devaluation
+e1eac8	You let the currency float. It adjusts at once and the central bank regains its autonomy to set rates.
+62745c	You return autonomy {0}: it again sets rates by its rule (inflation and growth).
+ae037b	You remove {0} zeros: 1 {1} = {2} old units. Prices and wages are rewritten; purchasing power doesn't change.
+2b6ab6	{0} launches a stabilization plan with a new currency: an end to money printing, an independent central bank and higher rates.
+ec5085	{0} launches a stabilization plan: an end to money printing, an independent central bank and higher rates.
+a7381e	Stabilization plan: you stop printing, the central bank regains its autonomy and raises the rate 8 points; {0} is born. Inflation will fall sharply over the next 3 years; the cost is a recession and lower approval.
+a37ef7	as a member of the eurozone
+02ba38	{0} adopts {1}. Your inflation will converge to that of the US, but you lose monetary policy and seigniorage.
+27503e	{0} adopts {1}. Your inflation will converge to that of the eurozone, but you lose monetary policy and seigniorage.
+83d01c	You abandon {0} and launch {1} ({2}). You regain monetary policy, but the transition is scary: capital flight, recession and a currency born weak.
+5ec038	since before 2026
+632f4c	Mexico IPC Index Fund
+58f214	Shanghai Index Fund
+4567fe	profit-taking after the rally
+4a0bcf	a flight to safety amid uncertainty
+6b8028	speculation in the markets
+dda919	the slowdown of the world economy
+fce0e8	the drop in supply ({0})
+270591	{0} rises {1} % this month due to {2}: {3}.
+ed8840	{0} falls {1} % this month due to {2}: {3}.
+51b04a	{0} bans exports of {1} to contain domestic prices: it produces {2} % of the world total.
+bf48f2	{0} lifts its export ban on {1}.
+804a21	export ban
+cf7c6d	loss of territory
+c4f935	{0} in {1}, {2} % of the world
+f95218	production disruptions
+27ccad	US${0} per {1}
+43f16e	You must be 18 (16 for a food stall).
+8bc824	You can't open businesses from prison.
+aba2e5	You already have {0} companies: sell or close one first.
+7b7e1d	There are no mineral deposits in this province. Look for one with ⛏️ on the resource map.
+10b067	You can't invest in a country you're at war with.
+5c65e7	There is no oil or gas in this province.
+204331	You open a new {0} in {1}: you invest {2} in premises and equipment and {3} in working capital.
+55514d	You open a new {0} in {1}: you invest {2} in premises and equipment and {3} in working capital (bank loan of {4}).
+ffc91d	💥 {0} goes bankrupt: its debts ({1}) exceed what it's worth. You close the {2} and lose your investment.
+0238eb	You've reached the maximum number of branches for this line of business ({0}).
+be71a6	You need {0} (company cash + your money).
+6eba35	You open branch {0} of {1} ({2}) and hire {3} employees.
+f83e91	It's your only branch: to close it, close the company.
+fd80e9	You close a branch and recover {0} by selling the equipment.
+ceb925	You can't be left without staff.
+926cc6	You lay off {0} employee(s) and pay {1} in severance (3 months' salary).
+69d59b	The bank won't lend you more: your debt is already high for what the company earns.
+77945d	The bank lends {0} to {1} at {2} % a year.
+571a62	You pay off {0} of debt.
+62681d	There's no cash to pay debt.
+0e8dd9	You put {0} into {1}'s cash.
+aae75a	You have no money to contribute.
+1c0c3a	The company has no cash.
+7d0bde	You withdraw {0} from {1}'s cash.
+31b219	You sell {0} for {1} (after paying its debts).
+4a941c	Your company is publicly listed: sell your shares from 📈 Stock market.
+630e0d	A listed company can't be closed like this: sell your shares.
+ecb515	You close {0}: you auction off the equipment and pay debts and severance ({1}). You're left with {2}.
+27ea54	You buy {0} of {1} at {2} ({3}).
+6b0250	You don't have any of that commodity.
+bae7f6	You sell {0} of {1} for {2}.
+7c925f	You can't afford it.
+baf6a2	You can't buy debt of a country you're at war with.
+bbf6f5	Your country has capital controls.
+6af867	You buy 10-year bonds of {0} for {1}: they yield {2} % a year in {3}.
+13cebb	You sell your {0} bonds for {1}.
+305eb6	{0} declares a default on its debt: bondholders recover about 45 %.
+dd05d2	Your {0} bonds take a 55 % haircut due to the default.
+43a741	{0} disappears: its bonds are paid at 30 %.
+9b507f	Your {0} bonds mature: you receive {1}.
+bf7d52	{0} nationalizes oil and mining: the state keeps a bigger share of the revenue.
+ee4020	{0} bans exports of {1}.
+2d50c7	Desk head
+700b36	Chief investment officer
+8d5800	MBA (business school)
+0257bd	tuition {0}/year
+6e153a	graduate degree
+e9d78e	you start as Manager or Associate
+113347	the career goes up to CEO
+4d769b	You don't pass the selection process. Try again next year or strengthen your profile.
+576d1c	{0}/year
+656ad2	Join a corporation as Manager (MBA)
+23a64d	requires Economics, Engineering, an MBA or certification
+85fa39	from Trader up you manage real money
+7ca370	You don't pass the technical interviews.
+0b52a0	pass rate ~{0} %
+569c92	opens the finance career and improves your promotions
+57e016	Financial analyst certification: level {0} of 3 ({1})
+c0e5e6	Annual exam
+3995f8	You pass level {0} of the certification.
+7a09c7	You fail the exam: you can retake it next year.
+3e742d	You finish the course: you read the market better.
+cb3f9d	Trading and markets course ({0})
+24274d	Business management diploma ({0})
+8cfc92	You finish the diploma course.
+8c5619	Running {0} as CEO (one decision per year)
+48abe7	You manage {0} at {1}
+d5ff8d	Your job
+efa665	📊 Trading desk
+2edaf0	Investors entrust you with capital; you charge 2 % management and 20 % of gains
+42564e	you contribute {0}
+ca4b86	Found your own investment fund
+6e5622	📈 Your fund: {0}
+17d3c4	The market rewards your expansion plan.
+5a0b5e	+profit growth for 3 years; if it goes wrong, the stock falls
+841768	Aggressive expansion
+8ecc3d	The expansion costs more than planned: the stock falls.
+4c6e13	You cut costs: profits and the stock rise, but morale inside the company worsens.
+7b6f53	Cost cutting
+e0576a	+profits this year; morale and reputation drop
+9399ec	You buy back 4 % of the shares: earnings per share rise.
+b458d4	Raises the share price; uses company cash
+c27d10	Share buyback
+27184f	Attracts long-term investors
+69918e	The dividend rises to {0} %.
+c2999f	Raise the dividend
+2df232	You bet on innovation: less profit today, more growth tomorrow.
+564eee	Costs profits today, more growth later
+85448f	Invest in innovation (R&D)
+035f3b	You overpaid for the acquisition: the stock is punished.
+63f610	Profits +12 %; risk of overpaying
+b5d232	Buy a competitor
+fe8ebd	The acquisition works: you gain market share.
+abb0ef	🇯🇵 Japan stocks
+0a7cf6	🛢️ Oil
+584d6a	🏛️ US 10-year bonds
+e72c5c	You found {0}: you put in {1} and your first investors contribute four times more. You charge 2 % a year in management fees and 20 % of gains.
+5106eb	💥 You lose {0} % of the desk's capital this year: {1} fires you.
+5f5a62	Your fund {0} closes: investors pulled almost everything. You recover {1}.
+4a3689	Your desk ended the year at {0} %: no bonus.
+c12d26	Your desk made {0} % ({1}). Bonus: {2}.
+1a153c	{0} returned {1} % this year.
+a1a82b	{0} returned {1} % this year: you collect {2} in performance fees.
+7e1ebe	Your company disappears: you're out of a job.
+45d93c	The board pays you a bonus of {0}: the stock beat the index by {1} points.
+ab150a	The board of {0} removes you: the stock lagged the market two years in a row. You leave with {1} in severance.
+bb8308	You hire {0} ({1}): {2} a year.
+e693ca	You cancel the {0} service.
+731b8d	Your lawyer finds flaws in the process: you're acquitted.
+f137be	An armed group intercepts and kidnaps you. They demand {0} for your release.
+42111f	You pay and they release you a few days later. The experience leaves its mark.
+5db447	Pay the ransom ({0})
+2cbf7c	The negotiator gets you released for half.
+4f2e40	Negotiate through a specialist (costs half, more risk)
+9f6abb	The negotiation goes wrong: you're released injured.
+443c00	A police operation rescues you.
+7d0475	Wait for the police
+ae8f9d	The operation goes wrong: you survive with serious injuries.
+0b52b8	A criminal group demands a monthly “fee” from {0}.
+1db265	You pay. The business stays open, but you earn less.
+e62652	Pay the fee ({0} a month, for a year)
+2f0550	They retaliate: they attack your premises and scare off customers.
+d580fe	The police arrest the extortionists.
+cff0dc	You close for a few weeks until the pressure eases.
+324947	That's already your currency.
+855305	Your country has capital controls: you can't buy foreign currency.
+a689c2	You buy {0} ({1}) for {2}.
+823b1e	You don't have that currency.
+255dfd	You sell {0} and receive {1}.
+2e735d	{0} sells {1} of reserves to strengthen {2}.
+00c917	{0} releases {1} from its strategic reserve: crude falls.
+2a6ced	Defend it: rate +8 and sell reserves (you have {0})
+fc75c7	You spend {0} of reserves.
+813041	You now manage {0}: open 📊 Trading desk in Career.
+651871	Promoted for your training! You are now {0}.
+1ca4c3	{0} requires a net worth of {1} to open an account for you.
+889a63	Bank unavailable.
+331e6c	You deposit {0} at {1} ({2} % a year).
+654abd	You have no cash to deposit.
+fb4937	You have no balance there.
+0b675e	{0} will lend you up to {1} given your history (score {2}).
+a589c2	You're bankrupt: no bank will lend to you.
+0c2b9c	{0} lends you {1} for {2} years at {3} % (payment {4} a year).
+54be5f	No deposit insurance
+d13bdd	Deposit insurance returns {0} to you
+f7309c	{0} fails: {1} takes over the bank.
+3187f3	Minimum investment: net worth of {0} (private banking).
+a96434	You invest {0} in {1}.
+4a5fdf	You withdraw {0} from the fund (loss of {1}).
+4e9dd3	You withdraw {0} from the fund (gain of {1}).
+6538a8	You don't have that fund.
+6171d5	Minimum capital for a bank at the {0} level: {1}.
+6936f6	The regulator in {0} rejects your banking license (you spend {1} on the paperwork). Raise your influence or financial experience and try again.
+e11cd2	You get the license! You found {0} ({1}) with {2} in capital.
+4cecda	🏦 {0} grows and moves up to the {1} level.
+d0a0de	{0} moves up to the {1} bank level.
+6e66ac	Bank run at {0}: depositors line up to withdraw their money. Your capital covers {1} % of loans.
+6e3497	You can't afford it: the bank loses 30 % of its deposits and its reputation falls.
+b68f68	You inject capital and the line disperses.
+a986dd	Ask the central bank for liquidity
+ee94bd	The central bank lends to you at a penalty rate; you survive with fewer deposits.
+177185	Sell the bank to a competitor
+b26157	You sell the bank for {0}.
+3e2462	You sell {0} for {1} (1.2 times its capital).
+39fc63	the banking crisis
+28b604	Banking crisis in {0}: the government bails out the banks with 4 % of GDP.
+fdcb5f	Banking crisis in {0}: the government lets several banks fail and the recession deepens.
+5fc2b3	Banking crisis in {0}: several banks can't pay their depositors and credit freezes.
+8a2aa1	You bail out the system: credit returns, but taxpayers foot the bill.
+f05ccf	Bail out the banks (4 % of GDP)
+77b2da	Let insolvent banks fail
+be0090	You let the worst banks fail: the system is cleaned up, but the recession will last longer.
+41e7f3	Ask the IMF for a bailout
+729d39	The IMF approves a {0} loan for {1} in exchange for an austerity program.
+7687e7	loyal politician
+819f3f	Scandal at the Ministry of {0} of {1}: {2} is accused of embezzling funds.
+24af4c	You appoint {0} ({1}) to the Ministry of {2}.
+b11981	The government removes you from the ministry.
+0192d5	The treasury can't cover it ({0}).
+5b9325	{0}: the Ministry of {1} launches «{2}» ({3}).
+49e5c7	Public service
+3c3c5f	You don't pass the entrance exam.
+ac7078	{0} Join the Ministry of {1}
+bcd495	you can become Minister
+eef9d9	You join the Ministry of {0} as {1}.
+48bbf4	As Minister of {0} (one directive per year)
+ecd4e3	{0} of the ministry's budget
+0bd064	You are sworn in as Minister of {0} of {1}. Your decisions move the country.
+bf9039	A new government arrives and appoints another Minister: you leave office.
+78c17c	1 year
+9bd244	your currency: {0}
+74ba60	doesn't pay
+fe92cb	Stop: triggers when your level is touched (to cut losses or enter a breakout). It may fill worse if the price gaps open.
+170f73	margin equity {0}
+11e8cf	✓ Margin account active
+3ea143	Requirements: a level-3 business or higher (large company) with profits last year, and being 18.
+a5e095	You sell part to the public and get paid now; you keep the rest (6-month lock-up). From then on you only keep your share of the profits, and the share price will follow your results.
+30c3a0	You pay {0} of your margin loan.
+3670d3	currency board ({0})
+36d964	— (Fast)
+e77ca5	✓ Independent central bank
+9562fa	Leave the {0} and create your own currency
+ee8705	Leave the {0} and create your own currency
+350c61	Name of the new currency (clear it to keep “{0}”)
+3ff1df	32 real stock exchanges, candlesticks, orders, shorts and margin
+affc3b	📈 Stock exchange
+9454fd	Brokerage account: {0} in net stocks.
+3a7d39	Worth ~{0}: sell part to the public
+006b78	📈 Stock market, currencies and central bank
+545c11	suffers in recessions
+7662cb	listed on the stock exchange (you own {0} %)
+56a277	You're short of employees ({0}): you lose capacity and reputation.
+9540ce	Low reputation: raise quality or wages (staff turnover sinks the service).
+12f89e	Your inputs cost {0} % more than in early 2026 ({1}).
+7c8b5b	Rent and utilities + royalties
+650e37	Sell {0} for ~{1}?
+695ef3	Close {0}?
+5c4a7e	{0} {1} ({2}/year)
+35cec7	1 day
+b31942	5 days
+1d5139	−12 % for the year
+616664	5 % of gains
+5a9fde	If the desk makes money in the year, you'll be promoted sooner; if it loses more than 12 %, you're fired.
+b65233	You charge 2 % a year in management fees and 20 % of gains above the previous high; if you win, more investors come; if you lose, they leave.
+91aac6	⚠️ Limit
+fd2e45	💼 Business and finance careers, services and reserves
+771e2a	minimum net worth {0}
+1db201	tap an amount to request it
+4de215	you must be 18
+ecb974	you're bankrupt
+7da48a	minimum net worth {0}
+661b0d	You put {0} of capital into {1}.
+53fd74	Sell {0}?
+335ab1	You work at the Ministry of {0}.
+59702c	You appoint the ministers and issue directives (each appointment or directive uses one government action).
+c65b54	Cabinet of {0}.
+d11aed	🏦 Banks, funds and ministries
+5ee328	Federal Reserve
+2041ec	European Central Bank
+26c03f	Central Bank of Brazil
+86fc3a	Bank of England
+200627	Bank of Japan
+8db8d1	People's Bank of China
+d1ca53	Bank of Canada
+5c1b98	Swiss National Bank
+21550c	Reserve Bank of India
+8fe486	Bank of Russia
+f2534c	Central Bank of the Republic of Turkey
+998cf7	Bank of Korea
+51229e	Reserve Bank of Australia
+21a31c	Central Bank of Chile
+9925ce	Banco de la República (Colombia)
+525350	South African Reserve Bank
+9bbe9c	Hong Kong Monetary Authority
+226d1b	central bank of the {0}
+3f2c41	central bank of the {0}
+3ae616	new {0}
+0702e4	new {0}
+b2a193	Commission 0.1 % (minimum US$1).
+dcba28	Commission 0.1 % (minimum US$1) + 0.25 % for currency exchange.
+00f47a	in banks {0}.
+22a105	Small banks pay more, but fail more often; your country's deposit insurance covers up to {0} per bank.
+b44b54	Small banks pay more, but fail more often; your country's deposit insurance covers up to {0} (currently disabled) per bank.
+0ff969	{0} adopts {1} after meeting the Maastricht criteria. {2} stops circulating.
+7125d0	{0} adopts {1} as a member of the eurozone. {2} stops circulating.
+f63169	{0} adopts {1} to stop hyperinflation. {2} stops circulating.
+ff094a	{0} adopts {1} as its own currency. {2} stops circulating.
+2501a3	📈 Stock exchange
+e1fa56	Buy
+3b19a7	Sell
+4ea185	Buy to cover
+57c463	Portuguese escudo
+64954b	French franc
+8847fa	German mark
+099132	Finnish markka
+aa7e4b	Luxembourg franc
+b4efbc	Austrian schilling
+bf8146	Salvadoran colón
+9ef9b3	Italian lira
+c4705a	Spanish peseta
+9bfbe8	Greek drachma
+22d907	Dutch guilder
+cef7ce	Belgian franc
+6b075a	Irish pound
+cca819	Slovenian tolar
+c74305	Slovak koruna
+460dd9	Estonian kroon
+2cf929	Latvian lats
+57e993	Lithuanian litas
+928435	Cypriot pound
+faac0b	Maltese lira
+851b9d	Croatian kuna
+ca5ec7	Bulgarian lev
+40bb9f	Montenegrin perper
+329924	Kosovar dinar
+09dcbb	Ecuadorian sucre
+5a9c37	Panamanian balboa
+6d058c	Timorese escudo
+05dede	World economy {0}: global output grew {1} %. Fastest growth: {2}. Biggest contraction: {3}.
+11a184	World economy {0}: global output shrank {1} %. Fastest growth: {2}. Biggest contraction: {3}.
+866937	Security outlook {0}: {1} active armed conflicts in the world.
+93234e	Security outlook {0}: {1} active armed conflict in the world.
+13f047	{0} — {1} review: the economy shrank {2} %, inflation {3} %, policy rate {4} %. Government approval: {5} %; stability: {6}.
+fe2b02	{0} — {1} review: the economy grew {2} %, inflation {3} %, policy rate {4} %. Government approval: {5} %; stability: {6}.
+5b51e0	{0}: {1} inhabitants, GDP per person {2}, development {3}.
+7988ba	{0}: {1} inhabitants, GDP per person {2}, happiness {3}, development {4}.
+b31d0a	{0}: {1} inhabitants, GDP per person {2}.
+c02039	The province is under the control of {0}.
+cdd8d3	{0}: {1} inhabitants, GDP per person {2}, happiness {3}.
+e90d2d	new rial
+045952	Society
+d8fbfd	{0} orders general mobilization.
+635daa	{0} sends weapons, money and volunteers to {1} against {2}.

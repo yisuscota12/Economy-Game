@@ -1,0 +1,292 @@
+65225c	Den Ball halten, kurze Pässe und Geduld. Knackt tiefe Blöcke; leidet gegen hohes Pressing.
+e5beae	Ballbesitz
+5313c5	Hohes Pressing
+54ace6	Den Ball hoch und schnell zurückerobern. Erstickt Ballbesitzteams; lässt Raum im Rücken.
+700856	Abwarten und schnell umschalten. Bestraft hohe Abwehrreihen; leidet ohne Ball gegen Ballbesitz.
+fd1844	Konter
+4cc592	Tiefer Block
+7166e7	Nah am Strafraum verteidigen und Räume schließen. Neutralisiert direktes Spiel; leidet gegen geduldigen Ballbesitz.
+3fc98c	Lange Bälle und zweite Bälle. Überspielt das Pressing; tut sich gegen tiefe Blöcke schwer.
+93e9a6	Direktes Spiel
+037676	Keine Extreme: passt sich dem Gegner an. Keine klaren Vor- oder Nachteile.
+56993d	Kauft günstig, bildet aus und verkauft an die Großen: lebt von Ablösen.
+958239	Käufer
+bfaaca	Verpflichtet Stars und zahlt hohe Ablösen; verkauft wenig und teuer.
+275cfa	Kauft und verkauft nach Bedarf.
+dce9ac	Ausbildungsverein
+e914fe	Setzt auf die eigene Jugend: seine Stars kommen jung und mit mehr Potenzial.
+18a046	Sparsam
+525174	Ehrgeizig
+ef5959	Galaktisch
+9bc2c5	Günstig
+2f0ada	Städtischer Platz
+912d13	Modernes Zentrum
+9c9eda	Elitezentrum
+9d6d76	Einfaches Zentrum
+de9953	Sportstadt
+41347f	Regionale Akademie
+5c642f	Fußballschule
+61da4b	Keine Akademie
+9fd328	Nationale Akademie
+f17aa6	Eliteakademie
+773471	Keine Lizenz
+026e9d	Aufsteigen
+37bc23	Den Abstieg vermeiden
+4f7927	In der oberen Tabellenhälfte landen
+73a7c7	Sich für den Kontinentalpokal qualifizieren
+ab8a73	Nicht unter den letzten drei landen
+cd9075	Die Meisterschaft gewinnen
+e5fa55	Die Regionalliga gewinnen
+5e84cb	{0} verlängert nicht mit Trainer {1} nach einer schlechten Saison. Nachfolger: {2} ({3}).
+09f1f5	{0} entlässt Trainer {1} nach {2} Spielen mit schlechten Ergebnissen. Nachfolger: {3} ({4}).
+63aa35	{0} verlässt {1} und wird neuer Trainer von {2} ({3}).
+10f3a1	{0} gibt den Rücktritt von Trainer {1} bekannt. Nachfolger: {2} ({3}).
+409b99	Es fehlt ein Trainingszentrum.
+555745	Es fehlt ein Stadion mit {0} Plätzen.
+96dee2	🏆 {0} gewinnt: {1}! Prämie für den Verein: {2}.
+0d7844	🏗️ Die Stadtverwaltung genehmigt den Bau: Die Arbeiten beginnen ({0} Monate).
+ab5af1	🏗️ Die Stadtverwaltung lehnt die Baugenehmigung ab. Du kannst sie erneut beantragen.
+c9a918	🏟️ Der Ausbau ist fertig: Dein Stadion hat jetzt {0} Plätze.
+cc455a	🏋️ Dein neues Trainingszentrum öffnet: {0}.
+86699e	📨 {0} bietet {1} für {2}. Sieh nach unter ⚽ Dein Verein → Markt.
+ffe27d	💵 Du zahlst {0} aus eigener Tasche, um die Verluste von {1} zu decken.
+7c7649	⚖️ {0} geht wegen seiner Schulden in die Insolvenz und wird an einen neuen Besitzer verkauft. Du erhältst {1}.
+95820c	{0} geht in die Insolvenz und wechselt den Besitzer.
+6582d8	⚠️ {0} ist in den roten Zahlen und du kannst es nicht decken. Verkaufe Stars, senke die Gehälter oder schieße Kapital nach.
+c09dad	🎯 Saisonziel für {0}: {1}.
+d973be	✅ {0} erreicht das Saisonziel ({1}): beendet die Saison auf Platz {2}.
+517e79	❌ {0} verfehlt das Saisonziel ({1}): beendet die Saison auf Platz {2}.
+e0a38b	⚖️ Die Liga verhängt gegen {0} eine Strafe von {1}, weil die Lizenzauflagen nicht erfüllt sind.
+7d20ac	⏳ {0} braucht mindestens sechs Monate in der Regionalliga, bevor es die Aufnahme beantragen kann: {1}.
+3738fe	📋 {0} erhält die Lizenz nicht: {1}.
+f5dfa6	📋 Für die Aufnahme in folgende Liga musst du einen Startplatz (Franchise) kaufen: {0}.
+354ea6	{0} wird in folgende Liga aufgenommen: {1}. Es übernimmt den Platz von {2}, das in die Regionalligen absteigt.
+e51d62	🎉 {0} wird aufgenommen: {1}!
+a589fa	📋 {0} landet auf einem Aufstiegsplatz, erhält aber die Lizenz nicht: {1}. Der Nächste steigt auf.
+379bd5	🎉 {0} steigt auf: {1}!
+579ab4	⬇️ {0} steigt ab: {1}.
+110f5e	Die Regeln erlauben es einem aktiven Fußballer nicht, einen Verein zu besitzen.
+b414b3	Du musst volljährig sein.
+abda79	Du besitzt bereits einen Verein.
+dea1c7	{0} zu kaufen kostet {1}.
+bf5c17	Du kaufst {0} für {1}. Jetzt entscheidest du über Gehälter, Transfers, Bauprojekte und wer die Mannschaft trainiert.
+f04535	{0} kauft {1} für {2}.
+658bc4	Es gibt bereits einen Verein mit diesem Namen.
+b4b78c	Einen Verein zu gründen kostet {0}.
+cb6635	Für die Aufnahme ({0}) brauchst du sechs Monate Spielbetrieb und ein Stadion mit {1} Plätzen.
+db5bd7	Du gründest {0}. Der Verein spielt in der Regionalliga und mietet einen städtischen Platz mit {1} Plätzen.
+71662b	Der Startplatz kostet {0} und dein Verein hat nur {1} in der Kasse.
+edcfbb	Du hast den Startplatz bereits gekauft.
+1207fd	Du kaufst einen Startplatz ({0}) für {1}. Du wirst zum Saisonende aufgenommen, wenn du die Lizenz erfüllst.
+f2b559	Du verkaufst {0}. Du erhältst {1} (inklusive Vereinskasse).
+5eb3f7	So viel Geld hast du nicht: {0}.
+85a110	Du zahlst {0} in die Vereinskasse ein.
+086101	Du entnimmst {0} aus der Vereinskasse.
+61b2b1	Die Vereinskasse reicht nicht aus.
+02ea66	Du hast bereits ein Bauprojekt laufen.
+472782	Das Stadion kann nicht mehr als 100.000 Plätze haben.
+8e8ac6	Die Arbeiten kosten {0} und die Genehmigung {1}.
+1c78ed	Du beantragst die Baugenehmigung, um das Stadion um {0} Plätze zu erweitern. Die Stadtverwaltung antwortet in 2 bis 4 Monaten.
+99e68e	Du hast bereits das beste Zentrum.
+41d74d	Du beantragst die Genehmigung für den Bau: {0}. Die Stadtverwaltung antwortet in 2 bis 4 Monaten.
+476363	Die Arbeiten beginnen: {0} (3 Monate).
+76cfc3	Du hast bereits die beste Akademie.
+8c1b8b	Du eröffnest: {0}. Jedes Jahr können Talente mit mehr Potenzial herauskommen.
+afacdc	Der Markt ist geschlossen: Er öffnet im Juni und im Januar.
+e5c92c	{0} interessiert sich nicht für dein Projekt: Dein Verein liegt weit unter seinem Niveau.
+38d1e8	Der Transfer kostet {0} und dein Verein hat {1} in der Kasse.
+c01f9c	Dein Kader hat bereits zehn Stars.
+4fa5ea	{0} unterschreibt bei {1}: Ablöse von {2} und Gehalt von {3} pro Jahr.
+74e01f	Kein Verein bietet derzeit, was {0} wert ist.
+70f57f	Du verkaufst {0} an {1} für {2}.
+72ab90	Du lehnst das Angebot von {0} für {1} ab.
+0d3252	Angenommen: {0} wechselt für {2} zu {1}.
+2ae8e9	Du brauchst {0} in der Kasse (Abfindung des aktuellen Trainers und Entschädigung).
+f51cb9	{0} ist der neue Trainer von {1}: {2}, Gehalt von {3} pro Jahr.
+3ba870	Um {0} zu trainieren, brauchst du die {1}.
+214503	Du änderst die Spielweise: {0}. Die Mannschaft braucht ein paar Monate, um sich anzupassen.
+3107ca	Die Abfindung des aktuellen Trainers kostet {0}.
+4f4776	Du übernimmst die Mannschaft von {0}. Deine Stärke als Trainer: {1}.
+e10c49	Hast du schon
+f675a8	Zuerst brauchst du die {0}
+6db1e0	Ein Jahr nach der vorigen
+f81838	Du bestehst den Lehrgang und erhältst die {0}. Deine Stärke als Trainer: {1} (Maximum {2} mit dieser Lizenz).
+5cdd46	Schlecht
+90e998	Ideal
+94144b	👤 {0} hat einen neuen Trainer: {1} ({2}). Deine Passung zu seinem Stil: {3}. Das Vertrauen des Trainers beginnt bei null.
+5c0411	🌱 Deine Akademie befördert {0} ({1} Jahre, {2}, Potenzial {3}).
+68c625	Trainerlizenzen
+768bb4	⚽ Besitzer eines Fußballvereins werden
+959325	⚽ Dein Fußballverein
+e956dc	Kaufe einen Verein oder gründe einen
+0e4333	Alter
+3488d6	Übliche Formation
+3c3d15	Bilanz (S-U-N)
+58999d	Qualität des Trainers
+be736c	Im Amt seit
+e008d0	Regionalligen
+0cb069	Geschäftsmodell
+1b7d61	Geschätzte Einnahmen pro Jahr
+4397b6	Fans
+4ab4a4	Stärke
+e3dbe4	Vereinswert
+347876	Kommt von {0}
+ede971	Diesen Verein kaufen?
+37938f	Stil des Trainers
+00e6b7	Kader
+94dd4a	Gründen
+9d8aca	Anlagen
+ea9804	Lizenzen
+3e98e0	Regionalliga
+4fea0c	Startkapital (Vereinskasse)
+5ff1d4	Anmeldung beim Verband
+16cfa0	Mindeststadion für die Lizenz
+9d5764	Einstiegsliga
+d41547	den Namen wählst du im nächsten Schritt
+fc4a8f	🏟️ Einen Verein gründen
+64c889	Als ehemaliger Profifußballer machst du die Lehrgänge in der halben Zeit.
+514290	Monate als Trainer
+84b4ae	Maximum mit dieser Lizenz
+b16ef5	Deine Lizenz
+f09490	Deine Stärke als Trainer
+6eb203	maximale Stärke {0}
+eec32e	Bestanden
+72d389	Tabellenplatz
+cb5e1b	Zielstärke
+7bcbf6	Vereinskasse
+76b653	Monate in der Regionalliga
+1c2f1a	💰 Den Verein verkaufen
+d422e3	Du erhältst etwa {0} (inklusive Vereinskasse)
+16db45	Du brauchst die {0}
+411876	deine Stärke als Trainer: {0}
+6cf571	Du zahlst kein Trainergehalt mehr
+b892ac	📣 Selbst trainieren
+02b1bc	Entschädigung {0}
+6fa4ca	verlangt {0} pro Jahr
+11b00c	Aktuelle Stärke
+4916f3	Kadergehälter pro Jahr
+eb3280	Gehälter der Stars
+303efa	Markt geschlossen
+5dc715	Wert {0}
+948086	Marktwert {0}
+05301c	In Reichweite
+a4114a	Alle
+831e83	Gehalt {0}
+984162	Kasse reicht nicht
+c53e0e	Ablöse {0}
+fe80e4	Kein Interesse an deinem Projekt
+257c0b	Plätze
+4a8fd4	Zuschauer im letzten Monat
+9fc8f7	Genehmigung {0}
+e40f2d	Bauprojekt läuft bereits
+eb601c	{0} Monate Bauzeit
+c8194e	Unterhalt pro Jahr
+9da719	3 Monate Bauzeit
+cb6c1f	braucht eine Baugenehmigung
+4c34ce	öffnet sofort
+181efe	Von dir investiert
+33f233	Betrieb und Unterhalt
+6000a1	Transfers und Bauprojekte
+a26d34	Sponsoren und Fanshop
+b9faad	Tickets
+c56269	Spielerverkäufe
+fa4a30	Durchschnittlicher Ticketpreis
+bad3c9	Von der Vereinskasse zu deinem Geld
+bb4e9f	Von deinem Geld in die Vereinskasse
+bba8c5	du wirst zum Saisonende aufgenommen, wenn du die Lizenz erfüllst
+c941e1	📋 Einen Startplatz kaufen: {0}
+e1804f	Bereits gekauft
+eb067b	Vereinsname
+3d594b	Deinen Verein verkaufen?
+b73399	Verpflichten
+cb5b9b	Diesen Trainer verpflichten?
+3d7fed	Die Mannschaft selbst trainieren?
+7decd2	Taktische Passung
+7ef211	Geschäftsmodelle
+960972	Gehaltsbudget
+86c8ea	Ligalizenz
+ca62ff	Trainerlizenzen
+5c188c	Baugenehmigungen
+e6907a	Baugenehmigung
+d6d9ac	⚽ Fußballmanager
+40fdfb	Tippe auf einen Verein, um sein Profil zu sehen.
+31f930	Eigenschaften, die er am meisten schätzt:
+0040b2	Eine gute Passung bringt dich näher an einen Stammplatz.
+ac3b03	Dein Verein
+96f57a	Den Verein kaufen
+f8aad3	Kaufen
+cb3025	Noch keine Transfers erfasst.
+d5b798	Letzte Transfers
+01a429	Die größten Einkäufer (12 Monate)
+18262e	Die größten Verkäufer (12 Monate)
+a85a74	Die wertvollsten Spieler
+5d71d7	Werte nach Liga
+5e7363	Durchschnittliche Einnahmen
+090fc2	TV pro Verein
+f3fce9	Teuerster Star
+1bcfb1	Die Marktwerte richten sich nach Wert, Alter, Liga und Potenzial, wie auf Transferportalen.
+ef43bb	Stadion (Plätze)
+4ce4c4	Letzte Wechsel
+763e06	Titel des Vereins
+d1cf91	Besitzer eines Vereins werden
+44989a	Du kaufst den ganzen Verein: sein Stadion, seinen Kader und seinen Platz in der Liga. Danach entscheidest du über Gehälter, Transfers, Bauprojekte und wer die Mannschaft trainiert. Dein Geld:
+e0e6ea	Du gründest einen Verein in deiner Stadt. Er beginnt in der Regionalliga auf einem gemieteten städtischen Platz; für die Profiliga brauchst du sechs Monate Spielbetrieb und die Lizenz (ein Stadion mit genug Plätzen und, in der ersten Liga, ein Trainingszentrum).
+ae7e77	Dein Land hat keine simulierte zweite Liga: Außer der Lizenz musst du vor dem Einstieg einen Startplatz (Franchise) kaufen.
+1910a3	Dein Land hat noch keine simulierte Liga: Sie wird erstellt, wenn du den Verein gründest.
+0dbdeb	Vereinsfarben:
+737c87	Trainerlizenzen (wie die der UEFA und der Verbände) erwirbt man der Reihe nach: C, B, A und Pro. Mit der B trainierst du einen Regionalverein, mit der A einen Zweitligisten und mit der Pro einen Erstligisten.
+f2fd94	Deine Stärke als Trainer steigt jeden Monat, in dem du trainierst, schneller mit guten Ergebnissen, bis zum Maximum deiner Lizenz.
+6a04c7	Stimmung der Fans
+650011	Saisonziel:
+4e3c98	Spielzeiten
+7cd71d	Trainingszentrum
+626b01	Startplatz (Franchise)
+3a7321	Sechs Monate in der Regionalliga
+4b582a	Für die Aufnahme zum Saisonende: {0}
+c56e24	🏟️ Mindeststadion für die Lizenz: {0}
+836e2d	Gehalt des Trainers
+e67695	Deine Spielweise (ein Wechsel braucht ein paar Monate Anpassung):
+fac21d	Anpassung des Kaders
+1dfac7	Kandidaten (vereinslos und von anderen Vereinen; für die mit Vertrag zahlst du ihrem Verein ein Jahr Entschädigung):
+7ac8f0	Das Gehaltsbudget ordnet dich in die Ausgabentabelle deiner Liga ein: Die Stärke der Mannschaft nähert sich langsam dem an, was sie bezahlt.
+ccdd7a	Unter jedem Namen: Potenzial und Jahresgehalt.
+269fa8	Dein Verein hat keine Stars. Verpflichte sie im Markt oder bilde Talente in deiner Akademie aus.
+aa4c9b	Vereinskasse:
+05f3ed	ANGEBOT FÜR DEINEN STAR
+65ff6d	{0} bietet {1} für {2}.
+adb813	Angebote für deine Stars
+c56862	Einen Star verkaufen
+6e6ef8	Verpflichten
+802049	📋 Baugenehmigung in Bearbeitung: Die Stadtverwaltung antwortet in {0} Monat(en).
+e0e0de	🏗️ Bauarbeiten laufen: fertig in {0} Monat(en).
+545b3c	Für den Aufstieg ({0}) brauchst du {1} Plätze und ein Trainingszentrum.
+208445	Jede Stufe bringt einen halben Punkt Zielstärke; in der ersten Liga braucht man mindestens ein einfaches Zentrum.
+651e5d	Jedes Jahr kann die Akademie ein Talent befördern: höhere Stufe, höhere Chance und mehr Potenzial.
+426395	Letzte 12 Monate
+988b22	Günstige Tickets füllen das Stadion und freuen die Fans; teure lassen Plätze leer.
+2bd8d2	Kapital
+1d64ab	Rutscht die Kasse ins Minus, deckst du es aus eigener Tasche; kannst du das nicht, geht der Verein in die Insolvenz.
+85f0a6	Startplatz in der Liga
+43321a	🏟️ Um {0} Plätze erweitern
+bc3292	🏋️ Bauen: {0}
+66a8ea	🌱 Eröffnen: {0}
+c9ec56	➕ {0} einzahlen
+a282f7	💵 {0} entnehmen
+6d0fa7	{0} verkauft {1}.
+efd38e	Wechselt zu {0}
+ed9d19	Lehrgang: C-Lizenz
+736caf	Lehrgang: B-Lizenz
+da3e10	Lehrgang: A-Lizenz
+adae2d	Lehrgang: Pro-Lizenz
+11b0e4	Schnellkurs: C-Lizenz
+db4dc9	Schnellkurs: B-Lizenz
+d1df7b	Schnellkurs: A-Lizenz
+5c4caf	Schnellkurs: Pro-Lizenz
+e18d07	C-Lizenz
+3a0f42	B-Lizenz
+dae3a0	A-Lizenz
+f42d61	Pro-Lizenz
+89c7d6	vereinslos
+de82c1	Akademie
+872401	Stadion
+41e155	Tabelle

@@ -1,0 +1,106 @@
+da4112	D	Crecimiento del país
+e770f6	D	Recesión
+c42c4a	D	Tasas de interés
+b82b50	D	Guerra
+2091ec	D	Precio del petróleo
+6f40f5	D	Precio de los metales
+de3107	D	Crisis bancaria
+eaa432	D	Salud de los bancos
+25df08	D	Sus clientes (cadena)
+8ba059	D	Consumo de los hogares
+428aa6	D	Quiebras recientes
+eb9d92	D	Tendencia del sector
+2a9066	D	Hogares de la provincia
+ba2f44	D	Turistas
+0ed580	D	Otras empresas del país
+2b3fa3	D	Empresas y hogares que adoptan tecnología
+90c48c	D	Hogares de todo el país
+cfcdcf	D	Mercado mundial: vendes a precio internacional
+bf3612	D	por la quiebra de una empresa
+fe1287	D	por el cierre de una empresa
+04d5bf	T	{0} meses
+01c6b3	D	Aporte a la economía local
+e29d55	D	Aún no cierra su primer mes.
+ae31cc	D	Valor agregado al año
+a59004	D	Con proveedores y sueldos
+a14887	D	Empleos
+e0373a	D	directos + indirectos
+8cf54c	D	Impuestos y cuotas
+78ca2c	D	al año
+f45225	D	PIB de la provincia
+54e3cd	D	PIB del país
+c37c0c	D	Valor agregado = ventas − insumos: lo que tu empresa suma a la economía.
+2ccea0	D	Sus compras a proveedores y los sueldos que tus empleados gastan generan más actividad (multiplicador).
+bd431d	T	Cada año ese aporte entra al PIB de {0}.
+5d2777	D	Cadena de suministro
+163de9	D	Insumos
+e9b8a1	T	{0} % del costo
+725a2b	D	precio desde 2026
+3c8275	D	Lo produce tu empresa
+f9c7b3	D	(10 % más barato)
+c60a91	T	Integración vertical: ahorras {0} al mes en insumos.
+e84b64	D	Clientes
+928862	D	Salud de tu sector
+cd52f2	D	Efecto en tu demanda
+0b5c1a	D	Demanda de la provincia
+6b7103	D	Tu aporte a la economía
+33a71c	D	PIB de tu país
+e0d793	D	Ver tus empresas en el mapa
+b5aae0	T	Comprar en otro país es inversión extranjera directa: pagas {0} % de trámites y la empresa opera con los sueldos, impuestos y crisis de ese país.
+59502b	T	Trámites: {0}
+c33869	D	Ese país ya no existe.
+ff7f4c	T	Trámites de inversión extranjera: {0}.
+afd069	T	Compras {0} por {1}. Trámites de inversión extranjera: {2}.
+bd6bcf	T	Compras {0} por {1} (pagas {2}; {3} de crédito quedan como deuda de la empresa). Trámites de inversión extranjera: {4}.
+b5a26e	D	Competidor del mismo giro
+ec0385	D	Paga más si la empresa está sana: le suma clientes y sucursales.
+488eb4	D	Fondo de capital privado
+2fabc6	D	Solo compra empresas con utilidades; paga según sus flujos.
+1342fe	D	Inversionista individual
+67b06b	D	Ofrece menos, pero compra casi cualquier empresa.
+033f80	D	Vender la empresa
+3b6679	D	Valor estimado
+99ff29	D	Salud de la empresa
+e4ed68	D	Cada comprador ofrece según la salud de la empresa: margen, reputación, crecimiento y deuda.
+21206a	D	Puedes aceptar o pedir más: si se niega, baja un poco su oferta; a la segunda negativa se retira.
+5b72aa	D	Las ofertas se renuevan cada 3 meses.
+095408	D	Por ahora no hay compradores interesados.
+c733ab	T	Ya rechazó pagar más: {0}
+8f9f73	D	Aceptar
+4f5c13	T	Fondo {0} Capital
+37b68c	T	{0} se retira: no acepta pagar más por {1}.
+362d66	T	{0} rechaza pagar más y baja su oferta a {1}. Puedes aceptarla o intentarlo una vez más.
+dadf29	T	Vendes {0} a {1} por {2} ({3} % más que su oferta). La empresa sigue operando con su nuevo dueño.
+2b53c9	T	Vendes {0} a {1} por {2}. La empresa sigue operando con su nuevo dueño.
+ba0b31	D	Salud de los sectores
+19f297	D	50 es lo normal.
+f3c89a	D	Cada sector depende de sus clientes: si la construcción cae, la industria y la minería lo sienten después (cadena de suministro).
+cd2c1f	D	Toca un sector para ver sus causas.
+84fdb6	D	Sus deudores
+99ebbc	D	Economía local
+84b89e	D	Actividad económica
+d276d5	D	Sector principal
+1bc7f4	T	{0} % de la economía
+b6d859	D	Economía local y tus empresas
+df6537	D	débil
+7af0f1	D	fuerte
+ee64e3	D	Tus empresas
+bd7d15	D	La actividad económica de las provincias se calcula en el hilo principal.
+d215c8	D	No disponible en este navegador: se calcula en el hilo principal.
+012346	D	La actividad económica de las 3,422 provincias se calcula en otro hilo cada mes.
+59e47e	D	Economía del mundo en segundo plano: activada
+1f3ade	D	Economía del mundo en segundo plano: desactivada
+1662ca	T	La quiebra de {0} deja sin empleo a {1} personas en {2}; los bancos de {3} pierden {4} en créditos que no se pagarán.
+737a53	T	Al cerrar {0}, {1} personas se quedan sin empleo en {2} y la demanda de la provincia baja unos meses.
+694f77	D	Valor agregado
+01640b	D	Lo que una empresa suma a la economía: sus ventas menos lo que compra a otras empresas (insumos). La suma del valor agregado de todas las empresas es el PIB.
+66fdc7	D	Multiplicador económico
+54f06b	D	Cada peso que una empresa gasta en proveedores y sueldos se vuelve a gastar en otros negocios; por eso su efecto total en la economía es mayor que sus propias ventas.
+aaabdb	D	Integración vertical
+3daa84	D	Ser dueño de tu propio proveedor (o cliente): el insumo te sale más barato y no dependes de otros, pero concentras el riesgo.
+4d3788	D	Inversión extranjera directa
+816d1b	D	Comprar o abrir empresas en otro país. Trae empleos y capital al país que la recibe; el inversionista asume sus crisis, sus impuestos y su moneda.
+60cc9e	D	Múltiplo de valuación
+fab259	D	Cuántas veces su utilidad anual se paga por una empresa. Un comprador paga más múltiplo si la empresa crece, tiene buen margen y poca deuda.
+220bd8	D	Red de empresas que se venden entre sí: si un cliente importante entra en crisis, sus proveedores lo sienten después, y así en cadena.
+d0a528	D	Economía conectada

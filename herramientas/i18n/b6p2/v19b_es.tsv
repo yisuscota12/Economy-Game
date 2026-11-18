@@ -1,0 +1,75 @@
+88be5d	D	propios
+f53fb5	D	aliados
+5151df	D	enemigos
+708ec2	D	neutrales
+8becca	T	Asedio de {0}: mes {1} de ~{2}
+cb2d38	T	Asedio de {0}: la provincia puede caer el próximo mes
+441ede	T	Ejército enemigo en camino: {0} soldados, llega el próximo mes
+cdc498	T	Ejército enemigo en camino: {0} soldados, llega en ~{1} meses
+fe204b	D	¿Sabías que…?
+fac584	D	Fuente:
+9b716e	D	Cada dato muestra su fuente: ONU, FMI, Banco Mundial, BPI, INEGI, FAO, NOAA y otras.
+a45e78	D	Animaciones
+e0ba4b	D	GSAP 3.15 (licencia estándar de GSAP, sin costo).
+374ba2	D	✨ Animaciones de la interfaz
+eac9d8	D	Transiciones suaves al abrir pantallas y cambiar de pestaña. En automático se apagan con «reducir movimiento», el mapa ligero o un equipo de 2 núcleos.
+b756ff	D	Ahora: encendidas
+f0be78	D	Ahora: apagadas
+6ee466	D	ONU
+8ebd2a	D	Oficina de Estadística de Corea, 2024
+a60fb2	D	Oficina de Estadística de Japón, 2024
+e48a9b	D	Instituto Cervantes, 2024
+6e56c5	D	FMI, 2024
+0ce577	D	Banco Mundial, 2024
+a90d68	D	INEGI
+394a4c	D	BPI, 2025
+a6bab7	D	Universidad Johns Hopkins
+269723	D	Banco de la Reserva de Zimbabue
+dbc006	D	Banco de Suecia
+5c67e5	D	Euronext Ámsterdam
+eedbb0	D	UNCTAD
+d2efe5	D	Asociación Mundial del Acero, 2024
+da8888	D	OPEP
+29097f	D	FAO
+3dfd10	D	NOAA
+cf7d6b	D	Enciclopedia Británica
+3653c8	D	Agencia Internacional de Energía
+5f2f53	D	Gobierno de Rusia
+ca4cfa	D	CIA World Factbook
+9bc616	D	FIFA
+b32260	D	Toca una provincia con tus tropas para verlas; 🎯 Mover y luego toca el destino. Por mar viajan solos si la ruta es costera.
+2495c3	D	Entra a una provincia enemiga y asédiala; la guarnición local y las fortalezas la hacen más lenta.
+855311	D	Lejos de tu territorio el abasto baja y el desgaste sube; la estabilidad del país limita la moral.
+1375aa	D	Lo que ocupas se reclama en la conferencia de paz. Si el enemigo pierde todo o su capital, capitula.
+f00cea	D	Resto del año (IA)
+016688	D	asediando
+06f57e	D	en posición
+162339	T	Asedio de {0}: {1} de ~{2} mes(es)
+8f6621	T	frente {0}
+30dadb	D	India superó a China en 2023 como el país más poblado del mundo.
+24ecd8	D	Desde 2007 vive más gente en ciudades que en el campo.
+bbff83	D	La esperanza de vida mundial pasó de unos 46 años en 1950 a más de 73 hoy.
+a4d6e1	D	En los años sesenta cada mujer tenía en promedio unos 5 hijos; hoy el promedio mundial ronda los 2.2.
+5edca9	D	Corea del Sur tiene la fecundidad más baja del mundo: menos de 0.8 hijos por mujer.
+bd29ae	D	En Japón casi 3 de cada 10 personas tienen 65 años o más.
+15bd7a	D	México es el país con más hablantes nativos de español: más de 120 millones.
+2d1b9b	D	La economía mundial produce unos 110 billones de dólares al año.
+b851b3	D	Estados Unidos y China generan juntos más del 40 % del PIB mundial.
+e573ab	D	México es el segundo país que más remesas recibe en el mundo, después de India.
+d729b6	D	En México, 99 de cada 100 empresas son micro, pequeñas o medianas.
+2eea62	D	El mercado de divisas mueve más de 9 billones de dólares al día.
+115baf	D	El dólar participa en casi 9 de cada 10 operaciones de divisas del mundo.
+a0e4e0	D	En Hungría, en 1946, los precios llegaron a duplicarse cada 15 horas: la peor hiperinflación registrada.
+279a81	D	Zimbabue imprimió en 2009 un billete de 100 billones de dólares zimbabuenses.
+ba84cb	D	El banco central más antiguo que sigue funcionando es el de Suecia, fundado en 1668.
+ff075c	D	La primera bolsa de valores moderna nació en Ámsterdam en 1602.
+abec67	D	Más del 80 % del comercio mundial, medido por volumen, viaja por mar.
+3dcd01	D	China produce más de la mitad del acero del mundo.
+8222d6	D	Venezuela tiene las mayores reservas probadas de petróleo del planeta.
+3f5e1d	D	La agricultura usa cerca del 70 % del agua dulce que se extrae en el mundo.
+0fffc5	D	Los océanos cubren alrededor del 71 % de la superficie de la Tierra.
+c90e03	D	El río Amazonas aporta cerca de una quinta parte de toda el agua dulce que los ríos del mundo llevan al mar.
+e25cad	D	Islandia genera casi toda su electricidad con energía hidroeléctrica y geotérmica.
+8719e1	D	Rusia abarca 11 husos horarios.
+f72b3a	D	Canadá tiene la costa más larga del mundo: más de 200,000 km.
+a6eaf9	D	El Estadio Azteca es el primero en recibir partidos de tres Copas del Mundo: 1970, 1986 y 2026.

@@ -1,0 +1,6 @@
+79fb15	⚙️ Speichern im Hintergrund: an
+b5a885	⚙️ Speichern im Hintergrund: aus
+ba9757	Das Spiel wird in einem anderen Thread vorbereitet und komprimiert, damit der Bildschirm beim Speichern nicht ruckelt.
+bebce2	Das Spiel wird im Haupt-Thread gespeichert, wie vor v1.8b.
+f3bfa7	In diesem Browser nicht verfügbar: Es wird wie gewohnt gespeichert.
+14ce48	Vorlauf angehalten. Es fehlen {0} Tag(e): Tippe erneut auf die Schaltfläche, um ihn abzuschließen.

@@ -1,0 +1,273 @@
+001	(+{0}/yıl). Kendi illerinden birine dokun → 🏗️ İnşa et.
+002	Hükümet eylemleri ({0} / 2)
+003	Onay / Kongre
+004	Kongredeki destek %{0} (yasa geçirme olasılığı: %{1})
+005	yeniden seçilme yok
+006	art arda olmayan yeniden seçilme
+007	en fazla art arda 2 dönem
+008	sınırsız yeniden seçilme
+009	sen yönetiyorsun ({0})
+010	Altyapıya yatırım yap
+011	Ekonomik büyüme
+012	Orduyu güçlendir
+013	askerî harcama
+014	Sosyal reformlar
+015	Propaganda
+016	Vergileri düşür
+017	Uzun vadede ekonomi
+018	Enflasyonla mücadele planı
+019	Kamu fonlarını zimmetine geçir
+020	senin için
+021	yargılanma riski
+022	Bir altyapı planı başlatıyorsun.
+023	Teçhizat alıyor ve asker eğitiyorsun.
+024	Sosyal reformlar onaylandı.
+025	Ulusal propaganda kampanyası.
+026	Vergileri düşürüyorsun. Halk kutluyor.
+027	Merkez bankası faizleri artırıyor; enflasyon geriliyor.
+028	Fonları kendi adına açılmış hesaplara aktarıyorsun.
+029	Hazine gelirleri (yüksek vergiler)
+030	Hazine gelirleri (normal vergiler)
+031	Hazine gelirleri (düşük vergiler)
+032	Vergiler (bir hükümet eylemi harcar)
+033	Vergiler (bir hükümet eylemi harcar, oylama gerekir)
+034	Yüksek vergiler
+035	Normal vergiler
+036	Düşük vergiler
+037	Gelir ×{0}
+038	Vergileri yüksek seviyeye ayarlıyorsun.
+039	Vergileri normal seviyeye ayarlıyorsun.
+040	Vergileri düşük seviyeye ayarlıyorsun.
+041	{0} tutarında tahvil ihraç et
+042	Yıllık faiz {0}
+043	Tahvil öde ({0})
+044	Kendi tahvillerinden {0} borcun var
+045	{1} faizle {0} tutarında tahvil ihraç ediyorsun. Kamu borcu GSYİH'nın %{2} seviyesine çıkıyor.
+046	{0} tutarında tahvil ödüyorsun.
+047	Sivil araştırma: seviye {0} → {1}
+048	Askerî araştırma: seviye {0} → {1}
+049	Ülken sivil teknolojide {0}. seviyeye ulaşıyor ({1}).
+050	Ülken askerî teknolojide {0}. seviyeye ulaşıyor ({1}).
+051	Antlaşmalar: {0} (yılda +%{1})
+052	{0} ({1} yılına kadar)
+053	yok
+054	yok
+055	Ambargolar: {0} (yılda −%{1})
+056	{0} ülkesine uyguluyorsun
+057	{0} sana uyguluyor
+058	Hazine bütçesi (yılda {0})
+059	Ayırmadığın kısım hazinede birikir:
+060	Yatırım
+061	Refah
+062	illerin gelişimi ve büyüme
+063	sivil ve askerî teknoloji
+064	ek askerlerin parası, moral ve acemi erler
+065	mutluluk ve istikrar
+066	Bir hükümet eylemi harcar. 4 yılda bir değiştirilebilir. Demokrasiden başka bir rejime geçmek demokrasilerle ilişkileri soğutur ve yaptırım getirebilir.
+067	{0} ülkesinin vasalısın
+068	{0} orduları
+069	{1} orduda {0} asker
+070	kalite {0} (asker başına harcama {1}/yıl, SIPRI)
+071	ek asker maliyeti {0}/yıl
+072	(denizde)
+073	eğitimde
+074	moral
+075	ikmal
+076	kalite
+077	asker
+078	{0} ilinde asker topla
+079	Başka bir ilde asker toplamak için bu sayfayı açmadan önce haritada o ile dokun. Acemi erler {0} ay eğitim görür ve düşük moralle başlar.
+080	{0} asker topla
+081	hazineden {0}
+082	hazine {0}. Savaşlar ordularınla ay ay oynanır.
+083	{0} ordusu ({1}) hazır: haritada hedefe dokun.
+084	Bu yıl 3 diplomatik eylemden {0} tanesi kaldı.
+085	Her ülkenin görüşü büyükelçilikler ve antlaşmalarla yükselir, ültimatomlar ve savaşlarla düşer.
+086	gücü seninkine göre {0}
+087	güç: seninkine göre {0}
+088	Eylemler ({0} diplomatik, {1} hükümet)
+089	Diplomasiyi yalnızca yöneten yapar.
+090	⚠️ Saldırmazlık paktını bozar: −10 istikrar ve herkes sana güvenmez
+091	İlişkileri geliştir
+092	Büyükelçilik ve resmî ziyaretler
+093	İttifak öner
+094	Olasılık
+095	kuvvetleri savaşta seni destekler
+096	İttifakı boz
+097	Desteğini kaybedersin
+098	Saldırmazlık paktı (10 yıl)
+099	paktı bozmadan birbirinize saldıramazsınız
+100	Askerî geçiş izni iste
+101	orduların topraklarından geçebilir
+102	Askerî geçiş izninden vazgeç
+103	Bağımsızlığını garanti et
+104	Her zaman kabul ederler
+105	biri onlara saldırırsa, seni savunmaya çağırırlar
+106	Garantiyi geri çek
+107	Ültimatom: {0} talep et
+108	Ültimatom: vasallık talep et
+109	Kabul
+110	reddederlerse savaş gerekçesi kazanırsın (savaş ilan etmek istikrarı düşürmez)
+111	vasal haraç öder ve senin yanında savaşır
+112	Vasalı ilhak et
+113	Tüm topraklarını ilhak edersin
+114	5 yıl vasallık (sende {0}) ve 40+ görüş gerekir
+115	Vasalı serbest bırak
+116	Ticaret antlaşması (10 yıl)
+117	ikiniz de daha hızlı büyürsünüz (senin için yılda +%{0})
+118	Ticaret antlaşmasını iptal et
+119	Ticaret ambargosu
+120	Ekonomisi yılda ~%{0} kaybeder; sen de biraz kaybedersin
+121	Ambargoyu kaldır
+122	Hediye gönder ({0})
+123	+15 ile +25 arası görüş
+124	Hükümetine hakaret et
+125	−30 görüş; daha güçlülerse sana savaş ilan edebilirler
+126	{0} ülkesine karşı silah başına çağır
+127	ordularıyla katılır
+128	Uluslar birliği öner
+129	75+ görüş, aynı kültür veya sistem ve senden zayıf olmaları gerekir
+130	enflasyon {0}.
+131	Merkez bankası, enflasyon hedefini aşınca faizi artırır, ekonomi soğuyunca düşürür (Taylor kuralı).
+132	İhraç etmediğin bir para birimi kullanıyorsun: faizi {0} belirler.
+133	Reformlar bir hükümet eylemi harcar (kalan: {0}).
+134	Fiyatı piyasa belirler ve şokları emer; faiz sende kalır.
+135	Hong Kong (1983'ten beri para kurulu) ve Suudi Arabistan (1986'dan beri dolar başına 3,75) sabit kur uygular. Meksika 1994'te, Tayland 1997'de ve Arjantin 2002'de sabit kur güvenilirliğini yitirince devalüasyon yaşadı.
+136	Her banknot dolarla karşılanır: çok güvenilir ama para politikası yok. GSYİH'nın %5'i kadar hazine gerekir.
+137	Hükümet için para bas (senyoraj): {0}
+138	Harcamaları para basarak finanse etmek Almanya'da (1923), Zimbabve'de (2008) ve Venezuela'da (2016-2021) hiperenflasyona yol açtı.
+139	GSYİH / yıl
+140	1 yeni = 1.000 eski. {0}
+141	Meksika 1993'te üç sıfır attı (yeni peso), Türkiye 2005'te altı, Brezilya 1994'te reale geçti ve Sierra Leone 2022'de üç sıfır attı.
+142	{0} sıfır at
+143	Doları ~{0} birime getirir.
+144	Emisyonun sonu, bağımsız merkez bankası, faiz +8 ve gerekirse sıfır atma. Brezilya'nın Real Planı (1994) gibi işler: enflasyon bir resesyon pahasına 3 yılda düşer.
+145	Ekvador 2000'de bir bankacılık krizinin ardından dolara geçti; El Salvador 2001'de. Enflasyon ABD'ninkine yaklaşır ama para politikasını kaybedersin.
+146	Kriterleri karşılıyorsun. {0}
+147	Kriterler: {0}
+148	Hırvatistan 2023'te, Bulgaristan 2026'da enflasyon, açık, borç ve iki yıllık istikrarlı kur şartlarını karşılayarak avroya geçti.
+149	Enflasyon ≤ %{0} (sende %{1})
+150	Borç ≤ GSYİH'nın %90'ı (sende %{0})
+151	İki yıl avroya sabitlenmiş (ERM II)
+152	İstikrar ≥ 40 (sende {0})
+153	Avrodan çık ve kendi paranı oluştur
+154	Faizi ve kuru geri kazanırsın ama geçiş sermaye kaçışına, resesyona ve ilk başta devalüasyona yol açar.
+155	Daha fazla yatırım ve büyüme; yeniden sermaye kaçışına açık hâle gelirsin.
+156	Kaçışları ve spekülatif saldırıları frenler ama büyümeyi azaltır ve yabancı hisse almayı yasaklar (Arjantin'in “cepo”su gibi).
+157	{0} üzerinde kontrolü ele alıyorsun. Artık faizi sen belirliyorsun; piyasalar güvenmiyor (sürdüğü müddetçe yılda +1 puan enflasyon).
+158	{0} kurumuna bağımsızlığını geri veriyorsun: faizleri yine kendi kuralına göre belirler (enflasyon ve büyüme).
+159	Politika faizini %{0} olarak belirliyorsun ({1}). Kredi pahalanır: enflasyonu ve büyümeyi frenler, parayı güçlendirir.
+160	Politika faizini %{0} olarak belirliyorsun ({1}). Kredi ucuzlar: büyümeyi canlandırır ama enflasyon yükselir ve para zayıflar.
+161	Para kurulu için rezerv gerekir: en az GSYİH'nın %5'i kadar hazine.
+162	{0} serbestçe dalgalanır: kuru piyasa belirler ve şokları emer.
+163	{0} serbestçe dalgalanır: kuru piyasa belirler ve şokları emer.
+164	Yönetilen dalgalanma: merkez bankası {0} hareketlerini yumuşatır.
+165	Yönetilen dalgalanma: merkez bankası {0} hareketlerini yumuşatır.
+166	{0}, 1 {2} = {1} seviyesine sabitlenir. Faizin çapanın faizini izler; enflasyonun çapanınkini aşarsa sabit kur spekülatif saldırıya açık hâle gelir.
+167	{0}, 1 {2} = {1} seviyesine sabitlenir. Faizin çapanın faizini izler; enflasyonun çapanınkini aşarsa sabit kur spekülatif saldırıya açık hâle gelir.
+168	{0}, 1 {2} = {1} kurundan para kuruluna geçer. Faizin çapanın faizini izler; enflasyonun çapanınkini aşarsa sabit kur spekülatif saldırıya açık hâle gelir.
+169	{0}, 1 {2} = {1} kurundan para kuruluna geçer. Faizin çapanın faizini izler; enflasyonun çapanınkini aşarsa sabit kur spekülatif saldırıya açık hâle gelir.
+170	Hükümetin para basılarak finanse edilmesini emrediyorsun: her yıl hazineye {0} girer. Daha fazla enflasyon ve daha zayıf bir para bekle.
+171	Hükümet için para basmayı bırakıyorsun.
+172	Paranın atılacak o kadar sıfırı yok.
+173	İstikrar planı: para basmayı bırakıyorsun, merkez bankası bağımsızlığını geri kazanıyor ve faizi 8 puan artırıyor. Enflasyon önümüzdeki 3 yılda sert düşecek; bedeli bir resesyon ve daha düşük onay.
+174	Sermaye kontrolü uyguluyorsun: daha az spekülatif saldırı ve kaçış, ama ekonomi daha az büyür ve kimse yurt dışında hisse alamaz.
+175	Sermaye kontrolünü kaldırıyorsun: para serbestçe girip çıkar.
+176	ABD dolarına sabit ({0})
+177	avroya sabit ({0})
+178	para kurulu (ABD doları)
+179	para kurulu (avro)
+180	Kuru hemen düşürür; rezerv harcarsın.
+181	Daha fazla ihracat rekabetçiliği ve rezerv; biraz daha fazla enflasyon.
+182	Stratejik rezervi doldur ({0})
+183	Arz kesintilerine karşı korur; fiyatı yukarı iter.
+184	Ülken kendi parasını ihraç etmiyor: kura müdahale edemez.
+185	Döviz rezervin yok.
+186	{0} rezerv satıyorsun: {1} güçleniyor.
+187	{0} rezerv satıyorsun: {1} güçleniyor.
+188	Para basarak {0} değerinde dolar alıyorsun: {1} zayıflıyor (daha fazla rekabetçilik, biraz daha enflasyon) ve rezervlerin artıyor.
+189	Para basarak {0} değerinde dolar alıyorsun: {1} zayıflıyor (daha fazla rekabetçilik, biraz daha enflasyon) ve rezervlerin artıyor.
+190	Hazinede veya rezervlerde {0} gerekiyor.
+191	{0} ton altın alıyorsun ({1}).
+192	Altının yok.
+193	{0} ton altın satıyorsun: döviz rezervlerin {1} artıyor.
+194	Hazinede {0} gerekiyor.
+195	Stratejik rezervin için {0} alıyorsun ({1}).
+196	Stratejik rezervin boş.
+197	{0} serbest bırakıyorsun: hazineye {1} giriyor ve dünya fiyatı düşüyor.
+198	gevşek
+199	sıkı
+200	{0} ödenecek
+201	millîleştirilmiş
+202	özel
+203	Gevşek düzenleme
+204	Normal düzenleme
+205	Sıkı düzenleme
+206	En yoksul illerdeki şirketlere ucuz kredi: 3 yıl boyunca +gelişme ve +büyüme.
+207	Altyapı için: en yoksul 10 ilinde +0,5 gelişme; borç artar.
+208	Krediye devlet karar verir; bankalar borsada düşer ve ekonomi daha az büyür.
+209	Gevşek bir bankacılık düzenlemesi belirliyorsun.
+210	Normal bir bankacılık düzenlemesi belirliyorsun.
+211	Sıkı bir bankacılık düzenlemesi belirliyorsun.
+212	IMF {0} borç veriyor (yarısı hazineye, yarısı rezervlere). Şartlar: 3 yıl kemer sıkma (daha az büyüme ve onay), para basmak yok ve bağımsız merkez bankası.
+213	Dünya Bankası altyapı için {0} borç veriyor: en yoksul 10 ilinde +0,5 gelişme ve 5 yıl boyunca daha fazla büyüme.
+214	Kalkınma bankası en yoksul illerdeki şirketlere {0} borç veriyor: 3 yıl boyunca +gelişme ve biraz daha büyüme.
+215	Bankaları millîleştiriyorsun: kime borç verileceğine devlet karar verir. Bankalar borsada düşer ve kredi daha verimsiz hâle gelir (yılda −%0,3 büyüme).
+216	Bankaları yeniden özelleştiriyorsun: rekabet geri dönüyor.
+217	{0} kayda değer petrol, gaz, maden veya ihracatlık tahıl üretmiyor.
+218	Devlet payı %10 → %35; daha az yatırım (yılda −%0,3 büyüme) ve sektör şirketleri borsada düşer. 1938'de petrolle Meksika ya da 2006'da gazla Bolivya gibi.
+219	İhracatı yasakla (bir eylem harcar): dünya fiyatı yükselir ve iç pazarın beslenir ama döviz kaybedersin.
+220	Petrolü ve madenciliği millîleştiriyorsun: hazineye giden devlet payı üretim değerinin %10'undan %35'ine çıkar, ama yatırım düşer (yılda −%0,3 büyüme) ve sektör şirketleri borsada düşer.
+221	Sektörü yeniden özelleştiriyorsun: imtiyaz satıyorsun (yıllık değerin %5'i hazineye) ve yatırım geri döner; devlet payı yeniden %10 olur.
+222	{0} ihracatını yasaklıyorsun: dünya fiyatı yükselir ve iç pazar beslenir ama döviz kaybedersin (büyümen yavaşlar).
+223	{0} ihracat yasağını kaldırıyorsun.
+224	Yakın zamanda muharebe yok.
+225	Gnl. {0}
+226	Saldırgan (saldırırken +%15)
+227	Savunmacı (savunurken +%15)
+228	Lojistikçi (−%35 yıpranma ve daha iyi ikmal)
+229	Hızlı (ayda +1 hareket)
+230	Karizmatik (moral iki kat hızlı toparlanır)
+231	Dağcı (dağlarda ve tepelerde +%25)
+232	Tecrübesiz (muharebede −%10; çabuk öğrenir)
+233	varil
+234	bin varil
+235	milyar varil
+236	milyon BTU
+237	bin milyon BTU
+238	milyar milyon BTU
+239	ton
+240	bin ton
+241	milyar ton
+242	ton karbonat
+243	bin ton karbonat
+244	ton oksit
+245	bin ton oksit
+246	ons
+247	bin ons
+248	milyar ons
+249	libre U₃O₈
+250	bin libre U₃O₈
+251	milyar libre U₃O₈
+252	Varil
+253	Milyon BTU
+254	Ton
+255	Ton karbonat
+256	Ton oksit
+257	Ons
+258	Libre U₃O₈
+259	varil başına
+260	milyon BTU başına
+261	ton başına
+262	ton karbonat başına
+263	ton oksit başına
+264	ons başına
+265	libre U₃O₈ başına
+266	milyon varil
+267	milyon ton
+268	milyon ons
+269	trilyon BTU
+270	milyon libre U₃O₈
+271	milyon ton karbonat
+272	milyon ton oksit
+273	asker havuzu {0} (seferber edilebilir nüfus)

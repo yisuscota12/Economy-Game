@@ -1,0 +1,157 @@
+ff2822	Manages {0}
+2db424	You hire {0} employee(s).
+a9084f	{0} loan
+0af880	You lay off {0} employee(s).
+a98c77	You join {0} as {1}.
+bce051	Inject your own capital ({0})
+570310	You withdraw {0}.
+d92860	You're {0} short.
+5a2722	You sell {0} at the world price: {1}.
+ad01f5	{0}: removes {1} zeros (formerly {2})
+a15fb8	{0}: {1} moves to a free float.
+a7e43c	Peace: {0} cedes {1} occupied province(s) to {2}.
+e6ac50	Agriculture
+1da85d	High +15 %
+ad4669	Low −15 %
+ca9bf1	Rice
+e2eb07	Associate
+8e4369	Automotive
+2fcbd4	Café
+2c0027	12-month change
+35ff4c	Construction company
+0b14bc	Coordinator
+419316	Report them
+0ab909	Decentralization
+12a447	Director
+3ddc05	Private school
+73a427	Pharmacy
+c6816f	Balanced fund
+16dc8a	Conservative fund
+ec71b7	Index fund
+45f66f	Armed forces
+c37936	Factory
+3dbada	New hospitals
+9c4ba7	Hotel
+be9d95	Infrastructure
+811cac	Jewelry store
+f1a9ce	Luxury
+f0a4ce	10-week average
+d7b75b	30-week average
+4cea5a	12-month average
+acf6d7	36-month average
+a53439	Metals
+b08dc9	Precious metals
+6e6700	Mine
+476008	Half stocks, half bonds
+372ed9	Strict environmental rules
+bab2a8	Bakery
+73b2e9	Oil well
+66cd78	Cattle ranch
+4974cd	Voluntary recruitment
+fe7aa5	Progressive tax reform
+a3ab1f	Requires a university degree.
+e46805	Restaurant
+31ad6e	Modern irrigation
+3765ce	Semiconductors
+142fc4	No cash.
+9e2534	Stop
+d458ff	Deputy minister
+237e06	Savings rate (vs. normal)
+095411	Rare earths
+de5e04	Trader
+6a2cfd	Senior trader
+159c2b	Tourism
+eda706	Uranium
+38ebc5	Vice president
+1daf05	Environment
+8a1a4f	National Defense
+356f9e	+happiness; fewer disasters
+f3ee6c	honest reformer
+b6feb8	mixed profile
+a4f0f9	{0} directives
+949c17	Ministry of {0}: «{1}». Cost {2}. {3}.
+c84ee3	{0}. Candidates:
+7c3230	Competence improves each ministry’s area, honesty lowers corruption and loyalty prevents crises when you remove them.
+7e7d5b	In progress: {0}
+54a902	Open a business in {0}
+4ee73a	➕ Open a business in {0}
+4decd0	Open with my money
+76b1e3	With a loan ({0})
+fc3a06	Each month your company sells, pays for inputs, payroll, rent, taxes and debts; what it pays out goes to your money. Up to {0} companies.
+16f927	To open in another province, tap it on the map → Open a business. The ⛏️ map mode shows where there are mines, oil and crops.
+f1e4cf	High price = more margin but fewer customers (demand reacts 1.3 times). High quality and wages raise reputation, which attracts customers. Layoffs cost 3 months of salary (Realistic).
+f6584d	{0} branch
+00922b	Sell (~{0})
+64bab7	locked {0} days
+ec6a8e	Repay loan ({0})
+5a70ff	Margin: the broker lends you up to half of what you buy (interest: rate {0} + 3 points) and lets you sell short. If your equity falls below 25 % of your stocks (30 % on shorts), it sells positions automatically (margin call).
+285e02	shared currency
+3fcdb3	Units of {0} per dollar, monthly close. Up = your currency weakens.
+d21062	The exchange rate follows purchasing power parity (each country’s inflation against the US) plus a deviation driven by interest rates, money printing, wars, sanctions, coups and crises. Fixed rates can break under a speculative attack.
+0aa42e	No surprises: prices tracked each country’s growth, inflation and rates.
+e3ea9e	💱 Your money is in {0} ({1}): 1 dollar = {2}.
+aa0ad9	Rate {0}: {1} %.
+e18d63	Limit price
+441b31	Stop price
+918dee	Stocks (long)
+21f2b6	Price/earnings
+a11b8a	1 {0} = {1}
+fc4491	your deposits in {0} earn {1} % a year (rate {2} − 0.5)
+f90a63	spread {0} %
+395e0c	Sell all my {0}
+5d499c	Choose which market the ticker shows and over what period the change is measured. Currencies and commodities are measured by month or year (monthly closes).
+5ec2cd	Invest in {0}
+87a2fa	storage {0} % a year.
+f073c0	bans exports
+0c5830	The price rises when supply falls short (wars, occupied territory, bans), falls when the world economy slows, and gold rises with fear.
+1e1b5d	{0} % of your money
+dbbe07	{0} % of your cash
+42bc90	10-year government bonds: they pay interest every month in the country’s currency and return the principal at maturity. Their price falls if the country’s rates rise (duration ~7 years) and they can take a haircut if the country defaults (high debt + crisis).
+9fac33	Funds managed by the banks ({0}…). They return what their assets do in the game, minus an annual fee.
+0f5d6d	you have {0} ({1} %)
+518f4c	Withdraw all
+9b244f	Founding a bank requires minimum capital and a license from the regulator (easier with influence and financial experience; harder if regulation is strict).
+af2dbf	Interest income {0} − interest to savers {1} − expenses {2} − loan-loss provisions {3} − taxes {4}.
+9ade7c	If capital falls below 4 % of loans or the reputation collapses, there is a bank run.
+e26aa8	Total cost: {0} a year (deducted monthly).
+ebc324	Prices follow wages in your country.
+263902	Each month the result comes from the game’s real prices: stocks, commodities, currencies and bonds, plus your skill (intelligence {0}, finance {1}).
+096d6a	Group A
+67d0c8	Group B
+7fb07d	Group C
+b6bd60	Group D
+16a7c9	Group E
+2a4d96	Group F
+dfcc6e	Group G
+62e49c	Group H
+2fd69e	Group I
+4c0412	Group J
+315943	Group K
+f5801d	Group L
+8ca912	{0} sh.
+b254a4	cost {0}
+825b92	Limit at {0}
+929db9	Stop at {0}
+9bf9e6	{0} × {1} = {2}
+4449ea	you have {0}
+fdfb68	matures {0}
+a4db0e	Kidnapping risk where you live: high (based on your net worth and the country’s homicide rate).
+20fe1f	Kidnapping risk where you live: medium (based on your net worth and the country’s homicide rate).
+69f96d	Kidnapping risk where you live: low (based on your net worth and the country’s homicide rate).
+bf7352	You have {0} barrels
+e2aef3	You have {0} million BTU
+97b6dd	You have {0} tonnes
+5503c6	You have {0} tonnes of carbonate
+52e857	You have {0} ounces
+bfcf9b	You have {0} tonnes of oxides
+52942e	You have {0} pounds of U₃O₈
+deb5c6	Contribute {0} of capital
+88f7cc	{0} (needs {1})
+779192	Your companies here: {0}
+d63521	Demand / capacity
+0eb8b4	euro
+3f397c	Directives
+bcf214	Appoint
+a8e196	Withdraw
+0aaf0f	Foreign Affairs
+6445d8	Debt/GDP

@@ -1,0 +1,97 @@
+533c62	▶️ Otomatik ilerleme
+0de1d9	Hız ×1: saniyede bir gün.
+3463ad	Hız ×2: saniyede iki gün.
+8d252b	Hız ×5: saniyede beş gün.
+6d40c0	Diyaloglar, olaylar ve kararlar karşısında kendiliğinden durur.
+bba2b1	Otomatik ilerleme: başlatmak veya durdurmak için dokun
+aad27c	Otomatik ilerleme hızı
+27e687	💱 Görüntüleme para birimi
+e1642f	Görüntüleme para birimi
+69f39b	💱 Görüntüleme para birimi
+512a66	Yalnızca tutarların gösterimi değişir: birikimlerin, maaşların ve fiyatlar ülkenin para biriminde kalır.
+93f518	Bir para birimi seçince GSYH, hazine ve diğer ulusal rakamlar da günün kuruyla onunla gösterilir.
+37ccf4	Ülkenin para birimi
+36093d	ülkenin para birimi
+674f2a	Paran {0} cinsinden, ulusal rakamlar dolar cinsinden.
+80ae53	Her şey dolar cinsinden
+62edc2	Paran ve ulusal rakamlar ABD doları cinsinden.
+3df1a8	En çok kullanılanlar
+bb9357	Tüm para birimleri
+2c67af	1 dolar = {0}
+6dd715	Paran: {0}
+b3b76d	paran: {0}
+d2dc9d	Ülken ne olursa olsun, istediğin para birimini seçmek için dokun.
+cad927	Para birimini değiştirmek için dokun
+5bbd41	✏️ Yeniden adlandır
+c963c0	Yeniden adlandır
+4d0671	Ülkeler, şirketler, bankalar, kulüpler, kuruluşlar ve bakanlıklar
+ebebd3	Ülkelerin, şirketlerin, bankaların, kulüplerin, kuruluşların ve bakanlıkların adını değiştir.
+beba20	Değiştirdiğin adlar başka dillere çevrilmez: yazdığın gibi görünür.
+86b3a8	Bu oyunda değiştirilen adlar: {0}
+d172ae	🌎 Ülkeler
+760c85	Ülkeler
+04acfe	🏛️ Bakanlıklar
+1451e6	Bakanlıklar
+12b37c	🏪 Şirketlerin
+ee64e3	Şirketlerin
+63e67b	🏦 Bankalar
+d55063	Bankalar
+4d1f43	Bankan
+7c86cc	Ülken
+772c18	Borsada işlem görüyor
+44567c	📈 Borsa şirketleri
+0b5899	Borsa şirketleri
+df93f2	⚽ Futbol kulüpleri
+09d2a9	Futbol kulüpleri
+501036	🏆 Futbol ligleri
+9a3b79	Futbol ligleri
+ccad2e	🥊 Dövüş kuruluşları ve ligleri
+f02874	Dövüş kuruluşları ve ligleri
+a0ca6e	🎟️ Boks ve MMA organizatörleri
+70529f	Boks ve MMA organizatörleri
+1f5cc2	🎬 Eğlence şirketleri
+0a6e38	Eğlence şirketleri
+d2600a	Asıl ad: {0}
+6af0b6	Yeni ad
+051b44	Ara…
+8fb8b1	{1} öğeden {0} tanesi gösteriliyor. Aramak için yaz.
+e68491	↺ Geri yükle
+c45f35	↺ Geri yüklendi
+091008	✏️ Yeniden adlandırıldı
+82d4e4	Değiştir
+c6f4e6	💬 Bekleyen konuşmalar
+6e8ccc	Bekleyen konuşmalar
+174073	💬 Bekleyen konuşma
+6729e7	İlgilenmek istediğinde saatin yanındaki 💬 simgesine dokun.
+8da594	Bekleyebilecek konuşmalar artık saati durdurmuyor: istediğin zaman ilgilen.
+ffb574	Süreleri dolunca kendiliğinden açılır.
+c5a26a	Görmezden gelirsen kişi bunu kötü karşılar.
+91ced0	Bekleyen konuşman yok.
+26a968	Yarın sona eriyor
+f43bbb	{0} gün içinde sona eriyor
+37ef49	Durum değişti: bu konuşma artık geçerli değil.
+51e58f	⏳ Sonra
+ae417e	🚫 Görmezden gel (kötü karşılanır)
+486165	Bu konuşmanın süresi doldu: artık bekleyemez.
+4043c3	💬 {0} ile zamanında ilgilenmedin, bunu kötü karşıladı.
+e98330	💬 Bir konuşmayı kaçırdın: «{0}». Fırsat kaçtı.
+3b040f	ona cevap vermedin
+4ac72b	💬 Bekleyebilecek konuşmalar: kutuya
+9d328d	💬 Bekleyebilecek konuşmalar: saati durdurur
+214689	Aile, arkadaşlar, iş, ticaret ve şöhret 💬 içinde 30 güne kadar bekler.
+bdf4c4	Acil olanlar saati durdurmaya devam eder.
+2538da	Tüm konuşmalar belirir belirmez saati durdurur (v1.8a öncesindeki gibi).
+9e88a6	Sosyal hayatın
+d87ac3	👥 Sosyal hayatın
+cbd79b	Yakın ilişkiler: {0}/100.
+fd2876	Yakın kimsen yok.
+e0ecaf	Kinler: {0}.
+b0b7bc	Moralin ayda {0} yükseliyor (sosyal hayat iyi).
+70839b	Moralin ayda {0} yükseliyor (sosyal hayat dengeli).
+48e30b	Moralin ayda {0} düşüyor (sosyal hayat dengeli).
+79ad2f	Moralin ayda {0} düşüyor (sosyal hayat gergin).
+12737c	Bu ay sosyal hayatın moralini değiştirmiyor.
+cfa6fe	⏩ Otomatik ilerleme, para birimi, adlar ve konuşmalar
+e7a44f	Sierra Leone leonesi
+1feceb	ZiG (Zimbabve altını)
+78d953	hatırlıyor: «{0}»

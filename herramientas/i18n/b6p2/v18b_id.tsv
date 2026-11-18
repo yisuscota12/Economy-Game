@@ -1,0 +1,6 @@
+79fb15	⚙️ Penyimpanan di latar belakang: aktif
+b5a885	⚙️ Penyimpanan di latar belakang: nonaktif
+ba9757	Permainan disiapkan dan dikompresi di thread lain agar layar tidak tersendat saat menyimpan.
+bebce2	Permainan disimpan di thread utama, seperti sebelum v1.8b.
+f3bfa7	Tidak tersedia di browser ini: penyimpanan biasa yang digunakan.
+14ce48	Pemajuan waktu dihentikan. Sisa {0} hari: ketuk tombol lagi untuk menyelesaikannya.

@@ -1,0 +1,777 @@
+# v1.7k: ids de b6p2/*_es.tsv que no se traducen (id<TAB>motivo)
+0dac02	banco central con artículo: se arma con el artículo del idioma + el nombre de extra_es.tsv
+267d17	banco central con artículo: se arma con el artículo del idioma + el nombre de extra_es.tsv
+51f84d	banco central con artículo: se arma con el artículo del idioma + el nombre de extra_es.tsv
+8581ce	banco central con artículo: se arma con el artículo del idioma + el nombre de extra_es.tsv
+9ad92d	banco central con artículo: se arma con el artículo del idioma + el nombre de extra_es.tsv
+9c555b	banco central con artículo: se arma con el artículo del idioma + el nombre de extra_es.tsv
+ab7f5b	banco central con artículo: se arma con el artículo del idioma + el nombre de extra_es.tsv
+fae0e0	banco central con artículo: se arma con el artículo del idioma + el nombre de extra_es.tsv
+0b13cc	banco central con artículo: se arma con el artículo del idioma + el nombre de extra_es.tsv
+3f6585	banco central con artículo: se arma con el artículo del idioma + el nombre de extra_es.tsv
+7c1eae	banco central con artículo: se arma con el artículo del idioma + el nombre de extra_es.tsv
+983b75	banco central con artículo: se arma con el artículo del idioma + el nombre de extra_es.tsv
+a9f9fe	banco central con artículo: se arma con el artículo del idioma + el nombre de extra_es.tsv
+b58dfb	banco central con artículo: se arma con el artículo del idioma + el nombre de extra_es.tsv
+eeeb79	banco central con artículo: se arma con el artículo del idioma + el nombre de extra_es.tsv
+19fc2f	banco central con artículo: se arma con el artículo del idioma + el nombre de extra_es.tsv
+63b13e	banco central con artículo: se arma con el artículo del idioma + el nombre de extra_es.tsv
+77ba14	banco central con artículo: se arma con el artículo del idioma + el nombre de extra_es.tsv
+a5812e	banco central con artículo: se arma con el artículo del idioma + el nombre de extra_es.tsv
+af414b	banco central con artículo: se arma con el artículo del idioma + el nombre de extra_es.tsv
+bd0292	banco central con artículo: se arma con el artículo del idioma + el nombre de extra_es.tsv
+2406c0	cubierto por B5b (variantes con artículo)
+28f5b0	cubierto por B5b (variantes con artículo)
+fecec8	cubierto por B5b (variantes con artículo)
+2f74a7	cubierto por B5b (variantes con artículo)
+c45221	cubierto por B5b (variantes con artículo)
+047072	cubierto por B5b (variantes con artículo)
+ff9c5d	cubierto por B5b (variantes con artículo)
+ebba13	cubierto por B5b (variantes con artículo)
+4fa09e	cubierto por B5b (variantes con artículo)
+1d9086	fragmento de una ayuda en HTML: ver «Comisión … por cambio de moneda.» en extra_es.tsv
+149e95	fragmento de una ayuda en HTML: ver «Los bancos chicos … por banco.» en extra_es.tsv
+80c9bd	fragmento: «N % del PIB» se traduce por partes («del PIB» ya está en la interfaz)
+81dcd9	moneda: nombre desde Intl.DisplayNames (CUR0)
+1d71ce	moneda: nombre desde Intl.DisplayNames (CUR0)
+8ce518	moneda: nombre desde Intl.DisplayNames (CUR0)
+f88a94	moneda: nombre desde Intl.DisplayNames (CUR0)
+d77c45	moneda: nombre desde Intl.DisplayNames (CUR0)
+fed64f	moneda: nombre desde Intl.DisplayNames (CUR0)
+d1ef2d	moneda: nombre desde Intl.DisplayNames (CUR0)
+d6b02e	moneda: nombre desde Intl.DisplayNames (CUR0)
+46e2ac	moneda: nombre desde Intl.DisplayNames (CUR0)
+6f3801	moneda: nombre desde Intl.DisplayNames (CUR0)
+7b51ed	moneda: nombre desde Intl.DisplayNames (CUR0)
+cde23c	moneda: nombre desde Intl.DisplayNames (CUR0)
+61d6c5	moneda: nombre desde Intl.DisplayNames (CUR0)
+bc19a2	moneda: nombre desde Intl.DisplayNames (CUR0)
+9ec254	moneda: nombre desde Intl.DisplayNames (CUR0)
+bb8058	moneda: nombre desde Intl.DisplayNames (CUR0)
+e5713d	moneda: nombre desde Intl.DisplayNames (CUR0)
+113d28	moneda: nombre desde Intl.DisplayNames (CUR0)
+df2d9a	moneda: nombre desde Intl.DisplayNames (CUR0)
+a0fefc	moneda: nombre desde Intl.DisplayNames (CUR0)
+d68ed4	moneda: nombre desde Intl.DisplayNames (CUR0)
+4328de	moneda: nombre desde Intl.DisplayNames (CUR0)
+51ef5f	moneda: nombre desde Intl.DisplayNames (CUR0)
+e20541	moneda: nombre desde Intl.DisplayNames (CUR0)
+e2c0eb	moneda: nombre desde Intl.DisplayNames (CUR0)
+332059	moneda: nombre desde Intl.DisplayNames (CUR0)
+92173a	moneda: nombre desde Intl.DisplayNames (CUR0)
+ba68fb	moneda: nombre desde Intl.DisplayNames (CUR0)
+b7d365	moneda: nombre desde Intl.DisplayNames (CUR0)
+7d7ff7	moneda: nombre desde Intl.DisplayNames (CUR0)
+bd55f9	moneda: nombre desde Intl.DisplayNames (CUR0)
+5309f1	moneda: nombre desde Intl.DisplayNames (CUR0)
+8c52ad	moneda: nombre desde Intl.DisplayNames (CUR0)
+b29492	moneda: nombre desde Intl.DisplayNames (CUR0)
+e3b8de	moneda: nombre desde Intl.DisplayNames (CUR0)
+8eece2	moneda: nombre desde Intl.DisplayNames (CUR0)
+f55287	moneda: nombre desde Intl.DisplayNames (CUR0)
+11b9ec	moneda: nombre desde Intl.DisplayNames (CUR0)
+711697	moneda: nombre desde Intl.DisplayNames (CUR0)
+79f80a	moneda: nombre desde Intl.DisplayNames (CUR0)
+59c818	moneda: nombre desde Intl.DisplayNames (CUR0)
+9b3023	moneda: nombre desde Intl.DisplayNames (CUR0)
+9fa3eb	moneda: nombre desde Intl.DisplayNames (CUR0)
+26c20e	nombre propio ficticio (empresa o banco)
+3cc73b	nombre propio ficticio (empresa o banco)
+702b6e	nombre propio ficticio (empresa o banco)
+77dae1	nombre propio ficticio (empresa o banco)
+5d22b6	nombre propio ficticio (empresa o banco)
+68db2a	nombre propio ficticio (empresa o banco)
+a75524	nombre propio ficticio (empresa o banco)
+011336	nombre propio ficticio (empresa o banco)
+2c20bf	nombre propio ficticio (empresa o banco)
+347931	nombre propio ficticio (empresa o banco)
+58dfce	nombre propio ficticio (empresa o banco)
+acaa56	nombre propio ficticio (empresa o banco)
+40c2ba	nombre propio ficticio (empresa o banco)
+adae92	nombre propio ficticio (empresa o banco)
+cf9a41	nombre propio ficticio (empresa o banco)
+aad87b	nombre propio ficticio (empresa o banco)
+d8e0f7	nombre propio ficticio (empresa o banco)
+2d9fd9	nombre propio ficticio (empresa o banco)
+71bbd5	nombre propio ficticio (empresa o banco)
+4dabed	«el banco central {0}»: cubierto por «banco central del/de la {0}» en extra_es.tsv
+cc7c7f	fragmento: «{0} % al año» está en extra_es.tsv
+0bc343	apellido (tabla de nombres)
+0f3ac8	apellido (tabla de nombres)
+151fa9	apellido (tabla de nombres)
+22644a	apellido (tabla de nombres)
+2b28d1	apellido (tabla de nombres)
+3a7644	apellido (tabla de nombres)
+4a0134	apellido (tabla de nombres)
+4bdba3	apellido (tabla de nombres)
+ad0c40	apellido (tabla de nombres)
+cc1e30	apellido (tabla de nombres)
+d35c3b	apellido (tabla de nombres)
+ef1595	apellido (tabla de nombres)
+fc7919	apellido (tabla de nombres)
+5c28d5	cadena interna o fragmento
+1ffec9	cadena interna o fragmento
+8bdbaa	código de shader o CSS
+8fd208	código de shader o CSS
+3c4327	código de shader o CSS
+87a541	ya lo traduce la interfaz (I18N o reglas de la capa)
+511650	ya lo traduce la interfaz (I18N o reglas de la capa)
+d26b78	ya lo traduce la interfaz (I18N o reglas de la capa)
+b7f055	ya lo traduce la interfaz (I18N o reglas de la capa)
+8e540d	ya lo traduce la interfaz (I18N o reglas de la capa)
+906cac	ya lo traduce la interfaz (I18N o reglas de la capa)
+3312ac	ya lo traduce la interfaz (I18N o reglas de la capa)
+95ea01	ya lo traduce la interfaz (I18N o reglas de la capa)
+efa531	ya lo traduce la interfaz (I18N o reglas de la capa)
+73d1bb	ya lo traduce la interfaz (I18N o reglas de la capa)
+4c433e	ya lo traduce la interfaz (I18N o reglas de la capa)
+9d87e7	ya lo traduce la interfaz (I18N o reglas de la capa)
+51acd9	ya lo traduce la interfaz (I18N o reglas de la capa)
+b29005	ya lo traduce la interfaz (I18N o reglas de la capa)
+49b9ae	ya lo traduce la interfaz (I18N o reglas de la capa)
+94bbb8	ya lo traduce la interfaz (I18N o reglas de la capa)
+4be3d1	ya lo traduce la interfaz (I18N o reglas de la capa)
+e00cdc	ya lo traduce la interfaz (I18N o reglas de la capa)
+8700a8	ya lo traduce la interfaz (I18N o reglas de la capa)
+893166	ya lo traduce la interfaz (I18N o reglas de la capa)
+919cc0	ya lo traduce la interfaz (I18N o reglas de la capa)
+545df2	ya lo traduce la interfaz (I18N o reglas de la capa)
+4d209a	ya lo traduce la interfaz (I18N o reglas de la capa)
+641a48	ya lo traduce la interfaz (I18N o reglas de la capa)
+98c616	ya lo traduce la interfaz (I18N o reglas de la capa)
+6313c9	ya lo traduce la interfaz (I18N o reglas de la capa)
+28adc2	ya lo traduce la interfaz (I18N o reglas de la capa)
+36782e	ya lo traduce la interfaz (I18N o reglas de la capa)
+b425b1	ya lo traduce la interfaz (I18N o reglas de la capa)
+0b8c61	ya lo traduce la interfaz (I18N o reglas de la capa)
+1e3cb3	ya lo traduce la interfaz (I18N o reglas de la capa)
+203ad7	ya lo traduce la interfaz (I18N o reglas de la capa)
+8fb712	ya lo traduce la interfaz (I18N o reglas de la capa)
+9cdd83	ya lo traduce la interfaz (I18N o reglas de la capa)
+223965	ya lo traduce la interfaz (I18N o reglas de la capa)
+6e0c68	ya lo traduce la interfaz (I18N o reglas de la capa)
+f07b41	ya lo traduce la interfaz (I18N o reglas de la capa)
+60ea41	ya lo traduce la interfaz (I18N o reglas de la capa)
+5674f0	ya lo traduce la interfaz (I18N o reglas de la capa)
+c2d794	ya lo traduce la interfaz (I18N o reglas de la capa)
+d96119	ya lo traduce la interfaz (I18N o reglas de la capa)
+f270d9	ya lo traduce la interfaz (I18N o reglas de la capa)
+474019	ya lo traduce la interfaz (I18N o reglas de la capa)
+623f43	ya lo traduce la interfaz (I18N o reglas de la capa)
+23ec01	ya lo traduce la interfaz (I18N o reglas de la capa)
+6d652d	ya lo traduce la interfaz (I18N o reglas de la capa)
+37574a	ya lo traduce la interfaz (I18N o reglas de la capa)
+1badd0	ya lo traduce la interfaz (I18N o reglas de la capa)
+cee4b9	ya lo traduce la interfaz (I18N o reglas de la capa)
+d50ce6	ya lo traduce la interfaz (I18N o reglas de la capa)
+591ad1	ya lo traduce la interfaz (I18N o reglas de la capa)
+60a182	ya lo traduce la interfaz (I18N o reglas de la capa)
+c00e98	ya lo traduce la interfaz (I18N o reglas de la capa)
+c7ed72	ya lo traduce la interfaz (I18N o reglas de la capa)
+dc1049	ya lo traduce la interfaz (I18N o reglas de la capa)
+08e30d	ya lo traduce la interfaz (I18N o reglas de la capa)
+3988e1	ya lo traduce la interfaz (I18N o reglas de la capa)
+9e6e85	ya lo traduce la interfaz (I18N o reglas de la capa)
+355aa7	ya lo traduce la interfaz (I18N o reglas de la capa)
+8cda37	ya lo traduce la interfaz (I18N o reglas de la capa)
+58814c	ya lo traduce la interfaz (I18N o reglas de la capa)
+6addc3	ya lo traduce la interfaz (I18N o reglas de la capa)
+905783	ya lo traduce la interfaz (I18N o reglas de la capa)
+74c1df	ya lo traduce la interfaz (I18N o reglas de la capa)
+9c05a2	ya lo traduce la interfaz (I18N o reglas de la capa)
+4bedf5	ya lo traduce la interfaz (I18N o reglas de la capa)
+7a917f	ya lo traduce la interfaz (I18N o reglas de la capa)
+b4f4a2	ya lo traduce la interfaz (I18N o reglas de la capa)
+efaf24	ya lo traduce la interfaz (I18N o reglas de la capa)
+19afad	ya lo traduce la interfaz (I18N o reglas de la capa)
+d4b5ac	ya lo traduce la interfaz (I18N o reglas de la capa)
+32e363	ya lo traduce la interfaz (I18N o reglas de la capa)
+1dcfb3	ya lo traduce la interfaz (I18N o reglas de la capa)
+4782ae	ya lo traduce la interfaz (I18N o reglas de la capa)
+ac9b53	ya lo traduce la interfaz (I18N o reglas de la capa)
+fc85e1	ya lo traduce la interfaz (I18N o reglas de la capa)
+c21d46	ya lo traduce la interfaz (I18N o reglas de la capa)
+d3d7ad	ya lo traduce la interfaz (I18N o reglas de la capa)
+369217	ya lo traduce la interfaz (I18N o reglas de la capa)
+97265d	ya lo traduce la interfaz (I18N o reglas de la capa)
+00d561	ya lo traduce la interfaz (I18N o reglas de la capa)
+425b63	ya lo traduce la interfaz (I18N o reglas de la capa)
+0731b1	ya lo traduce la interfaz (I18N o reglas de la capa)
+c2e3b2	ya lo traduce la interfaz (I18N o reglas de la capa)
+3baf13	ya lo traduce la interfaz (I18N o reglas de la capa)
+3e78d1	ya lo traduce la interfaz (I18N o reglas de la capa)
+ba0962	ya lo traduce la interfaz (I18N o reglas de la capa)
+054a53	ya lo traduce la interfaz (I18N o reglas de la capa)
+e7f797	ya lo traduce la interfaz (I18N o reglas de la capa)
+6a311c	ya lo traduce la interfaz (I18N o reglas de la capa)
+bb5d6d	ya lo traduce la interfaz (I18N o reglas de la capa)
+4bf474	ya lo traduce la interfaz (I18N o reglas de la capa)
+348704	ya lo traduce la interfaz (I18N o reglas de la capa)
+5a62bf	ya lo traduce la interfaz (I18N o reglas de la capa)
+9451a1	ya lo traduce la interfaz (I18N o reglas de la capa)
+862fc2	ya lo traduce la interfaz (I18N o reglas de la capa)
+869bc5	ya lo traduce la interfaz (I18N o reglas de la capa)
+5e746c	ya lo traduce la interfaz (I18N o reglas de la capa)
+8a5412	ya lo traduce la interfaz (I18N o reglas de la capa)
+db5434	ya lo traduce la interfaz (I18N o reglas de la capa)
+38bb44	ya lo traduce la interfaz (I18N o reglas de la capa)
+978d57	ya lo traduce la interfaz (I18N o reglas de la capa)
+941099	ya lo traduce la interfaz (I18N o reglas de la capa)
+19b876	ya lo traduce la interfaz (I18N o reglas de la capa)
+dda8c7	ya lo traduce la interfaz (I18N o reglas de la capa)
+8e963b	ya lo traduce la interfaz (I18N o reglas de la capa)
+303787	solo se usa para elegir la variante de «remesas» (engine_v04.js)
+097edc	solo se usa para elegir la variante de «remesas» (engine_v04.js)
+fe8b3e	solo se usa para elegir la variante de «remesas» (engine_v04.js)
+afdd0e	solo se usa para elegir la variante de «remesas» (engine_v04.js)
+53d50f	genérica ambigua («{1} {2}» sin separador): sustituida por las 4 variantes con el motivo escrito
+# v1.7n: fama, box/MMA y fútbol (motivo; texto)
+f4b7be	patrón de burbuja ⓘ (no se muestra) — Acciones$
+b280e5	patrón de burbuja ⓘ (no se muestra) — Carrera$
+fb6c7e	patrón de burbuja ⓘ (no se muestra) — Nación$
+c22a85	patrón de burbuja ⓘ (no se muestra) — Más$
+a95033	patrón de burbuja ⓘ (no se muestra) — Personaje$
+c65b63	patrón de burbuja ⓘ (no se muestra) — País$
+b5f4ab	patrón de burbuja ⓘ (no se muestra) — Salud$
+5bf3eb	patrón de burbuja ⓘ (no se muestra) — Felicidad$
+83970e	patrón de burbuja ⓘ (no se muestra) — Inteligencia$
+c15805	patrón de burbuja ⓘ (no se muestra) — Apariencia$
+19bc1f	patrón de burbuja ⓘ (no se muestra) — Influencia$
+264c8e	patrón de burbuja ⓘ (no se muestra) — Deudas$
+21ada1	patrón de burbuja ⓘ (no se muestra) — Resumen$
+736d30	patrón de burbuja ⓘ (no se muestra) — Ejército$
+147f3d	patrón de burbuja ⓘ (no se muestra) — Diplomacia$
+62c13f	patrón de burbuja ⓘ (no se muestra) — Guerra$
+f9bedb	patrón de burbuja ⓘ (no se muestra) — Ranking$
+0c694c	patrón de burbuja ⓘ (no se muestra) — Gabinete$
+a15683	patrón de burbuja ⓘ (no se muestra) — Mercados$
+18e577	patrón de burbuja ⓘ (no se muestra) — Cartera$
+9339fe	patrón de burbuja ⓘ (no se muestra) — Comprar$
+87c0f9	patrón de burbuja ⓘ (no se muestra) — Vender$
+778eac	patrón de burbuja ⓘ (no se muestra) — Corto$
+52a20c	patrón de burbuja ⓘ (no se muestra) — Recomprar (cerrar corto)
+d3401f	patrón de burbuja ⓘ (no se muestra) — Límite$
+90b4f1	patrón de burbuja ⓘ (no se muestra) — Stop$
+b272b5	patrón de burbuja ⓘ (no se muestra) — Orden stop (stop loss)
+b7a231	patrón de burbuja ⓘ (no se muestra) — Precio/utilidad (P/U o P/E)
+f03b60	patrón de burbuja ⓘ (no se muestra) — Beta
+da623a	patrón de burbuja ⓘ (no se muestra) — Ganancia$
+7411ea	patrón de burbuja ⓘ (no se muestra) — Salida a bolsa (OPI)
+ec6093	patrón de burbuja ⓘ (no se muestra) — Fondos indexados (ETF)
+e5aabf	patrón de burbuja ⓘ (no se muestra) — Materias$
+d79635	patrón de burbuja ⓘ (no se muestra) — Bonos$
+0c6a2b	patrón de burbuja ⓘ (no se muestra) — Divisas$
+6f5de5	patrón de burbuja ⓘ (no se muestra) — Cuentas$
+98542b	patrón de burbuja ⓘ (no se muestra) — Créditos$
+68b866	patrón de burbuja ⓘ (no se muestra) — Fondos$
+1d2cb7	patrón de burbuja ⓘ (no se muestra) — Finanzas$
+2ae6bf	patrón de burbuja ⓘ (no se muestra) — Pareja$
+bb5260	patrón de burbuja ⓘ (no se muestra) — Padres$
+08ce1d	patrón de burbuja ⓘ (no se muestra) — Nivel$
+ec22f0	patrón de burbuja ⓘ (no se muestra) — Imagen$
+b6b3c7	patrón de burbuja ⓘ (no se muestra) — Entrenador$
+566a7b	patrón de burbuja ⓘ (no se muestra) — Agente$
+a02232	patrón de burbuja ⓘ (no se muestra) — Contrato$
+80bc7a	patrón de burbuja ⓘ (no se muestra) — Equipo$
+20ed06	nombre propio (organismo, promotora, sede o apodo) — Tigre Asiático Promotions
+90f271	nombre propio (organismo, promotora, sede o apodo) — Promociones del Pacífico
+08bc81	nombre propio (organismo, promotora, sede o apodo) — Tokio
+1c0e14	nombre propio (organismo, promotora, sede o apodo) — Domo del Golfo
+5435e6	nombre propio (organismo, promotora, sede o apodo) — Riad
+7f2369	nombre propio (organismo, promotora, sede o apodo) — Arena Bahía
+8aa2ff	nombre propio (organismo, promotora, sede o apodo) — Súper Arena
+94050f	nombre propio (organismo, promotora, sede o apodo) — Las Vegas
+971880	nombre propio (organismo, promotora, sede o apodo) — Coliseo del Desierto
+9dbdcd	nombre propio (organismo, promotora, sede o apodo) — Manila
+afbe2d	nombre propio (organismo, promotora, sede o apodo) — Londres
+bdc033	nombre propio (organismo, promotora, sede o apodo) — Arena Támesis
+025f7f	nombre propio (organismo, promotora, sede o apodo) — La Cobra
+194360	nombre propio (organismo, promotora, sede o apodo) — El Bombardero
+2cf2ff	nombre propio (organismo, promotora, sede o apodo) — El Rayo
+2ebf99	nombre propio (organismo, promotora, sede o apodo) — El Demoledor
+308787	nombre propio (organismo, promotora, sede o apodo) — El Halcón
+5147ac	nombre propio (organismo, promotora, sede o apodo) — El Profesor
+614292	nombre propio (organismo, promotora, sede o apodo) — El Lobo
+757a4c	nombre propio (organismo, promotora, sede o apodo) — El Tanque
+76b4b5	nombre propio (organismo, promotora, sede o apodo) — El Terremoto
+8de424	nombre propio (organismo, promotora, sede o apodo) — El Martillo
+a6305e	nombre propio (organismo, promotora, sede o apodo) — El Fantasma
+a9e28e	nombre propio (organismo, promotora, sede o apodo) — El Tigre
+b64e13	nombre propio (organismo, promotora, sede o apodo) — El Matador
+b9c0e8	nombre propio (organismo, promotora, sede o apodo) — El Ciclón
+d40055	nombre propio (organismo, promotora, sede o apodo) — El Zurdo
+d49a90	nombre propio (organismo, promotora, sede o apodo) — El Relámpago
+e7b882	nombre propio (organismo, promotora, sede o apodo) — El Huracán
+fa08a3	nombre propio (organismo, promotora, sede o apodo) — El Gladiador
+fb02c0	nombre propio (organismo, promotora, sede o apodo) — El Toro
+02987d	nombre propio (organismo, promotora, sede o apodo) — El Chacal
+14b5fb	nombre propio (organismo, promotora, sede o apodo) — El Pitbull
+1f1c59	nombre propio (organismo, promotora, sede o apodo) — El Escorpión
+283eb5	nombre propio (organismo, promotora, sede o apodo) — El Vikingo
+2d53f6	nombre propio (organismo, promotora, sede o apodo) — El Diamante
+303157	nombre propio (organismo, promotora, sede o apodo) — El Puma
+3f4443	nombre propio (organismo, promotora, sede o apodo) — El Oso
+56fbb4	nombre propio (organismo, promotora, sede o apodo) — El Cóndor
+62da7e	nombre propio (organismo, promotora, sede o apodo) — El Asesino Silencioso
+6c77e6	nombre propio (organismo, promotora, sede o apodo) — La Máquina
+875813	nombre propio (organismo, promotora, sede o apodo) — El Chamaco
+b11825	nombre propio (organismo, promotora, sede o apodo) — El Látigo
+b35696	nombre propio (organismo, promotora, sede o apodo) — El Guerrero
+b890cc	nombre propio (organismo, promotora, sede o apodo) — El Monstruo
+bcf6d9	nombre propio (organismo, promotora, sede o apodo) — El Jaguar
+bfc2f6	nombre propio (organismo, promotora, sede o apodo) — La Roca
+d84910	nombre propio (organismo, promotora, sede o apodo) — El Samurái
+da5399	nombre propio (organismo, promotora, sede o apodo) — El Titán
+fd3f59	nombre propio (organismo, promotora, sede o apodo) — El Niño de Oro
+ff4425	nombre propio (organismo, promotora, sede o apodo) — El Maestro
+2ae813	nombre propio (organismo, promotora, sede o apodo) — La Víbora
+43a7ee	nombre propio (organismo, promotora, sede o apodo) — La Bala
+4cb145	nombre propio (organismo, promotora, sede o apodo) — La Princesa Guerrera
+6a170c	nombre propio (organismo, promotora, sede o apodo) — La Leona
+7077f5	nombre propio (organismo, promotora, sede o apodo) — La Imparable
+7f8e34	nombre propio (organismo, promotora, sede o apodo) — La Fiera
+ad5614	nombre propio (organismo, promotora, sede o apodo) — La Jaguar
+b559a7	nombre propio (organismo, promotora, sede o apodo) — La Tormenta
+c8d996	nombre propio (organismo, promotora, sede o apodo) — La Gata
+cbb257	nombre propio (organismo, promotora, sede o apodo) — La Centella
+dd169f	nombre propio (organismo, promotora, sede o apodo) — La Pantera
+eb9174	nombre propio (organismo, promotora, sede o apodo) — La Dama de Hierro
+fa9c06	nombre propio (organismo, promotora, sede o apodo) — La Reina
+408f45	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {a} controla la distancia con el jab.
+cf2cef	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {a} trabaja el jab y mantiene lejos a {b}.
+dd17a0	plantilla con {a}/{b}: va renumerada en extra_es.tsv — El jab de {a} marca el ritmo del round.
+36d8fc	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {a} castiga el cuerpo con ganchos al hígado.
+44f84d	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {a} suelta una combinación de cuatro golpes que entra completa.
+5d6640	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {a} conecta un recto de derecha limpio.
+c5c4ea	plantilla con {a}/{b}: va renumerada en extra_es.tsv — Gancho de izquierda de {a} que sacude a {b}.
+f37a62	plantilla con {a}/{b}: va renumerada en extra_es.tsv — Uppercut de {a} en la corta distancia.
+9b1221	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {a} acorrala a {b} contra las cuerdas.
+9cc539	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {a} corta el ring y no deja respirar a {b}.
+bd0581	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {a} esquiva con movimientos de cintura y hace fallar a {b}.
+fc8344	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {b} no encuentra el blanco: {a} se mueve con inteligencia.
+07a949	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {b} entra y {a} lo recibe con un contragolpe preciso.
+99f92a	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {a} espera y contragolpea en cada intercambio.
+a98b8f	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {b} baja las manos: se nota el cansancio.
+e0b923	plantilla con {a}/{b}: va renumerada en extra_es.tsv — A {b} se le doblan las piernas: ¡está lastimado!
+e39360	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {b} respira por la boca; el ritmo le está pasando factura.
+e87e91	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {b} está tocado y se abraza para ganar tiempo.
+308551	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {b} sangra de la nariz tras los golpes de {a}.
+52f6a4	plantilla con {a}/{b}: va renumerada en extra_es.tsv — Choque de cabezas: se abre una cortada en {b}.
+ebba62	plantilla con {a}/{b}: va renumerada en extra_es.tsv — Se abre una cortada sobre la ceja de {b}.
+188411	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {a} conecta un cruzado limpio.
+2dddbb	plantilla con {a}/{b}: va renumerada en extra_es.tsv — Rodillazo de {a} en el clinch.
+948ba0	plantilla con {a}/{b}: va renumerada en extra_es.tsv — Codazo de {a} en la corta distancia.
+977e0f	plantilla con {a}/{b}: va renumerada en extra_es.tsv — Patada a la cabeza de {a} que pasa rozando.
+9a99d7	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {a} mantiene la distancia con el jab y patadas al cuerpo.
+b0a232	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {a} conecta una combinación de boxeo y sale del rango.
+fa3091	plantilla con {a}/{b}: va renumerada en extra_es.tsv — Patada baja de {a} que castiga la pierna de {b}.
+053d76	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {a} derriba a {b} en el clinch contra la reja.
+136440	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {b} defiende el derribo contra la reja.
+304b27	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {a} derriba a {b} con un derribo a dos piernas.
+788ba9	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {a} levanta a {b} y lo azota contra la lona.
+e12397	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {b} se suelta y vuelve a ponerse de pie.
+8ee586	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {a} trabaja desde la media guardia con codos cortos.
+dab3d5	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {a} controla desde la montada y castiga con golpes en el suelo.
+fcfaf9	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {b} escapa de un intento de {s} de {a}.
+154a9b	plantilla con {a}/{b}: va renumerada en extra_es.tsv — Se abre una cortada en la ceja de {b}.
+39d935	plantilla con {a}/{b}: va renumerada en extra_es.tsv — A {b} le pesan las piernas tras el castigo.
+3aeb7e	plantilla con {a}/{b}: va renumerada en extra_es.tsv — Choque de cabezas: cortada en {b}.
+5ab5e6	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {b} está tocado y busca el clinch.
+7aad69	plantilla con {a}/{b}: va renumerada en extra_es.tsv — {b} se ve agotado: baja el ritmo.
+c52938	nombre propio (liga, club, confederación o ciudad) — Brasileirão
+05a9a6	nombre propio (liga, club, confederación o ciudad) — Série B
+2c0998	nombre propio (liga, club, confederación o ciudad) — Championship
+dbc16a	nombre propio (liga, club, confederación o ciudad) — Ligue 2
+16799b	nombre propio (liga, club, confederación o ciudad) — Unión {c}
+410270	nombre propio (liga, club, confederación o ciudad) — Racing de {c}
+5cd987	nombre propio (liga, club, confederación o ciudad) — Gimnasia de {c}
+81da61	nombre propio (liga, club, confederación o ciudad) — Independiente de {c}
+920e1a	nombre propio (liga, club, confederación o ciudad) — Ciclón de {c}
+92612d	nombre propio (liga, club, confederación o ciudad) — Estudiantes de {c}
+a366ae	nombre propio (liga, club, confederación o ciudad) — Pumas de {c}
+b546ea	nombre propio (liga, club, confederación o ciudad) — Tigres de {c}
+dd8427	nombre propio (liga, club, confederación o ciudad) — Atlético {c}
+e1cf74	nombre propio (liga, club, confederación o ciudad) — Rayados de {c}
+daecb6	nombre propio (liga, club, confederación o ciudad) — Olympique de {c}
+34eef4	nombre propio (liga, club, confederación o ciudad) — Botafogo de {c}
+41f3a0	nombre propio (liga, club, confederación o ciudad) — Internacional de {c}
+a8e7d9	nombre propio (liga, club, confederación o ciudad) — Vitória {c}
+5989c7	nombre propio (liga, club, confederación o ciudad) — Al-Shabab {c}
+61c409	nombre propio (liga, club, confederación o ciudad) — Al-Nasr {c}
+af1ad2	nombre propio (liga, club, confederación o ciudad) — Al-Ittihad {c}
+b6c972	nombre propio (liga, club, confederación o ciudad) — Al-Ahli {c}
+e886ce	nombre propio (liga, club, confederación o ciudad) — Al-Hilal {c}
+004be1	nombre propio (liga, club, confederación o ciudad) — CONCACAF (Norte, Centroamérica y Caribe)
+4f4dc4	nombre propio (liga, club, confederación o ciudad) — OFC (Oceanía)
+6359ae	nombre propio (liga, club, confederación o ciudad) — CAF (África)
+b9d97d	nombre propio (liga, club, confederación o ciudad) — CONMEBOL (Sudamérica)
+f7ec68	nombre propio (liga, club, confederación o ciudad) — Copa Africana de Naciones
+053d79	nombre propio (liga, club, confederación o ciudad) — Espérance de Túnez
+165f80	nombre propio (liga, club, confederación o ciudad) — Al-Ahly El Cairo
+9cc64f	nombre propio (liga, club, confederación o ciudad) — Al-Sadd Doha
+d18262	nombre propio (liga, club, confederación o ciudad) — Londres,Mánchester,Liverpool,Birmingham,Leeds,Newcastle,Sheffield,Bristol,Nottingham,Leicester,Southampton,Brighton,Portsmouth,Norwich,Coventry,Derby,Stoke,Sunderland,Middlesbrough,Ipswich,Bournemouth,Wolverhampton,Burnley,Blackburn,Hull,Plymouth,Reading,Watford,Swansea,Cardiff,Preston,Oxford,Luton,
+af427f	nombre propio (liga, club, confederación o ciudad) — Madrid,Barcelona,Valencia,Sevilla,Bilbao,San Sebastián,Villarreal,Vigo,Málaga,Zaragoza,Gijón,Oviedo,Pamplona,Valladolid,Palma,Las Palmas,Santander,La Coruña,Granada,Cádiz,Almería,Elche,Alicante,Getafe,Leganés,Huesca,Tenerife,Córdoba,Murcia,Burgos,Albacete,Vitoria,Girona,Castellón,Lugo,Salamanca,Méri
+2d9952	nombre propio (liga, club, confederación o ciudad) — Milán,Roma,Turín,Nápoles,Florencia,Bérgamo,Bolonia,Génova,Verona,Udine,Bari,Palermo,Cagliari,Parma,Lecce,Empoli,Salerno,Cremona,Venecia,Monza,Sassuolo,Frosinone,Como,Pisa,Módena,Brescia,Perugia,Catania,Ascoli,Reggio,Spezia,Ferrara,Padua,Trieste,Livorno,Siena,Pescara,Ancona,Vicenza,Tarento
+4b5f94	nombre propio (liga, club, confederación o ciudad) — Múnich,Dortmund,Berlín,Hamburgo,Colonia,Fráncfort,Stuttgart,Leipzig,Bremen,Gelsenkirchen,Mönchengladbach,Leverkusen,Wolfsburgo,Friburgo,Hannover,Núremberg,Maguncia,Augsburgo,Bochum,Heidenheim,Kaiserslautern,Düsseldorf,Karlsruhe,Sinsheim,Darmstadt,Kiel,Rostock,Magdeburgo,Paderborn,Bielefeld,Brunswick
+85f72e	nombre propio (liga, club, confederación o ciudad) — París,Marsella,Lyon,Lille,Mónaco,Niza,Rennes,Lens,Nantes,Burdeos,Toulouse,Montpellier,Estrasburgo,Reims,Brest,Saint-Étienne,Lorient,Metz,Le Havre,Auxerre,Angers,Caen,Grenoble,Bastia,Ajaccio,Guingamp,Amiens,Dijon,Troyes,Clermont,Nancy,Sochaux,Laval,Rodez,Annecy,Pau
+83ae3e	nombre propio (liga, club, confederación o ciudad) — Lisboa,Oporto,Braga,Guimarães,Coímbra,Funchal,Faro,Aveiro,Setúbal,Vizela,Famalicão,Barcelos,Chaves,Arouca,Estoril,Portimão,Leiria,Viseu,Penafiel,Moreira
+5c705e	nombre propio (liga, club, confederación o ciudad) — Ámsterdam,Róterdam,Eindhoven,La Haya,Utrecht,Alkmaar,Arnhem,Enschede,Groninga,Heerenveen,Nimega,Breda,Tilburgo,Zwolle,Sittard,Almere,Deventer,Volendam,Waalwijk,Maastricht
+19fa17	nombre propio (liga, club, confederación o ciudad) — São Paulo,Río de Janeiro,Belo Horizonte,Porto Alegre,Curitiba,Salvador,Recife,Fortaleza,Goiânia,Florianópolis,Campinas,Santos,Belém,Manaos,Natal,Cuiabá,Bragança,Sorocaba,Juiz de Fora,Ribeirão Preto,Londrina,Maceió,João Pessoa,Vitória,Joinville,Caxias do Sul,Chapecó,Criciúma,Novo Hamburgo,Volta Redon
+bbd09e	nombre propio (liga, club, confederación o ciudad) — Buenos Aires,Avellaneda,La Plata,Rosario,Córdoba,Mendoza,Santa Fe,Tucumán,Mar del Plata,Bahía Blanca,Lanús,Banfield,Quilmes,San Juan,Salta,Paraná,Rafaela,Junín,Sarandí,Florencio Varela,Victoria,Liniers,Santiago del Estero
+cbac8b	nombre propio (liga, club, confederación o ciudad) — Ciudad de México,Guadalajara,Monterrey,Puebla,Toluca,Querétaro,León,Tijuana,Pachuca,Torreón,San Luis Potosí,Aguascalientes,Mazatlán,Ciudad Juárez,Morelia,Cancún,Veracruz,Mérida,Culiacán,Hermosillo,Chihuahua,Zacatecas,Oaxaca,Celaya,Los Mochis,Saltillo,Durango,Acapulco
+892ad0	nombre propio (liga, club, confederación o ciudad) — Los Ángeles,Nueva York,Chicago,Houston,Dallas,Atlanta,Seattle,Miami,Filadelfia,Boston,Denver,Portland,Kansas City,Salt Lake City,Columbus,Cincinnati,Nashville,Orlando,Charlotte,San José,Austin,San Diego,Minneapolis,San Luis,Washington,Detroit,Las Vegas,Phoenix,Sacramento,Tampa
+7c729d	nombre propio (liga, club, confederación o ciudad) — Riad,Yeda,Dammam,La Meca,Medina,Taif,Abha,Buraida,Jamis Mushait,Al Jubail,Tabuk,Hail,Najrán,Jizán,Al Hasa,Al Khobar,Unaiza,Al Kharj,Yanbu,Sakaka
+3586b4	nombre propio (liga, club, confederación o ciudad) — Guayaquil,Quito
+52386d	nombre propio (liga, club, confederación o ciudad) — Asunción
+5b3c1d	nombre propio (liga, club, confederación o ciudad) — Santiago
+ae6d92	nombre propio (liga, club, confederación o ciudad) — Montevideo,Montevideo
+e263b9	nombre propio (liga, club, confederación o ciudad) — Lima
+e67438	nombre propio (liga, club, confederación o ciudad) — Bogotá,Medellín,Cali,Barranquilla
+16e38a	nombre propio (título de obra, ciudad o compañía ficticia) — contra el viento
+287551	nombre propio (título de obra, ciudad o compañía ficticia) — del sur
+2c945c	nombre propio (título de obra, ciudad o compañía ficticia) — en llamas
+3a5cc4	nombre propio (título de obra, ciudad o compañía ficticia) — de prestado
+3cf5c1	nombre propio (título de obra, ciudad o compañía ficticia) — en silencio
+41cc55	nombre propio (título de obra, ciudad o compañía ficticia) — en espera
+4e2389	nombre propio (título de obra, ciudad o compañía ficticia) — de ayer
+501777	nombre propio (título de obra, ciudad o compañía ficticia) — del fin del mundo
+793969	nombre propio (título de obra, ciudad o compañía ficticia) — de madrugada
+79d127	nombre propio (título de obra, ciudad o compañía ficticia) — de cristal
+8771ea	nombre propio (título de obra, ciudad o compañía ficticia) — del desierto
+8a5bd9	nombre propio (título de obra, ciudad o compañía ficticia) — en pedazos
+a07c57	nombre propio (título de obra, ciudad o compañía ficticia) — de sal
+b5e9da	nombre propio (título de obra, ciudad o compañía ficticia) — de papel
+c427af	nombre propio (título de obra, ciudad o compañía ficticia) — de hiel
+cb724b	nombre propio (título de obra, ciudad o compañía ficticia) — de neón
+cee1ce	nombre propio (título de obra, ciudad o compañía ficticia) — de nadie
+d1712c	nombre propio (título de obra, ciudad o compañía ficticia) — para siempre
+df6870	nombre propio (título de obra, ciudad o compañía ficticia) — de barro
+e61dad	nombre propio (título de obra, ciudad o compañía ficticia) — sin dueño
+ff3991	nombre propio (título de obra, ciudad o compañía ficticia) — en calma
+09e75b	nombre propio (título de obra, ciudad o compañía ficticia) — Miami
+34971b	nombre propio (título de obra, ciudad o compañía ficticia) — Chicago
+64e274	nombre propio (título de obra, ciudad o compañía ficticia) — Bogotá
+669530	nombre propio (título de obra, ciudad o compañía ficticia) — Río de Janeiro
+b7e31f	nombre propio (título de obra, ciudad o compañía ficticia) — Toronto
+d74d60	nombre propio (título de obra, ciudad o compañía ficticia) — Monterrey
+122a41	nombre propio (título de obra, ciudad o compañía ficticia) — Barcelona
+2d0488	nombre propio (título de obra, ciudad o compañía ficticia) — Estocolmo
+450578	nombre propio (título de obra, ciudad o compañía ficticia) — Estambul
+638ce6	nombre propio (título de obra, ciudad o compañía ficticia) — París
+7a2191	nombre propio (título de obra, ciudad o compañía ficticia) — Madrid
+808098	nombre propio (título de obra, ciudad o compañía ficticia) — Berlín
+837c6b	nombre propio (título de obra, ciudad o compañía ficticia) — Milán
+8f0e31	nombre propio (título de obra, ciudad o compañía ficticia) — Johannesburgo
+b6223b	nombre propio (título de obra, ciudad o compañía ficticia) — Lagos
+c205df	nombre propio (título de obra, ciudad o compañía ficticia) — Ámsterdam
+c60107	nombre propio (título de obra, ciudad o compañía ficticia) — Dubái
+c9464d	nombre propio (título de obra, ciudad o compañía ficticia) — Varsovia
+174f85	nombre propio (título de obra, ciudad o compañía ficticia) — Yakarta
+3df232	nombre propio (título de obra, ciudad o compañía ficticia) — Seúl
+5b7046	nombre propio (título de obra, ciudad o compañía ficticia) — Bangkok
+6f7636	nombre propio (título de obra, ciudad o compañía ficticia) — Shanghái
+dbb73e	nombre propio (título de obra, ciudad o compañía ficticia) — Bombay
+e878e1	nombre propio (título de obra, ciudad o compañía ficticia) — Sídney
+4b2826	nombre propio (título de obra, ciudad o compañía ficticia) — Discos Colibrí
+8a02e6	nombre propio (título de obra, ciudad o compañía ficticia) — Grupo Áureo Música
+c0e3eb	nombre propio (título de obra, ciudad o compañía ficticia) — Titán Records
+db44b0	nombre propio (título de obra, ciudad o compañía ficticia) — Estudio Brújula
+e1bc18	nombre propio (título de obra, ciudad o compañía ficticia) — Cinta Roja Récords
+f9dbf3	nombre propio (título de obra, ciudad o compañía ficticia) — Sonarama, Onda+ y Rítmika
+2fe757	nombre propio (título de obra, ciudad o compañía ficticia) — Más {A}
+dd0811	nombre propio (título de obra, ciudad o compañía ficticia) — Producciones Zaguán
+e5f78d	nombre propio (título de obra, ciudad o compañía ficticia) — Teatro de la Esquina
+158c4e	nombre propio (título de obra, ciudad o compañía ficticia) — Vistara, Cinemar y Primera Fila
+22eb75	nombre propio (título de obra, ciudad o compañía ficticia) — {A}: el origen
+aa53e4	nombre propio (título de obra, ciudad o compañía ficticia) — Los días de {A}
+292de8	nombre propio (título de obra, ciudad o compañía ficticia) — Colectivo Trípode
+dd9e87	nombre propio (título de obra, ciudad o compañía ficticia) — Grupo Nódulo
+f6be45	nombre propio (título de obra, ciudad o compañía ficticia) — Fábrica de Contenido
+285bfd	nombre propio (título de obra, ciudad o compañía ficticia) — Clipo, Miraplay y Zumbo
+2902cf	nombre propio (título de obra, ciudad o compañía ficticia) — 24 horas en {A}
+c9c1c3	nombre propio (título de obra, ciudad o compañía ficticia) — La verdad sobre {A}
+d3d18f	nombre propio (título de obra, ciudad o compañía ficticia) — Probé {A} {B}
+eb9675	nombre propio (título de obra, ciudad o compañía ficticia) — {A} al extremo
+5cb7d4	nombre propio (título de obra, ciudad o compañía ficticia) — Estudio Maniquí
+62e365	nombre propio (título de obra, ciudad o compañía ficticia) — Línea Nacional
+6cac77	nombre propio (título de obra, ciudad o compañía ficticia) — Vértice Model Management
+7c0587	nombre propio (título de obra, ciudad o compañía ficticia) — Élan Models
+068d39	nombre propio (título de obra, ciudad o compañía ficticia) — Maison Aurel, Ferrante, Revista Tendencia y Kōda
+19ec90	nombre propio (título de obra, ciudad o compañía ficticia) — Edición {A}
+67cbe7	nombre propio (título de obra, ciudad o compañía ficticia) — Línea {A}
+e0eded	nombre propio (título de obra, ciudad o compañía ficticia) — Colección {A}
+453b9f	nombre propio (título de obra, ciudad o compañía ficticia) — Circuito Nacional de Comedia
+4d92be	nombre propio (título de obra, ciudad o compañía ficticia) — Sótano Cómico
+4eb8bd	nombre propio (título de obra, ciudad o compañía ficticia) — Grupo Telón
+ac2847	nombre propio (título de obra, ciudad o compañía ficticia) — Bar La Risa
+e2f970	nombre propio (título de obra, ciudad o compañía ficticia) — Teatro Sátira
+f62733	nombre propio (título de obra, ciudad o compañía ficticia) — Foro Micrófono Abierto
+8b7c92	nombre propio (título de obra, ciudad o compañía ficticia) — Vistara, Onda+ y el Circuito Nacional
+0b7677	nombre propio (título de obra, ciudad o compañía ficticia) — {A}, pero con cariño
+22c57a	nombre propio (título de obra, ciudad o compañía ficticia) — Peor que {A}
+d5e7a8	nombre propio (título de obra, ciudad o compañía ficticia) — No es por {A}
+e9fc47	nombre propio (título de obra, ciudad o compañía ficticia) — {A} para principiantes
+04947e	nombre propio (título de obra, ciudad o compañía ficticia) — Libros del Faro
+0726bb	nombre propio (título de obra, ciudad o compañía ficticia) — Ediciones del Zaguán
+d4a09c	nombre propio (título de obra, ciudad o compañía ficticia) — Grupo Editorial Áncora
+667fc5	nombre propio (título de obra, ciudad o compañía ficticia) — Librería Atlas, Leemás y Página Uno
+948ea1	nombre propio (título de obra, ciudad o compañía ficticia) — Los nombres de {A}
+e72eea	nombre propio (título de obra, ciudad o compañía ficticia) — Historia de {A}
+e84f3e	nombre propio (título de obra, ciudad o compañía ficticia) — El año de {A}
+3f0375	nombre propio (título de obra, ciudad o compañía ficticia) — Grupo Sazón
+811c76	nombre propio (título de obra, ciudad o compañía ficticia) — Colección Mantel
+bff523	nombre propio (título de obra, ciudad o compañía ficticia) — Grupo Brasa y Sal
+cc9919	nombre propio (título de obra, ciudad o compañía ficticia) — Bistró del Barrio
+d7fb51	nombre propio (título de obra, ciudad o compañía ficticia) — Fonda Raíz
+75b8d5	nombre propio (título de obra, ciudad o compañía ficticia) — la Guía Gourmet, Canal Sabor y Mesa+
+5c74c4	nombre propio (título de obra, ciudad o compañía ficticia) — Fuego y {A}
+a05076	nombre propio (título de obra, ciudad o compañía ficticia) — Menú {A}
+f8842d	nombre propio (título de obra, ciudad o compañía ficticia) — Raíz y {A}
+012273	nombre propio (título de obra, ciudad o compañía ficticia) — Festival Mañanaluz
+5b7d0c	nombre propio (título de obra, ciudad o compañía ficticia) — Grupo Neón
+dff604	nombre propio (título de obra, ciudad o compañía ficticia) — Circuito Eléctrico
+f9e74f	nombre propio (título de obra, ciudad o compañía ficticia) — Sello Sótano
+f9d5ff	nombre propio (título de obra, ciudad o compañía ficticia) — Sonarama, Rítmika, Mañanaluz y Electric Meadow
+19c93d	ya lo traduce la interfaz (I18N o reglas de la capa) — hasta 32 años
+218887	nombre propio (gimnasio o nombre de la función) — Team
+5cad88	nombre propio (gimnasio o nombre de la función) — Puño de Hierro
+de82c1	nombre propio (gimnasio o nombre de la función) — Academia
+1d796e	nombre propio (gimnasio o nombre de la función) — Choque de Titanes
+2bb0cf	nombre propio (gimnasio o nombre de la función) — Velada de golpes
+3429b2	nombre propio (gimnasio o nombre de la función) — Función de box
+346175	nombre propio (gimnasio o nombre de la función) — Sábado de Combate
+35b18d	nombre propio (gimnasio o nombre de la función) — Gloria o Nada
+65aea8	nombre propio (gimnasio o nombre de la función) — Furia en la Arena
+6d790c	nombre propio (gimnasio o nombre de la función) — Guerra en el Ring
+8209ab	nombre propio (gimnasio o nombre de la función) — Noche de Campeones
+87c44b	nombre propio (gimnasio o nombre de la función) — Viernes de Golpes
+aca165	nombre propio (gimnasio o nombre de la función) — La Revancha del Siglo
+d1ad59	nombre propio (gimnasio o nombre de la función) — Noche de prospectos
+f2b214	nombre propio (gimnasio o nombre de la función) — Noche de Box
+ee0d2e	mensaje de consola — cb año
+1cfb90	ya lo traduce la interfaz (I18N o reglas de la capa) — Aceptar el dinero
+6f29fe	nombre propio (liga o club) — Segunda división de
+25de53	ya lo traduce la interfaz (I18N o reglas de la capa) — 🏆 Balón Dorado
+4b8b9a	ya lo traduce la interfaz (I18N o reglas de la capa) — tu club
+ece50e	mensaje de consola — fútbol mes
+f4c15e	ya lo traduce la interfaz (I18N o reglas de la capa) — cada vez rinde un poco menos en el año
+07f585	ya lo traduce la interfaz (I18N o reglas de la capa) — 🏆 Pelear por el título mundial
+3a1df0	ya lo traduce la interfaz (I18N o reglas de la capa) — solo top 3 del ranking
+fb3173	ya lo traduce la interfaz (I18N o reglas de la capa) — ⭐ Pelea por el título
+159408	ya lo traduce la interfaz (I18N o reglas de la capa) — depende de que te escojan
+1d90df	ya lo traduce la interfaz (I18N o reglas de la capa) — 📱 Publicar en redes
+5d501c	ya lo traduce la interfaz (I18N o reglas de la capa) — más alcance, riesgo de escándalo
+b3a368	ya lo traduce la interfaz (I18N o reglas de la capa) — seguro, mejora tu imagen
+353edb	ya lo traduce la interfaz (I18N o reglas de la capa) — una vez al año
+9c8feb	ya lo traduce la interfaz (I18N o reglas de la capa) — dona y recupera imagen
+b214e9	ya lo traduce la interfaz (I18N o reglas de la capa) — 🤲 Apoyar una causa social
+095db6	ya lo traduce la interfaz (I18N o reglas de la capa) — ⭐ éxito
+805a60	ya lo traduce la interfaz (I18N o reglas de la capa) — ⭐ Carreras de fama
+714287	ya lo traduce la interfaz (I18N o reglas de la capa) — ⓘ Burbujas de ayuda y barra de abajo
+c3b55c	ya lo traduce la interfaz (I18N o reglas de la capa) — tiempo completo (actividades a mitad de días)
+0787df	ya lo traduce la interfaz (I18N o reglas de la capa) — la quijada es casi toda natural: sube poco
+770a43	ya lo traduce la interfaz (I18N o reglas de la capa) — especialidad del gimnasio
+5d2bad	ya lo traduce la interfaz (I18N o reglas de la capa) — técnica y defensa
+5f6073	ya lo traduce la interfaz (I18N o reglas de la capa) — algo de daño
+904dd4	ya lo traduce la interfaz (I18N o reglas de la capa) — 3 rounds de 3 minutos
+e7bcd1	ya lo traduce la interfaz (I18N o reglas de la capa) — experiencia y récord
+60b29b	ya lo traduce la interfaz (I18N o reglas de la capa) — +5 de resistencia al empezar
+526fa0	ya lo traduce la interfaz (I18N o reglas de la capa) — TÍTULO
+beb02c	ya lo traduce la interfaz (I18N o reglas de la capa) — cláusula de revancha
+3e8458	ya lo traduce la interfaz (I18N o reglas de la capa) — el entrenador cobra 10 % de tus bolsas
+3b833d	ya lo traduce la interfaz (I18N o reglas de la capa) — ; no puedes ganar el título
+9c53d8	ya lo traduce la interfaz (I18N o reglas de la capa) — Suena la campana. Tu esquina te recuerda el plan:
+23d839	ya lo traduce la interfaz (I18N o reglas de la capa) — Entrenador (10 %)
+745a24	ya lo traduce la interfaz (I18N o reglas de la capa) — 🥊 pelea en
+12e255	ya lo traduce la interfaz (I18N o reglas de la capa) — 🥊 Box y MMA
+b369c5	patrón de burbuja ⓘ (no se muestra) — Peleador$
+4e757e	patrón de burbuja ⓘ (no se muestra) — Rankings$
+3e2f25	patrón de burbuja ⓘ (no se muestra) — Trayectoria$
+b884bc	patrón de burbuja ⓘ (no se muestra) — Pelear$
+56ccfc	expresión regular (no se muestra) — (Torneo|Campeonato|Juegos Olímpicos|Abierto de jiu)
+3f0af5	ya lo traduce la interfaz (I18N o reglas de la capa) — En liguilla.
+f1f6b0	escudo HTML entre marcadores: en pantalla son nodos separados — 🏆 Campeón: {0}{1}
+f22d83	ya lo traduce la interfaz (I18N o reglas de la capa) — El próximo Mundial:
+18d27f	ya lo traduce la interfaz (I18N o reglas de la capa) — 🇺🇳 convocado a la selección
+da0d15	ya lo traduce la interfaz (I18N o reglas de la capa) — capitán
+37572b	ya lo traduce la interfaz (I18N o reglas de la capa) — 🔥 en racha
+4cb4c1	ya lo traduce la interfaz (I18N o reglas de la capa) — un club de tu país te prueba
+7236ec	ya lo traduce la interfaz (I18N o reglas de la capa) — 📋 Pedir una prueba en un club
+9490e6	ya lo traduce la interfaz (I18N o reglas de la capa) — pide más minutos (prueba de carisma)
+a7095d	ya lo traduce la interfaz (I18N o reglas de la capa) — ⭐ Hablar con el entrenador
+f762dc	ya lo traduce la interfaz (I18N o reglas de la capa) — 🗣️ Hablar con el entrenador
+3e1ec9	ya lo traduce la interfaz (I18N o reglas de la capa) — fama 35+
+7185a1	ya lo traduce la interfaz (I18N o reglas de la capa) — riesgo de escándalo
+02d5ac	ya lo traduce la interfaz (I18N o reglas de la capa) — 🚪 Pedir salir del club
+a34f85	ya lo traduce la interfaz (I18N o reglas de la capa) — tu club acepta ofertas más bajas, pero baja la confianza del DT
+7c9e92	ya lo traduce la interfaz (I18N o reglas de la capa) — Penales. Te toca adivinar hacia dónde tiran:
+34b0e7	ya lo traduce la interfaz (I18N o reglas de la capa) — ⚽ Fútbol
+932d71	patrón de burbuja ⓘ (no se muestra) — Jugador$
+767db8	patrón de burbuja ⓘ (no se muestra) — Club$
+209c41	patrón de burbuja ⓘ (no se muestra) — Fichajes$
+7b46ff	patrón de burbuja ⓘ (no se muestra) — Torneos$
+6acdac	patrón de burbuja ⓘ (no se muestra) — Ofertas$
+f92f6d	patrón de burbuja ⓘ (no se muestra) — Selecciones$
+4b3e2c	patrón de burbuja ⓘ (no se muestra) — Ligas$
+3fc7a8	ya lo traduce la interfaz (I18N o reglas de la capa) — Obra anterior (antes de la v1.6d)
+b1f6e5	fragmento: la pieza real es «con {0}» (extra_es.tsv) — con
+dbbb0e	ya lo traduce la interfaz (I18N o reglas de la capa) — fuera de lista
+d3acc7	ya lo traduce la interfaz (I18N o reglas de la capa) — 🎟️ de gira
+2b7fe3	ya lo traduce la interfaz (I18N o reglas de la capa) — 🛠️ Sesión de trabajo
+91a16f	ya lo traduce la interfaz (I18N o reglas de la capa) — ⭐ Sesión
+620558	ya lo traduce la interfaz (I18N o reglas de la capa) — la publicas por tu cuenta
+9f0c0c	ya lo traduce la interfaz (I18N o reglas de la capa) — te quedas 70 %
+9cae0c	ya lo traduce la interfaz (I18N o reglas de la capa) — ⭐ Audición
+407e98	ya lo traduce la interfaz (I18N o reglas de la capa) — necesitas algo de fama (12+) e imagen (35+)
+b89d8e	ya lo traduce la interfaz (I18N o reglas de la capa) — presentas tu trabajo a varias compañías
+9f3a7f	ya lo traduce la interfaz (I18N o reglas de la capa) — de tu país
+5820f0	ya lo traduce la interfaz (I18N o reglas de la capa) — ⭐ Presentación
+9c2e59	ya lo traduce la interfaz (I18N o reglas de la capa) — público estimado
+8e4ecc	ya lo traduce la interfaz (I18N o reglas de la capa) — 🔒 necesitas relación 25 o más
+1179c5	ya lo traduce la interfaz (I18N o reglas de la capa) — 🏆 ¡Premios!
+4111ce	ya lo traduce la interfaz (I18N o reglas de la capa) — 🎟️ ¡Función!
+a7a9d3	ya lo traduce la interfaz (I18N o reglas de la capa) — 🛠️ proyecto en marcha
+3e8f86	ya lo traduce la interfaz (I18N o reglas de la capa) — 🎤 Música, cine, redes, moda, comedia, letras, cocina y DJ
+a5d60b	patrón de burbuja ⓘ (no se muestra) — Perfil$
+69d61e	patrón de burbuja ⓘ (no se muestra) — Obras$
+755dc1	patrón de burbuja ⓘ (no se muestra) — Industria$
+131ce8	patrón de burbuja ⓘ (no se muestra) — Escena$
+d6b9b9	patrón de burbuja ⓘ (no se muestra) — En vivo$
+f27680	patrón de burbuja ⓘ (no se muestra) — kv:Obras que debes
+d40712	patrón de burbuja ⓘ (no se muestra) — Lista$
+dabefc	patrón de burbuja ⓘ (no se muestra) — Colegas$
+69326b	patrón de burbuja ⓘ (no se muestra) — Premios$
+21ed65	cubierta por dos piezas (811 + «Se juegan unas 4 por mes…») — Arranca: {0} ({1})…
+5ac30d	fragmento de concatenación, lo cubre la plantilla «Total de {0}» — Total de
+a1145c	nombre propio ficticio (empresa de la bolsa) — Alpenmilch
+98ea1d	nombre propio ficticio (empresa de la bolsa) — Autovolk
+943607	nombre propio ficticio (empresa de la bolsa) — Aérocontinental
+f153d1	nombre propio ficticio (empresa de la bolsa) — Datenwerk
+7b2c4d	nombre propio ficticio (empresa de la bolsa) — Enerpo
+1c06f2	nombre propio ficticio (empresa de la bolsa) — Facelink
+519897	nombre propio ficticio (empresa de la bolsa) — Fizzco
+5bfd19	nombre propio ficticio (empresa de la bolsa) — Iberluz
+edd0de	nombre propio ficticio (empresa de la bolsa) — Lithoptics
+40cff6	nombre propio ficticio (empresa de la bolsa) — MercadoSur
+9e4496	nombre propio ficticio (empresa de la bolsa) — Nordtel
+5b2a62	nombre propio ficticio (empresa de la bolsa) — Nordvagn
+37a90c	nombre propio ficticio (empresa de la bolsa) — Payvia
+417d07	nombre propio ficticio (empresa de la bolsa) — PetroNorth
+594773	nombre propio ficticio (empresa de la bolsa) — Riverstore
+14ab24	nombre propio ficticio (empresa de la bolsa) — Searchly
+2d7ca0	nombre propio ficticio (empresa de la bolsa) — Streamly
+5cf9d4	nombre propio ficticio (empresa de la bolsa) — Unigoods
+3c7c75	nombre propio ficticio (empresa de la bolsa) — ValueMart
+349f5a	nombre propio (índice bursátil) — Ibovespa
+2bbfef	nombre propio (índice bursátil) — Nasdaq-100
+550c82	nombre propio (índice bursátil) — Nifty 50
+1ca5b0	nombre propio (índice bursátil) — Nikkei 225
+b7e7f6	nombre propio (banco central; el artículo lo pone art()) — Banxico
+1f7a4f	símbolo de moneda — Esc
+0e8d69	símbolo de moneda — Fdj
+ceed2e	símbolo de moneda — Nfk
+011fe5	símbolo de moneda — ZiG
+fcbbf5	nombre generado (banco, fondo o empresa del jugador: «Banco Pérez», «Pérez Capital», «Grupo Industrial México», «Pérez Alimentos») — Banco {0}
+575733	nombre generado (banco, fondo o empresa del jugador: «Banco Pérez», «Pérez Capital», «Grupo Industrial México», «Pérez Alimentos») — {0} Capital
+58a2d4	nombre generado (banco, fondo o empresa del jugador: «Banco Pérez», «Pérez Capital», «Grupo Industrial México», «Pérez Alimentos») — Grupo {0} {1}
+ecd20b	nombre generado (banco, fondo o empresa del jugador: «Banco Pérez», «Pérez Capital», «Grupo Industrial México», «Pérez Alimentos») — Empresarial
+7db3cf	nombre generado (banco, fondo o empresa del jugador: «Banco Pérez», «Pérez Capital», «Grupo Industrial México», «Pérez Alimentos») — Industrial
+ba89d3	nombre generado (banco, fondo o empresa del jugador: «Banco Pérez», «Pérez Capital», «Grupo Industrial México», «Pérez Alimentos») — Alimentos
+4241e5	nombre generado (banco, fondo o empresa del jugador: «Banco Pérez», «Pérez Capital», «Grupo Industrial México», «Pérez Alimentos») — Tecnologías
+493d89	ya lo traduce la interfaz (comprobado con I18.T en en/ja/ar) — Criterios:
+27437c	ya lo traduce la interfaz (comprobado con I18.T en en/ja/ar) — Impuestos ({0})
+6aa819	ya lo traduce la interfaz (comprobado con I18.T en en/ja/ar) — Ventas (12 meses)
+d8fd85	ya lo traduce la interfaz (comprobado con I18.T en en/ja/ar) — Fondo indexado DAX
+655157	ya lo traduce la interfaz (comprobado con I18.T en en/ja/ar) — Fondo indexado FTSE 100
+be8c55	ya lo traduce la interfaz (comprobado con I18.T en en/ja/ar) — Fondo indexado Ibovespa
+8b35bb	ya lo traduce la interfaz (comprobado con I18.T en en/ja/ar) — Fondo indexado KOSPI
+66ccac	ya lo traduce la interfaz (comprobado con I18.T en en/ja/ar) — Fondo indexado Nasdaq-100
+f424a4	ya lo traduce la interfaz (comprobado con I18.T en en/ja/ar) — Fondo indexado Nifty 50
+c51230	ya lo traduce la interfaz (comprobado con I18.T en en/ja/ar) — Fondo indexado Nikkei 225
+9c8498	ya lo traduce la interfaz (comprobado con I18.T en en/ja/ar) — Fondo indexado S&P 500
+2beb86	nombre generado de lugar de trabajo ({S} apellido, {C} ciudad) — Café {C}
+dd9038	nombre generado de lugar de trabajo ({S} apellido, {C} ciudad) — Fonda La Esquina de {C}
+6afcbc	nombre generado de lugar de trabajo ({S} apellido, {C} ciudad) — Planta {S} y Asociados
+05f095	nombre generado de lugar de trabajo ({S} apellido, {C} ciudad) — Oficina estatal de {C}
+47dab2	nombre generado de lugar de trabajo ({S} apellido, {C} ciudad) — Delegación {C}
+8e7185	nombre generado de lugar de trabajo ({S} apellido, {C} ciudad) — Ayuntamiento de {C}
+65d419	nombre generado de lugar de trabajo ({S} apellido, {C} ciudad) — Policía municipal de {C}
+76dadf	nombre generado de lugar de trabajo ({S} apellido, {C} ciudad) — Policía estatal de {C}
+3d4afa	nombre generado de lugar de trabajo ({S} apellido, {C} ciudad) — Servicios Técnicos {S}
+15c63b	nombre generado de lugar de trabajo ({S} apellido, {C} ciudad) — Secundaria Técnica de {C}
+6d0172	nombre generado de lugar de trabajo ({S} apellido, {C} ciudad) — Ingeniería {S}
+019bc5	nombre generado de lugar de trabajo ({S} apellido, {C} ciudad) — {S} y Asociados
+0c565e	nombre generado de lugar de trabajo ({S} apellido, {C} ciudad) — Despacho Jurídico {C}
+42e354	nombre generado de lugar de trabajo ({S} apellido, {C} ciudad) — Clínica {S}
+9b2e31	nombre generado de lugar de trabajo ({S} apellido, {C} ciudad) — Centro Médico {C}
+f29e25	nombre generado de lugar de trabajo ({S} apellido, {C} ciudad) — Hospital General de {C}
+78cde9	ya lo traduce la interfaz o es nombre propio — Upper middle income
+5c7c66	ya lo traduce la interfaz o es nombre propio — empleo año
+e60078	nombre generado de lugar de trabajo ({S} apellido, {C} ciudad) — desempeño {0}{1}{2}
+b4abeb	ya lo traduce la interfaz o es nombre propio — kv:Afiliación sindical
+dad22c	ya lo traduce la interfaz o es nombre propio — kv:Tu empleo
+087413	nombre propio generado (función o negocio)
+64ce68	nombre propio generado (función o negocio)
+c3b2f8	nombre propio generado (función o negocio)
+f0c57d	nombre propio generado (función o negocio)
+103e65	nombre propio generado (función o negocio)
+be84ea	nombre propio generado (función o negocio)
+1a9d17	nombre propio generado (función o negocio)
+2b7b7d	nombre propio generado (función o negocio)
+8b1816	nombre propio generado (función o negocio)
+9a7b90	nombre propio generado (función o negocio)
+19874d	cadena interna
+dbf67d	cadena interna
+8384be	cadena interna
+505e3b	cadena interna
+473d36	texto de la Guía o de una ⓘ (va en b6/)
+f91cf1	texto de la Guía o de una ⓘ (va en b6/)
+dc9cdc	texto de la Guía o de una ⓘ (va en b6/)
+f518ff	texto de la Guía o de una ⓘ (va en b6/)
+78755f	texto de la Guía o de una ⓘ (va en b6/)
+f991fb	texto de la Guía o de una ⓘ (va en b6/)
+1fa92f	texto de la Guía o de una ⓘ (va en b6/)
+3d0047	texto de la Guía o de una ⓘ (va en b6/)
+67ff90	texto de la Guía o de una ⓘ (va en b6/)
+a7d5cb	texto de la Guía o de una ⓘ (va en b6/)
+3d0e31	texto de la Guía o de una ⓘ (va en b6/)
+5b8dab	texto de la Guía o de una ⓘ (va en b6/)
+55a4eb	texto de la Guía o de una ⓘ (va en b6/)
+60397f	texto de la Guía o de una ⓘ (va en b6/)
+8e4981	texto de la Guía o de una ⓘ (va en b6/)
+bca1d3	texto de la Guía o de una ⓘ (va en b6/)
+2cdca9	texto de la Guía o de una ⓘ (va en b6/)
+9c2fb4	texto de la Guía o de una ⓘ (va en b6/)
+3b998c	texto de la Guía o de una ⓘ (va en b6/)
+9c0c28	texto de la Guía o de una ⓘ (va en b6/)
+5d803c	texto de la Guía o de una ⓘ (va en b6/)
+6bde69	cadena interna
+f702ea	texto de la Guía o de una ⓘ (va en b6/)
+b98bb0	fragmento (la frase completa está en c17extra)
+1f81b9	fragmento (la frase completa está en c17extra)
+90b515	fragmento (la frase completa está en c17extra)
+583170	v1.7s: texto de consola
+b4d114	v1.7s: hoja de estilos
+627aa9	v1.7s: fragmento de un replace (la etiqueta completa está en c17sextra_es.tsv)
+1ba5bf	v1.7s: cuerpo de una burbuja ⓘ (lo traduce B6)
+d03645	v1.7s: cuerpo de una burbuja ⓘ (lo traduce B6)
+476cab	v1.7s: cuerpo de una burbuja ⓘ (lo traduce B6)
+c8f42d	v1.7s: cuerpo de una burbuja ⓘ (lo traduce B6)
+3d5e9e	v1.7s: cuerpo de una burbuja ⓘ (lo traduce B6)
+618328	v1.7s: cuerpo de una burbuja ⓘ (lo traduce B6)
+df5f62	v1.7s: cuerpo de una burbuja ⓘ (lo traduce B6)
+f7b5e9	v1.7s: cuerpo de una burbuja ⓘ (lo traduce B6)
+577ea4	v1.7s: cuerpo de una burbuja ⓘ (lo traduce B6)
+e3a61c	v1.7s: cuerpo de una burbuja ⓘ (lo traduce B6)
+0daa1f	v1.7s: cuerpo de una burbuja ⓘ (lo traduce B6)
+29cb28	v1.7s: cuerpo de una burbuja ⓘ (lo traduce B6)
+613c1d	v1.7s: cuerpo de una burbuja ⓘ (lo traduce B6)
+66ea3e	v1.7s: cuerpo de una burbuja ⓘ (lo traduce B6)
+7a15d7	v1.8a: cuerpo de ⓘ (va por B6)
+d640ac	v1.8a: cuerpo de ⓘ (va por B6)
+19fe1c	v1.8a: cuerpo de ⓘ (va por B6)
+6ccaa6	v1.8a: cuerpo de ⓘ (va por B6)
+0da157	v1.8a: cuerpo de ⓘ (va por B6)
+aa4833	v1.8a: cuerpo de ⓘ (va por B6)
+4ff650	v1.8a: cuerpo de ⓘ (va por B6)
+928334	v1.8a: cuerpo de ⓘ (va por B6)

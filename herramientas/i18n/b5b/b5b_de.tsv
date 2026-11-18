@@ -1,0 +1,273 @@
+001	(+{0}/Jahr). Tippe auf eine deiner Provinzen → 🏗️ Bauen.
+002	Regierungsaktionen ({0} von 2)
+003	Zustimmung / Kongress
+004	Rückhalt im Kongress {0} % (Chance, ein Gesetz durchzubringen: {1} %)
+005	keine Wiederwahl
+006	Wiederwahl nicht direkt in Folge
+007	höchstens 2 Amtszeiten in Folge
+008	unbegrenzte Wiederwahl
+009	du regierst ({0})
+010	In Infrastruktur investieren
+011	Wirtschaftswachstum
+012	Die Armee verstärken
+013	Militärausgaben
+014	Sozialreformen
+015	Propaganda
+016	Steuern senken
+017	Wirtschaft auf lange Sicht
+018	Anti-Inflations-Plan
+019	Öffentliche Gelder abzweigen
+020	für dich
+021	Risiko eines Prozesses
+022	Du startest ein Infrastrukturprogramm.
+023	Du kaufst Ausrüstung und bildest Truppen aus.
+024	Sozialreformen beschlossen.
+025	Nationale Propagandakampagne.
+026	Du senkst die Steuern. Die Leute jubeln.
+027	Die Zentralbank erhöht die Zinsen; die Inflation lässt nach.
+028	Du zweigst Gelder auf Konten in deinem Namen ab.
+029	Staatseinnahmen (hohe Steuern)
+030	Staatseinnahmen (normale Steuern)
+031	Staatseinnahmen (niedrige Steuern)
+032	Steuern (verbraucht eine Regierungsaktion)
+033	Steuern (verbraucht eine Regierungsaktion, Abstimmung nötig)
+034	Hohe Steuern
+035	Normale Steuern
+036	Niedrige Steuern
+037	Einnahmen ×{0}
+038	Du setzt die Steuern auf hoch.
+039	Du setzt die Steuern auf normal.
+040	Du setzt die Steuern auf niedrig.
+041	Anleihen über {0} ausgeben
+042	Zins {0} pro Jahr
+043	Anleihen zurückzahlen ({0})
+044	Du schuldest {0} in eigenen Anleihen
+045	Du gibst Anleihen über {0} zu einem Zins von {1} aus. Die Staatsschulden steigen auf {2} % des BIP.
+046	Du zahlst {0} an Anleihen zurück.
+047	Zivile Forschung: Stufe {0} → {1}
+048	Militärische Forschung: Stufe {0} → {1}
+049	Dein Land erreicht Stufe {0} der zivilen Technologie ({1}).
+050	Dein Land erreicht Stufe {0} der Militärtechnologie ({1}).
+051	Verträge: {0} (+{1} % pro Jahr)
+052	{0} (bis {1})
+053	keine
+054	keine
+055	Embargos: {0} (−{1} % pro Jahr)
+056	du verhängst es gegen {0}
+057	{0} verhängt es gegen dich
+058	Staatshaushalt ({0} pro Jahr)
+059	Was du nicht zuteilst, wird in der Staatskasse gespart:
+060	Investitionen
+061	Wohlfahrt
+062	Entwicklung der Provinzen und Wachstum
+063	zivile und militärische Technologie
+064	bezahlt zusätzliche Truppen, Moral und Rekruten
+065	Zufriedenheit und Stabilität
+066	Verbraucht eine Regierungsaktion. Alle 4 Jahre änderbar. Der Wechsel von der Demokratie zu einem anderen Regime kühlt die Beziehungen zu Demokratien ab und kann Sanktionen nach sich ziehen.
+067	Du bist Vasall von {0}
+068	Armeen von {0}
+069	{0} Soldaten in {1} Armee(n)
+070	Qualität {0} (Ausgaben pro Soldat {1}/Jahr, SIPRI)
+071	Kosten zusätzlicher Truppen {0}/Jahr
+072	(auf See)
+073	in Ausbildung
+074	Moral
+075	Versorgung
+076	Qualität
+077	Soldaten
+078	Rekrutieren in {0}
+079	Um in einer anderen Provinz zu rekrutieren, tippe sie auf der Karte an, bevor du dieses Blatt öffnest. Rekruten trainieren {0} Monat(e) und starten mit niedriger Moral.
+080	{0} Soldaten rekrutieren
+081	{0} aus der Staatskasse
+082	Staatskasse {0}. Kriege werden Monat für Monat mit deinen Armeen gespielt.
+083	Armee von {0} ({1}) bereit: tippe auf der Karte auf das Ziel.
+084	Dir bleiben dieses Jahr {0} von 3 diplomatischen Aktionen.
+085	Die Meinung jedes Landes steigt mit Botschaften und Verträgen und sinkt mit Ultimaten und Kriegen.
+086	seine Macht beträgt {0} deiner
+087	Macht {0} deiner
+088	Aktionen ({0} diplomatische, {1} Regierungsaktionen)
+089	Nur wer regiert, betreibt Diplomatie.
+090	⚠️ Bricht den Nichtangriffspakt: −10 Stabilität und alle misstrauen dir
+091	Beziehungen verbessern
+092	Botschaft und Staatsbesuche
+093	Bündnis vorschlagen
+094	Chance
+095	seine Truppen unterstützen dich im Krieg
+096	Das Bündnis brechen
+097	Du verlierst seine Unterstützung
+098	Nichtangriffspakt (10 Jahre)
+099	ihr könnt euch nicht angreifen, ohne ihn zu brechen
+100	Militärisches Durchmarschrecht erbitten
+101	deine Armeen dürfen sein Gebiet durchqueren
+102	Auf das Durchmarschrecht verzichten
+103	Seine Unabhängigkeit garantieren
+104	Nehmen immer an
+105	wenn jemand es angreift, ruft es dich zu seiner Verteidigung
+106	Die Garantie zurückziehen
+107	Ultimatum: {0} fordern
+108	Ultimatum: Vasallentum fordern
+109	Annahme
+110	lehnt es ab, hast du einen Kriegsgrund (die Kriegserklärung senkt die Stabilität nicht)
+111	der Vasall zahlt Tribut und kämpft an deiner Seite
+112	Den Vasallen eingliedern
+113	Du annektierst sein gesamtes Gebiet
+114	erfordert 5 Jahre Vasallentum (du hast {0}) und Meinung 40+
+115	Den Vasallen freilassen
+116	Handelsvertrag (10 Jahre)
+117	beide wachsen schneller (+{0} % pro Jahr für dich)
+118	Den Handelsvertrag kündigen
+119	Handelsembargo
+120	Seine Wirtschaft verliert ~{0} % pro Jahr; du verlierst auch ein wenig
+121	Das Embargo aufheben
+122	Ein Geschenk schicken ({0})
+123	+15 bis +25 Meinung
+124	Seine Regierung beleidigen
+125	−30 Meinung; ist es stärker, kann es dir den Krieg erklären
+126	Zu den Waffen rufen gegen {0}
+127	tritt mit seinen Armeen ein
+128	Eine Union der Nationen vorschlagen
+129	Erfordert Meinung 75+, gleiche Kultur oder gleiches System und dass es schwächer ist
+130	Inflation {0}.
+131	Die Zentralbank erhöht den Zins, wenn die Inflation ihr Ziel übersteigt, und senkt ihn, wenn sich die Wirtschaft abkühlt (Taylor-Regel).
+132	Du nutzt eine Währung, die du nicht ausgibst: den Zins legt {0} fest.
+133	Reformen verbrauchen eine Regierungsaktion (dir bleiben {0}).
+134	Der Markt bestimmt den Kurs und federt Schocks ab; du behältst den Zins.
+135	Hongkong (Currency Board seit 1983) und Saudi-Arabien (3,75 pro Dollar seit 1986) halten feste Kurse. Mexiko 1994, Thailand 1997 und Argentinien 2002 erlebten Abwertungen, als der feste Kurs nicht mehr glaubwürdig war.
+136	Jeder Geldschein durch Dollar gedeckt: sehr glaubwürdig, aber ohne Geldpolitik. Erfordert eine Staatskasse von 5 % des BIP.
+137	Geld für die Regierung drucken (Seigniorage): {0}
+138	Ausgaben durch Gelddrucken zu finanzieren führte zu Hyperinflationen in Deutschland (1923), Simbabwe (2008) und Venezuela (2016-2021).
+139	des BIP pro Jahr
+140	1 neu = 1.000 alt. {0}
+141	Mexiko strich 1993 drei Nullen (neuer Peso), die Türkei 2005 sechs, Brasilien wechselte 1994 zum Real und Sierra Leone strich 2022 drei Nullen.
+142	{0} Nullen streichen
+143	Bringt den Dollar auf ~{0} Einheiten.
+144	Ende des Gelddruckens, unabhängige Zentralbank, Zins +8 und, falls nötig, Nullen streichen. Funktioniert wie Brasiliens Plano Real (1994): Die Inflation sinkt binnen 3 Jahren um den Preis einer Rezession.
+145	Ecuador dollarisierte sich 2000 nach einer Bankenkrise, El Salvador 2001. Die Inflation nähert sich der der USA an, aber du verlierst die Geldpolitik.
+146	Du erfüllst die Kriterien. {0}
+147	Kriterien: {0}
+148	Kroatien führte den Euro 2023 ein und Bulgarien 2026, nachdem sie Inflation, Defizit, Schulden und zwei Jahre stabilen Wechselkurs erfüllt hatten.
+149	Inflation ≤ {0} % (du hast {1} %)
+150	Schulden ≤ 90 % des BIP (du hast {0} %)
+151	Zwei Jahre an den Euro gekoppelt (WKM II)
+152	Stabilität ≥ 40 (du hast {0})
+153	Den Euro verlassen und eine eigene Währung schaffen
+154	Du gewinnst Zins und Wechselkurs zurück, aber der Übergang bringt Kapitalflucht, Rezession und eine anfängliche Abwertung.
+155	Mehr Investitionen und Wachstum; du bist wieder Kapitalflucht ausgesetzt.
+156	Bremst Kapitalflucht und Spekulationsangriffe, kostet aber Wachstum und verbietet den Kauf ausländischer Aktien (wie der argentinische „Cepo“).
+157	Du übernimmst die Kontrolle über {0}. Jetzt legst du den Zins fest; die Märkte misstrauen (+1 Punkt Inflation pro Jahr, solange es dauert).
+158	Du gibst {0} die Unabhängigkeit zurück: Sie legt die Zinsen wieder nach ihrer Regel fest (Inflation und Wachstum).
+159	Du setzt den Leitzins auf {0} % ({1}). Kredit wird teurer: Das bremst Inflation und Wachstum und stärkt die Währung.
+160	Du setzt den Leitzins auf {0} % ({1}). Kredit wird billiger: Das kurbelt das Wachstum an, aber die Inflation steigt und die Währung schwächelt.
+161	Für ein Currency Board brauchst du Reserven: eine Staatskasse von mindestens 5 % des BIP.
+162	Die Währung {0} schwankt frei: Der Markt bestimmt den Wechselkurs und federt Schocks ab.
+163	Die Währung {0} schwankt frei: Der Markt bestimmt den Wechselkurs und federt Schocks ab.
+164	Gesteuertes Floating: Die Zentralbank glättet die Schwankungen der Währung {0}.
+165	Gesteuertes Floating: Die Zentralbank glättet die Schwankungen der Währung {0}.
+166	Die Währung {0} wird bei {1} pro {2} fixiert. Dein Zins folgt dem des Ankers; liegt deine Inflation über der des Ankers, wird der feste Kurs anfällig für einen Spekulationsangriff.
+167	Die Währung {0} wird bei {1} pro {2} fixiert. Dein Zins folgt dem des Ankers; liegt deine Inflation über der des Ankers, wird der feste Kurs anfällig für einen Spekulationsangriff.
+168	Die Währung {0} kommt in ein Currency Board zu {1} pro {2}. Dein Zins folgt dem des Ankers; liegt deine Inflation über der des Ankers, wird der feste Kurs anfällig für einen Spekulationsangriff.
+169	Die Währung {0} kommt in ein Currency Board zu {1} pro {2}. Dein Zins folgt dem des Ankers; liegt deine Inflation über der des Ankers, wird der feste Kurs anfällig für einen Spekulationsangriff.
+170	Du ordnest an, die Regierung mit gedrucktem Geld zu finanzieren: {0} fließen jedes Jahr in die Staatskasse. Rechne mit mehr Inflation und einer schwächeren Währung.
+171	Du hörst auf, Geld für die Regierung zu drucken.
+172	Die Währung hat nicht so viele Nullen zum Streichen.
+173	Stabilisierungsplan: Du druckst nicht mehr, die Zentralbank wird wieder unabhängig und erhöht den Zins um 8 Punkte. Die Inflation sinkt in den nächsten 3 Jahren kräftig; der Preis ist eine Rezession und weniger Zustimmung.
+174	Du führst Kapitalverkehrskontrollen ein: weniger Spekulationsangriffe und Kapitalflucht, aber die Wirtschaft wächst langsamer und niemand kann Aktien im Ausland kaufen.
+175	Du hebst die Kapitalverkehrskontrollen auf: Geld fließt frei hinein und hinaus.
+176	fest an den US-Dollar gekoppelt ({0})
+177	fest an den Euro gekoppelt ({0})
+178	Currency Board (US-Dollar)
+179	Currency Board (Euro)
+180	Senkt den Wechselkurs sofort; du verbrauchst Reserven.
+181	Mehr Exportwettbewerbsfähigkeit und mehr Reserven; etwas mehr Inflation.
+182	Die strategische Reserve auffüllen ({0})
+183	Schützt vor Lieferausfällen; treibt den Preis nach oben.
+184	Dein Land gibt seine Währung nicht selbst aus: Es kann nicht am Devisenmarkt eingreifen.
+185	Du hast keine Devisenreserven.
+186	Du verkaufst {0} an Reserven: Die Währung {1} wird stärker.
+187	Du verkaufst {0} an Reserven: Die Währung {1} wird stärker.
+188	Du kaufst {0} in Dollar, indem du Geld ausgibst: Die Währung {1} wird schwächer (mehr Wettbewerbsfähigkeit, etwas mehr Inflation) und deine Reserven wachsen.
+189	Du kaufst {0} in Dollar, indem du Geld ausgibst: Die Währung {1} wird schwächer (mehr Wettbewerbsfähigkeit, etwas mehr Inflation) und deine Reserven wachsen.
+190	Du brauchst {0} in der Staatskasse oder in den Reserven.
+191	Du kaufst {0} Tonnen Gold ({1}).
+192	Du hast kein Gold.
+193	Du verkaufst {0} Tonnen Gold: Deine Devisenreserven steigen um {1}.
+194	Du brauchst {0} in der Staatskasse.
+195	Du kaufst {0} für deine strategische Reserve ({1}).
+196	Deine strategische Reserve ist leer.
+197	Du gibst {0} frei: {1} fließen in die Staatskasse und der Weltmarktpreis sinkt.
+198	lax
+199	streng
+200	{0} offen
+201	verstaatlicht
+202	privat
+203	Laxe Regulierung
+204	Normale Regulierung
+205	Strenge Regulierung
+206	Günstige Kredite für Firmen in den ärmsten Provinzen: +Entwicklung und +Wachstum für 3 Jahre.
+207	Für Infrastruktur: +0,5 Entwicklung in deinen 10 ärmsten Provinzen; die Schulden steigen.
+208	Der Staat entscheidet über Kredite; die Banken fallen an der Börse und die Wirtschaft wächst langsamer.
+209	Du legst eine laxe Bankenregulierung fest.
+210	Du legst eine normale Bankenregulierung fest.
+211	Du legst eine strenge Bankenregulierung fest.
+212	Der IWF leiht {0} (halb an die Staatskasse, halb an die Reserven). Bedingungen: 3 Jahre Sparpolitik (weniger Wachstum und Zustimmung), kein Gelddrucken und eine unabhängige Zentralbank.
+213	Die Weltbank leiht {0} für Infrastruktur: +0,5 Entwicklung in deinen 10 ärmsten Provinzen und mehr Wachstum für 5 Jahre.
+214	Die Entwicklungsbank leiht {0} an Firmen in den ärmsten Provinzen: +Entwicklung und etwas mehr Wachstum für 3 Jahre.
+215	Du verstaatlichst die Banken: Der Staat entscheidet, wer Kredit bekommt. Die Banken fallen an der Börse und Kredit wird weniger effizient (−0,3 % Wachstum pro Jahr).
+216	Du privatisierst die Banken wieder: Der Wettbewerb kehrt zurück.
+217	{0} hat keine nennenswerte Förderung von Öl, Gas, Mineralien oder Exportgetreide.
+218	Abgaben von 10 % → 35 %; weniger Investitionen (−0,3 % Wachstum pro Jahr) und die Firmen der Branche fallen an der Börse. Wie Mexiko mit dem Öl 1938 oder Bolivien mit dem Gas 2006.
+219	Exporte verbieten (verbraucht eine Aktion): Der Weltmarktpreis steigt und dein Markt wird versorgt, aber du verlierst Devisen.
+220	Du verstaatlichst Öl und Bergbau: Die Abgaben an die Staatskasse steigen von 10 % auf 35 % des Produktionswerts, aber die Investitionen sinken (−0,3 % Wachstum pro Jahr) und die Firmen der Branche fallen an der Börse.
+221	Du privatisierst den Sektor wieder: Du verkaufst Konzessionen (5 % des Jahreswerts an die Staatskasse) und die Investitionen kehren zurück; die Abgaben gehen auf 10 % zurück.
+222	Du verbietest den Export von {0}: Der Weltmarktpreis steigt und der Binnenmarkt wird versorgt, aber du verlierst Devisen (das bremst dein Wachstum).
+223	Du hebst das Exportverbot für {0} auf.
+224	Keine Schlachten in letzter Zeit.
+225	Gen. {0}
+226	Offensiv (+15 % beim Angriff)
+227	Defensiv (+15 % bei der Verteidigung)
+228	Logistiker (−35 % Verschleiß und bessere Versorgung)
+229	Schnell (+1 Bewegung pro Monat)
+230	Charismatisch (Moral erholt sich doppelt so schnell)
+231	Gebirgsjäger (+25 % in Bergen und Hügeln)
+232	Unerfahren (−10 % im Kampf; lernt schnell)
+233	Barrel
+234	Tsd. Barrel
+235	Mrd. Barrel
+236	Mio. BTU
+237	Tsd. Mio. BTU
+238	Mrd. Mio. BTU
+239	Tonnen
+240	Tsd. Tonnen
+241	Mrd. Tonnen
+242	Tonnen Carbonat
+243	Tsd. Tonnen Carbonat
+244	Tonnen Oxide
+245	Tsd. Tonnen Oxide
+246	Unzen
+247	Tsd. Unzen
+248	Mrd. Unzen
+249	Pfund U₃O₈
+250	Tsd. Pfund U₃O₈
+251	Mrd. Pfund U₃O₈
+252	Barrel
+253	Mio. BTU
+254	Tonnen
+255	Tonnen Carbonat
+256	Tonnen Oxide
+257	Unzen
+258	Pfund U₃O₈
+259	pro Barrel
+260	pro Mio. BTU
+261	pro Tonne
+262	pro Tonne Carbonat
+263	pro Tonne Oxide
+264	pro Unze
+265	pro Pfund U₃O₈
+266	Mio. Barrel
+267	Mio. Tonnen
+268	Mio. Unzen
+269	Billionen BTU
+270	Mio. Pfund U₃O₈
+271	Mio. Tonnen Carbonat
+272	Mio. Tonnen Oxide
+273	Rekrutenreserve {0} (mobilisierbare Bevölkerung)

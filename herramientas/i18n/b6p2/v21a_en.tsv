@@ -1,0 +1,120 @@
+79f1a0	Growth
+13860a	Opens branches when there is cash and the company sells at full capacity.
+9aa21f	Efficiency
+a419b8	Cuts costs: profit rises with the director's skill.
+61c537	Conservative
+31385f	Pays down debt first and keeps cash for crises.
+a31d55	{0} Group
+bfb596	{0} runs {1} ({2}, skill {3}). Salary: {4} a year, paid by the group's companies.
+962793	You fire {0}: the severance ({1}) comes out of the group companies' cash.
+4c1e09	You sweep the cash of {0}: {1} goes to your money. Each company keeps 3 months of costs.
+84f001	No company in {0} has spare cash (each needs 3 months of costs).
+6f31ff	The group needs at least 2 companies.
+cfbdb2	No need to move cash: no company needs it or none has any to spare.
+dcefdf	Internal loan: {0} transfers {1} to {2}, which pays {3} of bank debt.
+97b844	Internal loan: {0} transfers {1} to {2}.
+96cf14	You dissolve {0}: its companies report to you again.
+90205f	You are {0} short for the audit.
+653aca	The audit of {0} ({1}) finds hidden debt of {2} and inflated results: real sales are {3} % of what the seller declared.
+07432e	The audit of {0} ({1}) confirms the seller's figures: there is no hidden debt.
+d92860	You are {0} short.
+e4eca8	You need to be 18.
+774901	The seller rejects your offer for {0} and takes it off the market.
+d038f3	The seller rejects {0} for {1}. You can try once more.
+2c4f8e	You buy {0} for {1} (you pay {2}; {3} of credit stays as the company's debt).
+8a32dc	You buy {0} for {1}.
+c3810a	You buy {0} for {1}. Reviewing the books, you discover hidden debt of {2}: you did not audit.
+7d6cad	You buy {0} for {1} (you pay {2}; {3} of credit stays as the company's debt). Reviewing the books, you discover hidden debt of {4}: you did not audit.
+a80a45	This company cannot be bought through a tender offer.
+b447c9	You already control this company.
+6cba2b	You already made an offer for this company this year: shareholders will not accept another until next year.
+5fc942	The shareholders of {0} reject your offer of {1} per share. You pay {2} to the advisers and the stock rises on speculation.
+14aff7	{0} takes control of {1} with a tender offer: buys 51 % of the shares at a {2} % premium.
+cc2471	You take control of {0}: you buy {1} shares at {2} ({3} with fees). Now you choose its strategy and its director.
+da1738	Balanced
+e65e56	Stays as it was.
+7a76c3	Grow
+3da0c1	Reinvests almost everything: profits grow faster and it pays fewer dividends.
+94f59e	Cuts costs: somewhat higher profits and the stock moves less.
+b94493	Dividends
+908b77	Pays out more: much higher dividends, but grows less.
+026517	{0} changes strategy: {1}.
+d6c94d	{0} is the new chief executive of {1} (skill {2}).
+c33cbb	You drop below 50 % of the shares of {0}: you lose control of the company.
+61204b	You needed {0} or less.
+b2c202	Every month your company sells, pays for inputs, payroll, rent, taxes and debts; what it pays out reaches your money.
+00124f	You can run up to {0} companies in person; beyond that, group them under a director.
+4696d6	{0} in person
+fa9f4a	⚠️ You run {0} companies in person: you don't have the time and every month they all lose {1} reputation points.
+31ac0c	Create a group with a director to recover it.
+55fb54	Companies for sale
+83f3eb	Groups
+3c25b5	Controlled on the stock market
+e0af5d	Strategy: {0}
+5cba62	My companies
+b2cd36	Businesses in {0} whose owners want to sell. The figures are the ones the seller declares: they may be dressed up.
+a7f651	An audit checks the books and debts before buying.
+fcf966	The list is renewed every 6 months.
+ff1f4f	There are no companies for sale right now.
+5a55b8	{0} employees
+8c58df	reputation {0}
+906c35	Sales per year
+a753b2	Profit per year
+e8d23f	Debt
+29ce23	Cash
+2a469b	Audited
+75939d	Seller in a hurry
+0c06e4	Hidden debt: {0}
+d83204	Rejected offers: {0}
+d9d394	Audit ({0})
+1e872c	With credit: you pay half and the other half stays as the company's debt
+e146d0	Audit
+345238	A group (conglomerate) brings several of your companies together under a director.
+fddf77	That way you can own as many as you want without losing attention, and those in the same line of business share customers and suppliers (synergies).
+15c6fa	{0} companies
+c665a3	No director
+948086	value {0}
+b63dfe	Create a group
+92ac3b	Group name
+12a447	Director
+306fa7	skill {0}
+f702aa	{0} a year
+3408b6	Without a director, the group's companies don't get its improvements. The salary is paid by the group's companies.
+c701f1	Fire
+7181cb	Group companies
+f9059b	{0}/month
+024340	synergies {0}/month
+819e73	savings {0}/month
+36d9a1	Remove
+ba39af	It has no companies yet.
+f6cb1f	Add to the group
+76afcf	Sweep cash
+749f23	Internal loan
+67de03	Dissolve
+96a561	Company control
+5fa13a	Your shares
+4b5b07	Strategy
+1c6a17	Dividend per year
+8381a9	You control {0}: you decide its strategy and its director. If you sell shares and drop below 50 %, you lose control.
+66ca3f	Change director
+d9a1b7	Choose director
+cf5468	With more than 50 % of the shares you control the company. A tender offer buys from every shareholder willing to sell, at a premium over today's price: the higher the premium, the more accept.
+fb16fb	You are short
+8ca912	{0} sh.
+be3ffa	Market value
+136044	You already made an offer this year: shareholders will not accept another until next year.
+05f71c	Premium
+e11d21	Tender offer
+4705dc	An offer to buy a listed company's shares from all its shareholders at a fixed price, to take control. In Spanish it is known as OPA.
+3759a9	Control premium
+6cc33f	What is paid above the market price to convince shareholders to sell and take control.
+28a776	Audit (due diligence)
+b88955	A review of a company's books, contracts and debts before buying it, so as not to overpay for dressed-up figures.
+73ebba	Leveraged buyout
+46cbb8	Buying a company with a lot of borrowed money that the company itself then repays with its profits. It multiplies both gain and risk.
+d39083	Conglomerate
+1fa8cc	A group of companies in different lines of business under one owner and common management.
+860c3b	Synergy
+5e13be	Savings or extra sales that appear when companies sharing customers, suppliers or processes are combined.
+77c8d3	Stock market control
+e6850f	Buying companies and groups

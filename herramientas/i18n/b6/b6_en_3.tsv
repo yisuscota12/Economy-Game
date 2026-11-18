@@ -1,0 +1,198 @@
+fb54ef Defines how your exchange rate moves and the risk of a currency crisis.
+184332 The gap between the official exchange rate and the one the market considers fair. If it grows, speculators bet against the currency.
+c01db3 A large deviation increases the risk of a forced devaluation.
+9c6af2 Financing the government by creating new money. In the short term it pays the bills; in the medium term it causes inflation and depreciation.
+2c07d3 Boosts the treasury today and inflation tomorrow.
+7d82c3 Restrictions on taking money out of the country or buying foreign currency (for example, Argentina's «cepo»). They stop capital flight, but scare away investment.
+ca7ee6 They reduce pressure on your currency in exchange for less growth.
+752281 Foreign currency, gold and other assets the central bank holds to pay for imports and foreign debt and to defend the currency. A healthy level covers at least 3 months of imports.
+b29ed0 If you rule you can buy or sell foreign currency to intervene, accumulate gold and create strategic oil reserves. They protect against crises.
+0e3b2d The currencies of every country and their price against the dollar.
+cd9a3a Exchange rates and how they change.
+8f3006 What you can actually buy with your money. If your salary rises 5% and prices 10%, you are poorer.
+700bc4 Compares your money adjusted for inflation.
+7f69e8 A market where shares (pieces of ownership of companies) are bought and sold. Over the long run, stock markets have returned 6–10% a year on average, with sharp drops along the way (2008, 2020).
+ad8c2b 32 real exchanges with companies inspired by real ones. Quotes move every business day on results, news and the economy.
+a72efb The world's exchanges and indices (S&P 500, IPC, Ibovespa, DAX, Nikkei...). An index sums up how the largest companies in a market are doing.
+adefa4 Choose an exchange to see its companies and indices.
+e01e21 The set of your investments. Diversifying (holding many companies and sectors) reduces risk without reducing expected return much.
+acca51 Your positions, open profit, margin and shorts.
+815e39 Instructions to buy or sell. Market order: executes right away at the current price. Limit: only at your price or better. Stop: triggers if the price crosses a level, to cut losses.
+74a9e3 Pending orders that execute on their own when the price gets there.
+e14604 Acquiring shares to profit if they rise (long position) and to collect dividends.
+735265 Buy at the current price plus commission.
+dfd1ad Closing a position. A gain is only real when you sell; until then it is "open profit".
+4629e4 Sell your shares at the current price.
+c5fcb2 Borrowing shares and selling them in the hope they fall, to buy them back cheaper. The potential loss is unlimited if the price rises.
+d98a9c You win if the stock falls. It requires margin and pays a borrowing cost.
+7d1955 Buying back the shares you sold short to return them and close the bet.
+eafe5a Closes your short position.
+44cb0e Buys only if the price falls to your level (or sells only if it rises). You control the price, not the timing.
+84cbeb Stays pending until the price reaches it.
+016956 An automatic sale if the price falls to a certain level. It limits losses without you watching the screen.
+c0e2bf Triggers on its own when the level is crossed.
+eda590 Share price times the number of shares: what the market says the whole company is worth.
+d6cf10 Size of the company.
+29bbcd How many years of earnings you pay when you buy the stock. A P/E of 15 is typical; one of 40 means the market expects a lot of growth (or a bubble).
+51198c Lower = cheaper relative to what it earns.
+d0409a How much the stock moves relative to the market. Beta 1: same as the index; 2: double (more risk); 0.5: half (defensive).
+3cd5b2 The stock's risk relative to its exchange.
+0b00e1 The part of the profits a company distributes to its shareholders, usually every quarter or year.
+628d79 You receive it in cash as long as you hold the stock.
+0fbd20 The highest price of the last year. It shows whether a stock is near its extremes.
+42dbf0 Price range reference.
+74a594 The lowest price of the last year.
+70500f How many shares change hands per day. More volume = easier to get in and out without moving the price (liquidity).
+080e85 The stock's liquidity.
+5b55c4 The average price at which you bought your shares, counting all your purchases.
+e6bc56 Basis for calculating your gain.
+fe550d What you would gain or lose if you sold today. It is not real until you sell.
+2601f8 Difference between the current value and your cost.
+dbfed5 Difference between what your position is worth and what it cost you.
+b54f1d Green wins, red loses.
+2e4d1f Money the broker lends you to invest more than you have. It multiplies gains and losses; if it falls a lot, you are asked for more money (margin call) or they sell for you.
+7623c6 If your collateral drops too low, the game liquidates positions.
+eda137 A company sells shares to the public for the first time to raise capital. The founders become paper millionaires, but they share control.
+ee6e77 You can take your business public if it is large and profitable.
+10e8ee Funds that copy an entire index with very low fees. For most savers they have returned more than picking stocks by hand, because they diversify and charge almost nothing.
+cfff56 You buy an entire market at once.
+57f5fe Basic goods bought in large quantities: oil, gold, copper, wheat. Their prices rise with global demand and with supply shocks (wars, droughts).
+0af9f3 Buy and sell commodities; their prices affect producing countries and companies.
+7189b6 Oil, gold, copper, lithium, grains... Their price is set by world supply and demand.
+cc971a Trade commodities.
+3f0397 Loans you make to a government or company in exchange for fixed interest. Safer than stocks; if rates rise, the price of existing bonds falls.
+7996ef Buy government bonds; you collect coupons every year.
+d01260 The bonds you hold, their rate (coupon) and maturity.
+e4d2e1 You collect interest until they mature or you sell them.
+db2d23 The currency market is the largest in the world: about 7.5 trillion dollars a day. The price of one currency against another changes with interest rates, inflation and capital flows.
+17c775 Buy and sell foreign currencies; protect your money from devaluation or speculate.
+0dbde4 Exchanging your currency for another. Saving in a strong currency protects against devaluation, but it has an exchange cost.
+aeb81d Trade currencies with their bid-ask spread.
+e896ab Each country's interest rates and its currencies. Money tends to go where it pays more with less risk (carry trade).
+daca62 Overview of interest and exchange rates.
+87670f Markets react to company results, economic data, central bank decisions and political events.
+ad7689 Recent news that moved prices.
+e75595 Exchanges broadcast prices on a running tape (ticker). Green is up, red is down.
+ba53b9 Choose which market and time frame you see in the bar.
+087d77 Banks take deposits and lend them out; they profit from the difference between what they charge and what they pay. There are credit unions, regional, national and international banks and systemic giants.
+c06eea Open accounts, take out loans, invest in funds or start your own bank.
+a82950 Bank deposits that pay interest. Small banks usually pay more but fail more often; deposit insurance covers up to a certain amount per bank.
+89d855 Deposit and withdraw. Spread your money across banks so you don't exceed the insurance.
+28d86c Loans with interest. The rate depends on your credit history, your income and your collateral. A good history unlocks cheaper loans.
+a74774 Ask for a loan according to your ability to pay.
+2e60f9 A professional manager invests the money of many people in exchange for a fee. There are stock, bond, mixed and hedge funds.
+6ed91b Invest in funds with different risk and fees.
+14ec15 Founding a bank takes a lot of capital and a license from the regulator. A bank lends several times its capital (leverage), so it can be very profitable or collapse in a run.
+180410 Found and run your bank: set rates, capital and risk.
+637dab A score (in many countries from 300 to 850) that measures how good a payer you are. Paying on time raises it; falling behind sinks it for years.
+d6cb57 Determines how much you can borrow and at what rate.
+8c5109 A public fund that returns your savings if your bank fails, up to a limit. It prevents bank runs.
+a16daa Covers your deposits per bank up to the cap.
+2d99d1 A country's set of banks, funds and regulators. If the banks fall, credit freezes and the economy goes into recession (2008).
+526e28 Health of the country's banking system, banking crises and help from the IMF and the World Bank.
+e8cfc2 How well capitalized and healthy the banks are. Below a certain level the risk of a banking crisis rises.
+ccb952 If it drops a lot, a crisis can break out.
+38a3d0 The International Monetary Fund lends to countries in crisis in exchange for conditions (austerity, reforms). It helps stabilize, but it is usually unpopular.
+b10cc7 Money for the treasury in a crisis, with conditions.
+9bf7b4 Cutting public spending to reduce the deficit and debt. It gives creditors confidence, but it can slow the economy and cause protests.
+5e12ea Less spending, less approval, more confidence.
+583b5a Income, expenses, savings, debts and taxes. The basic rule: spend less than you earn and invest the difference.
+f8dc23 Your personal account statement.
+1d9a01 People you hire to improve your life: trainer, nutritionist, lawyer, accountant, publicist, security. They cost money, but they save time and risk.
+09ce11 Each service gives a yearly benefit (health, taxes, sentences, scandals, security).
+329cd6 A business sells products or services; its profit is what remains after paying costs, payroll, rent, taxes and depreciation. Most new businesses close in their first years.
+0eb753 Open, expand, hire, take on debt or sell your companies.
+dd3f07 The report that shows whether a company makes or loses money: sales minus cost of sales = gross profit; minus operating expenses = operating profit; minus interest and taxes = net profit.
+16f53b How much your company sold and earned this month and over the last 12.
+86a4da What remains at the end, after all expenses and taxes. It is what belongs to the owners.
+0b062c The company's bottom line.
+4efe03 Net profit divided by sales. A supermarket earns 2–4%; a software company, 20–30%.
+a1f27a What percentage of each sale is profit.
+085f31 How much of your installed capacity you are using. Very low: fixed costs going to waste; close to 100%: it's time to expand.
+390e7e If it is maxed out, open another branch.
+c6164b Demand is how much the market wants to buy; capacity, how much you can produce.
+1b2f66 If demand exceeds your capacity you are leaving money on the table.
+575a9b The trust of customers and partners. It takes years to build and days to lose.
+30bca0 Affects your company's sales.
+3b1f0f Additional outlets or plants. Expanding increases sales, but also fixed costs and risk.
+e4948f Each branch adds capacity.
+61384d Payroll is usually the biggest expense of a service company. Too few employees limit service; too many eat up the profit.
+ca6029 Adjust staff to demand.
+5744cf Oil, gas, lithium, copper, rare earths, uranium... Whoever has them earns foreign currency and geopolitical power; depending on a single resource is risky (Dutch disease).
+1ae644 Your country's resource output; you can nationalize or ban exports.
+3a2e23 The countries that produce the most of each resource. Concentrating production in a few countries makes prices fragile.
+10df95 Who dominates each resource.
+547cb5 A document that decides who inherits your property. Without a will, the law divides the inheritance by kinship and conflicts can arise.
+afd6b7 Choose your heir: you continue the game as that person.
+ed55fa Raising a child costs time and money, and their education largely defines their opportunities.
+419984 Your children can inherit and carry on your legacy.
+779bd0 A stable relationship brings support, happiness and sometimes shared income. It takes time and care.
+05f8d7 Spend time with them to keep the relationship going.
+678769 Your family of origin influences your opportunities, education and health.
+45715c You can spend time with them and inherit from them.
+2f8db6 The generations of your family and their ties.
+7eb753 Your entire dynasty.
+c2f4d2 Home, cars, companies and other assets. Assets that generate income (rents, businesses, investments) build wealth; those that only cost money (luxury cars) consume it.
+9531a3 Your properties and their value.
+85d487 Migrating changes wages, cost of living, language and opportunities. Millions of people migrate every year looking for work or safety.
+472a0e Move to another province or country.
+7fce21 Long-term goals. Writing them down and measuring progress increases the chance of achieving them.
+4bde81 Your goals and unlocked achievements.
+96f035 The entertainment and sports industry follows a power law: a few concentrate most of the fame and money, and the vast majority live on modest incomes. Talent, consistency, network and luck all weigh together.
+18993d Music, acting, football, boxing, MMA, content, modeling, comedy, writing, cooking and DJ. Each with fans by territory, team, contracts, scandals, awards and tournaments.
+c51430 An artistic or sports career is built over years: first your province, then your country and, if all goes well, the world.
+aa431e Full panel: fans, level, team, works, shows, contracts and awards.
+f369de An audience is won from the inside out: the local scene, then national radio and media, and finally international platforms and tours. The internet speeds up the jump for creators and DJs.
+31d6c4 Your fans in your province, your country and the world. Each level has a ceiling (its population) and without activity fans gradually forget you.
+631acf Skill is built through deliberate practice: the first gains are fast and the last ones very slow. A good coach speeds up the process.
+eb1ff1 It goes up with training; it determines the quality of your works and your sports results. Natural talent multiplies every training session.
+42ea01 Part of skill comes from innate conditions (coordination, ear, memory, physique), but without practice talent isn't enough.
+f32ee4 Multiplies what you gain from each training session (from ×0.7 to ×1.35). You discover it when you start.
+32a3c0 A fighter's wins, losses and knockouts. An unbeaten record sells more tickets.
+6f5273 Your fights won, lost and by knockout.
+ce335f Stars live off several sources: sales, royalties, salary, purses, shows and sponsorships, minus commissions and costs.
+a508ba Everything your fame career generated last year, before taxes.
+9bcd55 How the public and brands perceive you. A scandal sinks it and social causes restore it.
+43d9a0 With a low image there are no sponsorships or good offers, and scandals are more likely.
+f77d20 A coach corrects mistakes you can't see. Quality vs. price: the free one at a community center teaches the basics; an elite one costs several salaries a year, but speeds things up a lot and reduces injuries.
+b2caf5 Multiplies what you gain in each training session. Charged every month.
+88c2e2 Gets contracts, roles and sponsorships in exchange for a commission (in the real industry, typically 10–20% of what you generate).
+04ea69 More reach, more offers and more auditions won, in exchange for their commission on all your fame income.
+b2ed54 A label, publisher, production company or promoter gives you an advance and its machinery (distribution, promotion) in exchange for part of your income. The advance is deducted from your future royalties.
+01d5ca Multiplies your reach and your recurring income during the years of the contract. A scandal can terminate it.
+13dfdf The more fans you have, the better the offers. A strong agent gets more and better ones.
+c21435 They arrive every year if you are well known. Compare advance, royalties, length and reach.
+b6aa6a The percentage you get every time your work is sold or played. In streamed music, fractions of a cent are paid per play.
+66c4d2 More royalties = more recurring income.
+c96bb6 Brands pay to associate their image with yours. For many athletes and creators it is their main income.
+856d6b Once a year, if you have fame 35+ and a good image.
+f2b7c1 Industry awards (inspired by the big music, film, literature, food and sports awards) multiply attention and contracts.
+69b6c3 If you had high-quality works during the year, you can be nominated and win.
+30ddbf In boxing and MMA the sanctioning bodies rank fighters; to fight for the title you must be among the top.
+168f54 You climb by beating opponents; the top 3 can fight for the world title.
+dc1861 Social media controversies, statements, cancellations or plagiarism. A good public relations team reduces the damage.
+81186c They cost you fans, image and sometimes the contract.
+beca3d Successful stars rarely work alone: trainer, agent, publicist, lawyer and accountant.
+74a307 Hire a coach and an agent here; the publicist and the lawyer in Services.
+b04d29 What you create: songs, roles, videos, books, menus, routines. Quality varies: not everything you make will be a hit.
+4e125c Each work adds fans according to its quality; hits get shared much more.
+dd7974 Concerts, performances, shows and tours. In today's music, tours bring in more money than sales.
+e45a6f They need a minimum number of fans in each territory. They bring money and fans, but they are tiring.
+9e82fa Clubs sign whoever performs. You start in amateur leagues and move up divisions with level and results.
+160415 Every year higher-level teams can sign you or you can be dropped; you earn a salary, championships and national-team call-ups.
+7d5c49 Fighters usually have 2 to 4 fights a year: each one requires a training camp and leaves after-effects.
+9db012 Choose an opponent: an easy one (small purse, little ranking), one at your level or a better one (bigger purse and more places if you win). Your odds are shown.
+fb9956 The media report at local, national and international scale. Comparing sources helps you avoid falling for disinformation.
+9f78f2 A portal with what's happening in your province, your country and the world.
+3cc049 Complete explanations of every system in the game.
+d711b7 Read by topic or replay the guided tour.
+1a895b Game preferences.
+982115 Sound, newspaper, map effects, dialogue frequency, currency and help bubbles.
+c9158d The starting data comes from public sources (World Bank, IMF, ILO, UN).
+5bfbed List of sources used.
+b2d47a A university degree usually raises lifetime income significantly, although it varies a lot by field and country.
+a4ed82 Studying takes years and sometimes tuition; it opens jobs and careers.
+35eda5 Salaried jobs. Pay depends on your training, the occupation and your region's economy; unemployment makes it harder to get hired.
+3e6389 Choose a job according to your qualifications.
+4b137e Politics, the military, business and government: promotion ladders that can take you to ruling a country.
+324e42 Each rank requires years, influence and intelligence.

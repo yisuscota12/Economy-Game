@@ -1,0 +1,273 @@
+001	(+{0}/ano). Toque uma província sua → 🏗️ Construir.
+002	Ações de governo ({0} de 2)
+003	Aprovação / Congresso
+004	Apoio no congresso {0} % (probabilidade de aprovar uma lei: {1} %)
+005	sem reeleição
+006	reeleição não consecutiva
+007	no máximo 2 mandatos seguidos
+008	reeleição sem limite
+009	você governa ({0})
+010	Investir em infraestrutura
+011	Crescimento econômico
+012	Reforçar o exército
+013	gasto militar
+014	Reformas sociais
+015	Propaganda
+016	Baixar impostos
+017	Economia a longo prazo
+018	Plano anti-inflação
+019	Desviar fundos públicos
+020	para você
+021	risco de processo
+022	Você lança um plano de infraestrutura.
+023	Você compra equipamento e treina tropas.
+024	Reformas sociais aprovadas.
+025	Campanha de propaganda nacional.
+026	Você baixa os impostos. O povo comemora.
+027	O banco central sobe os juros; a inflação cede.
+028	Você desvia fundos para contas em seu nome.
+029	Receita do tesouro (impostos altos)
+030	Receita do tesouro (impostos normais)
+031	Receita do tesouro (impostos baixos)
+032	Impostos (usa uma ação de governo)
+033	Impostos (usa uma ação de governo, exige votação)
+034	Impostos altos
+035	Impostos normais
+036	Impostos baixos
+037	Receita ×{0}
+038	Você fixa os impostos em nível alto.
+039	Você fixa os impostos em nível normal.
+040	Você fixa os impostos em nível baixo.
+041	Emitir títulos por {0}
+042	Taxa de {0} ao ano
+043	Pagar títulos ({0})
+044	Você deve {0} em títulos próprios
+045	Você emite títulos por {0} a uma taxa de {1}. A dívida pública sobe para {2} % do PIB.
+046	Você paga {0} em títulos.
+047	Pesquisa civil: nível {0} → {1}
+048	Pesquisa militar: nível {0} → {1}
+049	Seu país alcança o nível {0} de tecnologia civil ({1}).
+050	Seu país alcança o nível {0} de tecnologia militar ({1}).
+051	Tratados: {0} (+{1} % ao ano)
+052	{0} (até {1})
+053	nenhum
+054	nenhuma
+055	Embargos: {0} (−{1} % ao ano)
+056	você impõe a {0}
+057	{0} impõe a você
+058	Orçamento do tesouro ({0} ao ano)
+059	O que você não alocar fica guardado no tesouro:
+060	Investimento
+061	Bem-estar
+062	desenvolvimento das províncias e crescimento
+063	tecnologia civil e militar
+064	paga tropas extras, moral e recrutas
+065	felicidade e estabilidade
+066	Usa uma ação de governo. Pode ser mudado a cada 4 anos. Passar da democracia para outro regime esfria a relação com as democracias e pode trazer sanções.
+067	Você é vassalo de {0}
+068	Exércitos de {0}
+069	{0} soldados em {1} exército(s)
+070	qualidade {0} (gasto por soldado {1}/ano, SIPRI)
+071	custo de tropas extras {0}/ano
+072	(no mar)
+073	em treinamento
+074	moral
+075	suprimento
+076	qualidade
+077	soldados
+078	Recrutar em {0}
+079	Para recrutar em outra província, toque nela no mapa antes de abrir esta tela. Os recrutas treinam {0} mês(es) e começam com moral baixa.
+080	Recrutar {0} soldados
+081	{0} do tesouro
+082	tesouro {0}. As guerras são jogadas mês a mês com seus exércitos.
+083	Exército de {0} ({1}) pronto: toque no destino no mapa.
+084	Restam {0} de 3 ações diplomáticas este ano.
+085	A opinião de cada país sobe com embaixadas e tratados e cai com ultimatos e guerras.
+086	o poder dele é {0} do seu
+087	poder {0} do seu
+088	Ações ({0} diplomáticas, {1} de governo)
+089	Só quem governa faz diplomacia.
+090	⚠️ Rompe o pacto de não agressão: −10 de estabilidade e todos desconfiam
+091	Melhorar relações
+092	Embaixada e visitas oficiais
+093	Propor aliança
+094	Probabilidade
+095	as forças dele apoiam você na guerra
+096	Romper a aliança
+097	Você perde o apoio dele
+098	Pacto de não agressão (10 anos)
+099	não poderão se atacar sem rompê-lo
+100	Pedir acesso militar
+101	seus exércitos podem cruzar o território dele
+102	Renunciar ao acesso militar
+103	Garantir a independência dele
+104	Sempre aceitam
+105	se alguém os atacar, chamarão você para defendê-los
+106	Retirar a garantia
+107	Ultimato: exigir {0}
+108	Ultimato: exigir vassalagem
+109	Aceitação
+110	se recusarem, você ganha motivo de guerra (declará-la não reduz a estabilidade)
+111	o vassalo paga tributo e luta ao seu lado
+112	Integrar o vassalo
+113	Você anexa todo o território dele
+114	exige 5 anos de vassalagem (você tem {0}) e opinião 40+
+115	Libertar o vassalo
+116	Tratado comercial (10 anos)
+117	ambos crescem mais (+{0} % ao ano para você)
+118	Cancelar o tratado comercial
+119	Embargo comercial
+120	A economia dele perde ~{0} % ao ano; você também perde um pouco
+121	Suspender o embargo
+122	Enviar um presente ({0})
+123	+15 a +25 de opinião
+124	Insultar o governo dele
+125	−30 de opinião; se forem mais fortes, podem declarar guerra a você
+126	Chamar às armas contra {0}
+127	entra com seus exércitos
+128	Propor uma união de nações
+129	Exige opinião 75+, mesma cultura ou sistema e que sejam mais fracos
+130	inflação {0}.
+131	O banco central sobe a taxa quando a inflação passa da meta e a baixa quando a economia esfria (regra de Taylor).
+132	Você usa uma moeda que não emite: a taxa é fixada por {0}.
+133	As reformas usam uma ação de governo (restam {0}).
+134	O mercado fixa o preço e absorve os choques; você mantém a taxa.
+135	Hong Kong (currency board desde 1983) e Arábia Saudita (3,75 por dólar desde 1986) mantêm câmbio fixo. México em 1994, Tailândia em 1997 e Argentina em 2002 sofreram desvalorizações quando o câmbio fixo deixou de ser crível.
+136	Cada cédula lastreada em dólares: muito crível, mas sem política monetária. Exige um tesouro de 5 % do PIB.
+137	Imprimir dinheiro para o governo (senhoriagem): {0}
+138	Financiar o gasto imprimindo dinheiro levou a hiperinflações na Alemanha (1923), no Zimbábue (2008) e na Venezuela (2016-2021).
+139	do PIB ao ano
+140	1 novo = 1.000 antigos. {0}
+141	O México cortou três zeros em 1993 (novo peso), a Turquia seis em 2005, o Brasil mudou para o real em 1994 e Serra Leoa cortou três zeros em 2022.
+142	Cortar {0} zeros
+143	Deixa o dólar em ~{0} unidades.
+144	Fim da emissão, banco central autônomo, taxa +8 e, se necessário, cortar zeros. Funciona como o Plano Real (1994): a inflação cai em 3 anos à custa de uma recessão.
+145	O Equador se dolarizou em 2000 após uma crise bancária; El Salvador em 2001. A inflação converge para a dos EUA, mas você perde a política monetária.
+146	Você cumpre os critérios. {0}
+147	Critérios: {0}
+148	A Croácia adotou o euro em 2023 e a Bulgária em 2026, após cumprir inflação, déficit, dívida e dois anos de câmbio estável.
+149	Inflação ≤ {0} % (você tem {1} %)
+150	Dívida ≤ 90 % do PIB (você tem {0} %)
+151	Dois anos fixo ao euro (MTC II)
+152	Estabilidade ≥ 40 (você tem {0})
+153	Sair do euro e criar moeda própria
+154	Você recupera a taxa e o câmbio, mas a transição provoca fuga de capitais, recessão e uma desvalorização inicial.
+155	Mais investimento e crescimento; você volta a ficar exposto à fuga de capitais.
+156	Freia fugas e ataques especulativos, mas reduz o crescimento e proíbe comprar ações estrangeiras (como o “cepo” argentino).
+157	Você assume o controle {0}. Agora é você quem fixa a taxa; os mercados desconfiam (+1 ponto de inflação ao ano enquanto durar).
+158	Você devolve a autonomia a {0}: volta a fixar os juros pela sua regra (inflação e crescimento).
+159	Você fixa a taxa de referência em {0} % ({1}). O crédito encarece: freia a inflação e o crescimento e fortalece a moeda.
+160	Você fixa a taxa de referência em {0} % ({1}). O crédito barateia: impulsiona o crescimento, mas a inflação sobe e a moeda se enfraquece.
+161	Para um currency board você precisa de reservas: um tesouro de pelo menos 5 % do PIB.
+162	O {0} flutua livremente: o mercado fixa o câmbio e absorve os choques.
+163	A {0} flutua livremente: o mercado fixa o câmbio e absorve os choques.
+164	Flutuação administrada: o banco central suaviza os movimentos do {0}.
+165	Flutuação administrada: o banco central suaviza os movimentos da {0}.
+166	O {0} fica fixo em {1} por {2}. Sua taxa seguirá a da âncora; se sua inflação superar a da âncora, o câmbio fixo fica vulnerável a um ataque especulativo.
+167	A {0} fica fixa em {1} por {2}. Sua taxa seguirá a da âncora; se sua inflação superar a da âncora, o câmbio fixo fica vulnerável a um ataque especulativo.
+168	O {0} passa a um currency board a {1} por {2}. Sua taxa seguirá a da âncora; se sua inflação superar a da âncora, o câmbio fixo fica vulnerável a um ataque especulativo.
+169	A {0} passa a um currency board a {1} por {2}. Sua taxa seguirá a da âncora; se sua inflação superar a da âncora, o câmbio fixo fica vulnerável a um ataque especulativo.
+170	Você manda financiar o governo imprimindo dinheiro: {0} entra no tesouro a cada ano. Espere mais inflação e uma moeda mais fraca.
+171	Você para de imprimir dinheiro para o governo.
+172	A moeda não tem tantos zeros para cortar.
+173	Plano de estabilização: você para de imprimir, o banco central recupera a autonomia e sobe a taxa 8 pontos. A inflação cairá com força nos próximos 3 anos; o custo é uma recessão e menos aprovação.
+174	Você impõe controles de capital: menos ataques especulativos e fugas, mas a economia cresce menos e ninguém pode comprar ações no exterior.
+175	Você suspende os controles de capital: o dinheiro entra e sai livremente.
+176	fixo ao dólar americano ({0})
+177	fixo ao euro ({0})
+178	currency board (dólar americano)
+179	currency board (euro)
+180	Baixa o câmbio na hora; você gasta reservas.
+181	Mais competitividade exportadora e mais reservas; um pouco mais de inflação.
+182	Encher a reserva estratégica ({0})
+183	Protege contra cortes de abastecimento; pressiona o preço para cima.
+184	Seu país não emite sua moeda: não pode intervir no câmbio.
+185	Você não tem reservas em divisas.
+186	Você vende {0} de reservas: o {1} se fortalece.
+187	Você vende {0} de reservas: a {1} se fortalece.
+188	Você compra {0} em dólares emitindo moeda: o {1} se enfraquece (mais competitividade, um pouco mais de inflação) e suas reservas crescem.
+189	Você compra {0} em dólares emitindo moeda: a {1} se enfraquece (mais competitividade, um pouco mais de inflação) e suas reservas crescem.
+190	Você precisa de {0} no tesouro ou nas reservas.
+191	Você compra {0} toneladas de ouro ({1}).
+192	Você não tem ouro.
+193	Você vende {0} toneladas de ouro: suas reservas em divisas sobem {1}.
+194	Você precisa de {0} no tesouro.
+195	Você compra {0} para sua reserva estratégica ({1}).
+196	Sua reserva estratégica está vazia.
+197	Você libera {0}: entram {1} no tesouro e o preço mundial cai.
+198	frouxa
+199	rígida
+200	{0} a pagar
+201	nacionalizada
+202	privada
+203	Regulação frouxa
+204	Regulação normal
+205	Regulação rígida
+206	Crédito barato a empresas das províncias mais pobres: +desenvolvimento e +crescimento por 3 anos.
+207	Para infraestrutura: +0,5 de desenvolvimento nas suas 10 províncias mais pobres; a dívida sobe.
+208	O Estado decide o crédito; os bancos caem na bolsa e a economia cresce menos.
+209	Você fixa uma regulação bancária frouxa.
+210	Você fixa uma regulação bancária normal.
+211	Você fixa uma regulação bancária rígida.
+212	O FMI empresta {0} (metade ao tesouro, metade às reservas). Condições: 3 anos de austeridade (menos crescimento e aprovação), sem imprimir dinheiro e banco central autônomo.
+213	O Banco Mundial empresta {0} para infraestrutura: +0,5 de desenvolvimento nas suas 10 províncias mais pobres e mais crescimento por 5 anos.
+214	O banco de desenvolvimento empresta {0} a empresas das províncias mais pobres: +desenvolvimento e um pouco mais de crescimento por 3 anos.
+215	Você nacionaliza os bancos: o Estado decide a quem emprestar. Os bancos caem na bolsa e o crédito fica menos eficiente (−0,3 % de crescimento ao ano).
+216	Você reprivatiza os bancos: a concorrência volta.
+217	{0} não tem produção relevante de petróleo, gás, minerais nem grãos de exportação.
+218	Royalties de 10 % → 35 %; menos investimento (−0,3 % de crescimento ao ano) e as empresas do setor caem na bolsa. Como o México com o petróleo em 1938 ou a Bolívia com o gás em 2006.
+219	Proibir exportações (usa uma ação): o preço mundial sobe e abastece seu mercado, mas você perde divisas.
+220	Você nacionaliza o petróleo e a mineração: os royalties ao tesouro sobem de 10 % para 35 % do valor produzido, mas o investimento cai (−0,3 % de crescimento ao ano) e as empresas do setor caem na bolsa.
+221	Você reprivatiza o setor: vende concessões (5 % do valor anual ao tesouro) e o investimento volta; os royalties voltam a 10 %.
+222	Você proíbe exportar {0}: o preço mundial sobe e o mercado interno se abastece, mas você perde divisas (freia seu crescimento).
+223	Você suspende a proibição de exportar {0}.
+224	Sem batalhas recentes.
+225	Gen. {0}
+226	Ofensivo (+15 % ao atacar)
+227	Defensivo (+15 % ao defender)
+228	Logístico (−35 % de desgaste e melhor suprimento)
+229	Veloz (+1 de movimento por mês)
+230	Carismático (a moral se recupera em dobro)
+231	Montanhês (+25 % em montanhas e colinas)
+232	Inexperiente (−10 % em batalha; aprende rápido)
+233	barris
+234	mil barris
+235	bilhões de barris
+236	milhões de BTU
+237	mil milhões de BTU
+238	bilhões de milhões de BTU
+239	toneladas
+240	mil toneladas
+241	bilhões de toneladas
+242	toneladas de carbonato
+243	mil toneladas de carbonato
+244	toneladas de óxidos
+245	mil toneladas de óxidos
+246	onças
+247	mil onças
+248	bilhões de onças
+249	libras de U₃O₈
+250	mil libras de U₃O₈
+251	bilhões de libras de U₃O₈
+252	Barris
+253	Milhões de BTU
+254	Toneladas
+255	Toneladas de carbonato
+256	Toneladas de óxidos
+257	Onças
+258	Libras de U₃O₈
+259	por barril
+260	por milhão de BTU
+261	por tonelada
+262	por tonelada de carbonato
+263	por tonelada de óxidos
+264	por onça
+265	por libra de U₃O₈
+266	milhões de barris
+267	milhões de toneladas
+268	milhões de onças
+269	trilhões de BTU
+270	milhões de libras de U₃O₈
+271	milhões de toneladas de carbonato
+272	milhões de toneladas de óxidos
+273	reserva de recrutas {0} (população mobilizável)

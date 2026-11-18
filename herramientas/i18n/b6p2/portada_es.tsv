@@ -1,0 +1,120 @@
+506a34	D	Vive, invierte y gobierna en el mundo real de 2026.
+e6fcd8	D	Continuar partida
+7d9fd1	D	Volver al juego
+e4ec59	D	Nueva partida
+e77cdc	D	Empezar una vida
+f24a47	D	Partidas guardadas
+9ced0e	D	Estilo de portada
+a1b16e	D	Noche
+6cefe9	D	Planeta
+ed2c91	D	Mercados
+8bd28d	D	Atlas
+b7d1df	D	Cargando el mapa…
+af3525	D	Datos del mundo
+2cbf5b	D	Natural Earth (fronteras, carreteras, relieve), geoBoundaries (distritos), Wikidata (población), Banco Mundial, FMI, OIT, OMS, SIPRI, EIA, IEA, USGS, FAO, WGC y WNA.
+c179d9	D	Íconos
+3cf419	D	Tabler Icons (licencia MIT) e íconos propios.
+77722f	D	Ficción
+b140a9	D	Empresas, clubes, ligas comerciales, organismos, promotoras, premios y marcas son ficticios, inspirados en los reales. Países, ciudades y datos son reales.
+84a715	D	Volver
+e8786c	D	Volver a la portada
+4c0145	D	Portada
+0c83db	D	Toca para verla y cambiar el estilo.
+a7ac7d	D	habitantes
+b6c144	D	por persona
+93e630	D	Vives aquí
+cedc95	D	Ocupada
+0d6919	D	En guerra
+58dc18	D	Ficha
+ee5318	D	Clubes
+f60922	D	Acercar
+4b0816	D	Cerrar
+f664ca	D	Ficha del lugar
+7c86cc	D	Tu país
+0fec4c	D	Extranjero
+b86427	T	Ocupada por {0}
+d2bbbe	T	antes {0}
+cf0dc3	D	Explicar
+4cd516	D	Provincia
+0c664f	D	País
+f7e632	T	Ciudades ({0})
+f8e94c	D	Población
+618cf4	D	PIB
+83e922	D	(est.)
+8a44a3	D	PIB por persona
+6af8c0	D	Densidad
+71739b	D	hab./km²
+2cb7bf	D	Felicidad
+60ed4c	D	Desarrollo
+79f1a0	D	Crecimiento
+699169	D	Terreno
+8121ac	D	Núcleo
+873caa	D	Sí
+816c52	D	No
+fb7f24	D	Recursos
+87d2de	D	Edificios
+f9dcd5	D	Tus intereses aquí
+304287	D	¿Qué significa?
+ff4b2a	D	Acciones aquí
+bfec88	D	Ver en el mapa
+96ad6f	D	Personas que viven aquí, según censos y estimaciones recientes.
+c01e30	D	Más población es más mercado para tus negocios, más votos y más impuestos para el gobierno.
+4b0528	D	Valor de todo lo que se produce aquí en un año (producto interno bruto).
+94d1e0	D	Mueve sueldos, ventas de tus negocios e ingresos del gobierno; crece o cae cada año.
+417e28	D	El PIB dividido entre la población: la medida más usada del nivel de vida medio.
+fdcc52	D	Define los sueldos y precios de la zona: un negocio rinde más donde es alto, pero cuesta más abrirlo.
+075e00	D	Habitantes por kilómetro cuadrado: indica qué tan urbana o rural es la zona.
+fb2e47	D	Las zonas densas concentran clientes y empleo; las poco densas, tierra y recursos.
+0a1929	D	Satisfacción de la población; en el mundo real se mide con encuestas como el Informe Mundial de la Felicidad.
+edf38f	D	Con felicidad baja aumentan protestas, rebeliones y la pérdida de apoyo del gobierno.
+91317c	D	Infraestructura, servicios y capital humano acumulados (del 0 al 10).
+1a45b3	D	Sube la producción de la provincia y su crecimiento; el gobierno puede invertir para subirlo.
+048ee9	D	Cambio anual del PIB de la provincia.
+c7eb8c	D	Las inversiones rinden más donde la economía crece.
+b4ead8	D	Relieve y clima: montañas, selvas y desiertos son difíciles de conquistar y de abastecer.
+b1fa53	D	Multiplica la defensa en una guerra y afecta la producción.
+7fb1e6	D	Una provincia es núcleo cuando su población se identifica con el país que la gobierna.
+23f39c	D	Si no es núcleo: −20 de felicidad y la mitad de impuestos hasta asimilarla.
+7a0bb5	D	Yacimientos y cultivos estratégicos según los datos de producción reales del país.
+3311ed	D	Su valor sale de los precios mundiales: guerras y crisis los mueven.
+e00bbe	D	Estabilidad
+7214b1	D	Qué tan firme es el gobierno frente a protestas, golpes y rebeliones.
+0cc466	D	Con estabilidad baja hay más crisis, huelgas y cambios de gobierno.
+ce4ec9	D	Ver tu país
+45c933	D	Diplomacia
+3c22db	D	Cambiar nombre
+672410	D	Capital del país
+39e5af	T	Ciudad n.º {0} del país
+6ce898	D	Habitantes
+c0aae1	D	De la provincia
+5221e7	D	Población de la ciudad o de su zona metropolitana, según el censo más reciente disponible.
+10862d	D	Las ciudades grandes concentran empleo formal, clientes y clubes; la vida cuesta más.
+09d2a9	D	Clubes de fútbol
+f08aff	D	Mudarte aquí
+7525c0	D	No hay ciudades registradas en esta provincia.
+64b2d0	D	Próximo
+114d8b	D	Pelea
+672b22	D	Final
+08ece5	D	Función
+83d224	D	Premios
+88d830	D	Evaluación de desempeño
+43ba44	D	Vence una conversación
+ab1dab	D	Elecciones
+1a6b70	D	Año nuevo
+0dc62a	D	Cierre de mes
+ec80f5	D	hoy
+a8079d	T	en {0} días
+9e88a6	D	Tu vida social
+8a0a5f	D	Tu vida social: buena
+99ffcb	D	Tu vida social: estable
+08b3cd	D	Tu vida social: tensa
+f5847d	D	Tu vida social: sin relaciones cercanas
+103156	D	Burbuja al tocar el mapa: activada
+6883c6	D	Burbuja al tocar el mapa: desactivada
+624861	D	Al tocar una provincia o ciudad aparece su información con botones para actuar desde ahí.
+1d7e7b	D	Al tocar el mapa solo se actualiza la ficha de abajo, como antes de la v1.9a.
+6e5f0f	D	Bienvenido a ECONOMY
+31853e	D	El mapa: burbuja y ficha del lugar
+b8a8a8	D	Créditos del juego
+173a56	D	en 1 día
+a5460c	D	multiplicador de defensa

@@ -1,0 +1,157 @@
+ff2822	Gestisce {0}
+2db424	Assumi {0} dipendente/i.
+a9084f	Prestito {0}
+0af880	Licenzi {0} dipendente/i.
+a98c77	Entri in {0} come {1}.
+bce051	Iniettare capitale proprio ({0})
+570310	Prelevi {0}.
+d92860	Ti mancano {0}.
+5a2722	Vendi {0} al prezzo mondiale: {1}.
+ad01f5	{0}: toglie {1} zeri (prima {2})
+a15fb8	{0}: {1} passa alla libera fluttuazione.
+a7e43c	Pace: {0} cede {1} provincia/e occupata/e a {2}.
+e6ac50	Agricoltura
+1da85d	Alto +15 %
+ad4669	Basso −15 %
+ca9bf1	Riso
+e2eb07	Associato
+8e4369	Automobilistico
+2fcbd4	Caffetteria
+2c0027	Variazione 12 mesi
+35ff4c	Impresa edile
+0b14bc	Coordinatore
+419316	Denunciare
+0ab909	Decentramento
+12a447	Direttore
+3ddc05	Scuola privata
+73a427	Farmacia
+c6816f	Fondo bilanciato
+16dc8a	Fondo prudente
+ec71b7	Fondo indicizzato
+45f66f	Forze armate
+c37936	Fabbrica
+3dbada	Nuovi ospedali
+9c4ba7	Hotel
+be9d95	Infrastrutture
+811cac	Gioielleria
+f1a9ce	Lusso
+f0a4ce	Media a 10 settimane
+d7b75b	Media a 30 settimane
+4cea5a	Media a 12 mesi
+acf6d7	Media a 36 mesi
+a53439	Metalli
+b08dc9	Metalli preziosi
+6e6700	Miniera
+476008	Metà azioni, metà obbligazioni
+372ed9	Norme ambientali rigorose
+bab2a8	Panetteria
+73b2e9	Pozzo petrolifero
+66cd78	Allevamento di bestiame
+4974cd	Reclutamento volontario
+fe7aa5	Riforma fiscale progressiva
+a3ab1f	Richiede la laurea.
+e46805	Ristorante
+31ad6e	Irrigazione moderna
+3765ce	Semiconduttori
+142fc4	Niente contanti.
+9e2534	Stop
+d458ff	Viceministro
+237e06	Tasso ai risparmiatori (rispetto al normale)
+095411	Terre rare
+de5e04	Trader
+6a2cfd	Trader senior
+159c2b	Turismo
+eda706	Uranio
+38ebc5	Vicepresidente
+1daf05	Ambiente
+8a1a4f	Difesa nazionale
+356f9e	+felicità; meno disastri
+f3ee6c	riformista onesto
+b6feb8	profilo misto
+a4f0f9	Direttive: {0}
+949c17	Ministero di {0}: «{1}». Costo {2}. {3}.
+c84ee3	{0}. Candidati:
+7c3230	La competenza migliora l’area di ogni ministero, l’onestà riduce la corruzione e la lealtà evita crisi quando li rimuovi.
+7e7d5b	In corso: {0}
+54a902	Aprire un’attività ({0})
+4ee73a	➕ Aprire un’attività ({0})
+4decd0	Aprire con i miei soldi
+76b1e3	Con prestito ({0})
+fc3a06	Ogni mese la tua impresa vende, paga materie prime, stipendi, affitto, tasse e debiti; ciò che distribuisce va nei tuoi soldi. Massimo {0} imprese.
+16f927	Per aprire in un’altra provincia, toccala sulla mappa → Aprire un’attività. La modalità ⛏️ della mappa mostra dove ci sono miniere, petrolio e coltivazioni.
+f1e4cf	Prezzo alto = più margine ma meno clienti (la domanda reagisce 1,3 volte). Qualità e stipendi alti alzano la reputazione, che attira clienti. Licenziare costa 3 mesi di stipendio (Realistica).
+f6584d	{0} filiale
+00922b	Vendere (~{0})
+64bab7	bloccata {0} giorni
+ec6a8e	Rimborsare il prestito ({0})
+5a70ff	Margine: il broker ti presta fino a metà di ciò che compri (interesse: tasso {0} + 3 punti) e ti permette di vendere allo scoperto. Se il tuo capitale scende sotto il 25 % delle azioni (30 % allo scoperto), vende posizioni in automatico (margin call).
+285e02	moneta comune
+3fcdb3	Unità di {0} per dollaro, chiusura mensile. Sale = la tua moneta si indebolisce.
+d21062	Il cambio segue la parità del potere d’acquisto (inflazione di ogni paese rispetto agli USA) più uno scarto mosso da tassi, stampa di moneta, guerre, sanzioni, colpi di Stato e crisi. I cambi fissi possono cedere a un attacco speculativo.
+0aa42e	Nessuno scossone: i prezzi hanno seguito crescita, inflazione e tassi di ogni paese.
+e3ea9e	💱 I tuoi soldi sono in {0} ({1}): 1 dollaro = {2}.
+aa0ad9	Tasso {0}: {1} %.
+e18d63	Prezzo limite
+441b31	Prezzo stop
+918dee	Azioni (lunghe)
+21f2b6	Prezzo/utili
+a11b8a	1 {0} = {1}
+fc4491	i tuoi depositi in {0} rendono {1} % l’anno (tasso {2} − 0,5)
+f90a63	spread {0} %
+395e0c	Vendere tutti i miei {0}
+5d499c	Scegli quale mercato trasmette la barra e su quale periodo si misura la variazione. Valute e materie prime si misurano per mese o anno (chiusure mensili).
+5ec2cd	Investire: {0}
+87a2fa	stoccaggio {0} % l’anno.
+f073c0	vieta l’export
+0c5830	Il prezzo sale quando manca l’offerta (guerre, territori occupati, divieti), scende quando l’economia mondiale frena, e l’oro sale con la paura.
+1e1b5d	{0} % dei tuoi soldi
+dbbe07	{0} % dei tuoi contanti
+42bc90	Titoli di Stato a 10 anni: pagano interessi ogni mese nella valuta del paese e restituiscono il capitale a scadenza. Il prezzo scende se salgono i tassi del paese (duration ~7 anni) e possono subire un taglio se il paese va in default (debito alto + crisi).
+9fac33	Fondi gestiti dalle banche ({0}…). Rendono quanto i loro attivi nel gioco, meno la commissione annua.
+0f5d6d	hai {0} ({1} %)
+518f4c	Prelevare tutto
+9b244f	Fondare una banca richiede capitale minimo e licenza dell’autorità (meglio con influenza ed esperienza finanziaria; più difficile se la regolazione è severa).
+af2dbf	Interessi attivi {0} − interessi ai risparmiatori {1} − spese {2} − accantonamenti per insolvenze {3} − tasse {4}.
+9ade7c	Se il capitale scende sotto il 4 % dei prestiti o la reputazione crolla, c’è una corsa agli sportelli.
+e26aa8	Costo totale: {0} l’anno (addebitato ogni mese).
+ebc324	I prezzi seguono gli stipendi del tuo paese.
+263902	Ogni mese il risultato dipende dai prezzi reali del gioco: azioni, materie prime, valute e obbligazioni, più la tua abilità (intelligenza {0}, finanza {1}).
+096d6a	Gruppo A
+67d0c8	Gruppo B
+7fb07d	Gruppo C
+b6bd60	Gruppo D
+16a7c9	Gruppo E
+2a4d96	Gruppo F
+dfcc6e	Gruppo G
+62e49c	Gruppo H
+2fd69e	Gruppo I
+4c0412	Gruppo J
+315943	Gruppo K
+f5801d	Gruppo L
+8ca912	{0} az.
+b254a4	costo {0}
+825b92	Limite a {0}
+929db9	Stop a {0}
+9bf9e6	{0} × {1} = {2}
+4449ea	hai {0}
+fdfb68	scade {0}
+a4db0e	Rischio di rapimento dove vivi: alto (in base al tuo patrimonio e agli omicidi del paese).
+20fe1f	Rischio di rapimento dove vivi: medio (in base al tuo patrimonio e agli omicidi del paese).
+69f96d	Rischio di rapimento dove vivi: basso (in base al tuo patrimonio e agli omicidi del paese).
+bf7352	Hai {0} barili
+e2aef3	Hai {0} milioni di BTU
+97b6dd	Hai {0} tonnellate
+5503c6	Hai {0} tonnellate di carbonato
+52e857	Hai {0} once
+bfcf9b	Hai {0} tonnellate di ossidi
+52942e	Hai {0} libbre di U₃O₈
+deb5c6	Apportare {0} di capitale
+88f7cc	{0} (ne servono {1})
+779192	Le tue imprese qui: {0}
+d63521	Domanda / capacità
+0eb8b4	euro
+3f397c	Direttive
+bcf214	Nominare
+a8e196	Ritirare
+0aaf0f	Affari Esteri
+6445d8	Debito/PIL

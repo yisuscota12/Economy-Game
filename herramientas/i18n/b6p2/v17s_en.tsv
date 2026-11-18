@@ -1,0 +1,292 @@
+65225c	Keep the ball, short passes and patience. Breaks down low blocks; suffers against a high press.
+e5beae	Possession
+5313c5	High press
+54ace6	Win the ball back high and fast. Smothers possession teams; leaves space in behind.
+700856	Wait and break quickly. Punishes high defensive lines; suffers without the ball against possession.
+fd1844	Counterattack
+4cc592	Low block
+7166e7	Defend close to the box and close the spaces. Neutralizes direct play; suffers against patient possession.
+3fc98c	Long balls and second balls. Bypasses the press; struggles against low blocks.
+93e9a6	Direct play
+037676	No extremes: adapts to the opponent. No clear advantages or weaknesses.
+56993d	Buys cheap, develops and sells to the big clubs: lives off transfer fees.
+958239	Buyer
+bfaaca	Signs stars and pays big fees; sells little and at a high price.
+275cfa	Buys and sells according to its needs.
+dce9ac	Academy club
+e914fe	Bets on its youth players: its stars arrive young and with more potential.
+18a046	Austere
+525174	Ambitious
+ef5959	Galácticos
+9bc2c5	Cheap
+2f0ada	Municipal field
+912d13	Modern center
+9c9eda	Elite center
+9d6d76	Basic center
+de9953	Sports city
+41347f	Regional academy
+5c642f	Football school
+61da4b	No academy
+9fd328	National academy
+f17aa6	Elite academy
+773471	No license
+026e9d	Win promotion
+37bc23	Avoid relegation
+4f7927	Finish in the top half
+73a7c7	Qualify for the continental cup
+ab8a73	Don't finish in the bottom three
+cd9075	Win the league
+e5fa55	Win the regional league
+5e84cb	{0} does not renew its coach, {1}, after a poor season. Replacement: {2} ({3}).
+09f1f5	{0} sacks its coach, {1}, after {2} matches of poor results. Replacement: {3} ({4}).
+63aa35	{0} leaves {1} and becomes the new coach of {2} ({3}).
+10f3a1	{0} announces the retirement of its coach, {1}. Replacement: {2} ({3}).
+409b99	A training center is missing.
+555745	A stadium with {0} seats is missing.
+96dee2	🏆 {0} wins: {1}! Prize money for the club: {2}.
+0d7844	🏗️ The city council approves the permit: construction begins ({0} months).
+ab5af1	🏗️ The city council rejects the building permit. You can apply again.
+c9a918	🏟️ The expansion is finished: your stadium now has {0} seats.
+cc455a	🏋️ Your new training center opens: {0}.
+86699e	📨 {0} offers {1} for {2}. Check ⚽ Your club → Market.
+ffe27d	💵 You put {0} of your own money into covering {1}'s losses.
+7c7649	⚖️ {0} goes into administration over its debts and is sold to a new owner. You receive {1}.
+95820c	{0} goes into administration and changes owners.
+6582d8	⚠️ {0} is in the red and you can't cover it. Sell stars, cut the wage bill or put in capital.
+c09dad	🎯 Season objective for {0}: {1}.
+d973be	✅ {0} meets the season objective ({1}): finishes in position {2}.
+517e79	❌ {0} misses the season objective ({1}): finishes in position {2}.
+e0a38b	⚖️ The league fines {0} {1} for not meeting the license requirements.
+7d20ac	⏳ {0} needs at least six months in the regional league before applying to join the {1}.
+3738fe	📋 {0} does not get the {1} license.
+f5dfa6	📋 To join the {0} you need to buy a place (franchise).
+354ea6	{0} joins the {1} and takes the place of {2}, which drops to the regional leagues.
+e51d62	🎉 {0} joins the {1}!
+a589fa	📋 {0} finishes in a promotion spot but does not get the {1} license. The next club goes up.
+379bd5	🎉 {0} is promoted to the {1}!
+579ab4	⬇️ {0} is relegated to the {1}.
+110f5e	The rules don't allow an active footballer to own a club.
+b414b3	You need to be an adult.
+abda79	You already own a club.
+dea1c7	Buying {0} costs {1}.
+bf5c17	You buy {0} for {1}. Now you decide the wage bill, signings, construction and who runs the team.
+f04535	{0} buys {1} for {2}.
+658bc4	A club with that name already exists.
+b4b78c	Founding a club costs {0}.
+cb6635	To join the {0} you need six months of competition and a stadium with {1} seats.
+db5bd7	You found {0}. It plays in the regional league and rents a municipal field with {1} seats.
+71662b	The place costs {0} and your club only has {1} in cash.
+edcfbb	You already bought the place.
+1207fd	You buy a place in the {0} for {1}. You'll join at the end of the season if you meet the license requirements.
+f2b559	You sell {0}. You receive {1} (includes the club's cash).
+5eb3f7	You don't have {0}.
+85a110	You put {0} into the club's cash.
+086101	You withdraw {0} from the club's cash.
+61b2b1	The club's cash isn't enough.
+02ea66	You already have construction under way.
+472782	The stadium can't exceed 100,000 seats.
+8e8ac6	The work costs {0} and the permit {1}.
+1c78ed	You apply for a building permit to expand the stadium by {0} seats. The city council will answer in 2 to 4 months.
+99e68e	You already have the best center.
+41d74d	You apply for a permit to build: {0}. The city council will answer in 2 to 4 months.
+476363	Construction begins: {0} (3 months).
+76cfc3	You already have the best academy.
+8c1b8b	You open your {0}: every year youth players with more potential can come through.
+afacdc	The market is closed: it opens in June and in January.
+e5c92c	{0} isn't interested in your project: your club is far below his level.
+38d1e8	The transfer costs {0} and your club has {1} in cash.
+c01f9c	Your squad already has ten stars.
+4fa5ea	{0} signs with {1}: transfer fee of {2} and salary of {3} a year.
+74e01f	No club is offering what {0} is worth right now.
+70f57f	You sell {0} to {1} for {2}.
+72ab90	You reject {0}'s offer for {1}.
+0d3252	Accepted: {0} goes to {1} for {2}.
+2ae8e9	You need {0} in cash (severance for the current coach and compensation).
+f51cb9	{0} is the new coach of {1}: {2}, salary of {3} a year.
+3ba870	To coach {0} you need the {1}.
+214503	You change the playing style to {0}. The squad needs a few months to adapt.
+3107ca	The current coach's severance costs {0}.
+4f4776	You take charge of {0}. Your strength as a coach: {1}.
+e10c49	You already have it
+f675a8	First you need the {0}
+6db1e0	One year after the previous one
+f81838	You pass the course and get the {0}. Your strength as a coach: {1} (maximum {2} with this license).
+5cdd46	Poor
+90e998	Ideal
+94144b	👤 {0} has a new coach: {1} ({2}). Your fit with his style: {3}. The coach's trust starts from zero.
+5c0411	🌱 Your academy promotes {0} ({1} years old, {2}, potential {3}).
+68c625	coaching licenses
+768bb4	⚽ Own a football club
+959325	⚽ Your football club
+e956dc	Buy a club or found one
+0e4333	Age
+3488d6	Usual formation
+3c3d15	Record (W-D-L)
+58999d	Coach quality
+be736c	In charge since
+e008d0	Regional leagues
+0cb069	Business model
+1b7d61	Estimated yearly revenue
+4397b6	Fans
+4ab4a4	Strength
+e3dbe4	Club value
+347876	Arrives from {0}
+ede971	Buy this club?
+37938f	Coach's style
+00e6b7	Squad
+94dd4a	Found
+9d8aca	Facilities
+ea9804	Licenses
+3e98e0	Regional league
+4fea0c	Starting capital (club cash)
+5ff1d4	Federation registration
+16cfa0	Minimum stadium for the license
+9d5764	Entry league
+d41547	you choose the name in the next step
+fc4a8f	🏟️ Found a club
+64c889	As a former professional footballer you take the courses in half the time.
+514290	Months coaching
+84b4ae	Maximum with this license
+b16ef5	Your license
+f09490	Your strength as a coach
+6eb203	maximum strength {0}
+eec32e	Passed
+72d389	League position
+cb5e1b	Target strength
+7bcbf6	Club cash
+76b653	Months in the regional league
+1c2f1a	💰 Sell the club
+d422e3	You receive about {0} (includes the club's cash)
+16db45	You need the {0}
+411876	your strength as a coach: {0}
+6cf571	You stop paying a coach's salary
+b892ac	📣 Coach the team yourself
+02b1bc	compensation {0}
+6fa4ca	asks {0} a year
+11b00c	Current strength
+4916f3	Squad wages per year
+eb3280	Stars' wages
+303efa	Market closed
+5dc715	rating {0}
+948086	value {0}
+05301c	Within reach
+a4114a	All
+831e83	salary {0}
+984162	Not enough cash
+c53e0e	fee {0}
+fe80e4	Not interested in your project
+257c0b	Seats
+4a8fd4	Attendance last month
+9fc8f7	permit {0}
+e40f2d	Construction already under way
+eb601c	{0} months of work
+c8194e	Yearly maintenance
+9da719	3 months of work
+cb6c1f	needs a building permit
+4c34ce	opens immediately
+181efe	Invested by you
+33f233	Operations and maintenance
+6000a1	Signings and construction
+a26d34	Sponsorship and merchandise
+b9faad	Tickets
+c56269	Player sales
+fa4a30	Average ticket price
+bad3c9	From the club's cash to your money
+bb4e9f	From your money to the club's cash
+bba8c5	you join at the end of the season if you meet the license requirements
+c941e1	📋 Buy a place in the {0}
+e1804f	Already bought
+eb067b	Club name
+3d594b	Sell your club?
+b73399	Hire
+cb5b9b	Hire this coach?
+3d7fed	Coach the team yourself?
+7decd2	Tactical fit
+7ef211	Business models
+960972	Wage bill
+86c8ea	League license
+ca62ff	Coaching licenses
+5c188c	Building permits
+e6907a	Building permit
+d6d9ac	⚽ Football manager
+40fdfb	Tap a club to see its profile.
+31f930	Attributes he values most:
+0040b2	A good fit brings you closer to a starting spot.
+ac3b03	Your club
+96f57a	Buy the club
+f8aad3	Buy
+cb3025	No transfers recorded yet.
+d5b798	Latest transfers
+01a429	Biggest spenders (12 months)
+18262e	Biggest sellers (12 months)
+a85a74	Most valuable players
+5d71d7	Values by league
+5e7363	Average revenue
+090fc2	TV per club
+f3fce9	Most expensive star
+1bcfb1	Market values follow rating, age, league and potential, as on transfer websites.
+ef43bb	Stadium (seats)
+4ce4c4	Recent transfers
+763e06	Club honours
+d1cf91	Own a club
+44989a	You buy the whole club: its stadium, its squad and its place in the league. Then you decide the wage bill, signings, construction and who runs the team. Your money:
+e0e6ea	You found a club in your city. It starts in the regional league with a rented municipal field; to join the professional league you need six months of competition and the license (a stadium with enough seats and, in the top division, a training center).
+ae7e77	Your country has no simulated second division: besides the license you need to buy a place (franchise) before joining.
+1910a3	Your country doesn't have a simulated league yet: it's created when you found the club.
+0dbdeb	Club colors:
+737c87	Coaching licenses (like those of UEFA and the federations) are earned in order: C, B, A and Pro. With the B you coach a regional club, with the A a second-division club and with the Pro a top-division club.
+f2fd94	Your strength as a coach rises every month you coach, faster with good results, up to your license's maximum.
+6a04c7	Fan mood
+650011	Season objective:
+4e3c98	Seasons
+7cd71d	Training center
+626b01	Place (franchise)
+3a7321	Six months in the regional league
+4b582a	To join the {0} at the end of its season:
+c56e24	🏟️ Minimum stadium for the license: {0}
+836e2d	Coach's salary
+e67695	Your playing style (changing it takes a few months of adaptation):
+fac21d	Squad adaptation
+1dfac7	Candidates (free agents and from other clubs; for those under contract you pay their club a year of compensation):
+7ac8f0	The wage bill places you in your league's spending table: the team's strength slowly moves toward what it pays for.
+ccdd7a	Below each name: potential and yearly salary.
+269fa8	Your club has no stars. Sign them in Market or develop youth players in your academy.
+aa4c9b	Club cash:
+05f3ed	OFFER FOR YOUR STAR
+65ff6d	{0} offers {1} for {2}.
+adb813	Offers for your stars
+c56862	Sell a star
+6e6ef8	Sign
+802049	📋 Building permit in process: the city council will answer in {0} month(s).
+e0e0de	🏗️ Construction under way: finishes in {0} month(s).
+545b3c	To be promoted to the {0} you need {1} seats and a training center.
+208445	Each level adds half a point to the target strength; the top division requires at least a basic center.
+651e5d	Every year the academy can promote a youth player: higher level, higher chance and more potential.
+426395	Last 12 months
+988b22	Cheap tickets fill the stadium and please the fans; expensive ones leave empty seats.
+2bd8d2	Capital
+1d64ab	If the cash goes into the red, you cover it from your own pocket; if you can't, the club goes into administration.
+85f0a6	Place in the league
+43321a	🏟️ Add {0} seats
+bc3292	🏋️ Build: {0}
+66a8ea	🌱 Open: {0}
+c9ec56	➕ Put in {0}
+a282f7	💵 Withdraw {0}
+6d0fa7	{0} sells {1}.
+efd38e	Leaves for {0}
+ed9d19	Course: C License
+736caf	Course: B License
+da3e10	Course: A License
+adae2d	Course: Pro License
+11b0e4	Fast-track course: C License
+db4dc9	Fast-track course: B License
+d1df7b	Fast-track course: A License
+5c4caf	Fast-track course: Pro License
+e18d07	C License
+3a0f42	B License
+dae3a0	A License
+f42d61	Pro License
+89c7d6	free agent
+de82c1	Academy
+872401	Stadium
+41e155	Table

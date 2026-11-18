@@ -1,0 +1,273 @@
+001	(+{0}/year). Tap one of your provinces → 🏗️ Build.
+002	Government actions ({0} of 2)
+003	Approval / Congress
+004	Support in congress {0} % (chance of passing a law: {1} %)
+005	no re-election
+006	non-consecutive re-election
+007	at most 2 consecutive terms
+008	unlimited re-election
+009	you rule ({0})
+010	Invest in infrastructure
+011	Economic growth
+012	Strengthen the army
+013	military spending
+014	Social reforms
+015	Propaganda
+016	Cut taxes
+017	Long-term economy
+018	Anti-inflation plan
+019	Embezzle public funds
+020	for you
+021	risk of prosecution
+022	You launch an infrastructure plan.
+023	You buy equipment and train troops.
+024	Social reforms approved.
+025	National propaganda campaign.
+026	You cut taxes. People celebrate.
+027	The central bank raises rates; inflation eases.
+028	You move funds into accounts in your name.
+029	Treasury income (high taxes)
+030	Treasury income (normal taxes)
+031	Treasury income (low taxes)
+032	Taxes (uses a government action)
+033	Taxes (uses a government action, requires a vote)
+034	High taxes
+035	Normal taxes
+036	Low taxes
+037	Revenue ×{0}
+038	You set taxes to high.
+039	You set taxes to normal.
+040	You set taxes to low.
+041	Issue bonds for {0}
+042	Rate {0} per year
+043	Repay bonds ({0})
+044	You owe {0} in your own bonds
+045	You issue bonds for {0} at a rate of {1}. Public debt rises to {2} % of GDP.
+046	You repay {0} of bonds.
+047	Civil research: level {0} → {1}
+048	Military research: level {0} → {1}
+049	Your country reaches civil technology level {0} ({1}).
+050	Your country reaches military technology level {0} ({1}).
+051	Treaties: {0} (+{1} % per year)
+052	{0} (until {1})
+053	none
+054	none
+055	Embargoes: {0} (−{1} % per year)
+056	you impose on {0}
+057	{0} imposes it on you
+058	Treasury budget ({0} per year)
+059	Whatever you don't allocate is saved in the treasury:
+060	Investment
+061	Welfare
+062	province development and growth
+063	civil and military technology
+064	pays extra troops, morale and recruits
+065	happiness and stability
+066	Uses a government action. It can be changed every 4 years. Moving from democracy to another regime cools relations with democracies and may bring sanctions.
+067	You are a vassal of {0}
+068	Armies of {0}
+069	{0} soldiers in {1} army(ies)
+070	quality {0} (spending per soldier {1}/year, SIPRI)
+071	cost of extra troops {0}/year
+072	(at sea)
+073	training
+074	morale
+075	supply
+076	quality
+077	soldiers
+078	Recruit in {0}
+079	To recruit in another province, tap it on the map before opening this sheet. Recruits train for {0} month(s) and start with low morale.
+080	Recruit {0} soldiers
+081	{0} from the treasury
+082	treasury {0}. Wars are fought month by month with your armies.
+083	Army of {0} ({1}) ready: tap the destination on the map.
+084	You have {0} of 3 diplomatic actions left this year.
+085	Each country's opinion rises with embassies and treaties and falls with ultimatums and wars.
+086	their power is {0} of yours
+087	power {0} of yours
+088	Actions ({0} diplomatic, {1} government)
+089	Only whoever governs conducts diplomacy.
+090	⚠️ Breaks the non-aggression pact: −10 stability and everyone distrusts you
+091	Improve relations
+092	Embassy and official visits
+093	Propose an alliance
+094	Chance
+095	their forces support you in war
+096	Break the alliance
+097	You lose their support
+098	Non-aggression pact (10 years)
+099	they can't attack each other without breaking it
+100	Request military access
+101	your armies can cross their territory
+102	Give up military access
+103	Guarantee their independence
+104	Always accepted
+105	if someone attacks them, they will call you to defend them
+106	Withdraw the guarantee
+107	Ultimatum: demand {0}
+108	Ultimatum: demand vassalage
+109	Accept
+110	if they refuse, you gain a casus belli (declaring war won't lower stability)
+111	the vassal pays tribute and fights at your side
+112	Integrate the vassal
+113	You annex all their territory
+114	requires 5 years of vassalage (you have {0}) and opinion 40+
+115	Release the vassal
+116	Trade treaty (10 years)
+117	both grow faster (+{0} % per year for you)
+118	Cancel the trade treaty
+119	Trade embargo
+120	Their economy loses ~{0} % per year; you lose a little too
+121	Lift the embargo
+122	Send a gift ({0})
+123	+15 to +25 opinion
+124	Insult their government
+125	−30 opinion; if they are stronger, they may declare war on you
+126	Call to arms against {0}
+127	joins with its armies
+128	Propose a union of nations
+129	Requires opinion 75+, same culture or system, and that they are weaker
+130	inflation {0}.
+131	The central bank raises the rate when inflation exceeds its target and cuts it when the economy cools (Taylor rule).
+132	You use a currency you don't issue: the rate is set by {0}.
+133	Reforms use a government action ({0} left).
+134	The market sets the price and absorbs shocks; you keep control of the rate.
+135	Hong Kong (currency board since 1983) and Saudi Arabia (3.75 per dollar since 1986) keep fixed rates. Mexico in 1994, Thailand in 1997 and Argentina in 2002 suffered devaluations when the peg stopped being credible.
+136	Every banknote backed by dollars: very credible, but no monetary policy. Requires a treasury of 5 % of GDP.
+137	Print money for the government (seigniorage): {0}
+138	Financing spending by printing money led to hyperinflation in Germany (1923), Zimbabwe (2008) and Venezuela (2016-2021).
+139	of GDP per year
+140	1 new = 1,000 old. {0}
+141	Mexico removed three zeros in 1993 (new peso), Turkey six in 2005, Brazil switched to the real in 1994 and Sierra Leone removed three zeros in 2022.
+142	Remove {0} zeros
+143	Leaves the dollar at ~{0} units.
+144	End of money printing, independent central bank, rate +8 and, if needed, removing zeros. It works like Brazil's Plano Real (1994): inflation falls within 3 years at the cost of a recession.
+145	Ecuador dollarized in 2000 after a banking crisis; El Salvador in 2001. Inflation converges to that of the US, but you lose monetary policy.
+146	You meet the criteria. {0}
+147	Criteria: {0}
+148	Croatia adopted the euro in 2023 and Bulgaria in 2026, after meeting the inflation, deficit, debt and two-year stable exchange-rate criteria.
+149	Inflation ≤ {0} % (you have {1} %)
+150	Debt ≤ 90 % of GDP (you have {0} %)
+151	Two years pegged to the euro (ERM II)
+152	Stability ≥ 40 (you have {0})
+153	Leave the euro and create your own currency
+154	You regain the rate and the exchange rate, but the transition triggers capital flight, recession and an initial devaluation.
+155	More investment and growth; you are exposed to capital flight again.
+156	Stops capital flight and speculative attacks, but reduces growth and bans buying foreign shares (like Argentina's “cepo”).
+157	You take control {0}. Now you set the rate; markets distrust it (+1 point of inflation per year while it lasts).
+158	You give autonomy back to {0}: it sets rates with its rule again (inflation and growth).
+159	You set the policy rate at {0} % ({1}). Credit becomes more expensive: it curbs inflation and growth and strengthens the currency.
+160	You set the policy rate at {0} % ({1}). Credit becomes cheaper: it boosts growth, but inflation rises and the currency weakens.
+161	For a currency board you need reserves: a treasury of at least 5 % of GDP.
+162	The {0} floats freely: the market sets the exchange rate and absorbs shocks.
+163	The {0} floats freely: the market sets the exchange rate and absorbs shocks.
+164	Managed float: the central bank smooths the movements of the {0}.
+165	Managed float: the central bank smooths the movements of the {0}.
+166	The {0} is pegged at {1} per {2}. Your rate will follow the anchor's; if your inflation exceeds the anchor's, the peg becomes vulnerable to a speculative attack.
+167	The {0} is pegged at {1} per {2}. Your rate will follow the anchor's; if your inflation exceeds the anchor's, the peg becomes vulnerable to a speculative attack.
+168	The {0} moves to a currency board at {1} per {2}. Your rate will follow the anchor's; if your inflation exceeds the anchor's, the peg becomes vulnerable to a speculative attack.
+169	The {0} moves to a currency board at {1} per {2}. Your rate will follow the anchor's; if your inflation exceeds the anchor's, the peg becomes vulnerable to a speculative attack.
+170	You order the government to be financed by printing money: {0} goes into the treasury each year. Expect more inflation and a weaker currency.
+171	You stop printing money for the government.
+172	The currency doesn't have that many zeros to remove.
+173	Stabilization plan: you stop printing, the central bank regains its autonomy and raises the rate 8 points. Inflation will fall sharply over the next 3 years; the cost is a recession and lower approval.
+174	You impose capital controls: fewer speculative attacks and less capital flight, but the economy grows less and nobody can buy shares abroad.
+175	You lift capital controls: money flows in and out freely.
+176	pegged to the US dollar ({0})
+177	pegged to the euro ({0})
+178	currency board (US dollar)
+179	currency board (euro)
+180	Lowers the exchange rate immediately; you spend reserves.
+181	More export competitiveness and more reserves; somewhat more inflation.
+182	Fill the strategic reserve ({0})
+183	Protects against supply cuts; pushes the price up.
+184	Your country doesn't issue its currency: it can't intervene in the exchange rate.
+185	You have no foreign-currency reserves.
+186	You sell {0} of reserves: the {1} strengthens.
+187	You sell {0} of reserves: the {1} strengthens.
+188	You buy {0} in dollars by issuing currency: the {1} weakens (more competitiveness, somewhat more inflation) and your reserves grow.
+189	You buy {0} in dollars by issuing currency: the {1} weakens (more competitiveness, somewhat more inflation) and your reserves grow.
+190	You need {0} in the treasury or in reserves.
+191	You buy {0} tonnes of gold ({1}).
+192	You have no gold.
+193	You sell {0} tonnes of gold: your foreign-currency reserves rise by {1}.
+194	You need {0} in the treasury.
+195	You buy {0} for your strategic reserve ({1}).
+196	Your strategic reserve is empty.
+197	You release {0}: {1} goes into the treasury and the world price falls.
+198	lax
+199	strict
+200	{0} outstanding
+201	nationalized
+202	private
+203	Lax regulation
+204	Normal regulation
+205	Strict regulation
+206	Cheap credit to companies in the poorest provinces: +development and +growth for 3 years.
+207	For infrastructure: +0.5 development in your 10 poorest provinces; debt rises.
+208	The state decides who gets credit; banks fall on the stock market and the economy grows less.
+209	You set lax banking regulation.
+210	You set normal banking regulation.
+211	You set strict banking regulation.
+212	The IMF lends {0} (half to the treasury, half to reserves). Conditions: 3 years of austerity (less growth and approval), no money printing and an independent central bank.
+213	The World Bank lends {0} for infrastructure: +0.5 development in your 10 poorest provinces and more growth for 5 years.
+214	The development bank lends {0} to companies in the poorest provinces: +development and somewhat more growth for 3 years.
+215	You nationalize the banks: the state decides whom to lend to. Banks fall on the stock market and credit becomes less efficient (−0.3 % growth per year).
+216	You reprivatize the banks: competition returns.
+217	{0} has no significant production of oil, gas, minerals or export grains.
+218	Royalties from 10 % → 35 %; less investment (−0.3 % growth per year) and the sector's companies fall on the stock market. Like Mexico with oil in 1938 or Bolivia with gas in 2006.
+219	Ban exports (uses an action): the world price rises and your market is supplied, but you lose foreign currency.
+220	You nationalize oil and mining: royalties to the treasury rise from 10 % to 35 % of the value produced, but investment falls (−0.3 % growth per year) and the sector's companies fall on the stock market.
+221	You reprivatize the sector: you sell concessions (5 % of annual value to the treasury) and investment returns; royalties go back to 10 %.
+222	You ban exports of {0}: the world price rises and the domestic market is supplied, but you lose foreign currency (it slows your growth).
+223	You lift the export ban on {0}.
+224	No recent battles.
+225	Gen. {0}
+226	Offensive (+15 % when attacking)
+227	Defensive (+15 % when defending)
+228	Logistician (−35 % attrition and better supply)
+229	Swift (+1 movement per month)
+230	Charismatic (morale recovers twice as fast)
+231	Mountaineer (+25 % in mountains and hills)
+232	Inexperienced (−10 % in battle; learns fast)
+233	barrels
+234	thousand barrels
+235	billion barrels
+236	MMBtu
+237	billion BTU
+238	billion MMBtu
+239	tonnes
+240	thousand tonnes
+241	billion tonnes
+242	tonnes of carbonate
+243	thousand tonnes of carbonate
+244	tonnes of oxides
+245	thousand tonnes of oxides
+246	ounces
+247	thousand ounces
+248	billion ounces
+249	pounds of U₃O₈
+250	thousand pounds of U₃O₈
+251	billion pounds of U₃O₈
+252	Barrels
+253	MMBtu
+254	Tonnes
+255	Tonnes of carbonate
+256	Tonnes of oxides
+257	Ounces
+258	Pounds of U₃O₈
+259	per barrel
+260	per MMBtu
+261	per tonne
+262	per tonne of carbonate
+263	per tonne of oxides
+264	per ounce
+265	per pound of U₃O₈
+266	million barrels
+267	million tonnes
+268	million ounces
+269	trillion BTU
+270	million pounds of U₃O₈
+271	million tonnes of carbonate
+272	million tonnes of oxides
+273	reserve of recruits {0} (mobilizable population)

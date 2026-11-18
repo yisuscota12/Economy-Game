@@ -1,0 +1,84 @@
+738665	Custom
+6315e0	⚙️ More options (custom)
+0b7b7b	🎯 Level of this game
+a83c17	👀 Show all options
+8e6bf4	The whole More menu is visible.
+0a6762	Advanced options open up as you progress.
+d2c872	💡 First-time explanations
+13e070	A short card the first time you open each screen.
+71231e	🧭 Next-step suggestion
+1a86f0	“You should: …” above the map.
+41dec9	↺ See the explanations again
+f4bb5f	The first-time cards appear again.
+d4b979	The mode (Quick or Realistic) is chosen when creating the game and does not change midway; the difficulty does.
+901306	The first-time explanations will appear again.
+a3a1f6	Glossary
+d5a3a2	Open up later
+c54540	at age 18
+f613c9	at age 18, with savings of one year of average wage
+87ec0c	with a net worth of 5 years of average wage
+f30956	at age 30 or when you have children
+0ff455	when you rule or join the army
+40b8f6	technical tool: it is under “Show all”
+457707	Tap to show everything now
+eb91a7	Show all
+a261bb	All options in the More menu are visible. You can hide them again in Settings.
+f8aa55	First time here
+4be0e2	You should:
+52cddd	📘 You spent more than you earned: your savings covered the difference.
+873c19	📘 Your net worth grew more than your net pay: your accounts, investments or companies also earned you money.
+e943dd	📘 Your net worth fell by more than your spending: an investment, company or purchase lost value.
+afc8ee	New option in More
+0930b8	Risk at your bank
+edd50c	Check the warning in your history.
+227673	Economics and finance terms used by the game. In Easy mode they appear underlined on the money and country screens: tap them to see what they mean.
+e0281e	Levels
+64968c	Levels and Easy mode
+b0e217	Not now
+539e07	Share (stock)
+0ad20e	Average wage
+375cfc	Interest rate
+0637e8	Diversify
+2401fc	{0} economics and finance terms, explained
+c0e8eb	📘 Your year in numbers: income of {0} and living costs of {1}; your net worth went from {2} to {3}.
+5c4c5c	🔓 Now open in More: {0}
+a39604	💡 Did you know…? {0} (Source: {1})
+e62b0a	⚠️ You have {0} at {1}: deposit insurance covers up to {2} per bank. If that bank fails, you can lose the difference; spreading your money across several banks reduces the risk.
+67799a	⚠️ You have {0} at {1} and your country has no deposit insurance: if the bank fails, you can lose it all. Spreading your money across several large banks reduces the risk.
+24a9c6	{0} (will be overwritten)
+180bc0	For those new to the game or to how the economy works: simple rules and more leeway; advanced options open up little by little and each screen is explained the first time. One life: 10–15 min.
+51f252	Calibrated with real data and simple rules: automatic pay and expenses, wars with one battle a year, everything visible. One life: 10–15 min.
+ed96d3	All mechanics: taxes, inflation, loans, month-by-month wars, diseases, congress and trials. One life: 30–60 min.
+b23482	Keeping money in a bank protects it and earns interest (the deposit rate). Small banks pay more because they fail more often; if one fails, your country’s deposit insurance returns up to a cap per bank. Here you also take out loans: the interest depends on your credit history.
+55147a	A share is a small piece of a company. If the company does well, the price rises and some pay dividends; if it does badly, you can lose. Buying companies from different sectors (diversifying) reduces the damage when a single one falls.
+55c1d6	A company sells every month and pays for supplies, wages, rent, taxes and debts; what is left is the profit, and what it pays out reaches your money. Starting small and reinvesting is safer than borrowing to grow fast.
+361159	Services you pay for every month: protection, health, help at home. They improve your life or lower risks (for example, kidnapping when you have a lot of money), but they are a fixed cost: hire them when your income can carry them.
+e8c16a	Your money for the year: gross income minus living costs (and, in Realistic, taxes and loan payments) gives your net. If the net is negative, you spend more than you earn and your savings shrink.
+67b11d	Here you decide how to spend your time. Each activity costs time or money and moves your stats: studying raises intelligence; the gym, health; family, happiness. Those stats decide which doors open later.
+d40bce	How you earn a living. A job pays from day one; university takes years but opens better-paid jobs; the careers to power (politics, army, business) lead to ruling. Wages come from your country’s real average wage.
+40dca5	What you own: house, cars and other assets. Your net worth is everything you own (cash, accounts, investments and assets) minus what you owe.
+c63650	Your relationships: family, partner, friends and contacts. They cool off if you don’t give them time; contacts open jobs and deals for you.
+427549	Your ambition is the goal you chose for this life: here you see how far you have to go and the achievements you already have.
+ecab87	Each country with real 2026 data: population, economy, army and relations with other countries. What happens in yours (wars, crises, wages) affects you too.
+81e3ae	🩺 Your health is low: see a doctor or go to the gym.
+f01ef9	🌴 Your happiness is low: spend time with your family or take a vacation.
+831c8b	📚 Study: intelligence raises your grades and opens better careers.
+999b71	💼 Find a job or go to university: it is your first source of income.
+552684	📉 You spend more than you earn: look for a better-paid job or get more training.
+7c420a	🏦 You have idle cash: in a bank account it earns interest.
+e0d9d7	📈 Diversify: put part of your savings into an investment fund.
+2d319d	🏪 You could start a business now: a company can give you more than a salary.
+842059	The general rise in prices over a year. With 5 % inflation, what cost $100 costs $105: if your pay does not rise as much, you can buy less.
+dcfd47	Gross domestic product: the value of everything a country produces in a year. It measures the size of its economy.
+6196eb	GDP divided by the population. It is used to compare how rich each country is on average.
+dc4239	The typical annual pay of a worker in the country. The game uses it as the basis for wages and prices.
+155753	The price of money over time, in % per year: what the bank pays you to keep your money or charges you to lend it.
+ea86c4	A government guarantee: if your bank fails, it returns your deposits up to a cap per bank. Anything above the cap can be lost.
+1327d2	A small piece of a company that is bought and sold on the stock exchange. Its price rises or falls with what is expected of the company.
+a5b042	The part of its profits a company pays out to its shareholders.
+c2858c	Spreading your money across several different investments so that a fall in one does not hurt you too much.
+cf2009	What is left of sales after paying all costs. If it is negative, the company loses money.
+bdc70a	Everything you own (cash, accounts, investments and assets) minus everything you owe.
+a8a375	A rating of how reliable you are at paying back. With a good history, you can borrow more at lower interest.
+086033	What you pay the government on your income and purchases. It pays for schools, hospitals, the army and public works.
+baef67	When a company or bank cannot pay what it owes and closes or is taken over.

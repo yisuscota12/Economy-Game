@@ -1,0 +1,273 @@
+001	(+{0}/anno). Tocca una tua provincia → 🏗️ Costruisci.
+002	Azioni di governo ({0} su 2)
+003	Approvazione / Congresso
+004	Sostegno nel congresso {0} % (probabilità di approvare una legge: {1} %)
+005	nessuna rielezione
+006	rielezione non consecutiva
+007	al massimo 2 mandati consecutivi
+008	rielezione senza limiti
+009	governi tu ({0})
+010	Investire in infrastrutture
+011	Crescita economica
+012	Rafforzare l'esercito
+013	spesa militare
+014	Riforme sociali
+015	Propaganda
+016	Abbassare le tasse
+017	Economia a lungo termine
+018	Piano anti-inflazione
+019	Sottrarre fondi pubblici
+020	per te
+021	rischio di processo
+022	Lanci un piano di infrastrutture.
+023	Compri equipaggiamento e addestri truppe.
+024	Riforme sociali approvate.
+025	Campagna di propaganda nazionale.
+026	Abbassi le tasse. La gente festeggia.
+027	La banca centrale alza i tassi; l'inflazione cala.
+028	Sottrai fondi verso conti a tuo nome.
+029	Entrate del tesoro (tasse alte)
+030	Entrate del tesoro (tasse normali)
+031	Entrate del tesoro (tasse basse)
+032	Tasse (usa un'azione di governo)
+033	Tasse (usa un'azione di governo, richiede un voto)
+034	Tasse alte
+035	Tasse normali
+036	Tasse basse
+037	Entrate ×{0}
+038	Fissi le tasse a livello alto.
+039	Fissi le tasse a livello normale.
+040	Fissi le tasse a livello basso.
+041	Emettere obbligazioni per {0}
+042	Tasso {0} all'anno
+043	Rimborsare obbligazioni ({0})
+044	Devi {0} in obbligazioni proprie
+045	Emetti obbligazioni per {0} a un tasso del {1}. Il debito pubblico sale al {2} % del PIL.
+046	Rimborsi {0} di obbligazioni.
+047	Ricerca civile: livello {0} → {1}
+048	Ricerca militare: livello {0} → {1}
+049	Il tuo paese raggiunge il livello {0} di tecnologia civile ({1}).
+050	Il tuo paese raggiunge il livello {0} di tecnologia militare ({1}).
+051	Trattati: {0} (+{1} % all'anno)
+052	{0} (fino al {1})
+053	nessuno
+054	nessuna
+055	Embarghi: {0} (−{1} % all'anno)
+056	lo imponi a {0}
+057	{0} te lo impone
+058	Bilancio del tesoro ({0} all'anno)
+059	Ciò che non assegni viene risparmiato nel tesoro:
+060	Investimento
+061	Benessere
+062	sviluppo delle province e crescita
+063	tecnologia civile e militare
+064	paga truppe extra, morale e reclute
+065	felicità e stabilità
+066	Usa un'azione di governo. Si può cambiare ogni 4 anni. Passare dalla democrazia a un altro regime raffredda i rapporti con le democrazie e può portare sanzioni.
+067	Sei vassallo di {0}
+068	Eserciti di {0}
+069	{0} soldati in {1} esercito/i
+070	qualità {0} (spesa per soldato {1}/anno, SIPRI)
+071	costo delle truppe extra {0}/anno
+072	(in mare)
+073	in addestramento
+074	morale
+075	rifornimento
+076	qualità
+077	soldati
+078	Reclutare a {0}
+079	Per reclutare in un'altra provincia, toccala sulla mappa prima di aprire questa scheda. Le reclute si addestrano per {0} mese/i e partono con il morale basso.
+080	Reclutare {0} soldati
+081	{0} dal tesoro
+082	tesoro {0}. Le guerre si giocano mese per mese con i tuoi eserciti.
+083	Esercito di {0} ({1}) pronto: tocca la destinazione sulla mappa.
+084	Ti restano {0} azioni diplomatiche su 3 quest'anno.
+085	L'opinione di ogni paese sale con ambasciate e trattati e scende con ultimatum e guerre.
+086	la sua potenza è il {0} della tua
+087	potenza {0} della tua
+088	Azioni ({0} diplomatiche, {1} di governo)
+089	Solo chi governa fa diplomazia.
+090	⚠️ Rompe il patto di non aggressione: −10 di stabilità e tutti diffidano di te
+091	Migliorare le relazioni
+092	Ambasciata e visite ufficiali
+093	Proporre un'alleanza
+094	Probabilità
+095	le sue forze ti appoggiano in guerra
+096	Rompere l'alleanza
+097	Perdi il suo appoggio
+098	Patto di non aggressione (10 anni)
+099	non potrete attaccarvi senza romperlo
+100	Chiedere l'accesso militare
+101	i tuoi eserciti possono attraversare il suo territorio
+102	Rinunciare all'accesso militare
+103	Garantire la sua indipendenza
+104	Accettano sempre
+105	se qualcuno li attacca, ti chiameranno a difenderli
+106	Ritirare la garanzia
+107	Ultimatum: esigere {0}
+108	Ultimatum: esigere il vassallaggio
+109	Accettazione
+110	se rifiutano, ottieni un casus belli (dichiararla non abbassa la stabilità)
+111	il vassallo paga un tributo e combatte al tuo fianco
+112	Integrare il vassallo
+113	Annetti tutto il suo territorio
+114	richiede 5 anni di vassallaggio (ne hai {0}) e opinione 40+
+115	Liberare il vassallo
+116	Trattato commerciale (10 anni)
+117	crescete entrambi di più (+{0} % all'anno per te)
+118	Annullare il trattato commerciale
+119	Embargo commerciale
+120	La sua economia perde ~{0} % all'anno; anche tu perdi un po'
+121	Revocare l'embargo
+122	Inviare un regalo ({0})
+123	da +15 a +25 di opinione
+124	Insultare il suo governo
+125	−30 di opinione; se sono più forti, possono dichiararti guerra
+126	Chiamare alle armi contro {0}
+127	entra con i suoi eserciti
+128	Proporre un'unione di nazioni
+129	Richiede opinione 75+, stessa cultura o sistema e che siano più deboli
+130	inflazione {0}.
+131	La banca centrale alza il tasso quando l'inflazione supera l'obiettivo e lo abbassa quando l'economia si raffredda (regola di Taylor).
+132	Usi una valuta che non emetti: il tasso lo fissa {0}.
+133	Le riforme usano un'azione di governo (te ne restano {0}).
+134	Il mercato fissa il prezzo e assorbe gli shock; tu mantieni il tasso.
+135	Hong Kong (currency board dal 1983) e l'Arabia Saudita (3,75 per dollaro dal 1986) mantengono cambi fissi. Il Messico nel 1994, la Thailandia nel 1997 e l'Argentina nel 2002 subirono svalutazioni quando il cambio fisso smise di essere credibile.
+136	Ogni banconota garantita da dollari: molto credibile, ma senza politica monetaria. Richiede un tesoro pari al 5 % del PIL.
+137	Stampare moneta per il governo (signoraggio): {0}
+138	Finanziare la spesa stampando moneta ha portato all'iperinflazione in Germania (1923), Zimbabwe (2008) e Venezuela (2016-2021).
+139	del PIL all'anno
+140	1 nuovo = 1.000 vecchi. {0}
+141	Il Messico tolse tre zeri nel 1993 (nuovo peso), la Turchia sei nel 2005, il Brasile passò al real nel 1994 e la Sierra Leone tolse tre zeri nel 2022.
+142	Togliere {0} zeri
+143	Porta il dollaro a ~{0} unità.
+144	Fine dell'emissione, banca centrale autonoma, tasso +8 e, se serve, togliere zeri. Funziona come il Plano Real del Brasile (1994): l'inflazione scende in 3 anni al prezzo di una recessione.
+145	L'Ecuador si è dollarizzato nel 2000 dopo una crisi bancaria; El Salvador nel 2001. L'inflazione converge a quella degli USA, ma perdi la politica monetaria.
+146	Rispetti i criteri. {0}
+147	Criteri: {0}
+148	La Croazia ha adottato l'euro nel 2023 e la Bulgaria nel 2026, dopo aver rispettato inflazione, deficit, debito e due anni di cambio stabile.
+149	Inflazione ≤ {0} % (hai {1} %)
+150	Debito ≤ 90 % del PIL (hai {0} %)
+151	Due anni ancorato all'euro (AEC II)
+152	Stabilità ≥ 40 (hai {0})
+153	Uscire dall'euro e creare una moneta propria
+154	Recuperi tasso e cambio, ma la transizione provoca fuga di capitali, recessione e una svalutazione iniziale.
+155	Più investimenti e crescita; torni esposto alle fughe di capitali.
+156	Frena fughe e attacchi speculativi, ma riduce la crescita e vieta di comprare azioni estere (come il “cepo” argentino).
+157	Prendi il controllo {0}. Ora il tasso lo fissi tu; i mercati diffidano (+1 punto di inflazione all'anno finché dura).
+158	Restituisci l'autonomia a {0}: torna a fissare i tassi con la sua regola (inflazione e crescita).
+159	Fissi il tasso di riferimento al {0} % ({1}). Il credito rincara: frena inflazione e crescita e rafforza la moneta.
+160	Fissi il tasso di riferimento al {0} % ({1}). Il credito costa meno: spinge la crescita, ma l'inflazione sale e la moneta si indebolisce.
+161	Per un currency board servono riserve: un tesoro di almeno il 5 % del PIL.
+162	Il {0} fluttua liberamente: il mercato fissa il cambio e assorbe gli shock.
+163	La {0} fluttua liberamente: il mercato fissa il cambio e assorbe gli shock.
+164	Fluttuazione gestita: la banca centrale attenua i movimenti del {0}.
+165	Fluttuazione gestita: la banca centrale attenua i movimenti della {0}.
+166	Il {0} resta fisso a {1} per {2}. Il tuo tasso seguirà quello dell'ancora; se la tua inflazione supera quella dell'ancora, il cambio fisso diventa vulnerabile a un attacco speculativo.
+167	La {0} resta fissa a {1} per {2}. Il tuo tasso seguirà quello dell'ancora; se la tua inflazione supera quella dell'ancora, il cambio fisso diventa vulnerabile a un attacco speculativo.
+168	Il {0} passa a un currency board a {1} per {2}. Il tuo tasso seguirà quello dell'ancora; se la tua inflazione supera quella dell'ancora, il cambio fisso diventa vulnerabile a un attacco speculativo.
+169	La {0} passa a un currency board a {1} per {2}. Il tuo tasso seguirà quello dell'ancora; se la tua inflazione supera quella dell'ancora, il cambio fisso diventa vulnerabile a un attacco speculativo.
+170	Ordini di finanziare il governo stampando moneta: {0} entra nel tesoro ogni anno. Aspettati più inflazione e una moneta più debole.
+171	Smetti di stampare moneta per il governo.
+172	La moneta non ha così tanti zeri da togliere.
+173	Piano di stabilizzazione: smetti di stampare, la banca centrale recupera l'autonomia e alza il tasso di 8 punti. L'inflazione scenderà con forza nei prossimi 3 anni; il costo è una recessione e meno approvazione.
+174	Imponi controlli sui capitali: meno attacchi speculativi e fughe, ma l'economia cresce meno e nessuno può comprare azioni all'estero.
+175	Revochi i controlli sui capitali: il denaro entra ed esce liberamente.
+176	fisso sul dollaro statunitense ({0})
+177	fisso sull'euro ({0})
+178	currency board (dollaro statunitense)
+179	currency board (euro)
+180	Abbassa subito il tasso di cambio; spendi riserve.
+181	Più competitività nell'export e più riserve; un po' più di inflazione.
+182	Riempire la riserva strategica ({0})
+183	Protegge dai tagli alle forniture; spinge il prezzo al rialzo.
+184	Il tuo paese non emette la sua moneta: non può intervenire sul cambio.
+185	Non hai riserve in valuta.
+186	Vendi {0} di riserve: il {1} si rafforza.
+187	Vendi {0} di riserve: la {1} si rafforza.
+188	Compri {0} in dollari emettendo moneta: il {1} si indebolisce (più competitività, un po' più di inflazione) e le tue riserve crescono.
+189	Compri {0} in dollari emettendo moneta: la {1} si indebolisce (più competitività, un po' più di inflazione) e le tue riserve crescono.
+190	Ti servono {0} nel tesoro o nelle riserve.
+191	Compri {0} tonnellate d'oro ({1}).
+192	Non hai oro.
+193	Vendi {0} tonnellate d'oro: le tue riserve in valuta salgono di {1}.
+194	Ti servono {0} nel tesoro.
+195	Compri {0} per la tua riserva strategica ({1}).
+196	La tua riserva strategica è vuota.
+197	Liberi {0}: entrano {1} nel tesoro e il prezzo mondiale scende.
+198	permissiva
+199	rigida
+200	{0} da restituire
+201	nazionalizzata
+202	privata
+203	Regolamentazione permissiva
+204	Regolamentazione normale
+205	Regolamentazione rigida
+206	Credito a basso costo alle imprese delle province più povere: +sviluppo e +crescita per 3 anni.
+207	Per infrastrutture: +0,5 di sviluppo nelle tue 10 province più povere; il debito sale.
+208	Lo Stato decide il credito; le banche crollano in borsa e l'economia cresce meno.
+209	Fissi una regolamentazione bancaria permissiva.
+210	Fissi una regolamentazione bancaria normale.
+211	Fissi una regolamentazione bancaria rigida.
+212	Il FMI presta {0} (metà al tesoro, metà alle riserve). Condizioni: 3 anni di austerità (meno crescita e approvazione), niente stampa di moneta e banca centrale autonoma.
+213	La Banca Mondiale presta {0} per infrastrutture: +0,5 di sviluppo nelle tue 10 province più povere e più crescita per 5 anni.
+214	La banca di sviluppo presta {0} alle imprese delle province più povere: +sviluppo e un po' più di crescita per 3 anni.
+215	Nazionalizzi le banche: lo Stato decide a chi prestare. Le banche crollano in borsa e il credito diventa meno efficiente (−0,3 % di crescita all'anno).
+216	Riprivatizzi le banche: torna la concorrenza.
+217	{0} non ha una produzione rilevante di petrolio, gas, minerali né cereali da esportazione.
+218	Royalty dal 10 % → 35 %; meno investimenti (−0,3 % di crescita all'anno) e le imprese del settore crollano in borsa. Come il Messico con il petrolio nel 1938 o la Bolivia con il gas nel 2006.
+219	Vietare le esportazioni (usa un'azione): il prezzo mondiale sale e rifornisci il tuo mercato, ma perdi valuta.
+220	Nazionalizzi petrolio e miniere: le royalty al tesoro salgono dal 10 % al 35 % del valore prodotto, ma gli investimenti calano (−0,3 % di crescita all'anno) e le imprese del settore crollano in borsa.
+221	Riprivatizzi il settore: vendi concessioni (5 % del valore annuo al tesoro) e gli investimenti tornano; le royalty tornano al 10 %.
+222	Vieti di esportare {0}: il prezzo mondiale sale e il mercato interno si rifornisce, ma perdi valuta (frena la tua crescita).
+223	Revochi il divieto di esportare {0}.
+224	Nessuna battaglia recente.
+225	Gen. {0}
+226	Offensivo (+15 % in attacco)
+227	Difensivo (+15 % in difesa)
+228	Logistico (−35 % di logoramento e rifornimenti migliori)
+229	Veloce (+1 di movimento al mese)
+230	Carismatico (il morale si recupera il doppio)
+231	Montanaro (+25 % in montagna e collina)
+232	Inesperto (−10 % in battaglia; impara in fretta)
+233	barili
+234	mila barili
+235	miliardi di barili
+236	milioni di BTU
+237	migliaia di milioni di BTU
+238	miliardi di milioni di BTU
+239	tonnellate
+240	mila tonnellate
+241	miliardi di tonnellate
+242	tonnellate di carbonato
+243	mila tonnellate di carbonato
+244	tonnellate di ossidi
+245	mila tonnellate di ossidi
+246	once
+247	mila once
+248	miliardi di once
+249	libbre di U₃O₈
+250	mila libbre di U₃O₈
+251	miliardi di libbre di U₃O₈
+252	Barili
+253	Milioni di BTU
+254	Tonnellate
+255	Tonnellate di carbonato
+256	Tonnellate di ossidi
+257	Once
+258	Libbre di U₃O₈
+259	al barile
+260	per milione di BTU
+261	per tonnellata
+262	per tonnellata di carbonato
+263	per tonnellata di ossidi
+264	per oncia
+265	per libbra di U₃O₈
+266	milioni di barili
+267	milioni di tonnellate
+268	milioni di once
+269	mila miliardi di BTU
+270	milioni di libbre di U₃O₈
+271	milioni di tonnellate di carbonato
+272	milioni di tonnellate di ossidi
+273	riserva di reclute {0} (popolazione mobilitabile)

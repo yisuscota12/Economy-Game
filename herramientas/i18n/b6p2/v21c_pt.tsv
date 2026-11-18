@@ -1,0 +1,197 @@
+c627fc	Saúde da economia
+be67ec	Empresas
+d55063	Bancos
+847b37	Governo
+583f1c	Mundo
+f20262	Risco
+bef920	Cada medidor vai de 0 a 100 e mostra o que o faz subir e o que o faz cair.
+e80e50	Toque em um medidor para ver suas causas.
+b3c287	Você ainda não tem empresas. Abra-as em 🏪 Minhas empresas: aqui você verá a saúde delas.
+833d4b	Setores diferentes
+a2b510	Setor mais fraco
+eac819	Suas empresas dependem de poucos setores: se um cai, caem juntas.
+e29b75	Diversificar em outros ramos distribui o risco.
+ae22f1	Financeira: margem, reputação, crescimento e dívida (a mesma que os compradores usam).
+9b729e	Social: salários, carga de trabalho, reputação, prejuízos, seu setor e sua província.
+b1a4a9	Abaixo de 30 há insatisfação e a reputação cai todo mês.
+6b1098	Saúde financeira
+42ad83	Saúde social
+c16a01	Margem de lucro
+56ba2a	Reputação
+04161f	Crescimento das vendas
+fe1343	Dívida em relação às vendas
+5908a8	Salários em relação ao mercado
+8fb0ac	Carga de trabalho
+57396c	Prejuízos que ameaçam empregos
+6d5a5a	Saúde do seu setor
+0b5c1a	Demanda da província
+3c6663	Saúde das suas empresas
+cab686	Diversificação
+b6aa21	Endividamento
+12a447	Diretor
+d01aa6	Recuperação natural
+bc3174	Regulação
+e770f6	Recessão
+ac8b72	Alta dos juros
+181407	Estabilidade política
+99a07b	Programa de austeridade
+a6275b	Capital em relação aos empréstimos
+4a069d	Custo da dívida em relação ao crescimento
+ee29ef	Tesouro
+37c1e3	Reservas internacionais
+e03871	Inflação
+824c69	Programa do FMI
+b82b50	Guerra
+eb3bfb	Aprovação do governo
+a42fbe	Felicidade da população
+45edda	Crescimento mundial
+3a99c4	Países em crise bancária
+f1ab57	Países em recessão
+2091ec	Preço do petróleo
+8dddb5	Bancos fracos
+bdd0f8	Crise bancária em curso
+b75288	Setores frágeis
+100dc0	Economia concentrada
+bc6c8f	Contágio dos vizinhos
+a16c6a	Receitas em relação às despesas
+29ce23	Caixa
+6a04c7	Ânimo da torcida
+3090ad	Dívida pública
+53ba43	Dívida pública alta
+1282f9	Reservas que amortecem
+4ce7b0	Famílias em dificuldade
+24ffb7	Programas do FMI ativos
+3cfdcc	Crítica
+b44405	Frágil
+e9c0f4	Estável
+35bf06	Saudável
+bb90d1	Baixo
+fd0855	Moderado
+f46edd	Alto
+86df48	Muito alto
+a822ef	Tudo no nível normal.
+07316f	meses de despesas
+296312	Bancos de {0}
+54dd5c	Crise bancária em andamento
+2fde65	Risco de crise bancária este ano: {0}
+c88199	O que a move este ano (pontos por ano):
+98bce2	Os bancos emprestam o dinheiro dos poupadores a empresas e famílias.
+6aab89	Se seus devedores deixam de pagar, eles perdem capital.
+0bd708	Com pouco capital, uma onda de calotes vira crise e o crédito congela.
+100cc9	Suas contas
+8b0fcd	Saldo
+7b221e	Se um banco quebra, o seguro de depósitos do seu país devolve até um teto por banco: dividir suas economias entre vários bancos protege mais.
+4d1f43	Seu banco
+90753c	Capital em relação aos empréstimos: {0} %
+5b467c	Depósitos
+a28712	As regras internacionais de Basileia III exigem dos bancos um capital de alta qualidade de pelo menos 7 % de seus ativos ponderados pelo risco.
+6d5585	No jogo, 20 % de capital em relação aos empréstimos é saúde 100.
+852e14	{0} % do PIB
+ac0e8f	Taxa dos títulos
+5bf106	Aprovação
+78f460	Saúde fiscal
+d60f47	Um governo saudável paga sua dívida sem se afogar: pouca dívida, juros abaixo do seu crescimento e reservas para emergências.
+0d6a06	Se a saúde fiscal cai abaixo de 35, os servidores públicos ficam sem aumentos.
+193b1c	Abaixo de 15 há cortes de vagas.
+a0f2d9	A saúde social reúne aprovação, estabilidade, felicidade, consumo e inflação.
+3bfeab	Cai com guerras, recessões e austeridade, e uma sociedade em dificuldade consome menos.
+fcc28f	FMI e sistema financeiro mundial
+6ad6fc	Sistema financeiro mundial
+bb31d7	Programas do FMI
+273d37	O FMI empresta a países em crise em troca de um programa de ajuste.
+f0aaaa	O Banco Mundial financia projetos de desenvolvimento.
+8a1b71	Quando muitas economias caem ao mesmo tempo, o contágio se alimenta sozinho.
+fd103d	Banco Mundial
+e2386f	Países com projetos do Banco Mundial: {0}.
+21dfbe	Suas organizações
+a1868f	Quando você tiver um banco, um clube ou uma academia próprios, a saúde deles aparece aqui.
+ac3b03	Seu clube
+12ae18	Sua academia
+02639e	Sua promotora
+105504	Risco sistêmico
+064aa8	Risco sistêmico de {0}
+a1f2a5	Risco sistêmico é a probabilidade de que a queda de uma parte arraste todo o sistema.
+26e90d	Aqui 0 é tranquilo e 100 é uma crise prestes a estourar.
+773e69	Cadeia de contágio
+db530e	O cliente mais fraco dos bancos
+8aad51	Se {0} continuar caindo, suas dívidas não pagas atingem os bancos.
+8665aa	Com menos crédito, as famílias consomem menos e isso atinge todos os setores: é assim que uma crise se espalha.
+88e038	Vizinhos em crise
+f845e6	Nenhum vizinho está em crise bancária nem em recessão.
+6a5d23	Quando estoura uma crise bancária, os bancos dos países vizinhos levam um golpe proporcional ao tamanho dessa economia.
+cd67b0	Se for uma economia muito grande, o mundo inteiro sente.
+fd0200	Países com mais risco
+99ff29	Saúde da empresa
+77fb83	Saúde de todas as suas empresas
+ecd4cd	Saúde das suas empresas
+d9b22f	Saúde e risco
+ee9446	Empresas, bancos, governo, organizações e risco de contágio
+cbc3a1	Seu empregador: o governo
+b2fc1a	saúde fiscal
+2783a0	Seu setor
+0c6be4	Risco de corte: {0} % ao ano
+bd4e96	Sem risco de corte por enquanto
+678483	Aumentos congelados enquanto continuar abaixo de 35.
+bccfc6	Bom momento: cada avaliação soma até {0} % extra.
+841404	Aumentos normais.
+b5d240	Aposentada
+d40fe7	Aposentado
+635017	Trabalha no governo
+040572	Trabalha em {0}
+1872e6	Procura emprego
+deeb2b	Procura emprego há 1 mês
+46f7dd	Procura emprego há {0} meses
+951e84	Ajudar com dinheiro ({0})
+d81819	+Relação, enquanto procura emprego
+7cf003	Você dá {0} a {1} enquanto procura emprego.
+48cd53	Risco sistêmico por país
+ee24bf	alto
+98973d	baixo
+c121f9	🏭 O setor de uma das suas empresas está fraco: diversifique em outro ramo e confira a saúde dela em 🩺.
+50bad6	Aqui você vê o quão saudáveis estão suas empresas, os bancos, o governo e o mundo. Se um setor cai, arrasta seus fornecedores, os bancos que lhe emprestaram e quem trabalha nele: é assim que uma crise se espalha.
+74ec80	Em 15 de setembro de 2008 quebrou o banco de investimento Lehman Brothers. Em 2009 a economia mundial encolheu pela primeira vez desde a Segunda Guerra Mundial.
+4f2eb0	Fundo Monetário Internacional
+4cbdf7	Na crise de 1994–1995 («efeito tequila») o PIB do México caiu cerca de 6 % em 1995, e a crise se espalhou para outros mercados da América Latina.
+79d6fc	INEGI; Banco Mundial
+04ae42	A crise asiática começou em 2 de julho de 1997, quando a Tailândia deixou sua moeda flutuar. Espalhou-se para a Indonésia, a Coreia do Sul e a Malásia, e o PIB da Indonésia caiu mais de 13 % em 1998.
+d7ae94	Depois da crise de 2008, o desemprego nos Estados Unidos chegou a 10 % em outubro de 2009.
+c8c13f	Escritório de Estatísticas do Trabalho dos EUA
+55a2d3	As regras de Basileia III exigem dos bancos um capital de alta qualidade de pelo menos 7 % de seus ativos ponderados pelo risco (4,5 % mínimo mais 2,5 % de colchão).
+fb747d	Banco de Compensações Internacionais
+668c82	Nos Estados Unidos o seguro de depósitos cobre até 250.000 dólares por pessoa em cada banco. No México o IPAB cobre até 400.000 UDIS.
+22be78	FDIC; IPAB
+8d4ec0	Um banco é «sistêmico» quando sua quebra arrastaria todo o sistema financeiro. Por isso, dos maiores do mundo se exige mais capital.
+a8c2e4	Conselho de Estabilidade Financeira
+549599	Contágio financeiro
+ee35bc	Resgate bancário
+d60368	Solvência
+4828c7	Liquidez
+3a4bbf	Exigência de capital
+4ff337	Desemprego
+65b36c	Risco de que a queda de uma empresa, um banco ou um setor arraste todo o sistema econômico, porque todos estão conectados por créditos, vendas e empregos.
+467500	Quando a crise de um país, um banco ou um setor se transmite a outros: por dívidas que não são pagas, pânico dos investidores ou menos comércio.
+288d08	Quando o governo (ou o FMI) põe dinheiro para salvar bancos com problemas e evitar que o crédito congele. Quem paga são os contribuintes.
+98807d	Capacidade de pagar todas as suas dívidas com o que você tem. Uma empresa ou banco é insolvente quando deve mais do que vale.
+fbaa3c	Dinheiro disponível para pagar já. Uma empresa pode ser lucrativa e mesmo assim quebrar se ficar sem caixa para pagar salários e fornecedores.
+01763d	Parte dos seus ativos que um banco deve ter com dinheiro próprio (não emprestado) para absorver perdas sem quebrar.
+c77844	Pessoas que querem trabalhar e procuram emprego, mas não têm. Sobe quando os setores onde trabalham entram em crise.
+346242	Saúde da economia e contágio
+bf63fc	🌐 Contágio: a crise bancária de {0} atinge os bancos de {1}.
+7d2019	Contágio mundial: a crise bancária de {0} atinge os bancos do mundo inteiro.
+829b26	🏛️ {0} perde o emprego no governo: a saúde fiscal está em {1}/100.
+3de1d0	📉 {0} perde o emprego em {1}: o setor está em {2}/100.
+6b921c	📈 {0} recebe um aumento: o governo pode pagar (saúde fiscal {1}/100).
+684779	📈 {0} recebe um aumento: {1} vai bem ({2}/100).
+e2a88b	💼 {0} consegue emprego no governo depois de 1 mês.
+068e68	💼 {0} consegue emprego no governo depois de {1} meses.
+a1fcf1	💼 {0} consegue emprego em {1} depois de 1 mês.
+d17698	💼 {0} consegue emprego em {1} depois de {2} meses.
+cffffe	📉 O governo corta vagas: sua saúde fiscal está em {0}/100.
+d1bded	📉 {0} corta pessoal: {1} está em {2}/100.
+a2e72c	⏸️ O governo congela os salários públicos: sua saúde fiscal está em {0}/100 e seu aumento de {1} % é revertido.
+572d28	⏸️ {0} congela os aumentos: {1} está em {2}/100 e seu aumento de {3} % é revertido.
+b57143	📈 A boa saúde fiscal do governo ({0}/100) soma {1} % ao seu salário.
+56b32e	📈 O bom momento de {0} ({1}/100) soma {2} % ao seu salário.
+2d4e49	😠 Insatisfação em {0}: salários baixos ou excesso de trabalho prejudicam sua reputação.
+aa957c	Toque em alguém para interagir (uma vez por ano por pessoa).
+f3f8bb	Relações fortes abrem favores, empréstimos e trabalhos, e os rivais podem sabotar você.

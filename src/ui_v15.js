@@ -1,0 +1,80 @@
+/* ===== v1.5a: barra de cotizaciones, mesa de operaciones y fondo, servicios, forex y reservas ===== */
+(function(){const st=document.createElement('style');st.textContent=`
+#mtick{margin:4px 0 0;border:1px solid #243244;border-radius:10px;background:#070c12;overflow:hidden;white-space:nowrap;font:600 12.5px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;color:#d7dee8;position:relative;height:28px;cursor:pointer}
+#mtick .lb{position:absolute;left:0;top:0;bottom:0;z-index:2;background:#0f5132;color:#d1fae5;font:800 10.5px system-ui;padding:7px 8px;letter-spacing:.06em}
+#mtick .rl{display:inline-block;padding:6px 0 0 100%;animation:tk 55s linear infinite}#mtick .rl span{margin-right:22px}#mtick .u{color:#3ccf8e}#mtick .d{color:#f0565d}#mtick .nw{color:#f2c14e}
+@media (prefers-reduced-motion:reduce){#mtick .rl{animation:none;padding-left:110px}}
+.dsk{display:flex;align-items:center;gap:6px;margin:4px 0;font-size:12.5px}.dsk .nm{flex:1}.dsk .w{width:52px;text-align:right;font-variant-numeric:tabular-nums;font-weight:700}.dsk button{border:1px solid var(--line);background:var(--card2);border-radius:7px;padding:4px 8px;font-size:12px}
+.svc{display:flex;gap:10px;align-items:flex-start;border:1px solid var(--line);background:var(--card2);border-radius:12px;padding:9px 11px;margin:6px 0}.svc .ic{font-size:22px}.svc .tt{flex:1}.svc .tt b{display:block}.svc .tt span{font-size:12px;color:var(--mut)}`;document.head.appendChild(st);})();
+if(!CFG.mt)CFG.mt='loc';if(!CFG.mtf)CFG.mtf='d';
+const MT={loc:'Tu bolsa',us:'Wall Street',mundo:'Mundo',fx:'Divisas',cm:'Materias primas'},MTF={d:'1 día',s:'5 días',m:'1 mes',a:'1 año'};
+/* ----- barra de cotizaciones ----- */
+function tkChg(id,tf){if(tf==='a'){const {s}=mkSeries(id,'w');return s.length>52?s[s.length-1]/s[s.length-53]-1:mkChg(id,120);}return mkChg(id,tf==='d'?1:tf==='s'?5:21);}
+function tkSer(h,tf){const m=tf==='a'?12:1;return h.length>m?h[h.length-1]/h[h.length-1-m]-1:0;}
+function tkItems(){const M=G.mk,tf=CFG.mtf,k=CFG.mt;const it=[];const add=(nm,v,ch,inv)=>{const up=inv?ch<=0:ch>=0;it.push(`<span>${nm} ${v} <b class="${up?'u':'d'}">${ch>=0?'▲':'▼'}${Math.abs(ch*100).toFixed(2)}%</b></span>`);};
+  const cos=x=>Object.keys(M.C).filter(id=>M.C[id].x===x&&!M.C[id].dead&&!M.C[id].ix).sort((a,b)=>M.C[b].p*M.C[b].sh/fxOf(coCur(b))-M.C[a].p*M.C[a].sh/fxOf(coCur(a))).slice(0,10);
+  if(k==='loc'||k==='us'){const x=k==='us'?'US':homeEx();const e=EXCH0[x];add(e.ix,lvF(M.X[x].lv),tkChg(x,tf));(e.sub||[]).forEach((s,i)=>add(s[0],lvF(M.X[x].sub[i].lv),tkChg(x+':'+i,tf)));cos(x).forEach(id=>add(id,fmtPx(M.C[id].p,coCur(id)),tkChg(id,tf)));
+    if(k==='loc'){const n=homeN();if(n.cur!=='USD')add(`USD/${n.cur}`,lvF(fxOf(n.cur)),tkSer(cxOf(n).h,tf==='a'?'a':'m'),true);}}
+  if(k==='mundo')['US','UK','DE','FR','JP','CN','HK','IN','KR','BR','MX','AU','SA','ZA'].forEach(x=>add(EXCH0[x].ix,lvF(M.X[x].lv),tkChg(x,tf)));
+  if(k==='fx')['EUR','GBP','JPY','CNY','MXN','BRL','CAD','CHF','INR','KRW','ARS','TRY','RUB','ZAR'].forEach(c=>{const x=G.cx[c];if(x&&!x.dead)add(['EUR','GBP'].includes(c)?`${c}/USD`:`USD/${c}`,['EUR','GBP'].includes(c)?(1/x.fx).toFixed(4):lvF(x.fx),['EUR','GBP'].includes(c)?-tkSer(x.h,tf==='a'?'a':'m'):tkSer(x.h,tf==='a'?'a':'m'),!['EUR','GBP'].includes(c));});
+  if(k==='cm'&&G.rs)Object.keys(RES0).forEach(q=>add(`${RES0[q][1]} ${RES0[q][0]}`,'US$'+lvF(G.rs[q].p),tkSer(G.rs[q].h,tf==='a'?'a':'m')));
+  const ev=(M.ev||[]).filter(e=>e.k!=='e').slice(-3).reverse();ev.forEach((e,i)=>it.splice(Math.min(it.length,(i+1)*5),0,`<span class="nw">◆ ${trCut(e.t,110)}</span>`));return it;}
+function mtickUI(){if(!G||!G.mk||!P)return;let t=$('mtick');if(!t){const nt=$('tick');if(!nt)return;t=document.createElement('div');t.id='mtick';nt.parentNode.insertBefore(t,nt.nextSibling);t.onclick=showTickCfg;}
+  const it=tkItems();const tfl=(CFG.mt==='fx'||CFG.mt==='cm')&&(CFG.mtf==='d'||CFG.mtf==='s')?'1 mes':MTF[CFG.mtf];const key=it.join('')+CFG.mt+CFG.mtf;if(t._k===key)return;t._k=key;
+  t.innerHTML=`<div class="lb">${MT[CFG.mt].toUpperCase()} · ${tfl}</div><div class="rl">${it.join('')}</div>`;}
+function showTickCfg(){openSheetRaw(`<h3>📟 Barra de cotizaciones</h3><div class="hint">Elige qué mercado transmite la barra y en qué plazo se mide el cambio. Divisas y materias primas se miden por mes o año (cierres mensuales).</div>
+  <div class="sect">Mercado</div><div class="mpb">${Object.entries(MT).map(([k,n])=>`<button data-mt="${k}" class="${CFG.mt===k?'on':''}">${n}</button>`).join('')}</div>
+  <div class="sect">Plazo</div><div class="mpb">${Object.entries(MTF).map(([k,n])=>`<button data-mf="${k}" class="${CFG.mtf===k?'on':''}">${n}</button>`).join('')}</div>
+  <button class="btn gold" id="tkGo" style="width:100%;margin-top:10px">Abrir la Bolsa</button>`,b=>{b.querySelectorAll('[data-mt]').forEach(x=>x.onclick=()=>{CFG.mt=x.dataset.mt;saveCfg();mtickUI();showTickCfg();});
+  b.querySelectorAll('[data-mf]').forEach(x=>x.onclick=()=>{CFG.mtf=x.dataset.mf;saveCfg();mtickUI();showTickCfg();});b.querySelector('#tkGo').onclick=()=>showMarket(CFG.mt==='fx'?'fx':CFG.mt==='cm'?'cm':'mk');});}
+{const _r=render;render=function(){_r();try{mtickUI();}catch(e){}};}
+
+/* ----- mesa de operaciones y fondo propio ----- */
+function showDesk(kind){const p=P;const isF=kind==='fund';const o=isF?p.fund:p.desk||(p.career.track==='fin'&&p.career.rank>=3?(p.desk={w:Object.assign({},DESK_PRE.balanceado),ytd:0,mh:[]}):null);if(!o)return;
+  const cap=isF?o.aum:DESK_CAP[p.career.rank];const gross=Object.values(o.w).reduce((s,v)=>s+Math.abs(v),0);const R=deskRet();
+  let h=`<h3>${isF?'📈 '+o.nm:'📊 Mesa de operaciones · '+p.career.emp}</h3><div class="kv">${[['Capital',fmtN(cap)],['Rendimiento del año',`<span class="${o.ytd>=0?'up':'dn'}">${(o.ytd*100).toFixed(2)} %</span>`],['Resultado del año',fmtN(cap*o.ytd)],['Exposición bruta',gross+' %']].concat(isF?[['Tu parte',fmtN(o.mine)],['Valor por unidad',o.nav.toFixed(3)]]:[['Límite de pérdida','−12 % en el año'],['Tu bono','5 % de las ganancias']]).map(([a,v])=>`<div><span>${a}</span><b>${v}</b></div>`).join('')}</div>`;
+  h+=chartBox('dkCv')+`<div class="hint"><span>Cada mes el resultado sale de los precios reales del juego: acciones, materias primas, divisas y bonos, más tu habilidad (inteligencia ${Math.round(p.s.inteligencia)}, finanzas ${Math.round(skEnsure(p).fin)}).</span> <span>${isF?'Cobras 2 % anual de administración y 20 % de las ganancias sobre el máximo anterior; si ganas, llegan más inversionistas; si pierdes, se van.':'Si la mesa gana en el año, ascenderás antes; si pierde más de 12 %, te despiden.'}</span></div>`; /* v1.7o: frases en <span> y «, » en vez de « · » dentro del paréntesis */
+  h+=`<div class="sect">Estrategias rápidas</div><div class="mpb">${Object.keys(DESK_PRE).map(k=>`<button data-pre="${k}">${k[0].toUpperCase()+k.slice(1)}</button>`).join('')}<button data-pre="0">Todo en efectivo</button></div>`;
+  h+=`<div class="sect">Posiciones (% del capital; negativo = venta en corto · máximo 200 % bruto)</div>`+DESK_A.map(([k,n])=>`<div class="dsk"><span class="nm">${n}<br><span style="font-size:11px;color:var(--mut)">último mes ${((R[k]||0)*100).toFixed(1)} %</span></span><button data-dw="${k}:-25">−25</button><span class="w ${(o.w[k]||0)<0?'dn':''}">${o.w[k]||0} %</span><button data-dw="${k}:25">+25</button></div>`).join('');
+  openSheetRaw(h,b=>{b.querySelectorAll('[data-pre]').forEach(x=>x.onclick=()=>{o.w=x.dataset.pre==='0'?{}:Object.assign({},DESK_PRE[x.dataset.pre]);save();showDesk(kind);});
+    b.querySelectorAll('[data-dw]').forEach(x=>x.onclick=()=>{const [k,d]=x.dataset.dw.split(':');const nw=clamp((o.w[k]||0)+ +d,-100,100);const g2=gross-Math.abs(o.w[k]||0)+Math.abs(nw);if(g2>200){toast('⚠️ Límite','La exposición bruta no puede pasar de 200 %.');return;}if(nw)o.w[k]=nw;else delete o.w[k];save();showDesk(kind);});
+    const C=[];let v=1;(o.mh||[]).forEach((r,i)=>{const pv=v;v*=1+r;C.push({o:pv,h:Math.max(pv,v),l:Math.min(pv,v),c:v,v:0});});requestAnimationFrame(()=>drawChart(b.querySelector('#dkCv'),C,{ty:'l',fp:x=>((x-1)*100).toFixed(1)+' %',label:(c,i)=>`${dBack('m',C.length-1-i)} · acumulado ${((c.c-1)*100).toFixed(1)} %`}));});}
+
+/* ----- servicios ----- */
+function showServices(){const p=P;p.svc=p.svc||{};const tot=Object.keys(p.svc).reduce((s,k)=>s+svcCost(p,k,p.svc[k]),0);
+  let h=`<h3>🧑‍💼 Servicios contratados</h3><div class="hint"><span>Costo total: ${fmt(tot)} al año (se descuenta cada mes).</span> <span>Los precios siguen a los sueldos de tu país.</span> <span>Riesgo de secuestro donde vives: ${crimeRisk(p)>1.5?'alto':crimeRisk(p)>.5?'medio':'bajo'} (según tu patrimonio y los homicidios del país).</span></div>`;
+  h+=SVC.map(s=>{const t=svcL(p,s.k);return `<div class="svc"><div class="ic">${s.ic}</div><div class="tt"><b>${s.n}${t>=0?` · ${SVT[t]}`:''}</b><span>${s.d}</span><div class="mpb">${SVT.map((n,i)=>`<button data-sv="${s.k}:${i}" class="${t===i?'on':''}">${n} ${fmt(svcCost(p,s.k,i))}</button>`).join('')}${t>=0?`<button data-sv="${s.k}:-1">Cancelar</button>`:''}</div></div></div>`;}).join('');
+  openSheetRaw(h,b=>b.querySelectorAll('[data-sv]').forEach(x=>x.onclick=()=>{const [k,t]=x.dataset.sv.split(':');if(+t>=0&&P.age<18){toast('⚠️','Necesitas 18 años.');return;}log(svcSet(P,k,+t));save();render();showServices();}));}
+(function(){const prev=$('nMore').onclick;$('nMore').onclick=()=>{prev();const b=$('sheetIn');const first=b.querySelector('.item');const x=document.createElement('button');x.className='item';
+  x.innerHTML='<span><div class="t">🧑‍💼 Servicios</div><div class="s">Seguridad, escoltas, chofer, asistente, contador, abogado, asesor, chef…</div></span>';x.onclick=showServices;if(first)b.insertBefore(x,first);else b.append(x);};})();
+
+/* ----- forex en la pestaña Divisas ----- */
+const FXS={c:'USD',a:.1};
+{const _h=MKTAB_FN.fx[0],_b=MKTAB_FN.fx[1];MKTAB_FN.fx=[()=>{let h=_h();const b=bkEnsure(P);b.fx=b.fx||{};const home=homeN().cur;if(FXS.c===home)FXS.c=home==='USD'?'EUR':'USD';const x=G.cx[FXS.c];
+  const opts=[...new Set(['USD','EUR','GBP','JPY','CHF','CNY','CAD','MXN','BRL','ARS','INR','KRW','TRY','ZAR'])].filter(c=>c!==home&&G.cx[c]&&!G.cx[c].dead);
+  let t=`<div class="sect">Comprar y vender divisas</div><div class="chips">${opts.map(c=>`<button data-fc="${c}" class="${FXS.c===c?'on':''}">${c}</button>`).join('')}</div>
+    <div class="hint"><span>1 ${x.nm} = ${fmt(toInt(1,FXS.c))}</span> · <span>tus depósitos en ${x.nm} ganan ${(x.pr-.5).toFixed(2)} % al año (tasa ${cbDe(FXS.c)} − 0.5)</span> · <span>diferencial ${(fxSpread(FXS.c)*100).toFixed(1)} %</span></div>
+    <div class="seg">${[[.05,'5 %'],[.1,'10 %'],[.25,'25 %'],[.5,'50 %']].map(([v,l])=>`<button data-fa="${v}" class="${FXS.a===v?'on':''}">${l}</button>`).join('')}</div>
+    <div class="mpb"><button id="fxB">Comprar ${FXS.c} con ${fmt(Math.max(0,P.dinero)*FXS.a)}</button><button id="fxS" ${b.fx[FXS.c]?'':'disabled'}>Vender todo mi ${FXS.c}</button></div>`;
+  const hs=Object.keys(b.fx);if(hs.length)t+=`<table class="tbl"><tr><th>Tus divisas</th><th>Saldo</th><th>Vale</th><th>Resultado</th></tr>${hs.map(c=>{const v=toInt(b.fx[c],c),cost=(b.fxc&&b.fxc[c])||v;return `<tr><td>${c}</td><td>${fmtC(b.fx[c],c)}</td><td>${fmt(v)}</td><td class="${v>=cost?'up':'dn'}">${((v/cost-1)*100).toFixed(1)} %</td></tr>`;}).join('')}</table>`;
+  return h.replace('<div class="sect">Divisas del mundo</div>',t+'<div class="sect">Divisas del mundo</div>');},b=>{_b(b);b.querySelectorAll('[data-fc]').forEach(x=>x.onclick=()=>{FXS.c=x.dataset.fc;showMarket('fx');});
+  b.querySelectorAll('[data-fa]').forEach(x=>x.onclick=()=>{FXS.a=+x.dataset.fa;showMarket('fx');});
+  b.querySelector('#fxB').onclick=()=>{const r=fxTrade(FXS.c,Math.max(0,P.dinero)*FXS.a,true);if(r.err){toast('⚠️',r.err);return;}log(r.ok,'good');sfx('coin');save();render();showMarket('fx');};
+  b.querySelector('#fxS').onclick=()=>{const r=fxTrade(FXS.c,toInt(P.bk.fx[FXS.c]||0,FXS.c)*1.0001,false);if(r.err){toast('⚠️',r.err);return;}log(r.ok);save();render();showMarket('fx');};}];}
+
+/* ----- reservas en País → Economía ----- */
+function rvHTML(n){const r=rvEnsure(n);const gv=goldOz(r.au)*G.rs.gold.p,ov=r.oil*G.rs.oil.p,tot=r.fx+gv+ov;let h=`<div class="sect">🏦 Reservas internacionales</div><table class="tbl"><tr><th></th><th>Cantidad</th><th>Valor</th></tr>
+  <tr><td>💵 Divisas</td><td>—</td><td>${fmtN(r.fx)}</td></tr><tr><td>🥇 Oro</td><td>${r.au.toLocaleString('es-MX',{maximumFractionDigits:0})} t</td><td>${fmtN(gv)}</td></tr><tr><td>🛢️ Petróleo estratégico</td><td>${resQty('oil',r.oil)}</td><td>${fmtN(ov)}</td></tr><tr><td><b>Total</b></td><td>${(tot/Math.max(1,n.gdp)*100).toFixed(1)} % del PIB</td><td><b>${fmtN(tot)}</b></td></tr></table>
+  <div class="hint">Las reservas ganan la tasa de EE. UU., hacen creíble un tipo de cambio fijo (menos ataques especulativos) y se usan para defender la moneda. Datos de inicio: FMI, Consejo Mundial del Oro y AIE (aproximados).</div>`;
+  if(!(P.ruler&&natOf(P)===n))return h;const act=P.nat>0&&!blockedTurn();const B=(k,t,s)=>`<button class="mpa" data-rv="${k}" ${act?'':'disabled'}><b>${t}</b><span>${s}</span></button>`;
+  return h+B('fx+','Vender 15 % de las divisas para fortalecer la moneda','Baja el tipo de cambio de inmediato; gastas reservas.')+B('fx-','Comprar dólares (debilitar la moneda)','Más competitividad exportadora y más reservas; algo más de inflación.')+
+    B('au+','Comprar 50 toneladas de oro','Con reservas o tesoro. Como China, Polonia o India en 2022–2025.')+B('au-','Vender 50 toneladas de oro','Convierte oro en divisas.')+B('oil+',`Llenar la reserva estratégica (${resQty('oil',50e6)})`,'Protege ante cortes de suministro; presiona el precio al alza.')+B('oil-','Liberar petróleo de la reserva','Baja el precio mundial y entra dinero al tesoro (como EE. UU. en 2022).');}
+function rvBind(b,n){const go=(t,fn)=>{useNat({t,fn});save();render();if(VIEW.v==='pa'&&VIEW.tab==='eco')renderView();else showEconomy();};
+  b.querySelectorAll('[data-rv]').forEach(x=>x.onclick=()=>{const k=x.dataset.rv;go('Reservas',()=>k==='fx+'?rvIntervene(n,1):k==='fx-'?rvIntervene(n,-1):k==='au+'?rvGold(n,1):k==='au-'?rvGold(n,-1):k==='oil+'?rvOil(n,1):rvOil(n,-1));});}
+{const _se=showEconomy;showEconomy=function(){if(!P||!G){_se();return;}ensureV14();const n=natOf(P);withAppend(rvHTML(n),b=>rvBind(b,n),_se);};}
+GUIA.splice(5,0,['💼 Carreras de negocios y finanzas, servicios y reservas',`<b>Corporativo (Carrera):</b> de Becario a Director general de una empresa que cotiza en tu bolsa. El sueldo de los directivos crece con el tamaño de la empresa. Como Director general tomas una decisión al año (expansión, recorte, recompra, dividendo, I+D o adquisición) que mueve su acción; si la acción queda dos años por debajo del índice, el consejo te destituye.<br>
+<b>Finanzas:</b> de Analista junior a Director de inversiones en un banco o fondo. Desde Trader administras capital real (US$5 M a US$1,000 M): repartes el dinero entre acciones, materias primas, divisas y bonos, y el resultado sale de los precios del juego. Cobras bono sobre las ganancias; si pierdes más de 12 % en el año, te despiden. Puedes fundar tu propio fondo (2 % y 20 %).<br>
+<b>Preparación:</b> MBA (2 años, entras como Gerente o Asociado), certificación de analista financiero (3 niveles), curso de trading y diplomado en dirección.<br>
+<b>Servicios (Más → 🧑‍💼):</b> seguridad, escoltas, chofer, asistente, contador, abogado, asesor financiero, entrenador, nutriólogo, chef, personal doméstico y relaciones públicas, en tres niveles. El riesgo de secuestro y extorsión depende de tu patrimonio y de la violencia real de tu país.<br>
+<b>Barra de cotizaciones:</b> debajo de las noticias; tócala para elegir mercado (tu bolsa, Wall Street, mundo, divisas, materias primas) y plazo.<br>
+<b>Forex:</b> en Bolsa → Divisas compras y vendes monedas; tus depósitos ganan la tasa de su banco central.<br><b>Reservas (País → Economía):</b> divisas, oro y petróleo estratégico; intervenir en el tipo de cambio, comprar o vender oro, llenar o liberar la reserva de crudo.`]);

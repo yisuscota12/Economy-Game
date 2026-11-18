@@ -1,0 +1,197 @@
+c627fc	Ekonominin sağlığı
+be67ec	Şirketler
+d55063	Bankalar
+847b37	Hükümet
+583f1c	Dünya
+f20262	Risk
+bef920	Her gösterge 0'dan 100'e gider ve onu neyin yükselttiğini, neyin düşürdüğünü gösterir.
+e80e50	Nedenlerini görmek için bir göstergeye dokun.
+b3c287	Henüz şirketin yok. 🏪 Şirketlerim'den aç: sağlıklarını burada göreceksin.
+833d4b	Farklı sektör
+a2b510	En zayıf sektör
+eac819	Şirketlerin az sayıda sektöre bağlı: biri düşerse hepsi birlikte düşer.
+e29b75	Başka iş kollarına çeşitlendirmek riski dağıtır.
+ae22f1	Finansal: marj, itibar, büyüme ve borç (alıcıların kullandığıyla aynı).
+9b729e	Sosyal: maaşlar, iş yükü, itibar, zararlar, sektörü ve ili.
+b1a4a9	30'un altında huzursuzluk olur ve itibar her ay düşer.
+6b1098	Finansal sağlık
+42ad83	Sosyal sağlık
+c16a01	Kâr marjı
+56ba2a	İtibar
+04161f	Satış büyümesi
+fe1343	Satışlara göre borç
+5908a8	Piyasaya göre maaşlar
+8fb0ac	İş yükü
+57396c	İşleri tehdit eden zararlar
+6d5a5a	Sektörünün sağlığı
+0b5c1a	İldeki talep
+3c6663	Şirketlerinin sağlığı
+cab686	Çeşitlendirme
+b6aa21	Borçluluk
+12a447	Yönetici
+d01aa6	Doğal toparlanma
+bc3174	Düzenleme
+e770f6	Durgunluk
+ac8b72	Faiz artışları
+181407	Siyasi istikrar
+99a07b	Kemer sıkma programı
+a6275b	Kredilere göre sermaye
+4a069d	Büyümeye göre borç maliyeti
+ee29ef	Hazine
+37c1e3	Uluslararası rezervler
+e03871	Enflasyon
+824c69	IMF programı
+b82b50	Savaş
+eb3bfb	Hükümete onay
+a42fbe	Halkın mutluluğu
+45edda	Dünya büyümesi
+3a99c4	Bankacılık krizindeki ülkeler
+f1ab57	Durgunluktaki ülkeler
+2091ec	Petrol fiyatı
+8dddb5	Zayıf bankalar
+bdd0f8	Süren bankacılık krizi
+b75288	Kırılgan sektörler
+100dc0	Yoğunlaşmış ekonomi
+bc6c8f	Komşulardan bulaşma
+a16c6a	Giderlere göre gelirler
+29ce23	Kasa
+6a04c7	Taraftarların morali
+3090ad	Kamu borcu
+53ba43	Yüksek kamu borcu
+1282f9	Darbeyi yumuşatan rezervler
+4ce7b0	Zor durumdaki haneler
+24ffb7	Aktif IMF programları
+3cfdcc	Kritik
+b44405	Kırılgan
+e9c0f4	İstikrarlı
+35bf06	Sağlıklı
+bb90d1	Düşük
+fd0855	Orta
+f46edd	Yüksek
+86df48	Çok yüksek
+a822ef	Her şey normal seviyesinde.
+07316f	aylık gider
+296312	{0} bankaları
+54dd5c	Bankacılık krizi sürüyor
+2fde65	Bu yıl bankacılık krizi riski: {0}
+c88199	Bu yıl onu ne hareket ettiriyor (yılda puan):
+98bce2	Bankalar tasarruf sahiplerinin parasını şirketlere ve hanelere borç verir.
+6aab89	Borçluları ödemeyi bırakırsa sermaye kaybederler.
+0bd708	Sermaye azsa, bir ödememe dalgası krize dönüşür ve kredi donar.
+100cc9	Hesapların
+8b0fcd	Bakiye
+7b221e	Bir banka batarsa ülkenin mevduat sigortası sana banka başına bir tavana kadar geri öder: birikimini birkaç bankaya dağıtmak seni daha iyi korur.
+4d1f43	Bankan
+90753c	Kredilere göre sermaye: % {0}
+5b467c	Mevduatlar
+a28712	Uluslararası Basel III kuralları bankalardan riske göre ağırlıklandırılmış varlıklarının en az % 7'si kadar yüksek kaliteli sermaye ister.
+6d5585	Oyunda kredilere göre % 20 sermaye, 100 sağlık demektir.
+852e14	GSYH'nin % {0}'ı
+ac0e8f	Tahvil faizi
+5bf106	Onay
+78f460	Mali sağlık
+d60f47	Sağlıklı bir hükümet borcunu boğulmadan öder: az borç, büyümesinin altında faiz ve acil durumlar için rezerv.
+0d6a06	Mali sağlık 35'in altına düşerse kamu çalışanları zam alamaz.
+193b1c	15'in altında kadro kesintisi olur.
+a0f2d9	Sosyal sağlık onay, istikrar, mutluluk, tüketim ve enflasyonu bir araya getirir.
+3bfeab	Savaşlar, durgunluklar ve kemer sıkmayla düşer; zor durumdaki bir toplum daha az tüketir.
+fcc28f	IMF ve dünya finans sistemi
+6ad6fc	Dünya finans sistemi
+bb31d7	IMF programları
+273d37	IMF, krizdeki ülkelere bir uyum programı karşılığında borç verir.
+f0aaaa	Dünya Bankası kalkınma projelerini finanse eder.
+8a1b71	Birçok ekonomi aynı anda düştüğünde bulaşma kendi kendini besler.
+fd103d	Dünya Bankası
+e2386f	Dünya Bankası projesi olan ülkeler: {0}.
+21dfbe	Kuruluşların
+a1868f	Kendi bankan, kulübün ya da spor salonun olduğunda sağlığı burada görünür.
+ac3b03	Kulübün
+12ae18	Spor salonun
+02639e	Organizasyon şirketin
+105504	Sistemik risk
+064aa8	{0} sistemik riski
+a1f2a5	Sistemik risk, bir parçanın düşüşünün tüm sistemi sürükleme olasılığıdır.
+26e90d	Burada 0 sakin, 100 ise patlamak üzere olan bir krizdir.
+773e69	Bulaşma zinciri
+db530e	Bankaların en zayıf müşterisi
+8aad51	{0} düşmeye devam ederse, ödenmeyen borçları bankaları vurur.
+8665aa	Daha az krediyle haneler daha az tüketir ve bu tüm sektörleri vurur: bir kriz böyle yayılır.
+88e038	Krizdeki komşular
+f845e6	Hiçbir komşu bankacılık krizinde ya da durgunlukta değil.
+6a5d23	Bir bankacılık krizi patladığında, komşu ülkelerin bankaları o ekonominin büyüklüğüyle orantılı bir darbe alır.
+cd67b0	Çok büyük bir ekonomiyse bütün dünya hisseder.
+fd0200	En riskli ülkeler
+99ff29	Şirketin sağlığı
+77fb83	Tüm şirketlerinin sağlığı
+ecd4cd	Şirketlerinin sağlığı
+d9b22f	Sağlık ve risk
+ee9446	Şirketler, bankalar, hükümet, kuruluşlar ve bulaşma riski
+cbc3a1	İşverenin: devlet
+b2fc1a	mali sağlık
+2783a0	Sektörün
+0c6be4	İşten çıkarma riski: yılda % {0}
+bd4e96	Şimdilik işten çıkarma riski yok
+678483	35'in altında kaldıkça zamlar dondurulur.
+bccfc6	İyi dönem: her değerlendirme % {0}'a kadar ek getirir.
+841404	Normal zamlar.
+b5d240	Emekli
+d40fe7	Emekli
+635017	Devlette çalışıyor
+040572	{0} sektöründe çalışıyor
+1872e6	İş arıyor
+deeb2b	1 aydır iş arıyor
+46f7dd	{0} aydır iş arıyor
+951e84	Parayla yardım et ({0})
+d81819	+İlişki, iş ararken
+7cf003	İş ararken {1} kişisine {0} veriyorsun.
+48cd53	Ülkelere göre sistemik risk
+ee24bf	yüksek
+98973d	düşük
+c121f9	🏭 Şirketlerinden birinin sektörü zayıf: başka bir iş koluna çeşitlendir ve sağlığını 🩺'de kontrol et.
+50bad6	Burada şirketlerinin, bankaların, hükümetin ve dünyanın ne kadar sağlıklı olduğunu görürsün. Bir sektör düşerse tedarikçilerini, ona borç veren bankaları ve orada çalışanları da sürükler: bir kriz böyle yayılır.
+74ec80	15 Eylül 2008'de yatırım bankası Lehman Brothers battı. 2009'da dünya ekonomisi İkinci Dünya Savaşı'ndan bu yana ilk kez küçüldü.
+4f2eb0	Uluslararası Para Fonu
+4cbdf7	1994–1995 krizinde («tekila etkisi») Meksika'nın GSYH'si 1995'te yaklaşık % 6 düştü ve kriz Latin Amerika'nın diğer piyasalarına yayıldı.
+79d6fc	INEGI; Dünya Bankası
+04ae42	Asya krizi 2 Temmuz 1997'de Tayland para birimini dalgalanmaya bıraktığında başladı. Endonezya, Güney Kore ve Malezya'ya yayıldı ve Endonezya'nın GSYH'si 1998'de % 13'ten fazla düştü.
+d7ae94	2008 krizinden sonra ABD'de işsizlik Ekim 2009'da % 10'a ulaştı.
+c8c13f	ABD Çalışma İstatistikleri Bürosu
+55a2d3	Basel III kuralları bankalardan riske göre ağırlıklandırılmış varlıklarının en az % 7'si kadar yüksek kaliteli sermaye ister (asgari % 4,5 artı % 2,5 tampon).
+fb747d	Uluslararası Ödemeler Bankası
+668c82	ABD'de mevduat sigortası her bankada kişi başına 250.000 dolara kadar korur. Meksika'da IPAB 400.000 UDIS'e kadar korur.
+22be78	FDIC; IPAB
+8d4ec0	Bir banka, batışı tüm finans sistemini sürükleyecekse «sistemik»tir. Bu yüzden dünyanın en büyüklerinden daha fazla sermaye istenir.
+a8c2e4	Finansal İstikrar Kurulu
+549599	Finansal bulaşma
+ee35bc	Banka kurtarması
+d60368	Ödeme gücü
+4828c7	Likidite
+3a4bbf	Sermaye gereksinimi
+4ff337	İşsizlik
+65b36c	Bir şirketin, bankanın ya da sektörün düşüşünün tüm ekonomik sistemi sürükleme riski; çünkü hepsi krediler, satışlar ve işlerle birbirine bağlıdır.
+467500	Bir ülkenin, bankanın ya da sektörün krizinin başkalarına geçmesi: ödenmeyen borçlar, yatırımcı paniği ya da azalan ticaret yoluyla.
+288d08	Hükümetin (ya da IMF'nin) zor durumdaki bankaları kurtarmak ve kredinin donmasını önlemek için para koyması. Faturayı vergi mükellefleri öder.
+98807d	Sahip olduklarınla tüm borçlarını ödeyebilme gücü. Bir şirket ya da banka, değerinden fazla borcu olduğunda ödeme gücünü yitirmiştir.
+fbaa3c	Hemen ödemek için eldeki para. Bir şirket kârlı olup yine de maaşları ve tedarikçileri ödeyecek nakdi kalmazsa batabilir.
+01763d	Bir bankanın, batmadan zararları karşılamak için kendi (borç alınmamış) parasıyla tutması gereken varlık payı.
+c77844	Çalışmak isteyen ve iş arayan ama işi olmayan kişiler. Çalıştıkları sektörler krize girince artar.
+346242	Ekonominin sağlığı ve bulaşma
+bf63fc	🌐 Bulaşma: {0} ülkesindeki bankacılık krizi {1} bankalarını vuruyor.
+7d2019	Küresel bulaşma: {0} ülkesindeki bankacılık krizi tüm dünyadaki bankaları vuruyor.
+829b26	🏛️ {0} devletteki işini kaybediyor: mali sağlık {1}/100.
+3de1d0	📉 {0}, {1} sektöründeki işini kaybediyor: sektör {2}/100 seviyesinde.
+6b921c	📈 {0} zam alıyor: devletin bütçesi yetiyor (mali sağlık {1}/100).
+684779	📈 {0} zam alıyor: {1} iyi gidiyor ({2}/100).
+e2a88b	💼 {0} 1 ay sonra devlette iş buluyor.
+068e68	💼 {0} {1} ay sonra devlette iş buluyor.
+a1fcf1	💼 {0} 1 ay sonra {1} sektöründe iş buluyor.
+d17698	💼 {0} {2} ay sonra {1} sektöründe iş buluyor.
+cffffe	📉 Devlet kadroları kesiyor: mali sağlığı {0}/100.
+d1bded	📉 {0} personel çıkarıyor: {1} {2}/100 seviyesinde.
+a2e72c	⏸️ Devlet kamu maaşlarını donduruyor: mali sağlığı {0}/100 ve % {1} zammın geri alınıyor.
+572d28	⏸️ {0} zamları donduruyor: {1} {2}/100 seviyesinde ve % {3} zammın geri alınıyor.
+b57143	📈 Devletin iyi mali sağlığı ({0}/100) maaşına % {1} ekliyor.
+56b32e	📈 {0} sektöründeki iyi dönem ({1}/100) maaşına % {2} ekliyor.
+2d4e49	😠 {0} şirketinde huzursuzluk: düşük maaşlar ya da aşırı iş itibarına zarar veriyor.
+aa957c	Etkileşim için birine dokun (kişi başına yılda bir kez).
+f3f8bb	Güçlü ilişkiler iyilik, borç ve iş kapıları açar, rakipler ise seni sabote edebilir.

@@ -1,0 +1,323 @@
+4366df	Responsabile di sala
+8c8e10	Corso di servizio e vini
+b19c39	Ristorazione
+dfe4b8	Capo cameriere
+9f8dcb	Cameriere part-time
+00917b	Operaio specializzato
+25db75	Capolinea
+74eafc	Manifattura
+94f5cd	Direttore di stabilimento
+f2be78	Operaio
+feaa5e	Certificazione muletto e sicurezza industriale
+5f47dd	Direttore regionale
+5fb2e4	Diploma in vendite
+8784c7	Venditore senior
+91a608	Responsabile di negozio
+3e14b9	Certificato di competenza edile
+45ce87	Operaio qualificato
+722636	Edilizia
+8a029f	Manovale
+b940ba	Capocantiere
+1854d3	Bracciante
+9a507e	Coltivatore
+9c0347	Agricoltura
+b6ea8f	Corso di irrigazione e agricoltura di precisione
+fec8e2	Coltivatore con terreni propri
+1faabc	Certificazione in informatica d’ufficio e contabilità
+317e4f	Assistente amministrativo
+47eabc	Coordinatore d’area
+4e83ca	Capo ufficio
+2caf0b	Diploma in amministrazione pubblica
+847b37	Pubblica amministrazione
+9960c9	Assistente
+85b776	Sicurezza pubblica
+95f50e	Sovrintendente
+bb20c5	Commissario
+e396cc	Corso dell’accademia di polizia
+ecc8ab	Agente scelto
+029afd	Capo tecnico
+301b0e	Certificazione tecnica specializzata
+8d5ff3	Tecnico specializzato
+2b1326	Laurea magistrale in scienze dell’educazione
+76e452	Coordinatore didattico
+b16d01	Insegnante di ruolo
+ca7665	Dirigente scolastico
+ebafca	Insegnante supplente
+1e6ae7	Architetto software
+263cf3	Sviluppatore junior
+2a3192	Tech lead
+72d6e9	Sviluppatore senior
+d28d03	Certificazione cloud
+46a7e8	Certificazione in project management
+7e2469	Ingegnere junior
+8c3f49	Ingegnere senior
+f4762a	Responsabile di ingegneria
+011605	Avvocato associato
+0398bf	Avvocato senior
+1f4f0f	Socio dello studio
+7140d8	Servizi legali
+b76cc3	Laurea magistrale in giurisprudenza
+e33833	Praticante
+5d4a06	Primario
+7ab414	Medico specialista
+894f03	Medico di base
+c88e92	Vice primario
+cc35c0	Specializzazione medica
+1f4928	Corso di formazione
+282819	Responsabile
+2cd4fa	Supervisore
+17fdcf	Diurno
+824b8c	Notturno
+8fa6b9	A rotazione (cambia ogni settimana)
+af15e6	Misto
+86df48	Molto alto
+bb90d1	Basso
+f46edd	Alto
+04251e	Il normale
+e18540	Straordinari
+f58f80	Il minimo
+a34683	Abilità nel mestiere
+aa3ec4	Rapporto con il capo
+e201ca	Ore che lavori
+55230a	Anzianità
+90499f	Certificazione
+fed9ee	Stress
+619554	con sindacato
+13c296	Colleghi
+7f57e4	Posizione
+9a5b79	Condizioni
+0da43f	Esperienza totale
+502edc	Abilità
+598c7e	Richiami
+866e28	Ferie rimaste
+971fe4	Turno
+ccf106	Rischio del mestiere
+1c77d4	Orario legale
+990919	Tredicesima
+35fe5f	Lavoro informale
+73bb98	Indennità di licenziamento
+8f52ef	Il tuo lavoro
+dce00f	Iscrizione sindacale
+5ddc89	Ferie retribuite
+2cd097	Tredicesima o mensilità aggiuntive
+8f25e2	Indennità di licenziamento
+892af6	Sindacati
+211eb2	Formale o informale
+5f8c85	Stress da lavoro
+109b47	Rendimento
+110729	rendimento
+7c2374	RENDIMENTO
+4db381	Scala gerarchica
+4f6653	lavoro regolare
+8a6ade	lavoro in nero
+44db32	Percorso
+b7be52	Stipendio annuo
+3a0b96	Ore di lavoro
+79bd0e	Azioni
+34eb65	Il tuo capo
+52a3e8	La tua squadra
+8c161b	Valutazioni
+086bff	eccellente
+87b88f	buona
+5f51ef	discreta
+0d9c30	scarsa
+e033af	gentile
+859738	pettegolo
+d0f165	lavoratore
+809f9a	pigro
+c17e7c	mentore
+a24cb9	🔥 Sei sull’orlo dell’esaurimento (burnout): riduci le ore o prendi ferie.
+1082fd	🩹 Ti fai male al lavoro.
+5d3f81	🚑 Hai un incidente sul lavoro. Ti riprendi, ma restano dei postumi.
+6a370f	📋 Valutazione semestrale: {0}/100, buona. Aumento del {1} %.
+862f07	📋 Valutazione semestrale: {0}/100, discreta. Nessun aumento.
+ba807c	📋 Valutazione semestrale: {0}/100, scarsa. Ricevi un richiamo scritto ({1} su 2).
+f759b8	📋 Valutazione semestrale: {0}/100, eccellente. Bonus di {1} e aumento del {2} %.
+38f462	📄 Ti licenziano da {0}. Ricevi {1} di indennità (legge del tuo paese: {2} giorni più {3} per anno lavorato).
+c504b9	📄 Ti licenziano da {0}. La legge del tuo paese non obbliga a pagare un’indennità.
+e1def0	📄 Ti licenziano da {0}. Dato che il lavoro era in nero, non ricevi indennità.
+09a3ff	📢 Posto di {0} vacante ({1}): l’azienda cresce.
+956c00	📢 Posto di {0} vacante ({1}): qualcuno va in pensione.
+b5fb67	📢 Posto di {0} vacante ({1}): hanno licenziato qualcuno.
+d7fbcb	📢 Posto di {0} vacante ({1}): qualcuno si è dimesso.
+233972	Ti sei già candidato.
+9f69b8	Per quel posto ti serve: {0}.
+15c3eb	🎉 Ti promuovono a {0}. Il tuo stipendio sale a {1} l’anno.
+4cd1d1	Il posto di {0} va a {1}, il tuo rivale. Ora è il tuo capo.
+099a0f	Il posto di {0} va a un’altra persona.
+83f5d2	Il posto di {0} viene coperto da un esterno.
+93ca0a	📨 {0} ti offre un lavoro come {1} con il {2} % di stipendio in più.
+a4531b	{0} ti offre un lavoro come {1} con il {2} % di stipendio in più.
+7f73dc	Accetti. Inizi in {0} come {1} con uno stipendio di {2} l’anno.
+e36383	Al tuo capo non piace la pressione. Niente aumento e il rapporto si raffredda.
+eb05a6	Il tuo capo non vuole perderti: ti aumenta lo stipendio del {0} %.
+6d4e8b	Hai chiesto un aumento da poco: aspetta un anno.
+94c1d4	Il tuo capo accetta: lo stipendio sale del {0} %.
+848773	Il tuo capo dice di no per ora.
+cc38c7	Inizi: {0}. Dura {1} mesi e costa {2}.
+5cc68c	Non ti restano giorni di ferie quest’anno.
+0421de	Prendi {0} giorni di ferie retribuite. Torni riposato.
+63f5a6	Prendi {0} giorni non retribuiti (nel lavoro in nero non ci sono ferie pagate).
+15bec4	Lasci il sindacato.
+faa5df	Ti iscrivi al sindacato. La quota è l’1 % dello stipendio.
+2484e8	Pranzi con {0}. Ti aggiorna su tutti i pettegolezzi.
+629a4e	Pranzi con {0}. Andate più d’accordo.
+7e316d	Pranzi con {0}. Ti svela i trucchi del mestiere.
+387c03	Hai già un’offerta sul tavolo.
+db66b9	Mandi candidature, ma per ora nessuno ti chiama.
+88b9bf	🎄 Tredicesima: ricevi {0} ({1} giorni di stipendio, per legge).
+c68240	🎄 Mensilità aggiuntive per legge: ricevi {0} ({1} giorni di stipendio l’anno).
+0b6904	🤝 Il sindacato firma il contratto collettivo: aumento generale del {0} %.
+e0d6ff	Cambio turno
+b6ccc3	{0} ti ferma in corridoio: «Mi copri il turno di sabato? Ho un impegno di famiglia che non posso spostare».
+0f1170	Perdi il sabato, ma te ne è davvero grato. Ora ti deve un favore.
+574d5a	Coprire il turno
+2122b9	Rifiutare con gentilezza
+991339	Capisce, anche se si vede la delusione.
+3d5ff0	Accettare se poi ti copre un giorno
+518a03	Gli sembra che tu stia facendo pagare il favore e se ne va seccato.
+af570f	Affare fatto: vi scambiate i giorni e siete contenti entrambi.
+db2a1e	Voci di tagli
+0ebecc	Gira voce che in {0} ci saranno tagli al personale. {1}, il tuo capo, è più serio del solito.
+0aac23	Offrirti per fare straordinari
+6753ba	Il tuo capo prende nota della tua disponibilità. Lavorerai di più, ma ti vedono indispensabile.
+0ce6ae	Parlare con il capo per capire dove sei
+3be889	Evita la domanda. Resti col dubbio e più stressato.
+f99eb2	Ti conferma che il tuo posto non è a rischio. Respiri.
+42e9d9	Mandare candidature ad altre aziende per sicurezza
+77c735	Aggiorni il curriculum e mandi candidature.
+f32c32	Trattamento umiliante
+f2ee92	In piena riunione, {0} deride il tuo lavoro davanti a tutti. Non è la prima volta.
+959bb5	Ingoi la rabbia. Lo stress si accumula.
+5fd72c	Parlare con il capo in privato
+990b9d	Gli dici con calma che non va bene. Si scusa a metà, ma non succede più.
+e6eb06	Si mette sulla difensiva e ti dice che non sopporti niente.
+c71486	Senza prove sufficienti, la segnalazione non va avanti e il tuo capo lo viene a sapere.
+dab6cc	Le risorse umane aprono un’indagine e viene richiamato. I colleghi ti rispettano di più.
+f71b65	Segnalarlo alle risorse umane con prove
+408e05	Non c’è sindacato nel tuo lavoro
+870300	Il delegato sindacale parla con l’azienda. Il trattamento migliora.
+cc15f4	Rivolgerti al sindacato
+08283d	Pettegolezzi in ufficio
+b24f2e	{0} ti racconta che qualcuno va dicendo che lascerai l’azienda. Diversi ci credono già.
+3fdebb	Smentirlo davanti a tutti
+58bd81	Si vede che ti ha colpito e il pettegolezzo cresce.
+995b0c	Lo chiarisci con il sorriso e il pettegolezzo si spegne.
+d2fc17	In poche settimane nessuno se ne ricorda.
+526b90	Scopri che è stato qualcuno del reparto accanto. Gli fai capire che lo sai.
+676f17	Fai troppe domande e ora il pettegolezzo sei tu.
+9075a6	Scoprire chi l’ha iniziato
+a40673	Progetto urgente
+0f0f7f	{0} ti chiama in ufficio: «Abbiamo un progetto urgente per venerdì e voglio che lo segua tu».
+1cf670	Accettarlo
+d6ce4f	Lavori fino a tardi tutta la settimana, ma consegni in tempo. Il capo resta colpito.
+21751c	Non c’è nessuno disponibile. Lo porti a termine da solo, a tappe forzate.
+7d2d82	Ti danno qualcuno della squadra. Va bene e senza troppe nottate.
+e3601f	Accettare se ti danno supporto
+054357	Rifiutarlo con argomenti
+564838	Gli sembra una scusa.
+c19c2f	Spieghi che ora non potresti farlo bene. Capisce e lo dà a un altro.
+7fd8ed	Non hai un lavoro comune. Cercane uno in Carriera → Posti di lavoro.
+7bc0ce	Prossima valutazione tra {0} mesi.
+c84cc5	Prossima valutazione tra 1 mese.
+28ab8f	Meno stress, ma il tuo rendimento cala e il capo se ne accorge.
+4648d2	Più rendimento e più stress. Nel tuo caso gli straordinari si pagano senza maggiorazione.
+7105a6	Più rendimento e più stress. Gli straordinari si pagano {0}× l’ora normale.
+96710b	Fai il tuo orario senza logorarti troppo.
+2708e1	Chiude tra 1 mese.
+6f1419	Chiude tra {0} mesi.
+beacbe	Probabilità di ottenere il posto: {0} %.
+aa7d56	scade tra 1 mese
+472b97	scade tra {0} mesi
+2062de	aspetta un anno
+0c5269	non retribuite (lavoro in nero)
+4520af	nessun giorno quest’anno
+a31a5d	🏖️ Prendere una settimana di ferie
+df46d5	ti restano {0} giorni pagati
+51d050	i soldi non bastano
+7729ce	💼 Certificazione
+e0c6cb	necessaria per diventare {0}
+e10e5b	+6 di rendimento
+2984dc	✊ Iscriverti al sindacato
+7f7034	paghi l’1 % dello stipendio
+cf7925	✊ Lasciare il sindacato
+fd31ac	quota dell’1 % dello stipendio
+bd950e	{0} ore a settimana
+f7ba87	pagati {0}× l’ora normale
+173daa	{0} giorni di stipendio
+dcd595	{0} giorni il primo anno
+e312e9	{0} giorni l’anno (mensilità aggiuntive)
+ed2304	{0} giorni il primo anno (aumentano con l’anzianità)
+f9f0f9	non è obbligatorio
+31ea26	non è obbligatoria
+c4b6f6	regolare, con previdenza sociale
+d3af34	{0} % dei lavoratori
+dde865	{0} giorni più {1} per anno lavorato
+e29e4f	circa {0} %
+529ced	Dato che il tuo lavoro è regolare, hai diritto a ciò che prevede la legge: ferie pagate, tredicesima e indennità se ti licenziano senza giusta causa.
+682191	Nel lavoro in nero non c’è contratto: non versi contributi, non hai ferie pagate né tredicesima, e se ti licenziano non ricevi indennità.
+50a988	Rifiuti l’offerta.
+286141	💼 Il tuo lavoro
+9e7b7b	Hai perso il lavoro. Cercane un altro in Carriera → Posti di lavoro.
+63488f	📋 Valutazione
+9d2db4	L’orologio si è fermato: controlla la valutazione in 💼 Il tuo lavoro.
+a70d60	📨 Offerta di lavoro
+bff4ac	L’orologio si è fermato: hai un’offerta di lavoro.
+ccce29	L’orologio si è fermato: c’è un posto vacante nel tuo lavoro.
+7d9ab7	Ogni mese il tuo rendimento si avvicina a {0}. Cosa conta:
+97296d	📢 Posto vacante: {0}
+cfa60f	📨 Offerta da {0}
+16b88b	{0} con il {1} % di stipendio in più
+e52c6f	🎓 Hai già: {0}.
+fa120d	🎓 {0}: ti mancano {1}.
+4be2f6	Rapporto {0}/100
+8d3e18	rapporto {0}/100
+4fc176	rendimento {0}
+b5761e	Leggi e condizioni: {0} (approssimative, 2025–2026).
+3d81af	aumento {0} %
+502e4f	{0}–oggi
+b35e9d	{0} su 2
+1423bf	✋ Candidarti
+e9d1a1	Usarla per negoziare
+20dc80	💰 Chiedere un aumento
+353edb	una volta l’anno
+863a31	🔎 Cercare un altro lavoro
+5bea79	mandi candidature ad altre aziende
+518bda	Stare insieme migliora il rapporto e abbassa lo stress. Il tuo rivale compete con te per le promozioni.
+2aece1	⚔️ rivale
+50d80e	🍽️ Pranzare insieme
+ee5221	senza maggiorazione obbligatoria
+1706b4	in nero, senza tutele
+a03b21	Stipendio in questo lavoro
+0cf8d9	Il grafico appare quando avrai due anni in questo lavoro.
+7ae45a	🟡 Stipendio (nominale)
+2729f1	🔵 Stipendio reale (al netto dell’inflazione)
+fd1c92	Non hai ancora valutazioni.
+a8acb5	Storico dei lavori
+779c52	📢 posto vacante
+119910	📨 offerta
+1fc588	📢 Posto vacante
+8d8938	📄 Licenziamento
+d150e6	💼 Candidarti
+16429c	💼 Chiedere un aumento
+0dd6ea	💼 Ferie
+6c2c95	💼 Sindacato
+883b4e	💼 Cercare lavoro
+4207cd	💼 Offerta
+98cdac	💼 Stare insieme
+94ca96	Comune di {0}
+66ac7f	Ufficio statale di {0}
+fa33b4	Municipio {0}
+231b63	Polizia municipale di {0}
+d350d6	Polizia statale di {0}
+134845	Scuola elementare {0}
+ebc6e8	Scuola media tecnica di {0}
+f428af	Ospedale generale di {0}
+c8f710	Centro medico {0}
+77c56e	Candidarti
+98bdfa	Sindacato
+db5a60	Cercare lavoro
+70285d	Offerta
+69bde7	💼 Lavori comuni
+756e3b	Lavori comuni
+f9876f	non obbligatorie (la tua azienda dà {0} giorni l’anno)

@@ -1,0 +1,157 @@
+ff2822	Mengelola {0}
+2db424	Kamu merekrut {0} karyawan.
+a9084f	Pinjaman {0}
+0af880	Kamu memecat {0} karyawan.
+a98c77	Kamu masuk ke {0} sebagai {1}.
+bce051	Suntik modal sendiri ({0})
+570310	Kamu menarik {0}.
+d92860	Kamu kurang {0}.
+5a2722	Kamu menjual {0} dengan harga dunia: {1}.
+ad01f5	{0}: menghapus {1} nol (sebelumnya {2})
+a15fb8	{0}: {1} beralih ke kurs mengambang bebas.
+a7e43c	Damai: {0} menyerahkan {1} provinsi yang diduduki kepada {2}.
+e6ac50	Pertanian
+1da85d	Tinggi +15 %
+ad4669	Rendah −15 %
+ca9bf1	Beras
+e2eb07	Associate
+8e4369	Otomotif
+2fcbd4	Kafe
+2c0027	Perubahan 12 bulan
+35ff4c	Perusahaan konstruksi
+0b14bc	Koordinator
+419316	Melapor
+0ab909	Desentralisasi
+12a447	Direktur
+3ddc05	Sekolah swasta
+73a427	Apotek
+c6816f	Reksa dana campuran
+16dc8a	Reksa dana konservatif
+ec71b7	Reksa dana indeks
+45f66f	Angkatan bersenjata
+c37936	Pabrik
+3dbada	Rumah sakit baru
+9c4ba7	Hotel
+be9d95	Infrastruktur
+811cac	Toko perhiasan
+f1a9ce	Barang mewah
+f0a4ce	Rata-rata 10 minggu
+d7b75b	Rata-rata 30 minggu
+4cea5a	Rata-rata 12 bulan
+acf6d7	Rata-rata 36 bulan
+a53439	Logam
+b08dc9	Logam mulia
+6e6700	Tambang
+476008	Separuh saham, separuh obligasi
+372ed9	Aturan lingkungan ketat
+bab2a8	Toko roti
+73b2e9	Sumur minyak
+66cd78	Peternakan sapi
+4974cd	Rekrutmen sukarela
+fe7aa5	Reformasi pajak progresif
+a3ab1f	Membutuhkan gelar sarjana.
+e46805	Restoran
+31ad6e	Irigasi modern
+3765ce	Semikonduktor
+142fc4	Tidak ada uang tunai.
+9e2534	Stop
+d458ff	Wakil menteri
+237e06	Bunga tabungan (dari normal)
+095411	Logam tanah jarang
+de5e04	Trader
+6a2cfd	Trader senior
+159c2b	Pariwisata
+eda706	Uranium
+38ebc5	Wakil presiden
+1daf05	Lingkungan Hidup
+8a1a4f	Pertahanan Nasional
+356f9e	+kebahagiaan; lebih sedikit bencana
+f3ee6c	reformis jujur
+b6feb8	profil campuran
+a4f0f9	Arahan {0}
+949c17	Kementerian {0}: «{1}». Biaya {2}. {3}.
+c84ee3	{0}. Kandidat:
+7c3230	Kecakapan memperbaiki bidang tiap kementerian, kejujuran menekan korupsi, dan loyalitas mencegah krisis saat mereka dicopot.
+7e7d5b	Berjalan: {0}
+54a902	Buka usaha di {0}
+4ee73a	➕ Buka usaha di {0}
+4decd0	Buka dengan uangku
+76b1e3	Dengan kredit ({0})
+fc3a06	Setiap bulan perusahaanmu menjual, membayar bahan, gaji, sewa, pajak, dan utang; yang dibagikan masuk ke uangmu. Maksimal {0} perusahaan.
+16f927	Untuk membuka di provinsi lain, ketuk provinsinya di peta → Buka usaha. Mode peta ⛏️ menunjukkan tambang, minyak, dan lahan tanam.
+f1e4cf	Harga tinggi = margin lebih besar tetapi pelanggan lebih sedikit (permintaan bereaksi 1,3 kali). Kualitas dan gaji tinggi menaikkan reputasi, yang menarik pelanggan. Memecat menelan biaya 3 bulan gaji (Realistis).
+f6584d	{0} cabang
+00922b	Jual (~{0})
+64bab7	terkunci {0} hari
+ec6a8e	Bayar pinjaman ({0})
+5a70ff	Margin: pialang meminjamkan hingga separuh pembelianmu (bunga: suku bunga {0} + 3 poin) dan membolehkan short selling. Jika modalmu turun di bawah 25 % sahammu (30 % pada posisi short), pialang menjual posisi otomatis (margin call).
+285e02	mata uang bersama
+3fcdb3	Unit {0} per dolar, penutupan tiap bulan. Naik = mata uangmu melemah.
+d21062	Kurs mengikuti paritas daya beli (inflasi tiap negara terhadap AS) ditambah deviasi yang digerakkan suku bunga, pencetakan uang, perang, sanksi, kudeta, dan krisis. Kurs tetap bisa jebol oleh serangan spekulatif.
+0aa42e	Tanpa gejolak: harga mengikuti pertumbuhan, inflasi, dan suku bunga tiap negara.
+e3ea9e	💱 Uangmu dalam {0} ({1}): 1 dolar = {2}.
+aa0ad9	Suku bunga {0}: {1} %.
+e18d63	Harga limit
+441b31	Harga stop
+918dee	Saham (long)
+21f2b6	Harga/laba
+a11b8a	1 {0} = {1}
+fc4491	depositomu dalam {0} menghasilkan {1} % per tahun (suku bunga {2} − 0,5)
+f90a63	selisih {0} %
+395e0c	Jual semua {0} milikku
+5d499c	Pilih pasar yang ditayangkan bilah dan rentang waktu untuk mengukur perubahan. Valas dan komoditas diukur per bulan atau tahun (penutupan bulanan).
+5ec2cd	Investasi {0}
+87a2fa	penyimpanan {0} % per tahun.
+f073c0	melarang ekspor
+0c5830	Harga naik saat pasokan kurang (perang, wilayah diduduki, larangan), turun saat ekonomi dunia melambat, dan emas naik karena ketakutan.
+1e1b5d	{0} % uangmu
+dbbe07	{0} % uang tunaimu
+42bc90	Obligasi pemerintah 10 tahun: membayar bunga tiap bulan dalam mata uang negara itu dan mengembalikan pokok saat jatuh tempo. Harganya turun jika suku bunga negara naik (durasi ~7 tahun) dan bisa terkena potongan jika negara gagal bayar (utang tinggi + krisis).
+9fac33	Reksa dana yang dikelola bank ({0}…). Hasilnya sesuai aset mereka di permainan, dikurangi biaya tahunan.
+0f5d6d	kamu punya {0} ({1} %)
+518f4c	Tarik semua
+9b244f	Mendirikan bank butuh modal minimum dan izin regulator (lebih mudah dengan pengaruh dan pengalaman keuangan; lebih sulit jika regulasi ketat).
+af2dbf	Pendapatan bunga {0} − bunga penabung {1} − biaya {2} − cadangan kredit macet {3} − pajak {4}.
+9ade7c	Jika modal turun di bawah 4 % dari pinjaman atau reputasi anjlok, terjadi rush bank.
+e26aa8	Biaya total: {0} per tahun (dipotong tiap bulan).
+ebc324	Harga mengikuti gaji di negaramu.
+263902	Setiap bulan hasilnya berasal dari harga nyata di permainan: saham, komoditas, valas, dan obligasi, ditambah keahlianmu (kecerdasan {0}, keuangan {1}).
+096d6a	Grup A
+67d0c8	Grup B
+7fb07d	Grup C
+b6bd60	Grup D
+16a7c9	Grup E
+2a4d96	Grup F
+dfcc6e	Grup G
+62e49c	Grup H
+2fd69e	Grup I
+4c0412	Grup J
+315943	Grup K
+f5801d	Grup L
+8ca912	{0} lbr
+b254a4	biaya {0}
+825b92	Limit di {0}
+929db9	Stop di {0}
+9bf9e6	{0} × {1} = {2}
+4449ea	kamu punya {0}
+fdfb68	jatuh tempo {0}
+a4db0e	Risiko penculikan di tempat tinggalmu: tinggi (menurut kekayaanmu dan angka pembunuhan negara).
+20fe1f	Risiko penculikan di tempat tinggalmu: sedang (menurut kekayaanmu dan angka pembunuhan negara).
+69f96d	Risiko penculikan di tempat tinggalmu: rendah (menurut kekayaanmu dan angka pembunuhan negara).
+bf7352	Kamu punya {0} barel
+e2aef3	Kamu punya {0} juta BTU
+97b6dd	Kamu punya {0} ton
+5503c6	Kamu punya {0} ton karbonat
+52e857	Kamu punya {0} ons
+bfcf9b	Kamu punya {0} ton oksida
+52942e	Kamu punya {0} pon U₃O₈
+deb5c6	Setor modal {0}
+88f7cc	{0} (butuh {1})
+779192	Perusahaanmu di sini: {0}
+d63521	Permintaan / kapasitas
+0eb8b4	euro
+3f397c	Arahan
+bcf214	Tunjuk
+a8e196	Tarik
+0aaf0f	Luar Negeri
+6445d8	Utang/PDB

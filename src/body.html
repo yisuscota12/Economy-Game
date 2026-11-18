@@ -1,0 +1,42 @@
+<div class="app">
+  <div class="card topc" id="topCard"><div id="stageBg"></div>
+    <div class="top">
+      <div class="av" id="pAv"></div>
+      <div class="who">
+        <div class="name" id="pName">—</div>
+        <div class="sub" id="pSub">—</div>
+        <span class="title-chip" id="pTitle">—</span> <span class="title-chip mode-chip" id="pMode">—</span>
+      </div>
+      <div class="money"><div class="v" id="pMoney">$0</div><div class="y" id="pYear">2026</div></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div id="mapWrap">
+      <canvas id="glc"></canvas><canvas id="lc"></canvas>
+      <svg id="mapOv" viewBox="0 0 4096 1755" preserveAspectRatio="none" aria-hidden="true"></svg>
+      <div class="mmodes"><button data-mm="pol" class="on" title="Política">🏳️</button><button data-mm="ter" title="Terreno">🌍</button><button data-mm="ric" title="Riqueza">💰</button><button data-mm="pob" title="Población">👥</button><button data-mm="est" title="Estabilidad">⚖️</button><button data-mm="des" title="Edificios">🏗️</button><button data-mm="mil" title="Terreno militar">⛰️</button><button data-mm="dip" title="Diplomacia">🤝</button><button data-mm="hap" title="Felicidad">😊</button><button data-mm="core" title="Provincias núcleo">🎯</button><button data-mm="ideo" title="Sistema de gobierno">🏛️</button><button data-mm="dev" title="Desarrollo">📈</button></div><div class="mleg" id="mLeg"></div>
+      <div class="zoom"><button id="zIn" aria-label="Acercar">+</button><button id="zOut" aria-label="Alejar">−</button><button id="zReset" aria-label="Centrar">⟲</button><button id="zFull" aria-label="Pantalla completa">⛶</button></div>
+    </div>
+    <div id="cmdBar"></div>
+    <div id="selInfo"></div>
+  </div>
+
+  <div class="card" id="statsCard"><div class="stats" id="stats"></div></div>
+
+  <div class="card"><div id="log"></div></div>
+</div>
+
+<div class="bottom"><div class="in">
+  <button class="nav" id="nAct"><span class="ic">⚡</span>Acciones <span class="badge" id="actBadge">3</span></button>
+  <button class="nav" id="nCar"><span class="ic">💼</span>Carrera</button>
+  <button id="ageBtn">+1 AÑO</button>
+  <button class="nav" id="nNat"><span class="ic">🏛️</span>Nación</button>
+  <button class="nav" id="nMore"><span class="ic">☰</span>Más</button>
+</div></div>
+
+<button id="ffBtn" class="ff" aria-label="Avanzar 5 años">⏩ 5 años</button>
+<div class="overlay" id="ov"></div>
+<div class="sheet" id="sheet"><div class="in" id="sheetIn"></div></div>
+<div class="modal" id="modal"></div>
+<div id="toast"><div class="u" id="tU"></div><div class="r" id="tR"></div></div>

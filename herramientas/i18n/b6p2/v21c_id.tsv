@@ -1,0 +1,197 @@
+c627fc	Kesehatan ekonomi
+be67ec	Perusahaan
+d55063	Bank
+847b37	Pemerintah
+583f1c	Dunia
+f20262	Risiko
+bef920	Setiap pengukur bergerak dari 0 sampai 100 dan menunjukkan apa yang menaikkan dan apa yang menurunkannya.
+e80e50	Ketuk pengukur untuk melihat penyebabnya.
+b3c287	Kamu belum punya perusahaan. Buka dari 🏪 Perusahaanku: di sini kamu akan melihat kesehatannya.
+833d4b	Sektor berbeda
+a2b510	Sektor terlemah
+eac819	Perusahaanmu bergantung pada sedikit sektor: kalau satu jatuh, semuanya ikut jatuh.
+e29b75	Diversifikasi ke bidang usaha lain menyebarkan risiko.
+ae22f1	Keuangan: margin, reputasi, pertumbuhan, dan utang (sama dengan yang dipakai pembeli).
+9b729e	Sosial: gaji, beban kerja, reputasi, kerugian, sektornya, dan provinsinya.
+b1a4a9	Di bawah 30 ada keresahan dan reputasi turun setiap bulan.
+6b1098	Kesehatan keuangan
+42ad83	Kesehatan sosial
+c16a01	Margin laba
+56ba2a	Reputasi
+04161f	Pertumbuhan penjualan
+fe1343	Utang dibanding penjualan
+5908a8	Gaji dibanding pasar
+8fb0ac	Beban kerja
+57396c	Kerugian yang mengancam pekerjaan
+6d5a5a	Kesehatan sektornya
+0b5c1a	Permintaan di provinsi
+3c6663	Kesehatan perusahaannya
+cab686	Diversifikasi
+b6aa21	Tingkat utang
+12a447	Direktur
+d01aa6	Pemulihan alami
+bc3174	Regulasi
+e770f6	Resesi
+ac8b72	Kenaikan suku bunga
+181407	Stabilitas politik
+99a07b	Program penghematan
+a6275b	Modal dibanding pinjaman
+4a069d	Biaya utang dibanding pertumbuhan
+ee29ef	Kas negara
+37c1e3	Cadangan internasional
+e03871	Inflasi
+824c69	Program IMF
+b82b50	Perang
+eb3bfb	Dukungan untuk pemerintah
+a42fbe	Kebahagiaan penduduk
+45edda	Pertumbuhan dunia
+3a99c4	Negara dalam krisis perbankan
+f1ab57	Negara dalam resesi
+2091ec	Harga minyak
+8dddb5	Bank lemah
+bdd0f8	Krisis perbankan aktif
+b75288	Sektor rapuh
+100dc0	Ekonomi terkonsentrasi
+bc6c8f	Penularan dari tetangga
+a16c6a	Pendapatan dibanding pengeluaran
+29ce23	Kas
+6a04c7	Semangat suporter
+3090ad	Utang publik
+53ba43	Utang publik tinggi
+1282f9	Cadangan peredam
+4ce7b0	Rumah tangga yang kesulitan
+24ffb7	Program IMF aktif
+3cfdcc	Kritis
+b44405	Rapuh
+e9c0f4	Stabil
+35bf06	Sehat
+bb90d1	Rendah
+fd0855	Sedang
+f46edd	Tinggi
+86df48	Sangat tinggi
+a822ef	Semuanya di tingkat normal.
+07316f	bulan pengeluaran
+296312	Bank di {0}
+54dd5c	Krisis perbankan sedang berlangsung
+2fde65	Risiko krisis perbankan tahun ini: {0}
+c88199	Yang menggerakkannya tahun ini (poin per tahun):
+98bce2	Bank meminjamkan uang para penabung kepada perusahaan dan rumah tangga.
+6aab89	Jika debitur mereka berhenti membayar, mereka kehilangan modal.
+0bd708	Dengan modal sedikit, gelombang gagal bayar menjadi krisis dan kredit membeku.
+100cc9	Rekeningmu
+8b0fcd	Saldo
+7b221e	Jika bank bangkrut, penjaminan simpanan negaramu mengembalikan uang sampai batas per bank: membagi tabunganmu ke beberapa bank lebih melindungimu.
+4d1f43	Bankmu
+90753c	Modal dibanding pinjaman: {0} %
+5b467c	Simpanan
+a28712	Aturan internasional Basel III mewajibkan bank memiliki modal berkualitas tinggi minimal 7 % dari aset tertimbang menurut risiko.
+6d5585	Dalam game, modal 20 % dibanding pinjaman berarti kesehatan 100.
+852e14	{0} % dari PDB
+ac0e8f	Bunga obligasi
+5bf106	Dukungan
+78f460	Kesehatan fiskal
+d60f47	Pemerintah yang sehat membayar utangnya tanpa tenggelam: utang sedikit, bunga di bawah pertumbuhannya, dan cadangan untuk keadaan darurat.
+0d6a06	Jika kesehatan fiskal turun di bawah 35, pegawai negeri tidak mendapat kenaikan gaji.
+193b1c	Di bawah 15 ada pemangkasan formasi.
+a0f2d9	Kesehatan sosial menggabungkan dukungan, stabilitas, kebahagiaan, konsumsi, dan inflasi.
+3bfeab	Turun karena perang, resesi, dan penghematan, dan masyarakat yang kesulitan berbelanja lebih sedikit.
+fcc28f	IMF dan sistem keuangan dunia
+6ad6fc	Sistem keuangan dunia
+bb31d7	Program IMF
+273d37	IMF meminjamkan uang kepada negara yang sedang krisis dengan imbalan program penyesuaian.
+f0aaaa	Bank Dunia membiayai proyek pembangunan.
+8a1b71	Saat banyak ekonomi jatuh bersamaan, penularan memperkuat dirinya sendiri.
+fd103d	Bank Dunia
+e2386f	Negara dengan proyek Bank Dunia: {0}.
+21dfbe	Organisasimu
+a1868f	Saat kamu punya bank, klub, atau gym sendiri, kesehatannya muncul di sini.
+ac3b03	Klubmu
+12ae18	Gym-mu
+02639e	Perusahaan promosimu
+105504	Risiko sistemik
+064aa8	Risiko sistemik {0}
+a1f2a5	Risiko sistemik adalah peluang jatuhnya satu bagian menyeret seluruh sistem.
+26e90d	Di sini 0 berarti tenang dan 100 berarti krisis yang hampir meledak.
+773e69	Rantai penularan
+db530e	Nasabah terlemah bank
+8aad51	Jika {0} terus turun, utangnya yang tak terbayar memukul bank.
+8665aa	Dengan kredit lebih sedikit, rumah tangga berbelanja lebih sedikit dan itu memukul semua sektor: begitulah krisis menular.
+88e038	Tetangga dalam krisis
+f845e6	Tidak ada tetangga yang sedang krisis perbankan atau resesi.
+6a5d23	Saat krisis perbankan meletus, bank di negara tetangga menerima pukulan sebanding dengan ukuran ekonomi itu.
+cd67b0	Jika ekonominya sangat besar, seluruh dunia merasakannya.
+fd0200	Negara dengan risiko tertinggi
+99ff29	Kesehatan perusahaan
+77fb83	Kesehatan semua perusahaanmu
+ecd4cd	Kesehatan perusahaanmu
+d9b22f	Kesehatan dan risiko
+ee9446	Perusahaan, bank, pemerintah, organisasi, dan risiko penularan
+cbc3a1	Pemberi kerjamu: pemerintah
+b2fc1a	kesehatan fiskal
+2783a0	Sektormu
+0c6be4	Risiko PHK: {0} % per tahun
+bd4e96	Belum ada risiko PHK untuk saat ini
+678483	Kenaikan gaji dibekukan selama masih di bawah 35.
+bccfc6	Masa bagus: setiap penilaian menambah hingga {0} % ekstra.
+841404	Kenaikan gaji normal.
+b5d240	Pensiun
+d40fe7	Pensiun
+635017	Bekerja di pemerintahan
+040572	Bekerja di {0}
+1872e6	Mencari kerja
+deeb2b	Mencari kerja sejak 1 bulan
+46f7dd	Mencari kerja sejak {0} bulan
+951e84	Bantu dengan uang ({0})
+d81819	+Hubungan, selagi mencari kerja
+7cf003	Kamu memberi {0} kepada {1} selagi mencari kerja.
+48cd53	Risiko sistemik per negara
+ee24bf	tinggi
+98973d	rendah
+c121f9	🏭 Sektor salah satu perusahaanmu sedang lemah: diversifikasi ke bidang usaha lain dan periksa kesehatannya di 🩺.
+50bad6	Di sini kamu melihat seberapa sehat perusahaanmu, bank, pemerintah, dan dunia. Jika satu sektor jatuh, ia menyeret pemasoknya, bank yang meminjaminya, dan orang yang bekerja di dalamnya: begitulah krisis menular.
+74ec80	Pada 15 September 2008 bank investasi Lehman Brothers bangkrut. Pada 2009 ekonomi dunia menyusut untuk pertama kalinya sejak Perang Dunia II.
+4f2eb0	Dana Moneter Internasional
+4cbdf7	Dalam krisis 1994–1995 («efek tequila») PDB Meksiko turun sekitar 6 % pada 1995, dan krisis menular ke pasar lain di Amerika Latin.
+79d6fc	INEGI; Bank Dunia
+04ae42	Krisis Asia dimulai pada 2 Juli 1997, ketika Thailand melepas mata uangnya mengambang. Krisis menular ke Indonesia, Korea Selatan, dan Malaysia, dan PDB Indonesia turun lebih dari 13 % pada 1998.
+d7ae94	Setelah krisis 2008, pengangguran di Amerika Serikat mencapai 10 % pada Oktober 2009.
+c8c13f	Biro Statistik Tenaga Kerja AS
+55a2d3	Aturan Basel III mewajibkan bank memiliki modal berkualitas tinggi minimal 7 % dari aset tertimbang menurut risiko (minimum 4,5 % ditambah penyangga 2,5 %).
+fb747d	Bank for International Settlements
+668c82	Di Amerika Serikat penjaminan simpanan mencakup hingga 250.000 dolar per orang di setiap bank. Di Meksiko IPAB menjamin hingga 400.000 UDIS.
+22be78	FDIC; IPAB
+8d4ec0	Sebuah bank disebut «sistemik» jika kebangkrutannya akan menyeret seluruh sistem keuangan. Karena itu bank terbesar di dunia diwajibkan memiliki modal lebih banyak.
+a8c2e4	Dewan Stabilitas Keuangan
+549599	Penularan keuangan
+ee35bc	Penyelamatan bank
+d60368	Solvabilitas
+4828c7	Likuiditas
+3a4bbf	Kewajiban modal
+4ff337	Pengangguran
+65b36c	Risiko bahwa jatuhnya sebuah perusahaan, bank, atau sektor menyeret seluruh sistem ekonomi, karena semuanya terhubung lewat kredit, penjualan, dan pekerjaan.
+467500	Saat krisis sebuah negara, bank, atau sektor menular ke yang lain: lewat utang yang tak terbayar, kepanikan investor, atau perdagangan yang berkurang.
+288d08	Saat pemerintah (atau IMF) mengucurkan uang untuk menyelamatkan bank bermasalah dan mencegah kredit membeku. Pembayar pajak yang menanggungnya.
+98807d	Kemampuan membayar semua utangmu dengan apa yang kamu miliki. Perusahaan atau bank disebut insolven jika utangnya lebih besar dari nilainya.
+fbaa3c	Uang yang tersedia untuk membayar sekarang juga. Perusahaan bisa untung namun tetap bangkrut jika kehabisan kas untuk membayar gaji dan pemasok.
+01763d	Bagian aset yang harus dimiliki bank dengan uangnya sendiri (bukan pinjaman) untuk menyerap kerugian tanpa bangkrut.
+c77844	Orang yang ingin bekerja dan mencari kerja tetapi tidak mendapatkannya. Naik saat sektor tempat mereka bekerja masuk krisis.
+346242	Kesehatan ekonomi dan penularan
+bf63fc	🌐 Penularan: krisis perbankan di {0} memukul bank-bank di {1}.
+7d2019	Penularan global: krisis perbankan di {0} memukul bank di seluruh dunia.
+829b26	🏛️ {0} kehilangan pekerjaan di pemerintahan: kesehatan fiskal di {1}/100.
+3de1d0	📉 {0} kehilangan pekerjaan di {1}: sektornya di {2}/100.
+6b921c	📈 {0} mendapat kenaikan gaji: pemerintah sanggup membayarnya (kesehatan fiskal {1}/100).
+684779	📈 {0} mendapat kenaikan gaji: {1} sedang bagus ({2}/100).
+e2a88b	💼 {0} mendapat pekerjaan di pemerintahan setelah 1 bulan.
+068e68	💼 {0} mendapat pekerjaan di pemerintahan setelah {1} bulan.
+a1fcf1	💼 {0} mendapat pekerjaan di {1} setelah 1 bulan.
+d17698	💼 {0} mendapat pekerjaan di {1} setelah {2} bulan.
+cffffe	📉 Pemerintah memangkas formasi: kesehatan fiskalnya di {0}/100.
+d1bded	📉 {0} mengurangi karyawan: {1} di {2}/100.
+a2e72c	⏸️ Pemerintah membekukan gaji pegawai negeri: kesehatan fiskalnya di {0}/100 dan kenaikan gajimu {1} % dibatalkan.
+572d28	⏸️ {0} membekukan kenaikan gaji: {1} di {2}/100 dan kenaikan gajimu {3} % dibatalkan.
+b57143	📈 Kesehatan fiskal pemerintah yang baik ({0}/100) menambah {1} % pada gajimu.
+56b32e	📈 Masa bagus {0} ({1}/100) menambah {2} % pada gajimu.
+2d4e49	😠 Keresahan di {0}: gaji rendah atau beban kerja berlebihan merusak reputasinya.
+aa957c	Ketuk seseorang untuk berinteraksi (sekali setahun per orang).
+f3f8bb	Hubungan yang kuat membuka bantuan, pinjaman, dan pekerjaan, dan rival bisa menyabotasemu.

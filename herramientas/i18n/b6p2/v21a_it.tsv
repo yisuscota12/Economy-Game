@@ -1,0 +1,120 @@
+79f1a0	Crescita
+13860a	Apre filiali quando c’è cassa e l’impresa vende a pieno ritmo.
+9aa21f	Efficienza
+a419b8	Taglia i costi: l’utile sale con la capacità del direttore.
+61c537	Prudente
+31385f	Paga prima i debiti e tiene cassa per le crisi.
+a31d55	Gruppo {0}
+bfb596	{0} dirige {1} ({2}, capacità {3}). Stipendio: {4} all’anno, pagato dalle imprese del gruppo.
+962793	Licenzi {0}: la liquidazione ({1}) esce dalla cassa delle imprese del gruppo.
+4c1e09	Rastrelli la cassa di {0}: {1} passano ai tuoi soldi. Ogni impresa conserva 3 mesi di costi.
+84f001	Nessuna impresa di {0} ha cassa in eccesso (ognuna ha bisogno di 3 mesi di costi).
+6f31ff	Il gruppo ha bisogno di almeno 2 imprese.
+cfbdb2	Non serve spostare cassa: nessuna impresa ne ha bisogno o nessuna ne ha in eccesso.
+dcefdf	Prestito interno: {0} trasferisce {1} a {2}, che paga {3} di debito bancario.
+97b844	Prestito interno: {0} trasferisce {1} a {2}.
+96cf14	Sciogli {0}: le sue imprese tornano a dipendere da te.
+90205f	Ti mancano {0} per la revisione.
+653aca	La revisione di {0} ({1}) trova un debito nascosto di {2} e risultati gonfiati: le vendite reali sono il {3} % di quanto dichiarava il venditore.
+07432e	La revisione di {0} ({1}) conferma le cifre del venditore: non ci sono debiti nascosti.
+d92860	Ti mancano {0}.
+e4eca8	Devi avere 18 anni.
+774901	Il venditore rifiuta la tua offerta per {0} e la ritira dal mercato.
+d038f3	Il venditore rifiuta {0} per {1}. Puoi riprovare ancora una volta.
+2c4f8e	Compri {0} per {1} (paghi {2}; {3} di credito restano come debito dell’impresa).
+8a32dc	Compri {0} per {1}.
+c3810a	Compri {0} per {1}. Esaminando i conti scopri un debito nascosto di {2}: non hai fatto la revisione.
+7d6cad	Compri {0} per {1} (paghi {2}; {3} di credito restano come debito dell’impresa). Esaminando i conti scopri un debito nascosto di {4}: non hai fatto la revisione.
+a80a45	Questa impresa non si può comprare con un’OPA.
+b447c9	Controlli già questa impresa.
+6cba2b	Hai già fatto un’offerta per questa impresa quest’anno: gli azionisti non ne accettano un’altra fino al prossimo.
+5fc942	Gli azionisti di {0} respingono la tua offerta di {1} per azione. Paghi {2} ai consulenti e l’azione sale per la speculazione.
+14aff7	{0} prende il controllo di {1} con un’offerta pubblica: compra il 51 % delle azioni con un premio del {2} %.
+cc2471	Prendi il controllo di {0}: compri {1} azioni a {2} ({3} con le commissioni). Ora scegli la sua strategia e il suo direttore.
+da1738	Equilibrata
+e65e56	Resta com’era.
+7a76c3	Crescere
+3da0c1	Reinveste quasi tutto: gli utili crescono più in fretta e distribuisce meno dividendi.
+94f59e	Taglia i costi: utili un po’ più alti e l’azione si muove meno.
+b94493	Dividendi
+908b77	Distribuisce di più: dividendi molto più alti, ma cresce meno.
+026517	{0} cambia strategia: {1}.
+d6c94d	{0} è la nuova direttrice o il nuovo direttore generale di {1} (capacità {2}).
+c33cbb	Scendi sotto il 50 % delle azioni di {0}: perdi il controllo dell’impresa.
+61204b	Ti serviva {0} o meno.
+b2c202	Ogni mese la tua impresa vende, paga materie prime, stipendi, affitto, tasse e debiti; ciò che distribuisce arriva ai tuoi soldi.
+00124f	Puoi dirigere di persona fino a {0} imprese; oltre, raggruppale sotto un direttore.
+4696d6	{0} di persona
+fa9f4a	⚠️ Dirigi {0} imprese di persona: non ti basta il tempo e ogni mese tutte perdono {1} punti di reputazione.
+31ac0c	Crea un gruppo con un direttore per recuperarla.
+55fb54	Imprese in vendita
+83f3eb	Gruppi
+3c25b5	Controllate in borsa
+e0af5d	Strategia: {0}
+5cba62	Le mie imprese
+b2cd36	Attività di {0} i cui proprietari vogliono vendere. Le cifre sono quelle dichiarate dal venditore: possono essere truccate.
+a7f651	Una revisione controlla conti e debiti prima di comprare.
+fcf966	L’elenco si rinnova ogni 6 mesi.
+ff1f4f	Al momento non ci sono imprese in vendita.
+5a55b8	{0} dipendenti
+8c58df	reputazione {0}
+906c35	Vendite all’anno
+a753b2	Utile all’anno
+e8d23f	Debito
+29ce23	Cassa
+2a469b	Revisionata
+75939d	Venditore con fretta
+0c06e4	Debito nascosto: {0}
+d83204	Offerte respinte: {0}
+d9d394	Revisionare ({0})
+1e872c	Con credito: paghi metà e l’altra metà resta come debito dell’impresa
+e146d0	Revisione
+345238	Un gruppo (conglomerato) riunisce varie tue imprese sotto un direttore.
+fddf77	Così puoi averne quante vuoi senza perdere attenzione, e quelle dello stesso settore condividono clienti e fornitori (sinergie).
+15c6fa	{0} imprese
+c665a3	Senza direttore
+948086	valore {0}
+b63dfe	Crea un gruppo
+92ac3b	Nome del gruppo
+12a447	Direttore
+306fa7	capacità {0}
+f702aa	{0} all’anno
+3408b6	Senza direttore le imprese del gruppo non ricevono i suoi miglioramenti. Lo stipendio lo pagano le imprese del gruppo.
+c701f1	Licenziare
+7181cb	Imprese del gruppo
+f9059b	{0}/mese
+024340	sinergie {0}/mese
+819e73	risparmi {0}/mese
+36d9a1	Togli
+ba39af	Non ha ancora imprese.
+f6cb1f	Aggiungi al gruppo
+76afcf	Rastrella cassa
+749f23	Prestito interno
+67de03	Sciogli
+96a561	Controllo dell’impresa
+5fa13a	Le tue azioni
+4b5b07	Strategia
+1c6a17	Dividendo all’anno
+8381a9	Controlli {0}: decidi la sua strategia e il suo direttore. Se vendi azioni e scendi sotto il 50 %, perdi il controllo.
+66ca3f	Cambia direttore
+d9a1b7	Scegli direttore
+cf5468	Con più del 50 % delle azioni controlli l’impresa. Un’offerta pubblica di acquisto (OPA) compra da tutti gli azionisti che vogliono vendere con un premio sul prezzo di oggi: più alto il premio, più accettano.
+fb16fb	Ti mancano
+8ca912	{0} az.
+be3ffa	Valore di mercato
+136044	Hai già fatto un’offerta quest’anno: gli azionisti non ne accettano un’altra fino al prossimo.
+05f71c	Premio
+e11d21	Offerta pubblica di acquisto
+4705dc	Offerta per comprare le azioni di un’impresa quotata da tutti i suoi azionisti, a un prezzo fisso, per prenderne il controllo. È nota come OPA.
+3759a9	Premio di controllo
+6cc33f	Ciò che si paga sopra il prezzo di mercato per convincere gli azionisti a vendere e prendere il controllo.
+28a776	Revisione (due diligence)
+b88955	Esame dei conti, dei contratti e dei debiti di un’impresa prima di comprarla, per non pagare troppo cifre truccate.
+73ebba	Acquisizione a leva
+46cbb8	Comprare un’impresa con molto denaro preso in prestito che poi l’impresa stessa ripaga con i suoi utili. Moltiplica guadagno e rischio.
+d39083	Conglomerato
+1fa8cc	Gruppo di imprese di settori diversi sotto uno stesso proprietario e una direzione comune.
+860c3b	Sinergia
+5e13be	Risparmio o vendita in più che appare unendo imprese che condividono clienti, fornitori o processi.
+77c8d3	Controllo in borsa
+e6850f	Comprare imprese e gruppi

@@ -1,0 +1,573 @@
+0adf3f	{0} menaklukkan {1} provinsi milik {2}, termasuk {3}.
+cd602f	{0} menaklukkan {1} (sebelumnya milik {2}).
+fd755b	{0} lenyap dari peta.
+8c3216	Perang dengan {0}: negaramu memenangkan {1} dari 12 bulan pertempuran. Moral {2} %.
+937532	{0} merebut {1} provinsi dari {2} tahun ini.
+9d2ed9	{0} menyatakan perang terhadap {1}.
+7d6d2f	Beberapa negara menjatuhkan sanksi dagang kepada {0}.
+f0b630	Damai antara {0} dan {1}.
+a2623f	Resesi di {0}: ekonomi menyusut.
+68b345	Kudeta di {0}: {1} merebut kekuasaan.
+632f75	{0} kembali ke demokrasi.
+e06af8	{0} menyerah dan menyerahkan {1} provinsi kepada {2}.
+46b146	{0} ikut berperang untuk membela {1}.
+f996aa	{0} memberontak terhadap {1} dan menyatakan kemerdekaan.
+6b46f4	{0} ikut berperang melawan {1} di pihak {2}.
+23dc97	{0} mempertahankan {1} provinsi milik {2}.
+ce167e	Pemberontakan: {0} menyatakan merdeka dari {1} di {2} provinsi.
+93d462	Kerusuhan di {0}: sebagian penduduk menolak pemerintahan {1}.
+154566	{0} dan {1} menandatangani aliansi militer.
+ec52a2	Kerusuhan di {0}: kebahagiaan berada di {1}.
+4351e1	Pemberontakan di {0}: {1} menyatakan merdeka dari {2}.
+52e3fb	{0} merebut kembali kemerdekaannya.
+75a832	{0} merebut kembali kemerdekaannya sebagai vasal {1}.
+de6703	{0} memproklamasikan diri sebagai {1}.
+2579bb	Revolusi di {0}: rezim barunya adalah {1}.
+81f70d	Bursa Efek Kolombia
+ab62d1	Bursa Santiago
+662ec5	Bursa Toronto
+769bbc	Bursa London
+5c67e5	Euronext Amsterdam
+781045	Euronext Paris
+e24dbc	Bursa Frankfurt (Xetra)
+d7ffbb	Bursa Madrid
+7b50ae	Bursa Warsawa
+720241	Bursa Tokyo
+7e2880	Bursa Shanghai dan Shenzhen
+d8a4ee	Bursa Hong Kong
+11e55e	Bursa Korea
+e46110	Bursa Taiwan
+e6f8e1	Bursa Nasional India
+af2ac1	Bursa Singapura
+d7ae01	Bursa Efek Indonesia
+def80b	Bursa Australia
+062b18	Bursa Tel Aviv
+518b0d	Bursa Johannesburg
+e528e5	Indeks MOEX
+ffe2f8	Bursa Moskow
+526456	Bursa Nigeria
+c064f5	Bursa Mesir
+9e2919	E-commerce
+a2cea1	Kesehatan dan farmasi
+d7e98f	Pertahanan dan dirgantara
+403d0f	Media dan hiburan
+57e548	Utilitas
+158c86	juta BTU
+d24bde	miliar m³
+96c770	juta ton
+ef1058	ribu ton
+2067d4	ton karbonat
+3c52b5	ribu ton setara karbonat
+92c927	ribu ton oksida
+b67943	ton oksida
+876706	ton uranium
+f057e1	pon U₃O₈
+8a3c09	Warung makan
+92653a	Toko kelontong
+e9fd9e	Bengkel mobil
+9fc1b1	Perusahaan perangkat lunak
+a9dadb	Toko pakaian
+a9a6b7	Toko online
+e8df6f	Agensi pemasaran
+7bb2fd	Studio gim video
+26823a	Angkutan barang
+96ea93	Armada taksi
+27c105	Klinik medis
+7f92f4	Perusahaan properti sewaan
+6b4140	Perusahaan pembiayaan (pinjaman)
+cca0d4	Pertanian
+2d1f04	Reksa dana pasar uang (utang jangka pendek)
+a34efa	Memberi suku bunga acuan negaramu dikurangi biaya; nyaris tanpa risiko
+e98580	Obligasi dan sedikit saham
+06460f	Saham dunia: imbal hasil lebih tinggi dan penurunan lebih dalam
+1e019b	Reksa dana komoditas
+733bfd	Minyak, emas, dan tembaga
+a7708a	Reksa dana pertumbuhan
+0e6f9f	Hedge fund
+5baa46	Strategi makro dengan leverage; mengambil 2 % dan 20 % keuntungan
+03af00	+8 % penerimaan pajak selama 3 tahun; −2 persetujuan
+9bddc8	+5 % penerimaan pajak; −3 persetujuan di kalangan terkaya
+b08957	Pemberantasan penggelapan pajak
+f65139	Penerimaan dan kontrol belanja
+09dab7	Menarik investasi asing
+50b899	Dukungan bagi usaha kecil
+50dc72	+0.2 % pertumbuhan dan +kebahagiaan
+53b83a	+0.4 % pertumbuhan selama 3 tahun
+97c62c	Pertumbuhan, investasi, dan perdagangan
+05e424	+10 % produksi sumber daya selama 5 tahun
+3fd6c3	+kebahagiaan, −ketergantungan pada minyak
+7948ee	Transisi ke energi bersih
+7d1981	Melelang ladang minyak dan tambang
+b3c719	Minyak, gas, listrik, dan pertambangan
+0c9836	+5 % kualitas militer
+1ef1d5	+pasukan tanpa kehilangan persetujuan
+d9f99b	Memodernisasi peralatan militer
+442f9d	Lawatan diplomatik
+50e246	Perjanjian perdagangan bebas
+bcd226	Diplomasi, perjanjian, dan perdagangan luar negeri
+c8f7fd	+10 opini dengan tetanggamu
+ff7559	+0.3 % pertumbuhan selama 3 tahun
+503860	+kebahagiaan di provinsi, −1 stabilitas
+5a570f	Stabilitas dalam negeri, pemilu, dan konflik
+76f05d	+6 stabilitas
+d63fe9	Dalam Negeri
+dc8778	Dialog dengan oposisi
+24a34a	−25 % kejahatan selama 3 tahun; +persetujuan
+51971c	Polisi dan pemberantasan kejahatan
+7b1a71	Memprofesionalkan polisi
+826c00	−15 % kejahatan, permanen
+b3d3cf	Operasi melawan kejahatan terorganisir
+1fbfd0	Sekolah, universitas, dan sains
+49dea8	Program beasiswa nasional
+556aab	Universitas negeri baru
+c74b42	+pembangunan dan +riset
+cf816c	+0.5 pembangunan di provinsi termiskin
+06b593	+kebahagiaan di provinsi terpadat
+25559a	Kampanye vaksinasi
+58d801	+kebahagiaan dan kematian lebih rendah
+bde775	Rumah sakit dan kesehatan masyarakat
+1d9314	+pembangunan di provinsi pedesaan
+6e583e	Program jalan
+830e44	Jalan, pelabuhan, dan komunikasi
+8a3835	Jaringan internet pedesaan
+9acb91	+pembangunan dan +0.2 % pertumbuhan
+5fd837	+15 % produksi pertanian selama 5 tahun
+73a24c	Pertanian dan pangan
+84deda	+10 % produksi pertanian dan +kebahagiaan pedesaan
+87f4d3	Subsidi pertanian
+0cbf46	+kebahagiaan; −0.1 % pertumbuhan
+6ea7a2	Kenaikan upah minimum
+852b3d	Lapangan kerja dan upah
+d2c17e	+0.1 % pertumbuhan dan +kebahagiaan
+d5fde1	Pelatihan kerja
+9cbd36	+20 % turis (hotel, bar, toko perhiasan) selama 3 tahun
+c2f941	Promosi pariwisata
+f44aab	Kampanye pariwisata internasional
+06ef63	Sumber daya alam dan polusi
+d790f3	Reboisasi nasional
+9e3909	Kepala departemen
+dc00cd	Direktur bidang
+4e7aed	Pergantian mata uang: tabunganmu sebesar {0} ({1}) kini menjadi {2} ({3}), dengan kurs hari ini.
+4c0c27	Krisis mata uang di {0}: setelah serangan spekulatif, {1} terdevaluasi {2} % ({3} → {4} per dolar) dan mulai mengambang.
+5bc580	Krisis mata uang di {0}: {1} terdevaluasi {2} % ({3} → {4} per dolar).
+7573fa	Krisis mata uang di {0}: {1} terdevaluasi {2} % ({3} → {4} per dolar) dan mulai mengambang.
+901c84	Krisis mata uang di {0}: setelah serangan spekulatif, {1} terdevaluasi {2} % ({3} → {4} per dolar).
+0fcdb7	Reformasi moneter: {0} menghapus satu nol dari mata uangnya. Setiap {1} setara {2} unit mata uang lama.
+52361a	Reformasi moneter: {0} menghapus {1} nol dari mata uangnya. Setiap {2} setara {3} unit mata uang lama.
+5c2150	Reformasi moneter: {0} menghapus satu nol dari mata uangnya; lahirlah {1}. Setiap {2} setara {3} unit mata uang lama.
+b988c5	penerbit
+fb4c96	Reformasi moneter: {0} menghapus {1} nol dari mata uangnya; lahirlah {2}. Setiap {3} setara {4} unit mata uang lama.
+3d88d2	Negaramu berganti mata uang: kini kamu memakai {0}. Uangmu dikonversi dengan kurs hari ini ({1} {2} per {3}).
+407655	{0} mengadopsi {1}. {2} berhenti beredar.
+53d50f	{0} mengadopsi {1} {2}. {3} berhenti beredar.
+88d019	mata uang baru {0}
+7e847e	keluar dari uni moneter
+a7a31d	{0}: {1} beralih ke kurs mengambang terkendali.
+b09a14	{0}: {1} dipatok terhadap {2} ({3} per unit).
+bec586	{0}: {1} beralih ke dewan mata uang terhadap {2} ({3} per unit).
+cdcf0d	untuk menghentikan hiperinflasi
+3de844	{0} meluncurkan rencana stabilisasi: pemangkasan belanja, akhir pencetakan uang, dan kenaikan suku bunga.
+b51406	{0} membiayai perang dengan mencetak uang.
+6b55dc	setelah memenuhi kriteria Maastricht
+1f1e10	10 % PDB per tahun
+510406	1 % PDB per tahun
+86bdd5	6 % PDB per tahun
+e6498b	3 % PDB per tahun
+95d74b	{0}: anjlok tajam akibat {1} di {2}.
+98fdc3	{0}: naik tajam akibat {1} di {2}.
+5195af	{0} memangkas suku bunganya {1} poin, menjadi {2} %. Bursa bersorak.
+b1cece	{0} menaikkan suku bunganya {1} poin, menjadi {2} %. Bursa terpukul.
+b5d367	Kejatuhan bursa: Wall Street panik setelah bertahun-tahun valuasi menggelembung; pasar dunia berjatuhan.
+f35e57	Kejatuhan bursa: Wall Street panik akibat gelombang aksi jual; pasar dunia berjatuhan.
+a03436	{0} melampaui perkiraan kuartalan: laba +{1} % di atas ekspektasi. Sahamnya naik {2} %.
+b644f6	{0} mengecewakan pada kuartal ini: laba {1} % di bawah ekspektasi. Sahamnya turun {2} %.
+8903b0	{0} menyatakan bangkrut dan dihapus dari bursa.
+b320a8	pecahnya perang
+306ba3	resesi
+329727	sanksi internasional
+5b3d47	kudeta
+54883d	pendudukan negara
+96f236	Perusahaan ini sudah tidak tercatat di bursa.
+0e4270	Kamu harus berusia 18 tahun untuk membuka rekening efek.
+4e9e7a	Dari penjara kamu tidak bisa bertransaksi.
+ec0e51	Negaramu menerapkan kontrol modal: kamu tidak bisa membeli saham asing.
+dcacf4	Kamu sedang berperang dengan {0}: bursanya tertutup untukmu.
+f7b7e6	Bursa Moskow tertutup bagi orang asing karena sanksi.
+97dd29	Untuk short selling kamu perlu rekening margin.
+33a539	Sahammu terkunci {0} hari bursa lagi (masa lock-up IPO).
+e955a1	Jumlah tidak valid.
+938be8	Kamu tidak punya posisi short untuk ditutup.
+bf23b6	Tutup dulu posisi short-mu.
+72bad5	Uangmu tidak cukup: kamu butuh {0}.
+23bc5d	Margin tidak cukup: dengan margin kamu bisa membeli hingga dua kali modalmu ({0}).
+a242eb	Kamu tidak punya saham perusahaan ini.
+0af9ab	Margin tidak cukup untuk short itu (modal {0}).
+d0f3fa	Jual dulu sahammu di perusahaan ini.
+f015ab	Kamu menjual saham terakhirmu di {0}: perusahaan itu bukan milikmu lagi.
+d2c2f7	{0}: {1} saham {2} pada {3} (komisi {4}).
+0051eb	Order limit tercatat: beli kembali {0} pada {1}. Kedaluwarsa dalam 90 hari bursa.
+467bbd	Order stop tercatat: beli kembali {0} pada {1}. Kedaluwarsa dalam 90 hari bursa.
+4fee5d	Harga tidak valid.
+672292	Order limit tercatat: beli {0} pada {1}. Kedaluwarsa dalam 90 hari bursa.
+964fba	Order stop tercatat: jual {0} pada {1}. Kedaluwarsa dalam 90 hari bursa.
+b7db44	Order stop tercatat: beli {0} pada {1}. Kedaluwarsa dalam 90 hari bursa.
+c59d95	Order limit tercatat: short sell {0} pada {1}. Kedaluwarsa dalam 90 hari bursa.
+ebdb9f	Order stop tercatat: short sell {0} pada {1}. Kedaluwarsa dalam 90 hari bursa.
+f02450	Order limit tercatat: jual {0} pada {1}. Kedaluwarsa dalam 90 hari bursa.
+42854e	⚠️ Margin call: brokermu menjual {0} posisi untuk menutup jaminan.
+5044ca	Margin call di rekening efekmu.
+0653b0	Kamu kehilangan investasimu di {0}: perusahaan itu bangkrut.
+ebb2d0	Posisi short-mu di {0} untung penuh: perusahaan itu bangkrut.
+480fd3	Pajak keuntungan bursa ({0} %): {1} dari keuntungan {2}.
+95f5d0	Dividen yang diterima tahun ini: {0}.
+49fdcc	Bisnismu belum bisa IPO (harus perusahaan besar yang untung).
+12e946	{0} melantai di {1}: melepas {2} % sahamnya dan bernilai {3}.
+260753	Perusahaanmu melantai di bursa! Kamu menjual {0} % dan menerima {1} (komisi penjaminan 7 %). Kamu mempertahankan {2} % dengan lock-up 6 bulan.
+7a099a	{0} tutup karena rugi dan dihapus dari bursa.
+78d746	Serangan spekulatif terhadap {0}: pasar bertaruh kamu tidak akan sanggup mempertahankan kurs {1} per dolar (nilai keseimbangannya sekitar {2}). Kas negara dan cadangan sedang tertekan.
+e130ce	Pertahankan: naikkan suku bunga 8 poin dan jual cadangan
+1301e6	Kamu kalah taruhan: cadangan habis dan mata uang ambruk lebih parah daripada jika didevaluasi secara teratur.
+898e93	Kamu bertahan dari serangan: menghabiskan {0} cadangan dan suku bunga naik ke {1} %. Ekonomi melambat, tapi kurs bertahan.
+2c2401	Devaluasi secara teratur dan pertahankan kurs tetap di level baru
+57ce7e	Kamu mengumumkan devaluasi teratur. Menyakitkan, tapi pasar tenang.
+b11a06	devaluasi teratur
+e1eac8	Kamu membiarkan mata uang mengambang. Mata uang menyesuaikan seketika dan bank sentral mendapat kembali otonominya menetapkan suku bunga.
+62745c	Otonomi dikembalikan: {0} kembali menetapkan suku bunga dengan aturannya (inflasi dan pertumbuhan).
+ae037b	Kamu menghapus {0} nol: 1 {1} = {2} unit lama. Harga dan gaji ditulis ulang; daya beli tidak berubah.
+2b6ab6	{0} meluncurkan rencana stabilisasi dengan mata uang baru: akhir pencetakan uang, bank sentral independen, dan kenaikan suku bunga.
+ec5085	{0} meluncurkan rencana stabilisasi: akhir pencetakan uang, bank sentral independen, dan kenaikan suku bunga.
+a7381e	Rencana stabilisasi: kamu berhenti mencetak uang, bank sentral mendapat kembali otonominya dan menaikkan suku bunga 8 poin; lahirlah {0}. Inflasi akan turun tajam dalam 3 tahun ke depan; harganya adalah resesi dan persetujuan yang turun.
+a37ef7	sebagai anggota zona euro
+02ba38	{0} mengadopsi {1}. Inflasimu akan mendekati inflasi AS, tapi kamu kehilangan kebijakan moneter dan seigniorase.
+27503e	{0} mengadopsi {1}. Inflasimu akan mendekati inflasi zona euro, tapi kamu kehilangan kebijakan moneter dan seigniorase.
+83d01c	Kamu meninggalkan {0} dan meluncurkan {1} ({2}). Kamu mendapat kembali kebijakan moneter, tapi transisinya menakutkan: pelarian modal, resesi, dan mata uang yang lahir lemah.
+5ec038	sejak sebelum 2026
+632f4c	Reksa dana indeks IPC Meksiko
+58f214	Reksa dana indeks Shanghai
+4567fe	aksi ambil untung setelah kenaikan
+4a0bcf	pencarian aset aman di tengah ketidakpastian
+6b8028	spekulasi di pasar
+dda919	perlambatan ekonomi dunia
+fce0e8	turunnya pasokan ({0})
+270591	{0} naik {1} % bulan ini akibat {2}: {3}.
+ed8840	{0} turun {1} % bulan ini akibat {2}: {3}.
+51b04a	{0} melarang ekspor {1} untuk menahan harga dalam negeri: negara ini memproduksi {2} % dunia.
+bf48f2	{0} mencabut larangan ekspor {1}.
+804a21	larangan ekspor
+cf7c6d	kehilangan wilayah
+c4f935	{0} di {1}, {2} % dunia
+f95218	gangguan produksi
+27ccad	US${0} per {1}
+43f16e	Kamu harus berusia 18 tahun (16 untuk warung makan).
+8bc824	Dari penjara kamu tidak bisa membuka usaha.
+aba2e5	Kamu sudah punya {0} perusahaan: jual atau tutup salah satunya dulu.
+7b7e1d	Di provinsi ini tidak ada endapan mineral. Cari provinsi dengan ⛏️ di peta sumber daya.
+10b067	Kamu tidak bisa berinvestasi di negara yang sedang berperang denganmu.
+5c65e7	Di provinsi ini tidak ada minyak maupun gas.
+204331	Kamu membuka usaha baru ({0}) di {1}: berinvestasi {2} untuk tempat dan peralatan serta {3} untuk modal kerja.
+55514d	Kamu membuka usaha baru ({0}) di {1}: berinvestasi {2} untuk tempat dan peralatan serta {3} untuk modal kerja (kredit bank {4}).
+ffc91d	💥 {0} bangkrut: utangnya ({1}) melebihi nilainya. Kamu menutup usaha ({2}) dan kehilangan modalmu.
+0238eb	Kamu sudah mencapai jumlah cabang maksimum untuk bidang usaha ini ({0}).
+be71a6	Kamu butuh {0} (kas perusahaan + uangmu).
+6eba35	Kamu membuka cabang ke-{0} {1} ({2}) dan merekrut {3} karyawan.
+f83e91	Ini satu-satunya cabangmu: untuk menutupnya, tutup perusahaannya.
+fd80e9	Kamu menutup satu cabang dan mendapat kembali {0} dari menjual peralatan.
+ceb925	Kamu tidak bisa tanpa karyawan.
+926cc6	Kamu memecat {0} karyawan dan membayar pesangon {1} (3 bulan gaji).
+69d59b	Bank tidak mau meminjamimu lagi: utangmu sudah tinggi dibanding penghasilan perusahaan.
+77945d	Bank meminjamkan {0} kepada {1} dengan bunga {2} % per tahun.
+571a62	Kamu membayar utang {0}.
+62681d	Tidak ada kas untuk membayar utang.
+0e8dd9	Kamu menyetor {0} ke kas {1}.
+aae75a	Kamu tidak punya uang untuk disetor.
+1c0c3a	Perusahaan tidak punya kas.
+7d0bde	Kamu menarik {0} dari kas {1}.
+31b219	Kamu menjual {0} seharga {1} (setelah melunasi utangnya).
+4a941c	Perusahaanmu tercatat di bursa: jual sahammu lewat 📈 Bursa.
+630e0d	Perusahaan terbuka tidak bisa ditutup begini: jual sahammu.
+ecb515	Kamu menutup {0}: melelang peralatan, membayar utang dan pesangon ({1}). Sisa uangmu {2}.
+27ea54	Kamu membeli {0} {1} pada {2} ({3}).
+6b0250	Kamu tidak punya komoditas itu.
+bae7f6	Kamu menjual {0} {1} seharga {2}.
+7c925f	Uangmu tidak cukup.
+baf6a2	Kamu tidak bisa membeli utang negara yang sedang berperang denganmu.
+bbf6f5	Negaramu menerapkan kontrol modal.
+6af867	Kamu membeli obligasi 10 tahun {0} seharga {1}: imbal hasil {2} % per tahun dalam {3}.
+13cebb	Kamu menjual obligasi {0} milikmu seharga {1}.
+305eb6	{0} menyatakan moratorium utang: pemegang obligasi mendapat kembali sekitar 45 %.
+dd05d2	Obligasi {0} milikmu terkena potongan 55 % karena moratorium.
+43a741	{0} lenyap: obligasinya dibayar 30 %.
+9b507f	Obligasi {0} milikmu jatuh tempo: kamu menerima {1}.
+bf7d52	{0} menasionalisasi minyak dan pertambangan: negara mengambil porsi rente yang lebih besar.
+ee4020	{0} melarang ekspor {1}.
+2d50c7	Kepala meja
+700b36	Direktur investasi
+8d5800	MBA (sekolah bisnis)
+0257bd	biaya kuliah {0}/tahun
+6e153a	pascasarjana
+e9d78e	kamu masuk sebagai Manajer atau Associate
+113347	karier naik sampai CEO
+4d769b	Kamu tidak lolos seleksi. Coba tahun depan atau perkuat profilmu.
+576d1c	{0}/tahun
+656ad2	Masuk ke korporasi sebagai Manajer (MBA)
+23a64d	butuh Ekonomi, Teknik, MBA, atau sertifikasi
+85fa39	mulai dari Trader kamu mengelola uang sungguhan
+7ca370	Kamu tidak lolos wawancara teknis.
+0b52a0	tingkat lulus ~{0} %
+569c92	membuka karier keuangan dan mempercepat promosimu
+57e016	Sertifikasi analis keuangan: level {0} dari 3 ({1})
+c0e5e6	Ujian tahunan
+3995f8	Kamu lulus level {0} sertifikasi.
+7a09c7	Kamu gagal ujian: tahun depan kamu bisa mengulang.
+3e742d	Kamu menyelesaikan kursus: kamu lebih paham membaca pasar.
+cb3f9d	Kursus trading dan pasar ({0})
+24274d	Diploma manajemen bisnis ({0})
+8cfc92	Kamu menyelesaikan diploma.
+8c5619	Memimpin {0} sebagai CEO (satu keputusan per tahun)
+48abe7	Kamu mengelola {0} di {1}
+d5ff8d	Pekerjaanmu
+efa665	📊 Meja trading
+2edaf0	Investor memercayakan modal kepadamu; kamu mengambil 2 % biaya kelola dan 20 % keuntungan
+42564e	kamu menyetor {0}
+ca4b86	Mendirikan reksa danamu sendiri
+6e5622	📈 Reksa danamu: {0}
+17d3c4	Pasar mengganjar rencana ekspansimu.
+5a0b5e	+pertumbuhan laba selama 3 tahun; kalau gagal, saham turun
+841768	Ekspansi agresif
+8ecc3d	Ekspansi lebih mahal dari rencana: saham turun.
+4c6e13	Kamu memangkas biaya: laba dan saham naik, tapi suasana internal memburuk.
+7b6f53	Pemangkasan biaya
+e0576a	+laba tahun ini; moral dan reputasi turun
+9399ec	Kamu membeli kembali 4 % saham: laba per saham naik.
+b458d4	Menaikkan harga per saham; memakai kas perusahaan
+c27d10	Pembelian kembali saham
+27184f	Menarik investor jangka panjang
+69918e	Dividen naik menjadi {0} %.
+c2999f	Menaikkan dividen
+2df232	Kamu bertaruh pada inovasi: laba lebih kecil hari ini, pertumbuhan lebih besar besok.
+564eee	Mengorbankan laba hari ini, pertumbuhan lebih besar nanti
+85448f	Berinvestasi dalam inovasi (R&D)
+035f3b	Kamu membayar terlalu mahal untuk akuisisi: saham dihukum pasar.
+63f610	Laba +12 %; risiko membayar terlalu mahal
+b5d232	Membeli pesaing
+fe8ebd	Akuisisi berhasil: kamu merebut pangsa pasar.
+abb0ef	🇯🇵 Saham Jepang
+0a7cf6	🛢️ Minyak
+584d6a	🏛️ Obligasi AS 10 tahun
+e72c5c	Kamu mendirikan {0}: kamu menyetor {1} dan investor pertamamu menyetor empat kali lipat. Kamu mengambil 2 % biaya kelola per tahun dan 20 % keuntungan.
+5106eb	💥 Kamu kehilangan {0} % modal meja tahun ini: {1} memecatmu.
+5f5a62	Reksa danamu {0} tutup: investor menarik hampir semuanya. Kamu mendapat kembali {1}.
+4a3689	Mejamu menutup tahun di {0} %: tanpa bonus.
+c12d26	Mejamu untung {0} % ({1}). Bonus: {2}.
+1a153c	{0} memberi imbal hasil {1} % tahun ini.
+a1a82b	{0} memberi imbal hasil {1} % tahun ini: kamu menerima {2} biaya kinerja.
+7e1ebe	Perusahaanmu lenyap: kamu kehilangan jabatan.
+45d93c	Dewan membayarmu bonus {0}: saham mengalahkan indeks {1} poin.
+ab150a	Dewan {0} mencopotmu: saham tertinggal dari pasar dua tahun berturut-turut. Kamu pergi dengan pesangon {1}.
+bb8308	Kamu menyewa {0} ({1}): {2} per tahun.
+e693ca	Kamu membatalkan layanan {0}.
+731b8d	Pengacaramu menemukan cacat prosedur: kamu dibebaskan.
+f137be	Sekelompok orang bersenjata menghadang dan menculikmu. Mereka menuntut {0} untuk pembebasanmu.
+42111f	Kamu membayar dan dibebaskan beberapa hari kemudian. Pengalaman itu membekas.
+5db447	Bayar tebusan ({0})
+2cbf7c	Negosiator berhasil membebaskanmu dengan setengah harga.
+4f2e40	Bernegosiasi lewat spesialis (setengah harga, lebih berisiko)
+9f6abb	Negosiasi menjadi rumit: kamu dibebaskan dalam keadaan terluka.
+443c00	Operasi polisi menyelamatkanmu.
+7d0475	Menunggu polisi
+ae8f9d	Operasi gagal: kamu selamat dengan luka parah.
+0b52b8	Sebuah kelompok kriminal menuntut “uang keamanan” bulanan dari {0}.
+1db265	Kamu membayar. Usaha tetap buka, tapi penghasilanmu berkurang.
+e62652	Bayar uang keamanan ({0} per bulan, selama setahun)
+2f0550	Mereka membalas: menyerang tempat usahamu dan menakuti pelanggan.
+d580fe	Polisi menangkap para pemeras.
+cff0dc	Kamu tutup beberapa minggu sampai tekanan mereda.
+324947	Itu sudah mata uangmu.
+855305	Negaramu menerapkan kontrol modal: kamu tidak bisa membeli valuta asing.
+a689c2	Kamu membeli {0} ({1}) seharga {2}.
+823b1e	Kamu tidak punya valuta itu.
+255dfd	Kamu menjual {0} dan menerima {1}.
+2e735d	{0} menjual cadangan {1} untuk memperkuat {2}.
+00c917	{0} melepas {1} dari cadangan strategisnya: harga minyak mentah turun.
+2a6ced	Pertahankan: suku bunga +8 dan jual cadangan (kamu punya {0})
+fc75c7	Kamu menghabiskan {0} cadangan.
+813041	Kini kamu mengelola {0}: buka 📊 Meja trading di Karier.
+651871	Naik jabatan berkat persiapanmu! Kini kamu {0}.
+1ca4c3	{0} mensyaratkan kekayaan {1} untuk membukakanmu rekening.
+889a63	Bank tidak tersedia.
+331e6c	Kamu menyimpan {0} di {1} ({2} % per tahun).
+654abd	Kamu tidak punya uang tunai untuk disimpan.
+fb4937	Kamu tidak punya saldo di sana.
+0b675e	{0} bisa meminjamimu hingga {1} berdasarkan riwayatmu (skor {2}).
+a589c2	Kamu bangkrut: tidak ada bank yang mau meminjamimu.
+0c2b9c	{0} meminjamimu {1} selama {2} tahun dengan bunga {3} % (cicilan {4} per tahun).
+54be5f	Tidak ada penjaminan simpanan
+d13bdd	Penjaminan simpanan mengembalikan {0} kepadamu
+f7309c	{0} bangkrut: {1} mengambil alih bank itu.
+3187f3	Investasi minimum: kekayaan {0} (private banking).
+a96434	Kamu berinvestasi {0} di {1}.
+4a5fdf	Kamu menarik {0} dari reksa dana (rugi {1}).
+4e9dd3	Kamu menarik {0} dari reksa dana (untung {1}).
+6538a8	Kamu tidak punya reksa dana itu.
+6171d5	Modal minimum untuk bank tingkat {0}: {1}.
+6936f6	Regulator {0} menolak izin bankmu (kamu menghabiskan {1} untuk prosesnya). Tingkatkan pengaruh atau pengalaman keuanganmu lalu coba lagi.
+e11cd2	Kamu mendapat izinnya! Kamu mendirikan {0} ({1}) dengan modal {2}.
+4cecda	🏦 {0} tumbuh dan naik ke tingkat {1}.
+d0a0de	{0} naik ke tingkat bank {1}.
+6e66ac	Rush bank di {0}: para penabung antre menarik uang mereka. Modalmu menutup {1} % pinjaman.
+6e3497	Uangmu tidak cukup: bank kehilangan 30 % simpanannya dan reputasinya turun.
+b68f68	Kamu menyuntikkan modal dan antrean bubar.
+a986dd	Minta likuiditas ke bank sentral
+ee94bd	Bank sentral meminjamimu dengan bunga penalti; kamu bertahan dengan simpanan lebih sedikit.
+177185	Jual bank ke pesaing
+b26157	Kamu menjual bank seharga {0}.
+3e2462	Kamu menjual {0} seharga {1} (1.2 kali modalnya).
+39fc63	krisis perbankan
+28b604	Krisis perbankan di {0}: pemerintah menalangi bank dengan 4 % PDB.
+fdcb5f	Krisis perbankan di {0}: pemerintah membiarkan beberapa bank bangkrut dan resesi memburuk.
+5fc2b3	Krisis perbankan di {0}: beberapa bank tidak sanggup membayar penabungnya dan kredit membeku.
+8a2aa1	Kamu menalangi sistem: kredit kembali mengalir, tapi pembayar pajak menanggung tagihannya.
+f05ccf	Talangi bank (4 % PDB)
+77b2da	Biarkan bank yang insolven bangkrut
+be0090	Kamu membiarkan bank terburuk bangkrut: sistem menjadi bersih, tapi resesi akan lebih panjang.
+41e7f3	Minta dana talangan ke IMF
+729d39	IMF menyetujui pinjaman {0} untuk {1} dengan imbalan program penghematan.
+7687e7	politikus loyal
+819f3f	Skandal di Kementerian {0} {1}: {2} dituduh menggelapkan dana.
+24af4c	Kamu mengangkat {0} ({1}) di Kementerian {2}.
+b11981	Pemerintah mencopotmu dari kementerian.
+0192d5	Kas negara tidak cukup ({0}).
+5b9325	{0}: Kementerian {1} meluncurkan «{2}» ({3}).
+49e5c7	Pelayanan publik
+3c3c5f	Kamu tidak lolos ujian masuk.
+ac7078	{0} Masuk ke Kementerian {1}
+bcd495	kamu bisa menjadi Menteri
+eef9d9	Kamu masuk ke Kementerian {0} sebagai {1}.
+48bbf4	Sebagai Menteri {0} (satu arahan per tahun)
+ecd4e3	{0} dari anggaran kementerian
+0bd064	Kamu dilantik sebagai Menteri {0} {1}. Keputusanmu menggerakkan negara.
+bf9039	Pemerintahan baru datang dan mengangkat Menteri lain: kamu meninggalkan jabatan.
+78c17c	1 tahun
+9bd244	mata uangmu: {0}
+74ba60	tidak membayar
+fe92cb	Stop: terpicu saat harga menyentuh levelmu (untuk memotong rugi atau masuk saat breakout). Bisa tereksekusi lebih buruk jika harga dibuka dengan gap.
+170f73	modal margin {0}
+11e8cf	✓ Rekening margin aktif
+3ea143	Syarat: usaha level 3 atau lebih (perusahaan besar) yang untung tahun lalu dan berusia 18 tahun.
+a5e095	Kamu menjual sebagian ke publik dan langsung menerima uang; sisanya kamu simpan (lock-up 6 bulan). Sejak itu kamu hanya mendapat bagian labamu, dan harga saham akan mengikuti hasilmu.
+30c3a0	Kamu membayar {0} dari pinjaman marginmu.
+3670d3	dewan mata uang ({0})
+36d964	— (Cepat)
+e77ca5	✓ Bank sentral independen
+9562fa	Keluar dari {0} dan membuat mata uang sendiri
+ee8705	Keluar dari {0} dan membuat mata uang sendiri
+350c61	Nama mata uang baru (hapus untuk tetap memakai “{0}”)
+3ff1df	32 bursa nyata, candlestick, order, short, dan margin
+affc3b	📈 Bursa efek
+9454fd	Rekening efek: {0} dalam saham bersih.
+3a7d39	Bernilai ~{0}: jual sebagian ke publik
+006b78	📈 Bursa, mata uang, dan bank sentral
+545c11	terpukul saat resesi
+7662cb	tercatat di bursa (milikmu {0} %)
+56a277	Kamu kekurangan karyawan ({0}): kehilangan kapasitas dan reputasi.
+9540ce	Reputasi rendah: naikkan kualitas atau gaji (pergantian karyawan merusak layanan).
+12f89e	Bahan bakumu {0} % lebih mahal daripada awal 2026 ({1}).
+7c8b5b	Sewa dan utilitas + royalti
+650e37	Jual {0} seharga ~{1}?
+695ef3	Tutup {0}?
+5c4a7e	{0} {1} ({2}/tahun)
+35cec7	1 hari
+b31942	5 hari
+1d5139	−12 % dalam setahun
+616664	5 % dari keuntungan
+5a9fde	Jika meja untung dalam setahun, kamu naik jabatan lebih cepat; jika rugi lebih dari 12 %, kamu dipecat.
+b65233	Kamu mengambil 2 % biaya kelola per tahun dan 20 % keuntungan di atas puncak sebelumnya; jika untung, investor baru datang; jika rugi, mereka pergi.
+91aac6	⚠️ Batas
+fd2e45	💼 Karier bisnis dan keuangan, layanan, dan cadangan
+771e2a	kekayaan minimum {0}
+1db201	ketuk jumlah untuk mengajukannya
+4de215	kamu harus berusia 18 tahun
+ecb974	kamu bangkrut
+7da48a	kekayaan minimum {0}
+661b0d	Kamu menyetor modal {0} ke {1}.
+53fd74	Jual {0}?
+335ab1	Kamu bekerja di Kementerian {0}.
+59702c	Kamu mengangkat para menteri dan memberi arahan (tiap pengangkatan atau arahan memakai satu aksi pemerintahan).
+c65b54	Kabinet {0}.
+d11aed	🏦 Bank, reksa dana, dan kementerian
+5ee328	Federal Reserve
+2041ec	Bank Sentral Eropa
+26c03f	Bank Sentral Brasil
+86fc3a	Bank of England
+200627	Bank of Japan
+8db8d1	Bank Rakyat Tiongkok
+d1ca53	Bank of Canada
+5c1b98	Bank Nasional Swiss
+21550c	Reserve Bank of India
+8fe486	Bank Rusia
+f2534c	Bank Sentral Turki
+998cf7	Bank of Korea
+51229e	Reserve Bank of Australia
+21a31c	Bank Sentral Chili
+9925ce	Banco de la República (Kolombia)
+525350	South African Reserve Bank
+9bbe9c	Otoritas Moneter Hong Kong
+226d1b	bank sentral {0}
+3f2c41	bank sentral {0}
+3ae616	{0} baru
+0702e4	{0} baru
+b2a193	Komisi 0.1 % (minimal US$1).
+dcba28	Komisi 0.1 % (minimal US$1) + 0.25 % untuk penukaran mata uang.
+00f47a	di bank {0}.
+22a105	Bank kecil membayar lebih tinggi, tapi lebih sering bangkrut; penjaminan simpanan negaramu menanggung hingga {0} per bank.
+b44b54	Bank kecil membayar lebih tinggi, tapi lebih sering bangkrut; penjaminan simpanan negaramu menanggung hingga {0} (saat ini dinonaktifkan) per bank.
+0ff969	{0} mengadopsi {1} setelah memenuhi kriteria Maastricht. {2} berhenti beredar.
+7125d0	{0} mengadopsi {1} sebagai anggota zona euro. {2} berhenti beredar.
+f63169	{0} mengadopsi {1} untuk menghentikan hiperinflasi. {2} berhenti beredar.
+ff094a	{0} mengadopsi {1} sebagai mata uang sendiri. {2} berhenti beredar.
+2501a3	📈 Bursa efek
+e1fa56	Beli
+3b19a7	Jual
+4ea185	Beli kembali
+57c463	escudo Portugal
+64954b	franc Prancis
+8847fa	mark Jerman
+099132	markka Finlandia
+aa7e4b	franc Luksemburg
+b4efbc	schilling Austria
+bf8146	colón El Salvador
+9ef9b3	lira Italia
+c4705a	peseta Spanyol
+9bfbe8	drachma Yunani
+22d907	gulden Belanda
+cef7ce	franc Belgia
+6b075a	pound Irlandia
+cca819	tolar Slovenia
+c74305	koruna Slovakia
+460dd9	kroon Estonia
+2cf929	lats Latvia
+57e993	litas Lituania
+928435	pound Siprus
+faac0b	lira Malta
+851b9d	kuna Kroasia
+ca5ec7	lev Bulgaria
+40bb9f	perper Montenegro
+329924	dinar Kosovo
+09dcbb	sucre Ekuador
+5a9c37	balboa Panama
+6d058c	escudo Timor
+05dede	Ekonomi dunia {0}: output global tumbuh {1} %. Pertumbuhan tertinggi: {2}. Kontraksi terbesar: {3}.
+11a184	Ekonomi dunia {0}: output global menyusut {1} %. Pertumbuhan tertinggi: {2}. Kontraksi terbesar: {3}.
+866937	Situasi keamanan {0}: {1} konflik bersenjata aktif di dunia.
+93234e	Situasi keamanan {0}: {1} konflik bersenjata aktif di dunia.
+13f047	{0} — neraca {1}: ekonomi menyusut {2} %, inflasi {3} %, suku bunga acuan {4} %. Persetujuan terhadap pemerintah: {5} %; stabilitas: {6}.
+fe2b02	{0} — neraca {1}: ekonomi tumbuh {2} %, inflasi {3} %, suku bunga acuan {4} %. Persetujuan terhadap pemerintah: {5} %; stabilitas: {6}.
+5b51e0	{0}: {1} penduduk, PDB per orang {2}, pembangunan {3}.
+7988ba	{0}: {1} penduduk, PDB per orang {2}, kebahagiaan {3}, pembangunan {4}.
+b31d0a	{0}: {1} penduduk, PDB per orang {2}.
+c02039	Provinsi ini berada di bawah kendali {0}.
+cdd8d3	{0}: {1} penduduk, PDB per orang {2}, kebahagiaan {3}.
+e90d2d	rial baru
+045952	Masyarakat
+d8fbfd	{0} mengumumkan mobilisasi umum.
+635daa	{0} mengirim senjata, uang, dan relawan ke {1} untuk melawan {2}.

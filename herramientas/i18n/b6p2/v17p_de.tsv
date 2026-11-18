@@ -1,0 +1,323 @@
+4366df	Restaurantleiter
+8c8e10	Kurs Service und Wein
+b19c39	Gastronomie
+dfe4b8	Oberkellner
+9f8dcb	Kellner in Teilzeit
+00917b	Facharbeiter
+25db75	Linienleiter
+74eafc	Fertigung
+94f5cd	Werksleiter
+f2be78	Arbeiter
+feaa5e	Gabelstapler- und Arbeitsschutzzertifikat
+5f47dd	Regionalleiter
+5fb2e4	Vertriebslehrgang
+8784c7	Senior-Verkäufer
+91a608	Filialleiter
+3e14b9	Befähigungsnachweis Bau
+45ce87	Geselle
+722636	Bau
+8a029f	Hilfsarbeiter
+b940ba	Polier
+1854d3	Tagelöhner
+9a507e	Landwirt
+9c0347	Landwirtschaft
+b6ea8f	Kurs Bewässerung und Präzisionslandwirtschaft
+fec8e2	Landwirt mit eigenem Land
+1faabc	Zertifikat Office-Software und Buchhaltung
+317e4f	Verwaltungsassistent
+47eabc	Bereichskoordinator
+4e83ca	Büroleiter
+2caf0b	Lehrgang öffentliche Verwaltung
+847b37	Verwaltung
+9960c9	Assistent
+85b776	Öffentliche Sicherheit
+95f50e	Hauptwachtmeister
+bb20c5	Polizeidirektor
+e396cc	Polizeiakademie-Lehrgang
+ecc8ab	Polizeiobermeister
+029afd	Technischer Leiter
+301b0e	Fachtechnisches Zertifikat
+8d5ff3	Fachtechniker
+2b1326	Master in Pädagogik
+76e452	Fachbereichsleiter
+b16d01	Lehrer auf Planstelle
+ca7665	Schulleiter
+ebafca	Vertretungslehrer
+1e6ae7	Softwarearchitekt
+263cf3	Junior-Entwickler
+2a3192	Tech Lead
+72d6e9	Senior-Entwickler
+d28d03	Cloud-Zertifizierung
+46a7e8	Projektmanagement-Zertifizierung
+7e2469	Junior-Ingenieur
+8c3f49	Senior-Ingenieur
+f4762a	Leiter Engineering
+011605	Associate (Anwalt)
+0398bf	Senior Associate
+1f4f0f	Partner der Kanzlei
+7140d8	Rechtsberatung
+b76cc3	Master of Laws
+e33833	Referendar
+5d4a06	Chefarzt
+7ab414	Facharzt
+894f03	Allgemeinarzt
+c88e92	Oberarzt
+cc35c0	Facharztausbildung
+1f4928	Weiterbildung
+282819	Schichtleiter
+2cd4fa	Vorgesetzter
+17fdcf	Tagschicht
+824b8c	Nachtschicht
+8fa6b9	Wechselschicht (jede Woche anders)
+af15e6	Gemischt
+86df48	Sehr hoch
+bb90d1	Niedrig
+f46edd	Hoch
+04251e	Normal
+e18540	Überstunden
+f58f80	Das Nötigste
+a34683	Fachkönnen
+aa3ec4	Verhältnis zum Chef
+e201ca	Arbeitsstunden
+55230a	Betriebszugehörigkeit
+90499f	Zertifizierung
+fed9ee	Stress
+619554	mit Gewerkschaft
+13c296	Kollegen
+7f57e4	Stelle
+9a5b79	Bedingungen
+0da43f	Berufserfahrung
+502edc	Können
+598c7e	Abmahnungen
+866e28	Resturlaub
+971fe4	Schicht
+ccf106	Berufsrisiko
+1c77d4	Gesetzliche Arbeitszeit
+990919	Weihnachtsgeld
+35fe5f	Informelle Arbeit
+73bb98	Abfindung
+8f52ef	Deine Stelle
+dce00f	Gewerkschaftsmitglieder
+5ddc89	Bezahlter Urlaub
+2cd097	Weihnachtsgeld oder Sonderzahlungen
+8f25e2	Abfindung bei Kündigung
+892af6	Gewerkschaften
+211eb2	Formell oder informell
+5f8c85	Arbeitsstress
+109b47	Leistung
+110729	Leistung
+7c2374	LEISTUNG
+4db381	Karriereleiter
+4f6653	reguläre Stelle
+8a6ade	informelle Stelle
+44db32	Laufbahn
+b7be52	Jahresgehalt
+3a0b96	Arbeitszeit
+79bd0e	Aktionen
+34eb65	Dein Chef
+52a3e8	Dein Team
+8c161b	Beurteilungen
+086bff	ausgezeichnet
+87b88f	gut
+5f51ef	befriedigend
+0d9c30	mangelhaft
+e033af	freundlich
+859738	klatschsüchtig
+d0f165	fleißig
+809f9a	faul
+c17e7c	Mentor
+a24cb9	🔥 Du stehst kurz vor dem Burnout: Reduziere deine Stunden oder nimm Urlaub.
+1082fd	🩹 Du verletzt dich bei der Arbeit.
+5d3f81	🚑 Du hast einen Arbeitsunfall. Du erholst dich, aber es bleiben Folgen.
+6a370f	📋 Halbjahresbeurteilung: {0}/100, gut. Gehaltserhöhung um {1} %.
+862f07	📋 Halbjahresbeurteilung: {0}/100, befriedigend. Keine Erhöhung.
+ba807c	📋 Halbjahresbeurteilung: {0}/100, mangelhaft. Du erhältst eine schriftliche Abmahnung ({1} von 2).
+f759b8	📋 Halbjahresbeurteilung: {0}/100, ausgezeichnet. Bonus von {1} und {2} % mehr Gehalt.
+38f462	📄 Du wirst entlassen ({0}). Du erhältst {1} Abfindung (Gesetz deines Landes: {2} Tage plus {3} pro Arbeitsjahr).
+c504b9	📄 Du wirst entlassen ({0}). Das Gesetz deines Landes schreibt keine Abfindung vor.
+e1def0	📄 Du wirst entlassen ({0}). Da die Stelle informell war, bekommst du keine Abfindung.
+09a3ff	📢 Offene Stelle als {0} ({1}): Das Unternehmen wächst.
+956c00	📢 Offene Stelle als {0} ({1}): Jemand geht in Rente.
+b5fb67	📢 Offene Stelle als {0} ({1}): Jemand wurde entlassen.
+d7fbcb	📢 Offene Stelle als {0} ({1}): Jemand hat gekündigt.
+233972	Du hast dich schon beworben.
+9f69b8	Für diese Stelle brauchst du: {0}.
+15c3eb	🎉 Du wirst befördert: {0}. Dein Gehalt steigt auf {1} im Jahr.
+4cd1d1	Die Stelle als {0} bekommt {1}, dein Rivale. Jetzt ist er dein Chef.
+099a0f	Die Stelle als {0} bekommt jemand anderes.
+83f5d2	Die Stelle als {0} wird extern besetzt.
+93ca0a	📨 {0} bietet dir eine Stelle als {1} mit {2} % mehr Gehalt an.
+a4531b	{0} bietet dir eine Stelle als {1} mit {2} % mehr Gehalt an.
+7f73dc	Du nimmst an. Du fängst bei {0} als {1} an, mit {2} im Jahr.
+e36383	Dein Chef mag keinen Druck. Keine Erhöhung, und das Verhältnis kühlt ab.
+eb05a6	Dein Chef will dich nicht verlieren: Er erhöht dein Gehalt um {0} %.
+6d4e8b	Du hast erst vor Kurzem um mehr Gehalt gebeten: Warte ein Jahr.
+94c1d4	Dein Chef stimmt zu: Dein Gehalt steigt um {0} %.
+848773	Dein Chef sagt: vorerst nicht.
+cc38c7	Du beginnst: {0}. Dauer {1} Monate, Kosten {2}.
+5cc68c	Du hast dieses Jahr keine Urlaubstage mehr.
+0421de	Du nimmst {0} Tage bezahlten Urlaub. Du kommst erholt zurück.
+63f5a6	Du nimmst {0} Tage unbezahlt (informelle Stellen haben keinen bezahlten Urlaub).
+15bec4	Du trittst aus der Gewerkschaft aus.
+faa5df	Du trittst der Gewerkschaft bei. Der Beitrag beträgt 1 % deines Gehalts.
+2484e8	Du isst mit {0} zu Mittag und erfährst den ganzen Klatsch.
+629a4e	Du isst mit {0} zu Mittag. Ihr versteht euch besser.
+7e316d	Du isst mit {0} zu Mittag und lernst Tricks des Fachs.
+387c03	Du hast schon ein Angebot auf dem Tisch.
+db66b9	Du verschickst Bewerbungen, aber bisher ruft niemand an.
+88b9bf	🎄 Weihnachtsgeld: Du erhältst {0} ({1} Tagesgehälter, gesetzlich).
+c68240	🎄 Gesetzliche Sonderzahlungen: Du erhältst {0} ({1} Tagesgehälter im Jahr).
+0b6904	🤝 Die Gewerkschaft unterzeichnet den Tarifvertrag: allgemeine Erhöhung um {0} %.
+e0d6ff	Schichttausch
+b6ccc3	{0} hält dich im Flur an: „Übernimmst du meine Samstagsschicht? Ich habe einen Familientermin, den ich nicht verschieben kann.“
+0f1170	Du verlierst deinen Samstag, aber die Dankbarkeit ist echt. Jetzt schuldet man dir einen Gefallen.
+574d5a	Die Schicht übernehmen
+2122b9	Freundlich ablehnen
+991339	Verständnis ist da, aber die Enttäuschung ist zu sehen.
+3d5ff0	Zusagen, wenn du später einen Tag zurückbekommst
+518a03	Das wirkt wie ein Gefallen gegen Bezahlung, und die Person geht verärgert.
+af570f	Abgemacht: Ihr tauscht die Tage, und beide sind zufrieden.
+db2a1e	Gerüchte über Stellenabbau
+0ebecc	Es geht das Gerücht, dass {0} Stellen abbaut. {1}, dein Chef, ist ernster als sonst.
+0aac23	Überstunden anbieten
+6753ba	Dein Chef merkt sich deine Bereitschaft. Du arbeitest mehr, giltst aber als unverzichtbar.
+0ce6ae	Den Chef fragen, wo du stehst
+3be889	Die Frage wird umgangen. Du bleibst im Ungewissen und gestresster.
+f99eb2	Dir wird bestätigt, dass deine Stelle sicher ist. Du atmest auf.
+42e9d9	Vorsichtshalber woanders bewerben
+77c735	Du aktualisierst deinen Lebenslauf und verschickst Bewerbungen.
+f32c32	Demütigende Behandlung
+f2ee92	Mitten in der Besprechung macht sich {0} vor allen über deine Arbeit lustig. Nicht zum ersten Mal.
+959bb5	Du schluckst deinen Ärger hinunter. Der Stress staut sich.
+5fd72c	Unter vier Augen mit dem Chef reden
+990b9d	Du sagst ruhig, dass das nicht in Ordnung ist. Die Entschuldigung ist halbherzig, aber es passiert nicht wieder.
+e6eb06	Die Reaktion ist abwehrend: Du seist zu empfindlich.
+c71486	Ohne ausreichende Beweise verläuft die Meldung im Sand, und dein Chef erfährt davon.
+dab6cc	Die Personalabteilung ermittelt, und es gibt eine Rüge. Deine Kollegen respektieren dich mehr.
+f71b65	Mit Beweisen der Personalabteilung melden
+408e05	An deinem Arbeitsplatz gibt es keine Gewerkschaft
+870300	Der Gewerkschaftsvertreter spricht mit der Firma. Der Umgang wird besser.
+cc15f4	Zur Gewerkschaft gehen
+08283d	Bürotratsch
+b24f2e	{0} erzählt dir, dass jemand behauptet, du würdest die Firma verlassen. Einige glauben es schon.
+3fdebb	Es vor allen dementieren
+58bd81	Man merkt, dass es dich getroffen hat, und der Klatsch wächst.
+995b0c	Du klärst es mit Humor, und der Klatsch verstummt.
+d2fc17	Nach ein paar Wochen erinnert sich niemand mehr.
+526b90	Du findest heraus, dass es jemand aus der Nachbarabteilung war, und lässt durchblicken, dass du es weißt.
+676f17	Du fragst zu viel herum, und jetzt bist du das Gesprächsthema.
+9075a6	Herausfinden, wer es angefangen hat
+a40673	Dringendes Projekt
+0f0f7f	{0} ruft dich ins Büro: „Wir haben ein dringendes Projekt bis Freitag, und ich will, dass du es leitest.“
+1cf670	Annehmen
+d6ce4f	Du arbeitest die ganze Woche bis spät, lieferst aber pünktlich. Dein Chef ist beeindruckt.
+21751c	Niemand ist verfügbar. Du ziehst es allein im Eiltempo durch.
+7d2d82	Du bekommst jemanden aus dem Team. Es klappt, ohne viele lange Nächte.
+e3601f	Annehmen, wenn du Unterstützung bekommst
+054357	Mit Begründung ablehnen
+564838	Es klingt nach einer Ausrede.
+c19c2f	Du erklärst, dass du es gerade nicht gut machen könntest. Er versteht es und gibt es jemand anderem.
+7fd8ed	Du hast keine normale Anstellung. Such dir eine unter Karriere → Arbeitsplätze.
+7bc0ce	Nächste Beurteilung in {0} Monaten.
+c84cc5	Nächste Beurteilung in 1 Monat.
+28ab8f	Weniger Stress, aber deine Leistung sinkt, und dein Chef merkt es.
+4648d2	Mehr Leistung und mehr Stress. In deinem Fall werden Überstunden ohne Zuschlag bezahlt.
+7105a6	Mehr Leistung und mehr Stress. Überstunden werden mit dem {0}-fachen Stundenlohn bezahlt.
+96710b	Du arbeitest deine Stunden, ohne dich zu verausgaben.
+2708e1	Endet in 1 Monat.
+6f1419	Endet in {0} Monaten.
+beacbe	Chance auf die Stelle: {0} %.
+aa7d56	läuft in 1 Monat ab
+472b97	läuft in {0} Monaten ab
+2062de	warte ein Jahr
+0c5269	unbezahlt (informelle Stelle)
+4520af	keine Tage mehr dieses Jahr
+a31a5d	🏖️ Eine Woche Urlaub nehmen
+df46d5	noch {0} bezahlte Tage
+51d050	das Geld reicht nicht
+7729ce	💼 Zertifizierung
+e0c6cb	nötig für die Beförderung: {0}
+e10e5b	+6 Leistung
+2984dc	✊ Der Gewerkschaft beitreten
+7f7034	du zahlst 1 % deines Gehalts
+cf7925	✊ Aus der Gewerkschaft austreten
+fd31ac	Beitrag: 1 % deines Gehalts
+bd950e	{0} Stunden pro Woche
+f7ba87	mit dem {0}-fachen Stundenlohn
+173daa	{0} Tagesgehälter
+dcd595	{0} Tage im ersten Jahr
+e312e9	{0} Tage im Jahr (Sonderzahlungen)
+ed2304	{0} Tage im ersten Jahr (steigen mit der Betriebszugehörigkeit)
+f9f0f9	nicht vorgeschrieben
+31ea26	nicht vorgeschrieben
+c4b6f6	formell, mit Sozialversicherung
+d3af34	{0} % der Beschäftigten
+dde865	{0} Tage plus {1} pro Arbeitsjahr
+e29e4f	etwa {0} %
+529ced	Da deine Stelle formell ist, hast du Anspruch auf das, was das Gesetz vorsieht: bezahlten Urlaub, Jahressonderzahlung und Abfindung bei grundloser Kündigung.
+682191	Eine informelle Stelle hat keinen Vertrag: Du zahlst keine Sozialbeiträge, hast weder bezahlten Urlaub noch Sonderzahlung, und bei einer Kündigung gibt es keine Abfindung.
+50a988	Du lehnst das Angebot ab.
+286141	💼 Deine Stelle
+9e7b7b	Du hast deine Stelle verloren. Such eine neue unter Karriere → Arbeitsplätze.
+63488f	📋 Beurteilung
+9d2db4	Die Uhr hat angehalten: Sieh dir deine Beurteilung unter 💼 Deine Stelle an.
+a70d60	📨 Jobangebot
+bff4ac	Die Uhr hat angehalten: Du hast ein Jobangebot.
+ccce29	Die Uhr hat angehalten: An deinem Arbeitsplatz ist eine Stelle frei.
+7d9ab7	Deine Leistung nähert sich jeden Monat {0}. Was zählt:
+97296d	📢 Offene Stelle: {0}
+cfa60f	📨 Angebot von {0}
+16b88b	{0} mit {1} % mehr Gehalt
+e52c6f	🎓 Du hast bereits: {0}.
+fa120d	🎓 {0}: noch {1}.
+4be2f6	Beziehung {0}/100
+8d3e18	Beziehung {0}/100
+4fc176	Leistung {0}
+b5761e	Gesetze und Bedingungen: {0} (ungefähr, Stand 2025–2026).
+3d81af	Erhöhung {0} %
+502e4f	{0}–heute
+b35e9d	{0} von 2
+1423bf	✋ Bewerben
+e9d1a1	Zum Verhandeln nutzen
+20dc80	💰 Um mehr Gehalt bitten
+353edb	einmal im Jahr
+863a31	🔎 Eine andere Stelle suchen
+5bea79	du bewirbst dich bei anderen Firmen
+518bda	Gemeinsame Zeit verbessert die Beziehung und senkt deinen Stress. Dein Rivale konkurriert mit dir um Beförderungen.
+2aece1	⚔️ Rivale
+50d80e	🍽️ Zusammen essen
+ee5221	kein gesetzlicher Zuschlag
+1706b4	informell, ohne Sozialleistungen
+a03b21	Gehalt in dieser Stelle
+0cf8d9	Das Diagramm erscheint nach zwei Jahren in dieser Stelle.
+7ae45a	🟡 Gehalt (nominal)
+2729f1	🔵 Reallohn (inflationsbereinigt)
+fd1c92	Du hast noch keine Beurteilungen.
+a8acb5	Berufsverlauf
+779c52	📢 offene Stelle
+119910	📨 Angebot
+1fc588	📢 Offene Stelle
+8d8938	📄 Entlassung
+d150e6	💼 Bewerben
+16429c	💼 Um mehr Gehalt bitten
+0dd6ea	💼 Urlaub
+6c2c95	💼 Gewerkschaft
+883b4e	💼 Stellensuche
+4207cd	💼 Angebot
+98cdac	💼 Zeit zusammen verbringen
+94ca96	Rathaus {0}
+66ac7f	Landesamt {0}
+fa33b4	Bezirksamt {0}
+231b63	Stadtpolizei {0}
+d350d6	Landespolizei {0}
+134845	Grundschule {0}
+ebc6e8	Technische Sekundarschule {0}
+f428af	Allgemeines Krankenhaus {0}
+c8f710	Medizinisches Zentrum {0}
+77c56e	Bewerben
+98bdfa	Gewerkschaft
+db5a60	Stellensuche
+70285d	Angebot
+69bde7	💼 Normale Berufe
+756e3b	Normale Berufe
+f9876f	nicht vorgeschrieben (deine Firma gibt {0} Tage im Jahr)

@@ -1,0 +1,197 @@
+c627fc	Santé de l'économie
+be67ec	Entreprises
+d55063	Banques
+847b37	Gouvernement
+583f1c	Monde
+f20262	Risque
+bef920	Chaque jauge va de 0 à 100 et montre ce qui la fait monter et ce qui la fait baisser.
+e80e50	Touche une jauge pour voir ses causes.
+b3c287	Tu n'as pas encore d'entreprises. Ouvre-les depuis 🏪 Mes entreprises : tu verras ici leur santé.
+833d4b	Secteurs différents
+a2b510	Secteur le plus faible
+eac819	Tes entreprises dépendent de peu de secteurs : si l'un chute, elles chutent ensemble.
+e29b75	Te diversifier dans d'autres activités répartit le risque.
+ae22f1	Financière : marge, réputation, croissance et dette (la même que celle des acheteurs).
+9b729e	Sociale : salaires, charge de travail, réputation, pertes, son secteur et sa province.
+b1a4a9	En dessous de 30 il y a du malaise et la réputation baisse chaque mois.
+6b1098	Santé financière
+42ad83	Santé sociale
+c16a01	Marge bénéficiaire
+56ba2a	Réputation
+04161f	Croissance des ventes
+fe1343	Dette par rapport aux ventes
+5908a8	Salaires par rapport au marché
+8fb0ac	Charge de travail
+57396c	Pertes qui menacent des emplois
+6d5a5a	Santé de son secteur
+0b5c1a	Demande de la province
+3c6663	Santé de ses entreprises
+cab686	Diversification
+b6aa21	Endettement
+12a447	Directeur
+d01aa6	Reprise naturelle
+bc3174	Régulation
+e770f6	Récession
+ac8b72	Hausse des taux
+181407	Stabilité politique
+99a07b	Programme d'austérité
+a6275b	Capital par rapport aux prêts
+4a069d	Coût de la dette par rapport à la croissance
+ee29ef	Trésor
+37c1e3	Réserves internationales
+e03871	Inflation
+824c69	Programme du FMI
+b82b50	Guerre
+eb3bfb	Approbation du gouvernement
+a42fbe	Bonheur de la population
+45edda	Croissance mondiale
+3a99c4	Pays en crise bancaire
+f1ab57	Pays en récession
+2091ec	Prix du pétrole
+8dddb5	Banques fragiles
+bdd0f8	Crise bancaire active
+b75288	Secteurs fragiles
+100dc0	Économie concentrée
+bc6c8f	Contagion des voisins
+a16c6a	Recettes par rapport aux dépenses
+29ce23	Trésorerie
+6a04c7	Moral des supporters
+3090ad	Dette publique
+53ba43	Dette publique élevée
+1282f9	Réserves qui amortissent
+4ce7b0	Ménages en difficulté
+24ffb7	Programmes du FMI actifs
+3cfdcc	Critique
+b44405	Fragile
+e9c0f4	Stable
+35bf06	Saine
+bb90d1	Faible
+fd0855	Modéré
+f46edd	Élevé
+86df48	Très élevé
+a822ef	Tout est à son niveau normal.
+07316f	mois de dépenses
+296312	Banques de {0}
+54dd5c	Crise bancaire en cours
+2fde65	Risque de crise bancaire cette année : {0}
+c88199	Ce qui la fait bouger cette année (points par an) :
+98bce2	Les banques prêtent l'argent des épargnants aux entreprises et aux ménages.
+6aab89	Si leurs débiteurs cessent de payer, elles perdent du capital.
+0bd708	Avec peu de capital, une vague d'impayés devient une crise et le crédit se gèle.
+100cc9	Tes comptes
+8b0fcd	Solde
+7b221e	Si une banque fait faillite, la garantie des dépôts de ton pays te rembourse jusqu'à un plafond par banque : répartir ton épargne entre plusieurs banques te protège davantage.
+4d1f43	Ta banque
+90753c	Capital par rapport aux prêts : {0} %
+5b467c	Dépôts
+a28712	Les règles internationales de Bâle III exigent des banques un capital de haute qualité d'au moins 7 % de leurs actifs pondérés par le risque.
+6d5585	Dans le jeu, 20 % de capital par rapport aux prêts équivaut à une santé de 100.
+852e14	{0} % du PIB
+ac0e8f	Taux des obligations
+5bf106	Approbation
+78f460	Santé budgétaire
+d60f47	Un gouvernement sain paie sa dette sans se noyer : peu de dette, des taux inférieurs à sa croissance et des réserves pour les urgences.
+0d6a06	Si la santé budgétaire passe sous 35, les fonctionnaires n'ont plus d'augmentations.
+193b1c	En dessous de 15, des postes sont supprimés.
+a0f2d9	La santé sociale réunit approbation, stabilité, bonheur, consommation et inflation.
+3bfeab	Elle baisse avec les guerres, les récessions et l'austérité, et une société en difficulté consomme moins.
+fcc28f	FMI et système financier mondial
+6ad6fc	Système financier mondial
+bb31d7	Programmes du FMI
+273d37	Le FMI prête aux pays en crise en échange d'un programme d'ajustement.
+f0aaaa	La Banque mondiale finance des projets de développement.
+8a1b71	Quand beaucoup d'économies chutent en même temps, la contagion s'auto-alimente.
+fd103d	Banque mondiale
+e2386f	Pays avec des projets de la Banque mondiale : {0}.
+21dfbe	Tes organisations
+a1868f	Quand tu auras ta propre banque, ton club ou ta salle de sport, leur santé apparaîtra ici.
+ac3b03	Ton club
+12ae18	Ta salle de sport
+02639e	Ta société de promotion
+105504	Risque systémique
+064aa8	Risque systémique de {0}
+a1f2a5	Le risque systémique est la probabilité que la chute d'une partie entraîne tout le système.
+26e90d	Ici, 0 c'est le calme et 100 une crise sur le point d'éclater.
+773e69	Chaîne de contagion
+db530e	Le client le plus faible des banques
+8aad51	Si {0} continue de chuter, ses dettes impayées frappent les banques.
+8665aa	Avec moins de crédit, les ménages consomment moins et cela frappe tous les secteurs : c'est ainsi qu'une crise se propage.
+88e038	Voisins en crise
+f845e6	Aucun voisin n'est en crise bancaire ni en récession.
+6a5d23	Quand une crise bancaire éclate, les banques des pays voisins reçoivent un coup proportionnel à la taille de cette économie.
+cd67b0	Si c'est une très grande économie, le monde entier le ressent.
+fd0200	Pays les plus à risque
+99ff29	Santé de l'entreprise
+77fb83	Santé de toutes tes entreprises
+ecd4cd	Santé de tes entreprises
+d9b22f	Santé et risque
+ee9446	Entreprises, banques, gouvernement, organisations et risque de contagion
+cbc3a1	Ton employeur : le gouvernement
+b2fc1a	santé budgétaire
+2783a0	Ton secteur
+0c6be4	Risque de licenciement : {0} % par an
+bd4e96	Aucun risque de licenciement pour l'instant
+678483	Augmentations gelées tant qu'il reste sous 35.
+bccfc6	Bonne période : chaque évaluation ajoute jusqu'à {0} % de plus.
+841404	Augmentations normales.
+b5d240	Retraitée
+d40fe7	Retraité
+635017	Travaille au gouvernement
+040572	Travaille dans {0}
+1872e6	Cherche un emploi
+deeb2b	Cherche un emploi depuis 1 mois
+46f7dd	Cherche un emploi depuis {0} mois
+951e84	Aider avec de l'argent ({0})
+d81819	+Relation, pendant qu'il ou elle cherche un emploi
+7cf003	Tu donnes {0} à {1} pendant qu'il ou elle cherche un emploi.
+48cd53	Risque systémique par pays
+ee24bf	élevé
+98973d	faible
+c121f9	🏭 Le secteur de l'une de tes entreprises est faible : diversifie-toi dans une autre activité et vérifie sa santé dans 🩺.
+50bad6	Ici tu vois à quel point tes entreprises, les banques, le gouvernement et le monde sont en bonne santé. Si un secteur chute, il entraîne ses fournisseurs, les banques qui lui ont prêté et ceux qui y travaillent : c'est ainsi qu'une crise se propage.
+74ec80	Le 15 septembre 2008, la banque d'investissement Lehman Brothers a fait faillite. En 2009, l'économie mondiale s'est contractée pour la première fois depuis la Seconde Guerre mondiale.
+4f2eb0	Fonds monétaire international
+4cbdf7	Lors de la crise de 1994–1995 (l'« effet tequila »), le PIB du Mexique a chuté d'environ 6 % en 1995, et la crise s'est propagée à d'autres marchés d'Amérique latine.
+79d6fc	INEGI ; Banque mondiale
+04ae42	La crise asiatique a commencé le 2 juillet 1997, quand la Thaïlande a laissé flotter sa monnaie. Elle s'est propagée à l'Indonésie, à la Corée du Sud et à la Malaisie, et le PIB de l'Indonésie a chuté de plus de 13 % en 1998.
+d7ae94	Après la crise de 2008, le chômage aux États-Unis a atteint 10 % en octobre 2009.
+c8c13f	Bureau des statistiques du travail des États-Unis
+55a2d3	Les règles de Bâle III exigent des banques un capital de haute qualité d'au moins 7 % de leurs actifs pondérés par le risque (4,5 % minimum plus 2,5 % de coussin).
+fb747d	Banque des règlements internationaux
+668c82	Aux États-Unis, la garantie des dépôts couvre jusqu'à 250 000 dollars par personne dans chaque banque. Au Mexique, l'IPAB couvre jusqu'à 400 000 UDIS.
+22be78	FDIC ; IPAB
+8d4ec0	Une banque est « systémique » quand sa faillite entraînerait tout le système financier. C'est pourquoi on exige plus de capital aux plus grandes du monde.
+a8c2e4	Conseil de stabilité financière
+549599	Contagion financière
+ee35bc	Sauvetage bancaire
+d60368	Solvabilité
+4828c7	Liquidité
+3a4bbf	Exigence de fonds propres
+4ff337	Chômage
+65b36c	Le risque que la chute d'une entreprise, d'une banque ou d'un secteur entraîne tout le système économique, car tous sont liés par des crédits, des ventes et des emplois.
+467500	Quand la crise d'un pays, d'une banque ou d'un secteur se transmet à d'autres : par des dettes impayées, la panique des investisseurs ou moins de commerce.
+288d08	Quand le gouvernement (ou le FMI) met de l'argent pour sauver des banques en difficulté et éviter que le crédit se gèle. Ce sont les contribuables qui paient.
+98807d	Capacité à payer toutes tes dettes avec ce que tu possèdes. Une entreprise ou une banque est insolvable quand elle doit plus qu'elle ne vaut.
+fbaa3c	Argent disponible pour payer tout de suite. Une entreprise peut être rentable et quand même faire faillite si elle manque de liquidités pour payer salaires et fournisseurs.
+01763d	Part de ses actifs qu'une banque doit détenir avec son propre argent (non emprunté) pour absorber des pertes sans faire faillite.
+c77844	Personnes qui veulent travailler et cherchent un emploi mais n'en ont pas. Il monte quand les secteurs où elles travaillent entrent en crise.
+346242	Santé de l'économie et contagion
+bf63fc	🌐 Contagion : la crise bancaire en {0} frappe les banques de {1}.
+7d2019	Contagion mondiale : la crise bancaire en {0} frappe les banques du monde entier.
+829b26	🏛️ {0} perd son emploi au gouvernement : la santé budgétaire est à {1}/100.
+3de1d0	📉 {0} perd son emploi dans {1} : le secteur est à {2}/100.
+6b921c	📈 {0} reçoit une augmentation : le gouvernement en a les moyens (santé budgétaire {1}/100).
+684779	📈 {0} reçoit une augmentation : {1} se porte bien ({2}/100).
+e2a88b	💼 {0} trouve un emploi au gouvernement après 1 mois.
+068e68	💼 {0} trouve un emploi au gouvernement après {1} mois.
+a1fcf1	💼 {0} trouve un emploi dans {1} après 1 mois.
+d17698	💼 {0} trouve un emploi dans {1} après {2} mois.
+cffffe	📉 Le gouvernement supprime des postes : sa santé budgétaire est à {0}/100.
+d1bded	📉 {0} réduit son personnel : {1} est à {2}/100.
+a2e72c	⏸️ Le gouvernement gèle les salaires publics : sa santé budgétaire est à {0}/100 et ton augmentation de {1} % est annulée.
+572d28	⏸️ {0} gèle les augmentations : {1} est à {2}/100 et ton augmentation de {3} % est annulée.
+b57143	📈 La bonne santé budgétaire du gouvernement ({0}/100) ajoute {1} % à ton salaire.
+56b32e	📈 La bonne période de {0} ({1}/100) ajoute {2} % à ton salaire.
+2d4e49	😠 Malaise chez {0} : des salaires bas ou trop de travail nuisent à sa réputation.
+aa957c	Touche quelqu'un pour interagir (une fois par an par personne).
+f3f8bb	Les bonnes relations ouvrent des faveurs, des prêts et des emplois, et les rivaux peuvent te saboter.

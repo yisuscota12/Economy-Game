@@ -1,0 +1,323 @@
+4366df	Manajer lantai
+8c8e10	Kursus layanan dan anggur
+b19c39	Restoran
+dfe4b8	Kepala pelayan
+9f8dcb	Pelayan paruh waktu
+00917b	Operator terampil
+25db75	Supervisor lini
+74eafc	Manufaktur
+94f5cd	Kepala pabrik
+f2be78	Operator
+feaa5e	Sertifikasi forklift dan keselamatan industri
+5f47dd	Manajer regional
+5fb2e4	Diploma penjualan
+8784c7	Penjual senior
+91a608	Kepala toko
+3e14b9	Sertifikat kompetensi konstruksi
+45ce87	Tukang ahli
+722636	Konstruksi
+8a029f	Kuli
+b940ba	Mandor
+1854d3	Buruh tani
+9a507e	Petani produsen
+9c0347	Pertanian
+b6ea8f	Kursus irigasi dan pertanian presisi
+fec8e2	Petani dengan lahan sendiri
+1faabc	Sertifikasi aplikasi perkantoran dan akuntansi
+317e4f	Asisten administrasi
+47eabc	Koordinator bagian
+4e83ca	Kepala kantor
+2caf0b	Diploma administrasi publik
+847b37	Pemerintahan
+9960c9	Asisten
+85b776	Keamanan publik
+95f50e	Bintara
+bb20c5	Komisaris
+e396cc	Kursus akademi polisi
+ecc8ab	Polisi senior
+029afd	Kepala teknisi
+301b0e	Sertifikasi teknis khusus
+8d5ff3	Teknisi spesialis
+2b1326	Magister pendidikan
+76e452	Koordinator akademik
+b16d01	Guru tetap
+ca7665	Kepala sekolah
+ebafca	Guru honorer
+1e6ae7	Arsitek perangkat lunak
+263cf3	Programmer junior
+2a3192	Pemimpin teknis
+72d6e9	Programmer senior
+d28d03	Sertifikasi cloud
+46a7e8	Sertifikasi manajemen proyek
+7e2469	Insinyur junior
+8c3f49	Insinyur senior
+f4762a	Manajer teknik
+011605	Pengacara rekanan
+0398bf	Pengacara senior
+1f4f0f	Partner firma hukum
+7140d8	Layanan hukum
+b76cc3	Magister hukum
+e33833	Magang hukum
+5d4a06	Kepala layanan
+7ab414	Dokter spesialis
+894f03	Dokter umum
+c88e92	Wakil kepala layanan
+cc35c0	Pendidikan dokter spesialis
+1f4928	Kursus pelatihan
+282819	Penanggung jawab
+2cd4fa	Supervisor
+17fdcf	Siang
+824b8c	Malam
+8fa6b9	Bergilir (berganti tiap minggu)
+af15e6	Campuran
+86df48	Sangat tinggi
+bb90d1	Rendah
+f46edd	Tinggi
+04251e	Normal
+e18540	Lembur
+f58f80	Seadanya
+a34683	Keahlian kerja
+aa3ec4	Hubungan dengan atasan
+e201ca	Jam kerjamu
+55230a	Masa kerja
+90499f	Sertifikasi
+fed9ee	Stres
+619554	ada serikat pekerja
+13c296	Rekan kerja
+7f57e4	Jabatan
+9a5b79	Kondisi
+0da43f	Total pengalaman
+502edc	Keahlian
+598c7e	Peringatan
+866e28	Sisa cuti
+971fe4	Sif
+ccf106	Risiko kerja
+1c77d4	Jam kerja legal
+990919	THR
+35fe5f	Pekerjaan informal
+73bb98	Pesangon
+8f52ef	Pekerjaanmu
+dce00f	Keanggotaan serikat
+5ddc89	Cuti berbayar
+2cd097	THR atau gaji tambahan
+8f25e2	Pesangon PHK
+892af6	Serikat pekerja
+211eb2	Formal atau informal
+5f8c85	Stres kerja
+109b47	Kinerja
+110729	kinerja
+7c2374	KINERJA
+4db381	Jenjang karier
+4f6653	pekerjaan formal
+8a6ade	pekerjaan informal
+44db32	Riwayat
+b7be52	Gaji tahunan
+3a0b96	Jam kerja
+79bd0e	Tindakan
+34eb65	Atasanmu
+52a3e8	Timmu
+8c161b	Penilaian
+086bff	sangat baik
+87b88f	baik
+5f51ef	cukup
+0d9c30	buruk
+e033af	ramah
+859738	suka bergosip
+d0f165	pekerja keras
+809f9a	malas
+c17e7c	mentor
+a24cb9	🔥 Kamu hampir burnout: kurangi jam kerja atau ambil cuti.
+1082fd	🩹 Kamu cedera saat bekerja.
+5d3f81	🚑 Kamu mengalami kecelakaan kerja. Kamu pulih, tetapi ada dampak permanen.
+6a370f	📋 Penilaian semesteran: {0}/100, baik. Kenaikan gaji {1} %.
+862f07	📋 Penilaian semesteran: {0}/100, cukup. Tanpa kenaikan.
+ba807c	📋 Penilaian semesteran: {0}/100, buruk. Kamu menerima surat peringatan ({1} dari 2).
+f759b8	📋 Penilaian semesteran: {0}/100, sangat baik. Bonus {1} dan kenaikan {2} %.
+38f462	📄 Kamu dipecat dari {0}. Kamu menerima pesangon {1} (hukum negaramu: {2} hari ditambah {3} per tahun kerja).
+c504b9	📄 Kamu dipecat dari {0}. Hukum negaramu tidak mewajibkan pesangon.
+e1def0	📄 Kamu dipecat dari {0}. Karena pekerjaannya informal, kamu tidak mendapat pesangon.
+09a3ff	📢 Lowongan {0} di {1}: perusahaan sedang berkembang.
+956c00	📢 Lowongan {0} di {1}: ada yang pensiun.
+b5fb67	📢 Lowongan {0} di {1}: ada yang dipecat.
+d7fbcb	📢 Lowongan {0} di {1}: ada yang mengundurkan diri.
+233972	Kamu sudah melamar.
+9f69b8	Untuk jabatan itu kamu perlu: {0}.
+15c3eb	🎉 Kamu naik jabatan menjadi {0}. Gajimu menjadi {1} per tahun.
+4cd1d1	Jabatan {0} diberikan kepada {1}, rivalmu. Sekarang dia atasanmu.
+099a0f	Jabatan {0} diberikan kepada orang lain.
+83f5d2	Jabatan {0} diisi orang dari luar.
+93ca0a	📨 {0} menawarimu pekerjaan sebagai {1} dengan gaji {2} % lebih tinggi.
+a4531b	{0} menawarimu pekerjaan sebagai {1} dengan gaji {2} % lebih tinggi.
+7f73dc	Kamu menerima. Kamu mulai di {0} sebagai {1} dengan gaji {2} per tahun.
+e36383	Atasanmu tidak suka ditekan. Tidak ada kenaikan dan hubungan merenggang.
+eb05a6	Atasanmu tak mau kehilanganmu: gajimu naik {0} %.
+6d4e8b	Kamu baru saja minta kenaikan: tunggu setahun.
+94c1d4	Atasanmu setuju: gajimu naik {0} %.
+848773	Atasanmu bilang belum untuk sekarang.
+cc38c7	Kamu mulai: {0}. Berlangsung {1} bulan dan biayanya {2}.
+5cc68c	Kamu tidak punya sisa cuti tahun ini.
+0421de	Kamu mengambil {0} hari cuti berbayar. Kamu kembali segar.
+63f5a6	Kamu mengambil {0} hari tanpa gaji (pekerjaan informal tidak punya cuti berbayar).
+15bec4	Kamu keluar dari serikat pekerja.
+faa5df	Kamu bergabung dengan serikat pekerja. Iurannya 1 % dari gaji.
+2484e8	Kamu makan siang dengan {0}. Dia menceritakan semua gosip.
+629a4e	Kamu makan siang dengan {0}. Hubungan kalian membaik.
+7e316d	Kamu makan siang dengan {0}. Dia berbagi trik kerja.
+387c03	Kamu sudah punya tawaran.
+db66b9	Kamu mengirim lamaran, tetapi belum ada yang menelepon.
+88b9bf	🎄 THR: kamu menerima {0} ({1} hari gaji, sesuai hukum).
+c68240	🎄 Gaji tambahan sesuai hukum: kamu menerima {0} ({1} hari gaji per tahun).
+0b6904	🤝 Serikat pekerja menandatangani perjanjian kerja bersama: kenaikan umum {0} %.
+e0d6ff	Tukar sif
+b6ccc3	{0} menghentikanmu di lorong: «Bisa gantikan sifku hari Sabtu? Ada urusan keluarga yang tak bisa diubah».
+0f1170	Kamu kehilangan hari Sabtu, tetapi dia sangat berterima kasih. Sekarang dia berutang budi.
+574d5a	Menggantikan
+2122b9	Menolak dengan sopan
+991339	Dia mengerti, meski kecewa terlihat jelas.
+3d5ff0	Setuju asal nanti dia menggantikanmu sehari
+518a03	Dia merasa kamu meminta imbalan dan pergi dengan kesal.
+af570f	Sepakat: kalian bertukar hari dan sama-sama senang.
+db2a1e	Rumor PHK
+0ebecc	Ada rumor bahwa {0} akan memangkas karyawan. {1}, atasanmu, lebih serius dari biasanya.
+0aac23	Menawarkan diri untuk lembur
+6753ba	Atasanmu mencatat kesediaanmu. Kamu bekerja lebih banyak, tetapi dianggap tak tergantikan.
+0ce6ae	Bertanya pada atasan soal posisimu
+3be889	Dia mengelak. Kamu tetap ragu dan makin stres.
+f99eb2	Dia memastikan posisimu aman. Kamu lega.
+42e9d9	Melamar ke perusahaan lain untuk jaga-jaga
+77c735	Kamu memperbarui CV dan mengirim lamaran.
+f32c32	Perlakuan merendahkan
+f2ee92	Di tengah rapat, {0} mengejek pekerjaanmu di depan semua orang. Ini bukan yang pertama.
+959bb5	Kamu menahan amarah. Stres menumpuk.
+5fd72c	Bicara empat mata dengan atasan
+990b9d	Kamu dengan tenang bilang itu tidak pantas. Dia minta maaf setengah hati, tetapi tak terulang.
+e6eb06	Dia defensif dan bilang kamu terlalu baper.
+c71486	Tanpa bukti cukup, laporan tidak berlanjut dan atasanmu tahu.
+dab6cc	HRD membuka penyelidikan dan dia ditegur. Rekan kerjamu makin menghormatimu.
+f71b65	Melaporkan ke HRD dengan bukti
+408e05	Tidak ada serikat pekerja di tempat kerjamu
+870300	Perwakilan serikat bicara dengan perusahaan. Perlakuan membaik.
+cc15f4	Mengadu ke serikat pekerja
+08283d	Gosip kantor
+b24f2e	{0} bilang ada yang menyebarkan kabar kamu akan keluar dari perusahaan. Beberapa orang sudah percaya.
+3fdebb	Membantahnya di depan semua orang
+58bd81	Terlihat kamu terganggu dan gosipnya makin besar.
+995b0c	Kamu meluruskannya dengan santai dan gosipnya reda.
+d2fc17	Dalam beberapa minggu tak ada yang ingat.
+526b90	Kamu tahu pelakunya orang dari bagian sebelah. Kamu tunjukkan bahwa kamu tahu.
+676f17	Kamu terlalu banyak bertanya dan kini kamulah bahan gosip.
+9075a6	Mencari tahu siapa yang memulai
+a40673	Proyek mendesak
+0f0f7f	{0} memanggilmu ke ruangannya: «Ada proyek mendesak untuk Jumat dan aku ingin kamu yang memimpinnya».
+1cf670	Menerimanya
+d6ce4f	Kamu lembur sepanjang minggu, tetapi selesai tepat waktu. Atasanmu terkesan.
+21751c	Tidak ada orang yang tersedia. Kamu menyelesaikannya sendiri dengan kerja keras.
+7d2d82	Kamu dapat bantuan satu anggota tim. Hasilnya baik tanpa banyak begadang.
+e3601f	Menerima jika diberi bantuan
+054357	Menolak dengan alasan
+564838	Baginya itu terdengar seperti alasan.
+c19c2f	Kamu menjelaskan bahwa saat ini tak bisa mengerjakannya dengan baik. Dia mengerti dan memberikannya ke orang lain.
+7fd8ed	Kamu tidak punya pekerjaan biasa. Cari di Karier → Lapangan kerja.
+7bc0ce	Penilaian berikutnya dalam {0} bulan.
+c84cc5	Penilaian berikutnya dalam 1 bulan.
+28ab8f	Stres berkurang, tetapi kinerjamu turun dan atasanmu menyadarinya.
+4648d2	Kinerja naik dan stres naik. Dalam kasusmu lembur dibayar tanpa tambahan.
+7105a6	Kinerja naik dan stres naik. Lembur dibayar {0}× upah per jam biasa.
+96710b	Kamu menyelesaikan jam kerja tanpa terlalu lelah.
+2708e1	Ditutup dalam 1 bulan.
+6f1419	Ditutup dalam {0} bulan.
+beacbe	Peluang mendapat jabatan itu: {0} %.
+aa7d56	berakhir dalam 1 bulan
+472b97	berakhir dalam {0} bulan
+2062de	tunggu setahun
+0c5269	tanpa gaji (pekerjaan informal)
+4520af	tidak ada sisa hari tahun ini
+a31a5d	🏖️ Ambil cuti seminggu
+df46d5	sisa {0} hari berbayar
+51d050	uangmu tidak cukup
+7729ce	💼 Sertifikasi
+e0c6cb	diperlukan untuk naik menjadi {0}
+e10e5b	+6 kinerja
+2984dc	✊ Bergabung dengan serikat
+7f7034	kamu membayar 1 % gaji
+cf7925	✊ Keluar dari serikat
+fd31ac	iuran 1 % dari gaji
+bd950e	{0} jam per minggu
+f7ba87	dibayar {0}× upah biasa
+173daa	{0} hari gaji
+dcd595	{0} hari di tahun pertama
+e312e9	{0} hari per tahun (gaji tambahan)
+ed2304	{0} hari di tahun pertama (bertambah sesuai masa kerja)
+f9f0f9	tidak wajib
+31ea26	tidak wajib
+c4b6f6	formal, dengan jaminan sosial
+d3af34	{0} % pekerja
+dde865	{0} hari ditambah {1} per tahun kerja
+e29e4f	sekitar {0} %
+529ced	Karena pekerjaanmu formal, kamu berhak atas apa yang diatur hukum: cuti berbayar, THR, dan pesangon jika dipecat tanpa alasan.
+682191	Pekerjaan informal tidak punya kontrak: kamu tidak membayar iuran, tidak ada cuti berbayar maupun THR, dan jika dipecat tidak ada pesangon.
+50a988	Kamu menolak tawaran itu.
+286141	💼 Pekerjaanmu
+9e7b7b	Kamu kehilangan pekerjaan. Cari yang lain di Karier → Lapangan kerja.
+63488f	📋 Penilaian
+9d2db4	Jam berhenti: cek penilaianmu di 💼 Pekerjaanmu.
+a70d60	📨 Tawaran kerja
+bff4ac	Jam berhenti: kamu mendapat tawaran kerja.
+ccce29	Jam berhenti: ada lowongan di tempat kerjamu.
+7d9ab7	Setiap bulan kinerjamu mendekati {0}. Yang berpengaruh:
+97296d	📢 Lowongan: {0}
+cfa60f	📨 Tawaran dari {0}
+16b88b	{0} dengan gaji {1} % lebih tinggi
+e52c6f	🎓 Kamu sudah punya: {0}.
+fa120d	🎓 {0}: tinggal {1}.
+4be2f6	Hubungan {0}/100
+8d3e18	hubungan {0}/100
+4fc176	kinerja {0}
+b5761e	Hukum dan kondisi di {0} (perkiraan 2025–2026).
+3d81af	kenaikan {0} %
+502e4f	{0}–kini
+b35e9d	{0} dari 2
+1423bf	✋ Melamar
+e9d1a1	Pakai untuk bernegosiasi
+20dc80	💰 Minta kenaikan gaji
+353edb	setahun sekali
+863a31	🔎 Cari pekerjaan lain
+5bea79	kamu melamar ke perusahaan lain
+518bda	Bergaul memperbaiki hubungan dan menurunkan stres. Rivalmu bersaing denganmu untuk promosi.
+2aece1	⚔️ rival
+50d80e	🍽️ Makan bersama
+ee5221	tanpa tambahan wajib
+1706b4	informal, tanpa tunjangan
+a03b21	Gaji di pekerjaan ini
+0cf8d9	Grafik muncul setelah dua tahun di pekerjaan ini.
+7ae45a	🟡 Gaji (nominal)
+2729f1	🔵 Gaji riil (setelah inflasi)
+fd1c92	Kamu belum punya penilaian.
+a8acb5	Riwayat pekerjaan
+779c52	📢 lowongan
+119910	📨 tawaran
+1fc588	📢 Lowongan
+8d8938	📄 PHK
+d150e6	💼 Melamar
+16429c	💼 Minta kenaikan gaji
+0dd6ea	💼 Cuti
+6c2c95	💼 Serikat pekerja
+883b4e	💼 Cari kerja
+4207cd	💼 Tawaran
+98cdac	💼 Bergaul
+94ca96	Balai Kota {0}
+66ac7f	Kantor Provinsi {0}
+fa33b4	Kantor Kecamatan {0}
+231b63	Polisi Kota {0}
+d350d6	Polisi Provinsi {0}
+134845	SD {0}
+ebc6e8	SMP Teknik {0}
+f428af	RSUD {0}
+c8f710	Pusat Medis {0}
+77c56e	Melamar
+98bdfa	Serikat pekerja
+db5a60	Cari kerja
+70285d	Tawaran
+69bde7	💼 Pekerjaan biasa
+756e3b	Pekerjaan biasa
+f9876f	tidak wajib (perusahaanmu memberi {0} hari per tahun)

@@ -1,0 +1,6 @@
+79fb15	D	⚙️ Guardado en segundo plano: activado
+b5a885	D	⚙️ Guardado en segundo plano: desactivado
+ba9757	D	La partida se prepara y se comprime en otro hilo para que la pantalla no se trabe al guardar.
+bebce2	D	La partida se guarda en el hilo principal, como antes de la v1.8b.
+f3bfa7	D	No disponible en este navegador: se usa el guardado de siempre.
+14ce48	T	Avance detenido. Faltan {0} día(s): vuelve a tocar el botón para completarlo.

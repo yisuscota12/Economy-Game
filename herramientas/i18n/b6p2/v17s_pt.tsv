@@ -1,0 +1,292 @@
+65225c	Ficar com a bola, passes curtos e paciência. Quebra os blocos baixos; sofre contra a pressão alta.
+e5beae	Posse de bola
+5313c5	Pressão alta
+54ace6	Recuperar a bola no alto e rápido. Sufoca os times de posse; deixa espaço nas costas.
+700856	Esperar e sair rápido. Castiga as defesas adiantadas; sofre sem a bola contra a posse.
+fd1844	Contra-ataque
+4cc592	Bloco baixo
+7166e7	Defender perto da área e fechar espaços. Neutraliza o jogo direto; sofre contra a posse paciente.
+3fc98c	Bolas longas e segunda bola. Pula a pressão; esbarra nos blocos baixos.
+93e9a6	Jogo direto
+037676	Sem extremos: adapta-se ao adversário. Não tem vantagens nem desvantagens claras.
+56993d	Compra barato, forma e vende aos grandes: vive das transferências.
+958239	Comprador
+bfaaca	Contrata estrelas e paga transferências altas; vende pouco e caro.
+275cfa	Compra e vende conforme o que precisa.
+dce9ac	Formador
+e914fe	Aposta na base: suas estrelas chegam jovens e com mais potencial.
+18a046	Austera
+525174	Ambiciosa
+ef5959	De galácticos
+9bc2c5	Popular
+2f0ada	Campo municipal
+912d13	Centro moderno
+9c9eda	Centro de elite
+9d6d76	Centro básico
+de9953	Cidade esportiva
+41347f	Academia regional
+5c642f	Escolinha de futebol
+61da4b	Sem academia
+9fd328	Academia nacional
+f17aa6	Academia de elite
+773471	Sem licença
+026e9d	Subir de divisão
+37bc23	Evitar o rebaixamento
+4f7927	Terminar na primeira metade
+73a7c7	Classificar para a copa continental
+ab8a73	Não terminar entre os três últimos
+cd9075	Ganhar a liga
+e5fa55	Ganhar a liga regional
+5e84cb	{0} não renova com seu técnico, {1}, após uma temporada ruim. Substituto: {2} ({3}).
+09f1f5	{0} demite seu técnico, {1}, depois de {2} jogos de maus resultados. Substituto: {3} ({4}).
+63aa35	{0} deixa o {1} e se torna o novo técnico do {2} ({3}).
+10f3a1	{0} anuncia a aposentadoria de seu técnico, {1}. Substituto: {2} ({3}).
+409b99	Falta um centro de treinamento.
+555745	Falta um estádio de {0} lugares.
+96dee2	🏆 {0} vence: {1}! Prêmio para o clube: {2}.
+0d7844	🏗️ A prefeitura aprova a licença: a obra começa ({0} meses).
+ab5af1	🏗️ A prefeitura nega a licença de obra. Você pode solicitá-la de novo.
+c9a918	🏟️ A ampliação termina: seu estádio agora tem {0} lugares.
+cc455a	🏋️ Seu novo centro de treinamento é inaugurado: {0}.
+86699e	📨 {0} oferece {1} por {2}. Veja ⚽ Seu clube → Mercado.
+ffe27d	💵 Você tira {0} do próprio bolso para cobrir o prejuízo de {1}.
+7c7649	⚖️ {0} entra em recuperação judicial por dívidas e é vendido a um novo dono. Você recebe {1}.
+95820c	{0} entra em recuperação judicial e muda de dono.
+6582d8	⚠️ {0} está no vermelho e você não tem como cobrir. Venda estrelas, reduza a folha salarial ou aporte capital.
+c09dad	🎯 Objetivo da temporada para {0}: {1}.
+d973be	✅ {0} cumpre o objetivo da temporada ({1}): termina na posição {2}.
+517e79	❌ {0} não cumpre o objetivo da temporada ({1}): termina na posição {2}.
+e0a38b	⚖️ A liga multa {0} em {1} por não cumprir a licença.
+7d20ac	⏳ {0} precisa de pelo menos seis meses na liga regional antes de pedir para entrar em: {1}.
+3738fe	📋 {0} não obtém a licença de: {1}.
+f5dfa6	📋 Para entrar em {0} você precisa comprar uma vaga (franquia).
+354ea6	{0} entra em {1} e ocupa a vaga de {2}, que cai para as divisões regionais.
+e51d62	🎉 {0} entra em {1}!
+a589fa	📋 {0} termina na zona de acesso, mas não obtém a licença de: {1}. Sobe o seguinte.
+379bd5	🎉 {0} sobe para: {1}!
+579ab4	⬇️ {0} é rebaixado para: {1}.
+110f5e	As regras não permitem que um jogador em atividade seja dono de um clube.
+b414b3	Você precisa ser maior de idade.
+abda79	Você já é dono de um clube.
+dea1c7	Comprar {0} custa {1}.
+bf5c17	Você compra {0} por {1}. Agora você decide a folha salarial, as contratações, as obras e quem dirige o time.
+f04535	{0} compra {1} por {2}.
+658bc4	Já existe um clube com esse nome.
+b4b78c	Fundar um clube custa {0}.
+cb6635	Para entrar em {0} você precisa de seis meses de competição e um estádio de {1} lugares.
+db5bd7	Você funda {0}. Ele joga na liga regional e aluga um campo municipal de {1} lugares.
+71662b	A vaga custa {0} e seu clube só tem {1} em caixa.
+edcfbb	Você já comprou a vaga.
+1207fd	Você compra uma vaga em {0} por {1}. Entrará ao fim da temporada se cumprir a licença.
+f2b559	Você vende {0}. Recebe {1} (inclui o caixa do clube).
+5eb3f7	Você não tem {0}.
+85a110	Você aporta {0} ao caixa do clube.
+086101	Você retira {0} do caixa do clube.
+61b2b1	O caixa do clube não é suficiente.
+02ea66	Você já tem uma obra em andamento.
+472782	O estádio não pode passar de 100 mil lugares.
+8e8ac6	A obra custa {0} e a licença {1}.
+1c78ed	Você solicita a licença de obra para ampliar o estádio em {0} lugares. A prefeitura responde em 2 a 4 meses.
+99e68e	Você já tem o melhor centro.
+41d74d	Você solicita a licença para construir: {0}. A prefeitura responde em 2 a 4 meses.
+476363	A obra começa: {0} (3 meses).
+76cfc3	Você já tem a melhor academia.
+8c1b8b	Você abre: {0}. Todo ano podem surgir jovens com mais potencial.
+afacdc	O mercado está fechado: abre em junho e em janeiro.
+e5c92c	{0} não se interessa pelo seu projeto: seu clube está muito abaixo do nível dele.
+38d1e8	A transferência custa {0} e seu clube tem {1} em caixa.
+c01f9c	Seu elenco já tem dez estrelas.
+4fa5ea	{0} assina com {1}: transferência de {2} e salário de {3} por ano.
+74e01f	Nenhum clube oferece o que {0} vale por enquanto.
+70f57f	Você vende {0} para {1} por {2}.
+72ab90	Você recusa a oferta de {0} por {1}.
+0d3252	Aceito: {0} vai para {1} por {2}.
+2ae8e9	Você precisa de {0} em caixa (rescisão do técnico atual e indenização).
+f51cb9	{0} é o novo técnico de {1}: {2}, salário de {3} por ano.
+3ba870	Para dirigir {0} você precisa da {1}.
+214503	Você muda o estilo de jogo para {0}. O elenco precisa de alguns meses para se adaptar.
+3107ca	A rescisão do técnico atual custa {0}.
+4f4776	Você assume o comando de {0}. Sua força como técnico: {1}.
+e10c49	Você já tem
+f675a8	Antes você precisa da {0}
+6db1e0	Um ano depois da anterior
+f81838	Você é aprovado no curso e obtém a {0}. Sua força como técnico: {1} (máximo {2} com esta licença).
+5cdd46	Ruim
+90e998	Ideal
+94144b	👤 {0} tem novo técnico: {1} ({2}). Seu encaixe com o estilo dele: {3}. A confiança do técnico começa do zero.
+5c0411	🌱 Sua academia promove {0} ({1} anos, {2}, potencial {3}).
+68c625	licenças de treinador
+768bb4	⚽ Ser dono de um clube de futebol
+959325	⚽ Seu clube de futebol
+e956dc	Compre um clube ou funde um
+0e4333	Idade
+3488d6	Formação habitual
+3c3d15	Campanha (V-E-D)
+58999d	Qualidade do técnico
+be736c	No cargo desde
+e008d0	Divisões regionais
+0cb069	Modelo de negócio
+1b7d61	Receita estimada por ano
+4397b6	Torcedores
+4ab4a4	Força
+e3dbe4	Valor do clube
+347876	Chega de {0}
+ede971	Comprar este clube?
+37938f	Estilo do técnico
+00e6b7	Elenco
+94dd4a	Fundar
+9d8aca	Instalações
+ea9804	Licenças
+3e98e0	Liga regional
+4fea0c	Capital inicial (caixa do clube)
+5ff1d4	Registro na federação
+16cfa0	Estádio mínimo para a licença
+9d5764	Liga de entrada
+d41547	você escolhe o nome no próximo passo
+fc4a8f	🏟️ Fundar um clube
+64c889	Como ex-jogador profissional, você faz os cursos na metade do tempo.
+514290	Meses como técnico
+84b4ae	Máximo com esta licença
+b16ef5	Sua licença
+f09490	Sua força como técnico
+6eb203	força máxima {0}
+eec32e	Aprovada
+72d389	Posição na tabela
+cb5e1b	Força-alvo
+7bcbf6	Caixa do clube
+76b653	Meses na liga regional
+1c2f1a	💰 Vender o clube
+d422e3	Você recebe cerca de {0} (inclui o caixa do clube)
+16db45	Você precisa da {0}
+411876	sua força como técnico: {0}
+6cf571	Você deixa de pagar salário de técnico
+b892ac	📣 Dirigir o time você mesmo
+02b1bc	indenização {0}
+6fa4ca	pede {0} por ano
+11b00c	Força atual
+4916f3	Salários do elenco por ano
+eb3280	Salários das estrelas
+303efa	Mercado fechado
+5dc715	média {0}
+948086	valor {0}
+05301c	Ao seu alcance
+a4114a	Todos
+831e83	salário {0}
+984162	Falta caixa
+c53e0e	transferência {0}
+fe80e4	Não se interessa pelo seu projeto
+257c0b	Lugares
+4a8fd4	Público do último mês
+9fc8f7	licença {0}
+e40f2d	Já há uma obra
+eb601c	{0} meses de obra
+c8194e	Manutenção por ano
+9da719	3 meses de obra
+cb6c1f	precisa de licença de obra
+4c34ce	abre na hora
+181efe	Investido por você
+33f233	Operação e manutenção
+6000a1	Contratações e obras
+a26d34	Patrocínios e loja
+b9faad	Ingressos
+c56269	Venda de jogadores
+fa4a30	Preço médio do ingresso
+bad3c9	Do caixa do clube para o seu dinheiro
+bb4e9f	Do seu dinheiro para o caixa do clube
+bba8c5	você entra ao fim da temporada se cumprir a licença
+c941e1	📋 Comprar uma vaga em {0}
+e1804f	Já comprada
+eb067b	Nome do clube
+3d594b	Vender seu clube?
+b73399	Contratar
+cb5b9b	Contratar este técnico?
+3d7fed	Dirigir o time você mesmo?
+7decd2	Encaixe tático
+7ef211	Modelos de negócio
+960972	Folha salarial
+86c8ea	Licença da liga
+ca62ff	Licenças de treinador
+5c188c	Licenças de obra
+e6907a	Licença de obra
+d6d9ac	⚽ Futebol manager
+40fdfb	Toque em um clube para ver a ficha.
+31f930	Atributos que ele mais valoriza:
+0040b2	Um bom encaixe aproxima você da titularidade.
+ac3b03	Seu clube
+96f57a	Comprar o clube
+f8aad3	Comprar
+cb3025	Ainda não há transferências registradas.
+d5b798	Últimas transferências
+01a429	Os que mais gastaram (12 meses)
+18262e	Os que mais venderam (12 meses)
+a85a74	Os jogadores mais valiosos
+5d71d7	Valores por liga
+5e7363	Receita média
+090fc2	TV por clube
+f3fce9	Estrela mais cara
+1bcfb1	Os valores de mercado seguem a média, a idade, a liga e o potencial, como nos sites de transferências.
+ef43bb	Estádio (lugares)
+4ce4c4	Transferências recentes
+763e06	Títulos do clube
+d1cf91	Ser dono de um clube
+44989a	Você compra o clube inteiro: o estádio, o elenco e a vaga na liga. Depois decide a folha salarial, as contratações, as obras e quem dirige o time. Seu dinheiro:
+e0e6ea	Você funda um clube na sua cidade. Ele começa na liga regional com um campo municipal alugado; para entrar na liga profissional precisa de seis meses de competição e da licença (um estádio com lugares suficientes e, na primeira divisão, um centro de treinamento).
+ae7e77	Seu país não tem segunda divisão simulada: além da licença, você precisa comprar uma vaga (franquia) antes de entrar.
+1910a3	Seu país ainda não tem uma liga simulada: ela é criada quando você funda o clube.
+0dbdeb	Cores do clube:
+737c87	As licenças de treinador (como as da UEFA e das federações) são tiradas em ordem: C, B, A e Pro. Com a B você dirige um clube regional, com a A um de segunda divisão e com a Pro um de primeira.
+f2fd94	Sua força como técnico sobe a cada mês no comando, mais rápido com bons resultados, até o máximo da sua licença.
+6a04c7	Ânimo da torcida
+650011	Objetivo da temporada:
+4e3c98	Temporadas
+7cd71d	Centro de treinamento
+626b01	Vaga (franquia)
+3a7321	Seis meses na liga regional
+4b582a	Para entrar em {0} ao fim da temporada dela:
+c56e24	🏟️ Estádio mínimo para a licença: {0}
+836e2d	Salário do técnico
+e67695	Seu estilo de jogo (mudar exige alguns meses de adaptação):
+fac21d	Adaptação do elenco
+1dfac7	Candidatos (livres e de outros clubes; aos que têm contrato é preciso pagar ao clube um ano de indenização):
+7ac8f0	A folha salarial coloca você na tabela de gastos da sua liga: a força do time se aproxima aos poucos do que ele paga.
+ccdd7a	Abaixo de cada nome: potencial e salário anual.
+269fa8	Seu clube não tem estrelas. Contrate-as em Mercado ou forme jovens na sua academia.
+aa4c9b	Caixa do clube:
+05f3ed	OFERTA PELA SUA ESTRELA
+65ff6d	{0} oferece {1} por {2}.
+adb813	Ofertas pelas suas estrelas
+c56862	Vender uma estrela
+6e6ef8	Contratar
+802049	📋 Licença de obra em trâmite: a prefeitura responde em {0} mês(es).
+e0e0de	🏗️ Obra em andamento: termina em {0} mês(es).
+545b3c	Para subir para {0} você precisa de {1} lugares e um centro de treinamento.
+208445	Cada nível soma meio ponto à força-alvo; na primeira divisão é preciso pelo menos um centro básico.
+651e5d	Todo ano a academia pode promover um jovem: mais nível, mais chance e mais potencial.
+426395	Últimos 12 meses
+988b22	Ingressos baratos enchem o estádio e alegram a torcida; os caros deixam lugares vazios.
+2bd8d2	Capital
+1d64ab	Se o caixa ficar no vermelho, você cobre do próprio bolso; se não puder, o clube entra em recuperação judicial.
+85f0a6	Vaga na liga
+43321a	🏟️ Ampliar {0} lugares
+bc3292	🏋️ Construir: {0}
+66a8ea	🌱 Abrir: {0}
+c9ec56	➕ Aportar {0}
+a282f7	💵 Retirar {0}
+6d0fa7	{0} vende {1}.
+efd38e	Vai para {0}
+ed9d19	Curso: Licença C
+736caf	Curso: Licença B
+da3e10	Curso: Licença A
+adae2d	Curso: Licença Pro
+11b0e4	Curso intensivo: Licença C
+db4dc9	Curso intensivo: Licença B
+d1df7b	Curso intensivo: Licença A
+5c4caf	Curso intensivo: Licença Pro
+e18d07	Licença C
+3a0f42	Licença B
+dae3a0	Licença A
+f42d61	Licença Pro
+89c7d6	livre
+de82c1	Academia
+872401	Estádio
+41e155	Tabela

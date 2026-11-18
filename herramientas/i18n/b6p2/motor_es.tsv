@@ -1,0 +1,955 @@
+0bc343	D	Becker
+0f3ac8	D	Andersen
+151fa9	D	Fischer
+22644a	D	Virtanen
+2b28d1	D	Schneider
+3a7644	D	Nielsen
+4a0134	D	de Vries
+4bdba3	D	Weber
+ad0c40	D	Hansen
+cc1e30	D	Berg
+d35c3b	D	Jansen
+ef1595	D	Johansson
+fc7919	D	Schmidt
+afc66b	D	Hipertensión
+5b2bd4	D	Diabetes tipo 2
+43e70d	D	Enfermedad del corazón
+d8b07f	D	Cáncer
+20ef97	D	En prisión
+175abf	D	Dictadora
+4787ce	D	Presidenta
+3fb088	T	Estudiante de {0}
+386d47	D	Niño
+e89263	D	Niña
+b5d240	D	Jubilada
+23bc7c	D	Desempleada
+5302e4	T	Ahora gobiernas {0} como {1}.
+c113ad	T	{0} conquistó tu provincia ({1}). {2} ya no gobierna donde vives.
+535f6c	D	Aceptar el nuevo gobierno
+b0287f	D	Pierdes tu cargo.
+d55f1a	D	Aceptas el nuevo gobierno y sigues con tu vida.
+95e58f	D	Unirte a la resistencia
+9ab53e	D	Te hieren gravemente en una emboscada.
+ca3da0	D	Te vuelves una figura de la resistencia.
+2c5514	T	Te exilias en {0}.
+cccf57	D	Exiliarte a un país vecino
+eaa92f	D	No encuentras a dónde huir.
+b70b22	T	La fiscalía abre un juicio por corrupción en tu contra ({0} caso(s) en tu historial).
+55ae5e	D	Te absuelven por falta de pruebas.
+cc1199	T	Contratar abogados ({0})
+3ae9a7	D	Pagas una multa, devuelves dinero y quedas inhabilitado para cargos públicos.
+d3ada6	D	Negociar con la fiscalía
+2ac187	T	Huyes a {0}. Allá empiezas de cero.
+404b2d	D	Huir del país
+fea897	D	Te detienen en el aeropuerto.
+1d0298	T	{0} está en guerra y llega una carta de reclutamiento a tu nombre.
+3d5d69	D	Presentarte al frente
+7caebf	D	Te unes al ejército como Recluta.
+41ad23	T	Huyes a {0}.
+6a098a	D	Intentas huir pero cierran las fronteras.
+24bd73	T	Elecciones en {0}. Tu partido te ofrece la candidatura.
+807a5a	T	Encuesta: {0} % de intención de voto a tu favor. Mandato de {1} años, {2}.
+110241	T	¡Ganas la elección! ({0} % de probabilidad a favor).
+54db5c	T	Postularte (campaña {0})
+5f2c98	D	Pierdes la elección por poco.
+1b984a	D	Decides esperar a la próxima elección.
+fbad98	D	No esta vez
+0968b1	T	Termina tu mandato. Estabilidad {0}/100, aprobación {1} %. Regla del país: {2} — no puedes reelegirte.
+0b12ef	T	Termina tu mandato. Estabilidad {0}/100.
+153a06	T	Termina tu mandato. Estabilidad {0}/100, aprobación {1} %. Regla del país: {2}.
+0c0530	T	Te reeligen ({0} % a favor).
+8d7a3e	D	Pierdes la reelección y vuelves al Senado.
+91f175	D	Buscar la reelección
+0d8de4	D	Otros países te sancionan.
+2b254b	D	Cancelas las elecciones. Ahora gobiernas como dictador.
+a5f4e1	D	Cancelar las elecciones
+705992	D	Entregas el poder pacíficamente.
+bc2c2e	D	Entregar el poder
+e6c2f3	T	Los militares intentan un golpe de Estado en {0}.
+248ad0	D	El golpe fracasa; tu lealtad se recuerda.
+5536d0	D	El golpe triunfa y te persiguen por apoyar al gobierno.
+91b920	D	Apoyar al gobierno
+62c22b	D	Apoyar el golpe
+6d6d6b	D	El golpe triunfa y el nuevo régimen te premia.
+e4731e	D	El golpe fracasa y quedas marcado.
+0f3321	D	Mantenerte al margen
+576f95	D	Observas desde casa.
+c1c966	D	Tus asesores detectan una conspiración dentro del gabinete.
+6768c3	D	Purgar al gabinete
+da9272	D	Destituyes a los conspiradores.
+4dbecd	D	Negociar con ellos
+588c1f	D	La negociación fracasa y te quitan el poder.
+a3fd1c	D	Te destituyen.
+db99ab	D	Llegas a un acuerdo.
+38eeeb	D	Intento de asesinato durante un desfile.
+086deb	D	El atentado tiene éxito.
+a7441d	D	en un atentado
+bcf6d8	D	Seguir con el desfile
+eb2735	D	Sobrevives y el pueblo te admira.
+3b52f6	D	Cancelar y refugiarte
+d31d7c	D	Cancelas todo y quedas a salvo.
+313dbc	D	Estalla una rebelión armada contra tu régimen.
+433d80	D	Los rebeldes toman el palacio.
+8aa254	D	Reprimir la rebelión
+bda620	D	Pierdes el poder.
+fc03ce	D	Sofocas la rebelión.
+75db32	D	Las reformas calman las calles.
+df6e1f	D	Negociar reformas
+062ad9	T	{0} propone un alto al fuego.
+8e540d	D	Aceptar la paz
+99c3d4	D	Firmas la paz.
+d0bab7	D	Rechazas la propuesta.
+d884de	T	Llevas {0} años sin poder pagar tus deudas ({1}). Los acreedores te demandan.
+18ac3b	D	Declararte en bancarrota
+1af99c	D	No podrás pedir préstamos en 7 años.
+45faff	D	Un juez liquida tus deudas.
+63ef01	D	Pierdes tu casa.
+937e7c	D	Vendes todo, pero aún debes dinero.
+b3dbfa	D	Vender todo lo que tienes
+dd0e80	D	Vendes todo y quedas sin deudas.
+3dcbed	T	El médico te diagnostica: {0}.
+511f75	D	Empiezas tratamiento con un especialista.
+8e9e05	T	Tratamiento privado ({0}/año)
+48c61c	D	La lista de espera es larga: por ahora no recibes tratamiento.
+9ea674	D	Sistema público de salud
+ade305	D	Te atienden en el sistema público.
+2c05d5	D	Decides no tratarte.
+d6cbdd	T	Un sismo fuerte sacude {0}.
+19c386	D	Ayudar en el rescate
+2c5fd3	D	Ayudas a rescatar a tus vecinos.
+e0b7fe	D	Ayudas a rescatar vecinos, pero te lesionas.
+82a52f	D	Proteger tu casa
+8e8e91	T	Tu casa sufre daños por {0}.
+e90502	D	Tu familia sale ilesa.
+60f649	T	Un huracán toca tierra cerca de {0}.
+cb6678	D	Evacuar a tiempo
+dbda4c	D	Evacúas con tu familia. Todos a salvo.
+ef95a1	D	Quedarte a resguardar tus cosas
+fdb1c0	D	Pasa la tormenta sin daños mayores.
+fdfbcb	D	El agua inunda la casa y sales herido.
+be9656	T	Sequía severa en {0}: suben los precios de los alimentos.
+1da8c6	D	Recortar gastos
+956c70	D	Llenas la despensa por si acaso.
+b90d6f	D	Comprar reservas de comida
+e85697	D	Ajustas tu presupuesto.
+db8931	D	Una nueva pandemia se extiende por el mundo.
+103160	D	Encerrarte y vacunarte
+be7e60	D	Pasas meses encerrado, pero sano.
+17a63e	D	Te contagias y la pasas mal.
+2a3be1	D	Tienes suerte y no te contagias.
+9bb411	D	Seguir tu vida normal
+c68487	D	Encuentras un perrito abandonado en la calle.
+3c953c	D	Te quedas pensando en él.
+8c6c0e	D	Lo llamas Capitán. Es tu mejor amigo.
+334ed8	D	Un compañero te molesta en la escuela.
+59d296	D	Pierdes la pelea.
+7a12ac	D	Lo pones en su lugar. Te respetan.
+b08780	D	Enfrentarlo
+389d52	D	El maestro lo castiga.
+5c6001	D	Sigue molestándote.
+ba29e5	D	Avisar al maestro
+4db2d6	D	Te invitan a un concurso de oratoria.
+0535f0	D	Te pones nervioso y pierdes.
+3e89e2	D	¡Ganas el concurso!
+44887c	D	Prefieres quedarte en casa.
+9ff90f	D	Participar
+1f2f6e	D	Te invitan a una fiesta el fin de semana.
+083439	D	Te diviertes, pero terminas lastimado.
+6e78f1	D	Quedarte a estudiar
+745340	D	Conoces gente nueva.
+798490	D	Estudias toda la noche.
+851a54	D	Ir a la fiesta
+63896c	D	El entrenador te invita al equipo de fútbol.
+1a2e13	D	Entrenas tres veces por semana.
+906cac	D	No es lo tuyo.
+533125	T	Un vendedor te ofrece un billete de lotería por {0}.
+806ee4	D	No ganas nada.
+e93782	T	¡Ganas {0}!
+ec7892	D	No, gracias
+ed36ee	D	Comprarlo
+6e6409	D	Te sientes muy cansado desde hace semanas.
+14b921	D	Se te pasa solo.
+764bfd	D	El médico te revisa y te receta descanso.
+9f00ab	D	Era algo serio y empeora.
+dcb079	T	Ir al médico ({0})
+efbe7c	T	Un amigo te pide prestados {0}.
+d3c1f4	D	Te paga a tiempo.
+f35999	D	Nunca te paga.
+0d7a53	D	Te asaltan camino a casa.
+1e7806	D	Entregar todo
+b885ed	T	Pierdes {0}.
+21f6d5	D	Resistirte
+679cb4	D	Sales herido.
+f4cda7	D	Logras escapar.
+d341a3	T	{0} quiere casarse contigo.
+25e858	T	Casarse ({0})
+77b10a	D	¡Te casas!
+e7d73e	D	Todavía no
+e10aa6	T	{0} quiere terminar la relación.
+2ac131	D	Luchar por la relación
+463793	D	Se dan otra oportunidad.
+e11d21	T	{0} se va de todos modos.
+79f253	T	Terminas con {0}.
+7e805e	T	Te ofrecen trabajo en {0} (ingreso medio {1} al año).
+82efca	D	Te ofrecen un viaje de negocios.
+e81c3a	D	La oferta se cae.
+54fb7f	D	Tienes la crisis de los 40.
+92d0a1	T	Comprar un auto deportivo ({0})
+f447a4	D	Te sientes joven otra vez.
+4f89a3	D	Pasa, pero cuesta.
+7520c3	D	Ir a terapia
+e1269a	D	Hablar te ayuda.
+efdf11	D	Ignorarla
+2aeb92	T	Un empresario te ofrece {0} por votar a favor de su proyecto.
+02cc6c	D	Se descubre el soborno: escándalo y pierdes tu puesto.
+80cef4	D	Nadie se entera.
+d7c0ea	D	Aceptas el dinero. Nadie se entera… por ahora.
+79b603	D	Tu reputación de honestidad crece.
+1f9793	D	Un periodista investiga tu pasado.
+294d59	D	La nota nunca sale.
+4a2dc2	T	Pagar para callarlo ({0})
+63d948	D	Publica todo, incluido el intento de soborno.
+002ab9	D	Dar una entrevista honesta
+1a6363	D	La entrevista sale mal.
+83a32d	D	La entrevista te hace más popular.
+d8629e	D	Un rival político te ataca en redes sociales.
+0277f3	D	Te sale mal.
+652f99	D	Responderle
+f38423	D	Tu respuesta se hace viral.
+43b985	D	Te ordenan encabezar un asalto a posiciones enemigas.
+9b50c3	D	Ir al frente
+a10fa2	D	El asalto es un éxito y te condecoran.
+c89d59	D	Caes herido.
+191686	D	Llegan los refuerzos y todo sale bien.
+222ed6	D	Tus superiores dudan de ti.
+43427e	D	Pedir refuerzos
+c59245	D	Te proponen invertir en una cadena de puestos de comida callejera.
+3312ac	D	Invertir 30 % de tu dinero
+5c6a76	T	¡La cadena despega! Ganas {0}.
+67f67c	D	Prefieres no arriesgar.
+8862b4	T	La cadena cierra. Pierdes {0}.
+cfd570	D	No invertir
+d2c243	D	Tu jefe te ofrece más responsabilidad a cambio de más horas.
+447d8d	D	Tu sueldo sube 20 %.
+8023aa	D	Prefieres tu tiempo libre.
+e86321	T	Descubren grandes yacimientos de litio en {0}.
+7a1353	D	La economía del país crece 3 %.
+bf489e	D	¡Qué buena noticia!
+4dc8ce	T	Crisis económica en {0}: despidos masivos.
+c983fd	D	Te despiden y pierdes el 10 % de tus ahorros.
+e83321	D	Pierdes el 10 % de tus ahorros.
+a229f1	D	Te vuelves Emprendedor.
+b07256	D	Como gobernante, lanzas un plan de rescate.
+ef0056	D	Emprender un negocio
+be0081	D	Hay protestas masivas en las calles.
+b1c0a3	D	Ves todo por televisión.
+b34bf0	D	La policía dispersa la marcha y sales lastimado.
+c059bd	D	Tu voz se escucha.
+4e2ad1	D	Te invitan a una cumbre internacional.
+490bcc	D	Asistir
+cb8845	D	Ganas prestigio internacional.
+cfdbdf	T	Firmas una alianza con {0}.
+b77e78	D	Te quedas atendiendo asuntos internos.
+e79e2c	T	{0} propone un tratado de libre comercio.
+e36820	D	El tratado impulsa las exportaciones (+0.8 % de crecimiento al año durante 10 años). Algunos sectores protestan.
+ec7f98	D	Proteges a la industria nacional.
+8f51e7	T	Te declaran culpable: {0} años de prisión.
+d6502d	D	Sales de prisión.
+eebbd0	D	Empiezas la escuela primaria.
+95d28e	D	Terminas la preparatoria. Ya puedes ir a la universidad o trabajar (menú Carrera).
+045180	T	Te gradúas en {0}.
+0a0117	D	Entras al ejército como Teniente.
+93f542	T	No alcanzas a pagar {0} préstamo(s). Llevas {1} año(s) de atraso.
+ad373c	T	Tu tarjeta de crédito está al límite ({0}). Llevas {1} año(s) sin poder pagarla.
+c9b0bc	T	Pagaste {0} de impuestos este año.
+4c10f9	D	Tus deudas te quitan el sueño.
+5ca2cb	T	¡Ascenso! Ahora eres {0}.
+c0edfe	D	en combate
+dd7b38	D	Los médicos confirman que el cáncer está en remisión.
+10a9b0	T	Muere tu madre, {0}, a los {1} años.
+b20e84	T	Muere tu padre, {0}, a los {1} años.
+e3e1a2	T	Heredas {0}.
+bcef63	D	de vejez
+93ab7f	T	Mueres {0} a los {1} años.
+2fe9bb	D	Heredas el poder.
+e1b8b6	T	Generación {0}: continúas como {1}, de {2} años.
+d47787	D	Estudias duro.
+19732c	D	Lees un buen libro.
+1e2d45	D	Entrenas en el gimnasio.
+563918	D	Pasas tiempo con tu familia.
+7152b6	D	Conoces gente importante.
+80b7b2	T	Empiezas a salir con {0}.
+c0ab0c	D	No encuentras a nadie esta vez.
+165fa9	T	¡Nace tu hija {0}!
+289396	T	¡Nace tu hijo {0}!
+ff1fdf	D	Este año no hubo embarazo.
+abfa8f	D	Te vas de vacaciones.
+d68d7e	T	Vacaciones ({0})
+7fe641	D	Te haces un chequeo.
+e69aa4	D	El chequeo detecta algo. Tendrás que decidir qué hacer.
+0d86f2	T	Hacer campaña ({0})
+2b573e	D	Recorres colonias y das discursos.
+90ad54	T	Tasa {0} anual
+95ea01	D	5 años
+aa3c69	T	Préstamo personal de {0}
+d553c7	T	El banco te presta {0}.
+df5328	T	pago {0}/año
+14a9a8	T	Comprar casa con hipoteca ({0})
+5db08c	D	Compras tu casa. Ya no pagas renta.
+bf92e7	T	Enganche {0}
+ea85c8	T	tasa {0}
+efa531	D	20 años
+8762a7	D	Liquida primero la hipoteca
+a17fd2	T	Vender tu casa ({0})
+36ad4e	T	Liquidas tu {0}.
+4a9cbb	T	Tasa {0}
+ad8813	T	Liquidar {0} ({1})
+d6548e	D	Tus deudas
+046def	T	No pasas el examen de admisión de {0}. Puedes intentarlo el próximo año.
+38844f	D	con beca
+720c2d	T	Inteligencia {0}+
+73d1bb	T	examen de admisión ({0} %)
+cc33a8	T	¡Pasas el examen! Entras a estudiar {0}.
+945f36	D	Te unes a un partido como Activista.
+4c433e	D	Salud 50+
+9bd912	D	Te alistas como Recluta.
+9d87e7	D	Recluta
+51acd9	D	Empleado
+68d565	D	Consigues un puesto de Empleado.
+bcdc90	T	No te contratan como {0}.
+c42e93	T	Te contratan como {0}.
+e9637d	T	No te contratan como {0} (desempleo en el país: {1}).
+104ed9	T	Te unes al club de {0}.
+fd7606	D	Club escolar
+69b4a9	D	Mesero (medio tiempo)
+9ac1fa	D	Consigues trabajo de medio tiempo.
+ac6c44	D	Trabajo de medio tiempo
+85acdf	T	Probabilidad ~{0} %
+c3cdab	D	Dar un golpe de Estado
+3956a9	D	El golpe fracasa.
+4500a5	D	El golpe triunfa.
+4ee3d5	D	tras un golpe fallido
+a0b291	D	El golpe fracasa: te dan de baja y caes en desgracia.
+4e0680	T	Comprar influencia ({0})
+befbfd	D	Financias fundaciones y medios.
+98baa0	T	Saltar a la política ({0})
+b1f0a2	D	Senador directo
+b29005	D	Influencia 55+
+cc3306	D	Tu partido te da un escaño de Senador.
+620dac	D	Renunciar
+95bffa	T	Renuncias a tu puesto de {0}.
+9a6861	D	Quedas sin empleo
+dd6c29	D	Abandonar la universidad
+ea0854	T	Abandonas {0}.
+40bd31	D	Jubilarte
+71490c	D	Pensión del 40 % de tu sueldo
+b08c7c	D	Te jubilas.
+072ddc	D	Dejas de gobernar
+995c47	D	Renunciar al poder
+e0a901	D	Renuncias al poder.
+49b9ae	D	+Crecimiento económico
+94bbb8	D	+Ejército
+ca39d8	T	gasto militar {0}
+4be3d1	D	+Aprobación, −Economía a largo plazo
+e00cdc	D	−Inflación, −Crecimiento
+8700a8	D	riesgo de juicio
+893166	T	+{0} para ti
+9e1a4a	D	+0.5 % de crecimiento al año por nivel
+cd08a7	D	Carreteras
+795626	D	+0.7 % de crecimiento por nivel y más empleo
+ae9ee9	D	Zona industrial
+d5c1fa	D	Escuelas y universidad
+fa0982	D	+Inteligencia para quien vive ahí; +0.3 % de crecimiento
+79ec98	D	Hospitales
+f097d8	D	−8 % de mortalidad por nivel para quien vive ahí; +estabilidad
+045612	D	+0.6 % de crecimiento por comercio (solo costa)
+095508	D	Puerto
+b1ab26	D	Cada nivel da 30 % de probabilidad de resistir un ataque
+ef1acb	D	Fortaleza
+0ce31f	D	Propiedad / terreno
+6da486	D	Rinde según la economía de la provincia; 4 % de riesgo anual de quiebra
+831bd2	D	Se revaloriza con la provincia y deja 3 % de renta al año
+cb61e9	D	Negocio local (socio)
+8fe6ae	D	Cadena regional
+cd3d23	D	Local establecido
+df30c4	D	Pequeño
+fa92c9	D	Corporativo nacional
+d03462	T	El nuevo gobierno de {0} expropia tu inversión en {1} ({2}).
+98c698	T	Tu negocio en {0} es expropiado tras la conquista.
+254702	D	Sedán nuevo
+6309c3	D	Auto usado
+a5c31e	D	Camioneta de lujo
+ac3b38	D	Conversar
+f0ff58	T	Platicas un buen rato con {0}.
+46aa91	T	Pasas la tarde con {0}.
+919cc0	D	+Relación, +Felicidad
+dd9e13	D	Pasar tiempo juntos
+ee02f8	T	Hacer un regalo ({0})
+f84381	T	A {0} le encanta tu regalo.
+6a13a2	D	Si la relación es buena
+7da30b	T	{0} se niega.
+f3b2da	D	Pedir dinero
+1bd6e9	T	{0} no puede ayudarte ahora.
+ba88a7	T	{0} te presenta a gente importante.
+bf8e2f	D	Pedir un favor
+cabf88	D	Contactos: +Influencia (relación 70+)
+09f140	D	Puede volverse amigo
+8b5645	T	{0} rechaza la tregua.
+9953f4	T	Haces las paces con {0}. Ahora es tu amigo.
+b9c768	D	Hacer las paces
+5a4c28	D	Exhibirlo en público
+c7efb0	T	{0} te devuelve el golpe.
+e5c24c	T	Dejas en ridículo a {0}.
+545df2	D	Relación 60+
+aa8e60	D	Pedir aumento
+beaf50	T	{0} aprueba tu aumento.
+fd9ad6	T	{0} dice que no.
+2027dc	D	Discutir
+39dd55	T	Discutes feo con {0}.
+4e97aa	T	Le dices sus verdades a {0}. Te desahogas.
+360e6e	D	Termina la amistad
+3f12bd	D	Dejar de hablarle
+93a729	T	Te alejas de {0}.
+a6706e	D	Deportes
+b0d83f	D	Ciencias
+b7b027	D	Debate
+bfc595	T	Terminas la primaria con promedio de {0}.
+6d2c49	T	Terminas la secundaria con promedio de {0}.
+3d2236	T	Terminas la preparatoria con promedio de {0}.
+eca437	T	Terminas la preparatoria con promedio de {0} y ganas una beca universitaria.
+a052c3	D	Gobernar tu país
+d4bc46	D	Patrimonio de 100 salarios medios
+854ea2	D	Casarte y tener 3 hijos
+d0cc68	D	Dos títulos o Inteligencia 95
+e89439	D	Conocimiento
+347dc6	D	Imperio
+471969	D	Anexar 10 provincias como gobernante
+88a425	D	Millonario
+ccec11	D	Patrimonio de 1 millón de dólares
+08a55e	D	Jefe de Estado
+aa4ce0	D	Mano de hierro
+b6e6d6	D	Gobernar como dictador
+dda78f	D	Llegar a General
+bae502	D	Llegar a Magnate
+8c8c66	D	Conquistador
+f4320c	D	Anexar 10 provincias
+67cedb	D	Construir 10 edificios en provincias
+dd884d	D	Inversionista
+ff6f34	D	Tener 5 inversiones a la vez
+43707a	D	Del puesto a la cadena
+b02039	D	Llevar tu negocio a cadena regional
+00a34d	D	Terminar la prepa con 9.5 o más
+628a08	D	Cuadro de honor
+7cd6ad	D	Tener 4 hijos
+9f5781	D	Familia numerosa
+755d96	D	Centenario
+e69a87	D	Llegar a los 100 años
+930568	D	Emigrante
+f766a3	D	Vivir en otro país
+2080e0	D	Alma de la fiesta
+c83bc9	D	Tener 5 amigos con relación de 80+
+036b32	D	Dinastía
+26515f	D	Llegar a la 3.ª generación
+e45b94	T	⭐ Cumpliste tu ambición: {0}.
+0eedce	T	El negocio en el que invertiste en {0} quiebra. Tu parte vale {1}.
+28df83	T	Tu {0} cierra por pérdidas.
+1a5281	T	Muere {0}, tu {1}, a los {2} años.
+e9ed04	T	Pierdes contacto con {0}.
+e81051	D	Ya casi eres adulto. ¿Qué quieres lograr en la vida?
+259d45	T	Tu ambición: {0}.
+27d52a	T	{0} quiere ser tu amigo en la escuela.
+b2d2f5	T	{0} quiere ser tu amigo.
+81a8ad	T	Ahora {0} es tu amigo.
+a42759	D	Hacerse amigos
+6e1709	T	{0} empieza a competir contigo en todo.
+29cf98	D	Tratar de hacerte su amigo
+6874e7	T	{0} es ahora tu rival.
+87ac86	D	Terminan siendo amigos.
+a766c5	D	No funciona: te ve como rival.
+c18d7a	T	{0}, tu maestro, ve potencial en ti.
+076274	D	Sigues a tu ritmo.
+37c5f9	D	Pedirle consejo
+a68918	D	Sus consejos te abren la mente.
+5123e8	D	Mañana hay examen final y no has estudiado.
+15ab07	D	Desvelarte estudiando
+403f74	D	Repruebas.
+5a5192	D	Te cachan copiando: te reprueban.
+63954c	D	Sacas buena calificación.
+885410	D	Copiar
+8a6aff	D	Pasas de panzazo.
+9e1b56	D	Confiar en tu suerte
+97084d	D	Hay una feria de ciencias en tu escuela.
+1162ad	D	¡Ganas el primer lugar!
+23122c	D	Solo ir a ver
+99bfbd	D	No ganas, pero aprendes mucho.
+ac58f8	D	Ves proyectos increíbles.
+ddeb5f	D	Presentar un proyecto
+149f37	D	Llega el Día de Muertos. Tu familia arma el altar.
+6146fe	D	Ir al desfile
+9cbc75	D	Te maquillas de catrina y disfrutas el desfile.
+eb2979	D	Cempasúchil, pan de muerto y recuerdos. Un día especial.
+f541f5	D	Poner el altar con tus seres queridos
+267c07	D	Te invitan a una posada navideña en la colonia.
+4f8b72	D	Prefieres descansar.
+5de037	T	Conoces a {0}. Se hacen amigos.
+b8c1d6	D	Ponche, tamales y villancicos.
+bc213e	D	Ir y romper la piñata
+37d86a	D	Cumples 15 años. Tu familia quiere hacerte una fiesta de XV años.
+02230e	D	¡Una fiesta inolvidable con chambelanes y vals!
+17f969	D	Mejor un viaje
+4031a0	D	Prefieres conocer otro lugar. Un gran viaje familiar.
+98df95	T	Fiesta grande ({0})
+518d0e	T	El Mundial 2026 se jugó en {0}. Tu familia aún habla del partido al que fueron.
+2eb8e4	D	Guardar el boleto de recuerdo
+65e0b7	D	Un recuerdo para toda la vida.
+067de4	D	Tu hermano mayor, que trabaja en Estados Unidos, manda dinero a la familia.
+097edc	D	tu prima
+303787	D	tu tío
+4e0b7b	D	Tu prima, que trabaja en Estados Unidos, manda dinero a la familia.
+5f5f42	D	Tu tío, que trabaja en Estados Unidos, manda dinero a la familia.
+afdd0e	D	un primo
+d00170	D	Un primo que trabaja en Estados Unidos manda dinero a la familia.
+fe8b3e	D	tu hermano mayor
+12f2ae	D	Ahorrarlo
+6b8fc9	T	Ahorras {0}.
+a0d084	D	Invertirlo en la casa
+d58b0f	D	Arreglan la casa de la familia.
+7312f4	D	Un amigo vende su puesto en el tianguis. Te lo deja barato.
+3c808a	D	Ahora tienes tu propio puesto. ¡A vender!
+7bb480	D	Lo piensas, pero no.
+9c8a96	T	{0} te recomienda para un trabajo de oficina en su empresa.
+6681ba	T	Gracias a {0}, consigues trabajo.
+8183b6	D	Prefieres buscar por tu cuenta.
+e55847	T	{0} sabe que estás en aprietos y te ofrece un préstamo sin intereses.
+37d55d	T	{0} te presta {1}.
+684701	D	Por orgullo, no
+9f2cba	D	Prefieres arreglártelas solo.
+a82eab	T	Tu rival {0} difunde rumores para hundirte.
+1cfd9c	D	Los rumores te cuestan algo de reputación.
+8393e1	D	Lo desmientes y quedas mejor parado.
+8af09c	D	Nadie te cree.
+b3bac8	D	Desmentirlo con pruebas
+3a1ab0	T	Tu jefe, {0}, te tiene en la mira.
+09bf6c	D	Mejoras tu relación con tu jefe.
+1b7df2	D	Buscar otro trabajo
+516c21	D	No encuentras nada mejor.
+7b7ce5	D	Encararlo
+a248d4	D	Esforzarte el doble
+d17fa6	D	Encuentras otro empleo un poco mejor pagado.
+e52276	D	Te despiden.
+f9fa79	D	Aclaran las cosas.
+125988	T	{0} se casa y te invita como padrino.
+1b6060	D	Ir solo como invitado
+4d209a	T	Aceptar ({0})
+4f2f14	D	Una boda muy divertida.
+a18ed3	D	Disfrutas la fiesta.
+26ffd4	T	{0} te da la noticia: ¡vas a ser abuela!
+fe8874	T	{0} te da la noticia: ¡vas a ser abuelo!
+6a1789	D	Nace tu nieto.
+ce1e2c	D	Celebrar en familia
+7b7211	D	Todos hablan de una criptomoneda que se dispara.
+341a8a	D	Sigues con tus ahorros tranquilos.
+80f0b4	D	Se desploma. Pierdes casi todo lo que metiste.
+a282f0	D	Vendes a tiempo y ganas bien.
+eb7387	D	No caer en la moda
+f739e7	D	Meter 20 % de tus ahorros
+c67db0	D	Un conocido te ofrece "duplicar tu dinero en 6 meses".
+982ba1	D	Desconfiar
+cce4ac	D	Meses después, el esquema se cae. Te salvaste.
+fa53a7	T	Era un fraude piramidal. Pierdes {0}.
+634aac	D	Un conductor se pasa el alto y choca tu auto.
+1fa6c5	D	La discusión termina en golpes.
+4b6030	D	Arreglarlo con el seguro
+4fc35a	D	Pelear en la calle
+7c1865	D	El otro conductor te paga en efectivo.
+892a0c	D	Pagas el deducible y queda como nuevo.
+f38cbb	T	Una empresa grande quiere comprar tu negocio por {0}.
+968909	D	Vendes tu negocio y cobras una buena suma.
+9b2d9c	D	No está en venta
+d8b016	D	Decides seguir creciendo.
+9e63a7	D	Tus compañeros convocan a huelga por mejores salarios.
+7b0be2	D	No consiguen nada.
+a13a5a	D	La empresa despide a los huelguistas.
+c56432	D	Tu jefe lo nota.
+f05444	D	La huelga gana: suben los salarios 10 %.
+22e418	D	Buscan voluntarios para reforestar un cerro.
+10b497	D	Ir el fin de semana
+42d4a6	D	Plantas 50 árboles.
+6c6fe1	D	Será la próxima.
+cd11f9	D	Te ofrecen un curso intensivo de inglés.
+068e73	D	Mejoras tu inglés: te abre puertas.
+f8d6c1	T	Tomarlo ({0})
+67425f	D	Hay un maratón en tu ciudad.
+207ea1	D	Ir a animar
+304ce7	D	Te lesionas en el km 30.
+7bd432	D	Gran ambiente.
+adf7f8	D	¡Lo terminas!
+e5bc01	D	Correrlo
+1d123b	T	Tu padre, {0}, ya necesita cuidados.
+98338f	T	Tu madre, {0}, ya necesita cuidados.
+155d2b	D	La familia se une más.
+26c120	D	Llevarlo a vivir contigo
+435388	D	Contratas una cuidadora.
+4b90b3	D	Te reclaman en la familia.
+8e040f	D	Que se encarguen tus hermanos
+f67019	T	Pagar una cuidadora ({0}/año)
+1e9738	T	{0} quiere ir a la universidad y te pide apoyo.
+0f43cd	T	Pagarle la carrera ({0})
+72ee03	D	Que trabaje y estudie
+c1789f	T	{0} tendrá que esforzarse el doble.
+ed1d63	T	{0} entra a la universidad.
+3d4221	D	Te invitan a la reunión de exalumnos.
+2b6daf	D	Te da flojera.
+7f9399	D	Recuerdas viejos tiempos.
+a5f997	T	Retomas la amistad con {0}.
+0a3617	T	{0}, alguien con mucha experiencia, se ofrece a ser tu mentor.
+716685	D	Ir por tu cuenta
+ddc19e	D	Aprendes de alguien que ya recorrió el camino.
+f64c81	D	Prefieres aprender solo.
+6d11e6	T	Te invitan a inaugurar las obras en {0}.
+72d1b9	D	Sigues con la agenda.
+74a6ae	D	Ir con la prensa
+a0ffb0	D	La inauguración sale en todos los noticieros.
+a21d3c	D	Mandar a un ministro
+fecae4	D	Te invitan a dar un discurso en la Asamblea de las Naciones.
+2bd464	D	Tu discurso es aplaudido.
+93b09a	D	Discurso desafiante
+d1d74b	D	Discurso conciliador
+e68ac1	D	En casa te aplauden; afuera, no tanto.
+348b39	D	Un ministro de tu gabinete aparece en un escándalo de corrupción.
+7ba12b	D	Actúas rápido y la gente lo aprecia.
+806373	D	Destituirlo de inmediato
+d582dd	D	Tu gabinete te es leal, pero la opinión pública no.
+b96a82	T	Inundaciones en {0} afectan tu inversión ahí.
+5c5e0e	D	Aceptar la pérdida
+7bfd48	D	Reconstruir (inyectar capital)
+9a5a58	T	Pones {0} para reconstruir.
+f08154	D	Tu inversión pierde 20 % de su valor.
+5b2d92	D	No hay paso por tierra hasta ahí.
+d717d7	D	Solo puedes reubicar dentro de tu territorio.
+edf5a4	T	Ejército reubicado en {0}.
+11d161	T	Tu marina solo transporta {0} soldados: divide el ejército para embarcarlo.
+6cd098	D	Sin ruta por tierra. Lleva el ejército a una provincia costera para embarcarlo.
+77e601	D	No hay ruta: necesitas acceso militar o estar en guerra con ese país.
+48b494	T	Sin puntos de movimiento este mes (tienes {0}, la orden cuesta {1}).
+5d23f6	T	En marcha hacia {0}: {1} mes(es).
+fce41e	T	Embarca hacia {0}: llega en {1} mes(es).
+6f536b	T	Batalla en {0}: {1} vence a {2}. Bajas {3} contra {4}.
+be75a5	D	Te hieren durante la batalla.
+f90a53	D	en combate, al frente de sus tropas
+55af30	T	Tu ejército de {0} queda destruido (rodeado, se rinde).
+5edddb	T	Tu ejército de {0} queda destruido.
+1e50a7	T	{0} capitula ante {1} y cede {2} provincia(s).
+f94beb	T	Firmas una paz blanca con {0}: cada quien conserva su territorio.
+ed2b88	T	Rechazas la propuesta de {0}. La guerra continúa.
+674ef5	T	Cumples tu palabra: {0} entra a la guerra contra {1} para defender a {2}.
+05b5ac	D	Retiras tu garantía.
+3669e7	D	La alianza se rompe.
+d28869	D	Tu vasallo se declara libre de tu tutela.
+d85563	T	No acudes a defender a {0}. {1} Tu palabra pierde peso en el mundo.
+4c7064	T	Mejoran las relaciones con {0} (+{1}).
+641a48	D	+opinión
+98c616	D	Embajada y visitas oficiales
+231f54	T	{0} acepta la alianza.
+453e9a	T	Probabilidad {0}
+6313c9	D	sus fuerzas te apoyan en guerra
+e2b716	T	{0} rechaza la alianza.
+28adc2	D	−opinión
+36782e	D	Pierdes su apoyo
+fdbe9e	T	Rompes la alianza con {0}.
+128b85	T	{0} no quiere comprometerse.
+b425b1	D	no podrán atacarse sin romperlo
+b97ac4	T	Firmas un pacto de no agresión con {0} hasta {1}.
+0b8c61	D	tus ejércitos pueden cruzar su territorio
+45876e	T	{0} niega el paso a tus tropas.
+c201b9	T	{0} te concede acceso militar.
+4873d4	T	Renuncias al acceso militar en {0}.
+143023	T	Garantizas la independencia de {0}.
+1e3cb3	D	Siempre aceptan
+203ad7	D	si alguien los ataca, te llamarán a defenderlos
+7369db	T	Retiras tu garantía a {0}.
+1f863b	T	{0} rechaza el ultimátum. Tienes motivo de guerra hasta {1}.
+8fb712	D	si se niegan, ganas motivo de guerra (declararla no baja la estabilidad)
+9957dc	T	{0} cede {1} ante tu ultimátum.
+9cdd83	T	Aceptan: {0}
+223965	D	el vasallo paga tributo y lucha a tu lado
+b4f098	T	{0} acepta ser tu vasallo.
+d44fd1	T	{0} rechaza el vasallaje. Tienes motivo de guerra hasta {1}.
+139096	T	Integras a {0} a tu nación.
+6e0c68	T	requiere 5 años de vasallaje (llevas {0}) y opinión 40+
+f07b41	D	Anexas todo su territorio
+691fef	T	{0} vuelve a ser independiente.
+8f59eb	T	Reclutas {0} soldados en {1} ({2} del tesoro).
+8b0263	T	Disuelves el ejército de {0} ({1} soldados vuelven a casa).
+28284c	T	El tesoro no alcanza para pagar a las tropas extra ({0} al año). La moral cae.
+0a6c7f	T	{0} te retira el acceso militar.
+7d44a0	D	río grande
+00f232	D	Logístico
+094f7b	D	Ofensivo
+3f9c6c	D	Veloz
+6c7c49	D	Defensivo
+81a96c	D	+1 de movimiento al mes
+c83614	D	+15 % al defender
+dd2135	D	−35 % de desgaste y mejor abasto
+df2ff3	D	+15 % al atacar
+292740	D	Inexperto
+3db6c4	D	+25 % en montaña y colinas
+8bd56f	D	la moral se recupera el doble
+94acb1	D	Montañés
+c05ea1	D	Carismático
+d32192	D	−10 % en batalla; aprende rápido
+3a0cc0	T	Tu gobierno firma la paz con {0} por el cansancio de la guerra.
+48fd3b	T	La guerrilla expulsa a {0} de {1}.
+50bbc0	D	Normales
+834cd4	T	Los intereses de tus bonos se comen {0} del tesoro este año.
+f4309e	T	Crisis de deuda: los mercados dudan de que {0} pueda pagar ({1} % del PIB). Recesión.
+96b9ac	T	Vence el tratado comercial con {0}.
+06f03c	T	Probabilidad {0} %
+60ea41	T	ambos crecen más (+{0} % al año para ti)
+7c6e11	T	{0} no quiere el tratado comercial.
+f5a5fb	T	Firmas un tratado comercial con {0} hasta {1}.
+d33005	T	Cancelas el tratado comercial con {0}.
+5674f0	D	−30 opinión
+c2d794	T	Su economía pierde ~{0} % al año; tú también pierdes un poco
+ea48c2	T	Impones un embargo comercial a {0}.
+8310cf	T	Levantas el embargo a {0}.
+8da88e	D	+0.25 % de crecimiento de población y +3 de felicidad por nivel
+fdbeab	D	Granja
+285024	D	+0.4 % de crecimiento económico y más desarrollo por nivel
+2fc520	D	Taller
+1cad05	D	+desarrollo y más investigación para todo el país
+497ac5	D	Biblioteca
+821118	D	Armería
+ba3175	D	+reserva de reclutas; quien se recluta aquí sale mejor equipado
+7b11a9	D	Torre de vigía
+f9cef2	D	Ves ejércitos enemigos a 3 provincias y +10 % de defensa
+98ebfe	D	Depósito de suministros
+9f0f23	D	Abasto completo para tus tropas aquí y en provincias vecinas
+d96119	T	Inviertes {0} en {1}: desarrollo {2}.
+4a2324	T	Programa de crecimiento en {0} por 10 años ({1}).
+f9b036	T	Festival en {0}: la gente celebra ({1}).
+4faedb	T	{0} se vuelve provincia núcleo de {1} ({2}).
+2cb192	T	Liberas a {0} ({1} provincia(s)).
+fb1c57	T	Liberas a {0} ({1} provincia(s)) como tu vasallo.
+e9202e	D	Canciller
+10d012	D	Rey
+cb60e4	D	Reina
+bedfa5	D	Caudillo
+f2cdf7	D	Caudilla
+da7f30	D	Líder Suprema
+f55e0d	D	Líder Supremo
+ce53b3	D	Jefe de la Junta
+ce977b	D	Jefa de la Junta
+153917	T	{0} adopta el sistema: {1}. {2}
+68c909	D	El cambio sacude al país (−25 estabilidad).
+8ad383	D	Estabilidad −15 mientras se adapta.
+7042c4	T	¡Proclamas {0}! Todas sus provincias pasan a ser núcleo y la estabilidad sube.
+76317a	T	Saqueas {0}: {1}. La provincia queda devastada.
+def508	T	Saqueas {0}: {1} para el tesoro. La provincia queda devastada.
+97ce20	T	Envías un regalo a {0} (+{1} de opinión).
+06e722	T	{0} responde al insulto declarándote la guerra.
+0ab93b	T	Insultas al gobierno de {0}. Tu pueblo aplaude; ellos no olvidan.
+226773	T	{0} entra a la guerra a tu lado.
+933b0b	T	{0} no quiere entrar a la guerra.
+f270d9	D	entra con sus ejércitos
+474019	D	Requiere opinión 75+, misma cultura o sistema y que sean más débiles
+ba996a	T	probabilidad {0} %
+bc85c8	T	{0} prefiere seguir independiente.
+c1ebe6	T	{0} se une a {1} por voluntad propia.
+d8fbfd	T	{0} decreta la movilización general.
+635daa	T	{0} envía armas, dinero y voluntarios a {1} contra {2}.
+6d145a	D	Genio
+7b9eb3	D	Atlético
+0fa6f7	D	Astuto
+1816a0	D	+8 influencia al heredar
+51087e	D	La corte y el ejército lo aceptan: herencia del poder más segura
+b17eb0	D	+8 inteligencia, mejor en negocios
+b6a1fc	D	Ambicioso
+eabbe7	D	Leal
+1a1364	D	Rebelde
+477475	D	Enfermizo
+89bcec	D	−5 felicidad de joven, +5 influencia
+92aa1e	D	Élite / internado
+4565ab	T	No alcanza el dinero para la escuela {0} de {1}: pasa a la pública.
+749df5	T	Cumples la mayoría de edad: termina la regencia y asumes el poder de {0}.
+f0a72c	D	El regente se niega a entregarte el poder. Tendrás que recuperarlo por tu cuenta.
+8c712e	D	Gobernante
+a4e47a	T	Regencia de {0}
+b8a530	T	Eres menor de edad: {0} gobierna como regente hasta que cumplas 18.
+737e93	D	Creces en una familia política: tu apellido abre puertas (+10 influencia).
+13abaa	T	Herencia (heredero principal, {0} %): recibes {1}.
+215918	T	Herencia (reparto igual, {0} %): recibes {1} tras pagar {2} de impuesto a la herencia.
+78a43d	T	Herencia (heredero principal, {0} %): recibes {1} tras pagar {2} de impuesto a la herencia.
+a9fb9c	T	Herencia (reparto igual, {0} %): recibes {1}.
+623f43	T	🥱 Te desvelas ({0}): −{1} salud y −{2} felicidad. Dormir lo recupera.
+23ec01	D	consultorios de 8:00 a. m. a 7:00 p. m.
+ebded5	D	Hacer campaña
+6d652d	D	🌙 de noche hay más gente buscando
+37574a	D	de madrugada cuesta más concentrarse
+1badd0	D	para dormir de verdad espera a las 8:00 p. m.
+3ee4c2	D	1 h 30 min
+61f5cf	T	Una siesta corta. Despiertas a las {0}.
+cee4b9	D	😴 Tomar una siesta
+d50ce6	D	+1 Felicidad
+1f09ba	D	Corres con la ciudad todavía en silencio.
+591ad1	D	+Salud, +Felicidad
+60a182	D	solo de 5:00 a 9:00 a. m.
+c00e98	D	+Felicidad; puedes conocer gente
+c7ed72	D	de 7:00 p. m. a 3:00 a. m.
+cbf9f2	T	Salir de noche ({0})
+3726c7	T	Conoces a {0} y se quedan platicando hasta tarde.
+3cc58f	D	Haces un par de contactos útiles.
+0e0f45	T	Al regresar te roban la cartera: pierdes {0}.
+99c6c4	D	Amaneces con resaca: −2 salud.
+c7f562	D	Bailas, ríes y llegas tarde a casa.
+f211a1	D	Sales de noche.
+8bdbaa	D	attribute vec2 p;varying vec2 v;void main(){v=vec2(p.x*.5+.5,.5-p.y*.5);gl_Position=vec4(p,0.,1.);}
+8fd208	D	attribute vec4 aPQ;attribute float aS;attribute float aK;uniform vec4 uVB;uniform vec2 uView;uniform float uDpr;uniform float uDet0;uniform float uZ;varying float vS;varying float vK;varying float vW;\nvoid main(){vec2 P=aPQ.xy/16.,Q=aPQ.zw/16.;vec2 X=abs(aS)>1.5?Q:P;vec2 d=Q-P;float L=length(d);vec2
+b01808	D	Riqueza por persona
+e3b0e6	D	Densidad de población
+5c28d5	D	Georgia,serif
+2e6a34	T	Crecimiento {0}
+767999	T	Ejército {0}
+871a99	T	Inflación {0}
+bec13b	T	Estabilidad {0}
+d1c655	D	Toca una provincia del mapa para ver sus datos. Arrastra para moverte; pellizca o usa +/− para acercar; ⛶ abre el mapa en pantalla completa.
+1ffec9	D	(con casa)
+b703cd	T	Esto toma {0} días y te quedan {1}. Avanza el reloj para recuperar tiempo.
+f3548c	T	El congreso rechaza tu propuesta: “{0}”. (Apoyo en el congreso: {1} %)
+cb556f	T	{0} acepta negociar la paz.
+e2f48f	T	{0} rechaza la paz.
+f9f32b	T	{0} acepta la paz. No obtienes territorio.
+200dfa	T	ya la hiciste {0}× este año (rinde menos)
+dc1049	T	⏳ {0} días
+08e30d	T	{0} año(s) en el puesto
+3988e1	D	requiere votación
+cab560	D	no cumplida
+9e6e85	D	lo logró un antepasado
+24f263	T	Índice de precios de {0}: {1} (inflación {2}).
+355aa7	T	Impuestos (recaudación del país: {0} % del PIB)
+8cda37	D	No se pudo cargar el mapa:
+1643fd	D	TU VIDA
+688e54	T	{0} cumple {1} años.
+141db8	D	Hermano/a
+e48e9d	D	Hijo/a
+58814c	D	ya interactuaron este año
+6addc3	T	Invertir {0} ({1} % de tu dinero)
+905783	T	Inviertes {0} en {1} en {2}.
+33dfba	T	gana ~{0}/año al empezar; crece si inviertes
+9c132e	T	Inversión inicial {0}
+c3265c	T	Abres tu {0} en {1}.
+0c4f7a	T	Te niegan la visa para {0}.
+5884ec	T	Mudarte a {0} ({1})
+74c1df	D	pierdes tu empleo
+a1f23f	T	Emigrar a {0} ({1})
+b6787d	T	Probabilidad de visa {0} %
+9d1c95	T	Construyes {0} en {1}.
+007bf6	T	suerte {0} %
+4bdde0	T	En {0}
+dd4db6	T	ganancia último año {0}
+3d8e29	T	Expandir a {0} ({1})
+7b5ece	T	Tu negocio crece: ahora es {0}.
+9c05a2	T	Ganancia esperada ~{0}/año
+17204e	T	Vendes tu negocio por {0}.
+bdbbd6	T	Vender el negocio ({0})
+314f2e	T	Invertiste {0} en {1}
+3203d2	T	Vendes tu inversión por {0}.
+4bedf5	D	toca para vender
+9d4b12	T	vale {0} ({1}{2} %)
+8bfb00	T	Vale {0}
+fef8d1	T	Vendes tu {0}.
+7a917f	D	+Felicidad
+b4f4a2	D	+Felicidad, +Apariencia
+cc57cb	T	Compras un {0}.
+efaf24	D	se deprecia 12 % al año
+e3ff87	T	Comprar casa de contado ({0})
+2a67b4	T	🏠 Tu casa vale {0}
+3bb424	T	mes {0} de 12
+2144b8	T	⏳ entrenando ({0} mes(es))
+915030	T	⛵ en el mar, llega a {0} en {1} mes(es)
+e6a163	T	embarcará hacia {0}
+19afad	D	🤖 automático
+60d512	D	Gral.
+d4b5ac	D	★ Lo comandas tú
+32e363	D	se decide en la conferencia de paz
+1dcfb3	D	🤖 Auto: sí
+adc1a8	D	🤖 Auto: no
+6b7684	T	Divides el ejército: dos de {0}.
+a57b37	T	Unes tus tropas en {0}: {1} soldados.
+4782ae	D	en marcha
+0d860a	T	Tu vasallo (tributo {0}/año)
+ac9b53	D	usa una acción de gobierno
+fc85e1	D	−5 estabilidad
+5cdbf4	T	Rompes el pacto de no agresión con {0}. El mundo desconfía de tu palabra.
+407bbb	T	Declaras la guerra a {0}. Empieza el Mando: cada turno es un mes.
+bcc375	T	{0} acepta la paz si le cedes las {1} provincia(s) que ocupa.
+0d8827	T	Puedes reclamar {0} provincia(s); llevas {1}.
+2b944e	T	{0} queda como tu vasallo.
+48afa1	D	a quien garantizaste su independencia
+18d4a2	T	{0} exige las {1} provincia(s) que ocupa a cambio de la paz: {2}.
+905832	T	{0} ofrece la paz y te cede las {1} provincia(s) que ocupas: {2}.
+d482d0	T	{0} propone una paz blanca: cada quien conserva su territorio y las ocupaciones se devuelven.
+c21d46	T	en coalición: {0}
+a4f7c7	T	{0} sube de nivel
+61a6f1	T	inflación {0}
+69b4e5	T	Impuestos {0}
+cde16d	T	Fijas los impuestos en nivel {0}.
+369217	D	los mercados no compran si la deuda pasa de 160 % del PIB
+97265d	T	Tasa {0} al año
+00d561	D	+0.25 % de crecimiento por nivel
+425b63	D	+6 % de calidad de tus tropas por nivel
+b3f543	T	Investigación {0}: nivel {1} → {2}
+0731b1	T	(−{0} % al año)
+c2e3b2	T	Eres vasallo de {0}
+657897	T	{0} ({1} núcleo)
+3baf13	D	🎯 núcleo
+434daa	T	conquistada en {0}
+6765db	T	{0} ejército(s) marchan a reagruparse en {1}.
+fbf809	T	Puntos de paz: {0}; usados {1}.
+234d9a	T	Te pagará {0} al año por 10 años.
+c6100b	T	Liberas a {0}.
+92e731	D	Rep.
+d0ce43	D	Mon.
+80b06f	T	tu rasgo: {0} {1}
+152e76	T	{0} % sobre lo que pase de {1}
+a4358b	D	no hay (0 %)
+3e78d1	D	🎯 Cómo funciona una partida
+ba0962	D	⚡ Acciones, carrera y estudios
+054a53	D	👑 Familia, dinastía y herencia
+e7f797	D	💬 Diálogos con causa
+6a311c	D	🗳️ Llegar al poder
+bb5d6d	D	🏛️ Gobernar un país
+4bf474	D	🗺️ El mapa
+348704	D	⚖️ Modos Rápido y Realista
+b5fb5c	D	Vives año por año en el mundo real de 2026. Este recorrido te muestra dónde está cada cosa. Puedes repetirlo desde Más → Guía.
+8311a0	D	Arrastra para moverte y pellizca para acercar. Toca una provincia para ver su población, PIB, terreno y acciones. Al acercar aparecen ciudades, carreteras e iconos de edificios.
+8177d2	D	Cambia lo que muestra el mapa: política, terreno, riqueza, población, felicidad, diplomacia, gobierno y más.
+ded793	D	Tu nombre, edad, dinero y año. Tus atributos (salud, felicidad, inteligencia, apariencia e influencia) están en la tarjeta de estadísticas.
+fe7005	D	Cada acción cuesta días de tu tiempo libre (120 al año, se recupera ~10 por mes): estudiar ~30 días, una cita ~5, una campaña ~45. Repetirla en el mismo año rinde menos.
+2fa3b4	D	Empleos, estudios y trayectorias: política, militar, empresa o fama. Es el camino para llegar al poder.
+48d1cd	D	Elige cuánto avanzar: Día, Semana, Mes, Año o 5 años. Lo ligero (tu tiempo libre, noticias) corre cada día; la economía y la guerra se calculan al cerrar cada mes y cada año. El reloj se detiene solo ante decisiones importantes.
+545047	D	Titulares en vivo. Tócalos para abrir el portal: regional, nacional e internacional (en la vista País, la Agencia Internacional con tono formal).
+cbc139	D	Datos de tu nación y, cuando gobiernas, la vista 🏛️ País: provincias, ejército, economía, diplomacia y guerra.
+f6b534	D	Personas, bienes, finanzas, 👑 Dinastía y herencia, 📘 Guía, ajustes y prueba de velocidad. ¡Buena suerte!
+5a62bf	D	👑 Dinastía y herencia
+9451a1	D	📘 Guía y tutorial
+04539b	T	Se recuperaron {0} partida(s) guardada(s). Ábrelas en 💾 Partidas.
+862fc2	D	⚠️ No se pudo guardar
+869bc5	D	⚠️ No se pudo cargar
+5e746c	D	⚠️ Memoria del navegador llena
+96af0a	D	La partida se guarda en su ranura de 💾 Partidas. Borra ranuras que no uses si el aviso sigue.
+8a5412	D	💾 Guardar aquí
+9393cb	T	¿Cargar «{0}»? La partida en juego se guarda antes en su ranura.
+190bb8	T	¿Sobrescribir «{0}» con la partida en juego?
+f9c93a	T	¿Borrar «{0}»? No se puede deshacer.
+3d40c5	D	No se pudo copiar solo: el texto quedó en el cuadro de Importar; cópialo de ahí.
+94764d	T	La partida ({0} KB de texto) está en el portapapeles.
+a57e7d	T	Quedó en la ranura {0}.
+db5434	D	Importada:
+38bb44	D	🌆 Dinámico
+3c4327	D	:root{--well:#0f1722;--ink2:#cbd5e1;--line2:#283243;--glass:rgba(16,24,36,.96);--rad:12px}\nhtml[data-theme=deportivo]{--bg:#0a1a36;--card:#10244a;--card2:#163059;--line:#28477a;--ink:#eef3fb;--mut:#9db0cf;--gold:#f6b93b;--teal:#36c5d6;--well:#0c1f42;--ink2:#d4def0;--line2:#2c4c80;--glass:rgba(14,32
+978d57	D	Dificultad:
+941099	D	(se sobrescribe)
+19b876	D	📂 Cargar una partida guardada
+dda8c7	D	💾 Partidas, dificultad, temas y vista
+8e963b	D	🕗 Reloj de 12 horas, día y noche

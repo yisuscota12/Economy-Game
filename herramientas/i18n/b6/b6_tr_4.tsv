@@ -1,0 +1,100 @@
+fb54ef	Kurunun nasıl hareket ettiğini ve kur krizi riskini belirler.
+184332	Resmî kur ile piyasanın adil gördüğü kur arasındaki fark. Büyürse spekülatörler paraya karşı bahse girer.
+c01db3	Büyük bir sapma zorunlu devalüasyon riskini artırır.
+9c6af2	Devleti yeni para yaratarak finanse etmek. Kısa vadede faturaları öder; orta vadede enflasyon ve değer kaybına yol açar.
+2c07d3	Bugün hazineyi, yarın enflasyonu artırır.
+7d82c3	Ülkeden para çıkarmaya ya da döviz almaya getirilen kısıtlamalar (örneğin Arjantin'deki "cepo"). Kaçışı frenler ama yatırımı kaçırır.
+ca7ee6	Daha az büyüme karşılığında paran üzerindeki baskıyı azaltır.
+752281	Merkez bankasının ithalatı, dış borcu ödemek ve parayı savunmak için tuttuğu döviz, altın ve diğer varlıklar. Sağlıklı bir düzey en az 3 aylık ithalatı karşılar.
+b29ed0	Yönetimdeysen müdahale için döviz alıp satabilir, altın biriktirebilir ve stratejik petrol rezervleri oluşturabilirsin. Krizlere karşı korur.
+0e3b2d	Tüm ülkelerin para birimleri ve dolar karşısındaki fiyatları.
+cd9a3a	Döviz kurları ve değişimleri.
+8f3006	Paranla gerçekten satın alabileceğin şey. Maaşın %5, fiyatlar %10 artarsa daha yoksulsun.
+700bc4	Paranı enflasyona göre düzeltilmiş olarak karşılaştırır.
+7f69e8	Hisselerin (şirketlerdeki mülkiyet paylarının) alınıp satıldığı piyasa. Uzun vadede borsalar ortalama yılda %6–10 getirdi; arada sert düşüşler oldu (2008, 2020).
+ad8c2b	Gerçeklerinden esinlenen şirketlerle 32 gerçek borsa. Fiyatlar her iş günü sonuçlar, haberler ve ekonomiye göre hareket eder.
+a72efb	Dünyanın borsaları ve endeksleri (S&P 500, IPC, Ibovespa, DAX, Nikkei...). Bir endeks bir piyasanın en büyük şirketlerinin gidişatını özetler.
+adefa4	Şirketlerini ve endekslerini görmek için bir borsa seç.
+e01e21	Yatırımlarının bütünü. Çeşitlendirmek (birçok şirket ve sektöre sahip olmak) beklenen getiriyi çok düşürmeden riski azaltır.
+acca51	Pozisyonların, gerçekleşmemiş kâr, kaldıraç ve açığa satışlar.
+815e39	Alış ya da satış talimatları. Piyasa emri: anında güncel fiyattan gerçekleşir. Limit: yalnızca senin fiyatından ya da daha iyisinden. Stop: fiyat bir seviyeyi geçerse devreye girer, zararı kesmek için.
+74a9e3	Fiyat gelince kendiliğinden gerçekleşen bekleyen emirler.
+e14604	Yükselirse kazanmak (uzun pozisyon) ve temettü almak için hisse satın almak.
+735265	Güncel fiyat artı komisyonla alır.
+dfd1ad	Bir pozisyonu kapatmak. Kâr ancak satınca gerçek olur; o zamana kadar "gerçekleşmemiş kâr"dır.
+4629e4	Hisselerini güncel fiyattan satar.
+c5fcb2	Hisse ödünç alıp düşmesini bekleyerek satmak, sonra daha ucuza geri almak. Fiyat yükselirse olası zarar sınırsızdır.
+d98a9c	Hisse düşerse kazanırsın. Kaldıraç gerektirir ve ödünç alma maliyeti öder.
+7d1955	Açığa sattığın hisseleri geri vermek ve bahsi kapatmak için satın almak.
+eafe5a	Kısa pozisyonunu kapatır.
+44cb0e	Yalnızca fiyat senin seviyene inerse alır (ya da yalnızca yükselirse satar). Fiyatı sen belirlersin, zamanı değil.
+84cbeb	Fiyat ona ulaşana kadar bekler.
+016956	Fiyat belli bir seviyeye düşerse otomatik satış. Ekrana bakmadan zararı sınırlamaya yarar.
+c0e2bf	Seviye geçilince kendiliğinden devreye girer.
+eda590	Hisse fiyatı çarpı hisse sayısı: piyasanın şirketin tamamına biçtiği değer.
+d6cf10	Şirketin büyüklüğü.
+29bbcd	Hisseyi alırken kaç yıllık kâr ödediğin. 15'lik bir F/K tipiktir; 40'lık bir F/K piyasanın çok büyüme (ya da bir balon) beklediğini gösterir.
+51198c	Daha düşük = kazancına göre daha ucuz.
+d0409a	Hissenin piyasaya göre ne kadar hareket ettiği. Beta 1: endeksle aynı; 2: iki katı (daha çok risk); 0.5: yarısı (defansif).
+3cd5b2	Hissenin kendi borsasına göre riski.
+0b00e1	Şirketin hissedarlarına dağıttığı kâr payı, genellikle her çeyrek ya da yıl.
+628d79	Hisseyi tuttuğun sürece nakit olarak alırsın.
+0fbd20	Son bir yılın en yüksek fiyatı. Bir hissenin uç noktalarına yakın olup olmadığını anlamaya yarar.
+42dbf0	Fiyat aralığı referansı.
+74a594	Son bir yılın en düşük fiyatı.
+70500f	Günde kaç hisse el değiştirdiği. Daha fazla hacim = fiyatı oynatmadan girip çıkmak daha kolay (likidite).
+080e85	Hissenin likiditesi.
+5b55c4	Tüm alışlarını hesaba katarak hisselerini aldığın ortalama fiyat.
+e6bc56	Kârını hesaplamanın temeli.
+fe550d	Bugün satsan kazanacağın ya da kaybedeceğin. Satana kadar gerçek değildir.
+2601f8	Güncel değer ile maliyetin arasındaki fark.
+dbfed5	Pozisyonunun değeri ile sana maliyeti arasındaki fark.
+b54f1d	Yeşil kazanç, kırmızı kayıp.
+2e4d1f	Aracı kurumun, sahip olduğundan fazlasını yatırman için sana verdiği borç. Kazancı ve kaybı katlar; çok düşerse senden ek para istenir (teminat çağrısı) ya da senin yerine satılır.
+7623c6	Teminatın çok düşerse oyun pozisyonları tasfiye eder.
+eda137	Bir şirket sermaye toplamak için ilk kez halka hisse satar. Kurucular kâğıt üzerinde milyoner olur ama kontrolü paylaşır.
+ee6e77	İşin büyük ve kârlıysa onu halka açabilirsin.
+10e8ee	Bütün bir endeksi çok düşük ücretle kopyalayan fonlar. Çoğu tasarruf sahibine tek tek hisse seçmekten daha çok kazandırdılar, çünkü çeşitlendirirler ve neredeyse hiç ücret almazlar.
+cfff56	Bütün bir piyasayı tek seferde alırsın.
+57f5fe	Büyük miktarlarda alınıp satılan temel mallar: petrol, altın, bakır, buğday. Fiyatları küresel talep ve arz krizleriyle (savaşlar, kuraklıklar) yükselir.
+0af9f3	Hammadde alıp sat; fiyatları üretici ülkeleri ve şirketleri etkiler.
+7189b6	Petrol, altın, bakır, lityum, tahıllar... Fiyatlarını dünya arz ve talebi belirler.
+cc971a	Hammadde işlemi yap.
+3f0397	Sabit faiz karşılığında bir devlete ya da şirkete verdiğin borçlar. Hisselerden daha güvenlidir; faizler yükselirse mevcut tahvillerin fiyatı düşer.
+7996ef	Devlet tahvili al; her yıl kupon tahsil edersin.
+d01260	Sahip olduğun tahviller, faizleri (kupon) ve vadeleri.
+e4d2e1	Vadeye kadar ya da satana kadar faiz alırsın.
+db2d23	Döviz piyasası dünyanın en büyük piyasasıdır: günde yaklaşık 7.5 trilyon dolar. Bir paranın diğerine karşı fiyatı faiz, enflasyon ve sermaye akışlarıyla değişir.
+17c775	Yabancı para alıp sat; paranı devalüasyondan koru ya da spekülasyon yap.
+0dbde4	Paranı başka bir parayla değiştirmek. Güçlü bir parada birikim yapmak devalüasyona karşı korur ama kur maliyeti vardır.
+aeb81d	Alış-satış makasıyla döviz işlemi yap.
+e896ab	Her ülkenin faiz oranları ve paraları. Para, daha az riskle daha çok kazandığı yere gitme eğilimindedir (carry trade).
+daca62	Faiz ve kur görünümü.
+87670f	Piyasalar şirket sonuçlarına, ekonomik verilere, merkez bankası kararlarına ve siyasi olaylara tepki verir.
+ad7689	Fiyatları oynatan son haberler.
+e75595	Borsalar fiyatları kayan bir bantta (ticker) yayımlar. Yeşil yükseliş, kırmızı düşüş.
+ba53b9	Bantta hangi piyasayı ve hangi dönemi göreceğini seç.
+087d77	Bankalar mevduat toplar ve borç verir; aldıkları ile ödedikleri arasındaki farktan kazanırlar. Kredi kooperatifleri, bölgesel, ulusal, uluslararası bankalar ve sistemik devler vardır.
+c06eea	Hesap aç, kredi çek, fonlara yatır ya da kendi bankanı kur.
+a82950	Faiz ödeyen banka mevduatları. Küçük bankalar genelde daha çok öder ama daha sık batar; mevduat sigortası banka başına belli bir tutara kadar korur.
+89d855	Yatır ve çek. Sigorta sınırını aşmamak için paranı bankalara dağıt.
+28d86c	Faizli krediler. Faiz kredi geçmişine, gelirine ve teminatlarına bağlıdır. İyi bir geçmiş daha ucuz kredilerin kapısını açar.
+a74774	Ödeme gücüne göre kredi çek.
+2e60f9	Profesyonel bir yönetici, komisyon karşılığında birçok kişinin parasını yatırır. Hisse, tahvil, karma ve hedge fonları vardır.
+6ed91b	Farklı risk ve komisyonlu fonlara yatır.
+14ec15	Banka kurmak çok sermaye ve düzenleyiciden lisans gerektirir. Banka sermayesinin birkaç katını borç verir (kaldıraç); bu yüzden çok kârlı olabilir ya da bir banka hücumunda batabilir.
+180410	Bankanı kur ve yönet: faizleri, sermayeyi ve riski belirle.
+637dab	Ne kadar iyi bir borç ödeyici olduğunu ölçen bir puan (birçok ülkede 300–850). Zamanında ödemek yükseltir; gecikmek yıllarca batırır.
+d6cb57	Sana ne kadar ve hangi faizle borç verileceğini belirler.
+8c5109	Bankan batarsa birikimlerini belli bir sınıra kadar geri ödeyen kamu fonu. Banka hücumlarını önler.
+a16daa	Banka başına mevduatlarını tavana kadar korur.
+2d99d1	Bir ülkenin bankaları, fonları ve düzenleyicilerinin bütünü. Bankalar çökerse kredi donar ve ekonomi durgunluğa girer (2008).
+526e28	Ülkenin bankacılık sağlığı, bankacılık krizleri ve IMF ile Dünya Bankası yardımı.
+e8cfc2	Bankaların ne kadar sermayeli ve sağlıklı olduğu. Belli bir düzeyin altında bankacılık krizi riski artar.
+ccb952	Çok düşerse kriz patlayabilir.
+38a3d0	Uluslararası Para Fonu krizdeki ülkelere koşullar (kemer sıkma, reformlar) karşılığında borç verir. İstikrara yardım eder ama genellikle sevilmez.
+b10cc7	Krizdeki hazine için koşullu para.
+9bf7b4	Açığı ve borcu azaltmak için kamu harcamalarını kesmek. Alacaklılara güven verir ama ekonomiyi frenleyip protestolara yol açabilir.
+5e12ea	Daha az harcama, daha az onay, daha çok güven.
+583b5a	Gelir, gider, birikim, borç ve vergiler. Temel kural: kazandığından az harca ve farkı yatır.
+f8dc23	Kişisel hesap özetin.

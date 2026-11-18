@@ -1,0 +1,308 @@
+401969	D	Presión, trabajo al cuerpo, gancho al hígado, quijada y corazón. Se pelea en corto y se gana en los rounds finales.
+44a9e9	D	Escuela mexicana
+129179	D	Escuela estadounidense
+82bb6e	D	Velocidad, atletismo y defensa de hombro (la guardia «Philly shell»): contragolpe, combinaciones rápidas y mucho juego de piernas.
+775867	D	La escuela amateur más exitosa: juego de piernas, ritmo, defensa y golpear sin ser golpeado. Domina el sistema de puntos.
+7a84b4	D	Escuela cubana
+458511	D	Escuela soviética
+6739d1	D	Fundamentos rigurosos, jab, distancia y condición física; un sistema de entrenadores formados por el Estado que sigue vivo en Europa del Este y Asia Central.
+9d002e	D	Guardia erguida, jab recto y movilidad, con una larga tradición de clubes amateur. Se gana con distancia y orden.
+cb9b65	D	Escuela británica
+1edfdc	D	Velocidad de manos, ángulos, volumen y agresividad; muchos zurdos y peleas de ritmo alto en las divisiones ligeras.
+ddc8c5	D	Escuela filipina
+14ef74	D	Lucha libre y sambo desde la infancia: derribos en cadena, control asfixiante desde arriba y un cardio enorme.
+cefba4	D	Escuela de Daguestán
+6ff3fe	D	El juego de suelo: guardia, pases, raspados y sumisiones. Cualquier caída se convierte en una amenaza.
+b61c90	D	Jiu-jitsu brasileño
+77e2a4	D	Kickboxing holandés
+a18017	D	Combinaciones de puños que terminan en patada baja, presión constante y mucha potencia de pie.
+efc844	D	El arte de las ocho extremidades: puños, codos, rodillas y patadas, con un clinch que castiga sin parar.
+f2a5c6	D	Muay thai tailandés
+766f90	D	Derribos explosivos, control contra la reja y castigo desde arriba; la base de muchos campeones de MMA.
+e6dd3a	D	Lucha universitaria estadounidense
+0a18d7	D	Gimnasio de entrenadores cubanos en Miami
+d92c95	D	Base de entrenamiento de Almatý
+d98c37	D	Gimnasio de box de Manila
+1b44fa	D	Gimnasio de kickboxing de Ámsterdam
+405d97	D	Campamento de muay thai en Phuket
+e3357d	D	Pesas, balón medicinal y golpes al costal pesado.
+f2c649	D	Fuerza y potencia
+2f5bdf	D	Carrera, intervalos, cuerda y circuitos: el gas para los rounds finales.
+8895f5	D	Acondicionamiento
+27b0a9	D	Manoplas, sombra y repetición de combinaciones con el entrenador.
+d1d5d1	D	Técnica y combinaciones
+700685	D	Esquivas, bloqueos, salidas de las cuerdas y contragolpe.
+ee8417	D	Defensa y esquivas
+25a214	D	Velocidad y reflejos
+ef52c9	D	Pera loca, reacción, pliometría y juego de piernas.
+87dff5	D	Rounds duros con compañeros de tu peso: técnica bajo presión.
+df4ae9	D	Sparring intenso
+c2283f	D	Dieta y cardio para llegar al límite sin deshidratarte.
+eb8745	D	Corte de peso controlado
+1e4b20	D	Movilidad, sueño y trabajo ligero: quita fatiga.
+95403c	D	Descanso activo
+073ebe	D	Pesas, trineo y potencia de cadera para golpes y derribos.
+81dae9	D	Intervalos, circuitos y lucha con cambios de ritmo.
+a40cda	D	Golpeo y patadas
+e72595	D	Manoplas, combinaciones de puños y patadas, defensa de pie.
+4d154f	D	Lucha y derribos
+781b50	D	Entradas, defensa del derribo y control contra la reja.
+36b89c	D	Jiu-jitsu y sumisiones
+64541a	D	Guardia, pases, escapes y llaves.
+343b0c	D	Transiciones entre pie, reja y suelo: el juego completo.
+144f0c	D	Ligera
+880d5c	D	Dura
+62e6f7	D	Análisis de video del rival
+c43ae3	D	Estudias sus peleas con tu entrenador: ves sus atributos exactos y entras con un plan hecho para él.
+a852fb	D	Una semana con un excampeón formado en tu escuela: dominio de la escuela y técnica.
+d6e2b0	D	Clínica con una leyenda de tu escuela
+624bdd	D	Campamento en altura
+e3e9bf	D	Tres semanas entrenando a más de 2,000 metros: el cuerpo produce más glóbulos rojos.
+08d569	D	Fisioterapia y recuperación
+947f32	D	Masaje, crioterapia y fisioterapia: baja mucho la fatiga y acorta lesiones.
+304579	D	Manejo de la presión, visualización y concentración para tu próxima pelea.
+316a38	D	Psicólogo deportivo
+2be01c	D	Nutriólogo y fisiólogo
+c2e0b0	D	Plan de corte de peso medido: baja mucho el riesgo de no dar el peso.
+0e8c3d	D	Sparring pagado con un contendiente
+50950d	D	Rounds con alguien del top 15 de tu división: aprendes mucho y duele.
+31f5e4	D	Una semana con luchadores de nivel internacional: derribos y control.
+fac395	D	Lucha con luchadores olímpicos
+76ffb1	D	Clases uno a uno de jiu-jitsu: sumisiones y escapes.
+c3e8d6	D	Clases privadas con cinturón negro
+1982dc	D	Gimnasio profesional
+1c467b	D	Gimnasio de barrio
+8e5d16	D	Centro de alto rendimiento
+e0d556	D	Bueno
+f48996	D	De primer nivel
+783951	D	Promotora internacional
+7fcfc3	D	Promotora nacional
+ffb956	D	Promotora local
+1dec54	D	Sin televisión
+3c0575	D	Cadena internacional
+512ea7	D	Canal nacional
+6bc154	D	Transmisión local por internet
+161d7d	D	Caro
+a2ebd7	D	Barato
+80951f	T	La fatiga acumulada te cobra factura: te lesionas y quedas fuera {0} meses.
+ecc644	D	La fatiga acumulada te cobra factura: te lesionas y quedas fuera un mes.
+30388e	T	Te lesionas durante el bloque: quedas fuera {0} meses.
+cd9383	D	Te lesionas durante el bloque: quedas fuera un mes.
+54a38f	T	Completas el bloque «{0}» con intensidad {1}. Fatiga {2}/100.
+94c21c	D	Necesitas una pelea programada.
+9ba7aa	D	Ya estudiaste a este rival.
+178493	D	Ya la tomaste para tu próxima pelea.
+28ae2b	D	Solo para profesionales.
+c61d48	T	Disponible en {0} días.
+3dbf6f	D	Estudias horas de video con tu entrenador: ya conoces sus atributos exactos y sus hábitos. En la pelea tu plan estará hecho para él.
+5ff2ab	T	Una semana con un excampeón de la {0}: tu dominio de la escuela sube a {1}/100.
+12e0f1	D	Tres semanas en altura: tu resistencia sube y, si tienes pelea programada, llegarás con más gas.
+3fbadd	T	Fisioterapia y recuperación: tu fatiga baja a {0}/100.
+7ce95f	T	Fisioterapia y recuperación: tu fatiga baja a {0}/100 y tu cuerpo está listo para cargar más.
+39c9d4	D	Trabajas la concentración y el manejo de la presión: en tu próxima pelea tendrás más temple (quijada y técnica +2).
+b1fabc	D	Plan de peso medido semana a semana: el riesgo de no dar el peso en tu próxima pelea baja mucho.
+8b4dc5	D	Rounds con un contendiente del top 15: tu técnica y tu defensa suben, aunque te llevas golpes.
+cc485c	D	Una semana con luchadores olímpicos: tus derribos y tu control mejoran.
+7d9f5c	D	Clases privadas de jiu-jitsu: tus sumisiones y escapes mejoran.
+15b7b4	T	Pagas {0}.
+f00aba	D	Es tu estilo actual.
+fbe6ff	T	Pide afinidad de 60 (tienes {0}).
+664e69	T	Cambias tu estilo de {0} a {1}. Durante dos meses todavía te estarás adaptando (técnica −3 en la pelea).
+d7a4b0	D	Torneo internacional por invitación
+bd9fc8	T	🏅 Te convocan a la selección nacional amateur de {0}: beca mensual, concentraciones con los mejores y acceso a torneos internacionales.
+be1eea	D	Solo para la selección nacional.
+9cabb4	T	📨 El {0} ordena la pelea obligatoria por su título contra {1}. Hubo subasta de bolsa: {2}, y al retador le toca 25 %.
+13028b	D	Ya tienes un gimnasio.
+39a2af	D	Primero necesitas estar en el mundo del box o de las MMA.
+20e363	T	Abrir un {0} cuesta {1}.
+087413	D	Club de Box
+64ce68	D	Academia de Box
+c3b2f8	D	Academia de MMA
+f0c57d	D	Centro de Combate
+1c1c1a	T	Abres {0}: {1} de la {2}. Contrata entrenadores para atraer socios.
+29cd1a	T	Tu {0} admite {1} entrenador(es).
+cc9e80	T	Contratas a {0} (calidad {1}, {2}) por {3} al mes.
+9fa433	T	Despides a {0}. Liquidación: {1}.
+329546	D	Ya tienes el nivel más alto.
+880a0b	T	Ampliar cuesta {0}.
+005e98	T	Amplías tu gimnasio a {0}: más socios, más entrenadores y más peleadores.
+2c1c66	D	Tu equipo ya es de primer nivel.
+e0906c	T	Mejorar el equipo cuesta {0}.
+875f19	T	Equipo nuevo: ahora es {0}. Atrae más socios y mejora el entrenamiento.
+2d8ec8	T	Vendes tu gimnasio por {0}.
+d8a4df	D	Tu gimnasio ya no tiene lugar para más peleadores.
+e87da3	T	Recorres torneos amateur y gimnasios de la zona: encuentras {0} prospectos que podrían firmar con tu gimnasio.
+086e22	T	{0} se une a tu gimnasio. Te deja 10 % de sus bolsas y sube con la calidad de tus entrenadores.
+0a3fcf	T	⚠️ {0} lleva tres meses perdiendo dinero. Revisa la cuota, los entrenadores y el equipo.
+d46dc8	D	Ya tienes una promotora.
+873827	T	Registrar una promotora cuesta {0} (licencia, seguro, capital inicial).
+103e65	T	{0} Promociones
+be84ea	T	Campeonato {0} de MMA
+261592	T	Registras {0} ante la comisión de {1}. Firma peleadores y organiza tu primera función.
+d62fdf	T	Una {0} puede tener {1} peleadores.
+5f5c73	T	El bono por firma es de {0}.
+e09895	T	{0} ({1}) firma por 3 años. Bono {2}; bolsa mínima {3} por pelea.
+931590	T	Liberas a {0} de su contrato.
+bc1fd6	T	Pide reputación {0} (tienes {1}).
+e92fcc	D	Ya eres una promotora internacional.
+72143c	T	{0} ahora es una {1}: recintos más grandes, más peleadores y mejores contratos de televisión.
+1a99ad	D	Para un contrato mayor necesitas subir de nivel tu promotora.
+6d3f95	D	Ya negociaste con las televisoras este año.
+d43a3a	D	Ya tienes el mejor contrato de televisión.
+128ce6	T	Cierras el contrato: {0}. Cada función cobrará más derechos de transmisión.
+78fd22	D	Las televisoras no ven suficiente audiencia todavía. Intenta el próximo año.
+f71936	T	{0} peleó hace poco: necesita al menos 45 días entre peleas.
+275204	D	No hay rival disponible para esa pelea.
+53b1ef	D	Organizas como máximo una función al mes.
+1a9d17	D	Gloria de
+2b7b7d	D	Furia de
+8b1816	D	Noche de
+9a7b90	D	Guerra de
+24addf	T	{0} deja {1}: lleva más de nueve meses sin pelear.
+349b92	T	Termina el contrato de {0} con {1}.
+665c67	T	🎟️ {0}: «{1}». {2}. Resultado de la función: {3}.
+cafc54	T	Renovar cuesta {0}.
+882546	T	Renuevas a {0} por 3 años más (bolsa mínima {1}).
+e477c8	T	Vendes {0} por {1}.
+19874d	D	cb17 año
+dbf67d	D	^⭐ Sesión:
+68dc41	D	«Estás sobreentrenado»
+0610b3	T	{0} te detiene a mitad del entrenamiento. «Llevas semanas cargando sin descansar. Tu fatiga está en {1}. Así es como llegan las lesiones y las peleas sin piernas.»
+03cac2	D	Descansas de verdad. Vuelves con las piernas frescas.
+82e62b	D	Tomar una semana de descanso
+1a9262	D	Un tirón en la espalda: un mes fuera.
+5f4609	D	Tu cuerpo aguanta, esta vez.
+ab641b	D	«Un poco más, ya casi es la pelea»
+19471c	D	La concentración de la selección
+95541e	T	{0}, entrenador de la selección nacional, te llama a una concentración de tres semanas antes del próximo torneo internacional. Es un honor, pero tendrás que dejar tu gimnasio y tu vida por un tiempo.
+454347	D	Tres semanas con los mejores de tu país: subes de nivel y te ganas el respeto del cuerpo técnico.
+b6195f	D	Ir a la concentración
+f24788	D	Excusarte: tienes otros compromisos
+fd6255	D	El cuerpo técnico toma nota. Tus puntos en el ranking bajan.
+2cfa77	D	Un peleador de tu gimnasio quiere irse
+409495	T	{0} ({1}) toca la puerta de tu oficina. «Me buscó un gimnasio grande. Me ofrecen mejores sparrings y un entrenador de nombre. Te debo mucho, pero tengo que pensar en mi carrera.»
+1221b9	D	Se queda contigo. Tu comisión baja, pero tu gimnasio conserva a su estrella.
+6fb316	D	Ofrecerle un mejor trato (menos comisión)
+63850c	D	Convencerlo con el proyecto del gimnasio
+78f52e	D	Le muestras lo que vienen construyendo juntos. Se queda.
+b225b6	D	No lo convences: se va y tu gimnasio pierde prestigio.
+489727	D	Dejarlo ir con tu bendición
+493ded	D	Se despiden con un abrazo. Otros jóvenes del barrio ven cómo tratas a los tuyos.
+5cca15	D	🥊 Tus negocios del combate
+844195	D	Azul: tú. Rojo: tu rival (datos exactos del análisis de video).
+525928	D	Desgaste por patadas bajas
+a796a3	D	Desgaste por golpes al cuerpo
+73658a	D	Golpes significativos por round
+85c209	D	Golpes conectados por round
+42a6bc	D	Atributos en la pelea (con escuela, estilo, campamento y cansancio inicial).
+0a9f7b	D	4 bloques o más
+8d7c57	D	Físico
+ec33b0	D	Afinamiento al final
+189bac	D	Plan de peso: listo.
+760383	D	Psicólogo: listo.
+877fd8	D	Sin análisis de video.
+9f0614	D	Campamento en altura.
+b98bb0	D	Corte de peso controlado:
+e086b6	D	Análisis de video hecho.
+11ba8c	D	Escuela
+2766b5	D	Los bloques que hagas ahora cuentan para el campamento de tu pelea.
+a3ca5a	T	lesión {0} %
+8384be	D	⭐ Sesión:
+099e17	D	Rounds peleados
+fbb5c7	D	Peleas registradas
+5869be	D	Golpes recibidos
+712d81	D	Defensa (golpes evitados)
+1255f9	D	Caídas recibidas
+f4cea3	D	Golpes por round
+224459	D	selección nacional
+78eee5	T	Victorias registradas: {0} por sumisión o detención y {1} por decisión.
+c18c27	T	Victorias registradas: {0} por RSC y {1} por decisión.
+1f66f8	D	patadas bajas que desgastan
+b1248c	D	golpes al cuerpo que desgastan
+5b3faf	T	Ahora eres híbrido: {0} + {1}.
+df19ea	D	¿Cambiar de estilo?
+0ba94b	T	renta {0} al mes
+8d6d45	T	Necesitas {0}
+caba0e	T	hasta {0} socios, {1} entrenador(es) y {2} peleadores
+100e42	T	{0} de {1} (demanda {2})
+734686	D	Cuota mensual
+800fbc	D	Socios
+0157c9	D	Ingresos del último mes
+cb5d35	D	Gastos del último mes
+f51cca	D	Resultado de 12 meses
+9b6f27	D	Cuota barata
+aaad71	D	Cuota cara
+eded79	D	Cuota normal
+5cb8fd	D	Entrenas con tus entrenadores y tu escuela; tus victorias suben la reputación del gimnasio
+8aab6d	D	Cambia tu lugar de entrenamiento a tu gimnasio
+affa6e	D	🥊 Entrenar en tu gimnasio
+bef497	D	✅ Entrenas en tu gimnasio
+2aeee4	T	calidad {0}
+2d3bfd	T	{0} al mes
+ac6445	D	toca para despedir (2 meses de liquidación)
+b40940	D	Sin lugar
+7a9831	D	recorres torneos amateur y gimnasios de la zona
+b11456	T	potencial estimado {0}
+36fdcf	D	más socios y mejor entrenamiento
+569c58	T	🛠️ Mejorar el equipo a {0}
+9c9e21	T	Recuperas {0} (40 % de lo invertido)
+d802fb	D	más socios, entrenadores y peleadores
+d8b099	D	💰 Vender el gimnasio
+89b593	D	🎟️ Registrar una promotora
+fe694c	D	licencia ante la comisión, seguro y capital inicial
+1f4979	D	Funciones
+a9eaf4	D	Televisión
+aa44f8	D	Peleadores
+ab71a6	D	Resultado de las últimas 6
+0d4940	D	📅 Organizar una función
+19278c	D	eliges la pelea estelar, el precio de los boletos y ves la proyección
+3a559a	D	Espera al próximo mes
+437053	D	Sin peleadores
+505e3b	D	⭐ Función
+53d906	D	Primero firma peleadores
+cafbf3	D	Una función al mes como máximo
+50ec4f	D	📺 Negociar con las televisoras
+8de803	D	Ya tienes el mejor contrato
+a1263c	D	Sube de nivel para un contrato mayor
+d59ea5	D	Ya negociaste este año
+1999f0	D	✅ Funciones automáticas
+1c5e98	D	⬜ Funciones automáticas
+30158b	D	Tu equipo organiza una función cada dos meses si no pierde mucho dinero
+aed301	D	Organizas tú cada función
+20bc6a	T	pide reputación {0}
+7e6b69	T	Reputación {0}/{1}
+8b187a	T	recintos de {0} personas
+c7b868	T	⬆️ Convertirte en {0}
+0353bd	D	💰 Vender la promotora
+d9d565	T	Recuperas {0}
+02bf75	D	¿Rescindir el contrato de este peleador?
+1403cb	D	Ahora entrenas en tu propio gimnasio.
+8b2900	D	Vuelves a entrenar en tu gimnasio anterior.
+9a557e	D	¿Despedir a este entrenador?
+c701f1	D	Despedir
+72f82c	D	¿Vender tu gimnasio?
+d2c6b1	D	¿Vender tu promotora?
+f9837a	D	rival de relleno
+1f81b9	D	Boletos (
+90b515	D	Pago por evento (
+ecdbc1	D	Derechos de televisión
+984d4f	D	Bolsa estelar (tu peleador)
+a5d687	D	Bolsas de las preliminares
+af15c8	D	Bolsa del rival
+c340be	D	Producción y seguridad
+f3aaec	D	Renta del recinto
+8ba898	D	No tienes negocios del combate.
+fd2193	D	Bloques de entrenamiento
+abb13e	D	Fatiga
+94d308	D	Sesiones especiales
+de17a8	D	Campamento por bloques
+17e57d	D	Escuelas de box y MMA
+fbf611	D	Escuelas
+72fd27	D	Estilos
+166342	D	Récord amateur completo
+357fbf	D	Estadísticas de golpes
+99895d	D	Gimnasio propio
+760869	D	Promotora propia
+659e08	D	Subasta de bolsa
+6bde69	D	kv:Subasta de bolsa
+f86db7	D	🥋 Box y MMA a fondo

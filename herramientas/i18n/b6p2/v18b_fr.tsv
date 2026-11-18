@@ -1,0 +1,6 @@
+79fb15	⚙️ Sauvegarde en arrière-plan : activée
+b5a885	⚙️ Sauvegarde en arrière-plan : désactivée
+ba9757	La partie est préparée et compressée dans un autre fil d'exécution pour que l'écran ne se fige pas pendant la sauvegarde.
+bebce2	La partie est sauvegardée dans le fil d'exécution principal, comme avant la v1.8b.
+f3bfa7	Non disponible dans ce navigateur : la sauvegarde habituelle est utilisée.
+14ce48	Avance interrompue. Il reste {0} jour(s) : appuie de nouveau sur le bouton pour la terminer.

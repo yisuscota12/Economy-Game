@@ -1,0 +1,292 @@
+65225c	Garder le ballon, passes courtes et patience. Fait céder les blocs bas ; souffre face au pressing haut.
+e5beae	Possession
+5313c5	Pressing haut
+54ace6	Récupérer haut et vite. Étouffe les équipes de possession ; laisse de l'espace dans le dos.
+700856	Attendre et partir vite. Punit les défenses hautes ; souffre sans le ballon face à la possession.
+fd1844	Contre-attaque
+4cc592	Bloc bas
+7166e7	Défendre près de la surface et fermer les espaces. Neutralise le jeu direct ; souffre face à une possession patiente.
+3fc98c	Ballons longs et deuxièmes ballons. Évite le pressing ; bute sur les blocs bas.
+93e9a6	Jeu direct
+037676	Sans excès : s'adapte à l'adversaire. Ni avantages ni faiblesses nettes.
+56993d	Achète bon marché, forme et revend aux grands : vit des transferts.
+958239	Acheteur
+bfaaca	Recrute des vedettes et paie des transferts élevés ; vend peu et cher.
+275cfa	Achète et vend selon ses besoins.
+dce9ac	Club formateur
+e914fe	Mise sur ses jeunes : ses vedettes arrivent jeunes et avec plus de potentiel.
+18a046	Austère
+525174	Ambitieuse
+ef5959	Galactique
+9bc2c5	Populaire
+2f0ada	Terrain municipal
+912d13	Centre moderne
+9c9eda	Centre d'élite
+9d6d76	Centre de base
+de9953	Cité sportive
+41347f	Académie régionale
+5c642f	École de football
+61da4b	Pas d'académie
+9fd328	Académie nationale
+f17aa6	Académie d'élite
+773471	Sans licence
+026e9d	Monter
+37bc23	Éviter la relégation
+4f7927	Finir dans la première moitié
+73a7c7	Se qualifier pour la coupe continentale
+ab8a73	Ne pas finir parmi les trois derniers
+cd9075	Gagner le championnat
+e5fa55	Gagner la ligue régionale
+5e84cb	{0} ne prolonge pas son entraîneur, {1}, après une mauvaise saison. Remplaçant : {2} ({3}).
+09f1f5	{0} limoge son entraîneur, {1}, après {2} matchs de mauvais résultats. Remplaçant : {3} ({4}).
+63aa35	{0} quitte {1} et devient le nouvel entraîneur de {2} ({3}).
+10f3a1	{0} annonce la retraite de son entraîneur, {1}. Remplaçant : {2} ({3}).
+409b99	Il manque un centre d'entraînement.
+555745	Il manque un stade de {0} places.
+96dee2	🏆 {0} remporte : {1} ! Prime pour le club : {2}.
+0d7844	🏗️ La mairie accorde le permis : les travaux commencent ({0} mois).
+ab5af1	🏗️ La mairie refuse le permis de construire. Tu peux le redemander.
+c9a918	🏟️ L'agrandissement est terminé : ton stade compte désormais {0} places.
+cc455a	🏋️ Ton nouveau centre d'entraînement ouvre : {0}.
+86699e	📨 {0} offre {1} pour {2}. Consulte ⚽ Ton club → Marché.
+ffe27d	💵 Tu sors {0} de ta poche pour couvrir les pertes de {1}.
+7c7649	⚖️ {0} est placé sous administration pour ses dettes et vendu à un nouveau propriétaire. Tu reçois {1}.
+95820c	{0} est placé sous administration et change de propriétaire.
+6582d8	⚠️ {0} est dans le rouge et tu n'as pas de quoi couvrir. Vends des vedettes, baisse la masse salariale ou apporte du capital.
+c09dad	🎯 Objectif de la saison pour {0} : {1}.
+d973be	✅ {0} atteint l'objectif de la saison ({1}) : termine à la place {2}.
+517e79	❌ {0} manque l'objectif de la saison ({1}) : termine à la place {2}.
+e0a38b	⚖️ La ligue inflige à {0} une amende de {1} pour non-respect de la licence.
+7d20ac	⏳ {0} a besoin d'au moins six mois en ligue régionale avant de demander son entrée en {1}.
+3738fe	📋 {0} n'obtient pas la licence : {1}.
+f5dfa6	📋 Pour entrer en {0}, tu dois acheter une place (franchise).
+354ea6	{0} entre en {1} et prend la place de {2}, qui descend dans les divisions régionales.
+e51d62	🎉 {0} entre en {1} !
+a589fa	📋 {0} termine en zone de promotion mais n'obtient pas la licence : {1}. Le suivant monte.
+379bd5	🎉 {0} monte en {1} !
+579ab4	⬇️ {0} descend en {1}.
+110f5e	Les règles interdisent à un footballeur en activité d'être propriétaire d'un club.
+b414b3	Tu dois être majeur.
+abda79	Tu possèdes déjà un club.
+dea1c7	Acheter {0} coûte {1}.
+bf5c17	Tu achètes {0} pour {1}. Tu décides maintenant la masse salariale, les recrues, les travaux et qui dirige l'équipe.
+f04535	{0} achète {1} pour {2}.
+658bc4	Un club porte déjà ce nom.
+b4b78c	Fonder un club coûte {0}.
+cb6635	Pour entrer en {0}, il te faut six mois de compétition et un stade de {1} places.
+db5bd7	Tu fondes {0}. Il joue en ligue régionale et loue un terrain municipal de {1} places.
+71662b	La place coûte {0} et ton club n'a que {1} en caisse.
+edcfbb	Tu as déjà acheté la place.
+1207fd	Tu achètes une place en {0} pour {1}. Tu entreras à la fin de la saison si tu respectes la licence.
+f2b559	Tu vends {0}. Tu reçois {1} (caisse du club comprise).
+5eb3f7	Tu n'as pas {0}.
+85a110	Tu apportes {0} à la caisse du club.
+086101	Tu retires {0} de la caisse du club.
+61b2b1	La caisse du club ne suffit pas.
+02ea66	Tu as déjà des travaux en cours.
+472782	Le stade ne peut pas dépasser 100 000 places.
+8e8ac6	Les travaux coûtent {0} et le permis {1}.
+1c78ed	Tu demandes le permis de construire pour agrandir le stade de {0} places. La mairie répond dans 2 à 4 mois.
+99e68e	Tu as déjà le meilleur centre.
+41d74d	Tu demandes le permis pour construire : {0}. La mairie répond dans 2 à 4 mois.
+476363	Les travaux commencent : {0} (3 mois).
+76cfc3	Tu as déjà la meilleure académie.
+8c1b8b	Tu ouvres : {0}. Chaque année peuvent en sortir des jeunes avec plus de potentiel.
+afacdc	Le marché est fermé : il ouvre en juin et en janvier.
+e5c92c	{0} ne s'intéresse pas à ton projet : ton club est très loin de son niveau.
+38d1e8	Le transfert coûte {0} et ton club a {1} en caisse.
+c01f9c	Ton effectif compte déjà dix vedettes.
+4fa5ea	{0} signe à {1} : transfert de {2} et salaire de {3} par an.
+74e01f	Aucun club n'offre ce que vaut {0} pour l'instant.
+70f57f	Tu vends {0} à {1} pour {2}.
+72ab90	Tu refuses l'offre de {0} pour {1}.
+0d3252	Accepté : {0} part à {1} pour {2}.
+2ae8e9	Il te faut {0} en caisse (indemnités de l'entraîneur actuel et compensation).
+f51cb9	{0} est le nouvel entraîneur de {1} : {2}, salaire de {3} par an.
+3ba870	Pour diriger {0}, il te faut la {1}.
+214503	Tu changes le style de jeu : {0}. L'effectif a besoin de quelques mois pour s'adapter.
+3107ca	Les indemnités de l'entraîneur actuel coûtent {0}.
+4f4776	Tu prends la tête de {0}. Ta force comme entraîneur : {1}.
+e10c49	Tu l'as déjà
+f675a8	Il te faut d'abord la {0}
+6db1e0	Un an après la précédente
+f81838	Tu réussis la formation et obtiens la {0}. Ta force comme entraîneur : {1} (maximum {2} avec cette licence).
+5cdd46	Mauvais
+90e998	Idéal
+94144b	👤 {0} a un nouvel entraîneur : {1} ({2}). Ton adéquation avec son style : {3}. La confiance de l'entraîneur repart de zéro.
+5c0411	🌱 Ton académie promeut {0} ({1} ans, {2}, potentiel {3}).
+68c625	licences d'entraîneur
+768bb4	⚽ Être propriétaire d'un club de football
+959325	⚽ Ton club de football
+e956dc	Achète un club ou fondes-en un
+0e4333	Âge
+3488d6	Système habituel
+3c3d15	Bilan (V-N-D)
+58999d	Qualité de l'entraîneur
+be736c	En poste depuis
+e008d0	Divisions régionales
+0cb069	Modèle économique
+1b7d61	Revenus estimés par an
+4397b6	Supporters
+4ab4a4	Force
+e3dbe4	Valeur du club
+347876	Arrive de {0}
+ede971	Acheter ce club ?
+37938f	Style de l'entraîneur
+00e6b7	Effectif
+94dd4a	Fonder
+9d8aca	Installations
+ea9804	Licences
+3e98e0	Ligue régionale
+4fea0c	Capital de départ (caisse du club)
+5ff1d4	Inscription à la fédération
+16cfa0	Stade minimum pour la licence
+9d5764	Ligue d'entrée
+d41547	tu choisis le nom à l'étape suivante
+fc4a8f	🏟️ Fonder un club
+64c889	En tant qu'ancien footballeur professionnel, tu suis les formations en deux fois moins de temps.
+514290	Mois comme entraîneur
+84b4ae	Maximum avec cette licence
+b16ef5	Ta licence
+f09490	Ta force comme entraîneur
+6eb203	force maximale {0}
+eec32e	Obtenue
+72d389	Place au classement
+cb5e1b	Force visée
+7bcbf6	Caisse du club
+76b653	Mois en ligue régionale
+1c2f1a	💰 Vendre le club
+d422e3	Tu reçois environ {0} (caisse du club comprise)
+16db45	Il te faut la {0}
+411876	ta force comme entraîneur : {0}
+6cf571	Tu ne paies plus de salaire d'entraîneur
+b892ac	📣 Diriger toi-même l'équipe
+02b1bc	compensation {0}
+6fa4ca	demande {0} par an
+11b00c	Force actuelle
+4916f3	Salaires de l'effectif par an
+eb3280	Salaires des vedettes
+303efa	Marché fermé
+5dc715	note {0}
+948086	valeur {0}
+05301c	À ta portée
+a4114a	Tous
+831e83	salaire {0}
+984162	Caisse insuffisante
+c53e0e	transfert {0}
+fe80e4	Pas intéressé par ton projet
+257c0b	Places
+4a8fd4	Affluence du dernier mois
+9fc8f7	permis {0}
+e40f2d	Travaux déjà en cours
+eb601c	{0} mois de travaux
+c8194e	Entretien par an
+9da719	3 mois de travaux
+cb6c1f	nécessite un permis de construire
+4c34ce	ouvre aussitôt
+181efe	Investi par toi
+33f233	Fonctionnement et entretien
+6000a1	Recrues et travaux
+a26d34	Sponsors et boutique
+b9faad	Billets
+c56269	Ventes de joueurs
+fa4a30	Prix moyen du billet
+bad3c9	De la caisse du club vers ton argent
+bb4e9f	De ton argent vers la caisse du club
+bba8c5	tu entres à la fin de la saison si tu respectes la licence
+c941e1	📋 Acheter une place en {0}
+e1804f	Déjà achetée
+eb067b	Nom du club
+3d594b	Vendre ton club ?
+b73399	Engager
+cb5b9b	Engager cet entraîneur ?
+3d7fed	Diriger toi-même l'équipe ?
+7decd2	Adéquation tactique
+7ef211	Modèles économiques
+960972	Masse salariale
+86c8ea	Licence de la ligue
+ca62ff	Licences d'entraîneur
+5c188c	Permis de construire
+e6907a	Permis de construire
+d6d9ac	⚽ Football manager
+40fdfb	Touche un club pour voir sa fiche.
+31f930	Qualités qu'il apprécie le plus :
+0040b2	Une bonne adéquation te rapproche d'une place de titulaire.
+ac3b03	Ton club
+96f57a	Acheter le club
+f8aad3	Acheter
+cb3025	Aucun transfert enregistré pour l'instant.
+d5b798	Derniers transferts
+01a429	Ceux qui ont le plus dépensé (12 mois)
+18262e	Ceux qui ont le plus vendu (12 mois)
+a85a74	Les joueurs les plus chers
+5d71d7	Valeurs par ligue
+5e7363	Revenu moyen
+090fc2	TV par club
+f3fce9	Vedette la plus chère
+1bcfb1	Les valeurs marchandes suivent la note, l'âge, la ligue et le potentiel, comme sur les sites de transferts.
+ef43bb	Stade (places)
+4ce4c4	Transferts récents
+763e06	Palmarès du club
+d1cf91	Être propriétaire d'un club
+44989a	Tu achètes le club entier : son stade, son effectif et sa place dans la ligue. Ensuite, tu décides la masse salariale, les recrues, les travaux et qui dirige l'équipe. Ton argent :
+e0e6ea	Tu fondes un club dans ta ville. Il commence en ligue régionale sur un terrain municipal loué ; pour entrer en ligue professionnelle, il te faut six mois de compétition et la licence (un stade assez grand et, en première division, un centre d'entraînement).
+ae7e77	Ton pays n'a pas de deuxième division simulée : en plus de la licence, tu dois acheter une place (franchise) avant d'entrer.
+1910a3	Ton pays n'a pas encore de ligue simulée : elle est créée quand tu fondes le club.
+0dbdeb	Couleurs du club :
+737c87	Les licences d'entraîneur (comme celles de l'UEFA et des fédérations) s'obtiennent dans l'ordre : C, B, A et Pro. Avec la B tu diriges un club régional, avec la A un club de deuxième division et avec la Pro un club de première division.
+f2fd94	Ta force comme entraîneur augmente chaque mois où tu diriges, plus vite avec de bons résultats, jusqu'au maximum de ta licence.
+6a04c7	Moral des supporters
+650011	Objectif de la saison :
+4e3c98	Saisons
+7cd71d	Centre d'entraînement
+626b01	Place (franchise)
+3a7321	Six mois en ligue régionale
+4b582a	Pour entrer en {0} à la fin de sa saison :
+c56e24	🏟️ Stade minimum pour la licence : {0}
+836e2d	Salaire de l'entraîneur
+e67695	Ton style de jeu (le changer demande quelques mois d'adaptation) :
+fac21d	Adaptation de l'effectif
+1dfac7	Candidats (libres et d'autres clubs ; pour ceux sous contrat, il faut verser un an de compensation à leur club) :
+7ac8f0	La masse salariale te place dans le classement des dépenses de ta ligue : la force de l'équipe se rapproche peu à peu de ce qu'elle paie.
+ccdd7a	Sous chaque nom : potentiel et salaire annuel.
+269fa8	Ton club n'a pas de vedettes. Recrute-les dans Marché ou forme des jeunes dans ton académie.
+aa4c9b	Caisse du club :
+05f3ed	OFFRE POUR TA VEDETTE
+65ff6d	{0} offre {1} pour {2}.
+adb813	Offres pour tes vedettes
+c56862	Vendre une vedette
+6e6ef8	Recruter
+802049	📋 Permis de construire en cours : la mairie répond dans {0} mois.
+e0e0de	🏗️ Travaux en cours : fin dans {0} mois.
+545b3c	Pour monter en {0}, il te faut {1} places et un centre d'entraînement.
+208445	Chaque niveau ajoute un demi-point à la force visée ; en première division, il faut au moins un centre de base.
+651e5d	Chaque année, l'académie peut promouvoir un jeune : plus de niveau, plus de chances et plus de potentiel.
+426395	12 derniers mois
+988b22	Les billets bon marché remplissent le stade et ravissent les supporters ; les chers laissent des places vides.
+2bd8d2	Capital
+1d64ab	Si la caisse passe dans le rouge, tu la couvres de ta poche ; si tu ne peux pas, le club est placé sous administration.
+85f0a6	Place dans la ligue
+43321a	🏟️ Ajouter {0} places
+bc3292	🏋️ Construire : {0}
+66a8ea	🌱 Ouvrir : {0}
+c9ec56	➕ Apporter {0}
+a282f7	💵 Retirer {0}
+6d0fa7	{0} vend {1}.
+efd38e	Part à {0}
+ed9d19	Formation : Licence C
+736caf	Formation : Licence B
+da3e10	Formation : Licence A
+adae2d	Formation : Licence Pro
+11b0e4	Formation accélérée : Licence C
+db4dc9	Formation accélérée : Licence B
+d1df7b	Formation accélérée : Licence A
+5c4caf	Formation accélérée : Licence Pro
+e18d07	Licence C
+3a0f42	Licence B
+dae3a0	Licence A
+f42d61	Licence Pro
+89c7d6	libre
+de82c1	Académie
+872401	Stade
+41e155	Classement

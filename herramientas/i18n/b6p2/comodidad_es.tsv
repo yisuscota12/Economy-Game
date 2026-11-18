@@ -1,0 +1,61 @@
+3b040f	D	no le respondiste
+4043c3	T	💬 No atendiste a tiempo a {0}, que lo tomó a mal.
+e98330	T	💬 Dejaste pasar una conversación: «{0}». La oportunidad se perdió.
+0de1d9	D	Velocidad ×1: un día por segundo.
+3463ad	D	Velocidad ×2: dos días por segundo.
+533c62	D	▶️ Avance automático
+6d40c0	D	Se pausa solo ante diálogos, eventos y decisiones.
+8d252b	D	Velocidad ×5: cinco días por segundo.
+36093d	D	moneda de tu país
+2c67af	T	1 dólar = {0}
+6dd715	T	Tu dinero: {0}
+b3b76d	T	tu dinero: {0}
+37ccf4	D	Moneda de tu país
+62edc2	D	Tu dinero y las cifras nacionales en dólares estadounidenses.
+674f2a	T	Tu dinero en {0} y las cifras nacionales en dólares.
+80ae53	D	Dólares para todo
+cad927	D	Toca para cambiar la divisa
+d172ae	D	🌎 Países
+04acfe	D	🏛️ Secretarías de Estado
+12b37c	D	🏪 Tus empresas
+772c18	D	Cotiza en bolsa
+44567c	D	📈 Empresas de bolsa
+ac3b03	D	Tu club
+df93f2	D	⚽ Clubes de fútbol
+501036	D	🏆 Ligas de fútbol
+ccad2e	D	🥊 Organismos y ligas de combate
+a0ca6e	D	🎟️ Promotoras de box y MMA
+1f5cc2	D	🎬 Compañías de espectáculo
+d2600a	T	Nombre original: {0}
+6af0b6	D	Nuevo nombre
+26a968	D	Vence mañana
+12737c	D	Tu ánimo no cambia por tu vida social este mes.
+48e30b	T	Tu ánimo baja {0} al mes (vida social estable).
+70839b	T	Tu ánimo sube {0} al mes (vida social estable).
+79ad2f	T	Tu ánimo baja {0} al mes (vida social tensa).
+b0b7bc	T	Tu ánimo sube {0} al mes (vida social buena).
+cbd79b	T	Relaciones cercanas: {0}/100.
+fd2876	D	No tienes a nadie cercano.
+37ef49	D	La situación ya cambió: esta conversación ya no aplica.
+6e8ccc	D	Conversaciones pendientes
+174073	D	💬 Conversación pendiente
+6729e7	D	Toca 💬 junto al reloj cuando quieras atenderla.
+51e58f	D	⏳ Más tarde
+ae417e	D	🚫 Ignorar (lo tomará a mal)
+486165	D	Esta conversación esperó su plazo: ya no puede esperar más.
+2538da	D	Todas las conversaciones detienen el reloj en cuanto aparecen (como antes de la v1.8a).
+4ac72b	D	💬 Conversaciones que pueden esperar: a la bandeja
+9d328d	D	💬 Conversaciones que pueden esperar: detienen el reloj
+7a15d7	D	En la vida real no todo se responde al instante: una llamada, un favor o una charla pueden esperar unos días, pero ignorarlos desgasta la relación.
+d640ac	D	Las conversaciones de familia, amigos, trabajo, negocios y fama esperan hasta 30 días sin detener el reloj. Al llegar su plazo aparecen solas; si las ignoras, la persona pierde 6 puntos de relación (y si es rencorosa, te guarda rencor).
+19fe1c	D	El Estudio de Desarrollo Adulto de Harvard, que sigue a cientos de personas desde 1938, encontró que la calidad de las relaciones cercanas predice la felicidad y la salud mejor que el dinero o la fama.
+6ccaa6	D	Cada mes, la relación media con tu pareja, hijos, padres, hermanos y amistades mueve tu ánimo (hasta 0.5 puntos al mes, hacia arriba o hacia abajo). Tres o más rencores lo bajan un poco más; sin nadie cercano, también baja.
+9e88a6	D	Tu vida social
+d87ac3	D	👥 Tu vida social
+0da157	D	Solo cambia cómo se muestran las cantidades. Tus ahorros siguen en la moneda de tu país, así que en otra divisa su valor sube o baja cuando se mueve el tipo de cambio.
+69f39b	D	💱 Divisa de visualización
+aa4833	D	Los organismos internacionales reportan en dólares para comparar países, pero tu poder de compra depende de la moneda en la que cobras y gastas. Un tipo de cambio convierte cantidades; no cambia lo que puedes comprar donde vives.
+e1642f	D	Divisa para ver el dinero
+4ff650	D	El nombre nuevo se ve en todo el juego (mapa, listas y noticias nuevas) y se guarda en tu partida. Puedes restaurar el original cuando quieras.
+928334	D	Los países y las empresas sí cambian de nombre: Birmania pasó a llamarse Myanmar en 1989, Suazilandia pasó a ser Esuatini en 2018 y Turquía pidió que la llamen Türkiye en 2022; las empresas lo hacen al fusionarse o cambiar de imagen.
+cfa6fe	D	⏩ Avance automático, divisa, nombres y conversaciones

@@ -1,0 +1,120 @@
+79f1a0	Wachstum
+13860a	Eröffnet Filialen, wenn Geld da ist und das Unternehmen voll ausgelastet verkauft.
+9aa21f	Effizienz
+a419b8	Senkt Kosten: Der Gewinn steigt mit der Fähigkeit der Leitung.
+61c537	Konservativ
+31385f	Zahlt zuerst Schulden ab und hält Geld für Krisen zurück.
+a31d55	Gruppe {0}
+bfb596	{0} leitet {1} ({2}, Fähigkeit {3}). Gehalt: {4} pro Jahr, bezahlt von den Unternehmen der Gruppe.
+962793	Du entlässt {0}: Die Abfindung ({1}) kommt aus der Kasse der Gruppenunternehmen.
+4c1e09	Du schöpfst die Kasse von {0} ab: {1} gehen an dein Geld. Jedes Unternehmen behält 3 Monate Kosten.
+84f001	Kein Unternehmen von {0} hat überschüssiges Geld (jedes braucht 3 Monate Kosten).
+6f31ff	Die Gruppe braucht mindestens 2 Unternehmen.
+cfbdb2	Kein Geld zu verschieben: Kein Unternehmen braucht welches oder keines hat übrig.
+dcefdf	Interner Kredit: {0} überweist {1} an {2}, das {3} Bankschulden tilgt.
+97b844	Interner Kredit: {0} überweist {1} an {2}.
+96cf14	Du löst {0} auf: Seine Unternehmen unterstehen wieder dir.
+90205f	Dir fehlen {0} für die Prüfung.
+653aca	Die Prüfung von {0} ({1}) findet versteckte Schulden von {2} und geschönte Zahlen: Der echte Umsatz liegt bei {3} % dessen, was der Verkäufer angab.
+07432e	Die Prüfung von {0} ({1}) bestätigt die Zahlen des Verkäufers: Es gibt keine versteckten Schulden.
+d92860	Dir fehlen {0}.
+e4eca8	Du musst 18 sein.
+774901	Der Verkäufer lehnt dein Angebot für {0} ab und nimmt es vom Markt.
+d038f3	Der Verkäufer lehnt {0} für {1} ab. Du kannst es noch einmal versuchen.
+2c4f8e	Du kaufst {0} für {1} (du zahlst {2}; {3} Kredit bleiben als Schulden des Unternehmens).
+8a32dc	Du kaufst {0} für {1}.
+c3810a	Du kaufst {0} für {1}. Beim Prüfen der Bücher entdeckst du versteckte Schulden von {2}: Du hast keine Prüfung gemacht.
+7d6cad	Du kaufst {0} für {1} (du zahlst {2}; {3} Kredit bleiben als Schulden des Unternehmens). Beim Prüfen der Bücher entdeckst du versteckte Schulden von {4}: Du hast keine Prüfung gemacht.
+a80a45	Dieses Unternehmen kann nicht per Übernahmeangebot gekauft werden.
+b447c9	Du kontrollierst dieses Unternehmen bereits.
+6cba2b	Du hast dieses Jahr schon ein Angebot für dieses Unternehmen gemacht: Die Aktionäre nehmen bis nächstes Jahr kein weiteres an.
+5fc942	Die Aktionäre von {0} lehnen dein Angebot von {1} je Aktie ab. Du zahlst {2} an die Berater und die Aktie steigt durch Spekulation.
+14aff7	{0} übernimmt die Kontrolle über {1} mit einem öffentlichen Angebot: kauft 51 % der Aktien mit {2} % Aufschlag.
+cc2471	Du übernimmst die Kontrolle über {0}: Du kaufst {1} Aktien zu {2} ({3} mit Gebühren). Jetzt wählst du Strategie und Leitung.
+da1738	Ausgewogen
+e65e56	Bleibt, wie es war.
+7a76c3	Wachsen
+3da0c1	Reinvestiert fast alles: Die Gewinne wachsen schneller und es gibt weniger Dividenden.
+94f59e	Senkt Kosten: etwas höhere Gewinne und die Aktie schwankt weniger.
+b94493	Dividenden
+908b77	Schüttet mehr aus: viel höhere Dividenden, aber weniger Wachstum.
+026517	{0} ändert die Strategie: {1}.
+d6c94d	{0} leitet jetzt {1} als Geschäftsführung (Fähigkeit {2}).
+c33cbb	Du fällst unter 50 % der Aktien von {0}: Du verlierst die Kontrolle über das Unternehmen.
+61204b	Du brauchtest {0} oder weniger.
+b2c202	Jeden Monat verkauft dein Unternehmen und zahlt Vorleistungen, Löhne, Miete, Steuern und Schulden; was es ausschüttet, kommt zu deinem Geld.
+00124f	Du kannst bis zu {0} Unternehmen persönlich führen; darüber hinaus fasse sie unter einer Leitung zusammen.
+4696d6	{0} persönlich
+fa9f4a	⚠️ Du führst {0} Unternehmen persönlich: Dir fehlt die Zeit und jeden Monat verlieren alle {1} Ruf-Punkte.
+31ac0c	Gründe eine Gruppe mit Leitung, um ihn zurückzugewinnen.
+55fb54	Unternehmen zu verkaufen
+83f3eb	Gruppen
+3c25b5	An der Börse kontrolliert
+e0af5d	Strategie: {0}
+5cba62	Meine Unternehmen
+b2cd36	Firmen in {0}, deren Eigentümer verkaufen wollen. Die Zahlen sind die Angaben des Verkäufers: Sie können geschönt sein.
+a7f651	Eine Prüfung kontrolliert Bücher und Schulden vor dem Kauf.
+fcf966	Die Liste wird alle 6 Monate erneuert.
+ff1f4f	Derzeit stehen keine Unternehmen zum Verkauf.
+5a55b8	{0} Beschäftigte
+8c58df	Ruf {0}
+906c35	Umsatz pro Jahr
+a753b2	Gewinn pro Jahr
+e8d23f	Schulden
+29ce23	Kasse
+2a469b	Geprüft
+75939d	Verkäufer unter Zeitdruck
+0c06e4	Versteckte Schulden: {0}
+d83204	Abgelehnte Angebote: {0}
+d9d394	Prüfen ({0})
+1e872c	Mit Kredit: Du zahlst die Hälfte und die andere Hälfte bleibt als Schulden des Unternehmens
+e146d0	Prüfung
+345238	Eine Gruppe (Konglomerat) fasst mehrere deiner Unternehmen unter einer Leitung zusammen.
+fddf77	So kannst du beliebig viele haben, ohne Aufmerksamkeit zu verlieren, und Unternehmen derselben Branche teilen Kunden und Lieferanten (Synergien).
+15c6fa	{0} Unternehmen
+c665a3	Ohne Leitung
+948086	Wert {0}
+b63dfe	Gruppe gründen
+92ac3b	Name der Gruppe
+12a447	Leitung
+306fa7	Fähigkeit {0}
+f702aa	{0} pro Jahr
+3408b6	Ohne Leitung bekommen die Unternehmen der Gruppe ihre Verbesserungen nicht. Das Gehalt zahlen die Unternehmen der Gruppe.
+c701f1	Entlassen
+7181cb	Unternehmen der Gruppe
+f9059b	{0}/Monat
+024340	Synergien {0}/Monat
+819e73	Einsparungen {0}/Monat
+36d9a1	Herausnehmen
+ba39af	Sie hat noch keine Unternehmen.
+f6cb1f	Zur Gruppe hinzufügen
+76afcf	Kasse abschöpfen
+749f23	Interner Kredit
+67de03	Auflösen
+96a561	Kontrolle über das Unternehmen
+5fa13a	Deine Aktien
+4b5b07	Strategie
+1c6a17	Dividende pro Jahr
+8381a9	Du kontrollierst {0}: Du bestimmst Strategie und Leitung. Verkaufst du Aktien und fällst unter 50 %, verlierst du die Kontrolle.
+66ca3f	Leitung wechseln
+d9a1b7	Leitung wählen
+cf5468	Mit mehr als 50 % der Aktien kontrollierst du das Unternehmen. Ein öffentliches Übernahmeangebot kauft allen Aktionären, die verkaufen wollen, die Aktien mit einem Aufschlag auf den heutigen Kurs ab: Je höher der Aufschlag, desto mehr nehmen an.
+fb16fb	Dir fehlen
+8ca912	{0} Akt.
+be3ffa	Marktwert
+136044	Du hast dieses Jahr schon ein Angebot gemacht: Die Aktionäre nehmen bis nächstes Jahr kein weiteres an.
+05f71c	Aufschlag
+e11d21	Übernahmeangebot
+4705dc	Angebot an alle Aktionäre eines börsennotierten Unternehmens, ihre Aktien zu einem festen Preis zu kaufen, um die Kontrolle zu übernehmen. Auf Spanisch heißt es OPA.
+3759a9	Kontrollprämie
+6cc33f	Was über dem Marktpreis gezahlt wird, um die Aktionäre zum Verkauf zu bewegen und die Kontrolle zu übernehmen.
+28a776	Prüfung (Due Diligence)
+b88955	Prüfung der Bücher, Verträge und Schulden eines Unternehmens vor dem Kauf, um für geschönte Zahlen nicht zu viel zu zahlen.
+73ebba	Fremdfinanzierte Übernahme
+46cbb8	Kauf eines Unternehmens mit viel geliehenem Geld, das das Unternehmen später selbst aus seinen Gewinnen zurückzahlt. Vervielfacht Gewinn und Risiko.
+d39083	Konglomerat
+1fa8cc	Gruppe von Unternehmen verschiedener Branchen unter einem Eigentümer und gemeinsamer Leitung.
+860c3b	Synergie
+5e13be	Einsparung oder zusätzlicher Umsatz, der entsteht, wenn Unternehmen mit gemeinsamen Kunden, Lieferanten oder Abläufen zusammengelegt werden.
+77c8d3	Kontrolle an der Börse
+e6850f	Unternehmen und Gruppen kaufen

@@ -1,0 +1,157 @@
+ff2822	Yönetilen varlık: {0}
+2db424	{0} çalışan işe alıyorsun.
+a9084f	Kredi: {0}
+0af880	{0} çalışanı işten çıkarıyorsun.
+a98c77	{0} şirketine {1} olarak giriyorsun.
+bce051	Kendi sermayeni koy ({0})
+570310	{0} çekiyorsun.
+d92860	{0} eksiğin var.
+5a2722	{0} dünya fiyatından satıyorsun: {1}.
+ad01f5	{0}: {1} sıfır atılıyor (önceki: {2})
+a15fb8	{0}: {1} serbest dalgalanmaya geçiyor.
+a7e43c	Barış: {0}, işgal altındaki {1} eyaleti {2} ülkesine bırakıyor.
+e6ac50	Tarım
+1da85d	Yüksek +%15
+ad4669	Düşük −%15
+ca9bf1	Pirinç
+e2eb07	Ortak
+8e4369	Otomotiv
+2fcbd4	Kafe
+2c0027	12 aylık değişim
+35ff4c	İnşaat şirketi
+0b14bc	Koordinatör
+419316	Şikâyet et
+0ab909	Ademi merkeziyet
+12a447	Direktör
+3ddc05	Özel okul
+73a427	Eczane
+c6816f	Dengeli fon
+16dc8a	Muhafazakâr fon
+ec71b7	Endeks fonu
+45f66f	Silahlı kuvvetler
+c37936	Fabrika
+3dbada	Yeni hastaneler
+9c4ba7	Otel
+be9d95	Altyapı
+811cac	Kuyumcu
+f1a9ce	Lüks
+f0a4ce	10 haftalık ortalama
+d7b75b	30 haftalık ortalama
+4cea5a	12 aylık ortalama
+acf6d7	36 aylık ortalama
+a53439	Metaller
+b08dc9	Değerli metaller
+6e6700	Maden
+476008	Yarı hisse, yarı tahvil
+372ed9	Sıkı çevre kuralları
+bab2a8	Fırın
+73b2e9	Petrol kuyusu
+66cd78	Büyükbaş çiftliği
+4974cd	Gönüllü askere alım
+fe7aa5	Artan oranlı vergi reformu
+a3ab1f	Üniversite diploması gerekir.
+e46805	Restoran
+31ad6e	Modern sulama
+3765ce	Yarı iletkenler
+142fc4	Nakit yok.
+9e2534	Stop
+d458ff	Bakan yardımcısı
+237e06	Mevduat faizi (normale göre)
+095411	Nadir toprak elementleri
+de5e04	Trader
+6a2cfd	Kıdemli trader
+159c2b	Turizm
+eda706	Uranyum
+38ebc5	Başkan yardımcısı
+1daf05	Çevre
+8a1a4f	Milli Savunma
+356f9e	+mutluluk; daha az afet
+f3ee6c	dürüst reformcu
+b6feb8	karma profil
+a4f0f9	Direktifler: {0}
+949c17	Bakanlık ({0}): «{1}». Maliyet {2}. {3}.
+c84ee3	{0}. Adaylar:
+7c3230	Yetkinlik her bakanlığın alanını iyileştirir, dürüstlük yolsuzluğu azaltır, sadakat ise görevden almada krizleri önler.
+7e7d5b	Süren: {0}
+54a902	İşletme aç: {0}
+4ee73a	➕ İşletme aç: {0}
+4decd0	Kendi paramla aç
+76b1e3	Krediyle ({0})
+fc3a06	Şirketin her ay satış yapar; girdi, maaş, kira, vergi ve borç öder; dağıttığı kâr paranı artırır. En fazla {0} şirket.
+16f927	Başka bir eyalette açmak için haritada ona dokun → İşletme aç. Haritanın ⛏️ modu maden, petrol ve tarım alanlarını gösterir.
+f1e4cf	Yüksek fiyat = daha çok marj ama daha az müşteri (talep 1,3 kat tepki verir). Yüksek kalite ve maaşlar itibarı artırır, itibar da müşteri çeker. İşten çıkarmak 3 aylık maaşa mal olur (Gerçekçi).
+f6584d	{0} şube
+00922b	Sat (~{0})
+64bab7	{0} gün kilitli
+ec6a8e	Krediyi öde ({0})
+5a70ff	Marj: Aracı kurum aldığının yarısına kadar borç verir (faiz: {0} faizi + 3 puan) ve açığa satışa izin verir. Sermayen hisselerinin %25’inin (açığa satışta %30) altına düşerse pozisyonlarını otomatik satar (marj çağrısı).
+285e02	ortak para birimi
+3fcdb3	Dolar başına {0} birimi, ay sonu kapanış. Yükselirse paran değer kaybeder.
+d21062	Döviz kuru satın alma gücü paritesini (her ülkenin enflasyonu ile ABD’ninki) ve faizlerin, para basmanın, savaşların, yaptırımların, darbelerin ve krizlerin oynattığı bir sapmayı izler. Sabit kurlar spekülatif bir saldırıyla çökebilir.
+0aa42e	Sürpriz yok: fiyatlar her ülkenin büyümesini, enflasyonunu ve faizlerini izledi.
+e3ea9e	💱 Paran {0} cinsinden ({1}): 1 dolar = {2}.
+aa0ad9	Politika faizi ({0}): %{1}.
+e18d63	Limit fiyat
+441b31	Stop fiyatı
+918dee	Hisseler (uzun)
+21f2b6	Fiyat/kazanç
+a11b8a	1 {0} = {1}
+fc4491	{0} mevduatın yılda %{1} kazandırır ({2} faizi − 0,5)
+f90a63	makas %{0}
+395e0c	Tüm {0} varlığımı sat
+5d499c	Bandın hangi piyasayı göstereceğini ve değişimin hangi sürede ölçüleceğini seç. Döviz ve emtia ay ya da yıl bazında ölçülür (aylık kapanışlar).
+5ec2cd	Yatırım: {0}
+87a2fa	depolama yılda %{0}.
+f073c0	ihracatı yasaklıyor
+0c5830	Arz azalınca fiyat yükselir (savaşlar, işgal altındaki topraklar, yasaklar), dünya ekonomisi yavaşlayınca düşer; altın ise korkuyla yükselir.
+1e1b5d	paranın %{0}
+dbbe07	nakdinin %{0}
+42bc90	10 yıllık devlet tahvilleri: her ay ülke parasıyla faiz öder, vadede anaparayı geri verir. Ülkenin faizleri yükselirse fiyatı düşer (süre ~7 yıl) ve ülke temerrüde düşerse (yüksek borç + kriz) kesintiye uğrayabilir.
+9fac33	Bankaların yönettiği fonlar ({0}…). Oyundaki varlıkları ne getirirse onu, yıllık ücret düşülerek getirir.
+0f5d6d	sende {0} (%{1})
+518f4c	Hepsini çek
+9b244f	Banka kurmak asgari sermaye ve düzenleyiciden lisans ister (nüfuz ve finans deneyimiyle daha kolay; düzenleme sıkıysa daha zor).
+af2dbf	Faiz geliri {0} − mudilere faiz {1} − giderler {2} − karşılıksız alacak karşılığı {3} − vergiler {4}.
+9ade7c	Sermaye kredilerin %4’ünün altına inerse ya da itibar çökerse banka hücumu başlar.
+e26aa8	Toplam maliyet: yılda {0} (her ay düşülür).
+ebc324	Fiyatlar ülkendeki maaşları izler.
+263902	Her ay sonuç oyundaki gerçek fiyatlardan çıkar: hisseler, emtia, döviz ve tahviller, artı becerin (zekâ {0}, finans {1}).
+096d6a	A Grubu
+67d0c8	B Grubu
+7fb07d	C Grubu
+b6bd60	D Grubu
+16a7c9	E Grubu
+2a4d96	F Grubu
+dfcc6e	G Grubu
+62e49c	H Grubu
+2fd69e	I Grubu
+4c0412	J Grubu
+315943	K Grubu
+f5801d	L Grubu
+8ca912	{0} hisse
+b254a4	maliyet {0}
+825b92	Limit {0}
+929db9	Stop {0}
+9bf9e6	{0} × {1} = {2}
+4449ea	paran: {0}
+fdfb68	vade {0}
+a4db0e	Yaşadığın yerde kaçırılma riski: yüksek (servetine ve ülkedeki cinayet oranına göre).
+20fe1f	Yaşadığın yerde kaçırılma riski: orta (servetine ve ülkedeki cinayet oranına göre).
+69f96d	Yaşadığın yerde kaçırılma riski: düşük (servetine ve ülkedeki cinayet oranına göre).
+bf7352	Elinde {0} varil
+e2aef3	Elinde {0} milyon BTU
+97b6dd	Elinde {0} ton
+5503c6	Elinde {0} ton karbonat
+52e857	Elinde {0} ons
+bfcf9b	Elinde {0} ton oksit
+52942e	Elinde {0} pound U₃O₈
+deb5c6	{0} sermaye koy
+88f7cc	{0} (gereken {1})
+779192	Buradaki şirketlerin: {0}
+d63521	Talep / kapasite
+0eb8b4	euro
+3f397c	Direktifler
+bcf214	Ata
+a8e196	Çek
+0aaf0f	Dışişleri
+6445d8	Borç/GSYH

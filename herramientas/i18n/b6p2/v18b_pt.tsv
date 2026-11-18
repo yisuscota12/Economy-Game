@@ -1,0 +1,6 @@
+79fb15	⚙️ Salvamento em segundo plano: ligado
+b5a885	⚙️ Salvamento em segundo plano: desligado
+ba9757	A partida é preparada e comprimida em outra thread para que a tela não trave ao salvar.
+bebce2	A partida é salva na thread principal, como antes da v1.8b.
+f3bfa7	Indisponível neste navegador: usa-se o salvamento de sempre.
+14ce48	Avanço interrompido. Falta(m) {0} dia(s): toque no botão de novo para completá-lo.

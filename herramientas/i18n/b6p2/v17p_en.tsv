@@ -1,0 +1,323 @@
+4366df	Floor manager
+8c8e10	Service and wine course
+b19c39	Restaurants
+dfe4b8	Head waiter
+9f8dcb	Part-time waiter
+00917b	Skilled operator
+25db75	Line supervisor
+74eafc	Manufacturing
+94f5cd	Plant manager
+f2be78	Operator
+feaa5e	Forklift and industrial safety certification
+5f47dd	Regional manager
+5fb2e4	Sales diploma
+8784c7	Senior salesperson
+91a608	Store manager
+3e14b9	Construction skills certificate
+45ce87	Journeyman
+722636	Construction
+8a029f	Laborer
+b940ba	Site foreman
+1854d3	Day laborer
+9a507e	Farmer
+9c0347	Farming
+b6ea8f	Irrigation and precision farming course
+fec8e2	Landowning farmer
+1faabc	Office software and bookkeeping certification
+317e4f	Administrative assistant
+47eabc	Area coordinator
+4e83ca	Office manager
+2caf0b	Public administration diploma
+847b37	Government
+9960c9	Assistant
+85b776	Public safety
+95f50e	Sergeant
+bb20c5	Commissioner
+e396cc	Police academy course
+ecc8ab	Senior officer
+029afd	Technical lead
+301b0e	Specialized technical certification
+8d5ff3	Specialist technician
+2b1326	Master’s in education
+76e452	Academic coordinator
+b16d01	Tenured teacher
+ca7665	School principal
+ebafca	Substitute teacher
+1e6ae7	Software architect
+263cf3	Junior developer
+2a3192	Tech lead
+72d6e9	Senior developer
+d28d03	Cloud certification
+46a7e8	Project management certification
+7e2469	Junior engineer
+8c3f49	Senior engineer
+f4762a	Engineering manager
+011605	Associate lawyer
+0398bf	Senior lawyer
+1f4f0f	Law firm partner
+7140d8	Legal services
+b76cc3	Master of laws
+e33833	Legal intern
+5d4a06	Head of department
+7ab414	Specialist doctor
+894f03	General practitioner
+c88e92	Deputy head of department
+cc35c0	Medical specialty (residency)
+1f4928	Training course
+282819	Shift lead
+2cd4fa	Supervisor
+17fdcf	Day
+824b8c	Night
+8fa6b9	Rotating (changes every week)
+af15e6	Mixed
+86df48	Very high
+bb90d1	Low
+f46edd	High
+04251e	Normal hours
+e18540	Overtime
+f58f80	Bare minimum
+a34683	Job skill
+aa3ec4	Relationship with your boss
+e201ca	Hours you work
+55230a	Seniority
+90499f	Certification
+fed9ee	Stress
+619554	unionized
+13c296	Coworkers
+7f57e4	Position
+9a5b79	Conditions
+0da43f	Total experience
+502edc	Skill
+598c7e	Warnings
+866e28	Vacation left
+971fe4	Shift
+ccf106	Job hazard
+1c77d4	Legal workweek
+990919	Year-end bonus
+35fe5f	Informal work
+73bb98	Severance pay
+8f52ef	Your job
+dce00f	Union membership
+5ddc89	Paid vacation
+2cd097	Year-end bonus or extra pay
+8f25e2	Severance pay
+892af6	Unions
+211eb2	Formal or informal
+5f8c85	Work stress
+109b47	Performance
+110729	performance
+7c2374	PERFORMANCE
+4db381	Career ladder
+4f6653	formal job
+8a6ade	informal job
+44db32	Career
+b7be52	Annual salary
+3a0b96	Working hours
+79bd0e	Actions
+34eb65	Your boss
+52a3e8	Your team
+8c161b	Reviews
+086bff	excellent
+87b88f	good
+5f51ef	fair
+0d9c30	poor
+e033af	kind
+859738	gossipy
+d0f165	hard-working
+809f9a	lazy
+c17e7c	mentor
+a24cb9	🔥 You’re on the verge of burnout: cut your hours or take a vacation.
+1082fd	🩹 You get hurt at work.
+5d3f81	🚑 You have a workplace accident. You recover, but it leaves lasting effects.
+6a370f	📋 Half-year review: {0}/100, good. Raise of {1} %.
+862f07	📋 Half-year review: {0}/100, fair. No raise.
+ba807c	📋 Half-year review: {0}/100, poor. You get a written warning ({1} of 2).
+f759b8	📋 Half-year review: {0}/100, excellent. Bonus of {1} and a {2} % raise.
+38f462	📄 You’re fired from {0}. You receive {1} in severance (your country’s law: {2} days plus {3} per year worked).
+c504b9	📄 You’re fired from {0}. Your country’s law doesn’t require severance pay.
+e1def0	📄 You’re fired from {0}. Since the job was informal, you get no severance.
+09a3ff	📢 Opening for {0} at {1}: the company is growing.
+956c00	📢 Opening for {0} at {1}: someone is retiring.
+b5fb67	📢 Opening for {0} at {1}: someone was fired.
+d7fbcb	📢 Opening for {0} at {1}: someone quit.
+233972	You already applied.
+9f69b8	For that position you need: {0}.
+15c3eb	🎉 You’re promoted to {0}. Your salary rises to {1} a year.
+4cd1d1	The {0} position goes to {1}, your rival. Now they’re your boss.
+099a0f	The {0} position goes to someone else.
+83f5d2	The {0} position is filled from outside.
+93ca0a	📨 {0} offers you a job as {1} with {2} % more pay.
+a4531b	{0} offers you a job as {1} with {2} % more pay.
+7f73dc	You accept. You start at {0} as {1} with a salary of {2} a year.
+e36383	Your boss doesn’t like the pressure. No raise, and the relationship cools.
+eb05a6	Your boss doesn’t want to lose you: you get a {0} % raise.
+6d4e8b	You asked for a raise recently: wait a year.
+94c1d4	Your boss agrees: your salary goes up {0} %.
+848773	Your boss says not for now.
+cc38c7	You start: {0}. It lasts {1} months and costs {2}.
+5cc68c	You have no vacation days left this year.
+0421de	You take {0} days of paid vacation. You come back rested.
+63f5a6	You take {0} days unpaid (informal jobs have no paid vacation).
+15bec4	You leave the union.
+faa5df	You join the union. Dues are 1 % of your salary.
+2484e8	You have lunch with {0}. They fill you in on all the gossip.
+629a4e	You have lunch with {0}. You get along better.
+7e316d	You have lunch with {0}. They share tricks of the trade.
+387c03	You already have an offer on the table.
+db66b9	You send out applications, but nobody calls for now.
+88b9bf	🎄 Year-end bonus: you receive {0} ({1} days of pay, by law).
+c68240	🎄 Statutory extra pay: you receive {0} ({1} days of pay a year).
+0b6904	🤝 The union signs the collective agreement: an across-the-board raise of {0} %.
+e0d6ff	Shift swap
+b6ccc3	{0} stops you in the hallway: «Can you cover my Saturday shift? I have a family commitment I can’t move».
+0f1170	You lose your Saturday, but they’re truly grateful. Now they owe you one.
+574d5a	Cover the shift
+2122b9	Politely decline
+991339	They understand, though the disappointment shows.
+3d5ff0	Agree if they cover a day for you later
+518a03	They feel you’re charging for the favor and walk off annoyed.
+af570f	Deal: you swap days and both of you are happy.
+db2a1e	Layoff rumors
+0ebecc	Word is that {0} will cut staff. {1}, your boss, is more serious than usual.
+0aac23	Offer to work overtime
+6753ba	Your boss notes your willingness. You’ll work more, but you’re seen as indispensable.
+0ce6ae	Ask your boss where you stand
+3be889	They dodge the question. You’re left wondering and more stressed.
+f99eb2	They confirm your job isn’t at risk. You breathe again.
+42e9d9	Apply to other companies just in case
+77c735	You update your résumé and send applications.
+f32c32	Humiliating treatment
+f2ee92	In the middle of a meeting, {0} mocks your work in front of everyone. It’s not the first time.
+959bb5	You swallow your anger. The stress builds up.
+5fd72c	Talk to your boss in private
+990b9d	You calmly say that’s not okay. They half-apologize, but it doesn’t happen again.
+e6eb06	They get defensive and say you can’t take anything.
+c71486	Without enough evidence, the report goes nowhere and your boss finds out.
+dab6cc	HR opens an investigation and they get reprimanded. Your coworkers respect you more.
+f71b65	Report it to HR with evidence
+408e05	There’s no union at your job
+870300	The union rep talks to the company. Things get better.
+cc15f4	Go to the union
+08283d	Office gossip
+b24f2e	{0} tells you someone is saying you’re leaving the company. Several people already believe it.
+3fdebb	Deny it in front of everyone
+58bd81	It’s clear it got to you, and the gossip grows.
+995b0c	You clear it up with good humor and the gossip dies down.
+d2fc17	In a few weeks nobody remembers.
+526b90	You find out it was someone from the next department. You make it clear you know.
+676f17	You ask too many questions and now you’re the gossip.
+9075a6	Find out who started it
+a40673	Urgent project
+0f0f7f	{0} calls you into the office: «We have an urgent project due Friday and I want you to lead it».
+1cf670	Accept it
+d6ce4f	You work late all week, but deliver on time. Your boss is impressed.
+21751c	Nobody is available. You pull it off alone, working flat out.
+7d2d82	They assign you a teammate. It goes well without too many late nights.
+e3601f	Accept if they give you support
+054357	Turn it down with reasons
+564838	It sounds like an excuse to them.
+c19c2f	You explain you couldn’t do it well right now. They understand and give it to someone else.
+7fd8ed	You don’t have a regular job. Find one in Career → Jobs.
+7bc0ce	Next review in {0} months.
+c84cc5	Next review in 1 month.
+28ab8f	Less stress, but your performance drops and your boss notices.
+4648d2	More performance and more stress. In your case overtime is paid at the normal rate.
+7105a6	More performance and more stress. Overtime is paid at {0}× the normal rate.
+96710b	You work your hours without wearing yourself out.
+2708e1	Closes in 1 month.
+6f1419	Closes in {0} months.
+beacbe	Chance of getting the position: {0} %.
+aa7d56	expires in 1 month
+472b97	expires in {0} months
+2062de	wait a year
+0c5269	unpaid (informal job)
+4520af	no days left this year
+a31a5d	🏖️ Take a week of vacation
+df46d5	{0} paid days left
+51d050	you can’t afford it
+7729ce	💼 Certification
+e0c6cb	required for promotion to {0}
+e10e5b	+6 performance
+2984dc	✊ Join the union
+7f7034	you pay 1 % of your salary
+cf7925	✊ Leave the union
+fd31ac	dues of 1 % of your salary
+bd950e	{0} hours a week
+f7ba87	paid at {0}× the normal rate
+173daa	{0} days of pay
+dcd595	{0} days the first year
+e312e9	{0} days a year (extra pay)
+ed2304	{0} days the first year (rising with seniority)
+f9f0f9	not mandatory
+31ea26	not mandatory
+c4b6f6	formal, with social security
+d3af34	{0} % of workers
+dde865	{0} days plus {1} per year worked
+e29e4f	about {0} %
+529ced	Since your job is formal, you’re entitled to what the law provides: paid vacation, a year-end bonus and severance if you’re fired without cause.
+682191	An informal job has no contract: you don’t pay into social security, you get no paid vacation or year-end bonus, and if you’re fired you get no severance.
+50a988	You turn down the offer.
+286141	💼 Your job
+9e7b7b	You lost your job. Find another in Career → Jobs.
+63488f	📋 Review
+9d2db4	The clock stopped: check your review in 💼 Your job.
+a70d60	📨 Job offer
+bff4ac	The clock stopped: you have a job offer.
+ccce29	The clock stopped: there’s an opening at your job.
+7d9ab7	Each month your performance moves toward {0}. What counts:
+97296d	📢 Opening: {0}
+cfa60f	📨 Offer from {0}
+16b88b	{0} with {1} % more pay
+e52c6f	🎓 You already have: {0}.
+fa120d	🎓 {0}: {1} to go.
+4be2f6	Relationship {0}/100
+8d3e18	relationship {0}/100
+4fc176	performance {0}
+b5761e	Laws and conditions in {0} (approximate, 2025–2026).
+3d81af	raise {0} %
+502e4f	{0}–today
+b35e9d	{0} of 2
+1423bf	✋ Apply
+e9d1a1	Use it to negotiate
+20dc80	💰 Ask for a raise
+353edb	once a year
+863a31	🔎 Look for another job
+5bea79	you apply to other companies
+518bda	Spending time together improves relationships and lowers your stress. Your rival competes with you for promotions.
+2aece1	⚔️ rival
+50d80e	🍽️ Have lunch together
+ee5221	no mandatory premium
+1706b4	informal, no benefits
+a03b21	Salary at this job
+0cf8d9	The chart appears once you have two years at this job.
+7ae45a	🟡 Salary (nominal)
+2729f1	🔵 Real salary (adjusted for inflation)
+fd1c92	You don’t have any reviews yet.
+a8acb5	Job history
+779c52	📢 opening
+119910	📨 offer
+1fc588	📢 Opening
+8d8938	📄 Dismissal
+d150e6	💼 Apply
+16429c	💼 Ask for a raise
+0dd6ea	💼 Vacation
+6c2c95	💼 Union
+883b4e	💼 Job hunt
+4207cd	💼 Offer
+98cdac	💼 Socialize
+94ca96	{0} City Hall
+66ac7f	{0} State Office
+fa33b4	{0} District Office
+231b63	{0} Municipal Police
+d350d6	{0} State Police
+134845	{0} Elementary School
+ebc6e8	{0} Technical Secondary School
+f428af	{0} General Hospital
+c8f710	{0} Medical Center
+77c56e	Apply
+98bdfa	Union
+db5a60	Job hunt
+70285d	Offer
+69bde7	💼 Regular jobs
+756e3b	Regular jobs
+f9876f	not mandatory (your company gives {0} days a year)

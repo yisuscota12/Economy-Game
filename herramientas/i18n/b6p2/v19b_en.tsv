@@ -1,0 +1,75 @@
+88be5d	own
+f53fb5	allied
+5151df	enemy
+708ec2	neutral
+8becca	Siege by {0}: month {1} of ~{2}
+cb2d38	Siege by {0}: the province may fall next month
+441ede	Enemy army approaching: {0} soldiers, arriving next month
+cdc498	Enemy army approaching: {0} soldiers, arriving in ~{1} months
+fe204b	Did you know…?
+fac584	Source:
+9b716e	Each fact shows its source: UN, IMF, World Bank, BIS, INEGI, FAO, NOAA and others.
+a45e78	Animations
+e0ba4b	GSAP 3.15 (GSAP standard license, free of charge).
+374ba2	✨ Interface animations
+eac9d8	Smooth transitions when opening screens and switching tabs. In automatic mode they turn off with “reduce motion”, the light map or a 2-core computer.
+b756ff	Now: on
+f0be78	Now: off
+6ee466	UN
+8ebd2a	Statistics Korea, 2024
+a60fb2	Statistics Bureau of Japan, 2024
+e48a9b	Instituto Cervantes, 2024
+6e56c5	IMF, 2024
+0ce577	World Bank, 2024
+a90d68	INEGI
+394a4c	BIS, 2025
+a6bab7	Johns Hopkins University
+269723	Reserve Bank of Zimbabwe
+dbc006	Sveriges Riksbank
+5c67e5	Euronext Amsterdam
+eedbb0	UNCTAD
+d2efe5	World Steel Association, 2024
+da8888	OPEC
+29097f	FAO
+3dfd10	NOAA
+cf7d6b	Encyclopaedia Britannica
+3653c8	International Energy Agency
+5f2f53	Government of Russia
+ca4cfa	CIA World Factbook
+9bc616	FIFA
+b32260	Tap a province with your troops to see them; 🎯 Move, then tap the destination. By sea they travel on their own if the route is coastal.
+2495c3	Enter an enemy province and besiege it; the local garrison and fortresses slow it down.
+855311	Far from your territory supply drops and attrition rises; the country’s stability limits morale.
+1375aa	What you occupy is claimed at the peace conference. If the enemy loses everything or its capital, it surrenders.
+f00cea	Rest of the year (AI)
+016688	besieging
+06f57e	in position
+162339	Siege by {0}: {1} of ~{2} month(s)
+8f6621	front {0}
+30dadb	In 2023 India overtook China as the most populous country in the world.
+24ecd8	Since 2007 more people have lived in cities than in the countryside.
+bbff83	Global life expectancy rose from about 46 years in 1950 to over 73 today.
+a4d6e1	In the 1960s each woman had about 5 children on average; today the world average is around 2.2.
+5edca9	South Korea has the lowest fertility rate in the world: fewer than 0.8 children per woman.
+bd29ae	In Japan nearly 3 in 10 people are 65 or older.
+15bd7a	Mexico has the most native Spanish speakers of any country: more than 120 million.
+2d1b9b	The world economy produces about $110 trillion a year.
+b851b3	The United States and China together produce more than 40% of world GDP.
+e573ab	Mexico is the world’s second-largest recipient of remittances, after India.
+d729b6	In Mexico, 99 out of every 100 businesses are micro, small or medium-sized.
+2eea62	The foreign exchange market trades more than $9 trillion a day.
+115baf	The dollar is on one side of nearly 9 in 10 currency trades worldwide.
+a0e4e0	In Hungary in 1946 prices doubled every 15 hours: the worst hyperinflation on record.
+279a81	In 2009 Zimbabwe printed a 100 trillion Zimbabwe dollar banknote.
+ba84cb	The oldest central bank still operating is Sweden’s, founded in 1668.
+ff075c	The first modern stock exchange was born in Amsterdam in 1602.
+abec67	More than 80% of world trade by volume travels by sea.
+3dcd01	China produces more than half of the world’s steel.
+8222d6	Venezuela has the largest proven oil reserves on the planet.
+3f5e1d	Agriculture uses about 70% of the fresh water withdrawn worldwide.
+0fffc5	Oceans cover about 71% of the Earth’s surface.
+c90e03	The Amazon River carries about one fifth of all the fresh water that the world’s rivers deliver to the sea.
+e25cad	Iceland generates almost all of its electricity from hydroelectric and geothermal power.
+8719e1	Russia spans 11 time zones.
+f72b3a	Canada has the longest coastline in the world: more than 200,000 km.
+a6eaf9	Estadio Azteca is the first stadium to host matches at three World Cups: 1970, 1986 and 2026.

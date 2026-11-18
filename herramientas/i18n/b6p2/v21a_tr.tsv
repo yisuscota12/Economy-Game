@@ -1,0 +1,120 @@
+79f1a0	Büyüme
+13860a	Nakit olduğunda ve şirket tam kapasite sattığında şube açar.
+9aa21f	Verimlilik
+a419b8	Maliyetleri düşürür: kâr yöneticinin yeteneğiyle artar.
+61c537	Temkinli
+31385f	Önce borçları öder ve krizler için nakit tutar.
+a31d55	{0} Grubu
+bfb596	{0}, {1} grubunu yönetiyor ({2}, yetenek {3}). Maaş: yılda {4}, grubun şirketleri öder.
+962793	{0} kişisini işten çıkarıyorsun: tazminat ({1}) grubun şirketlerinin kasasından çıkar.
+4c1e09	{0} kasasındaki fazlayı çekiyorsun: {1} senin paran oluyor. Her şirket 3 aylık giderini tutar.
+84f001	{0} şirketlerinden hiçbirinde fazla nakit yok (her biri 3 aylık gidere ihtiyaç duyar).
+6f31ff	Grupta en az 2 şirket olmalı.
+cfbdb2	Nakit aktarmaya gerek yok: hiçbir şirketin ihtiyacı yok ya da hiçbirinde fazlası yok.
+dcefdf	İç borç: {0}, {2} şirketine {1} aktarıyor; o da {3} banka borcu ödüyor.
+97b844	İç borç: {0}, {2} şirketine {1} aktarıyor.
+96cf14	{0} grubunu dağıtıyorsun: şirketleri yeniden sana bağlanıyor.
+90205f	Denetim için {0} eksik.
+653aca	{0} denetimi ({1}) {2} gizli borç ve şişirilmiş sonuçlar buluyor: gerçek satışlar satıcının beyanının %{3}'ü.
+07432e	{0} denetimi ({1}) satıcının rakamlarını doğruluyor: gizli borç yok.
+d92860	{0} eksik.
+e4eca8	18 yaşında olmalısın.
+774901	Satıcı {0} için teklifini reddediyor ve şirketi satıştan çekiyor.
+d038f3	Satıcı {1} için {0} teklifini reddediyor. Bir kez daha deneyebilirsin.
+2c4f8e	{0} şirketini {1} karşılığında alıyorsun ({2} ödüyorsun; {3} kredi şirketin borcu olarak kalıyor).
+8a32dc	{0} şirketini {1} karşılığında alıyorsun.
+c3810a	{0} şirketini {1} karşılığında alıyorsun. Defterleri incelerken {2} gizli borç buluyorsun: denetim yaptırmadın.
+7d6cad	{0} şirketini {1} karşılığında alıyorsun ({2} ödüyorsun; {3} kredi şirketin borcu olarak kalıyor). Defterleri incelerken {4} gizli borç buluyorsun: denetim yaptırmadın.
+a80a45	Bu şirket çağrı teklifiyle satın alınamaz.
+b447c9	Bu şirketi zaten kontrol ediyorsun.
+6cba2b	Bu yıl bu şirket için zaten teklif verdin: hissedarlar gelecek yıla kadar yenisini kabul etmez.
+5fc942	{0} hissedarları hisse başına {1} teklifini reddediyor. Danışmanlara {2} ödüyorsun ve hisse spekülasyonla yükseliyor.
+14aff7	{0}, bir çağrı teklifiyle {1} kontrolünü alıyor: hisselerin %51'ini %{2} primle satın alıyor.
+cc2471	{0} kontrolünü alıyorsun: {1} hisseyi {2} fiyattan alıyorsun (komisyonlarla {3}). Şimdi stratejisini ve yöneticisini seçiyorsun.
+da1738	Dengeli
+e65e56	Olduğu gibi devam eder.
+7a76c3	Büyü
+3da0c1	Neredeyse her şeyi yeniden yatırır: kâr daha hızlı büyür, daha az temettü dağıtır.
+94f59e	Maliyetleri düşürür: kâr biraz artar ve hisse daha az dalgalanır.
+b94493	Temettü
+908b77	Daha çok dağıtır: çok daha yüksek temettü, ama daha az büyüme.
+026517	{0} strateji değiştiriyor: {1}.
+d6c94d	{0}, {1} şirketinin yeni genel müdürü (yetenek {2}).
+c33cbb	{0} hisselerinde %50'nin altına düşüyorsun: şirketin kontrolünü kaybediyorsun.
+61204b	{0} veya daha azı gerekiyordu.
+b2c202	Şirketin her ay satış yapar; girdi, maaş, kira, vergi ve borç öder; dağıttığı para sana gelir.
+00124f	En fazla {0} şirketi bizzat yönetebilirsin; fazlasını bir yöneticiyle grupla.
+4696d6	{0} bizzat
+fa9f4a	⚠️ {0} şirketi bizzat yönetiyorsun: zamanın yetmiyor ve her ay hepsi {1} itibar puanı kaybediyor.
+31ac0c	Geri kazanmak için yöneticili bir grup kur.
+55fb54	Satılık şirketler
+83f3eb	Gruplar
+3c25b5	Borsada kontrol edilenler
+e0af5d	Strateji: {0}
+5cba62	Şirketlerim
+b2cd36	{0} içinde sahipleri satmak isteyen işletmeler. Rakamlar satıcının beyanı: makyajlanmış olabilir.
+a7f651	Denetim, satın almadan önce defterleri ve borçları inceler.
+fcf966	Liste her 6 ayda yenilenir.
+ff1f4f	Şu anda satılık şirket yok.
+5a55b8	{0} çalışan
+8c58df	itibar {0}
+906c35	Yıllık satış
+a753b2	Yıllık kâr
+e8d23f	Borç
+29ce23	Kasa
+2a469b	Denetlendi
+75939d	Aceleci satıcı
+0c06e4	Gizli borç: {0}
+d83204	Reddedilen teklifler: {0}
+d9d394	Denetle ({0})
+1e872c	Krediyle: yarısını sen ödersin, diğer yarısı şirketin borcu olarak kalır
+e146d0	Denetim
+345238	Bir grup (holding) şirketlerinden birkaçını bir yöneticinin altında toplar.
+fddf77	Böylece dikkatini kaybetmeden istediğin kadar şirkete sahip olabilirsin; aynı sektördekiler müşteri ve tedarikçi paylaşır (sinerji).
+15c6fa	{0} şirket
+c665a3	Yöneticisiz
+948086	değer {0}
+b63dfe	Grup kur
+92ac3b	Grubun adı
+12a447	Yönetici
+306fa7	yetenek {0}
+f702aa	yılda {0}
+3408b6	Yöneticisiz gruptaki şirketler iyileştirmelerinden yararlanamaz. Maaşı grubun şirketleri öder.
+c701f1	İşten çıkar
+7181cb	Grubun şirketleri
+f9059b	{0}/ay
+024340	sinerji {0}/ay
+819e73	tasarruf {0}/ay
+36d9a1	Çıkar
+ba39af	Henüz şirketi yok.
+f6cb1f	Gruba ekle
+76afcf	Kasayı çek
+749f23	İç borç
+67de03	Dağıt
+96a561	Şirketin kontrolü
+5fa13a	Hisselerin
+4b5b07	Strateji
+1c6a17	Yıllık temettü
+8381a9	{0} şirketini kontrol ediyorsun: stratejisine ve yöneticisine sen karar verirsin. Hisse satıp %50'nin altına düşersen kontrolü kaybedersin.
+66ca3f	Yöneticiyi değiştir
+d9a1b7	Yönetici seç
+cf5468	Hisselerin %50'sinden fazlasıyla şirketi kontrol edersin. Çağrı teklifi, satmak isteyen tüm hissedarlardan bugünkü fiyata prim ekleyerek alır: prim ne kadar yüksekse o kadar çok kişi kabul eder.
+fb16fb	Eksik
+8ca912	{0} hisse
+be3ffa	Piyasa değeri
+136044	Bu yıl zaten teklif verdin: hissedarlar gelecek yıla kadar yenisini kabul etmez.
+05f71c	Prim
+e11d21	Çağrı teklifi
+4705dc	Halka açık bir şirketin tüm hissedarlarına, kontrolü almak için hisselerini sabit fiyattan satın alma teklifi. İspanyolcada OPA denir.
+3759a9	Kontrol primi
+6cc33f	Hissedarları satmaya ikna edip kontrolü almak için piyasa fiyatının üzerinde ödenen tutar.
+28a776	Denetim (durum tespiti)
+b88955	Bir şirketi almadan önce defterlerinin, sözleşmelerinin ve borçlarının incelenmesi; makyajlı rakamlara fazla ödememek için.
+73ebba	Kaldıraçlı satın alma
+46cbb8	Bir şirketi çoğu borç parayla almak; borcu sonra şirketin kendisi kârıyla öder. Kazancı da riski de katlar.
+d39083	Holding
+1fa8cc	Farklı sektörlerden şirketlerin tek sahip ve ortak yönetim altında toplandığı grup.
+860c3b	Sinerji
+5e13be	Müşteri, tedarikçi veya süreç paylaşan şirketler birleşince ortaya çıkan tasarruf ya da ek satış.
+77c8d3	Borsada kontrol
+e6850f	Şirket ve grup satın almak

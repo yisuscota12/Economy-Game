@@ -1,0 +1,273 @@
+001	(+{0}/an). Touche une de tes provinces → 🏗️ Construire.
+002	Actions de gouvernement ({0} sur 2)
+003	Approbation / Congrès
+004	Soutien au congrès {0} % (probabilité de faire voter une loi : {1} %)
+005	sans réélection
+006	réélection non consécutive
+007	2 mandats consécutifs au maximum
+008	réélection sans limite
+009	c'est toi qui gouvernes ({0})
+010	Investir dans les infrastructures
+011	Croissance économique
+012	Renforcer l'armée
+013	dépenses militaires
+014	Réformes sociales
+015	Propagande
+016	Baisser les impôts
+017	Économie à long terme
+018	Plan anti-inflation
+019	Détourner des fonds publics
+020	pour toi
+021	risque de procès
+022	Tu lances un plan d'infrastructures.
+023	Tu achètes du matériel et entraînes des troupes.
+024	Réformes sociales adoptées.
+025	Campagne de propagande nationale.
+026	Tu baisses les impôts. Les gens applaudissent.
+027	La banque centrale relève ses taux ; l'inflation recule.
+028	Tu détournes des fonds vers des comptes à ton nom.
+029	Recettes du Trésor (impôts élevés)
+030	Recettes du Trésor (impôts normaux)
+031	Recettes du Trésor (impôts bas)
+032	Impôts (utilise une action de gouvernement)
+033	Impôts (utilise une action de gouvernement, vote requis)
+034	Impôts élevés
+035	Impôts normaux
+036	Impôts bas
+037	Recettes ×{0}
+038	Tu fixes les impôts au niveau élevé.
+039	Tu fixes les impôts au niveau normal.
+040	Tu fixes les impôts au niveau bas.
+041	Émettre des obligations pour {0}
+042	Taux de {0} par an
+043	Rembourser des obligations ({0})
+044	Tu dois {0} en obligations propres
+045	Tu émets des obligations pour {0} à un taux de {1}. La dette publique monte à {2} % du PIB.
+046	Tu rembourses {0} d'obligations.
+047	Recherche civile : niveau {0} → {1}
+048	Recherche militaire : niveau {0} → {1}
+049	Ton pays atteint le niveau {0} de technologie civile ({1}).
+050	Ton pays atteint le niveau {0} de technologie militaire ({1}).
+051	Traités : {0} (+{1} % par an)
+052	{0} (jusqu'en {1})
+053	aucun
+054	aucune
+055	Embargos : {0} (−{1} % par an)
+056	tu l'imposes à {0}
+057	{0} te l'impose
+058	Budget du Trésor ({0} par an)
+059	Ce que tu n'attribues pas est épargné au Trésor :
+060	Investissement
+061	Bien-être
+062	développement des provinces et croissance
+063	technologie civile et militaire
+064	paie les troupes en plus, le moral et les recrues
+065	bonheur et stabilité
+066	Utilise une action de gouvernement. Modifiable tous les 4 ans. Passer de la démocratie à un autre régime refroidit les relations avec les démocraties et peut entraîner des sanctions.
+067	Tu es vassal de {0}
+068	Armées de {0}
+069	{0} soldats dans {1} armée(s)
+070	qualité {0} (dépense par soldat {1}/an, SIPRI)
+071	coût des troupes en plus {0}/an
+072	(en mer)
+073	à l'entraînement
+074	moral
+075	ravitaillement
+076	qualité
+077	soldats
+078	Recruter à {0}
+079	Pour recruter dans une autre province, touche-la sur la carte avant d'ouvrir cette fiche. Les recrues s'entraînent {0} mois et commencent avec un moral bas.
+080	Recruter {0} soldats
+081	{0} du Trésor
+082	Trésor {0}. Les guerres se jouent mois par mois avec tes armées.
+083	Armée de {0} ({1}) prête : touche la destination sur la carte.
+084	Il te reste {0} actions diplomatiques sur 3 cette année.
+085	L'opinion de chaque pays monte avec les ambassades et les traités et baisse avec les ultimatums et les guerres.
+086	sa puissance représente {0} de la tienne
+087	puissance {0} de la tienne
+088	Actions ({0} diplomatiques, {1} de gouvernement)
+089	Seul celui qui gouverne fait de la diplomatie.
+090	⚠️ Rompt le pacte de non-agression : −10 de stabilité et tout le monde se méfie
+091	Améliorer les relations
+092	Ambassade et visites officielles
+093	Proposer une alliance
+094	Probabilité
+095	ses forces te soutiennent en guerre
+096	Rompre l'alliance
+097	Tu perds son soutien
+098	Pacte de non-agression (10 ans)
+099	vous ne pourrez pas vous attaquer sans le rompre
+100	Demander un droit de passage militaire
+101	tes armées peuvent traverser son territoire
+102	Renoncer au droit de passage militaire
+103	Garantir son indépendance
+104	Accepte toujours
+105	si quelqu'un l'attaque, il t'appellera à le défendre
+106	Retirer la garantie
+107	Ultimatum : exiger {0}
+108	Ultimatum : exiger la vassalité
+109	Acceptation
+110	en cas de refus, tu obtiens un casus belli (le déclarer ne baisse pas la stabilité)
+111	le vassal paie un tribut et combat à tes côtés
+112	Intégrer le vassal
+113	Tu annexes tout son territoire
+114	exige 5 ans de vassalité (tu en as {0}) et une opinion de 40+
+115	Libérer le vassal
+116	Traité commercial (10 ans)
+117	vous croissez tous les deux plus vite (+{0} % par an pour toi)
+118	Annuler le traité commercial
+119	Embargo commercial
+120	Son économie perd ~{0} % par an ; tu perds un peu aussi
+121	Lever l'embargo
+122	Envoyer un cadeau ({0})
+123	+15 à +25 d'opinion
+124	Insulter son gouvernement
+125	−30 d'opinion ; s'il est plus fort, il peut te déclarer la guerre
+126	Appeler aux armes contre {0}
+127	entre en guerre avec ses armées
+128	Proposer une union des nations
+129	Exige une opinion de 75+, la même culture ou le même système et qu'il soit plus faible
+130	inflation {0}.
+131	La banque centrale relève le taux quand l'inflation dépasse sa cible et le baisse quand l'économie ralentit (règle de Taylor).
+132	Tu utilises une monnaie que tu n'émets pas : le taux est fixé par {0}.
+133	Les réformes utilisent une action de gouvernement (il t'en reste {0}).
+134	Le marché fixe le prix et absorbe les chocs ; tu gardes la main sur le taux.
+135	Hong Kong (caisse d'émission depuis 1983) et l'Arabie saoudite (3,75 par dollar depuis 1986) maintiennent des changes fixes. Le Mexique en 1994, la Thaïlande en 1997 et l'Argentine en 2002 ont subi des dévaluations quand le change fixe a cessé d'être crédible.
+136	Chaque billet adossé au dollar : très crédible, mais sans politique monétaire. Exige un Trésor de 5 % du PIB.
+137	Imprimer de la monnaie pour le gouvernement (seigneuriage) : {0}
+138	Financer les dépenses en imprimant de la monnaie a mené à l'hyperinflation en Allemagne (1923), au Zimbabwe (2008) et au Venezuela (2016-2021).
+139	du PIB par an
+140	1 nouveau = 1 000 anciens. {0}
+141	Le Mexique a supprimé trois zéros en 1993 (nouveau peso), la Turquie six en 2005, le Brésil est passé au real en 1994 et la Sierra Leone a supprimé trois zéros en 2022.
+142	Supprimer {0} zéros
+143	Ramène le dollar à ~{0} unités.
+144	Fin de l'émission, banque centrale indépendante, taux +8 et, si nécessaire, suppression de zéros. Fonctionne comme le Plan Real du Brésil (1994) : l'inflation baisse en 3 ans au prix d'une récession.
+145	L'Équateur s'est dollarisé en 2000 après une crise bancaire ; le Salvador en 2001. L'inflation converge vers celle des États-Unis, mais tu perds la politique monétaire.
+146	Tu remplis les critères. {0}
+147	Critères : {0}
+148	La Croatie a adopté l'euro en 2023 et la Bulgarie en 2026, après avoir rempli les critères d'inflation, de déficit, de dette et deux ans de change stable.
+149	Inflation ≤ {0} % (tu as {1} %)
+150	Dette ≤ 90 % du PIB (tu as {0} %)
+151	Deux ans d'ancrage à l'euro (MCE II)
+152	Stabilité ≥ 40 (tu as {0})
+153	Quitter l'euro et créer ta propre monnaie
+154	Tu récupères le taux et le change, mais la transition provoque une fuite des capitaux, une récession et une dévaluation initiale.
+155	Plus d'investissement et de croissance ; tu redeviens exposé aux fuites de capitaux.
+156	Freine les fuites et les attaques spéculatives, mais réduit la croissance et interdit d'acheter des actions étrangères (comme le « cepo » argentin).
+157	Tu prends le contrôle {0}. C'est toi qui fixes le taux désormais ; les marchés se méfient (+1 point d'inflation par an tant que ça dure).
+158	Tu rends son autonomie à {0} : il fixe de nouveau les taux selon sa règle (inflation et croissance).
+159	Tu fixes le taux directeur à {0} % ({1}). Le crédit renchérit : il freine l'inflation et la croissance, et renforce la monnaie.
+160	Tu fixes le taux directeur à {0} % ({1}). Le crédit devient moins cher : il stimule la croissance, mais l'inflation monte et la monnaie s'affaiblit.
+161	Pour une caisse d'émission, il te faut des réserves : un Trésor d'au moins 5 % du PIB.
+162	Le {0} flotte librement : le marché fixe le taux de change et absorbe les chocs.
+163	La {0} flotte librement : le marché fixe le taux de change et absorbe les chocs.
+164	Flottement géré : la banque centrale lisse les mouvements du {0}.
+165	Flottement géré : la banque centrale lisse les mouvements de la {0}.
+166	Le {0} est fixé à {1} pour 1 {2}. Ton taux suivra celui de l'ancre ; si ton inflation dépasse celle de l'ancre, le change fixe devient vulnérable à une attaque spéculative.
+167	La {0} est fixée à {1} pour 1 {2}. Ton taux suivra celui de l'ancre ; si ton inflation dépasse celle de l'ancre, le change fixe devient vulnérable à une attaque spéculative.
+168	Le {0} passe en caisse d'émission à {1} pour 1 {2}. Ton taux suivra celui de l'ancre ; si ton inflation dépasse celle de l'ancre, le change fixe devient vulnérable à une attaque spéculative.
+169	La {0} passe en caisse d'émission à {1} pour 1 {2}. Ton taux suivra celui de l'ancre ; si ton inflation dépasse celle de l'ancre, le change fixe devient vulnérable à une attaque spéculative.
+170	Tu ordonnes de financer le gouvernement en imprimant de la monnaie : {0} entre au Trésor chaque année. Attends-toi à plus d'inflation et à une monnaie plus faible.
+171	Tu arrêtes d'imprimer de la monnaie pour le gouvernement.
+172	La monnaie n'a pas autant de zéros à supprimer.
+173	Plan de stabilisation : tu arrêtes d'imprimer, la banque centrale retrouve son autonomie et relève le taux de 8 points. L'inflation chutera fortement dans les 3 prochaines années ; le prix est une récession et une approbation plus faible.
+174	Tu imposes un contrôle des capitaux : moins d'attaques spéculatives et de fuites, mais l'économie croît moins et personne ne peut acheter d'actions à l'étranger.
+175	Tu lèves le contrôle des capitaux : l'argent entre et sort librement.
+176	fixe par rapport au dollar américain ({0})
+177	fixe par rapport à l'euro ({0})
+178	caisse d'émission (dollar américain)
+179	caisse d'émission (euro)
+180	Fait baisser le taux de change tout de suite ; tu dépenses des réserves.
+181	Plus de compétitivité à l'export et plus de réserves ; un peu plus d'inflation.
+182	Remplir la réserve stratégique ({0})
+183	Protège contre les ruptures d'approvisionnement ; pousse le prix à la hausse.
+184	Ton pays n'émet pas sa monnaie : il ne peut pas intervenir sur le change.
+185	Tu n'as pas de réserves en devises.
+186	Tu vends {0} de réserves : le {1} se renforce.
+187	Tu vends {0} de réserves : la {1} se renforce.
+188	Tu achètes {0} en dollars en émettant de la monnaie : le {1} s'affaiblit (plus de compétitivité, un peu plus d'inflation) et tes réserves augmentent.
+189	Tu achètes {0} en dollars en émettant de la monnaie : la {1} s'affaiblit (plus de compétitivité, un peu plus d'inflation) et tes réserves augmentent.
+190	Il te faut {0} au Trésor ou en réserves.
+191	Tu achètes {0} tonnes d'or ({1}).
+192	Tu n'as pas d'or.
+193	Tu vends {0} tonnes d'or : tes réserves en devises augmentent de {1}.
+194	Il te faut {0} au Trésor.
+195	Tu achètes {0} pour ta réserve stratégique ({1}).
+196	Ta réserve stratégique est vide.
+197	Tu libères {0} : {1} entrent au Trésor et le prix mondial baisse.
+198	souple
+199	stricte
+200	{0} à rembourser
+201	nationalisée
+202	privée
+203	Réglementation souple
+204	Réglementation normale
+205	Réglementation stricte
+206	Crédit bon marché aux entreprises des provinces les plus pauvres : +développement et +croissance pendant 3 ans.
+207	Pour les infrastructures : +0,5 de développement dans tes 10 provinces les plus pauvres ; la dette augmente.
+208	L'État décide du crédit ; les banques chutent en Bourse et l'économie croît moins.
+209	Tu fixes une réglementation bancaire souple.
+210	Tu fixes une réglementation bancaire normale.
+211	Tu fixes une réglementation bancaire stricte.
+212	Le FMI prête {0} (moitié au Trésor, moitié aux réserves). Conditions : 3 ans d'austérité (moins de croissance et d'approbation), pas d'impression de monnaie et une banque centrale indépendante.
+213	La Banque mondiale prête {0} pour les infrastructures : +0,5 de développement dans tes 10 provinces les plus pauvres et plus de croissance pendant 5 ans.
+214	La banque de développement prête {0} aux entreprises des provinces les plus pauvres : +développement et un peu plus de croissance pendant 3 ans.
+215	Tu nationalises les banques : l'État décide à qui prêter. Les banques chutent en Bourse et le crédit devient moins efficace (−0,3 % de croissance par an).
+216	Tu reprivatises les banques : la concurrence revient.
+217	{0} n'a pas de production notable de pétrole, de gaz, de minerais ni de céréales d'exportation.
+218	Redevances de 10 % → 35 % ; moins d'investissement (−0,3 % de croissance par an) et les entreprises du secteur chutent en Bourse. Comme le Mexique avec le pétrole en 1938 ou la Bolivie avec le gaz en 2006.
+219	Interdire les exportations (utilise une action) : le prix mondial monte et ton marché est approvisionné, mais tu perds des devises.
+220	Tu nationalises le pétrole et les mines : les redevances au Trésor passent de 10 % à 35 % de la valeur produite, mais l'investissement baisse (−0,3 % de croissance par an) et les entreprises du secteur chutent en Bourse.
+221	Tu reprivatises le secteur : tu vends des concessions (5 % de la valeur annuelle au Trésor) et l'investissement revient ; les redevances reviennent à 10 %.
+222	Tu interdis d'exporter {0} : le prix mondial monte et le marché intérieur est approvisionné, mais tu perds des devises (ta croissance ralentit).
+223	Tu lèves l'interdiction d'exporter {0}.
+224	Aucune bataille récente.
+225	Gal {0}
+226	Offensif (+15 % en attaque)
+227	Défensif (+15 % en défense)
+228	Logisticien (−35 % d'attrition et meilleur ravitaillement)
+229	Rapide (+1 de mouvement par mois)
+230	Charismatique (le moral remonte deux fois plus vite)
+231	Montagnard (+25 % en montagne et sur les collines)
+232	Inexpérimenté (−10 % en bataille ; apprend vite)
+233	barils
+234	mille barils
+235	milliards de barils
+236	millions de BTU
+237	milliers de millions de BTU
+238	milliards de millions de BTU
+239	tonnes
+240	mille tonnes
+241	milliards de tonnes
+242	tonnes de carbonate
+243	mille tonnes de carbonate
+244	tonnes d'oxydes
+245	mille tonnes d'oxydes
+246	onces
+247	mille onces
+248	milliards d'onces
+249	livres d'U₃O₈
+250	mille livres d'U₃O₈
+251	milliards de livres d'U₃O₈
+252	Barils
+253	Millions de BTU
+254	Tonnes
+255	Tonnes de carbonate
+256	Tonnes d'oxydes
+257	Onces
+258	Livres d'U₃O₈
+259	par baril
+260	par million de BTU
+261	par tonne
+262	par tonne de carbonate
+263	par tonne d'oxydes
+264	par once
+265	par livre d'U₃O₈
+266	millions de barils
+267	millions de tonnes
+268	millions d'onces
+269	billions de BTU
+270	millions de livres d'U₃O₈
+271	millions de tonnes de carbonate
+272	millions de tonnes d'oxydes
+273	réserve de recrues {0} (population mobilisable)

@@ -1,0 +1,292 @@
+65225c	Topa sahip olmak, kısa paslar ve sabır. Alçak blokları açar; yüksek preste zorlanır.
+e5beae	Topa sahip olma
+5313c5	Yüksek pres
+54ace6	Topu önde ve hızlı kazanmak. Topa sahip olan takımları boğar; arkada boşluk bırakır.
+700856	Beklemek ve hızlı çıkmak. Önde savunan takımları cezalandırır; topa sahip olan rakibe karşı topsuz zorlanır.
+fd1844	Kontra atak
+4cc592	Alçak blok
+7166e7	Ceza sahasına yakın savunmak ve alanları kapatmak. Direkt oyunu etkisiz kılar; sabırlı topa sahip olmaya karşı zorlanır.
+3fc98c	Uzun toplar ve ikinci toplar. Presi atlatır; alçak bloklara takılır.
+93e9a6	Direkt oyun
+037676	Uç noktalar yok: rakibe uyum sağlar. Belirgin bir avantajı ya da dezavantajı yoktur.
+56993d	Ucuza alır, geliştirir ve büyüklere satar: transfer gelirleriyle yaşar.
+958239	Alıcı
+bfaaca	Yıldız transfer eder ve yüksek bonservis öder; az ve pahalı satar.
+275cfa	İhtiyacına göre alır ve satar.
+dce9ac	Altyapı kulübü
+e914fe	Altyapısına güvenir: yıldızları genç ve daha yüksek potansiyelle gelir.
+18a046	Kısıtlı
+525174	İddialı
+ef5959	Galaktik
+9bc2c5	Halk fiyatı
+2f0ada	Belediye sahası
+912d13	Modern tesis
+9c9eda	Elit tesis
+9d6d76	Temel tesis
+de9953	Spor kompleksi
+41347f	Bölgesel akademi
+5c642f	Futbol okulu
+61da4b	Akademi yok
+9fd328	Ulusal akademi
+f17aa6	Elit akademi
+773471	Lisans yok
+026e9d	Üst lige çıkmak
+37bc23	Küme düşmemek
+4f7927	İlk yarıda bitirmek
+73a7c7	Kıtasal kupaya katılmak
+ab8a73	Son üçte bitirmemek
+cd9075	Ligi kazanmak
+e5fa55	Bölgesel ligi kazanmak
+5e84cb	{0}, kötü bir sezonun ardından teknik direktörü {1} ile sözleşme yenilemiyor. Yerine: {2} ({3}).
+09f1f5	{0}, {2} maçlık kötü sonuçların ardından teknik direktörü {1} ile yollarını ayırıyor. Yerine: {3} ({4}).
+63aa35	{0}, {1} kulübünden ayrılıp {2} kulübünün yeni teknik direktörü oluyor ({3}).
+10f3a1	{0}, teknik direktörü {1} için emeklilik kararını duyuruyor. Yerine: {2} ({3}).
+409b99	Bir antrenman tesisi eksik.
+555745	{0} kişilik bir stadyum eksik.
+96dee2	🏆 {0} kazandı: {1}! Kulübe ödül: {2}.
+0d7844	🏗️ Belediye izni onaylıyor: inşaat başlıyor ({0} ay).
+ab5af1	🏗️ Belediye inşaat iznini reddediyor. Yeniden başvurabilirsin.
+c9a918	🏟️ Genişletme bitti: stadyumun artık {0} kişilik.
+cc455a	🏋️ Yeni antrenman tesisin açılıyor: {0}.
+86699e	📨 {0}, {2} için {1} teklif ediyor. ⚽ Kulübün → Pazar bölümüne bak.
+ffe27d	💵 Zararı kapatmak için cebinden {0} koyuyorsun (kulüp: {1}).
+7c7649	⚖️ {0} borçları yüzünden kayyuma devrediliyor ve yeni bir sahibe satılıyor. Eline geçen: {1}.
+95820c	{0} kayyuma devrediliyor ve sahibi değişiyor.
+6582d8	⚠️ {0} zararda ve kapatacak paran yok. Yıldız sat, maaş bütçesini düşür ya da sermaye koy.
+c09dad	🎯 Sezon hedefi ({0}): {1}.
+d973be	✅ {0} sezon hedefini tutturdu ({1}): sıralama {2}.
+517e79	❌ {0} sezon hedefini tutturamadı ({1}): sıralama {2}.
+e0a38b	⚖️ Lig, lisansa uymadığı için {0} kulübüne {1} ceza veriyor.
+7d20ac	⏳ {0} başvurmadan önce bölgesel ligde en az altı ay geçirmeli: {1}.
+3738fe	📋 {0} lisansı alamıyor: {1}.
+f5dfa6	📋 Bu lige girmek için bir yer (franchise) satın almalısın: {0}.
+354ea6	{0} lige katılıyor: {1}. Bölgesel liglere düşen {2} kulübünün yerini alıyor.
+e51d62	🎉 {0} lige katıldı: {1}!
+a589fa	📋 {0} yükselme hattında bitirdi ama lisansı alamadı: {1}. Bir sonraki takım yükseliyor.
+379bd5	🎉 {0} üst lige çıktı: {1}!
+579ab4	⬇️ {0} küme düştü: {1}.
+110f5e	Kurallar aktif bir futbolcunun kulüp sahibi olmasına izin vermiyor.
+b414b3	Reşit olman gerekiyor.
+abda79	Zaten bir kulübün var.
+dea1c7	Satın alma bedeli ({0}): {1}.
+bf5c17	{0} kulübünü {1} karşılığında satın alıyorsun. Artık maaş bütçesine, transferlere, inşaatlara ve takımı kimin yöneteceğine sen karar veriyorsun.
+f04535	{0}, {1} kulübünü {2} karşılığında satın alıyor.
+658bc4	Bu isimde bir kulüp zaten var.
+b4b78c	Kulüp kurmanın maliyeti: {0}.
+cb6635	Bu lige girmek için altı aylık müsabaka ve {1} kişilik bir stadyum gerekir: {0}.
+db5bd7	{0} kulübünü kuruyorsun. Bölgesel ligde oynuyor ve {1} kişilik bir belediye sahası kiralıyor.
+71662b	Yerin bedeli {0}, kulübünün kasasında ise yalnızca {1} var.
+edcfbb	Yeri zaten satın aldın.
+1207fd	Bir lig yeri satın alıyorsun ({0}): {1}. Lisansa uyarsan sezon sonunda katılırsın.
+f2b559	{0} kulübünü satıyorsun. Eline geçen: {1} (kulüp kasası dahil).
+5eb3f7	Bu kadar paran yok: {0}.
+85a110	Kulüp kasasına {0} koyuyorsun.
+086101	Kulüp kasasından {0} çekiyorsun.
+61b2b1	Kulüp kasası yetmiyor.
+02ea66	Zaten devam eden bir inşaatın var.
+472782	Stadyum 100.000 kişiyi geçemez.
+8e8ac6	İnşaatın maliyeti {0}, iznin maliyeti {1}.
+1c78ed	Stadyumu {0} kişi genişletmek için inşaat izni başvurusu yapıyorsun. Belediye 2 ila 4 ay içinde yanıt verir.
+99e68e	Zaten en iyi tesise sahipsin.
+41d74d	İnşaat izni başvurusu yapıyorsun: {0}. Belediye 2 ila 4 ay içinde yanıt verir.
+476363	İnşaat başlıyor: {0} (3 ay).
+76cfc3	Zaten en iyi akademiye sahipsin.
+8c1b8b	Açılıyor: {0}. Her yıl daha yüksek potansiyelli gençler çıkabilir.
+afacdc	Pazar kapalı: haziranda ve ocakta açılır.
+e5c92c	{0} projenle ilgilenmiyor: kulübün onun seviyesinin çok altında.
+38d1e8	Transferin bedeli {0}, kulübünün kasasında {1} var.
+c01f9c	Kadronda zaten on yıldız var.
+4fa5ea	{0} imzaladı (kulüp: {1}): bonservis {2}, yıllık maaş {3}.
+74e01f	Şu an hiçbir kulüp, değerini teklif etmiyor: {0}.
+70f57f	{0} oyuncusunu {2} karşılığında satıyorsun (alıcı: {1}).
+72ab90	Teklifi reddediyorsun: {0} → {1}.
+0d3252	Kabul edildi: {0} → {1}, bedel {2}.
+2ae8e9	Kasada {0} gerekiyor (mevcut teknik direktörün tazminatı ve bonservisi).
+f51cb9	{1} kulübünün yeni teknik direktörü: {0}. {2}, yıllık maaş {3}.
+3ba870	Bu takımı çalıştırmak için gereken lisans ({0}): {1}.
+214503	Oyun tarzını değiştiriyorsun: {0}. Kadronun uyum sağlaması birkaç ay sürer.
+3107ca	Mevcut teknik direktörün tazminatı: {0}.
+4f4776	Takımın başına geçiyorsun ({0}). Teknik direktör olarak gücün: {1}.
+e10c49	Zaten sende var
+f675a8	Önce gereken: {0}
+6db1e0	Bir öncekinden bir yıl sonra
+f81838	Kursu geçiyorsun ve alıyorsun: {0}. Teknik direktör olarak gücün: {1} (bu lisansla en fazla {2}).
+5cdd46	Kötü
+90e998	İdeal
+94144b	👤 Yeni teknik direktör ({0}): {1} ({2}). Onun tarzına uyumun: {3}. Teknik direktörün güveni sıfırdan başlıyor.
+5c0411	🌱 Akademin bir oyuncuyu A takıma çıkarıyor: {0} ({1} yaş, {2}, potansiyel {3}).
+68c625	teknik direktör lisansları
+768bb4	⚽ Bir futbol kulübünün sahibi ol
+959325	⚽ Futbol kulübün
+e956dc	Bir kulüp satın al ya da kendin kur
+0e4333	Yaş
+3488d6	Alışılmış diziliş
+3c3d15	Sonuçlar (G-B-M)
+58999d	Teknik direktör kalitesi
+be736c	Göreve başlama
+e008d0	Bölgesel ligler
+0cb069	İş modeli
+1b7d61	Yıllık tahmini gelir
+4397b6	Taraftarlar
+4ab4a4	Güç
+e3dbe4	Kulübün değeri
+347876	Geldiği kulüp: {0}
+ede971	Bu kulübü satın al?
+37938f	Teknik direktörün tarzı
+00e6b7	Kadro
+94dd4a	Kur
+9d8aca	Tesisler
+ea9804	Lisanslar
+3e98e0	Bölgesel lig
+4fea0c	Başlangıç sermayesi (kulüp kasası)
+5ff1d4	Federasyona kayıt
+16cfa0	Lisans için asgari stadyum
+9d5764	Giriş ligi
+d41547	ismi bir sonraki adımda seçersin
+fc4a8f	🏟️ Kulüp kur
+64c889	Eski profesyonel futbolcu olarak kursları yarı sürede tamamlarsın.
+514290	Teknik direktörlük ayları
+84b4ae	Bu lisansla en fazla
+b16ef5	Lisansın
+f09490	Teknik direktör olarak gücün
+6eb203	en fazla güç {0}
+eec32e	Alındı
+72d389	Puan durumundaki yeri
+cb5e1b	Hedef güç
+7bcbf6	Kulüp kasası
+76b653	Bölgesel ligdeki aylar
+1c2f1a	💰 Kulübü sat
+d422e3	Yaklaşık {0} alırsın (kulüp kasası dahil)
+16db45	Gereken: {0}
+411876	teknik direktör olarak gücün: {0}
+6cf571	Teknik direktör maaşı ödemezsin
+b892ac	📣 Takımı kendin çalıştır
+02b1bc	tazminat {0}
+6fa4ca	yılda {0} istiyor
+11b00c	Mevcut güç
+4916f3	Yıllık kadro maaşları
+eb3280	Yıldızların maaşları
+303efa	Pazar kapalı
+5dc715	reyting {0}
+948086	değer {0}
+05301c	Bütçene uygun
+a4114a	Tümü
+831e83	maaş {0}
+984162	Kasa yetmiyor
+c53e0e	bonservis {0}
+fe80e4	Projenle ilgilenmiyor
+257c0b	Kapasite
+4a8fd4	Geçen ayın seyirci sayısı
+9fc8f7	izin {0}
+e40f2d	Zaten inşaat var
+eb601c	{0} ay inşaat
+c8194e	Yıllık bakım
+9da719	3 ay inşaat
+cb6c1f	inşaat izni gerekir
+4c34ce	hemen açılır
+181efe	Senin yatırımın
+33f233	İşletme ve bakım
+6000a1	Transferler ve inşaatlar
+a26d34	Sponsorluk ve mağaza
+b9faad	Biletler
+c56269	Oyuncu satışları
+fa4a30	Ortalama bilet fiyatı
+bad3c9	Kulüp kasasından senin paran
+bb4e9f	Senin paran kulüp kasasına
+bba8c5	lisansa uyarsan sezon sonunda katılırsın
+c941e1	📋 Lig yeri satın al: {0}
+e1804f	Zaten alındı
+eb067b	Kulübün adı
+3d594b	Kulübünü sat?
+b73399	İşe al
+cb5b9b	Bu teknik direktörü işe al?
+3d7fed	Takımı kendin çalıştır?
+7decd2	Taktik uyum
+7ef211	İş modelleri
+960972	Maaş bütçesi
+86c8ea	Lig lisansı
+ca62ff	Teknik direktör lisansları
+5c188c	İnşaat izinleri
+e6907a	İnşaat izni
+d6d9ac	⚽ Futbol menajerliği
+40fdfb	Profilini görmek için bir kulübe dokun.
+31f930	En çok değer verdiği özellikler:
+0040b2	İyi bir uyum seni ilk on bire yaklaştırır.
+ac3b03	Kulübün
+96f57a	Kulübü satın al
+f8aad3	Satın al
+cb3025	Henüz kayıtlı transfer yok.
+d5b798	Son transferler
+01a429	En çok harcayanlar (12 ay)
+18262e	En çok satanlar (12 ay)
+a85a74	En değerli oyuncular
+5d71d7	Liglere göre değerler
+5e7363	Ortalama gelir
+090fc2	Kulüp başına yayın geliri
+f3fce9	En pahalı yıldız
+1bcfb1	Piyasa değerleri, transfer sitelerinde olduğu gibi reyting, yaş, lig ve potansiyele göre belirlenir.
+ef43bb	Stadyum (kapasite)
+4ce4c4	Son transferler
+763e06	Kulübün kupaları
+d1cf91	Bir kulübün sahibi ol
+44989a	Kulübün tamamını satın alırsın: stadyumu, kadrosu ve ligdeki yeri. Sonra maaş bütçesine, transferlere, inşaatlara ve takımı kimin yöneteceğine karar verirsin. Paran:
+e0e6ea	Şehrinde bir kulüp kurarsın. Kiralık bir belediye sahasıyla bölgesel ligde başlar; profesyonel lige girmek için altı aylık müsabaka ve lisans gerekir (yeterli kapasiteli bir stadyum ve en üst ligde bir antrenman tesisi).
+ae7e77	Ülkende simüle edilen ikinci lig yok: lisansın yanı sıra girmeden önce bir yer (franchise) satın almalısın.
+1910a3	Ülkende henüz simüle edilen bir lig yok: kulübü kurduğunda oluşturulur.
+0dbdeb	Kulüp renkleri:
+737c87	Teknik direktör lisansları (UEFA ve federasyonlarınki gibi) sırayla alınır: C, B, A ve Pro. B ile bölgesel bir kulübü, A ile ikinci lig kulübünü, Pro ile en üst lig kulübünü çalıştırırsın.
+f2fd94	Teknik direktör olarak gücün çalıştırdığın her ay artar, iyi sonuçlarla daha hızlı, lisansının sınırına kadar.
+6a04c7	Taraftarın morali
+650011	Sezon hedefi:
+4e3c98	Sezonlar
+7cd71d	Antrenman tesisi
+626b01	Lig yeri (franchise)
+3a7321	Bölgesel ligde altı ay
+4b582a	Sezon sonunda bu lige girmek için: {0}
+c56e24	🏟️ Lisans için asgari stadyum: {0}
+836e2d	Teknik direktörün maaşı
+e67695	Oyun tarzın (değiştirmek birkaç aylık uyum gerektirir):
+fac21d	Kadronun uyumu
+1dfac7	Adaylar (boştakiler ve diğer kulüplerden; sözleşmesi olanlar için kulübüne bir yıllık tazminat ödersin):
+7ac8f0	Maaş bütçesi seni liginin harcama tablosuna yerleştirir: takımın gücü ödediği seviyeye yavaş yavaş yaklaşır.
+ccdd7a	Her ismin altında: potansiyel ve yıllık maaş.
+269fa8	Kulübünde yıldız yok. Onları Pazar bölümünden transfer et ya da akademinde gençler yetiştir.
+aa4c9b	Kulüp kasası:
+05f3ed	YILDIZIN İÇİN TEKLİF
+65ff6d	{0}, {2} için {1} teklif ediyor.
+adb813	Yıldızların için teklifler
+c56862	Bir yıldızı sat
+6e6ef8	Transfer et
+802049	📋 İnşaat izni değerlendiriliyor: belediye {0} ay içinde yanıt verecek.
+e0e0de	🏗️ İnşaat sürüyor: {0} ay içinde bitecek.
+545b3c	Bu lige çıkmak için {1} kişilik kapasite ve bir antrenman tesisi gerekir: {0}.
+208445	Her seviye hedef güce yarım puan ekler; en üst ligde en azından temel bir tesis gerekir.
+651e5d	Akademi her yıl bir genci A takıma çıkarabilir: daha yüksek seviye, daha yüksek şans ve daha fazla potansiyel.
+426395	Son 12 ay
+988b22	Ucuz biletler stadyumu doldurur ve taraftarı sevindirir; pahalılar koltukları boş bırakır.
+2bd8d2	Sermaye
+1d64ab	Kasa eksiye düşerse cebinden kapatırsın; kapatamazsan kulüp kayyuma devredilir.
+85f0a6	Lig yeri
+43321a	🏟️ {0} kişi ekle
+bc3292	🏋️ İnşa et: {0}
+66a8ea	🌱 Aç: {0}
+c9ec56	➕ {0} koy
+a282f7	💵 {0} çek
+6d0fa7	{0} kulübü sattı: {1}.
+efd38e	Gittiği kulüp: {0}
+ed9d19	Kurs: C Lisansı
+736caf	Kurs: B Lisansı
+da3e10	Kurs: A Lisansı
+adae2d	Kurs: Pro Lisansı
+11b0e4	Hızlandırılmış kurs: C Lisansı
+db4dc9	Hızlandırılmış kurs: B Lisansı
+d1df7b	Hızlandırılmış kurs: A Lisansı
+5c4caf	Hızlandırılmış kurs: Pro Lisansı
+e18d07	C Lisansı
+3a0f42	B Lisansı
+dae3a0	A Lisansı
+f42d61	Pro Lisansı
+89c7d6	boşta
+de82c1	Akademi
+872401	Stadyum
+41e155	Puan durumu

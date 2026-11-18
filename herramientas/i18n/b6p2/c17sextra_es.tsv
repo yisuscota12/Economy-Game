@@ -1,0 +1,81 @@
+40fdfb	D	Toca un club para ver su ficha.
+31f930	D	Atributos que más valora:
+0040b2	D	Un buen encaje te acerca a la titularidad.
+ac3b03	D	Tu club
+96f57a	D	Comprar el club
+f8aad3	D	Comprar
+cb3025	D	Todavía no hay fichajes registrados.
+d5b798	D	Últimos fichajes
+01a429	D	Los que más gastaron (12 meses)
+18262e	D	Los que más vendieron (12 meses)
+a85a74	D	Los jugadores más valiosos
+5d71d7	D	Valores por liga
+5e7363	D	Ingreso medio
+090fc2	D	TV por club
+f3fce9	D	Figura más cara
+1bcfb1	D	Los valores de mercado siguen la media, la edad, la liga y el potencial, como en los portales de traspasos.
+ef43bb	D	Estadio (lugares)
+4ce4c4	D	Fichajes recientes
+763e06	D	Palmarés del club
+d1cf91	D	Ser dueño de un club
+44989a	D	Compras el club completo: su estadio, su plantel y su lugar en la liga. Luego decides la masa salarial, los fichajes, las obras y quién dirige al equipo. Tu dinero:
+e0e6ea	D	Fundas un club en tu ciudad. Empieza en la liga regional con un campo municipal rentado; para entrar a la liga profesional necesitas seis meses de competencia y la licencia (un estadio con suficientes lugares y, en primera división, un centro de entrenamiento).
+ae7e77	D	Tu país no tiene segunda división simulada: además de la licencia necesitas comprar una plaza (franquicia) antes de entrar.
+1910a3	D	Tu país aún no tiene una liga simulada: se crea al fundar el club.
+0dbdeb	D	Colores del club:
+737c87	D	Las licencias de entrenador (como las de la UEFA y las federaciones) se sacan en orden: C, B, A y Pro. Con la B dirige un club regional, con la A uno de segunda división y con la Pro uno de primera.
+f2fd94	D	Tu fuerza como DT sube cada mes que diriges, más rápido con buenos resultados, hasta el máximo de tu licencia.
+6a04c7	D	Ánimo de la afición
+650011	D	Objetivo de la temporada:
+4e3c98	D	Temporadas
+7cd71d	D	Centro de entrenamiento
+626b01	D	Plaza (franquicia)
+3a7321	D	Seis meses en la liga regional
+4b582a	T	Para entrar a la {0} al terminar su temporada:
+c56e24	T	🏟️ Estadio mínimo para la licencia: {0}
+836e2d	D	Sueldo del DT
+e67695	D	Tu estilo de juego (cambiarlo pide unos meses de adaptación):
+fac21d	D	Adaptación del plantel
+1dfac7	D	Candidatos (libres y de otros clubes; a los que tienen contrato hay que pagarles un año de indemnización a su club):
+7ac8f0	D	La masa salarial te coloca en la tabla de gasto de tu liga: la fuerza del equipo se acerca poco a poco a la que paga.
+ccdd7a	D	Debajo de cada nombre: potencial y sueldo al año.
+269fa8	D	Tu club no tiene figuras. Fíchalas en Mercado o forma juveniles en tu academia.
+aa4c9b	D	Caja del club:
+05f3ed	D	OFERTA POR TU FIGURA
+65ff6d	T	{0} ofrece {1} por {2}.
+adb813	D	Ofertas por tus figuras
+c56862	D	Vender una figura
+6e6ef8	D	Fichar
+802049	T	📋 Permiso de obra en trámite: el ayuntamiento responde en {0} mes(es).
+e0e0de	T	🏗️ Obra en marcha: termina en {0} mes(es).
+545b3c	T	Para ascender a la {0} necesitas {1} lugares y un centro de entrenamiento.
+208445	D	Cada nivel suma medio punto a la fuerza objetivo; en primera división hace falta al menos un centro básico.
+651e5d	D	Cada año la academia puede promover a un juvenil: más nivel, más probabilidad y más potencial.
+426395	D	Últimos 12 meses
+988b22	D	Los boletos baratos llenan el estadio y alegran a la afición; los caros dejan lugares vacíos.
+2bd8d2	D	Capital
+1d64ab	D	Si la caja queda en números rojos, la cubres de tu bolsillo; si no puedes, el club entra en administración.
+85f0a6	D	Plaza en la liga
+43321a	T	🏟️ Ampliar {0} lugares
+bc3292	T	🏋️ Construir: {0}
+66a8ea	T	🌱 Abrir: {0}
+c9ec56	T	➕ Aportar {0}
+a282f7	T	💵 Retirar {0}
+6d0fa7	T	{0} vende {1}.
+efd38e	T	Se va a {0}
+ed9d19	D	Curso: Licencia C
+736caf	D	Curso: Licencia B
+da3e10	D	Curso: Licencia A
+adae2d	D	Curso: Licencia Pro
+11b0e4	D	Curso exprés: Licencia C
+db4dc9	D	Curso exprés: Licencia B
+d1df7b	D	Curso exprés: Licencia A
+5c4caf	D	Curso exprés: Licencia Pro
+e18d07	D	Licencia C
+3a0f42	D	Licencia B
+dae3a0	D	Licencia A
+f42d61	D	Licencia Pro
+89c7d6	D	libre
+de82c1	D	Academia
+872401	D	Estadio
+41e155	D	Tabla

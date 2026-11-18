@@ -1,0 +1,106 @@
+da4112	Croissance du pays
+e770f6	Récession
+c42c4a	Taux d'intérêt
+b82b50	Guerre
+2091ec	Prix du pétrole
+6f40f5	Prix des métaux
+de3107	Crise bancaire
+eaa432	Santé des banques
+25df08	Ses clients (chaîne)
+8ba059	Consommation des ménages
+428aa6	Faillites récentes
+eb9d92	Tendance du secteur
+2a9066	Ménages de la province
+ba2f44	Touristes
+0ed580	Autres entreprises du pays
+2b3fa3	Entreprises et ménages qui adoptent la technologie
+90c48c	Ménages de tout le pays
+cfcdcf	Marché mondial : tu vends au prix international
+bf3612	à cause de la faillite d'une entreprise
+fe1287	à cause de la fermeture d'une entreprise
+04d5bf	{0} mois
+01c6b3	Contribution à l'économie locale
+e29d55	Elle n'a pas encore clôturé son premier mois.
+ae31cc	Valeur ajoutée par an
+a59004	Avec fournisseurs et salaires
+a14887	Emplois
+e0373a	directs + indirects
+8cf54c	Impôts et cotisations
+78ca2c	par an
+f45225	PIB de la province
+54e3cd	PIB du pays
+c37c0c	Valeur ajoutée = ventes − intrants : ce que ton entreprise ajoute à l'économie.
+2ccea0	Ses achats aux fournisseurs et les salaires que tes employés dépensent créent plus d'activité (multiplicateur).
+bd431d	Chaque année, cette contribution entre dans le PIB de {0}.
+5d2777	Chaîne d'approvisionnement
+163de9	Intrants
+e9b8a1	{0} % du coût
+725a2b	prix depuis 2026
+3c8275	Produit par ton entreprise
+f9c7b3	(10 % moins cher)
+c60a91	Intégration verticale : tu économises {0} par mois en intrants.
+e84b64	Clients
+928862	Santé de ton secteur
+cd52f2	Effet sur ta demande
+0b5c1a	Demande de la province
+6b7103	Ta contribution à l'économie
+33a71c	PIB de ton pays
+e0d793	Voir tes entreprises sur la carte
+b5aae0	Acheter dans un autre pays est un investissement direct étranger : tu paies {0} % de frais et l'entreprise fonctionne avec les salaires, impôts et crises de ce pays.
+59502b	Frais : {0}
+c33869	Ce pays n'existe plus.
+ff7f4c	Frais d'investissement étranger : {0}.
+afd069	Tu achètes {0} pour {1}. Frais d'investissement étranger : {2}.
+bd6bcf	Tu achètes {0} pour {1} (tu paies {2} ; {3} de crédit restent comme dette de l'entreprise). Frais d'investissement étranger : {4}.
+b5a26e	Concurrent du même secteur
+ec0385	Paie plus si l'entreprise est saine : elle lui apporte clients et succursales.
+488eb4	Fonds de capital-investissement
+2fabc6	N'achète que des entreprises rentables ; paie selon leurs flux de trésorerie.
+1342fe	Investisseur individuel
+67b06b	Offre moins, mais achète presque n'importe quelle entreprise.
+033f80	Vendre l'entreprise
+3b6679	Valeur estimée
+99ff29	Santé de l'entreprise
+e4ed68	Chaque acheteur fait son offre selon la santé de l'entreprise : marge, réputation, croissance et dette.
+21206a	Tu peux accepter ou demander plus : s'il refuse, il baisse un peu son offre ; au deuxième refus, il se retire.
+5b72aa	Les offres se renouvellent tous les 3 mois.
+095408	Pour l'instant, aucun acheteur n'est intéressé.
+c733ab	A déjà refusé de payer plus : {0}
+8f9f73	Accepter
+4f5c13	Fonds {0} Capital
+37b68c	{0} se retire : refuse de payer plus pour {1}.
+362d66	{0} refuse de payer plus et baisse son offre à {1}. Tu peux l'accepter ou réessayer une fois.
+dadf29	Tu vends {0} à {1} pour {2} ({3} % de plus que son offre). L'entreprise continue de fonctionner avec son nouveau propriétaire.
+2b53c9	Tu vends {0} à {1} pour {2}. L'entreprise continue de fonctionner avec son nouveau propriétaire.
+ba0b31	Santé des secteurs
+19f297	50 est la normale.
+f3c89a	Chaque secteur dépend de ses clients : si la construction chute, l'industrie et les mines le ressentent ensuite (chaîne d'approvisionnement).
+cd2c1f	Touche un secteur pour voir ses causes.
+84fdb6	Ses débiteurs
+99ebbc	Économie locale
+84b89e	Activité économique
+d276d5	Secteur principal
+1bc7f4	{0} % de l'économie
+b6d859	Économie locale et tes entreprises
+df6537	faible
+7af0f1	forte
+ee64e3	Tes entreprises
+bd7d15	L'activité économique des provinces est calculée dans le fil d'exécution principal.
+d215c8	Non disponible dans ce navigateur : elle est calculée dans le fil d'exécution principal.
+012346	L'activité économique des 3 422 provinces est calculée dans un autre fil d'exécution chaque mois.
+59e47e	Économie mondiale en arrière-plan : activée
+1f3ade	Économie mondiale en arrière-plan : désactivée
+1662ca	La faillite de {0} laisse {1} personnes sans emploi à {2} ; les banques de {3} perdent {4} en crédits qui ne seront pas remboursés.
+737a53	En fermant {0}, {1} personnes perdent leur emploi à {2} et la demande de la province baisse pendant quelques mois.
+694f77	Valeur ajoutée
+01640b	Ce qu'une entreprise ajoute à l'économie : ses ventes moins ce qu'elle achète à d'autres entreprises (intrants). La somme de la valeur ajoutée de toutes les entreprises est le PIB.
+66fdc7	Multiplicateur économique
+54f06b	Chaque peso qu'une entreprise dépense en fournisseurs et en salaires est dépensé à nouveau dans d'autres commerces ; c'est pourquoi son effet total sur l'économie dépasse ses propres ventes.
+aaabdb	Intégration verticale
+3daa84	Posséder ton propre fournisseur (ou client) : l'intrant te coûte moins cher et tu ne dépends pas des autres, mais tu concentres le risque.
+4d3788	Investissement direct étranger
+816d1b	Acheter ou ouvrir des entreprises dans un autre pays. Cela apporte emplois et capitaux au pays d'accueil ; l'investisseur assume ses crises, ses impôts et sa monnaie.
+60cc9e	Multiple de valorisation
+fab259	Combien de fois son bénéfice annuel on paie pour une entreprise. Un acheteur paie un multiple plus élevé si l'entreprise croît, a une bonne marge et peu de dette.
+220bd8	Réseau d'entreprises qui se vendent entre elles : si un gros client entre en crise, ses fournisseurs le ressentent ensuite, et ainsi de suite le long de la chaîne.
+d0a528	Économie connectée

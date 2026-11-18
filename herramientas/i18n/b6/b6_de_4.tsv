@@ -1,0 +1,100 @@
+fb54ef	Bestimmt, wie sich dein Wechselkurs bewegt und wie hoch das Risiko einer Währungskrise ist.
+184332	Abstand zwischen dem offiziellen Wechselkurs und dem, den der Markt für angemessen hält. Wächst er, wetten Spekulanten gegen die Währung.
+c01db3	Eine große Abweichung erhöht das Risiko einer erzwungenen Abwertung.
+9c6af2	Den Staat durch neu geschaffenes Geld finanzieren. Kurzfristig bezahlt es Rechnungen; mittelfristig erzeugt es Inflation und Abwertung.
+2c07d3	Füllt heute die Staatskasse und morgen die Inflation.
+7d82c3	Beschränkungen, Geld aus dem Land zu bringen oder Devisen zu kaufen (etwa der „Cepo“ in Argentinien). Sie bremsen Kapitalflucht, schrecken aber Investitionen ab.
+ca7ee6	Verringern den Druck auf deine Währung um den Preis von weniger Wachstum.
+752281	Devisen, Gold und andere Vermögenswerte, die die Zentralbank hält, um Importe und Auslandsschulden zu bezahlen und die Währung zu verteidigen. Ein gesundes Niveau deckt mindestens 3 Monate Importe.
+b29ed0	Wenn du regierst, kannst du Devisen kaufen oder verkaufen, um zu intervenieren, Gold anhäufen und strategische Ölreserven anlegen. Sie schützen vor Krisen.
+0e3b2d	Die Währungen aller Länder und ihr Preis gegenüber dem Dollar.
+cd9a3a	Wechselkurse und ihre Veränderung.
+8f3006	Was du dir mit deinem Geld wirklich kaufen kannst. Steigt dein Lohn um 5 % und die Preise um 10 %, bist du ärmer.
+700bc4	Vergleicht dein Geld inflationsbereinigt.
+7f69e8	Markt, auf dem Aktien (Eigentumsanteile an Unternehmen) gekauft und verkauft werden. Langfristig brachten Börsen im Schnitt 6–10 % pro Jahr, mit heftigen Einbrüchen zwischendurch (2008, 2020).
+ad8c2b	32 echte Börsen mit Unternehmen nach echtem Vorbild. Die Kurse bewegen sich an jedem Handelstag durch Ergebnisse, Nachrichten und die Konjunktur.
+a72efb	Die Börsen und Indizes der Welt (S&P 500, IPC, Ibovespa, DAX, Nikkei …). Ein Index fasst zusammen, wie es den größten Unternehmen eines Marktes geht.
+adefa4	Wähle eine Börse, um ihre Unternehmen und Indizes zu sehen.
+e01e21	Die Gesamtheit deiner Anlagen. Streuen (viele Unternehmen und Branchen halten) senkt das Risiko, ohne die erwartete Rendite stark zu senken.
+acca51	Deine Positionen, Buchgewinn, Margin und Leerverkäufe.
+815e39	Anweisungen zum Kaufen oder Verkaufen. Market-Order: wird sofort zum aktuellen Preis ausgeführt. Limit: nur zu deinem Preis oder besser. Stop: wird ausgelöst, wenn der Preis eine Marke kreuzt, um Verluste zu begrenzen.
+74a9e3	Offene Orders, die von selbst ausgeführt werden, wenn der Preis erreicht ist.
+e14604	Aktien erwerben, um bei steigenden Kursen zu gewinnen (Long-Position) und Dividenden zu kassieren.
+735265	Kauft zum aktuellen Preis plus Gebühr.
+dfd1ad	Eine Position auflösen. Der Gewinn ist erst beim Verkauf real; bis dahin ist er ein „Buchgewinn“.
+4629e4	Verkauft deine Aktien zum aktuellen Preis.
+c5fcb2	Aktien leihen und verkaufen in der Erwartung, dass sie fallen, um sie billiger zurückzukaufen. Steigt der Preis, ist der mögliche Verlust unbegrenzt.
+d98a9c	Du gewinnst, wenn die Aktie fällt. Erfordert Margin und kostet Leihgebühren.
+7d1955	Die leerverkauften Aktien kaufen, um sie zurückzugeben und die Wette zu schließen.
+eafe5a	Schließt deine Short-Position.
+44cb0e	Kauft nur, wenn der Preis auf deine Marke fällt (oder verkauft nur, wenn er steigt). Du bestimmst den Preis, nicht den Zeitpunkt.
+84cbeb	Bleibt offen, bis der Preis sie erreicht.
+016956	Automatischer Verkauf, wenn der Preis auf eine bestimmte Marke fällt. Dient dazu, Verluste zu begrenzen, ohne auf den Bildschirm zu starren.
+c0e2bf	Wird beim Kreuzen der Marke von selbst ausgelöst.
+eda590	Aktienkurs mal Anzahl der Aktien: was der Markt dem ganzen Unternehmen an Wert beimisst.
+d6cf10	Größe des Unternehmens.
+29bbcd	Wie viele Jahresgewinne du beim Kauf der Aktie bezahlst. Ein KGV von 15 ist typisch; eines von 40 zeigt, dass der Markt viel Wachstum erwartet (oder eine Blase).
+51198c	Niedriger = günstiger im Verhältnis zu dem, was sie verdient.
+d0409a	Wie stark sich die Aktie im Vergleich zum Markt bewegt. Beta 1: wie der Index; 2: doppelt so stark (mehr Risiko); 0,5: halb so stark (defensiv).
+3cd5b2	Risiko der Aktie im Vergleich zu ihrer Börse.
+0b00e1	Teil des Gewinns, den das Unternehmen an seine Aktionäre ausschüttet, meist vierteljährlich oder jährlich.
+628d79	Du erhältst sie in bar, solange du die Aktie hältst.
+0fbd20	Der höchste Kurs des letzten Jahres. Zeigt, ob eine Aktie nahe an ihren Extremen ist.
+42dbf0	Orientierung für die Kursspanne.
+74a594	Der niedrigste Kurs des letzten Jahres.
+70500f	Wie viele Aktien pro Tag gehandelt werden. Mehr Volumen = leichter ein- und auszusteigen, ohne den Kurs zu bewegen (Liquidität).
+080e85	Liquidität der Aktie.
+5b55c4	Der Durchschnittspreis, zu dem du deine Aktien gekauft hast, über alle Käufe gerechnet.
+e6bc56	Grundlage zur Berechnung deines Gewinns.
+fe550d	Was du gewinnen oder verlieren würdest, wenn du heute verkaufst. Erst mit dem Verkauf real.
+2601f8	Differenz zwischen aktuellem Wert und deinen Kosten.
+dbfed5	Differenz zwischen dem Wert deiner Position und dem, was sie dich gekostet hat.
+b54f1d	Grün gewinnt, Rot verliert.
+2e4d1f	Geld, das dir der Broker leiht, damit du mehr anlegen kannst, als du hast. Vervielfacht Gewinne und Verluste; fällt der Kurs stark, verlangt man mehr Geld (Margin Call) oder verkauft für dich.
+7623c6	Fällt deine Sicherheit zu stark, löst das Spiel Positionen auf.
+eda137	Ein Unternehmen verkauft zum ersten Mal Aktien an die Öffentlichkeit, um Kapital zu beschaffen. Die Gründer werden auf dem Papier Millionäre, teilen aber die Kontrolle.
+ee6e77	Du kannst dein Geschäft an die Börse bringen, wenn es groß und profitabel ist.
+10e8ee	Fonds, die einen ganzen Index zu sehr niedrigen Gebühren nachbilden. Für die meisten Sparer brachten sie mehr als selbst ausgewählte Aktien, weil sie streuen und kaum etwas kosten.
+cfff56	Du kaufst einen ganzen Markt auf einmal.
+57f5fe	Grundgüter, die in großen Mengen gehandelt werden: Öl, Gold, Kupfer, Weizen. Ihre Preise steigen mit der globalen Nachfrage und bei Angebotskrisen (Kriege, Dürren).
+0af9f3	Kaufe und verkaufe Rohstoffe; ihre Preise wirken auf Förderländer und Produzenten.
+7189b6	Öl, Gold, Kupfer, Lithium, Getreide … Ihr Preis ergibt sich aus Weltangebot und -nachfrage.
+cc971a	Handle mit Rohstoffen.
+3f0397	Kredite, die du einem Staat oder Unternehmen gegen feste Zinsen gibst. Sicherer als Aktien; steigen die Zinsen, fällt der Kurs bestehender Anleihen.
+7996ef	Kaufe Staatsanleihen; du erhältst jedes Jahr Kupons.
+d01260	Deine Anleihen, ihr Zinssatz (Kupon) und ihre Fälligkeit.
+e4d2e1	Du erhältst Zinsen bis zur Fälligkeit oder bis du sie verkaufst.
+db2d23	Der Devisenmarkt ist der größte der Welt: rund 7,5 Billionen Dollar pro Tag. Der Preis einer Währung gegenüber einer anderen ändert sich durch Zinsen, Inflation und Kapitalströme.
+17c775	Kaufe und verkaufe Fremdwährungen; schütze dein Geld vor Abwertung oder spekuliere.
+0dbde4	Deine Währung in eine andere tauschen. Sparen in einer harten Währung schützt vor Abwertung, kostet aber Umtauschgebühren.
+aeb81d	Handle Währungen mit ihrer Geld-Brief-Spanne.
+e896ab	Die Zinssätze jedes Landes und ihre Währungen. Geld fließt dorthin, wo es mit weniger Risiko mehr bringt (Carry Trade).
+daca62	Überblick über Zinsen und Wechselkurse.
+87670f	Die Märkte reagieren auf Unternehmensergebnisse, Wirtschaftsdaten, Zentralbankentscheidungen und politische Ereignisse.
+ad7689	Aktuelle Nachrichten, die Kurse bewegt haben.
+e75595	Börsen senden Kurse über ein Laufband (Ticker). Grün steigt, Rot fällt.
+ba53b9	Wähle, welchen Markt und welchen Zeitraum du in der Leiste siehst.
+087d77	Banken verwahren Einlagen und verleihen sie; sie verdienen an der Spanne zwischen dem, was sie verlangen, und dem, was sie zahlen. Es gibt Genossenschaftskassen, Regional-, National- und internationale Banken sowie systemrelevante Riesen.
+c06eea	Eröffne Konten, beantrage Kredite, leg in Fonds an oder gründe deine Bank.
+a82950	Verzinste Bankeinlagen. Kleine Banken zahlen meist mehr, gehen aber öfter pleite; die Einlagensicherung deckt bis zu einem bestimmten Betrag pro Bank.
+89d855	Zahl ein und heb ab. Verteile dein Geld auf mehrere Banken, um die Sicherung nicht zu überschreiten.
+28d86c	Verzinste Kredite. Der Zins hängt von deiner Kreditwürdigkeit, deinem Einkommen und deinen Sicherheiten ab. Eine gute Bonität öffnet günstigere Kredite.
+a74774	Beantrage einen Kredit nach deiner Zahlungsfähigkeit.
+2e60f9	Ein professioneller Verwalter legt das Geld vieler Menschen gegen eine Gebühr an. Es gibt Aktien-, Renten-, Misch- und Hedgefonds.
+6ed91b	Leg in Fonds mit unterschiedlichem Risiko und Gebühren an.
+14ec15	Eine Bank zu gründen erfordert viel Kapital und eine Lizenz der Aufsicht. Die Bank verleiht ein Vielfaches ihres Kapitals (Hebel), daher kann sie sehr profitabel sein oder bei einem Bank-Run pleitegehen.
+180410	Gründe und führe deine Bank: lege Zinsen, Kapital und Risiko fest.
+637dab	Eine Bewertung (in vielen Ländern von 300 bis 850), die misst, wie zuverlässig du zahlst. Pünktliches Zahlen hebt sie; Verzug drückt sie über Jahre.
+d6cb57	Bestimmt, wie viel man dir leiht und zu welchem Zins.
+8c5109	Ein öffentlicher Fonds, der deine Ersparnisse bis zu einer Grenze erstattet, wenn deine Bank pleitegeht. Verhindert Bank-Runs.
+a16daa	Deckt deine Einlagen pro Bank bis zur Obergrenze.
+2d99d1	Die Gesamtheit der Banken, Fonds und Aufsichtsbehörden eines Landes. Fallen die Banken, friert der Kredit ein und die Wirtschaft gerät in die Rezession (2008).
+526e28	Stabilität der Banken des Landes, Bankenkrisen und Hilfe von IWF und Weltbank.
+e8cfc2	Wie gut kapitalisiert und gesund die Banken sind. Unter einem bestimmten Niveau steigt das Risiko einer Bankenkrise.
+ccb952	Sinkt sie stark, kann eine Krise ausbrechen.
+38a3d0	Der Internationale Währungsfonds leiht Ländern in der Krise Geld gegen Auflagen (Sparkurs, Reformen). Er hilft zu stabilisieren, ist aber meist unbeliebt.
+b10cc7	Geld für die Staatskasse in der Krise, mit Auflagen.
+9bf7b4	Staatsausgaben kürzen, um Defizit und Schulden zu senken. Schafft Vertrauen bei Gläubigern, kann aber die Wirtschaft bremsen und Proteste auslösen.
+5e12ea	Weniger Ausgaben, weniger Zustimmung, mehr Vertrauen.
+583b5a	Einnahmen, Ausgaben, Ersparnisse, Schulden und Steuern. Die Grundregel: weniger ausgeben, als du verdienst, und die Differenz anlegen.
+f8dc23	Dein persönlicher Kontoauszug.

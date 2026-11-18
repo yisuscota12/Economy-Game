@@ -1,0 +1,323 @@
+4366df	Salon müdürü
+8c8e10	Servis ve şarap kursu
+b19c39	Restoranlar
+dfe4b8	Şef garson
+9f8dcb	Yarı zamanlı garson
+00917b	Kalifiye işçi
+25db75	Hat şefi
+74eafc	İmalat
+94f5cd	Fabrika müdürü
+f2be78	İşçi
+feaa5e	Forklift ve iş güvenliği sertifikası
+5f47dd	Bölge müdürü
+5fb2e4	Satış sertifika programı
+8784c7	Kıdemli satış elemanı
+91a608	Mağaza müdürü
+3e14b9	İnşaat yeterlilik belgesi
+45ce87	Usta
+722636	İnşaat
+8a029f	Amele
+b940ba	Şantiye şefi
+1854d3	Gündelikçi
+9a507e	Üretici
+9c0347	Tarım
+b6ea8f	Sulama ve hassas tarım kursu
+fec8e2	Kendi arazisi olan üretici
+1faabc	Ofis yazılımları ve muhasebe sertifikası
+317e4f	İdari asistan
+47eabc	Alan koordinatörü
+4e83ca	Ofis şefi
+2caf0b	Kamu yönetimi sertifika programı
+847b37	Kamu
+9960c9	Yardımcı
+85b776	Kamu güvenliği
+95f50e	Komiser yardımcısı
+bb20c5	Emniyet müdürü
+e396cc	Polis akademisi kursu
+ecc8ab	Kıdemli polis
+029afd	Teknik şef
+301b0e	Uzmanlık teknik sertifikası
+8d5ff3	Uzman teknisyen
+2b1326	Eğitim yüksek lisansı
+76e452	Akademik koordinatör
+b16d01	Kadrolu öğretmen
+ca7665	Okul müdürü
+ebafca	Sözleşmeli öğretmen
+1e6ae7	Yazılım mimarı
+263cf3	Kıdemsiz yazılımcı
+2a3192	Teknik lider
+72d6e9	Kıdemli yazılımcı
+d28d03	Bulut sertifikası
+46a7e8	Proje yönetimi sertifikası
+7e2469	Kıdemsiz mühendis
+8c3f49	Kıdemli mühendis
+f4762a	Mühendislik müdürü
+011605	Kıdemsiz avukat
+0398bf	Kıdemli avukat
+1f4f0f	Büro ortağı
+7140d8	Hukuk hizmetleri
+b76cc3	Hukuk yüksek lisansı
+e33833	Stajyer avukat
+5d4a06	Servis şefi
+7ab414	Uzman hekim
+894f03	Pratisyen hekim
+c88e92	Servis şef yardımcısı
+cc35c0	Tıpta uzmanlık (asistanlık)
+1f4928	Mesleki eğitim kursu
+282819	Sorumlu
+2cd4fa	Süpervizör
+17fdcf	Gündüz
+824b8c	Gece
+8fa6b9	Vardiyalı (her hafta değişir)
+af15e6	Karma
+86df48	Çok yüksek
+bb90d1	Düşük
+f46edd	Yüksek
+04251e	Normal
+e18540	Fazla mesai
+f58f80	En az
+a34683	Meslek becerisi
+aa3ec4	Patronla ilişki
+e201ca	Çalıştığın saatler
+55230a	Kıdem
+90499f	Sertifika
+fed9ee	Stres
+619554	sendikalı
+13c296	İş arkadaşları
+7f57e4	Pozisyon
+9a5b79	Koşullar
+0da43f	Toplam deneyim
+502edc	Beceri
+598c7e	Uyarılar
+866e28	Kalan izin
+971fe4	Vardiya
+ccf106	Meslek riski
+1c77d4	Yasal çalışma süresi
+990919	İkramiye
+35fe5f	Kayıt dışı istihdam
+73bb98	Kıdem tazminatı
+8f52ef	İşin
+dce00f	Sendika üyeliği
+5ddc89	Ücretli izin
+2cd097	İkramiye veya ek maaş
+8f25e2	İşten çıkarma tazminatı
+892af6	Sendikalar
+211eb2	Kayıtlı ya da kayıt dışı
+5f8c85	İş stresi
+109b47	Performans
+110729	performans
+7c2374	PERFORMANS
+4db381	Kariyer basamakları
+4f6653	kayıtlı iş
+8a6ade	kayıt dışı iş
+44db32	Kariyer
+b7be52	Yıllık maaş
+3a0b96	Çalışma saatleri
+79bd0e	Eylemler
+34eb65	Patronun
+52a3e8	Ekibin
+8c161b	Değerlendirmeler
+086bff	mükemmel
+87b88f	iyi
+5f51ef	orta
+0d9c30	zayıf
+e033af	nazik
+859738	dedikoducu
+d0f165	çalışkan
+809f9a	tembel
+c17e7c	mentor
+a24cb9	🔥 Tükenmişliğin eşiğindesin: saatlerini azalt ya da izin al.
+1082fd	🩹 İşte yaralanıyorsun.
+5d3f81	🚑 İş kazası geçiriyorsun. İyileşiyorsun ama izleri kalıyor.
+6a370f	📋 Altı aylık değerlendirme: {0}/100, iyi. Zam: %{1}.
+862f07	📋 Altı aylık değerlendirme: {0}/100, orta. Zam yok.
+ba807c	📋 Altı aylık değerlendirme: {0}/100, zayıf. Yazılı uyarı alıyorsun (2 üzerinden {1}).
+f759b8	📋 Altı aylık değerlendirme: {0}/100, mükemmel. {1} prim ve %{2} zam.
+38f462	📄 {0} seni işten çıkarıyor. {1} tazminat alıyorsun (ülkenin yasası: {2} gün artı çalışılan her yıl için {3}).
+c504b9	📄 {0} seni işten çıkarıyor. Ülkenin yasası tazminat ödemeyi zorunlu kılmıyor.
+e1def0	📄 {0} seni işten çıkarıyor. İş kayıt dışı olduğu için tazminat alamıyorsun.
+09a3ff	📢 {1} şirketinde {0} pozisyonu açıldı: şirket büyüyor.
+956c00	📢 {1} şirketinde {0} pozisyonu açıldı: biri emekli oluyor.
+b5fb67	📢 {1} şirketinde {0} pozisyonu açıldı: biri kovuldu.
+d7fbcb	📢 {1} şirketinde {0} pozisyonu açıldı: biri istifa etti.
+233972	Zaten başvurdun.
+9f69b8	O pozisyon için gerekenler: {0}.
+15c3eb	🎉 Terfi ediyorsun: {0}. Maaşın yılda {1} oluyor.
+4cd1d1	{0} pozisyonu rakibin {1} kişisine veriliyor. Artık patronun o.
+099a0f	{0} pozisyonu başka birine veriliyor.
+83f5d2	{0} pozisyonuna dışarıdan biri alınıyor.
+93ca0a	📨 {0} sana %{2} daha yüksek maaşla {1} olarak iş teklif ediyor.
+a4531b	{0} sana %{2} daha yüksek maaşla {1} olarak iş teklif ediyor.
+7f73dc	Kabul ediyorsun. {0} şirketinde {1} olarak yılda {2} maaşla başlıyorsun.
+e36383	Patronun baskıdan hoşlanmıyor. Zam yok ve ilişki soğuyor.
+eb05a6	Patronun seni kaybetmek istemiyor: maaşına %{0} zam yapıyor.
+6d4e8b	Kısa süre önce zam istedin: bir yıl bekle.
+94c1d4	Patronun kabul ediyor: maaşın %{0} artıyor.
+848773	Patronun şimdilik hayır diyor.
+cc38c7	Başlıyorsun: {0}. {1} ay sürüyor ve {2} tutuyor.
+5cc68c	Bu yıl izin günün kalmadı.
+0421de	{0} gün ücretli izin kullanıyorsun. Dinlenmiş dönüyorsun.
+63f5a6	{0} gün ücretsiz izin alıyorsun (kayıt dışı işte ücretli izin yok).
+15bec4	Sendikadan ayrılıyorsun.
+faa5df	Sendikaya üye oluyorsun. Aidat maaşının %1’i.
+2484e8	{0} ile yemek yiyorsun. Seni bütün dedikodulardan haberdar ediyor.
+629a4e	{0} ile yemek yiyorsun. Daha iyi anlaşıyorsunuz.
+7e316d	{0} ile yemek yiyorsun. Mesleğin püf noktalarını paylaşıyor.
+387c03	Masada zaten bir teklifin var.
+db66b9	Başvurular gönderiyorsun ama şimdilik kimse aramıyor.
+88b9bf	🎄 İkramiye: {0} alıyorsun (yasal olarak {1} günlük maaş).
+c68240	🎄 Yasal ek ödemeler: {0} alıyorsun (yılda {1} günlük maaş).
+0b6904	🤝 Sendika toplu sözleşmeyi imzalıyor: genel zam %{0}.
+e0d6ff	Vardiya değişimi
+b6ccc3	{0} seni koridorda durduruyor: «Cumartesi vardiyamı alır mısın? Erteleyemeyeceğim bir aile işim var».
+0f1170	Cumartesin gidiyor ama gerçekten minnettar. Artık sana bir borcu var.
+574d5a	Vardiyayı almak
+2122b9	Kibarca reddetmek
+991339	Anlıyor ama hayal kırıklığı belli oluyor.
+3d5ff0	Sonra senin bir gününü alması şartıyla kabul etmek
+518a03	Ona iyiliği karşılık beklercesine yapıyorsun gibi geliyor ve kızgın gidiyor.
+af570f	Anlaştınız: günleri değişiyorsunuz ve ikiniz de memnunsunuz.
+db2a1e	İşten çıkarma söylentileri
+0ebecc	{0} şirketinde işten çıkarma olacağı söyleniyor. Patronun {1} her zamankinden ciddi.
+0aac23	Fazla mesai yapmayı teklif etmek
+6753ba	Patronun istekliliğini not ediyor. Daha çok çalışacaksın ama vazgeçilmez görülüyorsun.
+0ce6ae	Durumunu öğrenmek için patronla konuşmak
+3be889	Soruyu geçiştiriyor. Şüpheyle ve daha stresli kalıyorsun.
+f99eb2	Pozisyonunun risk altında olmadığını teyit ediyor. Rahatlıyorsun.
+42e9d9	Ne olur ne olmaz diye başka şirketlere başvurmak
+77c735	Özgeçmişini güncelliyor ve başvurular gönderiyorsun.
+f32c32	Aşağılayıcı muamele
+f2ee92	Toplantının ortasında {0} herkesin önünde işinle alay ediyor. İlk kez değil.
+959bb5	Öfkeni yutuyorsun. Stres birikiyor.
+5fd72c	Patronla özel konuşmak
+990b9d	Sakince bunun doğru olmadığını söylüyorsun. Yarım ağızla özür diliyor ama bir daha olmuyor.
+e6eb06	Savunmaya geçiyor ve hiçbir şeye dayanamadığını söylüyor.
+c71486	Yeterli kanıt olmadığı için şikâyet sonuçsuz kalıyor ve patronun öğreniyor.
+dab6cc	İnsan kaynakları soruşturma açıyor ve uyarı alıyor. İş arkadaşların sana daha çok saygı duyuyor.
+f71b65	Kanıtlarla insan kaynaklarına bildirmek
+408e05	İş yerinde sendika yok
+870300	Sendika temsilcisi şirketle konuşuyor. Muamele düzeliyor.
+cc15f4	Sendikaya başvurmak
+08283d	Ofis dedikodusu
+b24f2e	{0} biri şirketten ayrılacağını söylüyormuş diyor. Birçoğu şimdiden inanmış.
+3fdebb	Herkesin önünde yalanlamak
+58bd81	Seni etkilediği belli oluyor ve dedikodu büyüyor.
+995b0c	Esprili bir dille açıklıyorsun ve dedikodu sönüyor.
+d2fc17	Birkaç hafta içinde kimse hatırlamıyor.
+526b90	Yan departmandan biri olduğunu öğreniyorsun. Bildiğini belli ediyorsun.
+676f17	Fazla soru soruyorsun ve artık dedikodu konusu sensin.
+9075a6	Kimin başlattığını bulmak
+a40673	Acil proje
+0f0f7f	{0} seni odasına çağırıyor: «Cumaya acil bir projemiz var ve onu senin yürütmeni istiyorum».
+1cf670	Kabul etmek
+d6ce4f	Bütün hafta geç saatlere kadar çalışıyorsun ama zamanında teslim ediyorsun. Patronun etkileniyor.
+21751c	Müsait kimse yok. Tek başına, var gücünle bitiriyorsun.
+7d2d82	Sana ekipten birini veriyorlar. İş iyi gidiyor, fazla uykusuz kalmadan.
+e3601f	Destek verilirse kabul etmek
+054357	Gerekçelerle reddetmek
+564838	Ona bahane gibi geliyor.
+c19c2f	Şu an iyi yapamayacağını açıklıyorsun. Anlıyor ve başkasına veriyor.
+7fd8ed	Sıradan bir işin yok. Kariyer → İstihdam bölümünden bir iş bul.
+7bc0ce	Sonraki değerlendirme {0} ay sonra.
+c84cc5	Sonraki değerlendirme 1 ay sonra.
+28ab8f	Daha az stres, ama performansın düşüyor ve patronun bunu fark ediyor.
+4648d2	Daha yüksek performans, daha çok stres. Senin durumunda fazla mesai zamsız ödeniyor.
+7105a6	Daha yüksek performans, daha çok stres. Fazla mesai normal saatin {0}× katı ödeniyor.
+96710b	Mesaini kendini fazla yıpratmadan dolduruyorsun.
+2708e1	1 ay içinde kapanıyor.
+6f1419	{0} ay içinde kapanıyor.
+beacbe	Pozisyonu alma ihtimali: %{0}.
+aa7d56	1 ay içinde sona eriyor
+472b97	{0} ay içinde sona eriyor
+2062de	bir yıl bekle
+0c5269	ücretsiz (kayıt dışı iş)
+4520af	bu yıl gün kalmadı
+a31a5d	🏖️ Bir hafta izin almak
+df46d5	{0} ücretli günün kaldı
+51d050	paran yetmiyor
+7729ce	💼 Sertifika
+e0c6cb	{0} olmak için gerekli
+e10e5b	+6 performans
+2984dc	✊ Sendikaya üye olmak
+7f7034	maaşının %1’ini ödüyorsun
+cf7925	✊ Sendikadan ayrılmak
+fd31ac	aidat: maaşının %1’i
+bd950e	haftada {0} saat
+f7ba87	normal saatin {0}× katı
+173daa	{0} günlük maaş
+dcd595	ilk yıl {0} gün
+e312e9	yılda {0} gün (ek ödemeler)
+ed2304	ilk yıl {0} gün (kıdemle artar)
+f9f0f9	zorunlu değil
+31ea26	zorunlu değil
+c4b6f6	kayıtlı, sosyal güvenceli
+d3af34	çalışanların %{0}’i
+dde865	{0} gün artı çalışılan her yıl için {1}
+e29e4f	yaklaşık %{0}
+529ced	İşin kayıtlı olduğu için yasanın öngördüğü haklara sahipsin: ücretli izin, ikramiye ve haksız yere kovulursan tazminat.
+682191	Kayıt dışı işte sözleşme yok: prim ödemiyorsun, ücretli iznin ve ikramiyen yok, kovulursan tazminat alamazsın.
+50a988	Teklifi reddediyorsun.
+286141	💼 İşin
+9e7b7b	İşini kaybettin. Kariyer → İstihdam bölümünden yenisini bul.
+63488f	📋 Değerlendirme
+9d2db4	Saat durdu: değerlendirmeni 💼 İşin bölümünde incele.
+a70d60	📨 İş teklifi
+bff4ac	Saat durdu: bir iş teklifin var.
+ccce29	Saat durdu: iş yerinde açık bir pozisyon var.
+7d9ab7	Performansın her ay {0} değerine yaklaşıyor. Etkileyenler:
+97296d	📢 Açık pozisyon: {0}
+cfa60f	📨 {0} teklifi
+16b88b	%{1} daha yüksek maaşla {0}
+e52c6f	🎓 Zaten sahipsin: {0}.
+fa120d	🎓 {0}: {1} kaldı.
+4be2f6	İlişki {0}/100
+8d3e18	ilişki {0}/100
+4fc176	performans {0}
+b5761e	{0} yasaları ve koşulları (yaklaşık, 2025–2026).
+3d81af	zam %{0}
+502e4f	{0}–bugün
+b35e9d	2 üzerinden {0}
+1423bf	✋ Başvurmak
+e9d1a1	Pazarlık için kullanmak
+20dc80	💰 Zam istemek
+353edb	yılda bir
+863a31	🔎 Başka iş aramak
+5bea79	başka şirketlere başvuruyorsun
+518bda	Birlikte vakit geçirmek ilişkiyi güçlendirir ve stresini azaltır. Rakibin terfiler için seninle yarışıyor.
+2aece1	⚔️ rakip
+50d80e	🍽️ Birlikte yemek
+ee5221	zorunlu zam yok
+1706b4	kayıt dışı, yan haklar yok
+a03b21	Bu işteki maaş
+0cf8d9	Grafik bu işte iki yılını doldurunca görünür.
+7ae45a	🟡 Maaş (nominal)
+2729f1	🔵 Reel maaş (enflasyondan arındırılmış)
+fd1c92	Henüz değerlendirmen yok.
+a8acb5	İş geçmişi
+779c52	📢 açık pozisyon
+119910	📨 teklif
+1fc588	📢 Açık pozisyon
+8d8938	📄 İşten çıkarılma
+d150e6	💼 Başvurmak
+16429c	💼 Zam istemek
+0dd6ea	💼 İzin
+6c2c95	💼 Sendika
+883b4e	💼 İş aramak
+4207cd	💼 Teklif
+98cdac	💼 Kaynaşmak
+94ca96	{0} Belediyesi
+66ac7f	{0} Eyalet Ofisi
+fa33b4	{0} İlçe Müdürlüğü
+231b63	{0} Belediye Polisi
+d350d6	{0} Eyalet Polisi
+134845	{0} İlkokulu
+ebc6e8	{0} Teknik Ortaokulu
+f428af	{0} Devlet Hastanesi
+c8f710	{0} Tıp Merkezi
+77c56e	Başvurmak
+98bdfa	Sendika
+db5a60	İş aramak
+70285d	Teklif
+69bde7	💼 Sıradan işler
+756e3b	Sıradan işler
+f9876f	zorunlu değil (şirketin yılda {0} gün veriyor)

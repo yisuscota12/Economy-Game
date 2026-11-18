@@ -1,0 +1,1227 @@
+543e35	Du erreichst die Spitze der Politik: Du wirst zur Regierungssekretärin ernannt ({0}). (Lebensmodus: Die KI führt das Land.)
+b59a8f	Du erreichst die Spitze der Politik: Du wirst zum Regierungssekretär ernannt ({0}). (Lebensmodus: Die KI führt das Land.)
+379e6b	Du bist Staatsoberhaupt ({0}). Du bist {1} Jahre alt.
+b661c6	Du bist Staatsoberhaupt ({0}). Du bist {1} Jahre alt.
+21bdeb	Nachfolge ({0}): {1} übernimmt die Regierung.
+25ceef	Stimmung
+32ddef	🤝 Du erwiderst oder schuldest {0} einen Gefallen
+cbce37	🤝 {0} schuldet dir einen Gefallen
+9def5f	Nicht verfügbar
+7fd0b6	Dein Partner
+32be24	{0} wartet wach auf dich.
+6d4dda	{0} wartet wach auf dich.
+b61bdd	„Ich sehe dich kaum noch, und wenn du da bist, bist du mit dem Kopf woanders.“
+c6e6f7	Die Schulden lasten auf dem Zuhause.
+e77d31	Die Beziehung steht bei {0}/100.
+55e1cf	Zuhören, ohne zu unterbrechen
+65378a	Du versuchst es, verteidigst dich aber mitten im Satz.
+8f67e5	Fühlt sich gehört und entspannt sich. Ihr redet bis spät in die Nacht.
+b41143	Ein Abend des Zuhörens
+272169	Das Geld reicht nicht
+529897	Wochenende zu zweit
+6d1946	Zwei Tage ohne Handy. Ihr kommt enger verbunden zurück.
+d0e544	Ein Wochenende zu zweit vorschlagen ({0})
+1d97b6	Klingt wie eine Ausrede. Das Gespräch kühlt ab.
+54980c	Erklären, dass du für die Familie arbeitest
+75bfc7	Versteht deine Gründe, wünscht sich aber mehr Anwesenheit.
+ddd9ff	„Immer eine Ausrede“
+8dd267	Tage später sagt {0} es klar: „Wir brauchen Hilfe … oder wir trennen uns“.
+3881b1	Paartherapie
+eabc58	Die Sitzungen tun weh, aber sie wirken.
+378f48	Um Bedenkzeit bitten
+e27714	Willigt ein, aber die Distanz wächst.
+2c77ba	Du trennst dich von {0}.
+4463e2	Sich trennen
+7f6bab	Ihr trennt euch. Im Haus wird es still.
+f01a34	Deine Kinder
+130c88	{0} ({1} Jahre) kommt mit dem Zeugnis: Mathe nicht bestanden. {2}
+9df750	Das überrascht dich.
+d3b597	Es ist nicht das erste Mal.
+172dea	Gemeinsam gelernt
+9eb73a	{0} wird nach und nach besser. Man sieht es an den Noten und an den Blicken.
+e6527d	Jede Woche mit {0} lernen
+f6b5d2	Du brauchst 10 freie Tage
+00735e	Nachhilfelehrer engagieren ({0})
+378bc1	Der Lehrer ist gut. Der Schnitt steigt.
+048948	Die Standpauke
+44f5ff	Schließt sich im Zimmer ein. Spricht tagelang nicht mit dir.
+4fb3a8	Nimmt es ernst. Wird etwas besser.
+dae62a	Schimpfen und das Handy wegnehmen
+4b4fac	Fühlt sich verstanden, aber in der Schule ändert sich nichts.
+4d85da	Nicht so wichtig nehmen
+b7ed39	Fühlt sich verstanden, aber in der Schule ändert sich nichts.
+1253f3	Dein Vater, {0} ({1} Jahre), ruft an: Der Arzt hat etwas gefunden und will Untersuchungen in einer Privatklinik ({2}). Im öffentlichen System dauert es Monate.
+912460	Deine Mutter, {0} ({1} Jahre), ruft an: Der Arzt hat etwas gefunden und will Untersuchungen in einer Privatklinik ({2}). Im öffentlichen System dauert es Monate.
+05a470	Alles bezahlen ({0})
+465890	Das Problem wird rechtzeitig erkannt. Deine Familie vergisst es nicht.
+e264dd	Du hast die Untersuchungen bezahlt
+00f1df	Die Kosten mit deinen Geschwistern teilen
+362e46	Du hast keine Geschwister
+4de522	Die Familie hält zusammen
+a3a72f	Alle zahlen gemeinsam. Die Familie rückt zusammen.
+d13b49	Bitten, auf das öffentliche System zu warten
+f3ba13	Willigt ohne Klage ein. Dir bleibt der Zweifel.
+6966d6	Nach {0} Monaten Wartezeit wird {1} endlich untersucht. Es war behandelbar: rechtzeitig. (Die Wahrscheinlichkeit hing vom Gesundheitssystem ab ({2}): Lebenserwartung {3} Jahre.)
+bb4884	Die Wartezeit war zu lang. Als {0} behandelt wird, ist die Therapie schon härter. Ein stiller Vorwurf an dich.
+2ba304	Ihr verbringt Zeit miteinander.
+4b5f90	Öfter zu Besuch kommen
+2238af	Alles wird wieder normal.
+72c9d9	Dein Leben weiterführen
+9f9b45	Die Schuld begleitet dich eine Weile.
+35b526	Deine Geschwister
+3a8e20	{0}, deine Schwester, bittet dich um {1}, um ein Geschäft zu eröffnen. Verspricht, es in einem Jahr zurückzuzahlen.
+4a0503	{0}, dein Bruder, bittet dich um {1}, um ein Geschäft zu eröffnen. Verspricht, es in einem Jahr zurückzuzahlen.
+415504	Du hast Geld verliehen
+4ca5bc	Leihen
+f17bcf	Eine Umarmung. „Du wirst es nicht bereuen.“
+8ea008	Du verstehst die Zahlen nicht ganz und bleibst unsicher.
+da5e49	Den Businessplan sehen wollen
+e48649	Ihr geht ihn gemeinsam durch.
+0c7176	Versteht es. Mehr nicht.
+2fc018	Taktvoll ablehnen
+7855d5	Ist gekränkt. „Für Fremde hast du Geld.“
+d1553b	Du hast nichts verliehen
+58d6f3	Der Plan hat Lücken: aufgeblähte Umsätze und keine Rücklagen. Eigenschaft von {0}: {1}.
+f895a5	Der Plan ist solide: feste Kunden, realistische Kosten. Eigenschaft von {0}: {1}.
+19d757	Erledigt. Jetzt heißt es warten.
+37b77b	Trotzdem leihen
+74d84f	Die Hälfte leihen und beraten
+fb281a	Nimmt deine Hilfe an. Ihr passt den Plan gemeinsam an.
+0a32c8	Nicht leihen
+d1983b	Bedauert es; der Plan war gut.
+d861de	Du erklärst die Lücken. Widerwillig wird es eingesehen.
+8def48	Das Darlehen
+39eb77	Vor einem Jahr hast du {1} {0} geliehen.
+70cb1c	Bittet um mehr Zeit: Das Geschäft kommt nicht in Gang.
+7582a6	Kommt mit einem Umschlag: zahlt alles zurück, plus 5 % extra.
+1c38ca	Klare Rechnung, gute Freundschaft.
+7be2ff	Schuld beglichen
+0e4447	Bedankt sich für deine Geduld.
+511ca4	Noch sechs Monate geben
+028eb9	Verkauft, was geht, und zahlt dir die Hälfte.
+0e1395	Ihr streitet heftig. Zahlt dir nichts zurück.
+5910d4	Die Rückzahlung verlangen
+a0b991	Du hast die Rückzahlung verlangt
+af2909	Streit ums Geld
+5872be	Die Schuld erlassen
+88025f	Du hast die Schuld erlassen
+949ff7	Die Stimme bricht. Wird es nie vergessen.
+8d17d5	Deine Freunde
+14f069	{0} hat den Job verloren (die Wirtschaft ({1}) steckt in der Rezession). Ruft an und bittet um Hilfe.
+a74c18	{0} hat den Job verloren. Ruft an und bittet um Hilfe.
+067e6a	Du hast empfohlen
+0edf00	Bei deiner Arbeit empfehlen
+2862cf	Du brauchst einen Job und Einfluss 20+
+b0a7ce	Bekommt ein Vorstellungsgespräch. Bleibt auf Probe.
+2e46c9	Für die Miete leihen ({0})
+84e436	Atmet erleichtert auf. Verspricht, es zurückzuzahlen.
+f8b87c	Das Geld reicht nicht
+28868f	Beim Lebenslauf und mit Kontakten helfen
+74aaa3	Ihr verbessert das Profil und du stellst zwei Leute vor.
+c0768a	Du brauchst 5 freie Tage
+f8cdfa	Du hast bei der Jobsuche geholfen
+6f1691	„Jetzt kann ich nicht“
+701bd4	Versteht es … wird sich aber erinnern.
+f3a77e	Deine Empfehlung
+0ef0cc	{0} ({1}) hat nicht lange durchgehalten: kam zu spät und stritt mit einem Kunden. Dein Chef sieht dich jetzt anders an.
+67d0c9	{0} hat sich bei der Arbeit hervorragend gemacht. Dein Chef bedankt sich: „Du hast ein gutes Auge“.
+dec003	Dein Wort zählt mehr im Unternehmen.
+e415d7	Du lernst, vorsichtig zu empfehlen.
+91f7ee	Ein offener Gefallen
+420caa	Dir fehlt Geld.
+5a3f2e	Du bist arbeitslos.
+8b1b14	{0} schuldet dir {1} Gefallen.
+8e3a63	{0} schuldet dir einen Gefallen.
+cf6dd7	Forderst du ihn ein?
+0b9e14	Zieht für dich die Fäden: öffnet Türen.
+bdf022	Um eine berufliche Empfehlung bitten
+f13f2a	Du hast einen Gefallen eingefordert
+18a68d	Leiht ohne Fragen.
+aecd60	Geld leihen ({0})
+ad3462	Um politische Unterstützung bitten
+d32cc9	Spricht in seinem Umfeld gut über dich.
+de585e	Nur wenn du in der Politik bist
+50934d	Ein aufgehobener Gefallen ist Macht.
+dad6ae	Den Gefallen für später aufheben
+858c3d	Ein Groll
+11b1d8	Groll: {0}.
+ba92de	Du erfährst, dass {0} seit jenem Vorfall schlecht über dich redet: „{1}“.
+d4dcfe	Du erfährst, dass {0} schlecht über dich redet.
+05bac6	Ihr sagt euch alles. Etwas löst sich.
+080d34	Ihr habt euch versöhnt
+70dc9f	Es endet schlimmer: Jetzt wird es laut ausgesprochen.
+d54a8e	Unter vier Augen reden
+17753f	Deine Version überzeugt mehr.
+554930	Es wirkt wie ein Nachbarschaftsstreit. Du verlierst an Ansehen.
+dcca38	Öffentlich antworten
+b9975f	Nimmt an. Das Eis schmilzt.
+fa47eb	Ein Geschenk und eine Entschuldigung ({0})
+11e0c1	Das Gerücht nimmt seinen Lauf.
+0ebfbb	Eine Einladung
+df4081	Du wirst zu einem privaten Abendessen mit Unternehmern und Politikern eingeladen. Neben dir sitzt {0}, {1} Jahre, aus der Geschäftswelt.
+09f6b5	Ihr tauscht Nummern. Lädt dich zu einem weiteren Treffen ein.
+1cd67c	Plaudern und einen guten Eindruck machen
+50e211	Das Abendessen
+a3d5dd	Höfliches Gespräch, mehr nicht.
+465651	Bemerkt deine Eile. Wechselt das Thema.
+83525f	Über Geschäfte reden
+a6970f	{0} wird hellhörig: „Ich hätte da etwas, bei dem du einsteigen könntest“.
+06b32c	Du bleibst zu Hause.
+5d87d4	Eine Gelegenheit
+087275	{0} bietet dir an, bei einem Immobilienprojekt einzusteigen: {1}, erwartete Rendite von 25 % in zwei Jahren. „Nur für Freunde.“
+21aaa4	Die Unterlagen sind in Ordnung: Genehmigungen, Grundstück, Baufirma.
+37be86	Etwas ist seltsam: Das Grundstück gehört nicht der Firma.
+980143	Die Unterlagen anfordern und prüfen
+bb3c4a	Es sind viele Seiten. Es wird nicht klar.
+2395cb	Ohne Prüfung einsteigen
+9d1aaa	Du unterschreibst. Jetzt heißt es warten.
+34e8ea	Du bedankst dich. Ihr bleibt auf gutem Fuß.
+84cd4d	Du unterschreibst.
+b6f2b0	Steigst du ein?
+318c94	Deine Investition
+24c0aa	Das Projekt ist geplatzt: fehlerhafte Genehmigungen. Du bekommst {0} von {1} zurück. {2} ({3}) geht nicht mehr ans Telefon.
+7d4492	Das Projekt wurde verkauft. Du erhältst {0} ({1} % Gewinn). {2} hat Wort gehalten.
+7ade64	Die gescheiterte Investition
+a2d208	Die Investition hat sich gelohnt
+d8994d	Teure Lektion.
+d94198	Gutes Geschäft.
+39221e	{0}, deine Chefin, bittet dich, diesen Monat an den Wochenenden zu arbeiten. Ohne Zusatzlohn.
+a5b196	„Mit der Rezession gibt es kein Budget.“
+b6bcf0	{0}, dein Chef, bittet dich, diesen Monat an den Wochenenden zu arbeiten. Ohne Zusatzlohn.
+24b0a2	Du hast an den Wochenenden gearbeitet
+3d8b7d	Wird bemerkt. Hält dich für zuverlässig.
+06e3fc	Willigt ein, doppelt zu zahlen. Respektiert, dass du verhandeln kannst.
+d4a4a6	„Das ist vorübergehend, mach es nicht kompliziert.“ Ist verärgert.
+594264	Du hast abgelehnt
+9a2046	Sagt nichts. Merkt es sich aber.
+c7741c	Willigt widerwillig ein.
+0f2b84	Beförderungsgespräch
+64e1c5	Eine Führungsstelle wird frei. Gespräch mit dem Ausschuss unter Vorsitz von {0}. Erste Frage: „Was wäre Ihre erste Änderung?“
+e0f562	(Deine zusätzlichen Wochenenden sprechen für dich.)
+12a780	Deine Zahlen gehen nicht ganz auf.
+c30fd8	Kosten mit Daten senken
+e9517c	Der Ansatz gefällt.
+0b0299	Das Team motivieren und organisieren
+3cb30a	Klingt auswendig gelernt.
+eaea29	Du strahlst Führungsstärke aus.
+407648	„Was die Geschäftsleitung entscheidet“
+6bcfb4	Sichere Antwort, ohne Glanz.
+3b9168	Zweite Frage: „Welche Gehaltsvorstellung haben Sie?“
+8a66cd	Sie nicken.
+398a89	+25 %, mit Marktdaten
+9bc01d	Du bringst Gehaltsstudien mit. Du überzeugst sie.
+a3c040	Sie finden es übertrieben.
+06ca1f	Sie notieren etwas.
+7221a7	„Was Sie anbieten“
+bcee13	Eine Woche später ruft man dich an: Die Stelle gehört dir.
+e583da	Eine Woche später: Sie haben jemand anderen gewählt. Du bekommst schriftliches Feedback.
+b13e4d	Du liest das Feedback: Dir fehlt Erfahrung mit Budgets.
+b2cec1	Beförderung.
+b4cde7	Beförderung zur Führungskraft mit dem gewünschten Gehalt.
+d4bd55	Beförderung zur Führungskraft.
+8be4a3	Im Büro
+e196ea	{0} hat dein Projekt vor der Geschäftsleitung als eigenes vorgestellt.
+2e1ad0	Du hast die Sache offengelegt
+96cd34	Deine Belege sind dünn. Es wirkt wie Neid.
+97aeb0	Die Belege sind eindeutig. Dir wird die Leistung zuerkannt.
+9ef5f9	Dem Chef deine E-Mails und Versionen zeigen
+1c652c	Entschuldigt sich und nennt beim nächsten Meeting deinen Namen.
+391f2a	Leugnet es dir ins Gesicht.
+756647	Unter vier Augen zur Rede stellen
+984e2b	Vorschlagen, beim nächsten zusammenzuarbeiten
+ac6281	Nimmt an. Schuldet dir jetzt einen Gefallen.
+a8c410	Du schluckst deine Wut hinunter.
+9583ad	Ein Angebot
+c3298c	Ein Unternehmer, {0}, bietet dir {1} an, „um eine Genehmigung zu beschleunigen“. Sonst weiß niemand davon.
+6ab0f5	Der Umschlag wechselt den Besitzer.
+f267a2	Du hast das Geld angenommen
+07a7b8	Du hast abgelehnt
+94718f	Geht lächelnd. „Ihr Pech.“
+3e6fff	Nicht genug Beweise. Jetzt hast du einen Feind.
+7b2093	Du nimmst das Gespräch auf. Die Staatsanwaltschaft greift ein.
+9254de	Du hast Anzeige erstattet
+d497af	Mit Beweisen anzeigen
+d18d6d	Die Staatsanwaltschaft
+5d0c49	Die Staatsanwaltschaft ermittelt wegen jener Genehmigung vor einigen Monaten. ({0}, Stabilität {1}: Die Institutionen funktionieren, das Risiko ist hoch.)
+9633ff	Die Staatsanwaltschaft ermittelt wegen jener Genehmigung vor einigen Monaten. ({0}, Stabilität {1}: Die Institutionen sind schwach, es gibt Verhandlungsspielraum.)
+6015c1	Du wirst verurteilt: zwei Jahre Haft.
+8c3dc0	Du wirst wegen Bestechung verurteilt.
+c5fa78	Verfahrensfehler. Der Fall wird eingestellt.
+d05f61	Einen guten Anwalt nehmen ({0})
+a60470	Du lieferst den Unternehmer aus. Du entgehst der Haft, nicht dem Skandal.
+b4addd	Als Zeuge kooperieren
+01cd2a	Du wirst wegen Bestechung und Behinderung der Justiz verurteilt.
+36d775	Die Akte verschwindet.
+649c70	Zahlen, damit die Akte „verschwindet“ ({0})
+6d73d0	Der Staatsanwalt gibt nicht nach: Er fügt eine weitere Straftat hinzu.
+2af16a	{0}, dein Hauptlieferant, erhöht die Preise um {1} % (die Inflation ({2}) liegt bei {3} %).
+498dff	{0}, dein Hauptlieferant, erhöht die Preise um {1} %.
+167c11	Deine Marge schrumpft dieses Jahr.
+a8b0a1	Die Erhöhung akzeptieren
+609451	Menge und Zahlungsziel verhandeln
+88dcaf	Die Erhöhung wird halbiert, gegen feste Bestellungen.
+f786bc	Gibt nicht nach.
+396488	Du brauchst 7 freie Tage
+897e20	Einen anderen Lieferanten suchen
+c85ef2	Du findest einen günstigeren und zuverlässigen.
+d1a66c	Der Neue versagt bei der ersten Lieferung.
+3d387f	Kontrolle
+0e9d1a	Ein Lebensmittelkontrolleur kommt: Er findet Mängel im Lager und bei den Haltbarkeitsdaten.
+93ee61	Eine Lebensmittelkontrolleurin kommt: Sie findet Mängel im Lager und bei den Haltbarkeitsdaten.
+dc7b0f	Du bestehst die neue Kontrolle ohne Probleme.
+f7dec0	Alles beheben ({0})
+8f2d83	Lehnt ab: Der Umschlag macht alles schlimmer. Doppelte Strafe, und es kommt in deine Akte.
+dc4364	„Eine kleine Aufmerksamkeit“ anbieten ({0})
+ded818	Unterschreibt und geht.
+31ff58	Du beweist, dass alles in Ordnung war.
+84b1b1	Mit deinen Unterlagen Einspruch einlegen
+937ae3	Du verlierst den Einspruch und zahlst eine Strafe.
+2ce0a2	TV-Debatte
+a4a4e5	TV-Debatte gegen {0}. Erste Frage: die Wirtschaft (Wachstum {1} %, Inflation {2} %).
+e6b996	TV-Debatte gegen {0}. Erste Frage: die Wirtschaft ({1} steckt in der Rezession: {2} %).
+7b5843	Konkreter Vorschlag mit Zahlen
+a0d4d2	Du verhedderst dich in den Zahlen.
+f9a6db	Klar und glaubwürdig.
+1d9b8f	Du erreichst die Menschen.
+3c6bc2	Klingt hohl.
+4b0309	Emotionale Botschaft über die Familien
+323834	Dir fehlt die Erfahrung zum Regieren
+533a25	{0} greift dich an: „{1}“.
+a84ff3	Die Regierung deines Gegners hat Versprechen gebrochen
+44ea9f	Du lässt deinen Gegner sprachlos zurück.
+731a4f	Wirkt wie ein Streit. Beide verlieren.
+9d7c84	Mit der Bilanz des Gegners kontern
+7824ae	Du wirkst staatsmännisch.
+7b2022	Ruhig und mit Daten antworten
+ef9d73	Korrekt, aber langweilig.
+aeac52	Ignorieren und zu deinem Vorschlag zurückkehren
+ba8c85	Neutral.
+3ad57c	Die Blitzumfragen sehen dich als klaren Sieger der Debatte.
+9b5acb	Die Blitzumfragen sehen dich als Verlierer der Debatte.
+c86160	Die Blitzumfragen zeigen ein Patt.
+64f22c	Generalstreik
+03182e	{0}, Gewerkschaftsführer, fordert 12 % mehr Lohn für den öffentlichen Dienst. Droht mit Generalstreik.
+d423cd	{0}, Gewerkschaftsführer, fordert 12 % mehr Lohn für den öffentlichen Dienst (die Inflation liegt bei {1} %). Droht mit Generalstreik.
+04403c	Der Streik wird abgewendet. Die Staatsausgaben steigen.
+cee0c8	Die 12 % gewähren
+44c291	Einigung unterzeichnet.
+8747eb	6 % und eine Leistungsprämie aushandeln
+bf6517	Die Verhandlungen scheitern. Eine Woche Streik.
+abd488	Generalstreik. Das Land steht zehn Tage still.
+edde32	Ablehnen und das Gesetz durchsetzen
+253411	Ein Leck
+687667	Ein internes Dokument deiner Regierung taucht in der Presse auf. Alles deutet auf {0} aus deinem Kabinett.
+061394	Sofort entlassen
+20c203	Ein Zeichen der Härte. Du verlierst einen Strippenzieher.
+979ecd	Vor dem Handeln ermitteln
+a72987	Die Ermittlungen ziehen sich hin und die Presse zerreißt dich.
+f1484b	Es war ein anderer Beamter. Du schützt die richtige Person.
+40fd40	Vorerst fragt niemand mehr nach.
+7dadb0	Vertuschen
+72e6a9	Die Vertuschung
+bcaccb	Eine Zeitung berichtet, dass du das Leck vertuscht hast. Die Opposition fordert deine Vorladung.
+1449c9	Ehrlichkeit nimmt den Druck raus.
+248141	Du überzeugst nicht.
+4cea7f	Den Fehler auf einer Pressekonferenz eingestehen
+585bf4	Weitere Beweise tauchen auf. Landesweiter Skandal.
+9ade79	Die Nachricht verpufft.
+ae7c82	Ein diskreter Vorschlag
+da5b32	{0}, Botschafter ({1}), schlägt unter vier Augen vor: Investitionen von {2}, wenn {3} fünf Jahre lang in der UNO mit ihnen stimmt.
+9457a0	Die Investition kommt. Deine Außenpolitik ist gebunden.
+0f622d	Ohne Abstimmungszusagen verhandeln
+2c9f5d	Sie ziehen sich beleidigt zurück.
+399c9c	Du bekommst die Hälfte der Investition ohne Bedingungen.
+d0bec4	Du bewahrst deine Unabhängigkeit.
+44ca89	Dein Körper warnt dich
+6b08b5	Du hast dich seit Wochen nicht erholt. Du schläfst schlecht und kannst dich kaum konzentrieren. (Freizeit: {0} Tage, Stimmung {1}.)
+ba3e1e	Du kommst wie ausgewechselt zurück.
+ce8a98	Eine echte Woche Urlaub nehmen ({0})
+e907cf	Du benennst, was du fühlst. Es hilft.
+45e2d2	Du wirst krank und liegst eine Woche im Bett.
+4e9450	Du hältst durch. Vorerst.
+8b1d0a	Weitermachen
+afedac	Pech
+32fe7a	Du wirst beim Verlassen eines Ladens überfallen.
+160c88	Alles ohne Widerstand hergeben
+3b3d71	Du verlierst Geldbörse und Handy. Du bist unverletzt.
+25a4a6	Sich wehren (riskant: Hergeben ist fast immer besser)
+2bcb15	Du kannst dich losreißen und fliehen.
+cd7b88	Du wirst verprügelt. Du landest in der Notaufnahme.
+7770c3	Glück
+27ac89	Du findest {0} auf der Straße. Niemand ist in der Nähe.
+7a3cc3	Bei der Polizei abgeben
+82a1c3	Das Geld behalten
+fd4888	Der Polizist sieht dich seltsam an. Du fühlst dich gut.
+20779e	Ein Notar ruft an: Ein entfernter Onkel, an den du dich kaum erinnerst, hat dir {0} hinterlassen.
+05fa9c	Du unterschreibst die Papiere.
+993ef0	Ein unaufmerksamer Fahrer rammt dich an einer Kreuzung.
+941156	Du wirst nach stundenlangem Warten behandelt. Armbruch.
+a0c6db	Ins öffentliche Krankenhaus gehen
+060cb6	Sofortige Behandlung. Schnelle Genesung.
+66a677	In eine Privatklinik gehen ({0})
+0a2b5e	Du feierst mit den Nachbarn.
+f66c93	Kassieren!
+fe4f2f	Du gewinnst die Tombola im Viertel: {0} in bar.
+1ebe86	Glücksfall
+ca9034	Ein großes Unternehmen entdeckt dein Geschäft über eine Bewertung und gibt eine riesige Bestellung auf: {0} Gewinn.
+5db7ad	Annehmen und Aushilfen einstellen
+72776e	Annehmen und selbst machen
+8bef69	Du lieferst zu spät. Du bekommst weniger bezahlt.
+940a89	Du schaffst es: sehr müde, aber glücklich.
+adbd5a	Du hältst die Frist ein. Du bekommst neue Aufträge.
+4f440f	Der Monat wurde für eine Entscheidung angehalten. Es fehlen {0} Tag(e): Tippe erneut auf die Schaltfläche, um ihn abzuschließen.
+ccd8cc	Das Jahr wurde für eine Entscheidung angehalten. Es fehlen {0} Tag(e): Tippe erneut auf die Schaltfläche, um es abzuschließen.
+ef8a82	Die Woche wurde für eine Entscheidung angehalten. Es fehlen {0} Tag(e): Tippe erneut auf die Schaltfläche, um sie abzuschließen.
+fae3d7	Wappen des Hauses {0}
+8375cf	{0} Bilder ({1} KB).
+afc66b	Bluthochdruck
+5b2bd4	Typ-2-Diabetes
+43e70d	Herzkrankheit
+d8b07f	Krebs
+20ef97	Im Gefängnis
+175abf	Diktatorin
+4787ce	Präsidentin
+3fb088	Student: {0}
+386d47	Junge
+e89263	Mädchen
+b5d240	Rentnerin
+23bc7c	Arbeitslos
+5302e4	Du regierst jetzt ({0}) als {1}.
+c113ad	{0} hat deine Provinz erobert ({1}). {2} regiert nicht mehr dort, wo du lebst.
+535f6c	Die neue Regierung akzeptieren
+b0287f	Du verlierst deinen Posten.
+d55f1a	Du akzeptierst die neue Regierung und lebst weiter.
+95e58f	Sich dem Widerstand anschließen
+9ab53e	Du wirst bei einem Hinterhalt schwer verletzt.
+ca3da0	Du wirst zu einer Figur des Widerstands.
+2c5514	Du gehst ins Exil ({0}).
+cccf57	In ein Nachbarland ins Exil gehen
+eaa92f	Du findest keinen Ort zur Flucht.
+b70b22	Die Staatsanwaltschaft leitet ein Korruptionsverfahren gegen dich ein ({0} Fall/Fälle in deiner Akte).
+55ae5e	Du wirst mangels Beweisen freigesprochen.
+cc1199	Anwälte nehmen ({0})
+3ae9a7	Du zahlst eine Strafe, gibst Geld zurück und wirst für öffentliche Ämter gesperrt.
+d3ada6	Mit der Staatsanwaltschaft verhandeln
+2ac187	Du fliehst ({0}). Dort fängst du bei null an.
+404b2d	Aus dem Land fliehen
+fea897	Du wirst am Flughafen festgenommen.
+1d0298	{0} ist im Krieg und ein Einberufungsbescheid auf deinen Namen kommt an.
+3d5d69	Sich an der Front melden
+7caebf	Du trittst als Rekrut in die Armee ein.
+41ad23	Du fliehst ({0}).
+6a098a	Du versuchst zu fliehen, aber die Grenzen werden geschlossen.
+24bd73	Wahlen ({0}). Deine Partei bietet dir die Kandidatur an.
+807a5a	Umfrage: {0} % Stimmen für dich. Amtszeit von {1} Jahren, {2}.
+110241	Du gewinnst die Wahl! ({0} % Wahrscheinlichkeit für dich).
+54db5c	Kandidieren (Wahlkampf {0})
+5f2c98	Du verlierst die Wahl knapp.
+1b984a	Du beschließt, die nächste Wahl abzuwarten.
+fbad98	Diesmal nicht
+0968b1	Deine Amtszeit endet. Stabilität {0}/100, Zustimmung {1} %. Regel des Landes: {2} — du kannst nicht wiedergewählt werden.
+0b12ef	Deine Amtszeit endet. Stabilität {0}/100.
+153a06	Deine Amtszeit endet. Stabilität {0}/100, Zustimmung {1} %. Regel des Landes: {2}.
+0c0530	Du wirst wiedergewählt ({0} % für dich).
+8d7a3e	Du verlierst die Wiederwahl und kehrst in den Senat zurück.
+91f175	Die Wiederwahl anstreben
+0d8de4	Andere Länder verhängen Sanktionen gegen dich.
+2b254b	Du sagst die Wahlen ab. Jetzt regierst du als Diktator.
+a5f4e1	Die Wahlen absagen
+705992	Du übergibst die Macht friedlich.
+bc2c2e	Die Macht übergeben
+e6c2f3	Das Militär versucht einen Staatsstreich ({0}).
+248ad0	Der Putsch scheitert; deine Loyalität wird gewürdigt.
+5536d0	Der Putsch gelingt und du wirst verfolgt, weil du die Regierung unterstützt hast.
+91b920	Die Regierung unterstützen
+62c22b	Den Putsch unterstützen
+6d6d6b	Der Putsch gelingt und das neue Regime belohnt dich.
+e4731e	Der Putsch scheitert und du bist gebrandmarkt.
+0f3321	Sich heraushalten
+576f95	Du siehst von zu Hause aus zu.
+c1c966	Deine Berater entdecken eine Verschwörung im Kabinett.
+6768c3	Das Kabinett säubern
+da9272	Du setzt die Verschwörer ab.
+4dbecd	Mit ihnen verhandeln
+588c1f	Die Verhandlung scheitert und du wirst gestürzt.
+a3fd1c	Du wirst abgesetzt.
+db99ab	Ihr einigt euch.
+38eeeb	Attentatsversuch während einer Parade.
+086deb	Das Attentat gelingt.
+a7441d	bei einem Attentat
+bcf6d8	Die Parade fortsetzen
+eb2735	Du überlebst und das Volk bewundert dich.
+3b52f6	Absagen und in Deckung gehen
+d31d7c	Du sagst alles ab und bleibst in Sicherheit.
+313dbc	Ein bewaffneter Aufstand gegen dein Regime bricht aus.
+433d80	Die Rebellen nehmen den Palast ein.
+8aa254	Den Aufstand niederschlagen
+bda620	Du verlierst die Macht.
+fc03ce	Du schlägst den Aufstand nieder.
+75db32	Die Reformen beruhigen die Straßen.
+df6e1f	Reformen aushandeln
+062ad9	{0} schlägt einen Waffenstillstand vor.
+99c3d4	Du unterzeichnest den Frieden.
+d0bab7	Du lehnst den Vorschlag ab.
+d884de	Seit {0} Jahren kannst du deine Schulden nicht zahlen ({1}). Die Gläubiger verklagen dich.
+18ac3b	Insolvenz anmelden
+1af99c	Du kannst 7 Jahre lang keine Kredite aufnehmen.
+45faff	Ein Richter erlässt dir die Schulden.
+63ef01	Du verlierst dein Haus.
+937e7c	Du verkaufst alles, schuldest aber noch Geld.
+b3dbfa	Alles verkaufen, was du hast
+dd0e80	Du verkaufst alles und bist schuldenfrei.
+3dcbed	Der Arzt stellt eine Diagnose: {0}.
+511f75	Du beginnst eine Behandlung bei einem Facharzt.
+8e9e05	Private Behandlung ({0}/Jahr)
+48c61c	Die Warteliste ist lang: Vorerst bekommst du keine Behandlung.
+9ea674	Öffentliches Gesundheitssystem
+ade305	Du wirst im öffentlichen System behandelt.
+2c05d5	Du entscheidest dich gegen eine Behandlung.
+d6cbdd	Ein starkes Erdbeben erschüttert die Region ({0}).
+19c386	Bei der Rettung helfen
+2c5fd3	Du hilfst, deine Nachbarn zu retten.
+e0b7fe	Du hilfst, Nachbarn zu retten, verletzt dich aber.
+82a52f	Dein Haus schützen
+8e8e91	Dein Haus wird beschädigt: {0}.
+e90502	Deine Familie bleibt unverletzt.
+60f649	Ein Hurrikan trifft in der Nähe von {0} auf Land.
+cb6678	Rechtzeitig evakuieren
+dbda4c	Du evakuierst mit deiner Familie. Alle sind in Sicherheit.
+ef95a1	Bleiben, um deine Sachen zu schützen
+fdb1c0	Der Sturm zieht ohne große Schäden vorüber.
+fdfbcb	Das Wasser flutet das Haus und du wirst verletzt.
+be9656	Schwere Dürre ({0}): Die Lebensmittelpreise steigen.
+1da8c6	Ausgaben kürzen
+956c70	Du füllst vorsorglich die Speisekammer.
+b90d6f	Lebensmittelvorräte kaufen
+e85697	Du passt dein Budget an.
+db8931	Eine neue Pandemie breitet sich weltweit aus.
+103160	Zu Hause bleiben und sich impfen lassen
+be7e60	Du verbringst Monate eingesperrt, aber gesund.
+17a63e	Du steckst dich an und es geht dir schlecht.
+2a3be1	Du hast Glück und steckst dich nicht an.
+9bb411	Normal weiterleben
+c68487	Du findest einen ausgesetzten Welpen auf der Straße.
+3c953c	Du musst immer wieder an ihn denken.
+8c6c0e	Du nennst ihn Kapitän. Er ist dein bester Freund.
+334ed8	Ein Mitschüler ärgert dich in der Schule.
+59d296	Du verlierst die Rauferei.
+7a12ac	Du weist ihn in die Schranken. Man respektiert dich.
+b08780	Sich ihm stellen
+389d52	Der Lehrer bestraft ihn.
+5c6001	Er ärgert dich weiter.
+ba29e5	Dem Lehrer Bescheid sagen
+4db2d6	Du wirst zu einem Redewettbewerb eingeladen.
+0535f0	Du wirst nervös und verlierst.
+3e89e2	Du gewinnst den Wettbewerb!
+44887c	Du bleibst lieber zu Hause.
+9ff90f	Teilnehmen
+1f2f6e	Du wirst am Wochenende zu einer Party eingeladen.
+083439	Du hast Spaß, verletzt dich aber.
+6e78f1	Zum Lernen dableiben
+745340	Du lernst neue Leute kennen.
+798490	Du lernst die ganze Nacht.
+851a54	Zur Party gehen
+63896c	Der Trainer lädt dich ins Fußballteam ein.
+1a2e13	Du trainierst dreimal pro Woche.
+533125	Ein Verkäufer bietet dir ein Los für {0} an.
+806ee4	Du gewinnst nichts.
+e93782	Du gewinnst {0}!
+ec7892	Nein, danke
+ed36ee	Kaufen
+6e6409	Du fühlst dich seit Wochen sehr müde.
+14b921	Es geht von allein vorbei.
+764bfd	Der Arzt untersucht dich und verordnet Ruhe.
+9f00ab	Es war etwas Ernstes und es wird schlimmer.
+dcb079	Zum Arzt gehen ({0})
+efbe7c	Ein Freund bittet dich, ihm {0} zu leihen.
+d3c1f4	Zahlt pünktlich zurück.
+f35999	Zahlt nie zurück.
+0d7a53	Du wirst auf dem Heimweg überfallen.
+1e7806	Alles hergeben
+b885ed	Du verlierst {0}.
+21f6d5	Sich wehren
+679cb4	Du wirst verletzt.
+f4cda7	Du kannst entkommen.
+d341a3	{0} will dich heiraten.
+25e858	Heiraten ({0})
+77b10a	Ihr heiratet!
+e7d73e	Noch nicht
+e10aa6	{0} will die Beziehung beenden.
+2ac131	Um die Beziehung kämpfen
+463793	Ihr gebt euch noch eine Chance.
+79f253	Du machst mit {0} Schluss.
+7e805e	Dir wird eine Arbeit angeboten ({0}) (Durchschnittseinkommen {1} pro Jahr).
+82efca	Dir wird eine Geschäftsreise angeboten.
+e81c3a	Das Angebot kommt nicht zustande.
+54fb7f	Du steckst in der Midlife-Crisis.
+92d0a1	Einen Sportwagen kaufen ({0})
+f447a4	Du fühlst dich wieder jung.
+4f89a3	Es vergeht, kostet aber.
+7520c3	Eine Therapie machen
+e1269a	Reden hilft dir.
+efdf11	Ignorieren
+2aeb92	Ein Unternehmer bietet dir {0}, damit du für sein Projekt stimmst.
+02cc6c	Die Bestechung fliegt auf: Skandal, und du verlierst dein Amt.
+80cef4	Niemand erfährt es.
+d7c0ea	Du nimmst das Geld. Niemand erfährt es … vorerst.
+79b603	Dein Ruf als ehrlicher Mensch wächst.
+1f9793	Ein Journalist recherchiert deine Vergangenheit.
+294d59	Der Artikel erscheint nie.
+4a2dc2	Zahlen, damit er schweigt ({0})
+63d948	Veröffentlicht alles, auch den Bestechungsversuch.
+002ab9	Ein ehrliches Interview geben
+1a6363	Das Interview geht schief.
+83a32d	Das Interview macht dich beliebter.
+d8629e	Ein politischer Rivale greift dich in den sozialen Medien an.
+0277f3	Es geht nach hinten los.
+652f99	Antworten
+f38423	Deine Antwort geht viral.
+43b985	Du sollst einen Angriff auf feindliche Stellungen anführen.
+9b50c3	An die Front gehen
+a10fa2	Der Angriff ist ein Erfolg und du wirst ausgezeichnet.
+c89d59	Du wirst verwundet.
+191686	Die Verstärkung kommt und alles läuft gut.
+222ed6	Deine Vorgesetzten zweifeln an dir.
+43427e	Verstärkung anfordern
+c59245	Man schlägt dir vor, in eine Kette von Streetfood-Ständen zu investieren.
+5c6a76	Die Kette hebt ab! Du verdienst {0}.
+67f67c	Du gehst lieber kein Risiko ein.
+8862b4	Die Kette schließt. Du verlierst {0}.
+cfd570	Nicht investieren
+d2c243	Dein Chef bietet dir mehr Verantwortung im Gegenzug für mehr Stunden an.
+447d8d	Dein Gehalt steigt um 20 %.
+8023aa	Dir ist deine Freizeit lieber.
+e86321	Große Lithiumvorkommen werden entdeckt ({0}).
+7a1353	Die Wirtschaft des Landes wächst um 3 %.
+bf489e	Was für gute Nachrichten!
+4dc8ce	Wirtschaftskrise ({0}): Massenentlassungen.
+c983fd	Du wirst entlassen und verlierst 10 % deiner Ersparnisse.
+e83321	Du verlierst 10 % deiner Ersparnisse.
+a229f1	Du wirst Unternehmer.
+b07256	Als Regierungschef startest du ein Rettungspaket.
+ef0056	Ein Geschäft gründen
+be0081	Es gibt Massenproteste auf den Straßen.
+b1c0a3	Du siehst alles im Fernsehen.
+b34bf0	Die Polizei löst den Marsch auf und du wirst verletzt.
+c059bd	Deine Stimme wird gehört.
+4e2ad1	Du wirst zu einem internationalen Gipfel eingeladen.
+490bcc	Teilnehmen
+cb8845	Du gewinnst internationales Ansehen.
+cfdbdf	Du schließt ein Bündnis mit {0}.
+b77e78	Du kümmerst dich um innere Angelegenheiten.
+e79e2c	{0} schlägt ein Freihandelsabkommen vor.
+e36820	Das Abkommen kurbelt die Exporte an (+0.8 % Wachstum pro Jahr für 10 Jahre). Einige Branchen protestieren.
+ec7f98	Du schützt die heimische Industrie.
+8f51e7	Du wirst schuldig gesprochen: {0} Jahre Haft.
+d6502d	Du kommst aus dem Gefängnis.
+eebbd0	Du kommst in die Grundschule.
+95d28e	Du schließt die Oberstufe ab. Jetzt kannst du studieren oder arbeiten (Menü Karriere).
+045180	Du schließt dein Studium ab: {0}.
+0a0117	Du trittst als Leutnant in die Armee ein.
+93f542	Du kannst {0} Kredit(e) nicht zurückzahlen. Du bist {1} Jahr(e) im Rückstand.
+ad373c	Deine Kreditkarte ist am Limit ({0}). Seit {1} Jahr(en) kannst du sie nicht abzahlen.
+c9b0bc	Du hast dieses Jahr {0} Steuern gezahlt.
+4c10f9	Deine Schulden rauben dir den Schlaf.
+5ca2cb	Beförderung! Du bist jetzt {0}.
+c0edfe	im Kampf
+dd7b38	Die Ärzte bestätigen, dass der Krebs in Remission ist.
+10a9b0	Deine Mutter, {0}, stirbt mit {1} Jahren.
+b20e84	Dein Vater, {0}, stirbt mit {1} Jahren.
+e3e1a2	Du erbst {0}.
+bcef63	an Altersschwäche
+93ab7f	Du stirbst {0} mit {1} Jahren.
+2fe9bb	Du erbst die Macht.
+e1b8b6	Generation {0}: Du machst weiter als {1}, {2} Jahre alt.
+d47787	Du lernst viel.
+19732c	Du liest ein gutes Buch.
+1e2d45	Du trainierst im Fitnessstudio.
+563918	Du verbringst Zeit mit deiner Familie.
+7152b6	Du lernst wichtige Leute kennen.
+80b7b2	Du fängst an, mit {0} auszugehen.
+c0ab0c	Diesmal lernst du niemanden kennen.
+165fa9	Deine Tochter {0} ist geboren!
+289396	Dein Sohn {0} ist geboren!
+ff1fdf	Dieses Jahr gab es keine Schwangerschaft.
+abfa8f	Du machst Urlaub.
+d68d7e	Urlaub ({0})
+7fe641	Du machst einen Gesundheitscheck.
+e69aa4	Der Check entdeckt etwas. Du musst entscheiden, was du tust.
+0d86f2	Wahlkampf machen ({0})
+2b573e	Du ziehst durch die Viertel und hältst Reden.
+90ad54	Zinssatz {0} pro Jahr
+aa3c69	Privatkredit über {0}
+d553c7	Die Bank leiht dir {0}.
+df5328	Rate {0}/Jahr
+14a9a8	Haus mit Hypothek kaufen ({0})
+5db08c	Du kaufst dein Haus. Du zahlst keine Miete mehr.
+bf92e7	Anzahlung {0}
+ea85c8	Zins {0}
+8762a7	Zahle zuerst die Hypothek ab
+a17fd2	Dein Haus verkaufen ({0})
+36ad4e	Du zahlst deinen {0} ab.
+4a9cbb	Zins {0}
+ad8813	{0} abzahlen ({1})
+d6548e	Deine Schulden
+046def	Du bestehst die Aufnahmeprüfung nicht ({0}). Du kannst es nächstes Jahr wieder versuchen.
+38844f	mit Stipendium
+720c2d	Intelligenz {0}+
+cc33a8	Du bestehst die Aufnahmeprüfung! Du beginnst dein Studium: {0}.
+945f36	Du trittst einer Partei als Aktivist bei.
+9bd912	Du meldest dich als Rekrut.
+68d565	Du bekommst eine Stelle als Beamter.
+bcdc90	Du wirst nicht als {0} eingestellt.
+c42e93	Du wirst als {0} eingestellt.
+e9637d	Du wirst nicht als {0} eingestellt (Arbeitslosigkeit im Land: {1}).
+104ed9	Du trittst dem Schulclub bei: {0}.
+fd7606	Schulclub
+69b4a9	Kellner (Teilzeit)
+9ac1fa	Du bekommst einen Teilzeitjob.
+ac6c44	Teilzeitjob
+85acdf	Wahrscheinlichkeit ~{0} %
+c3cdab	Einen Staatsstreich anzetteln
+3956a9	Der Putsch scheitert.
+4500a5	Der Putsch gelingt.
+4ee3d5	nach einem gescheiterten Putsch
+a0b291	Der Putsch scheitert: Du wirst ausgeschlossen und fällst in Ungnade.
+4e0680	Einfluss kaufen ({0})
+befbfd	Du finanzierst Stiftungen und Medien.
+98baa0	In die Politik wechseln ({0})
+b1f0a2	Direkt Senator
+cc3306	Deine Partei gibt dir einen Sitz als Senator.
+620dac	Kündigen
+95bffa	Du verlässt deinen Posten als {0}.
+9a6861	Du bist ohne Job
+dd6c29	Das Studium abbrechen
+ea0854	Du brichst ab: {0}.
+40bd31	In Rente gehen
+71490c	Rente von 40 % deines Gehalts
+b08c7c	Du gehst in Rente.
+072ddc	Du hörst auf zu regieren
+995c47	Auf die Macht verzichten
+e0a901	Du verzichtest auf die Macht.
+ca39d8	Militärausgaben {0}
+9e1a4a	+0.5 % Wachstum pro Jahr und Stufe
+cd08a7	Straßen
+795626	+0.7 % Wachstum pro Stufe und mehr Arbeitsplätze
+ae9ee9	Industriegebiet
+d5c1fa	Schulen und Universität
+fa0982	+Intelligenz für die Bewohner; +0.3 % Wachstum
+79ec98	Krankenhäuser
+f097d8	−8 % Sterblichkeit pro Stufe für die Bewohner; +Stabilität
+045612	+0.6 % Wachstum durch Handel (nur an der Küste)
+095508	Hafen
+b1ab26	Jede Stufe gibt 30 % Chance, einem Angriff standzuhalten
+ef1acb	Festung
+0ce31f	Immobilie / Grundstück
+6da486	Ertrag je nach Wirtschaft der Provinz; 4 % jährliches Konkursrisiko
+831bd2	Gewinnt mit der Provinz an Wert und bringt 3 % Miete pro Jahr
+cb61e9	Lokales Geschäft (Teilhaber)
+8fe6ae	Regionale Kette
+cd3d23	Etabliertes Geschäft
+df30c4	Klein
+fa92c9	Nationaler Konzern
+d03462	Die neue Regierung ({0}) enteignet deine Investition ({1}) ({2}).
+98c698	Dein Geschäft ({0}) wird nach der Eroberung enteignet.
+254702	Neue Limousine
+6309c3	Gebrauchtwagen
+a5c31e	Luxus-SUV
+ac3b38	Plaudern
+f0ff58	Du plauderst eine Weile mit {0}.
+46aa91	Du verbringst den Nachmittag mit {0}.
+dd9e13	Zeit miteinander verbringen
+ee02f8	Ein Geschenk machen ({0})
+f84381	{0} liebt dein Geschenk.
+6a13a2	Wenn die Beziehung gut ist
+7da30b	{0} lehnt ab.
+f3b2da	Um Geld bitten
+1bd6e9	{0} kann dir gerade nicht helfen.
+ba88a7	{0} stellt dir wichtige Leute vor.
+bf8e2f	Um einen Gefallen bitten
+cabf88	Kontakte: +Einfluss (Beziehung 70+)
+09f140	Kann ein Freund werden
+8b5645	{0} lehnt den Waffenstillstand ab.
+9953f4	Du versöhnst dich mit {0}. Jetzt seid ihr Freunde.
+b9c768	Sich versöhnen
+5a4c28	Öffentlich bloßstellen
+c7efb0	{0} schlägt zurück.
+e5c24c	Du machst {0} lächerlich.
+aa8e60	Um eine Gehaltserhöhung bitten
+beaf50	{0} gewährt dir die Gehaltserhöhung.
+fd9ad6	{0} sagt nein.
+2027dc	Streiten
+39dd55	Du streitest heftig mit {0}.
+4e97aa	Du sagst {0} ordentlich die Meinung. Das tut gut.
+360e6e	Die Freundschaft endet
+3f12bd	Nicht mehr reden
+93a729	Du entfernst dich von {0}.
+a6706e	Sport
+b0d83f	Naturwissenschaften
+b7b027	Debattieren
+bfc595	Du schließt die Grundschule mit einem Schnitt von {0} ab.
+6d2c49	Du schließt die Mittelstufe mit einem Schnitt von {0} ab.
+3d2236	Du schließt die Oberstufe mit einem Schnitt von {0} ab.
+eca437	Du schließt die Oberstufe mit einem Schnitt von {0} ab und erhältst ein Uni-Stipendium.
+a052c3	Dein Land regieren
+d4bc46	Vermögen von 100 Durchschnittsgehältern
+854ea2	Heiraten und 3 Kinder haben
+d0cc68	Zwei Abschlüsse oder Intelligenz 95
+e89439	Wissen
+347dc6	Imperium
+471969	10 Provinzen als Regierungschef annektieren
+88a425	Millionär
+ccec11	Vermögen von 1 Million Dollar
+08a55e	Staatsoberhaupt
+aa4ce0	Eiserne Faust
+b6e6d6	Als Diktator regieren
+dda78f	General werden
+bae502	Magnat werden
+8c8c66	Eroberer
+f4320c	10 Provinzen annektieren
+67cedb	10 Gebäude in Provinzen errichten
+dd884d	Investor
+ff6f34	5 Investitionen gleichzeitig haben
+43707a	Vom Stand zur Kette
+b02039	Dein Geschäft zur regionalen Kette machen
+00a34d	Die Oberstufe mit 9.5 oder besser abschließen
+628a08	Ehrentafel
+7cd6ad	4 Kinder haben
+9f5781	Großfamilie
+755d96	Hundertjährig
+e69a87	100 Jahre alt werden
+930568	Auswanderer
+f766a3	In einem anderen Land leben
+2080e0	Stimmungskanone
+c83bc9	5 Freunde mit Beziehung 80+ haben
+036b32	Dynastie
+26515f	Die 3. Generation erreichen
+e45b94	⭐ Du hast dein Lebensziel erreicht: {0}.
+0eedce	Das Geschäft, in das du investiert hast ({0}), geht pleite. Dein Anteil ist {1} wert.
+28df83	Dein {0} schließt wegen Verlusten.
+1a5281	{0} ({1}) stirbt mit {2} Jahren.
+e9ed04	Du verlierst den Kontakt zu {0}.
+e81051	Du bist fast erwachsen. Was willst du im Leben erreichen?
+259d45	Dein Lebensziel: {0}.
+27d52a	{0} will in der Schule mit dir befreundet sein.
+b2d2f5	{0} will mit dir befreundet sein.
+81a8ad	{0} ist jetzt dein Freund.
+a42759	Freundschaft schließen
+6e1709	{0} fängt an, in allem mit dir zu konkurrieren.
+29cf98	Versuchen, Freundschaft zu schließen
+6874e7	{0} ist jetzt dein Rivale.
+87ac86	Ihr werdet doch noch Freunde.
+a766c5	Es klappt nicht: Du wirst als Rivale gesehen.
+c18d7a	{0}, dein Lehrer, sieht Potenzial in dir.
+076274	Du machst in deinem Tempo weiter.
+37c5f9	Um Rat bitten
+a68918	Die Ratschläge öffnen dir den Horizont.
+5123e8	Morgen ist die Abschlussprüfung und du hast nicht gelernt.
+15ab07	Die Nacht durchlernen
+403f74	Du fällst durch.
+5a5192	Du wirst beim Spicken erwischt: durchgefallen.
+63954c	Du bekommst eine gute Note.
+885410	Spicken
+8a6aff	Du bestehst knapp.
+9e1b56	Auf Glück setzen
+97084d	An deiner Schule gibt es eine Wissenschaftsmesse.
+1162ad	Du gewinnst den ersten Platz!
+23122c	Nur zuschauen
+99bfbd	Du gewinnst nicht, lernst aber viel.
+ac58f8	Du siehst unglaubliche Projekte.
+ddeb5f	Ein Projekt vorstellen
+149f37	Der Tag der Toten ist da. Deine Familie baut den Altar auf.
+6146fe	Zur Parade gehen
+9cbc75	Du schminkst dich als Catrina und genießt die Parade.
+eb2979	Cempasúchil, Pan de muerto und Erinnerungen. Ein besonderer Tag.
+f541f5	Den Altar mit deinen Lieben aufbauen
+267c07	Du wirst zu einer Weihnachts-Posada im Viertel eingeladen.
+4f8b72	Du ruhst dich lieber aus.
+5de037	Du lernst {0} kennen. Ihr werdet Freunde.
+b8c1d6	Ponche, Tamales und Weihnachtslieder.
+bc213e	Hingehen und die Piñata zerschlagen
+37d86a	Du wirst 15. Deine Familie will eine Quinceañera feiern.
+02230e	Ein unvergessliches Fest mit Walzer und Begleitern!
+17f969	Lieber eine Reise
+4031a0	Du willst lieber einen anderen Ort kennenlernen. Eine große Familienreise.
+98df95	Großes Fest ({0})
+518d0e	Die WM 2026 wurde ausgetragen ({0}). Deine Familie redet noch immer über das Spiel, das ihr gesehen habt.
+2eb8e4	Die Eintrittskarte als Andenken behalten
+65e0b7	Eine Erinnerung fürs Leben.
+12f2ae	Sparen
+6b8fc9	Du sparst {0}.
+a0d084	Ins Haus investieren
+d58b0f	Ihr renoviert das Familienhaus.
+7312f4	Ein Freund verkauft seinen Marktstand. Er gibt ihn dir billig.
+3c808a	Jetzt hast du deinen eigenen Stand. Ran ans Verkaufen!
+7bb480	Du überlegst es, aber nein.
+9c8a96	{0} empfiehlt dich für einen Bürojob in der eigenen Firma.
+6681ba	Dank {0} bekommst du Arbeit.
+8183b6	Du suchst lieber selbst.
+e55847	{0} weiß, dass du in der Klemme steckst, und bietet dir ein zinsloses Darlehen an.
+37d55d	{0} leiht dir {1}.
+684701	Aus Stolz nicht
+9f2cba	Du kommst lieber allein zurecht.
+a82eab	Dein Rivale {0} verbreitet Gerüchte, um dich zu stürzen.
+1cfd9c	Die Gerüchte kosten dich etwas Ansehen.
+8393e1	Du widerlegst sie und gehst gestärkt hervor.
+8af09c	Niemand glaubt dir.
+b3bac8	Mit Beweisen widerlegen
+3a1ab0	Dein Chef, {0}, hat dich auf dem Kieker.
+09bf6c	Du verbesserst das Verhältnis zu deinem Chef.
+1b7df2	Eine andere Arbeit suchen
+516c21	Du findest nichts Besseres.
+7b7ce5	Die Konfrontation suchen
+a248d4	Sich doppelt anstrengen
+d17fa6	Du findest einen anderen, etwas besser bezahlten Job.
+e52276	Du wirst entlassen.
+f9fa79	Ihr klärt die Sache.
+125988	{0} heiratet und bittet dich, Trauzeuge zu sein.
+1b6060	Nur als Gast hingehen
+4f2f14	Eine sehr lustige Hochzeit.
+a18ed3	Du genießt das Fest.
+26ffd4	{0} überbringt dir die Neuigkeit: Du wirst Großmutter!
+fe8874	{0} überbringt dir die Neuigkeit: Du wirst Großvater!
+6a1789	Dein Enkelkind ist geboren.
+ce1e2c	Mit der Familie feiern
+7b7211	Alle reden von einer Kryptowährung, die durch die Decke geht.
+341a8a	Du bleibst ruhig bei deinen Ersparnissen.
+80f0b4	Sie stürzt ab. Du verlierst fast alles, was du eingesetzt hast.
+a282f0	Du verkaufst rechtzeitig und verdienst gut.
+eb7387	Nicht dem Trend folgen
+f739e7	20 % deiner Ersparnisse einsetzen
+c67db0	Ein Bekannter bietet dir an, "dein Geld in 6 Monaten zu verdoppeln".
+982ba1	Misstrauisch sein
+cce4ac	Monate später bricht der Schwindel zusammen. Du bist davongekommen.
+fa53a7	Es war ein Schneeballsystem. Du verlierst {0}.
+634aac	Ein Fahrer überfährt eine rote Ampel und kracht in dein Auto.
+1fa6c5	Der Streit endet in einer Prügelei.
+4b6030	Über die Versicherung regeln
+4fc35a	Auf der Straße kämpfen
+7c1865	Der andere Fahrer zahlt dir bar.
+892a0c	Du zahlst die Selbstbeteiligung und das Auto ist wie neu.
+f38cbb	Ein großes Unternehmen will dein Geschäft für {0} kaufen.
+968909	Du verkaufst dein Geschäft und bekommst eine schöne Summe.
+9b2d9c	Nicht zu verkaufen
+d8b016	Du beschließt, weiter zu wachsen.
+9e63a7	Deine Kollegen rufen zum Streik für bessere Löhne auf.
+7b0be2	Sie erreichen nichts.
+a13a5a	Das Unternehmen entlässt die Streikenden.
+c56432	Dein Chef bemerkt es.
+f05444	Der Streik ist erfolgreich: Die Löhne steigen um 10 %.
+22e418	Freiwillige werden gesucht, um einen Hügel aufzuforsten.
+10b497	Am Wochenende hingehen
+42d4a6	Du pflanzt 50 Bäume.
+6c6fe1	Ein andermal.
+cd11f9	Dir wird ein Intensivkurs Englisch angeboten.
+068e73	Dein Englisch wird besser: Es öffnet Türen.
+f8d6c1	Machen ({0})
+67425f	In deiner Stadt findet ein Marathon statt.
+207ea1	Anfeuern gehen
+304ce7	Du verletzt dich bei Kilometer 30.
+7bd432	Tolle Stimmung.
+adf7f8	Du kommst ins Ziel!
+e5bc01	Mitlaufen
+1d123b	Dein Vater, {0}, braucht jetzt Pflege.
+98338f	Deine Mutter, {0}, braucht jetzt Pflege.
+155d2b	Die Familie rückt enger zusammen.
+26c120	Zu dir nach Hause holen
+435388	Du stellst eine Pflegekraft ein.
+4b90b3	Die Familie macht dir Vorwürfe.
+8e040f	Deinen Geschwistern überlassen
+f67019	Eine Pflegekraft bezahlen ({0}/Jahr)
+1e9738	{0} will studieren und bittet um deine Unterstützung.
+0f43cd	Das Studium bezahlen ({0})
+72ee03	Soll arbeiten und studieren
+c1789f	{0} wird sich doppelt anstrengen müssen.
+ed1d63	{0} kommt an die Uni.
+3d4221	Du wirst zum Ehemaligentreffen eingeladen.
+2b6daf	Du hast keine Lust.
+7f9399	Du schwelgst in alten Zeiten.
+a5f997	Du nimmst die Freundschaft mit {0} wieder auf.
+0a3617	{0}, jemand mit viel Erfahrung, bietet sich als dein Mentor an.
+716685	Allein weitermachen
+ddc19e	Du lernst von jemandem, der den Weg schon gegangen ist.
+f64c81	Du lernst lieber allein.
+6d11e6	Du wirst eingeladen, die Bauarbeiten einzuweihen ({0}).
+72d1b9	Du hältst dich an deinen Terminplan.
+74a6ae	Mit der Presse hingehen
+a0ffb0	Die Einweihung kommt in allen Nachrichten.
+a21d3c	Einen Minister schicken
+fecae4	Du wirst eingeladen, vor der Versammlung der Nationen zu sprechen.
+2bd464	Deine Rede bekommt Applaus.
+93b09a	Herausfordernde Rede
+d1d74b	Versöhnliche Rede
+e68ac1	Zu Hause gibt es Applaus; im Ausland weniger.
+348b39	Ein Minister deines Kabinetts wird in einen Korruptionsskandal verwickelt.
+7ba12b	Du handelst schnell und die Leute schätzen das.
+806373	Ihn sofort entlassen
+d582dd	Dein Kabinett ist dir treu, die öffentliche Meinung nicht.
+b96a82	Überschwemmungen ({0}) treffen deine dortige Investition.
+5c5e0e	Den Verlust hinnehmen
+7bfd48	Wiederaufbauen (Kapital zuschießen)
+9a5a58	Du steckst {0} in den Wiederaufbau.
+f08154	Deine Investition verliert 20 % ihres Werts.
+5b2d92	Es gibt keinen Landweg dorthin.
+d717d7	Du kannst nur innerhalb deines Gebiets verlegen.
+edf5a4	Armee verlegt ({0}).
+11d161	Deine Marine transportiert nur {0} Soldaten: Teile die Armee, um sie einzuschiffen.
+6cd098	Kein Landweg. Bring die Armee in eine Küstenprovinz, um sie einzuschiffen.
+77e601	Kein Weg: Du brauchst Durchmarschrecht oder musst mit diesem Land im Krieg sein.
+48b494	Keine Bewegungspunkte diesen Monat (du hast {0}, der Befehl kostet {1}).
+5d23f6	Im Marsch nach {0}: {1} Monat(e).
+fce41e	Schifft sich nach {0} ein: Ankunft in {1} Monat(en).
+6f536b	Schlacht ({0}): {1} besiegt {2}. Verluste: {3} gegen {4}.
+be75a5	Du wirst in der Schlacht verwundet.
+f90a53	im Kampf, an der Spitze deiner Truppen
+55af30	Deine Armee ({0}) wird vernichtet (eingekesselt, ergibt sie sich).
+5edddb	Deine Armee ({0}) wird vernichtet.
+1e50a7	{0} kapituliert vor {1} und tritt {2} Provinz(en) ab.
+f94beb	Du schließt einen Status-quo-Frieden mit {0}: Jeder behält sein Gebiet.
+ed2b88	Du lehnst den Vorschlag ab ({0}). Der Krieg geht weiter.
+674ef5	Du hältst Wort: {0} tritt in den Krieg gegen {1} ein, um {2} zu verteidigen.
+05b5ac	Du ziehst deine Garantie zurück.
+3669e7	Das Bündnis zerbricht.
+d28869	Dein Vasall erklärt sich frei von deiner Vormundschaft.
+d85563	Du wirst {0} nicht verteidigen. {1} Dein Wort verliert in der Welt an Gewicht.
+4c7064	Die Beziehungen zu {0} verbessern sich (+{1}).
+453e9a	Wahrscheinlichkeit {0}
+fdbe9e	Du brichst das Bündnis mit {0}.
+128b85	{0} will sich nicht festlegen.
+b97ac4	Du schließt einen Nichtangriffspakt mit {0} bis {1}.
+45876e	{0} verweigert deinen Truppen den Durchmarsch.
+c201b9	{0} gewährt dir Durchmarschrecht.
+4873d4	Du verzichtest auf das Durchmarschrecht ({0}).
+143023	Du garantierst die Unabhängigkeit ({0}).
+7369db	Du ziehst deine Garantie zurück ({0}).
+1f863b	{0} lehnt das Ultimatum ab. Du hast einen Kriegsgrund bis {1}.
+9957dc	{0} tritt angesichts deines Ultimatums {1} ab.
+b4f098	{0} akzeptiert, dein Vasall zu werden.
+d44fd1	{0} lehnt die Vasallenschaft ab. Du hast einen Kriegsgrund bis {1}.
+139096	Du gliederst {0} in deine Nation ein.
+691fef	{0} ist wieder unabhängig.
+8f59eb	Du rekrutierst {0} Soldaten ({1}) ({2} aus der Staatskasse).
+8b0263	Du löst die Armee auf ({0}) ({1} Soldaten kehren heim).
+28284c	Die Staatskasse kann die zusätzlichen Truppen nicht bezahlen ({0} pro Jahr). Die Moral sinkt.
+0a6c7f	{0} entzieht dir das Durchmarschrecht.
+7d44a0	großer Fluss
+00f232	Logistiker
+094f7b	Offensiv
+3f9c6c	Schnell
+6c7c49	Defensiv
+81a96c	+1 Bewegung pro Monat
+c83614	+15 % bei der Verteidigung
+dd2135	−35 % Zermürbung und bessere Versorgung
+df2ff3	+15 % beim Angriff
+292740	Unerfahren
+3db6c4	+25 % in Bergen und Hügeln
+8bd56f	die Moral erholt sich doppelt so schnell
+94acb1	Gebirgskämpfer
+c05ea1	Charismatisch
+d32192	−10 % in der Schlacht; lernt schnell
+3a0cc0	Deine Regierung schließt aus Kriegsmüdigkeit Frieden mit {0}.
+48fd3b	Die Guerilla vertreibt {0} ({1}).
+50bbc0	Normal
+834cd4	Die Zinsen deiner Anleihen verschlingen dieses Jahr {0} der Staatskasse.
+f4309e	Schuldenkrise: Die Märkte bezweifeln die Zahlungsfähigkeit ({0}, {1} % des BIP). Rezession.
+96b9ac	Das Handelsabkommen mit {0} läuft aus.
+06f03c	Wahrscheinlichkeit {0} %
+7c6e11	{0} will das Handelsabkommen nicht.
+f5a5fb	Du schließt ein Handelsabkommen mit {0} bis {1}.
+d33005	Du kündigst das Handelsabkommen mit {0}.
+ea48c2	Du verhängst ein Handelsembargo ({0}).
+8310cf	Du hebst das Embargo auf ({0}).
+8da88e	+0.25 % Bevölkerungswachstum und +3 Zufriedenheit pro Stufe
+fdbeab	Bauernhof
+285024	+0.4 % Wirtschaftswachstum und mehr Entwicklung pro Stufe
+2fc520	Werkstatt
+1cad05	+Entwicklung und mehr Forschung für das ganze Land
+497ac5	Bibliothek
+821118	Arsenal
+ba3175	+Rekrutenreserve; wer sich hier meldet, ist besser ausgerüstet
+7b11a9	Wachturm
+f9cef2	Sieht feindliche Armeen in 3 Provinzen Entfernung und +10 % Verteidigung
+98ebfe	Versorgungsdepot
+9f0f23	Volle Versorgung für deine Truppen hier und in den Nachbarprovinzen
+4a2324	Wachstumsprogramm ({0}) für 10 Jahre ({1}).
+f9b036	Fest ({0}): Das Volk feiert ({1}).
+4faedb	{0} wird Kernprovinz ({1}) ({2}).
+e9202e	Kanzler
+10d012	König
+cb60e4	Königin
+bedfa5	Caudillo
+f2cdf7	Caudilla
+da7f30	Oberste Führerin
+f55e0d	Oberster Führer
+ce53b3	Juntachef
+ce977b	Juntachefin
+153917	{0} führt das System ein: {1}. {2}
+68c909	Der Wechsel erschüttert das Land (−25 Stabilität).
+8ad383	Stabilität −15 während der Anpassung.
+7042c4	Du rufst {0} aus! Alle deine Provinzen werden Kernprovinzen und die Stabilität steigt.
+76317a	Du plünderst {0}: {1}. Die Provinz ist verwüstet.
+def508	Du plünderst {0}: {1} für die Staatskasse. Die Provinz ist verwüstet.
+97ce20	Du schickst ein Geschenk ({0}) (+{1} Meinung).
+06e722	{0} antwortet auf die Beleidigung mit einer Kriegserklärung.
+0ab93b	Du beleidigst die Regierung ({0}). Dein Volk jubelt; sie vergessen es nicht.
+226773	{0} tritt auf deiner Seite in den Krieg ein.
+933b0b	{0} will nicht in den Krieg eintreten.
+ba996a	Wahrscheinlichkeit {0} %
+bc85c8	{0} bleibt lieber unabhängig.
+c1ebe6	{0} schließt sich freiwillig {1} an.
+6d145a	Genie
+7b9eb3	Athletisch
+0fa6f7	Gerissen
+1816a0	+8 Einfluss beim Erben
+51087e	Hof und Armee akzeptieren den Erben: sicherere Nachfolge
+b17eb0	+8 Intelligenz, besser im Geschäft
+b6a1fc	Ehrgeizig
+eabbe7	Loyal
+1a1364	Rebellisch
+477475	Kränklich
+89bcec	−5 Zufriedenheit in der Jugend, +5 Einfluss
+92aa1e	Elite / Internat
+4565ab	Kein Geld für die Schule ({0}) von {1}: Wechsel auf eine öffentliche.
+749df5	Du wirst volljährig: Die Regentschaft endet und du übernimmst die Macht ({0}).
+f0a72c	Der Regent weigert sich, dir die Macht zu übergeben. Du musst sie dir selbst zurückholen.
+8c712e	Regierungschef
+a4e47a	Regentschaft ({0})
+b8a530	Du bist minderjährig: {0} regiert als Regent, bis du 18 wirst.
+737e93	Du wächst in einer Politikerfamilie auf: Dein Nachname öffnet Türen (+10 Einfluss).
+ebded5	Wahlkampf machen
+3ee4c2	1 Std. 30 Min.
+61f5cf	Ein kurzes Nickerchen. Du wachst um {0} auf.
+1f09ba	Du läufst, während die Stadt noch still ist.
+cbf9f2	Abends ausgehen ({0})
+3726c7	Du lernst {0} kennen und ihr redet bis spät.
+3cc58f	Du knüpfst ein paar nützliche Kontakte.
+0e0f45	Auf dem Heimweg wird dir die Geldbörse gestohlen: Du verlierst {0}.
+99c6c4	Du wachst mit einem Kater auf: −2 Gesundheit.
+c7f562	Du tanzt, lachst und kommst spät nach Hause.
+f211a1	Du gehst abends aus.
+b01808	Wohlstand pro Kopf
+e3b0e6	Bevölkerungsdichte
+2e6a34	Wachstum {0}
+767999	Armee {0}
+871a99	Inflation {0}
+bec13b	Stabilität {0}
+d1c655	Tippe auf eine Provinz auf der Karte, um ihre Daten zu sehen. Ziehen zum Bewegen; Zwei-Finger-Geste oder +/− zum Zoomen; ⛶ öffnet die Karte im Vollbild.
+b703cd	Das dauert {0} Tage und du hast {1}. Lass die Uhr laufen, um Zeit zurückzugewinnen.
+f3548c	Der Kongress lehnt deinen Vorschlag ab: “{0}”. (Unterstützung im Kongress: {1} %)
+200dfa	du hast das dieses Jahr schon {0}× gemacht (bringt weniger)
+cab560	nicht erfüllt
+24f263	Preisindex ({0}): {1} (Inflation {2}).
+1643fd	DEIN LEBEN
+688e54	{0} wird {1} Jahre alt.
+141db8	Bruder/Schwester
+e48e9d	Sohn/Tochter
+33dfba	verdient anfangs ~{0}/Jahr; wächst, wenn du investierst
+9c132e	Anfangsinvestition {0}
+c3265c	Du eröffnest dein {0} ({1}).
+0c4f7a	Dir wird das Visum verweigert ({0}).
+5884ec	Umziehen ({0}) ({1})
+a1f23f	Auswandern ({0}) ({1})
+b6787d	Visumswahrscheinlichkeit {0} %
+9d1c95	Du baust {0} ({1}).
+007bf6	Glück {0} %
+4bdde0	Ort: {0}
+dd4db6	Gewinn im letzten Jahr {0}
+3d8e29	Erweitern zu {0} ({1})
+7b5ece	Dein Geschäft wächst: Jetzt ist es {0}.
+17204e	Du verkaufst dein Geschäft für {0}.
+bdbbd6	Das Geschäft verkaufen ({0})
+314f2e	Du hast {0} investiert ({1})
+3203d2	Du verkaufst deine Investition für {0}.
+9d4b12	Wert {0} ({1}{2} %)
+8bfb00	Wert {0}
+fef8d1	Du verkaufst dein {0}.
+cc57cb	Du kaufst ein {0}.
+e3ff87	Haus bar kaufen ({0})
+2a67b4	🏠 Dein Haus ist {0} wert
+2144b8	⏳ in Ausbildung ({0} Monat(e))
+915030	⛵ auf See, erreicht {0} in {1} Monat(en)
+e6a163	schifft sich nach {0} ein
+60d512	Gen.
+adc1a8	🤖 Auto: nein
+6b7684	Du teilst die Armee: zweimal {0}.
+a57b37	Du vereinst deine Truppen ({0}): {1} Soldaten.
+0d860a	Dein Vasall (Tribut {0}/Jahr)
+5cdbf4	Du brichst den Nichtangriffspakt mit {0}. Die Welt misstraut deinem Wort.
+407bbb	Du erklärst {0} den Krieg. Das Kommando beginnt: Jede Runde ist ein Monat.
+bcc375	{0} akzeptiert den Frieden, wenn du die {1} besetzte(n) Provinz(en) abtrittst.
+0d8827	Du kannst {0} Provinz(en) beanspruchen; du hast bereits {1}.
+48afa1	deren Unabhängigkeit du garantiert hast
+18d4a2	{0} verlangt die {1} besetzte(n) Provinz(en) im Tausch gegen Frieden: {2}.
+905832	{0} bietet Frieden an und tritt dir die {1} von dir besetzte(n) Provinz(en) ab: {2}.
+a4f7c7	{0} steigt eine Stufe auf
+61a6f1	Inflation {0}
+69b4e5	Steuern {0}
+cde16d	Du setzt die Steuern auf Stufe {0}.
+b3f543	Forschung {0}: Stufe {1} → {2}
+434daa	erobert {0}
+6765db	{0} Armee(n) marschieren zur Sammlung ({1}).
+fbf809	Friedenspunkte: {0}; verwendet {1}.
+234d9a	Zahlt dir 10 Jahre lang {0} pro Jahr.
+c6100b	Du befreist {0}.
+92e731	Rep.
+d0ce43	Mon.
+80b06f	deine Eigenschaft: {0} {1}
+152e76	{0} % auf alles über {1}
+a4358b	keine (0 %)
+b5fb5c	Du lebst Jahr für Jahr in der echten Welt von 2026. Diese Tour zeigt dir, wo alles ist. Du kannst sie unter Mehr → Leitfaden wiederholen.
+8311a0	Ziehen zum Bewegen, Zwei-Finger-Geste zum Zoomen. Tippe auf eine Provinz für Bevölkerung, BIP, Gelände und Aktionen. Beim Zoomen erscheinen Städte, Straßen und Gebäudesymbole.
+8177d2	Ändere, was die Karte zeigt: Politik, Gelände, Wohlstand, Bevölkerung, Zufriedenheit, Diplomatie, Regierung und mehr.
+ded793	Dein Name, Alter, Geld und das Jahr. Deine Attribute (Gesundheit, Zufriedenheit, Intelligenz, Aussehen und Einfluss) stehen auf der Statistikkarte.
+fe7005	Jede Aktion kostet Tage deiner Freizeit (120 pro Jahr, lädt ~10 pro Monat auf): Lernen ~30 Tage, ein Date ~5, ein Wahlkampf ~45. Wiederholen im selben Jahr bringt weniger.
+2fa3b4	Jobs, Ausbildung und Laufbahnen: Politik, Militär, Wirtschaft oder Ruhm. Das ist der Weg zur Macht.
+48d1cd	Wähle, wie weit es vorangeht: Tag, Woche, Monat, Jahr oder 5 Jahre. Leichtes (deine Freizeit, Nachrichten) läuft täglich; Wirtschaft und Krieg werden am Ende jedes Monats und Jahres berechnet. Die Uhr hält bei wichtigen Entscheidungen von selbst an.
+545047	Schlagzeilen live. Tippe darauf, um das Portal zu öffnen: regional, national und international (in der Länderansicht die Internationale Agentur im förmlichen Ton).
+cbc139	Daten deiner Nation und, wenn du regierst, die Ansicht 🏛️ Land: Provinzen, Armee, Wirtschaft, Diplomatie und Krieg.
+f6b534	Personen, Besitz, Finanzen, 👑 Dynastie und Erbe, 📘 Leitfaden, Einstellungen und Geschwindigkeitstest. Viel Glück!
+04539b	{0} gespeicherte Partie(n) wiederhergestellt. Öffne sie unter 💾 Spielstände.
+96af0a	Die Partie wird in ihrem Slot unter 💾 Spielstände gespeichert. Lösche ungenutzte Slots, falls die Warnung bleibt.
+9393cb	„{0}“ laden? Die laufende Partie wird vorher in ihrem Slot gespeichert.
+190bb8	„{0}“ mit der laufenden Partie überschreiben?
+f9c93a	„{0}“ löschen? Das lässt sich nicht rückgängig machen.
+3d40c5	Automatisches Kopieren nicht möglich: Der Text steht im Feld Importieren; kopiere ihn von dort.
+94764d	Die Partie ({0} KB Text) ist in der Zwischenablage.
+a57e7d	In Slot {0} gespeichert.
+067de4	Dein älterer Bruder, der in den USA arbeitet, schickt der Familie Geld.
+4e0b7b	Deine Cousine, die in den USA arbeitet, schickt der Familie Geld.
+5f5f42	Dein Onkel, der in den USA arbeitet, schickt der Familie Geld.
+d00170	Ein Cousin, der in den USA arbeitet, schickt der Familie Geld.
+2cb192	Du befreist {0} ({1} Provinz(en)).
+fb1c57	Du befreist {0} ({1} Provinz(en)) als deinen Vasallen.
+13abaa	Erbe (Haupterbe, {0} %): Du erhältst {1}.
+215918	Erbe (gleiche Teilung, {0} %): Du erhältst {1}, nachdem du {2} Erbschaftsteuer gezahlt hast.
+78a43d	Erbe (Haupterbe, {0} %): Du erhältst {1}, nachdem du {2} Erbschaftsteuer gezahlt hast.
+a9fb9c	Erbe (gleiche Teilung, {0} %): Du erhältst {1}.
+3bb424	Monat {0} von 12
+1bf81f	ehrlich
+335845	loyal
+ad2a34	großzügig
+782a85	ehrgeizig
+36663a	habgierig
+bcf550	nachtragend
+6c41a7	Eigenschaft
+9cc117	{0} % pro Jahr
+662989	1 zu {0} pro Jahr
+41b0bc	· Würfel: {0}/100
+6322bd	🎲 Wahrscheinlichkeit in deiner Lage:
+e0560d	Indikator: {0} Morde pro 100.000 Einw. ({1}).
+c0ab68	(Eigenschaft von {0}: {1}. Arbeitslosigkeit ({2}): {3} %. Rückzahlungswahrscheinlichkeit: {4} %.)
+d36d42	Nettovermögen (mit Haus)
+7820ad	Importiert
+d1b620	Schwierigkeit
+c5dce7	+10 %, angemessen
+cffeb8	{0} ist dir böse
+637569	{0} ist dir weniger böse
+e11d21	{0} geht trotzdem.
+231f54	{0} nimmt das Bündnis an.
+e2b716	{0} lehnt das Bündnis ab.
+cb556f	{0} ist zu Friedensverhandlungen bereit.
+e2f48f	{0} lehnt den Frieden ab.
+f9f32b	{0} nimmt den Frieden an. Du gewinnst kein Gebiet.
+2b944e	{0} wird dein Vasall.
+d482d0	{0} schlägt einen Status-quo-Frieden vor: Jeder behält sein Gebiet, besetzte Gebiete werden zurückgegeben.
+657897	{0} ({1} Kern)
+691a77	gegen
+618686	gewürfelt: {0}, nötig: {1} oder weniger

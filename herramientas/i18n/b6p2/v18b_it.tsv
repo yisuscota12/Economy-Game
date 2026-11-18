@@ -1,0 +1,6 @@
+79fb15	⚙️ Salvataggio in background: attivo
+b5a885	⚙️ Salvataggio in background: disattivato
+ba9757	La partita viene preparata e compressa in un altro thread, così lo schermo non si blocca durante il salvataggio.
+bebce2	La partita viene salvata nel thread principale, come prima della v1.8b.
+f3bfa7	Non disponibile in questo browser: si usa il salvataggio di sempre.
+14ce48	Avanzamento interrotto. Manca/mancano {0} giorno/i: tocca di nuovo il pulsante per completarlo.

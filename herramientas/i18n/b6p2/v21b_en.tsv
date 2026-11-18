@@ -1,0 +1,106 @@
+da4112	Country's growth
+e770f6	Recession
+c42c4a	Interest rates
+b82b50	War
+2091ec	Oil price
+6f40f5	Metal prices
+de3107	Banking crisis
+eaa432	Health of the banks
+25df08	Its customers (chain)
+8ba059	Household consumption
+428aa6	Recent bankruptcies
+eb9d92	Sector trend
+2a9066	Households in the province
+ba2f44	Tourists
+0ed580	Other companies in the country
+2b3fa3	Companies and households adopting technology
+90c48c	Households across the country
+cfcdcf	World market: you sell at the international price
+bf3612	due to a company's bankruptcy
+fe1287	due to a company's closure
+04d5bf	{0} months
+01c6b3	Contribution to the local economy
+e29d55	It hasn't closed its first month yet.
+ae31cc	Value added per year
+a59004	With suppliers and wages
+a14887	Jobs
+e0373a	direct + indirect
+8cf54c	Taxes and contributions
+78ca2c	per year
+f45225	Province's GDP
+54e3cd	Country's GDP
+c37c0c	Value added = sales − inputs: what your company adds to the economy.
+2ccea0	Its purchases from suppliers and the wages your employees spend create more activity (multiplier).
+bd431d	Every year that contribution enters the GDP of {0}.
+5d2777	Supply chain
+163de9	Inputs
+e9b8a1	{0} % of the cost
+725a2b	price since 2026
+3c8275	Produced by your company
+f9c7b3	(10 % cheaper)
+c60a91	Vertical integration: you save {0} a month on inputs.
+e84b64	Customers
+928862	Health of your sector
+cd52f2	Effect on your demand
+0b5c1a	Province's demand
+6b7103	Your contribution to the economy
+33a71c	Your country's GDP
+e0d793	See your companies on the map
+b5aae0	Buying in another country is foreign direct investment: you pay {0} % in fees and the company operates with that country's wages, taxes and crises.
+59502b	Fees: {0}
+c33869	That country no longer exists.
+ff7f4c	Foreign investment fees: {0}.
+afd069	You buy {0} for {1}. Foreign investment fees: {2}.
+bd6bcf	You buy {0} for {1} (you pay {2}; {3} of credit stays as the company's debt). Foreign investment fees: {4}.
+b5a26e	Competitor in the same line of business
+ec0385	Pays more if the company is healthy: it gains customers and branches.
+488eb4	Private equity fund
+2fabc6	Only buys profitable companies; pays according to their cash flows.
+1342fe	Individual investor
+67b06b	Offers less, but buys almost any company.
+033f80	Sell the company
+3b6679	Estimated value
+99ff29	Company health
+e4ed68	Each buyer bids according to the company's health: margin, reputation, growth and debt.
+21206a	You can accept or ask for more: if they refuse, they lower their offer a little; after the second refusal they walk away.
+5b72aa	Offers are renewed every 3 months.
+095408	For now there are no interested buyers.
+c733ab	Already refused to pay more: {0}
+8f9f73	Accept
+4f5c13	{0} Capital Fund
+37b68c	{0} walks away: won't pay more for {1}.
+362d66	{0} refuses to pay more and lowers its offer to {1}. You can accept it or try once more.
+dadf29	You sell {0} to {1} for {2} ({3} % more than their offer). The company keeps operating with its new owner.
+2b53c9	You sell {0} to {1} for {2}. The company keeps operating with its new owner.
+ba0b31	Health of the sectors
+19f297	50 is normal.
+f3c89a	Each sector depends on its customers: if construction falls, industry and mining feel it later (supply chain).
+cd2c1f	Tap a sector to see its causes.
+84fdb6	Its debtors
+99ebbc	Local economy
+84b89e	Economic activity
+d276d5	Main sector
+1bc7f4	{0} % of the economy
+b6d859	Local economy and your companies
+df6537	weak
+7af0f1	strong
+ee64e3	Your companies
+bd7d15	The provinces' economic activity is calculated on the main thread.
+d215c8	Not available in this browser: it is calculated on the main thread.
+012346	The economic activity of the 3,422 provinces is calculated on another thread every month.
+59e47e	World economy in the background: on
+1f3ade	World economy in the background: off
+1662ca	The bankruptcy of {0} leaves {1} people jobless in {2}; banks in {3} lose {4} in loans that won't be repaid.
+737a53	When {0} closes, {1} people lose their jobs in {2} and the province's demand drops for a few months.
+694f77	Value added
+01640b	What a company adds to the economy: its sales minus what it buys from other companies (inputs). The sum of the value added of all companies is GDP.
+66fdc7	Economic multiplier
+54f06b	Every peso a company spends on suppliers and wages is spent again in other businesses; that is why its total effect on the economy is larger than its own sales.
+aaabdb	Vertical integration
+3daa84	Owning your own supplier (or customer): the input is cheaper and you don't depend on others, but you concentrate the risk.
+4d3788	Foreign direct investment
+816d1b	Buying or opening companies in another country. It brings jobs and capital to the receiving country; the investor takes on its crises, its taxes and its currency.
+60cc9e	Valuation multiple
+fab259	How many times its annual profit is paid for a company. A buyer pays a higher multiple if the company grows, has a good margin and little debt.
+220bd8	Network of companies that sell to each other: if a major customer enters a crisis, its suppliers feel it later, and so on down the chain.
+d0a528	Connected economy

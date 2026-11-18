@@ -1,0 +1,197 @@
+c627fc	Zustand der Wirtschaft
+be67ec	Unternehmen
+d55063	Banken
+847b37	Regierung
+583f1c	Welt
+f20262	Risiko
+bef920	Jede Anzeige reicht von 0 bis 100 und zeigt, was sie steigen und was sie fallen lässt.
+e80e50	Tippe auf eine Anzeige, um ihre Ursachen zu sehen.
+b3c287	Du hast noch keine Unternehmen. Gründe sie unter 🏪 Meine Unternehmen: hier siehst du ihren Zustand.
+833d4b	Verschiedene Branchen
+a2b510	Schwächste Branche
+eac819	Deine Unternehmen hängen von wenigen Branchen ab: Fällt eine, fallen sie gemeinsam.
+e29b75	Wer in andere Geschäftszweige diversifiziert, verteilt das Risiko.
+ae22f1	Finanziell: Marge, Ruf, Wachstum und Schulden (dieselbe, die Käufer nutzen).
+9b729e	Sozial: Löhne, Arbeitslast, Ruf, Verluste, ihre Branche und ihre Provinz.
+b1a4a9	Unter 30 herrscht Unmut und der Ruf sinkt jeden Monat.
+6b1098	Finanzieller Zustand
+42ad83	Sozialer Zustand
+c16a01	Gewinnmarge
+56ba2a	Ruf
+04161f	Umsatzwachstum
+fe1343	Schulden im Verhältnis zum Umsatz
+5908a8	Löhne im Vergleich zum Markt
+8fb0ac	Arbeitslast
+57396c	Verluste, die Arbeitsplätze gefährden
+6d5a5a	Zustand ihrer Branche
+0b5c1a	Nachfrage in der Provinz
+3c6663	Zustand seiner Unternehmen
+cab686	Diversifizierung
+b6aa21	Verschuldung
+12a447	Geschäftsführer
+d01aa6	Natürliche Erholung
+bc3174	Regulierung
+e770f6	Rezession
+ac8b72	Zinserhöhungen
+181407	Politische Stabilität
+99a07b	Sparprogramm
+a6275b	Kapital im Verhältnis zu den Krediten
+4a069d	Schuldenkosten im Verhältnis zum Wachstum
+ee29ef	Staatskasse
+37c1e3	Internationale Reserven
+e03871	Inflation
+824c69	IWF-Programm
+b82b50	Krieg
+eb3bfb	Zustimmung zur Regierung
+a42fbe	Glück der Bevölkerung
+45edda	Weltwirtschaftswachstum
+3a99c4	Länder in einer Bankenkrise
+f1ab57	Länder in der Rezession
+2091ec	Ölpreis
+8dddb5	Schwache Banken
+bdd0f8	Laufende Bankenkrise
+b75288	Anfällige Branchen
+100dc0	Konzentrierte Wirtschaft
+bc6c8f	Ansteckung durch Nachbarn
+a16c6a	Einnahmen im Verhältnis zu den Ausgaben
+29ce23	Kasse
+6a04c7	Stimmung der Fans
+3090ad	Staatsverschuldung
+53ba43	Hohe Staatsverschuldung
+1282f9	Reserven, die abfedern
+4ce7b0	Haushalte in Not
+24ffb7	Aktive IWF-Programme
+3cfdcc	Kritisch
+b44405	Anfällig
+e9c0f4	Stabil
+35bf06	Gesund
+bb90d1	Niedrig
+fd0855	Mäßig
+f46edd	Hoch
+86df48	Sehr hoch
+a822ef	Alles auf normalem Niveau.
+07316f	Monatsausgaben
+296312	Banken in {0}
+54dd5c	Bankenkrise im Gange
+2fde65	Risiko einer Bankenkrise in diesem Jahr: {0}
+c88199	Was ihn dieses Jahr bewegt (Punkte pro Jahr):
+98bce2	Banken verleihen das Geld der Sparer an Unternehmen und Haushalte.
+6aab89	Wenn ihre Schuldner nicht mehr zahlen, verlieren sie Kapital.
+0bd708	Mit wenig Kapital wird eine Welle von Zahlungsausfällen zur Krise und die Kredite frieren ein.
+100cc9	Deine Konten
+8b0fcd	Kontostand
+7b221e	Wenn eine Bank pleitegeht, zahlt dir die Einlagensicherung deines Landes bis zu einer Obergrenze pro Bank zurück: Deine Ersparnisse auf mehrere Banken zu verteilen, schützt besser.
+4d1f43	Deine Bank
+90753c	Kapital im Verhältnis zu den Krediten: {0} %
+5b467c	Einlagen
+a28712	Die internationalen Basel-III-Regeln verlangen von Banken hochwertiges Kapital von mindestens 7 % ihrer risikogewichteten Aktiva.
+6d5585	Im Spiel entsprechen 20 % Kapital im Verhältnis zu den Krediten einem Zustand von 100.
+852e14	{0} % des BIP
+ac0e8f	Anleihezins
+5bf106	Zustimmung
+78f460	Fiskalischer Zustand
+d60f47	Eine gesunde Regierung zahlt ihre Schulden, ohne unterzugehen: wenig Schulden, Zinsen unter ihrem Wachstum und Reserven für Notfälle.
+0d6a06	Fällt der fiskalische Zustand unter 35, bekommen Staatsbedienstete keine Gehaltserhöhungen mehr.
+193b1c	Unter 15 werden Stellen gestrichen.
+a0f2d9	Der soziale Zustand vereint Zustimmung, Stabilität, Glück, Konsum und Inflation.
+3bfeab	Er sinkt mit Kriegen, Rezessionen und Sparpolitik, und eine Gesellschaft in Not konsumiert weniger.
+fcc28f	IWF und Weltfinanzsystem
+6ad6fc	Weltfinanzsystem
+bb31d7	IWF-Programme
+273d37	Der IWF leiht Ländern in der Krise Geld im Gegenzug für ein Anpassungsprogramm.
+f0aaaa	Die Weltbank finanziert Entwicklungsprojekte.
+8a1b71	Wenn viele Volkswirtschaften gleichzeitig fallen, nährt sich die Ansteckung selbst.
+fd103d	Weltbank
+e2386f	Länder mit Weltbank-Projekten: {0}.
+21dfbe	Deine Organisationen
+a1868f	Wenn du eine eigene Bank, einen Verein oder ein Gym hast, erscheint ihr Zustand hier.
+ac3b03	Dein Verein
+12ae18	Dein Gym
+02639e	Deine Promotion-Firma
+105504	Systemrisiko
+064aa8	Systemrisiko von {0}
+a1f2a5	Systemrisiko ist die Wahrscheinlichkeit, dass der Fall eines Teils das ganze System mitreißt.
+26e90d	Hier ist 0 ruhig und 100 eine Krise kurz vor dem Ausbruch.
+773e69	Ansteckungskette
+db530e	Der schwächste Kunde der Banken
+8aad51	Wenn {0} weiter fällt, treffen seine unbezahlten Schulden die Banken.
+8665aa	Mit weniger Krediten konsumieren die Haushalte weniger, und das trifft alle Branchen: So breitet sich eine Krise aus.
+88e038	Nachbarn in der Krise
+f845e6	Kein Nachbar steckt in einer Bankenkrise oder Rezession.
+6a5d23	Wenn eine Bankenkrise ausbricht, erleiden die Banken der Nachbarländer einen Schlag, der der Größe dieser Volkswirtschaft entspricht.
+cd67b0	Ist es eine sehr große Volkswirtschaft, spürt es die ganze Welt.
+fd0200	Länder mit dem höchsten Risiko
+99ff29	Zustand des Unternehmens
+77fb83	Zustand all deiner Unternehmen
+ecd4cd	Zustand deiner Unternehmen
+d9b22f	Zustand und Risiko
+ee9446	Unternehmen, Banken, Regierung, Organisationen und Ansteckungsrisiko
+cbc3a1	Dein Arbeitgeber: der Staat
+b2fc1a	fiskalischer Zustand
+2783a0	Deine Branche
+0c6be4	Kündigungsrisiko: {0} % pro Jahr
+bd4e96	Vorerst kein Kündigungsrisiko
+678483	Gehaltserhöhungen eingefroren, solange sie unter 35 bleibt.
+bccfc6	Gute Zeiten: Jede Beurteilung bringt bis zu {0} % extra.
+841404	Normale Gehaltserhöhungen.
+b5d240	Im Ruhestand
+d40fe7	Im Ruhestand
+635017	Arbeitet beim Staat
+040572	Arbeitet in der Branche {0}
+1872e6	Sucht Arbeit
+deeb2b	Sucht seit 1 Monat Arbeit
+46f7dd	Sucht seit {0} Monaten Arbeit
+951e84	Mit Geld helfen ({0})
+d81819	+Beziehung, während der Arbeitssuche
+7cf003	Du gibst {1} {0}, während der Arbeitssuche.
+48cd53	Systemrisiko nach Land
+ee24bf	hoch
+98973d	niedrig
+c121f9	🏭 Die Branche eines deiner Unternehmen ist schwach: Diversifiziere in einen anderen Geschäftszweig und prüfe ihren Zustand unter 🩺.
+50bad6	Hier siehst du, wie gesund deine Unternehmen, die Banken, die Regierung und die Welt sind. Fällt eine Branche, reißt sie ihre Zulieferer mit, die Banken, die ihr Geld geliehen haben, und die Menschen, die dort arbeiten: So breitet sich eine Krise aus.
+74ec80	Am 15. September 2008 ging die Investmentbank Lehman Brothers pleite. 2009 schrumpfte die Weltwirtschaft zum ersten Mal seit dem Zweiten Weltkrieg.
+4f2eb0	Internationaler Währungsfonds
+4cbdf7	In der Krise von 1994–1995 (dem «Tequila-Effekt») fiel das BIP Mexikos 1995 um etwa 6 %, und die Krise griff auf andere Märkte Lateinamerikas über.
+79d6fc	INEGI; Weltbank
+04ae42	Die Asienkrise begann am 2. Juli 1997, als Thailand seine Währung freigab. Sie griff auf Indonesien, Südkorea und Malaysia über, und das BIP Indonesiens fiel 1998 um mehr als 13 %.
+d7ae94	Nach der Krise von 2008 erreichte die Arbeitslosigkeit in den USA im Oktober 2009 10 %.
+c8c13f	US-Behörde für Arbeitsstatistik
+55a2d3	Die Basel-III-Regeln verlangen von Banken hochwertiges Kapital von mindestens 7 % ihrer risikogewichteten Aktiva (4,5 % Minimum plus 2,5 % Puffer).
+fb747d	Bank für Internationalen Zahlungsausgleich
+668c82	In den USA deckt die Einlagensicherung bis zu 250.000 Dollar pro Person und Bank. In Mexiko deckt das IPAB bis zu 400.000 UDIS.
+22be78	FDIC; IPAB
+8d4ec0	Eine Bank ist «systemrelevant», wenn ihre Pleite das ganze Finanzsystem mitreißen würde. Deshalb müssen die größten der Welt mehr Kapital halten.
+a8c2e4	Finanzstabilitätsrat
+549599	Finanzielle Ansteckung
+ee35bc	Bankenrettung
+d60368	Solvenz
+4828c7	Liquidität
+3a4bbf	Eigenkapitalanforderung
+4ff337	Arbeitslosigkeit
+65b36c	Das Risiko, dass der Fall eines Unternehmens, einer Bank oder einer Branche das ganze Wirtschaftssystem mitreißt, weil alle durch Kredite, Verkäufe und Arbeitsplätze verbunden sind.
+467500	Wenn die Krise eines Landes, einer Bank oder einer Branche auf andere übergreift: durch unbezahlte Schulden, Panik der Anleger oder weniger Handel.
+288d08	Wenn die Regierung (oder der IWF) Geld einsetzt, um angeschlagene Banken zu retten und zu verhindern, dass die Kredite einfrieren. Die Steuerzahler tragen die Kosten.
+98807d	Die Fähigkeit, alle deine Schulden mit dem zu bezahlen, was du besitzt. Ein Unternehmen oder eine Bank ist insolvent, wenn es mehr schuldet, als es wert ist.
+fbaa3c	Geld, das sofort zum Bezahlen verfügbar ist. Ein Unternehmen kann profitabel sein und trotzdem pleitegehen, wenn ihm das Bargeld für Löhne und Lieferanten ausgeht.
+01763d	Der Teil ihrer Aktiva, den eine Bank mit eigenem (nicht geliehenem) Geld halten muss, um Verluste aufzufangen, ohne pleitezugehen.
+c77844	Menschen, die arbeiten wollen und Arbeit suchen, aber keine haben. Sie steigt, wenn die Branchen, in denen sie arbeiten, in die Krise geraten.
+346242	Zustand der Wirtschaft und Ansteckung
+bf63fc	🌐 Ansteckung: Die Bankenkrise in {0} trifft die Banken in {1}.
+7d2019	Weltweite Ansteckung: Die Bankenkrise in {0} trifft Banken auf der ganzen Welt.
+829b26	🏛️ {0} verliert die Stelle beim Staat: Der fiskalische Zustand liegt bei {1}/100.
+3de1d0	📉 {0} verliert die Arbeit in der Branche {1}: Die Branche liegt bei {2}/100.
+6b921c	📈 {0} bekommt eine Gehaltserhöhung: Der Staat kann es sich leisten (fiskalischer Zustand {1}/100).
+684779	📈 {0} bekommt eine Gehaltserhöhung: Der Branche {1} geht es gut ({2}/100).
+e2a88b	💼 {0} findet nach 1 Monat eine Stelle beim Staat.
+068e68	💼 {0} findet nach {1} Monaten eine Stelle beim Staat.
+a1fcf1	💼 {0} findet nach 1 Monat Arbeit in der Branche {1}.
+d17698	💼 {0} findet nach {2} Monaten Arbeit in der Branche {1}.
+cffffe	📉 Der Staat streicht Stellen: Sein fiskalischer Zustand liegt bei {0}/100.
+d1bded	📉 {0} baut Personal ab: {1} liegt bei {2}/100.
+a2e72c	⏸️ Der Staat friert die Gehälter im öffentlichen Dienst ein: Sein fiskalischer Zustand liegt bei {0}/100 und deine Erhöhung von {1} % wird zurückgenommen.
+572d28	⏸️ {0} friert die Gehaltserhöhungen ein: {1} liegt bei {2}/100 und deine Erhöhung von {3} % wird zurückgenommen.
+b57143	📈 Der gute fiskalische Zustand des Staates ({0}/100) bringt dir {1} % mehr Lohn.
+56b32e	📈 Die guten Zeiten in der Branche {0} ({1}/100) bringen dir {2} % mehr Lohn.
+2d4e49	😠 Unmut bei {0}: Niedrige Löhne oder Überlastung schaden ihrem Ruf.
+aa957c	Tippe jemanden an, um zu interagieren (einmal im Jahr pro Person).
+f3f8bb	Gute Beziehungen öffnen Gefallen, Kredite und Jobs, und Rivalen können dich sabotieren.

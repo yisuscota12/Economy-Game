@@ -1,0 +1,228 @@
+65225c	D	Tener el balón, pases cortos y paciencia. Rompe los bloques bajos; sufre con la presión alta.
+e5beae	D	Posesión
+5313c5	D	Presión alta
+54ace6	D	Recuperar arriba y rápido. Asfixia a los equipos de posesión; deja espacio a la espalda.
+700856	D	Esperar y salir rápido. Castiga las defensas adelantadas; sufre sin el balón contra la posesión.
+fd1844	D	Contragolpe
+4cc592	D	Bloque bajo
+7166e7	D	Defender cerca del área y cerrar espacios. Neutraliza el juego directo; sufre contra la posesión paciente.
+3fc98c	D	Balones largos y segunda jugada. Salta la presión; choca con los bloques bajos.
+93e9a6	D	Juego directo
+037676	D	Sin extremos: se adapta al rival. No tiene ventajas ni desventajas claras.
+56993d	D	Compra barato, forma y vende a los grandes: vive de los traspasos.
+958239	D	Comprador
+bfaaca	D	Ficha figuras y paga traspasos altos; vende poco y caro.
+275cfa	D	Compra y vende según lo que necesita.
+dce9ac	D	De cantera
+e914fe	D	Apuesta por sus juveniles: sus figuras llegan jóvenes y con más potencial.
+18a046	D	Austera
+525174	D	Ambiciosa
+ef5959	D	De galácticos
+9bc2c5	D	Popular
+2f0ada	D	Campo municipal
+912d13	D	Centro moderno
+9c9eda	D	Centro de élite
+9d6d76	D	Centro básico
+de9953	D	Ciudad deportiva
+41347f	D	Academia regional
+5c642f	D	Escuela de fútbol
+61da4b	D	Sin academia
+9fd328	D	Academia nacional
+f17aa6	D	Academia de élite
+773471	D	Sin licencia
+026e9d	D	Ascender
+37bc23	D	Evitar el descenso
+4f7927	D	Terminar en la primera mitad
+73a7c7	D	Clasificar a la copa continental
+ab8a73	D	No terminar en los tres últimos lugares
+cd9075	D	Ganar la liga
+e5fa55	D	Ganar la liga regional
+5e84cb	T	{0} no renueva a su entrenador, {1}, tras una mala temporada. Su reemplazo: {2} ({3}).
+09f1f5	T	{0} destituye a su entrenador, {1}, después de {2} partidos por los malos resultados. Su reemplazo: {3} ({4}).
+63aa35	T	{0} deja {1} y se convierte en el nuevo entrenador de {2} ({3}).
+10f3a1	T	{0} anuncia el retiro de su entrenador, {1}. Su reemplazo: {2} ({3}).
+409b99	D	Falta un centro de entrenamiento.
+555745	T	Falta un estadio de {0} lugares.
+96dee2	T	🏆 ¡{0} gana: {1}! Premio para el club: {2}.
+0d7844	T	🏗️ El ayuntamiento aprueba el permiso: empieza la obra ({0} meses).
+ab5af1	D	🏗️ El ayuntamiento rechaza el permiso de obra. Puedes volver a solicitarlo.
+c9a918	T	🏟️ Termina la ampliación: tu estadio ya tiene {0} lugares.
+cc455a	T	🏋️ Abre tu nuevo centro de entrenamiento: {0}.
+86699e	T	📨 {0} ofrece {1} por {2}. Revisa ⚽ Tu club → Mercado.
+ffe27d	T	💵 Pones {0} de tu bolsillo para cubrir los números rojos de {1}.
+7c7649	T	⚖️ {0} entra en administración por sus deudas y se vende a un nuevo dueño. Recibes {1}.
+95820c	T	{0} entra en administración y cambia de dueño.
+6582d8	T	⚠️ {0} está en números rojos y no tienes con qué cubrirlos. Vende figuras, baja la masa salarial o aporta capital.
+c09dad	T	🎯 Objetivo de la temporada para {0}: {1}.
+d973be	T	✅ {0} cumple el objetivo de la temporada ({1}): termina en el lugar {2}.
+517e79	T	❌ {0} no cumple el objetivo de la temporada ({1}): termina en el lugar {2}.
+e0a38b	T	⚖️ La liga multa a {0} con {1} por no cumplir la licencia.
+7d20ac	T	⏳ {0} necesita al menos seis meses en la liga regional antes de pedir su ingreso a la {1}.
+3738fe	T	📋 {0} no obtiene la licencia de la {1}.
+f5dfa6	T	📋 Para entrar a la {0} necesitas comprar una plaza (franquicia).
+354ea6	T	{0} ingresa a la {1} y ocupa la plaza de {2}, que baja a las categorías regionales.
+e51d62	T	🎉 ¡{0} entra a la {1}!
+a589fa	T	📋 {0} termina en zona de ascenso, pero no obtiene la licencia de la {1}. Sube el siguiente.
+379bd5	T	🎉 ¡{0} asciende a la {1}!
+579ab4	T	⬇️ {0} desciende a la {1}.
+110f5e	D	Las reglas no permiten que un futbolista en activo sea dueño de un club.
+b414b3	D	Necesitas ser mayor de edad.
+abda79	D	Ya eres dueño de un club.
+dea1c7	T	Comprar {0} cuesta {1}.
+bf5c17	T	Compras {0} por {1}. Ahora decides la masa salarial, los fichajes, las obras y quién dirige al equipo.
+f04535	T	{0} compra {1} por {2}.
+658bc4	D	Ya existe un club con ese nombre.
+b4b78c	T	Fundar un club cuesta {0}.
+cb6635	T	Para entrar a la {0} necesitas seis meses de competencia y un estadio de {1} lugares.
+db5bd7	T	Fundas {0}. Juega en la liga regional y renta un campo municipal de {1} lugares.
+71662b	T	La plaza cuesta {0} y tu club solo tiene {1} en caja.
+edcfbb	D	Ya compraste la plaza.
+1207fd	T	Compras una plaza en la {0} por {1}. Entrarás al terminar la temporada si cumples la licencia.
+f2b559	T	Vendes {0}. Recibes {1} (incluye la caja del club).
+5eb3f7	T	No tienes {0}.
+85a110	T	Aportas {0} a la caja del club.
+086101	T	Retiras {0} de la caja del club.
+61b2b1	D	La caja del club no alcanza.
+02ea66	D	Ya tienes una obra en marcha.
+472782	D	El estadio no puede pasar de 100 mil lugares.
+8e8ac6	T	La obra cuesta {0} y el permiso {1}.
+1c78ed	T	Solicitas el permiso de obra para ampliar el estadio en {0} lugares. El ayuntamiento responde en 2 a 4 meses.
+99e68e	D	Ya tienes el mejor centro.
+41d74d	T	Solicitas el permiso para construir {0}. El ayuntamiento responde en 2 a 4 meses.
+476363	T	Empieza la obra: {0} (3 meses).
+76cfc3	D	Ya tienes la mejor academia.
+8c1b8b	T	Abres tu {0}: cada año pueden salir juveniles con más potencial.
+afacdc	D	El mercado está cerrado: abre en junio y en enero.
+e5c92c	T	A {0} no le interesa tu proyecto: tu club está muy por debajo de su nivel.
+38d1e8	T	El traspaso cuesta {0} y tu club tiene {1} en caja.
+c01f9c	D	Tu plantel ya tiene diez figuras.
+4fa5ea	T	{0} firma con {1}: traspaso de {2} y sueldo de {3} al año.
+74e01f	T	Ningún club ofrece lo que vale {0} por ahora.
+70f57f	T	Vendes a {0} a {1} por {2}.
+72ab90	T	Rechazas la oferta de {0} por {1}.
+0d3252	T	Aceptas: {0} se va a {1} por {2}.
+2ae8e9	T	Necesitas {0} en caja (liquidación del DT actual e indemnización).
+f51cb9	T	{0} es el nuevo entrenador de {1}: {2}, sueldo de {3} al año.
+3ba870	T	Para dirigir a {0} necesitas la {1}.
+214503	T	Cambias el estilo de juego a {0}. El plantel necesita unos meses para adaptarse.
+3107ca	T	La liquidación del DT actual cuesta {0}.
+4f4776	T	Tomas el banquillo de {0}. Tu fuerza como DT: {1}.
+627aa9	D	⭐ Curso exprés:
+e10c49	D	Ya la tienes
+f675a8	T	Antes necesitas la {0}
+6db1e0	D	Un año después de la anterior
+f81838	T	Apruebas el curso y obtienes la {0}. Tu fuerza como DT: {1} (máximo {2} con esta licencia).
+5cdd46	D	Malo
+90e998	D	Ideal
+94144b	T	👤 {0} tiene nuevo entrenador: {1} ({2}). Tu encaje con su estilo: {3}. La confianza del DT empieza de cero.
+5c0411	T	🌱 Tu academia promueve a {0} ({1} años, {2}, potencial {3}).
+583170	D	ft17 año
+68c625	D	licencias de entrenador
+768bb4	D	⚽ Ser dueño de un club de fútbol
+959325	D	⚽ Tu club de fútbol
+e956dc	D	Compra un club o funda uno
+b4d114	D	.ft7t{width:100%;border-collapse:collapse;font-size:12px;font-variant-numeric:tabular-nums}.ft7t td,.ft7t th{padding:3px 4px;border-bottom:1px solid #1f2b3a;text-align:left}.ft7t th{color:var(--mut);font-weight:600;font-size:11px}.ft7t td.r,.ft7t th.r{text-align:right}\n.ft7t .s{font-size:11px;color
+0e4333	D	Edad
+3488d6	D	Formación habitual
+3c3d15	D	Récord (G-E-P)
+58999d	D	Calidad del DT
+be736c	D	En el cargo desde
+e008d0	D	Categorías regionales
+0cb069	D	Modelo de negocio
+1b7d61	D	Ingresos estimados al año
+4397b6	D	Aficionados
+4ab4a4	D	Fuerza
+e3dbe4	D	Valor del club
+347876	T	Llega de {0}
+ede971	D	¿Comprar este club?
+37938f	D	Estilo del DT
+00e6b7	D	Plantilla
+94dd4a	D	Fundar
+9d8aca	D	Instalaciones
+ea9804	D	Licencias
+3e98e0	D	Liga regional
+4fea0c	D	Capital inicial (caja del club)
+5ff1d4	D	Registro ante la federación
+16cfa0	D	Estadio mínimo para la licencia
+9d5764	D	Liga de entrada
+d41547	D	eliges el nombre en el siguiente paso
+fc4a8f	D	🏟️ Fundar un club
+64c889	D	Como exfutbolista profesional haces los cursos en la mitad del tiempo.
+514290	D	Meses dirigiendo
+84b4ae	D	Máximo con esta licencia
+b16ef5	D	Tu licencia
+f09490	D	Tu fuerza como DT
+6eb203	T	fuerza máxima {0}
+eec32e	D	Aprobada
+72d389	D	Lugar en la tabla
+cb5e1b	D	Fuerza objetivo
+7bcbf6	D	Caja del club
+76b653	D	Meses en la liga regional
+1c2f1a	D	💰 Vender el club
+d422e3	T	Recibes alrededor de {0} (incluye la caja del club)
+16db45	T	Necesitas la {0}
+411876	T	tu fuerza como DT: {0}
+6cf571	D	Dejas de pagar sueldo de DT
+b892ac	D	📣 Dirigir tú mismo
+02b1bc	T	indemnización {0}
+6fa4ca	T	pide {0} al año
+11b00c	D	Fuerza actual
+4916f3	D	Sueldos del plantel al año
+eb3280	D	Sueldos de las figuras
+303efa	D	Mercado cerrado
+5dc715	T	media {0}
+948086	T	valor {0}
+05301c	D	A tu alcance
+a4114a	D	Todos
+831e83	T	sueldo {0}
+984162	D	Falta caja
+c53e0e	T	traspaso {0}
+fe80e4	D	No le interesa tu proyecto
+257c0b	D	Lugares
+4a8fd4	D	Asistencia del último mes
+9fc8f7	T	permiso {0}
+e40f2d	D	Ya hay una obra
+eb601c	T	{0} meses de obra
+c8194e	D	Mantenimiento al año
+9da719	D	3 meses de obra
+cb6c1f	D	necesita permiso de obra
+4c34ce	D	abre de inmediato
+181efe	D	Invertido por ti
+33f233	D	Operación y mantenimiento
+6000a1	D	Fichajes y obras
+a26d34	D	Patrocinios y tienda
+b9faad	D	Boletos
+c56269	D	Venta de jugadores
+fa4a30	D	Precio promedio del boleto
+bad3c9	D	De la caja del club a tu dinero
+bb4e9f	D	De tu dinero a la caja del club
+bba8c5	D	entras al terminar la temporada si cumples la licencia
+c941e1	T	📋 Comprar una plaza en la {0}
+e1804f	D	Ya la compraste
+eb067b	D	Nombre del club
+3d594b	D	¿Vender tu club?
+b73399	D	Contratar
+cb5b9b	D	¿Contratar a este entrenador?
+3d7fed	D	¿Dirigir tú mismo al equipo?
+1ba5bf	D	Cada entrenador tiene una idea de juego: posesión, presión alta, contragolpe, bloque bajo o juego directo. Unos estilos neutralizan a otros: la presión alta incomoda a los equipos de posesión, pero deja espacio para el contragolpe.
+d03645	D	El choque de estilos y la calidad del DT mueven poco la fuerza de cada partido. Cuando cambia el estilo, el plantel tarda unos meses en adaptarse. Toca un club en cualquier tabla para ver a su DT.
+476cab	D	Un jugador puede brillar con un entrenador y quedarse en la banca con otro: cada sistema pide cualidades distintas.
+7decd2	D	Encaje táctico
+c8f42d	D	Compara tus atributos con los que más valora el estilo de tu DT. Un buen encaje te acerca a la titularidad; cuando llega un DT nuevo, su confianza en ti empieza de cero.
+3d5e9e	D	El modelo decide qué tan fácil vende un club, a qué precio y quién compra en cada ventana. Los clubes de cantera sacan juveniles con más potencial.
+618328	D	Los clubes grandes compran figuras y venden caro; muchos clubes de Portugal, Países Bajos o Sudamérica viven de vender jugadores a las ligas ricas; otros apuestan por su cantera.
+7ef211	D	Modelos de negocio
+960972	D	Masa salarial
+df5f62	D	La masa salarial te coloca en la tabla de gasto de tu liga y la fuerza del equipo se acerca poco a poco a la que paga. Los sueldos de las figuras cuentan.
+f7b5e9	D	En el fútbol la fuerza del equipo sigue muy de cerca a lo que paga en sueldos: los estudios sobre las ligas europeas encuentran que la masa salarial explica la mayor parte de la posición en la tabla.
+577ea4	D	En primera división hace falta un centro de entrenamiento. Si tu club termina en zona de ascenso sin licencia, sube el siguiente; en primera, la liga te multa cada temporada.
+86c8ea	D	Licencia de la liga
+e3a61c	D	Las ligas piden requisitos para competir: aforo mínimo del estadio, instalaciones de entrenamiento y finanzas en orden.
+0daa1f	D	Para dirigir en las ligas profesionales se exige una licencia: en Europa la UEFA C, B, A y Pro, con cursos de varios meses.
+29cb28	D	Con la B diriges un club regional, con la A uno de segunda y con la Pro uno de primera. Tu fuerza como DT sube cada mes que diriges.
+ca62ff	D	Licencias de entrenador
+5c188c	D	Permisos de obra
+613c1d	D	El permiso cuesta 1 % de la obra y tarda de 2 a 4 meses; 15 % de las veces se rechaza. Solo puede haber una obra a la vez.
+66ea3e	D	Las obras grandes, como ampliar un estadio, necesitan permiso del ayuntamiento y pueden tardar o ser rechazadas.
+e6907a	D	Permiso de obra
+d6d9ac	D	⚽ Fútbol mánager

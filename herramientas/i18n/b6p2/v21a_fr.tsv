@@ -1,0 +1,120 @@
+79f1a0	Croissance
+13860a	Ouvre des succursales quand il y a de la trésorerie et que l’entreprise vend à plein régime.
+9aa21f	Efficacité
+a419b8	Réduit les coûts : le bénéfice augmente avec la compétence du directeur.
+61c537	Prudent
+31385f	Rembourse d’abord les dettes et garde de la trésorerie pour les crises.
+a31d55	Groupe {0}
+bfb596	{0} dirige {1} ({2}, compétence {3}). Salaire : {4} par an, payé par les entreprises du groupe.
+962793	Tu licencies {0} : l’indemnité ({1}) sort de la trésorerie des entreprises du groupe.
+4c1e09	Tu rapatries la trésorerie de {0} : {1} passent à ton argent. Chaque entreprise garde 3 mois de coûts.
+84f001	Aucune entreprise de {0} n’a de trésorerie en trop (chacune a besoin de 3 mois de coûts).
+6f31ff	Le groupe a besoin d’au moins 2 entreprises.
+cfbdb2	Inutile de déplacer de la trésorerie : aucune entreprise n’en a besoin ou aucune n’en a en trop.
+dcefdf	Prêt interne : {0} transfère {1} à {2}, qui rembourse {3} de dette bancaire.
+97b844	Prêt interne : {0} transfère {1} à {2}.
+96cf14	Tu dissous {0} : ses entreprises dépendent de nouveau de toi.
+90205f	Il te manque {0} pour l’audit.
+653aca	L’audit de {0} ({1}) découvre une dette cachée de {2} et des résultats gonflés : les ventes réelles sont {3} % de ce que déclarait le vendeur.
+07432e	L’audit de {0} ({1}) confirme les chiffres du vendeur : il n’y a pas de dette cachée.
+d92860	Il te manque {0}.
+e4eca8	Tu dois avoir 18 ans.
+774901	Le vendeur refuse ton offre pour {0} et la retire du marché.
+d038f3	Le vendeur refuse {0} pour {1}. Tu peux réessayer une fois.
+2c4f8e	Tu achètes {0} pour {1} (tu paies {2} ; {3} de crédit restent comme dette de l’entreprise).
+8a32dc	Tu achètes {0} pour {1}.
+c3810a	Tu achètes {0} pour {1}. En examinant les comptes, tu découvres une dette cachée de {2} : tu n’as pas fait d’audit.
+7d6cad	Tu achètes {0} pour {1} (tu paies {2} ; {3} de crédit restent comme dette de l’entreprise). En examinant les comptes, tu découvres une dette cachée de {4} : tu n’as pas fait d’audit.
+a80a45	Cette entreprise ne peut pas être achetée par OPA.
+b447c9	Tu contrôles déjà cette entreprise.
+6cba2b	Tu as déjà fait une offre pour cette entreprise cette année : les actionnaires n’en accepteront pas d’autre avant l’an prochain.
+5fc942	Les actionnaires de {0} rejettent ton offre de {1} par action. Tu paies {2} aux conseillers et l’action monte sous l’effet de la spéculation.
+14aff7	{0} prend le contrôle de {1} par une offre publique : achète 51 % des actions avec une prime de {2} %.
+cc2471	Tu prends le contrôle de {0} : tu achètes {1} actions à {2} ({3} avec les commissions). Tu choisis maintenant sa stratégie et son directeur.
+da1738	Équilibrée
+e65e56	Reste comme avant.
+7a76c3	Croître
+3da0c1	Réinvestit presque tout : les bénéfices croissent plus vite et elle verse moins de dividendes.
+94f59e	Réduit les coûts : bénéfices un peu plus élevés et l’action bouge moins.
+b94493	Dividendes
+908b77	Distribue plus : dividendes bien plus élevés, mais croît moins.
+026517	{0} change de stratégie : {1}.
+d6c94d	{0} est la nouvelle directrice ou le nouveau directeur général de {1} (compétence {2}).
+c33cbb	Tu passes sous 50 % des actions de {0} : tu perds le contrôle de l’entreprise.
+61204b	Il te fallait {0} ou moins.
+b2c202	Chaque mois ton entreprise vend, paie intrants, salaires, loyer, impôts et dettes ; ce qu’elle distribue arrive dans ton argent.
+00124f	Tu peux diriger en personne jusqu’à {0} entreprises ; au-delà, regroupe-les sous un directeur.
+4696d6	{0} en personne
+fa9f4a	⚠️ Tu diriges {0} entreprises en personne : tu manques de temps et chaque mois elles perdent toutes {1} points de réputation.
+31ac0c	Crée un groupe avec un directeur pour la récupérer.
+55fb54	Entreprises à vendre
+83f3eb	Groupes
+3c25b5	Contrôlées en bourse
+e0af5d	Stratégie : {0}
+5cba62	Mes entreprises
+b2cd36	Entreprises de {0} dont les propriétaires veulent vendre. Les chiffres sont ceux que déclare le vendeur : ils peuvent être maquillés.
+a7f651	Un audit vérifie les comptes et les dettes avant l’achat.
+fcf966	La liste est renouvelée tous les 6 mois.
+ff1f4f	Pour l’instant, aucune entreprise n’est à vendre.
+5a55b8	{0} employés
+8c58df	réputation {0}
+906c35	Ventes par an
+a753b2	Bénéfice par an
+e8d23f	Dette
+29ce23	Trésorerie
+2a469b	Auditée
+75939d	Vendeur pressé
+0c06e4	Dette cachée : {0}
+d83204	Offres refusées : {0}
+d9d394	Auditer ({0})
+1e872c	Avec crédit : tu paies la moitié et l’autre moitié reste comme dette de l’entreprise
+e146d0	Audit
+345238	Un groupe (conglomérat) réunit plusieurs de tes entreprises sous un directeur.
+fddf77	Ainsi tu peux en avoir autant que tu veux sans perdre d’attention, et celles du même secteur partagent clients et fournisseurs (synergies).
+15c6fa	{0} entreprises
+c665a3	Sans directeur
+948086	valeur {0}
+b63dfe	Créer un groupe
+92ac3b	Nom du groupe
+12a447	Directeur
+306fa7	compétence {0}
+f702aa	{0} par an
+3408b6	Sans directeur, les entreprises du groupe ne reçoivent pas ses améliorations. Son salaire est payé par les entreprises du groupe.
+c701f1	Licencier
+7181cb	Entreprises du groupe
+f9059b	{0}/mois
+024340	synergies {0}/mois
+819e73	économies {0}/mois
+36d9a1	Retirer
+ba39af	Il n’a pas encore d’entreprises.
+f6cb1f	Ajouter au groupe
+76afcf	Rapatrier la trésorerie
+749f23	Prêt interne
+67de03	Dissoudre
+96a561	Contrôle de l’entreprise
+5fa13a	Tes actions
+4b5b07	Stratégie
+1c6a17	Dividende par an
+8381a9	Tu contrôles {0} : tu décides sa stratégie et son directeur. Si tu vends des actions et passes sous 50 %, tu perds le contrôle.
+66ca3f	Changer de directeur
+d9a1b7	Choisir un directeur
+cf5468	Avec plus de 50 % des actions, tu contrôles l’entreprise. Une offre publique d’achat (OPA) rachète à tous les actionnaires qui veulent vendre avec une prime sur le prix du jour : plus la prime est forte, plus ils acceptent.
+fb16fb	Il te manque
+8ca912	{0} act.
+be3ffa	Valeur de marché
+136044	Tu as déjà fait une offre cette année : les actionnaires n’en accepteront pas d’autre avant l’an prochain.
+05f71c	Prime
+e11d21	Offre publique d’achat
+4705dc	Offre pour acheter les actions d’une entreprise cotée à tous ses actionnaires, à un prix fixe, pour en prendre le contrôle. On l’appelle OPA.
+3759a9	Prime de contrôle
+6cc33f	Ce que l’on paie au-dessus du prix du marché pour convaincre les actionnaires de vendre et prendre le contrôle.
+28a776	Audit (due diligence)
+b88955	Examen des comptes, contrats et dettes d’une entreprise avant de l’acheter, pour ne pas surpayer des chiffres maquillés.
+73ebba	Rachat avec effet de levier
+46cbb8	Acheter une entreprise avec beaucoup d’argent emprunté que l’entreprise rembourse ensuite avec ses bénéfices. Cela multiplie le gain et le risque.
+d39083	Conglomérat
+1fa8cc	Groupe d’entreprises de secteurs différents sous un même propriétaire et une direction commune.
+860c3b	Synergie
+5e13be	Économie ou vente supplémentaire qui apparaît en réunissant des entreprises qui partagent clients, fournisseurs ou procédés.
+77c8d3	Contrôle en bourse
+e6850f	Acheter des entreprises et des groupes

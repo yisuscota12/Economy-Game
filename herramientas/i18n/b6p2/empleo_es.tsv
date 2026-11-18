@@ -1,0 +1,268 @@
+2beb86	D	Café {C}
+4366df	D	Gerente de piso
+8c8e10	D	Curso de servicio y vinos
+b19c39	D	Restaurantes
+dd9038	D	Fonda La Esquina de {C}
+dfe4b8	D	Capitán de meseros
+9f8dcb	D	Mesero de medio tiempo
+00917b	D	Operario calificado
+25db75	D	Supervisor de línea
+6afcbc	D	Planta {S} y Asociados
+74eafc	D	Manufactura
+94f5cd	D	Jefe de planta
+f2be78	D	Operario
+feaa5e	D	Certificación de montacargas y seguridad industrial
+5f47dd	D	Gerente regional
+5fb2e4	D	Diplomado en ventas
+8784c7	D	Vendedor senior
+91a608	D	Jefe de tienda
+3e14b9	D	Certificado de competencia en construcción
+45ce87	D	Oficial
+722636	D	Construcción
+8a029f	D	Peón
+b940ba	D	Maestro de obra
+1854d3	D	Jornalero
+9a507e	D	Productor
+9c0347	D	Campo
+b6ea8f	D	Curso de riego y agricultura de precisión
+fec8e2	D	Productor con tierras propias
+1faabc	D	Certificación en paquetería de oficina y contabilidad
+317e4f	D	Auxiliar administrativo
+47eabc	D	Coordinador de área
+4e83ca	D	Jefe de oficina
+05f095	D	Oficina estatal de {C}
+2caf0b	D	Diplomado en administración pública
+47dab2	D	Delegación {C}
+847b37	D	Gobierno
+8e7185	D	Ayuntamiento de {C}
+9960c9	D	Auxiliar
+65d419	D	Policía municipal de {C}
+76dadf	D	Policía estatal de {C}
+85b776	D	Seguridad pública
+95f50e	D	Suboficial
+bb20c5	D	Comisario
+e396cc	D	Curso de la academia de policía
+ecc8ab	D	Policía primero
+029afd	D	Jefe técnico
+301b0e	D	Certificación técnica especializada
+3d4afa	D	Servicios Técnicos {S}
+8d5ff3	D	Técnico especialista
+15c63b	D	Secundaria Técnica de {C}
+2b1326	D	Maestría en educación
+76e452	D	Coordinador académico
+b16d01	D	Profesor de base
+ca7665	D	Director de escuela
+ebafca	D	Profesor interino
+1e6ae7	D	Arquitecto de software
+263cf3	D	Programador junior
+2a3192	D	Líder técnico
+72d6e9	D	Programador senior
+d28d03	D	Certificación en la nube
+46a7e8	D	Certificación en gestión de proyectos
+6d0172	D	Ingeniería {S}
+7e2469	D	Ingeniero junior
+8c3f49	D	Ingeniero senior
+f4762a	D	Gerente de ingeniería
+011605	D	Abogado asociado
+019bc5	D	{S} y Asociados
+0398bf	D	Abogado senior
+0c565e	D	Despacho Jurídico {C}
+1f4f0f	D	Socio del despacho
+7140d8	D	Servicios legales
+b76cc3	D	Maestría en derecho
+e33833	D	Pasante
+42e354	D	Clínica {S}
+5d4a06	D	Jefe de servicio
+7ab414	D	Médico especialista
+894f03	D	Médico general
+9b2e31	D	Centro Médico {C}
+c88e92	D	Subjefe de servicio
+cc35c0	D	Especialidad médica (residencia)
+f29e25	D	Hospital General de {C}
+1f4928	D	Curso de capacitación
+282819	D	Encargado
+2cd4fa	D	Supervisor
+17fdcf	D	Diurno
+824b8c	D	Nocturno
+8fa6b9	D	Rotativo (cambia cada semana)
+af15e6	D	Mixto
+86df48	D	Muy alto
+bb90d1	D	Bajo
+f46edd	D	Alto
+04251e	D	Lo normal
+e18540	D	Horas extra
+f58f80	D	Lo mínimo
+78cde9	D	Upper middle income
+a34683	D	Habilidad en el oficio
+aa3ec4	D	Relación con tu jefe
+e201ca	D	Horas que trabajas
+55230a	D	Antigüedad
+90499f	D	Certificación
+fed9ee	D	Estrés
+a24cb9	D	🔥 Estás al borde del agotamiento (burnout): baja tus horas o toma vacaciones.
+1082fd	D	🩹 Te lastimas en el trabajo.
+5d3f81	D	🚑 Sufres un accidente de trabajo. Te recuperas, pero te quedan secuelas.
+6a370f	T	📋 Evaluación semestral: {0}/100, buena. Aumento de {1} %.
+862f07	T	📋 Evaluación semestral: {0}/100, regular. Sin aumento.
+ba807c	T	📋 Evaluación semestral: {0}/100, baja. Recibes una advertencia por escrito ({1} de 2).
+f759b8	T	📋 Evaluación semestral: {0}/100, excelente. Bono de {1} y aumento de {2} %.
+38f462	T	📄 Te despiden de {0}. Recibes {1} de indemnización (ley de tu país: {2} días más {3} por año trabajado).
+c504b9	T	📄 Te despiden de {0}. La ley de tu país no obliga a pagar indemnización.
+e1def0	T	📄 Te despiden de {0}. Como el empleo era informal, no recibes indemnización.
+09a3ff	T	📢 Vacante de {0} en {1}: la empresa crece.
+956c00	T	📢 Vacante de {0} en {1}: alguien se jubila.
+b5fb67	T	📢 Vacante de {0} en {1}: despiden a alguien.
+d7fbcb	T	📢 Vacante de {0} en {1}: alguien renuncia.
+233972	D	Ya te postulaste.
+9f69b8	T	Para ese puesto necesitas: {0}.
+15c3eb	T	🎉 Te ascienden a {0}. Tu sueldo pasa a {1} al año.
+4cd1d1	T	La vacante de {0} se la dan a {1}, tu rival. Ahora es tu jefe.
+099a0f	T	La vacante de {0} se la dan a otra persona.
+83f5d2	T	La vacante de {0} se cubre con alguien de fuera.
+93ca0a	T	📨 {0} te ofrece trabajo como {1} con {2} % más de sueldo.
+7f73dc	T	Aceptas. Empiezas en {0} como {1} con un sueldo de {2} al año.
+e36383	D	A tu jefe no le gusta la presión. No hay aumento y la relación se enfría.
+eb05a6	T	Tu jefe no quiere perderte: te sube el sueldo {0} %.
+6d4e8b	D	Ya pediste aumento hace poco: espera un año.
+94c1d4	T	Tu jefe acepta: tu sueldo sube {0} %.
+848773	D	Tu jefe dice que no por ahora.
+cc38c7	T	Empiezas: {0}. Dura {1} meses y cuesta {2}.
+5cc68c	D	Ya no te quedan días de vacaciones este año.
+0421de	T	Tomas {0} días de vacaciones pagadas. Vuelves descansado.
+63f5a6	T	Te tomas {0} días sin goce de sueldo (en un empleo informal no hay vacaciones pagadas).
+15bec4	D	Dejas el sindicato.
+faa5df	D	Te afilias al sindicato. La cuota es de 1 % de tu sueldo.
+2484e8	T	Comes con {0}. Te pone al día de todos los chismes.
+629a4e	T	Comes con {0}. Se llevan mejor.
+7e316d	T	Comes con {0}. Te comparte trucos del oficio.
+387c03	D	Ya tienes una oferta sobre la mesa.
+a4531b	T	{0} te ofrece trabajo como {1} con {2} % más de sueldo.
+db66b9	D	Mandas solicitudes, pero por ahora nadie te llama.
+88b9bf	T	🎄 Aguinaldo: recibes {0} ({1} días de sueldo, por ley).
+c68240	T	🎄 Pagas extra por ley: recibes {0} ({1} días de sueldo al año).
+0b6904	T	🤝 El sindicato firma el contrato colectivo: aumento general de {0} %.
+5c7c66	D	empleo año
+e0d6ff	D	Cambio de turno
+b6ccc3	T	{0} te detiene en el pasillo: «¿Me cubres el turno del sábado? Tengo un compromiso familiar y no lo puedo mover».
+0f1170	D	Pierdes tu sábado, pero te lo agradece de verdad. Ahora te debe una.
+574d5a	D	Cubrirlo
+2122b9	D	Negarte con amabilidad
+991339	D	Lo entiende, aunque se le nota la decepción.
+3d5ff0	D	Aceptar a cambio de que te cubra un día después
+518a03	D	Le parece que estás cobrando el favor y se va molesto.
+af570f	D	Trato hecho: cambian días y los dos quedan contentos.
+db2a1e	D	Rumores de recorte
+0ebecc	T	Corre el rumor de que en {0} habrá recorte de personal. {1}, tu jefe, está más serio que de costumbre.
+0aac23	D	Ofrecerte a trabajar horas extra
+6753ba	D	Tu jefe toma nota de tu disposición. Trabajarás más, pero te ven como indispensable.
+0ce6ae	D	Hablar con tu jefe para saber dónde estás
+3be889	D	Esquiva la pregunta. Te quedas con la duda y con más estrés.
+f99eb2	D	Te confirma que tu puesto no está en riesgo. Respiras.
+42e9d9	D	Mandar solicitudes a otras empresas por si acaso
+77c735	D	Actualizas tu currículum y mandas solicitudes.
+f32c32	D	Trato humillante
+f2ee92	T	En plena junta, {0} se burla de tu trabajo frente a todos. No es la primera vez.
+959bb5	D	Te tragas el coraje. El estrés se acumula.
+5fd72c	D	Hablar con tu jefe en privado
+990b9d	D	Le dices con calma que eso no está bien. Se disculpa a medias, pero no vuelve a pasar.
+e6eb06	D	Se pone a la defensiva y te dice que no aguantas nada.
+c71486	D	Sin pruebas suficientes, el reporte no prospera y tu jefe se entera.
+dab6cc	D	Recursos humanos abre una investigación y le llaman la atención. Tus compañeros te respetan más.
+f71b65	D	Reportarlo a recursos humanos con pruebas
+408e05	D	No hay sindicato en tu trabajo
+870300	D	El delegado sindical habla con la empresa. El trato mejora.
+cc15f4	D	Acudir al sindicato
+08283d	D	Chisme en la oficina
+b24f2e	T	{0} te cuenta que alguien anda diciendo que te vas a ir de la empresa. Varios ya lo creen.
+3fdebb	D	Desmentirlo delante de todos
+58bd81	D	Se nota que te afectó y el chisme crece.
+995b0c	D	Lo aclaras con buen humor y el chisme se apaga.
+d2fc17	D	En unas semanas nadie se acuerda.
+526b90	D	Descubres que fue alguien del área de al lado. Le dejas claro que lo sabes.
+676f17	D	Preguntas de más y ahora el chisme eres tú.
+9075a6	D	Averiguar quién lo empezó
+a40673	D	Proyecto urgente
+0f0f7f	T	{0} te llama a su oficina: «Tenemos un proyecto urgente para el viernes y quiero que lo lleves tú».
+1cf670	D	Aceptarlo
+d6ce4f	D	Trabajas hasta tarde toda la semana, pero lo entregas a tiempo. Tu jefe queda impresionado.
+21751c	D	No hay gente disponible. Lo sacas solo y a marchas forzadas.
+7d2d82	D	Te dan a alguien del equipo. Sale bien y sin desvelarte tanto.
+e3601f	D	Aceptarlo si te asignan apoyo
+054357	D	Rechazarlo con argumentos
+564838	D	Le suena a excusa.
+c19c2f	D	Le explicas que hoy no podrías hacerlo bien. Lo entiende y se lo da a otro.
+7fd8ed	D	No tienes un empleo común. Busca uno en Carrera → Empleos.
+619554	D	con sindicato
+13c296	D	Compañeros
+7f57e4	D	Puesto
+9a5b79	D	Condiciones
+0da43f	D	Experiencia total
+502edc	D	Habilidad
+598c7e	D	Advertencias
+866e28	D	Vacaciones que te quedan
+971fe4	D	Turno
+ccf106	D	Riesgo del oficio
+7bc0ce	T	Próxima evaluación en {0} meses.
+c84cc5	D	Próxima evaluación en 1 mes.
+28ab8f	D	Menos estrés, pero tu desempeño baja y tu jefe lo nota.
+4648d2	D	Más desempeño y más estrés. En tu caso las horas extra se pagan sin recargo.
+7105a6	T	Más desempeño y más estrés. Las horas extra se pagan a {0}× la hora normal.
+96710b	D	Cumples tu jornada sin desgastarte de más.
+2708e1	D	Cierra en 1 mes.
+6f1419	T	Cierra en {0} meses.
+beacbe	T	Probabilidad de quedarte con el puesto: {0} %.
+aa7d56	D	vence en 1 mes
+2062de	D	espera un año
+0c5269	D	sin goce de sueldo (empleo informal)
+4520af	D	sin días este año
+a31a5d	D	🏖️ Tomar una semana de vacaciones
+df46d5	T	te quedan {0} días pagados
+51d050	D	no te alcanza el dinero
+7729ce	D	💼 Certificación
+e0c6cb	T	necesaria para ascender a {0}
+e10e5b	D	+6 de desempeño
+2984dc	D	✊ Afiliarte al sindicato
+7f7034	D	pagas 1 % de tu sueldo
+cf7925	D	✊ Dejar el sindicato
+fd31ac	D	cuota de 1 % de tu sueldo
+110729	D	desempeño
+1c77d4	D	Jornada legal
+bd950e	T	{0} horas a la semana
+f7ba87	T	se pagan a {0}× la hora normal
+173daa	T	{0} días de sueldo
+990919	D	Aguinaldo
+dcd595	T	{0} días el primer año
+e312e9	T	{0} días al año (pagas extra)
+ed2304	T	{0} días el primer año (suben con la antigüedad)
+f9876f	T	no son obligatorias (tu empresa da {0} días al año)
+f9f0f9	D	no es obligatorio
+31ea26	D	no es obligatoria
+35fe5f	D	Empleo informal
+73bb98	D	Indemnización
+8f52ef	D	Tu empleo
+c4b6f6	D	formal, con seguridad social
+d3af34	T	{0} % de los trabajadores
+dce00f	D	Afiliación sindical
+dde865	T	{0} días más {1} por año trabajado
+e29e4f	T	cerca de {0} %
+529ced	D	Como tu empleo es formal, tienes derecho a lo que marca la ley: vacaciones pagadas, aguinaldo e indemnización si te despiden sin causa.
+682191	D	En un empleo informal no hay contrato: no cotizas, no tienes vacaciones pagadas ni aguinaldo, y si te despiden no recibes indemnización.
+50a988	D	Rechazas la oferta.
+286141	D	💼 Tu empleo
+e60078	T	desempeño {0}{1}{2}
+9e7b7b	D	Perdiste tu empleo. Busca otro en Carrera → Empleos.
+63488f	D	📋 Evaluación
+9d2db4	D	El reloj se detuvo: revisa tu evaluación en 💼 Tu empleo.
+a70d60	D	📨 Oferta de trabajo
+bff4ac	D	El reloj se detuvo: tienes una oferta de trabajo.
+ccce29	D	El reloj se detuvo: hay una vacante en tu trabajo.
+5ddc89	D	Vacaciones pagadas
+2cd097	D	Aguinaldo o pagas extra
+8f25e2	D	Indemnización por despido
+892af6	D	Sindicatos
+b4abeb	D	kv:Afiliación sindical
+211eb2	D	Formal o informal
+dad22c	D	kv:Tu empleo
+109b47	D	Desempeño
+5f8c85	D	Estrés laboral
+4db381	D	Escalafón

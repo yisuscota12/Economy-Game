@@ -1,0 +1,100 @@
+fb54ef	Définit comment évolue ton taux de change et le risque de crise de change.
+184332	Écart entre le taux de change officiel et celui que le marché juge correct. S'il grandit, les spéculateurs parient contre la monnaie.
+c01db3	Un grand écart augmente le risque de dévaluation forcée.
+9c6af2	Financer l'État en créant de la monnaie. À court terme, cela paie les factures ; à moyen terme, cela provoque inflation et dépréciation.
+2c07d3	Remplit le trésor aujourd'hui et fait monter l'inflation demain.
+7d82c3	Restrictions pour sortir de l'argent du pays ou acheter des devises (par exemple le « cepo » en Argentine). Elles freinent les fuites, mais font fuir l'investissement.
+ca7ee6	Réduisent la pression sur ta monnaie en échange de moins de croissance.
+752281	Devises, or et autres actifs que la banque centrale garde pour payer les importations, la dette extérieure et défendre la monnaie. Un niveau sain couvre au moins 3 mois d'importations.
+b29ed0	Si tu gouvernes, tu peux acheter ou vendre des devises pour intervenir, accumuler de l'or et créer des réserves stratégiques de pétrole. Elles protègent contre les crises.
+0e3b2d	Les monnaies de tous les pays et leur prix face au dollar.
+cd9a3a	Taux de change et leur variation.
+8f3006	Ce que tu peux réellement acheter avec ton argent. Si ton salaire monte de 5 % et les prix de 10 %, tu es plus pauvre.
+700bc4	Compare ton argent corrigé de l'inflation.
+7f69e8	Marché où l'on achète et vend des actions (parts de propriété d'entreprises). Sur le long terme, les bourses ont rapporté en moyenne 6–10 % par an, avec de fortes chutes en chemin (2008, 2020).
+ad8c2b	32 bourses réelles avec des entreprises inspirées de vraies. Les cours bougent chaque jour ouvré selon les résultats, les actualités et l'économie.
+a72efb	Les bourses et indices du monde (S&P 500, IPC, Ibovespa, DAX, Nikkei…). Un indice résume la tendance des plus grandes entreprises d'un marché.
+adefa4	Choisis une bourse pour voir ses entreprises et ses indices.
+e01e21	L'ensemble de tes placements. Diversifier (détenir beaucoup d'entreprises et de secteurs) réduit le risque sans beaucoup réduire le rendement attendu.
+acca51	Tes positions, plus-value latente, marge et ventes à découvert.
+815e39	Instructions d'achat ou de vente. Ordre au marché : exécuté tout de suite au prix actuel. À cours limité : seulement à ton prix ou mieux. Stop : se déclenche si le prix franchit un seuil, pour couper les pertes.
+74a9e3	Ordres en attente qui s'exécutent seuls quand le prix est atteint.
+e14604	Acheter des actions pour gagner si elles montent (position longue) et toucher des dividendes.
+735265	Achète au prix actuel plus commission.
+dfd1ad	Solder une position. Le gain n'est réel qu'à la vente ; d'ici là, c'est une « plus-value latente ».
+4629e4	Vends tes actions au prix actuel.
+c5fcb2	Emprunter des actions et les vendre en espérant qu'elles baissent pour les racheter moins cher. La perte potentielle est illimitée si le prix monte.
+d98a9c	Tu gagnes si l'action baisse. Nécessite une marge et coûte des frais d'emprunt.
+7d1955	Racheter les actions vendues à découvert pour les rendre et clore le pari.
+eafe5a	Clôture ta position courte.
+44cb0e	Achète seulement si le prix descend à ton niveau (ou vends seulement s'il monte). Tu contrôles le prix, pas le moment.
+84cbeb	Reste en attente jusqu'à ce que le prix l'atteigne.
+016956	Vente automatique si le prix tombe à un certain niveau. Sert à limiter les pertes sans surveiller l'écran.
+c0e2bf	Se déclenche seul en franchissant le seuil.
+eda590	Cours de l'action multiplié par le nombre d'actions : ce que le marché dit que vaut l'entreprise entière.
+d6cf10	Taille de l'entreprise.
+29bbcd	Combien d'années de bénéfices tu paies en achetant l'action. Un PER de 15 est typique ; un de 40 indique que le marché attend une forte croissance (ou une bulle).
+51198c	Plus bas = moins cher par rapport à ce qu'elle gagne.
+d0409a	À quel point l'action bouge par rapport au marché. Bêta 1 : comme l'indice ; 2 : le double (plus de risque) ; 0,5 : la moitié (défensive).
+3cd5b2	Risque de l'action face à sa bourse.
+0b00e1	Part des bénéfices que l'entreprise distribue à ses actionnaires, généralement chaque trimestre ou chaque année.
+628d79	Tu le reçois en espèces tant que tu détiens l'action.
+0fbd20	Le prix le plus haut de l'année écoulée. Permet de savoir si une action est proche de ses extrêmes.
+42dbf0	Repère de la fourchette de prix.
+74a594	Le prix le plus bas de l'année écoulée.
+70500f	Combien d'actions s'échangent par jour. Plus de volume = plus facile d'entrer et de sortir sans faire bouger le prix (liquidité).
+080e85	Liquidité de l'action.
+5b55c4	Le prix moyen auquel tu as acheté tes actions, en tenant compte de tous tes achats.
+e6bc56	Base de calcul de ton gain.
+fe550d	Ce que tu gagnerais ou perdrais si tu vendais aujourd'hui. Ce n'est réel qu'à la vente.
+2601f8	Écart entre la valeur actuelle et ton coût.
+dbfed5	Écart entre ce que vaut ta position et ce qu'elle t'a coûté.
+b54f1d	Vert gagne, rouge perd.
+2e4d1f	Argent que le courtier te prête pour investir plus que ce que tu as. Multiplie gains et pertes ; si ça chute fort, on te demande plus d'argent (appel de marge) ou on vend à ta place.
+7623c6	Si ta garantie baisse trop, le jeu liquide des positions.
+eda137	Une entreprise vend des actions au public pour la première fois afin de lever des capitaux. Les fondateurs deviennent millionnaires sur le papier, mais partagent le contrôle.
+ee6e77	Tu peux introduire ton affaire en bourse si elle est grande et rentable.
+10e8ee	Fonds qui répliquent un indice entier avec des frais très bas. Pour la plupart des épargnants, ils ont rapporté plus que choisir des actions soi-même, car ils diversifient et ne coûtent presque rien.
+cfff56	Tu achètes tout un marché d'un coup.
+57f5fe	Biens de base achetés en grandes quantités : pétrole, or, cuivre, blé. Leurs prix montent avec la demande mondiale et les crises d'offre (guerres, sécheresses).
+0af9f3	Achète et vends des matières premières ; leurs prix touchent les pays et entreprises producteurs.
+7189b6	Pétrole, or, cuivre, lithium, céréales… Leur prix est fixé par l'offre et la demande mondiales.
+cc971a	Négocie des matières premières.
+3f0397	Prêts que tu fais à un État ou une entreprise contre des intérêts fixes. Plus sûrs que les actions ; si les taux montent, le prix des obligations existantes baisse.
+7996ef	Achète des obligations d'État ; tu touches des coupons chaque année.
+d01260	Les obligations que tu détiens, leur taux (coupon) et leur échéance.
+e4d2e1	Tu touches des intérêts jusqu'à l'échéance ou jusqu'à ce que tu les vendes.
+db2d23	Le marché des changes est le plus grand du monde : environ 7 500 milliards de dollars par jour. Le prix d'une monnaie face à une autre change selon les taux d'intérêt, l'inflation et les flux de capitaux.
+17c775	Achète et vends des devises ; protège ton argent de la dévaluation ou spécule.
+0dbde4	Échanger ta monnaie contre une autre. Épargner dans une monnaie forte protège de la dévaluation, mais a un coût de change.
+aeb81d	Négocie des devises avec leur écart achat-vente.
+e896ab	Les taux d'intérêt de chaque pays et leurs monnaies. L'argent va là où il rapporte le plus avec le moins de risque (carry trade).
+daca62	Panorama des taux et des changes.
+87670f	Les marchés réagissent aux résultats des entreprises, aux données économiques, aux décisions des banques centrales et aux événements politiques.
+ad7689	Actualités récentes qui ont fait bouger les prix.
+e75595	Les bourses diffusent les cours sur un bandeau défilant (ticker). Vert monte, rouge baisse.
+ba53b9	Choisis quel marché et quelle période tu vois dans la barre.
+087d77	Les banques gardent des dépôts et les prêtent ; elles gagnent sur l'écart entre ce qu'elles facturent et ce qu'elles paient. Il y a des caisses populaires, des banques régionales, nationales, internationales et des géants systémiques.
+c06eea	Ouvre des comptes, demande des crédits, investis dans des fonds ou fonde ta banque.
+a82950	Dépôts bancaires rémunérés. Les petites banques paient souvent plus, mais font plus souvent faillite ; la garantie des dépôts couvre jusqu'à un certain montant par banque.
+89d855	Dépose et retire. Répartis ton argent entre plusieurs banques pour ne pas dépasser la garantie.
+28d86c	Prêts avec intérêts. Le taux dépend de ton historique de crédit, de tes revenus et de tes garanties. Un bon historique ouvre des crédits moins chers.
+a74774	Demande un crédit selon ta capacité de remboursement.
+2e60f9	Un gérant professionnel investit l'argent de nombreuses personnes contre une commission. Il y a des fonds actions, obligataires, mixtes et des fonds spéculatifs (hedge funds).
+6ed91b	Investis dans des fonds de risque et de frais différents.
+14ec15	Fonder une banque exige beaucoup de capital et une licence du régulateur. La banque prête plusieurs fois son capital (effet de levier) : elle peut donc être très rentable ou faire faillite lors d'une panique bancaire.
+180410	Fonde et gère ta banque : fixe taux, capital et risque.
+637dab	Une note (dans beaucoup de pays de 300 à 850) qui mesure à quel point tu es bon payeur. Payer à temps la fait monter ; un retard la plombe pour des années.
+d6cb57	Définit combien on te prête et à quel taux.
+8c5109	Un fonds public qui te rembourse ton épargne si ta banque fait faillite, jusqu'à un plafond. Il évite les paniques bancaires.
+a16daa	Couvre tes dépôts par banque jusqu'au plafond.
+2d99d1	L'ensemble des banques, fonds et régulateurs d'un pays. Si les banques tombent, le crédit gèle et l'économie entre en récession (2008).
+526e28	Santé des banques du pays, crises bancaires et aide du FMI et de la Banque mondiale.
+e8cfc2	À quel point les banques sont capitalisées et saines. Sous un certain niveau, le risque de crise bancaire augmente.
+ccb952	Si elle baisse beaucoup, une crise peut éclater.
+38a3d0	Le Fonds monétaire international prête aux pays en crise contre des conditions (austérité, réformes). Il aide à stabiliser, mais il est souvent impopulaire.
+b10cc7	De l'argent pour le trésor en crise, sous conditions.
+9bf7b4	Réduire les dépenses publiques pour diminuer déficit et dette. Rassure les créanciers, mais peut freiner l'économie et provoquer des manifestations.
+5e12ea	Moins de dépenses, moins de popularité, plus de confiance.
+583b5a	Revenus, dépenses, épargne, dettes et impôts. La règle de base : dépenser moins que ce que tu gagnes et investir la différence.
+f8dc23	Ton relevé de compte personnel.

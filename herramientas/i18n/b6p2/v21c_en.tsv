@@ -1,0 +1,197 @@
+c627fc	Health of the economy
+be67ec	Companies
+d55063	Banks
+847b37	Government
+583f1c	World
+f20262	Risk
+bef920	Each gauge goes from 0 to 100 and shows what pushes it up and what pulls it down.
+e80e50	Tap a gauge to see its causes.
+b3c287	You don't have companies yet. Open them from 🏪 My companies: here you will see their health.
+833d4b	Different sectors
+a2b510	Weakest sector
+eac819	Your companies depend on few sectors: if one falls, they fall together.
+e29b75	Diversifying into other lines of business spreads the risk.
+ae22f1	Financial: margin, reputation, growth and debt (the same one buyers use).
+9b729e	Social: wages, workload, reputation, losses, its sector and its province.
+b1a4a9	Below 30 there is unrest and reputation drops every month.
+6b1098	Financial health
+42ad83	Social health
+c16a01	Profit margin
+56ba2a	Reputation
+04161f	Sales growth
+fe1343	Debt relative to sales
+5908a8	Wages relative to the market
+8fb0ac	Workload
+57396c	Losses that threaten jobs
+6d5a5a	Health of its sector
+0b5c1a	Demand in the province
+3c6663	Health of its companies
+cab686	Diversification
+b6aa21	Indebtedness
+12a447	Director
+d01aa6	Natural recovery
+bc3174	Regulation
+e770f6	Recession
+ac8b72	Rate hikes
+181407	Political stability
+99a07b	Austerity program
+a6275b	Capital relative to loans
+4a069d	Cost of debt relative to growth
+ee29ef	Treasury
+37c1e3	International reserves
+e03871	Inflation
+824c69	IMF program
+b82b50	War
+eb3bfb	Government approval
+a42fbe	Happiness of the population
+45edda	World growth
+3a99c4	Countries in a banking crisis
+f1ab57	Countries in recession
+2091ec	Oil price
+8dddb5	Weak banks
+bdd0f8	Active banking crisis
+b75288	Fragile sectors
+100dc0	Concentrated economy
+bc6c8f	Contagion from neighbors
+a16c6a	Income relative to expenses
+29ce23	Cash
+6a04c7	Fans' mood
+3090ad	Public debt
+53ba43	High public debt
+1282f9	Reserves that cushion
+4ce7b0	Households in trouble
+24ffb7	Active IMF programs
+3cfdcc	Critical
+b44405	Fragile
+e9c0f4	Stable
+35bf06	Healthy
+bb90d1	Low
+fd0855	Moderate
+f46edd	High
+86df48	Very high
+a822ef	Everything at its normal level.
+07316f	months of expenses
+296312	Banks of {0}
+54dd5c	Banking crisis underway
+2fde65	Risk of a banking crisis this year: {0}
+c88199	What moves it this year (points per year):
+98bce2	Banks lend savers' money to companies and households.
+6aab89	If their debtors stop paying, they lose capital.
+0bd708	With little capital, a wave of defaults becomes a crisis and credit freezes.
+100cc9	Your accounts
+8b0fcd	Balance
+7b221e	If a bank fails, your country's deposit insurance pays you back up to a cap per bank: spreading your savings across several banks protects you more.
+4d1f43	Your bank
+90753c	Capital relative to loans: {0} %
+5b467c	Deposits
+a28712	The international Basel III rules require banks to hold high-quality capital of at least 7 % of their risk-weighted assets.
+6d5585	In the game, 20 % capital relative to loans is health 100.
+852e14	{0} % of GDP
+ac0e8f	Bond rate
+5bf106	Approval
+78f460	Fiscal health
+d60f47	A healthy government pays its debt without drowning: little debt, rates below its growth and reserves for emergencies.
+0d6a06	If fiscal health drops below 35, public employees get no raises.
+193b1c	Below 15 there are job cuts.
+a0f2d9	Social health combines approval, stability, happiness, consumption and inflation.
+3bfeab	It drops with wars, recessions and austerity, and a society in trouble consumes less.
+fcc28f	IMF and world financial system
+6ad6fc	World financial system
+bb31d7	IMF programs
+273d37	The IMF lends to countries in crisis in exchange for an adjustment program.
+f0aaaa	The World Bank finances development projects.
+8a1b71	When many economies fall at once, contagion feeds on itself.
+fd103d	World Bank
+e2386f	Countries with World Bank projects: {0}.
+21dfbe	Your organizations
+a1868f	When you have your own bank, club or gym, its health appears here.
+ac3b03	Your club
+12ae18	Your gym
+02639e	Your promotion company
+105504	Systemic risk
+064aa8	Systemic risk of {0}
+a1f2a5	Systemic risk is the chance that the fall of one part drags down the whole system.
+26e90d	Here 0 is calm and 100 is a crisis about to break out.
+773e69	Contagion chain
+db530e	The banks' weakest customer
+8aad51	If {0} keeps falling, its unpaid debts hit the banks.
+8665aa	With less credit, households consume less and that hits every sector: that is how a crisis spreads.
+88e038	Neighbors in crisis
+f845e6	No neighbor is in a banking crisis or in recession.
+6a5d23	When a banking crisis breaks out, the banks of neighboring countries take a hit proportional to the size of that economy.
+cd67b0	If it is a very large economy, the whole world feels it.
+fd0200	Countries with the most risk
+99ff29	Health of the company
+77fb83	Health of all your companies
+ecd4cd	Health of your companies
+d9b22f	Health and risk
+ee9446	Companies, banks, government, organizations and contagion risk
+cbc3a1	Your employer: the government
+b2fc1a	fiscal health
+2783a0	Your sector
+0c6be4	Risk of layoffs: {0} % a year
+bd4e96	No risk of layoffs for now
+678483	Raises frozen while it stays below 35.
+bccfc6	Good times: each review adds up to {0} % extra.
+841404	Normal raises.
+b5d240	Retired
+d40fe7	Retired
+635017	Works in the government
+040572	Works in {0}
+1872e6	Looking for a job
+deeb2b	Looking for a job for 1 month
+46f7dd	Looking for a job for {0} months
+951e84	Help with money ({0})
+d81819	+Relationship, while they look for a job
+7cf003	You give {0} to {1} while they look for a job.
+48cd53	Systemic risk by country
+ee24bf	high
+98973d	low
+c121f9	🏭 The sector of one of your companies is weak: diversify into another line of business and check its health in 🩺.
+50bad6	Here you see how healthy your companies, the banks, the government and the world are. If a sector falls, it drags down its suppliers, the banks that lent to it and the people who work in it: that is how a crisis spreads.
+74ec80	On September 15, 2008 the investment bank Lehman Brothers went bankrupt. In 2009 the world economy shrank for the first time since World War II.
+4f2eb0	International Monetary Fund
+4cbdf7	In the 1994–1995 crisis (the «tequila effect») Mexico's GDP fell about 6 % in 1995, and the crisis spread to other Latin American markets.
+79d6fc	INEGI; World Bank
+04ae42	The Asian crisis began on July 2, 1997, when Thailand let its currency float. It spread to Indonesia, South Korea and Malaysia, and Indonesia's GDP fell more than 13 % in 1998.
+d7ae94	After the 2008 crisis, unemployment in the United States reached 10 % in October 2009.
+c8c13f	U.S. Bureau of Labor Statistics
+55a2d3	The Basel III rules require banks to hold high-quality capital of at least 7 % of their risk-weighted assets (4.5 % minimum plus a 2.5 % buffer).
+fb747d	Bank for International Settlements
+668c82	In the United States deposit insurance covers up to 250,000 dollars per person at each bank. In Mexico the IPAB covers up to 400,000 UDIS.
+22be78	FDIC; IPAB
+8d4ec0	A bank is «systemic» when its failure would drag down the whole financial system. That is why the world's largest are required to hold more capital.
+a8c2e4	Financial Stability Board
+549599	Financial contagion
+ee35bc	Bank bailout
+d60368	Solvency
+4828c7	Liquidity
+3a4bbf	Capital requirement
+4ff337	Unemployment
+65b36c	The risk that the fall of a company, a bank or a sector drags down the whole economic system, because they are all connected by loans, sales and jobs.
+467500	When the crisis of a country, a bank or a sector spreads to others: through debts that go unpaid, investor panic or less trade.
+288d08	When the government (or the IMF) puts in money to save troubled banks and keep credit from freezing. Taxpayers foot the bill.
+98807d	The ability to pay all your debts with what you own. A company or bank is insolvent when it owes more than it is worth.
+fbaa3c	Money available to pay right now. A company can be profitable and still go bankrupt if it runs out of cash to pay wages and suppliers.
+01763d	The share of its assets that a bank must hold with its own money (not borrowed) to absorb losses without failing.
+c77844	People who want to work and look for a job but don't have one. It rises when the sectors where they work fall into crisis.
+346242	Health of the economy and contagion
+bf63fc	🌐 Contagion: the banking crisis in {0} hits the banks of {1}.
+7d2019	Global contagion: the banking crisis in {0} hits banks all over the world.
+829b26	🏛️ {0} loses their government job: fiscal health is at {1}/100.
+3de1d0	📉 {0} loses their job in {1}: the sector is at {2}/100.
+6b921c	📈 {0} gets a raise: the government can afford it (fiscal health {1}/100).
+684779	📈 {0} gets a raise: {1} is doing well ({2}/100).
+e2a88b	💼 {0} finds a government job after 1 month.
+068e68	💼 {0} finds a government job after {1} months.
+a1fcf1	💼 {0} finds a job in {1} after 1 month.
+d17698	💼 {0} finds a job in {1} after {2} months.
+cffffe	📉 The government cuts positions: its fiscal health is at {0}/100.
+d1bded	📉 {0} lays off staff: {1} is at {2}/100.
+a2e72c	⏸️ The government freezes public wages: its fiscal health is at {0}/100 and your {1} % raise is reversed.
+572d28	⏸️ {0} freezes raises: {1} is at {2}/100 and your {3} % raise is reversed.
+b57143	📈 The government's good fiscal health ({0}/100) adds {1} % to your wage.
+56b32e	📈 The good times in {0} ({1}/100) add {2} % to your wage.
+2d4e49	😠 Unrest at {0}: low wages or overwork damage its reputation.
+aa957c	Tap someone to interact (once a year per person).
+f3f8bb	Strong relationships open up favors, loans and jobs, and rivals can sabotage you.

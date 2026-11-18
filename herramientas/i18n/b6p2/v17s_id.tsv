@@ -1,0 +1,292 @@
+65225c	Menguasai bola, umpan pendek dan sabar. Membongkar blok rendah; kesulitan melawan pressing tinggi.
+e5beae	Penguasaan bola
+5313c5	Pressing tinggi
+54ace6	Merebut bola di depan dan cepat. Mencekik tim penguasaan bola; meninggalkan ruang di belakang.
+700856	Menunggu dan menyerang cepat. Menghukum garis pertahanan tinggi; kesulitan tanpa bola melawan penguasaan.
+fd1844	Serangan balik
+4cc592	Blok rendah
+7166e7	Bertahan dekat kotak penalti dan menutup ruang. Menetralkan permainan langsung; kesulitan melawan penguasaan yang sabar.
+3fc98c	Umpan panjang dan bola kedua. Melewati pressing; kesulitan melawan blok rendah.
+93e9a6	Permainan langsung
+037676	Tanpa ekstrem: menyesuaikan dengan lawan. Tidak punya kelebihan atau kelemahan yang jelas.
+56993d	Membeli murah, mengembangkan dan menjual ke klub besar: hidup dari biaya transfer.
+958239	Pembeli
+bfaaca	Merekrut bintang dan membayar transfer mahal; jarang menjual dan menjual mahal.
+275cfa	Membeli dan menjual sesuai kebutuhan.
+dce9ac	Klub pembinaan
+e914fe	Mengandalkan pemain muda: bintangnya datang muda dan dengan potensi lebih besar.
+18a046	Hemat
+525174	Ambisius
+ef5959	Galácticos
+9bc2c5	Murah
+2f0ada	Lapangan kota
+912d13	Pusat modern
+9c9eda	Pusat elite
+9d6d76	Pusat dasar
+de9953	Kompleks olahraga
+41347f	Akademi regional
+5c642f	Sekolah sepak bola
+61da4b	Tanpa akademi
+9fd328	Akademi nasional
+f17aa6	Akademi elite
+773471	Tanpa lisensi
+026e9d	Promosi
+37bc23	Menghindari degradasi
+4f7927	Finis di paruh atas
+73a7c7	Lolos ke piala kontinental
+ab8a73	Tidak finis di tiga terbawah
+cd9075	Juara liga
+e5fa55	Juara liga regional
+5e84cb	{0} tidak memperpanjang kontrak pelatihnya, {1}, setelah musim yang buruk. Pengganti: {2} ({3}).
+09f1f5	{0} memecat pelatihnya, {1}, setelah {2} laga dengan hasil buruk. Pengganti: {3} ({4}).
+63aa35	{0} meninggalkan {1} dan menjadi pelatih baru {2} ({3}).
+10f3a1	{0} mengumumkan pensiunnya pelatih mereka, {1}. Pengganti: {2} ({3}).
+409b99	Belum ada pusat latihan.
+555745	Belum ada stadion berkapasitas {0} kursi.
+96dee2	🏆 {0} juara: {1}! Hadiah untuk klub: {2}.
+0d7844	🏗️ Pemerintah kota menyetujui izin: pembangunan dimulai ({0} bulan).
+ab5af1	🏗️ Pemerintah kota menolak izin bangunan. Kamu bisa mengajukan lagi.
+c9a918	🏟️ Perluasan selesai: stadionmu kini berkapasitas {0} kursi.
+cc455a	🏋️ Pusat latihan barumu dibuka: {0}.
+86699e	📨 {0} menawar {1} untuk {2}. Lihat ⚽ Klubmu → Pasar.
+ffe27d	💵 Kamu menyetor {0} dari kantongmu sendiri untuk menutup kerugian {1}.
+7c7649	⚖️ {0} masuk pengelolaan kurator karena utang dan dijual ke pemilik baru. Kamu menerima {1}.
+95820c	{0} masuk pengelolaan kurator dan berganti pemilik.
+6582d8	⚠️ {0} merugi dan kamu tidak punya uang untuk menutupnya. Jual bintang, kurangi anggaran gaji atau setor modal.
+c09dad	🎯 Target musim untuk {0}: {1}.
+d973be	✅ {0} memenuhi target musim ({1}): finis di posisi {2}.
+517e79	❌ {0} gagal memenuhi target musim ({1}): finis di posisi {2}.
+e0a38b	⚖️ Liga mendenda {0} sebesar {1} karena tidak memenuhi lisensi.
+7d20ac	⏳ {0} perlu minimal enam bulan di liga regional sebelum mendaftar ke {1}.
+3738fe	📋 {0} tidak mendapat lisensi: {1}.
+f5dfa6	📋 Untuk masuk ke {0} kamu harus membeli slot (waralaba).
+354ea6	{0} masuk ke {1} dan mengambil slot {2}, yang turun ke liga regional.
+e51d62	🎉 {0} masuk ke {1}!
+a589fa	📋 {0} finis di zona promosi tetapi tidak mendapat lisensi: {1}. Tim berikutnya yang naik.
+379bd5	🎉 {0} promosi ke {1}!
+579ab4	⬇️ {0} terdegradasi ke {1}.
+110f5e	Aturan tidak mengizinkan pemain aktif memiliki klub.
+b414b3	Kamu harus sudah dewasa.
+abda79	Kamu sudah memiliki klub.
+dea1c7	Membeli {0} seharga {1}.
+bf5c17	Kamu membeli {0} seharga {1}. Sekarang kamu yang memutuskan anggaran gaji, transfer, pembangunan, dan siapa yang melatih tim.
+f04535	{0} membeli {1} seharga {2}.
+658bc4	Sudah ada klub dengan nama itu.
+b4b78c	Mendirikan klub seharga {0}.
+cb6635	Untuk masuk ke {0} kamu butuh enam bulan kompetisi dan stadion berkapasitas {1} kursi.
+db5bd7	Kamu mendirikan {0}. Klub ini bermain di liga regional dan menyewa lapangan kota berkapasitas {1} kursi.
+71662b	Slot itu seharga {0} dan kas klubmu hanya {1}.
+edcfbb	Kamu sudah membeli slot itu.
+1207fd	Kamu membeli slot di {0} seharga {1}. Kamu akan masuk di akhir musim jika memenuhi lisensi.
+f2b559	Kamu menjual {0}. Kamu menerima {1} (termasuk kas klub).
+5eb3f7	Uangmu tidak cukup: {0}.
+85a110	Kamu menyetor {0} ke kas klub.
+086101	Kamu menarik {0} dari kas klub.
+61b2b1	Kas klub tidak cukup.
+02ea66	Kamu sudah punya pembangunan yang berjalan.
+472782	Stadion tidak boleh melebihi 100.000 kursi.
+8e8ac6	Pembangunan seharga {0} dan izinnya {1}.
+1c78ed	Kamu mengajukan izin bangunan untuk memperluas stadion sebanyak {0} kursi. Pemerintah kota menjawab dalam 2 sampai 4 bulan.
+99e68e	Kamu sudah punya pusat terbaik.
+41d74d	Kamu mengajukan izin untuk membangun: {0}. Pemerintah kota menjawab dalam 2 sampai 4 bulan.
+476363	Pembangunan dimulai: {0} (3 bulan).
+76cfc3	Kamu sudah punya akademi terbaik.
+8c1b8b	Kamu membuka: {0}. Setiap tahun bisa muncul pemain muda dengan potensi lebih besar.
+afacdc	Pasar sedang tutup: dibuka pada bulan Juni dan Januari.
+e5c92c	{0} tidak tertarik dengan proyekmu: klubmu jauh di bawah levelnya.
+38d1e8	Transfer seharga {0} dan kas klubmu {1}.
+c01f9c	Skuadmu sudah punya sepuluh bintang.
+4fa5ea	{0} bergabung dengan {1}: biaya transfer {2} dan gaji {3} per tahun.
+74e01f	Saat ini belum ada klub yang menawar sesuai nilai {0}.
+70f57f	Kamu menjual {0} ke {1} seharga {2}.
+72ab90	Kamu menolak tawaran {0} untuk {1}.
+0d3252	Diterima: {0} pindah ke {1} seharga {2}.
+2ae8e9	Kamu butuh {0} di kas (pesangon pelatih saat ini dan kompensasi).
+f51cb9	{0} adalah pelatih baru {1}: {2}, gaji {3} per tahun.
+3ba870	Untuk melatih {0} kamu butuh {1}.
+214503	Kamu mengubah gaya bermain menjadi {0}. Skuad butuh beberapa bulan untuk beradaptasi.
+3107ca	Pesangon pelatih saat ini seharga {0}.
+4f4776	Kamu mengambil alih kursi pelatih {0}. Kekuatanmu sebagai pelatih: {1}.
+e10c49	Sudah kamu miliki
+f675a8	Kamu butuh {0} terlebih dahulu
+6db1e0	Satu tahun setelah yang sebelumnya
+f81838	Kamu lulus kursus dan mendapatkan {0}. Kekuatanmu sebagai pelatih: {1} (maksimum {2} dengan lisensi ini).
+5cdd46	Buruk
+90e998	Ideal
+94144b	👤 {0} punya pelatih baru: {1} ({2}). Kecocokanmu dengan gayanya: {3}. Kepercayaan pelatih dimulai dari nol.
+5c0411	🌱 Akademimu mempromosikan {0} ({1} tahun, {2}, potensi {3}).
+68c625	lisensi pelatih
+768bb4	⚽ Menjadi pemilik klub sepak bola
+959325	⚽ Klub sepak bolamu
+e956dc	Beli klub atau dirikan sendiri
+0e4333	Usia
+3488d6	Formasi biasa
+3c3d15	Rekor (M-S-K)
+58999d	Kualitas pelatih
+be736c	Menjabat sejak
+e008d0	Liga regional
+0cb069	Model bisnis
+1b7d61	Perkiraan pendapatan per tahun
+4397b6	Suporter
+4ab4a4	Kekuatan
+e3dbe4	Nilai klub
+347876	Datang dari {0}
+ede971	Beli klub ini?
+37938f	Gaya pelatih
+00e6b7	Skuad
+94dd4a	Dirikan
+9d8aca	Fasilitas
+ea9804	Lisensi
+3e98e0	Liga regional
+4fea0c	Modal awal (kas klub)
+5ff1d4	Pendaftaran di federasi
+16cfa0	Stadion minimum untuk lisensi
+9d5764	Liga awal
+d41547	kamu memilih nama di langkah berikutnya
+fc4a8f	🏟️ Dirikan klub
+64c889	Sebagai mantan pemain profesional, kamu menjalani kursus dalam separuh waktu.
+514290	Bulan sebagai pelatih
+84b4ae	Maksimum dengan lisensi ini
+b16ef5	Lisensimu
+f09490	Kekuatanmu sebagai pelatih
+6eb203	kekuatan maksimum {0}
+eec32e	Lulus
+72d389	Posisi di klasemen
+cb5e1b	Kekuatan target
+7bcbf6	Kas klub
+76b653	Bulan di liga regional
+1c2f1a	💰 Jual klub
+d422e3	Kamu menerima sekitar {0} (termasuk kas klub)
+16db45	Kamu butuh {0}
+411876	kekuatanmu sebagai pelatih: {0}
+6cf571	Kamu tidak lagi membayar gaji pelatih
+b892ac	📣 Latih tim sendiri
+02b1bc	kompensasi {0}
+6fa4ca	meminta {0} per tahun
+11b00c	Kekuatan saat ini
+4916f3	Gaji skuad per tahun
+eb3280	Gaji para bintang
+303efa	Pasar tutup
+5dc715	rating {0}
+948086	nilai {0}
+05301c	Terjangkau
+a4114a	Semua
+831e83	gaji {0}
+984162	Kas tidak cukup
+c53e0e	transfer {0}
+fe80e4	Tidak tertarik dengan proyekmu
+257c0b	Kursi
+4a8fd4	Penonton bulan lalu
+9fc8f7	izin {0}
+e40f2d	Sudah ada pembangunan
+eb601c	{0} bulan pembangunan
+c8194e	Perawatan per tahun
+9da719	3 bulan pembangunan
+cb6c1f	butuh izin bangunan
+4c34ce	langsung dibuka
+181efe	Diinvestasikan olehmu
+33f233	Operasional dan perawatan
+6000a1	Transfer dan pembangunan
+a26d34	Sponsor dan toko
+b9faad	Tiket
+c56269	Penjualan pemain
+fa4a30	Harga rata-rata tiket
+bad3c9	Dari kas klub ke uangmu
+bb4e9f	Dari uangmu ke kas klub
+bba8c5	kamu masuk di akhir musim jika memenuhi lisensi
+c941e1	📋 Beli slot di {0}
+e1804f	Sudah dibeli
+eb067b	Nama klub
+3d594b	Jual klubmu?
+b73399	Rekrut
+cb5b9b	Rekrut pelatih ini?
+3d7fed	Latih tim sendiri?
+7decd2	Kecocokan taktik
+7ef211	Model bisnis
+960972	Anggaran gaji
+86c8ea	Lisensi liga
+ca62ff	Lisensi pelatih
+5c188c	Izin bangunan
+e6907a	Izin bangunan
+d6d9ac	⚽ Manajer sepak bola
+40fdfb	Ketuk klub untuk melihat profilnya.
+31f930	Atribut yang paling ia hargai:
+0040b2	Kecocokan yang baik mendekatkanmu ke posisi starter.
+ac3b03	Klubmu
+96f57a	Beli klub
+f8aad3	Beli
+cb3025	Belum ada transfer yang tercatat.
+d5b798	Transfer terbaru
+01a429	Paling banyak belanja (12 bulan)
+18262e	Paling banyak menjual (12 bulan)
+a85a74	Pemain paling bernilai
+5d71d7	Nilai per liga
+5e7363	Pendapatan rata-rata
+090fc2	TV per klub
+f3fce9	Bintang termahal
+1bcfb1	Nilai pasar mengikuti rating, usia, liga dan potensi, seperti di situs transfer.
+ef43bb	Stadion (kursi)
+4ce4c4	Transfer terkini
+763e06	Gelar klub
+d1cf91	Menjadi pemilik klub
+44989a	Kamu membeli seluruh klub: stadion, skuad, dan tempatnya di liga. Lalu kamu memutuskan anggaran gaji, transfer, pembangunan, dan siapa yang melatih tim. Uangmu:
+e0e6ea	Kamu mendirikan klub di kotamu. Klub ini mulai di liga regional dengan lapangan kota sewaan; untuk masuk liga profesional kamu butuh enam bulan kompetisi dan lisensi (stadion dengan kursi yang cukup dan, di divisi teratas, pusat latihan).
+ae7e77	Negaramu tidak punya divisi dua yang disimulasikan: selain lisensi, kamu harus membeli slot (waralaba) sebelum masuk.
+1910a3	Negaramu belum punya liga yang disimulasikan: liga dibuat saat kamu mendirikan klub.
+0dbdeb	Warna klub:
+737c87	Lisensi pelatih (seperti milik UEFA dan federasi) diperoleh berurutan: C, B, A dan Pro. Dengan B kamu melatih klub regional, dengan A klub divisi dua, dan dengan Pro klub divisi teratas.
+f2fd94	Kekuatanmu sebagai pelatih naik setiap bulan kamu melatih, lebih cepat dengan hasil bagus, hingga batas maksimum lisensimu.
+6a04c7	Suasana hati suporter
+650011	Target musim:
+4e3c98	Musim
+7cd71d	Pusat latihan
+626b01	Slot (waralaba)
+3a7321	Enam bulan di liga regional
+4b582a	Untuk masuk ke {0} di akhir musimnya:
+c56e24	🏟️ Stadion minimum untuk lisensi: {0}
+836e2d	Gaji pelatih
+e67695	Gaya bermainmu (mengubahnya butuh beberapa bulan adaptasi):
+fac21d	Adaptasi skuad
+1dfac7	Kandidat (bebas dan dari klub lain; untuk yang masih terikat kontrak kamu membayar kompensasi setahun gaji ke klubnya):
+7ac8f0	Anggaran gaji menempatkanmu di tabel belanja ligamu: kekuatan tim perlahan mendekati apa yang dibayarnya.
+ccdd7a	Di bawah setiap nama: potensi dan gaji per tahun.
+269fa8	Klubmu tidak punya bintang. Rekrut mereka di Pasar atau kembangkan pemain muda di akademimu.
+aa4c9b	Kas klub:
+05f3ed	TAWARAN UNTUK BINTANGMU
+65ff6d	{0} menawar {1} untuk {2}.
+adb813	Tawaran untuk bintangmu
+c56862	Jual bintang
+6e6ef8	Rekrut
+802049	📋 Izin bangunan sedang diproses: pemerintah kota menjawab dalam {0} bulan.
+e0e0de	🏗️ Pembangunan berjalan: selesai dalam {0} bulan.
+545b3c	Untuk promosi ke {0} kamu butuh {1} kursi dan pusat latihan.
+208445	Setiap level menambah setengah poin kekuatan target; di divisi teratas dibutuhkan setidaknya pusat dasar.
+651e5d	Setiap tahun akademi bisa mempromosikan pemain muda: level lebih tinggi, peluang lebih besar dan potensi lebih tinggi.
+426395	12 bulan terakhir
+988b22	Tiket murah memenuhi stadion dan menyenangkan suporter; tiket mahal menyisakan kursi kosong.
+2bd8d2	Modal
+1d64ab	Jika kas minus, kamu menutupnya dari kantongmu; jika tidak bisa, klub masuk pengelolaan kurator.
+85f0a6	Slot di liga
+43321a	🏟️ Tambah {0} kursi
+bc3292	🏋️ Bangun: {0}
+66a8ea	🌱 Buka: {0}
+c9ec56	➕ Setor {0}
+a282f7	💵 Tarik {0}
+6d0fa7	{0} menjual {1}.
+efd38e	Pindah ke {0}
+ed9d19	Kursus: Lisensi C
+736caf	Kursus: Lisensi B
+da3e10	Kursus: Lisensi A
+adae2d	Kursus: Lisensi Pro
+11b0e4	Kursus kilat: Lisensi C
+db4dc9	Kursus kilat: Lisensi B
+d1df7b	Kursus kilat: Lisensi A
+5c4caf	Kursus kilat: Lisensi Pro
+e18d07	Lisensi C
+3a0f42	Lisensi B
+dae3a0	Lisensi A
+f42d61	Lisensi Pro
+89c7d6	bebas transfer
+de82c1	Akademi
+872401	Stadion
+41e155	Klasemen

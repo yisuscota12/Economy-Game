@@ -1,0 +1,573 @@
+0adf3f	{0} conquista {1} province di {2}, tra cui {3}.
+cd602f	{0} conquista {1} (prima di {2}).
+fd755b	{0} scompare dalla mappa.
+8c3216	Guerra con {0}: il tuo paese ha vinto {1} dei 12 mesi di combattimento. Morale {2} %.
+937532	{0} ha preso {1} provincia/e a {2} quest'anno.
+9d2ed9	{0} dichiara guerra a {1}.
+7d6d2f	Diversi paesi impongono sanzioni commerciali a {0}.
+f0b630	Pace tra {0} e {1}.
+a2623f	Recessione in {0}: l'economia si contrae.
+68b345	Colpo di Stato in {0}: {1} prende il potere.
+632f75	{0} torna alla democrazia.
+e06af8	{0} capitola e cede {1} provincia/e a {2}.
+46b146	{0} entra in guerra per difendere {1}.
+f996aa	{0} si ribella contro {1} e dichiara l'indipendenza.
+6b46f4	{0} entra in guerra contro {1} al fianco di {2}.
+23dc97	{0} si tiene {1} provincia/e di {2}.
+ce167e	Ribellione: {0} dichiara l'indipendenza da {1} in {2} provincia/e.
+93d462	Disordini in {0}: parte della popolazione non accetta il governo di {1}.
+154566	{0} e {1} firmano un'alleanza militare.
+ec52a2	Disordini in {0}: la felicità è a {1}.
+4351e1	Ribellione in {0}: {1} dichiara l'indipendenza da {2}.
+52e3fb	{0} riconquista l'indipendenza.
+75a832	{0} riconquista l'indipendenza come vassallo di {1}.
+de6703	{0} si proclama {1}.
+2579bb	Rivoluzione in {0}: il nuovo regime è {1}.
+81f70d	Borsa della Colombia
+ab62d1	Borsa di Santiago
+662ec5	Borsa di Toronto
+769bbc	Borsa di Londra
+5c67e5	Euronext Amsterdam
+781045	Euronext Parigi
+e24dbc	Borsa di Francoforte (Xetra)
+d7ffbb	Borsa di Madrid
+7b50ae	Borsa di Varsavia
+720241	Borsa di Tokyo
+7e2880	Borse di Shanghai e Shenzhen
+d8a4ee	Borsa di Hong Kong
+11e55e	Borsa della Corea
+e46110	Borsa di Taiwan
+e6f8e1	Borsa nazionale dell'India
+af2ac1	Borsa di Singapore
+d7ae01	Borsa dell'Indonesia
+def80b	Borsa australiana
+062b18	Borsa di Tel Aviv
+518b0d	Borsa di Johannesburg
+e528e5	Indice MOEX
+ffe2f8	Borsa di Mosca
+526456	Borsa della Nigeria
+c064f5	Borsa dell'Egitto
+9e2919	Commercio elettronico
+a2cea1	Salute e farmaceutica
+d7e98f	Difesa e aerospazio
+403d0f	Media e intrattenimento
+57e548	Servizi pubblici
+158c86	milione di BTU
+d24bde	miliardi di m³
+96c770	milioni di tonnellate
+ef1058	migliaia di tonnellate
+2067d4	tonnellata di carbonato
+3c52b5	migliaia di tonnellate di carbonato equivalente
+92c927	migliaia di tonnellate di ossidi
+b67943	tonnellata di ossidi
+876706	tonnellate di uranio
+f057e1	libbra di U₃O₈
+8a3c09	Chiosco di cibo
+92653a	Alimentari
+e9fd9e	Officina meccanica
+9fc1b1	Azienda di software
+a9dadb	Negozio di abbigliamento
+a9a6b7	Negozio online
+e8df6f	Agenzia di marketing
+7bb2fd	Studio di videogiochi
+26823a	Trasporto merci
+96ea93	Flotta di taxi
+27c105	Clinica medica
+7f92f4	Immobiliare in affitto
+6b4140	Finanziaria (prestiti)
+cca0d4	Azienda agricola
+2d1f04	Fondo monetario (debito a breve termine)
+a34efa	Rende il tasso di riferimento del tuo paese meno le commissioni; quasi senza rischio
+e98580	Obbligazioni e un po' di azioni
+06460f	Azioni mondiali: più rendimento e cali più forti
+1e019b	Fondo di materie prime
+733bfd	Petrolio, oro e rame
+a7708a	Fondo di crescita
+0e6f9f	Hedge fund
+5baa46	Strategia macro con leva; prende il 2 % e il 20 % dei guadagni
+03af00	+8 % di gettito per 3 anni; −2 di approvazione
+9bddc8	+5 % di gettito; −3 di approvazione tra i più ricchi
+b08957	Lotta all'evasione fiscale
+f65139	Gettito e controllo della spesa
+09dab7	Attrarre investimenti esteri
+50b899	Sostegno alle piccole imprese
+50dc72	+0.2 % di crescita e +felicità
+53b83a	+0.4 % di crescita per 3 anni
+97c62c	Crescita, investimenti e commercio
+05e424	+10 % di produzione di risorse per 5 anni
+3fd6c3	+felicità, −dipendenza dal petrolio
+7948ee	Transizione all'energia pulita
+7d1981	Mettere all'asta giacimenti petroliferi e miniere
+b3c719	Petrolio, gas, elettricità e miniere
+0c9836	+5 % di qualità dell'esercito
+1ef1d5	+truppe senza perdere approvazione
+d9f99b	Modernizzare l'equipaggiamento militare
+442f9d	Viaggio diplomatico
+50e246	Trattati di libero scambio
+bcd226	Diplomazia, trattati e commercio estero
+c8f7fd	+10 di opinione presso i tuoi vicini
+ff7559	+0.3 % di crescita per 3 anni
+503860	+felicità nelle province, −1 di stabilità
+5a570f	Stabilità interna, elezioni e conflitti
+76f05d	+6 di stabilità
+d63fe9	Interno
+dc8778	Dialogo con l'opposizione
+24a34a	−25 % di reati per 3 anni; +approvazione
+51971c	Polizia e lotta al crimine
+7b1a71	Professionalizzare la polizia
+826c00	−15 % di reati, permanente
+b3d3cf	Operazione contro il crimine organizzato
+1fbfd0	Scuole, università e scienza
+49dea8	Programma nazionale di borse di studio
+556aab	Nuove università pubbliche
+c74b42	+sviluppo e +ricerca
+cf816c	+0.5 di sviluppo nelle province più povere
+06b593	+felicità nelle province più popolose
+25559a	Campagna di vaccinazione
+58d801	+felicità e meno mortalità
+bde775	Ospedali e sanità pubblica
+1d9314	+sviluppo nelle province rurali
+6e583e	Programma stradale
+830e44	Strade, porti e comunicazioni
+8a3835	Rete internet rurale
+9acb91	+sviluppo e +0.2 % di crescita
+5fd837	+15 % di produzione agricola per 5 anni
+73a24c	Agricoltura e alimentazione
+84deda	+10 % di produzione agricola e +felicità rurale
+87f4d3	Sussidi all'agricoltura
+0cbf46	+felicità; −0.1 % di crescita
+6ea7a2	Aumento del salario minimo
+852b3d	Lavoro e salari
+d2c17e	+0.1 % di crescita e +felicità
+d5fde1	Formazione per il lavoro
+9cbd36	+20 % di turisti (hotel, bar, gioiellerie) per 3 anni
+c2f941	Promozione turistica
+f44aab	Campagna turistica internazionale
+06ef63	Risorse naturali e inquinamento
+d790f3	Riforestazione nazionale
+9e3909	Capo reparto
+dc00cd	Direttore di area
+4e7aed	Cambio di valuta: i tuoi risparmi di {0} ({1}) ora sono {2} ({3}), al cambio del giorno.
+4c0c27	Crisi valutaria in {0}: dopo un attacco speculativo, {1} si svaluta del {2} % ({3} → {4} per dollaro) e passa a fluttuare.
+5bc580	Crisi valutaria in {0}: {1} si svaluta del {2} % ({3} → {4} per dollaro).
+7573fa	Crisi valutaria in {0}: {1} si svaluta del {2} % ({3} → {4} per dollaro) e passa a fluttuare.
+901c84	Crisi valutaria in {0}: dopo un attacco speculativo, {1} si svaluta del {2} % ({3} → {4} per dollaro).
+0fcdb7	Riforma monetaria: {0} toglie uno zero alla sua moneta. Ogni {1} equivale a {2} unità della vecchia moneta.
+52361a	Riforma monetaria: {0} toglie {1} zeri alla sua moneta. Ogni {2} equivale a {3} unità della vecchia moneta.
+5c2150	Riforma monetaria: {0} toglie uno zero alla sua moneta; nasce {1}. Ogni {2} equivale a {3} unità della vecchia moneta.
+b988c5	l'emittente
+fb4c96	Riforma monetaria: {0} toglie {1} zeri alla sua moneta; nasce {2}. Ogni {3} equivale a {4} unità della vecchia moneta.
+3d88d2	Il tuo paese cambia valuta: ora usi {0}. I tuoi soldi vengono convertiti al cambio del giorno ({1} {2} per {3}).
+407655	{0} adotta {1}. {2} smette di circolare.
+53d50f	{0} adotta {1} {2}. {3} smette di circolare.
+88d019	nuova moneta di {0}
+7e847e	uscita dall'unione monetaria
+a7a31d	{0}: {1} passa alla fluttuazione controllata.
+b09a14	{0}: {1} viene ancorato a {2} ({3} per unità).
+bec586	{0}: {1} passa al currency board rispetto a {2} ({3} per unità).
+cdcf0d	per frenare l'iperinflazione
+3de844	{0} lancia un piano di stabilizzazione: tagli alla spesa, stop alla stampa di moneta e tassi in rialzo.
+b51406	{0} finanzia la guerra stampando moneta.
+6b55dc	dopo aver rispettato i criteri di Maastricht
+1f1e10	10 % del PIL all'anno
+510406	1 % del PIL all'anno
+86bdd5	6 % del PIL all'anno
+e6498b	3 % del PIL all'anno
+95d74b	{0}: forte calo per {1} in {2}.
+98fdc3	{0}: forte rialzo per {1} in {2}.
+5195af	{0} taglia il tasso di {1} punti, al {2} %. Le borse festeggiano.
+b1cece	{0} alza il tasso di {1} punti, al {2} %. Le borse ne risentono.
+b5d367	Crollo di borsa: Wall Street va nel panico dopo anni di valutazioni gonfiate; i mercati di tutto il mondo crollano.
+f35e57	Crollo di borsa: Wall Street va nel panico per un'ondata di vendite; i mercati di tutto il mondo crollano.
+a03436	{0} batte le stime trimestrali: utili +{1} % sopra le attese. Il titolo sale del {2} %.
+b644f6	{0} delude nei risultati trimestrali: utili {1} % sotto le attese. Il titolo scende del {2} %.
+8903b0	{0} dichiara fallimento ed esce dal listino.
+b320a8	lo scoppio di una guerra
+306ba3	la recessione
+329727	le sanzioni internazionali
+5b3d47	il colpo di Stato
+54883d	l'occupazione del paese
+96f236	Questa azienda non è più quotata.
+0e4270	Ti servono 18 anni per aprire un conto titoli.
+4e9e7a	Dal carcere non puoi operare.
+ec0e51	Il tuo paese ha controlli sui capitali: non puoi comprare azioni estere.
+dcacf4	Sei in guerra con {0}: la sua borsa è chiusa per te.
+f7b7e6	La Borsa di Mosca è chiusa agli stranieri per le sanzioni.
+97dd29	Per vendere allo scoperto ti serve un conto a margine.
+33a539	Le tue azioni sono bloccate per altri {0} giorni di borsa (periodo di lock-up della quotazione).
+e955a1	Quantità non valida.
+938be8	Non hai posizioni corte da ricoprire.
+bf23b6	Prima ricopri la tua posizione corta.
+72bad5	Non ti basta: ti servono {0}.
+23bc5d	Margine insufficiente: con il margine puoi comprare fino al doppio del tuo capitale ({0}).
+a242eb	Non hai azioni di questa azienda.
+0af9ab	Margine insufficiente per quella vendita allo scoperto (capitale {0}).
+d0f3fa	Prima vendi le tue azioni di questa azienda.
+f015ab	Vendi la tua ultima azione di {0}: l'azienda non è più tua.
+d2c2f7	{0}: {1} azioni di {2} a {3} (commissione {4}).
+0051eb	Ordine limite registrato: ricomprare {0} a {1}. Scade tra 90 giorni di borsa.
+467bbd	Ordine stop registrato: ricomprare {0} a {1}. Scade tra 90 giorni di borsa.
+4fee5d	Prezzo non valido.
+672292	Ordine limite registrato: comprare {0} a {1}. Scade tra 90 giorni di borsa.
+964fba	Ordine stop registrato: vendere {0} a {1}. Scade tra 90 giorni di borsa.
+b7db44	Ordine stop registrato: comprare {0} a {1}. Scade tra 90 giorni di borsa.
+c59d95	Ordine limite registrato: vendere allo scoperto {0} a {1}. Scade tra 90 giorni di borsa.
+ebdb9f	Ordine stop registrato: vendere allo scoperto {0} a {1}. Scade tra 90 giorni di borsa.
+f02450	Ordine limite registrato: vendere {0} a {1}. Scade tra 90 giorni di borsa.
+42854e	⚠️ Margin call: il tuo broker vende {0} posizione/i per coprire la garanzia.
+5044ca	Margin call sul tuo conto titoli.
+0653b0	Perdi il tuo investimento in {0}: l'azienda è fallita.
+ebb2d0	Il tuo scoperto su {0} vince tutto: l'azienda è fallita.
+480fd3	Imposta sulle plusvalenze di borsa ({0} %): {1} su {2} di guadagni.
+95f5d0	Dividendi incassati nell'anno: {0}.
+49fdcc	La tua attività non può ancora quotarsi in borsa (deve essere una grande azienda in utile).
+12e946	{0} si quota su {1}: colloca il {2} % delle azioni e vale {3}.
+260753	La tua azienda si quota in borsa! Vendi il {0} % e ricevi {1} (commissioni di collocamento del 7 %). Mantieni il {2} % con un blocco di 6 mesi.
+7a099a	{0} chiude per perdite ed esce dal listino.
+78d746	Attacco speculativo contro {0}: i mercati scommettono che non riuscirai a mantenere il cambio di {1} per dollaro (il valore di equilibrio è intorno a {2}). Tesoro e riserve sono sotto pressione.
+e130ce	Difenderlo: alzare il tasso di 8 punti e vendere riserve
+1301e6	Perdi la scommessa: le riserve si esauriscono e la moneta crolla più di quanto avrebbe fatto con una svalutazione ordinata.
+898e93	Resisti all'attacco: spendi {0} di riserve e il tasso sale al {1} %. L'economia rallenta, ma il cambio regge.
+2c2401	Svalutare in modo ordinato e mantenere il cambio fisso al nuovo livello
+57ce7e	Annunci una svalutazione ordinata. Fa male, ma il mercato si calma.
+b11a06	svalutazione ordinata
+e1eac8	Lasci fluttuare la moneta. Si aggiusta di colpo e la banca centrale recupera l'autonomia per fissare i tassi.
+62745c	Restituisci l'autonomia {0}: torna a fissare i tassi con la sua regola (inflazione e crescita).
+ae037b	Togli {0} zeri: 1 {1} = {2} vecchie unità. Prezzi e salari vengono riscritti; il potere d'acquisto non cambia.
+2b6ab6	{0} lancia un piano di stabilizzazione con una nuova moneta: stop alla stampa di moneta, banca centrale autonoma e tassi in rialzo.
+ec5085	{0} lancia un piano di stabilizzazione: stop alla stampa di moneta, banca centrale autonoma e tassi in rialzo.
+a7381e	Piano di stabilizzazione: smetti di stampare, la banca centrale recupera l'autonomia e alza il tasso di 8 punti; nasce {0}. L'inflazione scenderà con forza nei prossimi 3 anni; il costo è una recessione e meno approvazione.
+a37ef7	come membro dell'eurozona
+02ba38	{0} adotta {1}. La tua inflazione convergerà verso quella degli USA, ma perdi la politica monetaria e il signoraggio.
+27503e	{0} adotta {1}. La tua inflazione convergerà verso quella dell'eurozona, ma perdi la politica monetaria e il signoraggio.
+83d01c	Abbandoni {0} e lanci {1} ({2}). Recuperi la politica monetaria, ma la transizione spaventa: fuga di capitali, recessione e una moneta che nasce debole.
+5ec038	da prima del 2026
+632f4c	Fondo indicizzato IPC Messico
+58f214	Fondo indicizzato Shanghai
+4567fe	le prese di profitto dopo il rialzo
+4a0bcf	la ricerca di beni rifugio davanti all'incertezza
+6b8028	la speculazione sui mercati
+dda919	il rallentamento dell'economia mondiale
+fce0e8	il calo dell'offerta ({0})
+270591	{0} sale del {1} % nel mese per {2}: {3}.
+ed8840	{0} scende del {1} % nel mese per {2}: {3}.
+51b04a	{0} vieta l'esportazione di {1} per contenere i prezzi interni: produce il {2} % del mondo.
+bf48f2	{0} revoca il divieto di esportare {1}.
+804a21	divieto di esportazione
+cf7c6d	perdita di territorio
+c4f935	{0} in {1}, {2} % del mondo
+f95218	interruzioni della produzione
+27ccad	{0} US$ per {1}
+43f16e	Ti servono 18 anni (16 per un chiosco di cibo).
+8bc824	Dal carcere non puoi aprire attività.
+aba2e5	Hai già {0} aziende: vendine o chiudine una prima.
+7b7e1d	In questa provincia non ci sono giacimenti minerari. Cercane una con ⛏️ sulla mappa delle risorse.
+10b067	Non puoi investire in un paese con cui sei in guerra.
+5c65e7	In questa provincia non c'è né petrolio né gas.
+204331	Apri la tua nuova attività ({0}) a {1}: investi {2} in locale e attrezzature e {3} in capitale circolante.
+55514d	Apri la tua nuova attività ({0}) a {1}: investi {2} in locale e attrezzature e {3} in capitale circolante (prestito bancario di {4}).
+ffc91d	💥 {0} fallisce: i debiti ({1}) superano il suo valore. Chiudi l'attività ({2}) e perdi l'investimento.
+0238eb	Hai raggiunto il massimo di filiali per questo settore ({0}).
+be71a6	Ti servono {0} (cassa dell'azienda + i tuoi soldi).
+6eba35	Apri la filiale {0} di {1} ({2}) e assumi {3} dipendenti.
+f83e91	È la tua unica filiale: per chiuderla, chiudi l'azienda.
+fd80e9	Chiudi una filiale e recuperi {0} vendendo l'attrezzatura.
+ceb925	Non puoi restare senza personale.
+926cc6	Licenzi {0} dipendente/i e paghi {1} di liquidazione (3 mesi di stipendio).
+69d59b	La banca non ti presta più: il tuo debito è già alto rispetto a quanto guadagna l'azienda.
+77945d	La banca presta {0} a {1} al {2} % annuo.
+571a62	Paghi {0} di debito.
+62681d	Non c'è cassa per pagare il debito.
+0e8dd9	Versi {0} nella cassa di {1}.
+aae75a	Non hai soldi da versare.
+1c0c3a	L'azienda non ha cassa.
+7d0bde	Prelevi {0} dalla cassa di {1}.
+31b219	Vendi {0} per {1} (dopo aver pagato i suoi debiti).
+4a941c	La tua azienda è quotata in borsa: vendi le tue azioni da 📈 Borsa.
+630e0d	Un'azienda quotata non si può chiudere così: vendi le tue azioni.
+ecb515	Chiudi {0}: svendi l'attrezzatura, paghi debiti e liquidazioni ({1}). Ti restano {2}.
+27ea54	Compri {0} di {1} a {2} ({3}).
+6b0250	Non hai di quella materia prima.
+bae7f6	Vendi {0} di {1} per {2}.
+7c925f	Non ti basta.
+baf6a2	Non puoi comprare il debito di un paese con cui sei in guerra.
+bbf6f5	Il tuo paese ha controlli sui capitali.
+6af867	Compri obbligazioni decennali di {0} per {1}: rendono il {2} % annuo in {3}.
+13cebb	Vendi le tue obbligazioni di {0} per {1}.
+305eb6	{0} dichiara una moratoria sul debito: gli obbligazionisti recuperano circa il 45 %.
+dd05d2	Le tue obbligazioni di {0} subiscono un taglio del 55 % per la moratoria.
+43a741	{0} scompare: le sue obbligazioni vengono pagate al 30 %.
+9b507f	Scadono le tue obbligazioni di {0}: ricevi {1}.
+bf7d52	{0} nazionalizza petrolio e miniere: lo Stato tiene una quota maggiore della rendita.
+ee4020	{0} vieta l'esportazione di {1}.
+2d50c7	Capo desk
+700b36	Direttore degli investimenti
+8d5800	MBA (business school)
+0257bd	retta {0}/anno
+6e153a	master
+e9d78e	entri come Dirigente o Associato
+113347	la carriera arriva fino ad Amministratore delegato
+4d769b	Non superi la selezione. Riprova l'anno prossimo o rafforza il tuo profilo.
+576d1c	{0}/anno
+656ad2	Entrare in una multinazionale come Dirigente (MBA)
+23a64d	richiede Economia, Ingegneria, MBA o certificazione
+85fa39	da Trader in su gestisci soldi veri
+7ca370	Non superi i colloqui tecnici.
+0b52a0	promozione ~{0} %
+569c92	apre la carriera in finanza e migliora le tue promozioni
+57e016	Certificazione di analista finanziario: livello {0} di 3 ({1})
+c0e5e6	Esame annuale
+3995f8	Superi il livello {0} della certificazione.
+7a09c7	Bocciato all'esame: l'anno prossimo puoi ripresentarti.
+3e742d	Finisci il corso: leggi meglio il mercato.
+cb3f9d	Corso di trading e mercati ({0})
+24274d	Diploma in direzione aziendale ({0})
+8cfc92	Finisci il diploma.
+8c5619	Direzione generale di {0} (una decisione all'anno)
+48abe7	Gestisci {0} di {1}
+d5ff8d	Il tuo lavoro
+efa665	📊 Sala operativa
+2edaf0	Gli investitori ti affidano capitale; prendi il 2 % di gestione e il 20 % dei guadagni
+42564e	versi {0}
+ca4b86	Fondare il tuo fondo d'investimento
+6e5622	📈 Il tuo fondo: {0}
+17d3c4	Il mercato premia il tuo piano di espansione.
+5a0b5e	+crescita degli utili per 3 anni; se va male, il titolo scende
+841768	Espansione aggressiva
+8ecc3d	L'espansione costa più del previsto: il titolo scende.
+4c6e13	Tagli i costi: salgono utili e titolo, ma il clima interno peggiora.
+7b6f53	Taglio dei costi
+e0576a	+utili quest'anno; calano morale e reputazione
+9399ec	Riacquisti il 4 % delle azioni: sale l'utile per azione.
+b458d4	Alza il prezzo per azione; usa la cassa dell'azienda
+c27d10	Riacquisto di azioni
+27184f	Attira investitori di lungo periodo
+69918e	Il dividendo sale al {0} %.
+c2999f	Aumentare il dividendo
+2df232	Punti sull'innovazione: meno utile oggi, più crescita domani.
+564eee	Costa utili oggi, più crescita dopo
+85448f	Investire in innovazione (R&S)
+035f3b	Hai pagato troppo l'acquisizione: il titolo viene punito.
+63f610	Utili +12 %; rischio di pagare troppo
+b5d232	Comprare un concorrente
+fe8ebd	L'acquisizione funziona: guadagni quote di mercato.
+abb0ef	🇯🇵 Azioni Giappone
+0a7cf6	🛢️ Petrolio
+584d6a	🏛️ Titoli USA a 10 anni
+e72c5c	Fondi {0}: metti {1} e i tuoi primi investitori versano quattro volte tanto. Prendi il 2 % annuo di gestione e il 20 % dei guadagni.
+5106eb	💥 Perdi il {0} % del capitale della sala operativa nell'anno: {1} ti licenzia.
+5f5a62	Il tuo fondo {0} chiude: gli investitori hanno ritirato quasi tutto. Recuperi {1}.
+4a3689	La tua sala operativa ha chiuso l'anno a {0} %: niente bonus.
+c12d26	La tua sala operativa ha guadagnato il {0} % ({1}). Bonus: {2}.
+1a153c	{0} ha reso il {1} % nell'anno.
+a1a82b	{0} ha reso il {1} % nell'anno: incassi {2} di commissione di performance.
+7e1ebe	La tua azienda scompare: resti senza posto.
+45d93c	Il consiglio ti paga un bonus di {0}: il titolo ha battuto l'indice di {1} punti.
+ab150a	Il consiglio di {0} ti rimuove: il titolo è rimasto sotto il mercato per due anni di fila. Te ne vai con {1} di buonuscita.
+bb8308	Ingaggi {0} ({1}): {2} all'anno.
+e693ca	Annulli il servizio di {0}.
+731b8d	Il tuo avvocato trova vizi nel processo: vieni assolto.
+f137be	Un gruppo armato ti intercetta e ti rapisce. Chiedono {0} per la tua liberazione.
+42111f	Paghi e ti liberano dopo pochi giorni. L'esperienza ti segna.
+5db447	Pagare il riscatto ({0})
+2cbf7c	Il negoziatore ottiene la tua liberazione per la metà.
+4f2e40	Negoziare con uno specialista (costa la metà, più rischio)
+9f6abb	La trattativa si complica: vieni liberato ferito.
+443c00	Un blitz della polizia ti libera.
+7d0475	Aspettare la polizia
+ae8f9d	Il blitz va male: sopravvivi con ferite gravi.
+0b52b8	Un gruppo criminale esige il “pizzo” mensile da {0}.
+1db265	Paghi. L'attività resta aperta, ma guadagni meno.
+e62652	Pagare il pizzo ({0} al mese, per un anno)
+2f0550	Si vendicano: attaccano il tuo locale e fanno scappare i clienti.
+d580fe	La polizia arresta gli estorsori.
+cff0dc	Chiudi per qualche settimana finché la pressione cala.
+324947	È già la tua moneta.
+855305	Il tuo paese ha controlli sui capitali: non puoi comprare valuta estera.
+a689c2	Compri {0} ({1}) per {2}.
+823b1e	Non hai quella valuta.
+255dfd	Vendi {0} e ricevi {1}.
+2e735d	{0} vende {1} di riserve per sostenere {2}.
+00c917	{0} rilascia {1} dalla riserva strategica: il greggio scende.
+2a6ced	Difenderlo: tasso +8 e vendere riserve (hai {0})
+fc75c7	Spendi {0} di riserve.
+813041	Ora gestisci {0}: apri 📊 Sala operativa in Carriera.
+651871	Promozione grazie alla tua formazione! Ora sei {0}.
+1ca4c3	{0} richiede un patrimonio di {1} per aprirti un conto.
+889a63	Banca non disponibile.
+331e6c	Depositi {0} presso {1} ({2} % annuo).
+654abd	Non hai contanti da depositare.
+fb4937	Non hai saldo lì.
+0b675e	{0} ti presta fino a {1} con il tuo storico (punteggio {2}).
+a589c2	Sei in bancarotta: nessuna banca ti presta.
+0c2b9c	{0} ti presta {1} a {2} anni al {3} % (rata {4} all'anno).
+54be5f	Nessuna garanzia sui depositi
+d13bdd	La garanzia sui depositi ti restituisce {0}
+f7309c	Fallisce {0}: {1} commissaria la banca.
+3187f3	Investimento minimo: patrimonio di {0} (private banking).
+a96434	Investi {0} in {1}.
+4a5fdf	Ritiri {0} dal fondo (perdita di {1}).
+4e9dd3	Ritiri {0} dal fondo (guadagno di {1}).
+6538a8	Non hai quel fondo.
+6171d5	Capitale minimo per una banca di livello {0}: {1}.
+6936f6	L'autorità di vigilanza di {0} respinge la tua licenza bancaria (spendi {1} in pratiche). Aumenta la tua influenza o esperienza finanziaria e riprova.
+e11cd2	Ottieni la licenza! Fondi {0} ({1}) con {2} di capitale.
+4cecda	🏦 {0} cresce e sale al livello {1}.
+d0a0de	{0} sale al livello di banca {1}.
+6e66ac	Corsa agli sportelli da {0}: i risparmiatori fanno la fila per ritirare i soldi. Il tuo capitale copre il {1} % dei prestiti.
+6e3497	Non ti basta: la banca perde il 30 % dei depositi e la sua reputazione cala.
+b68f68	Inietti capitale e la fila si scioglie.
+a986dd	Chiedere liquidità alla banca centrale
+ee94bd	La banca centrale ti presta a un tasso di penalità; sopravvivi con meno depositi.
+177185	Vendere la banca a un concorrente
+b26157	Vendi la banca per {0}.
+3e2462	Vendi {0} per {1} (1.2 volte il suo capitale).
+39fc63	la crisi bancaria
+28b604	Crisi bancaria in {0}: il governo salva le banche con il 4 % del PIL.
+fdcb5f	Crisi bancaria in {0}: il governo lascia fallire diverse banche e la recessione si aggrava.
+5fc2b3	Crisi bancaria in {0}: diverse banche non riescono a pagare i risparmiatori e il credito si blocca.
+8a2aa1	Salvi il sistema: il credito torna, ma i contribuenti pagano il conto.
+f05ccf	Salvare le banche (4 % del PIL)
+77b2da	Lasciar fallire le banche insolventi
+be0090	Lasci fallire le banche peggiori: il sistema si ripulisce, ma la recessione durerà di più.
+41e7f3	Chiedere un salvataggio al FMI
+729d39	Il FMI approva un prestito di {0} per {1} in cambio di un programma di austerità.
+7687e7	politico leale
+819f3f	Scandalo al Ministero di {0} di {1}: {2} è accusato di aver sottratto fondi.
+24af4c	Nomini {0} ({1}) al Ministero di {2}.
+b11981	Il governo ti rimuove dal ministero.
+0192d5	Il tesoro non basta ({0}).
+5b9325	{0}: il Ministero di {1} lancia «{2}» ({3}).
+49e5c7	Servizio pubblico
+3c3c5f	Non superi il concorso di ammissione.
+ac7078	{0} Entrare al Ministero di {1}
+bcd495	puoi diventare Ministro
+eef9d9	Entri al Ministero di {0} come {1}.
+48bbf4	Come Ministro di {0} (una direttiva all'anno)
+ecd4e3	{0} del bilancio del ministero
+0bd064	Giuri come Ministro di {0} di {1}. Le tue decisioni muovono il paese.
+bf9039	Arriva un nuovo governo e nomina un altro Ministro: lasci l'incarico.
+78c17c	1 anno
+9bd244	la tua moneta: {0}
+74ba60	non paga
+fe92cb	Stop: scatta quando il prezzo tocca il tuo livello (per limitare le perdite o entrare su una rottura). Può essere eseguito a un prezzo peggiore se il prezzo apre con un gap.
+170f73	capitale a margine {0}
+11e8cf	✓ Conto a margine attivo
+3ea143	Requisiti: attività di livello 3 o superiore (grande azienda) in utile l'ultimo anno e avere 18 anni.
+a5e095	Vendi una parte al pubblico e incassi subito; tieni il resto (blocco di 6 mesi). Da allora ti resta solo la tua parte degli utili, e il prezzo del titolo seguirà i tuoi risultati.
+30c3a0	Paghi {0} del tuo prestito a margine.
+3670d3	currency board ({0})
+36d964	— (Rapido)
+e77ca5	✓ Banca centrale autonoma
+9562fa	Uscire dal {0} e creare una moneta propria
+ee8705	Uscire dalla {0} e creare una moneta propria
+350c61	Nome della nuova moneta (cancella per tenere “{0}”)
+3ff1df	32 borse reali, candele, ordini, scoperto e margine
+affc3b	📈 Borsa valori
+9454fd	Conto titoli: {0} in azioni nette.
+3a7d39	Vale ~{0}: vendi una parte al pubblico
+006b78	📈 Borsa, valute e banca centrale
+545c11	soffre nelle recessioni
+7662cb	quotata in borsa (hai il {0} %)
+56a277	Ti mancano dipendenti ({0}): perdi capacità e reputazione.
+9540ce	Reputazione bassa: alza qualità o stipendi (il turnover affossa il servizio).
+12f89e	I tuoi fattori produttivi costano il {0} % in più rispetto a inizio 2026 ({1}).
+7c8b5b	Affitto e servizi + royalty
+650e37	Vendere {0} per ~{1}?
+695ef3	Chiudere {0}?
+5c4a7e	{0} {1} ({2}/anno)
+35cec7	1 giorno
+b31942	5 giorni
+1d5139	−12 % nell'anno
+616664	5 % dei guadagni
+5a9fde	Se la sala operativa guadagna nell'anno, salirai prima; se perde più del 12 %, ti licenziano.
+b65233	Prendi il 2 % annuo di gestione e il 20 % dei guadagni oltre il massimo precedente; se guadagni, arrivano più investitori; se perdi, se ne vanno.
+91aac6	⚠️ Limite
+fd2e45	💼 Carriere in affari e finanza, servizi e riserve
+771e2a	patrimonio minimo {0}
+1db201	tocca un importo per chiederlo
+4de215	ti servono 18 anni
+ecb974	sei in bancarotta
+7da48a	patrimonio minimo {0}
+661b0d	Versi {0} di capitale in {1}.
+53fd74	Vendere {0}?
+335ab1	Lavori al Ministero di {0}.
+59702c	Nomini i ministri e dai direttive (ogni nomina o direttiva usa un'azione di governo).
+c65b54	Gabinetto di {0}.
+d11aed	🏦 Banche, fondi e ministeri
+5ee328	Riserva Federale
+2041ec	Banca Centrale Europea
+26c03f	Banca Centrale del Brasile
+86fc3a	Banca d'Inghilterra
+200627	Banca del Giappone
+8db8d1	Banca Popolare Cinese
+d1ca53	Banca del Canada
+5c1b98	Banca Nazionale Svizzera
+21550c	Reserve Bank of India
+8fe486	Banca di Russia
+f2534c	Banca Centrale della Turchia
+998cf7	Banca di Corea
+51229e	Reserve Bank of Australia
+21a31c	Banca Centrale del Cile
+9925ce	Banco de la República (Colombia)
+525350	South African Reserve Bank
+9bbe9c	Autorità Monetaria di Hong Kong
+226d1b	banca centrale del {0}
+3f2c41	banca centrale della {0}
+3ae616	nuovo {0}
+0702e4	nuova {0}
+b2a193	Commissione 0.1 % (minimo 1 US$).
+dcba28	Commissione 0.1 % (minimo 1 US$) + 0.25 % per il cambio valuta.
+00f47a	in banca {0}.
+22a105	Le banche piccole pagano di più, ma falliscono più spesso; la garanzia sui depositi del tuo paese copre fino a {0} per banca.
+b44b54	Le banche piccole pagano di più, ma falliscono più spesso; la garanzia sui depositi del tuo paese copre fino a {0} (oggi è disattivata) per banca.
+0ff969	{0} adotta {1} dopo aver rispettato i criteri di Maastricht. {2} smette di circolare.
+7125d0	{0} adotta {1} come membro dell'eurozona. {2} smette di circolare.
+f63169	{0} adotta {1} per frenare l'iperinflazione. {2} smette di circolare.
+ff094a	{0} adotta {1} come moneta propria. {2} smette di circolare.
+2501a3	📈 Borsa
+e1fa56	Acquisto
+3b19a7	Vendita
+4ea185	Ricopertura
+57c463	escudo portoghese
+64954b	franco francese
+8847fa	marco tedesco
+099132	marco finlandese
+aa7e4b	franco lussemburghese
+b4efbc	scellino austriaco
+bf8146	colón salvadoregno
+9ef9b3	lira italiana
+c4705a	peseta spagnola
+9bfbe8	dracma greca
+22d907	fiorino olandese
+cef7ce	franco belga
+6b075a	sterlina irlandese
+cca819	tallero sloveno
+c74305	corona slovacca
+460dd9	corona estone
+2cf929	lats lettone
+57e993	litas lituano
+928435	sterlina cipriota
+faac0b	lira maltese
+851b9d	kuna croata
+ca5ec7	lev bulgaro
+40bb9f	perper montenegrino
+329924	dinaro kosovaro
+09dcbb	sucre ecuadoriano
+5a9c37	balboa panamense
+6d058c	escudo timorese
+05dede	Economia mondiale {0}: il prodotto globale è cresciuto del {1} %. Crescita maggiore: {2}. Contrazione maggiore: {3}.
+11a184	Economia mondiale {0}: il prodotto globale si è contratto del {1} %. Crescita maggiore: {2}. Contrazione maggiore: {3}.
+866937	Quadro della sicurezza {0}: {1} conflitti armati attivi nel mondo.
+93234e	Quadro della sicurezza {0}: {1} conflitto armato attivo nel mondo.
+13f047	{0} — bilancio {1}: l'economia si è contratta del {2} %, inflazione al {3} %, tasso di riferimento al {4} %. Approvazione del governo: {5} %; stabilità: {6}.
+fe2b02	{0} — bilancio {1}: l'economia è cresciuta del {2} %, inflazione al {3} %, tasso di riferimento al {4} %. Approvazione del governo: {5} %; stabilità: {6}.
+5b51e0	{0}: {1} abitanti, PIL pro capite di {2}, sviluppo {3}.
+7988ba	{0}: {1} abitanti, PIL pro capite di {2}, felicità {3}, sviluppo {4}.
+b31d0a	{0}: {1} abitanti, PIL pro capite di {2}.
+c02039	La provincia è sotto il controllo di {0}.
+cdd8d3	{0}: {1} abitanti, PIL pro capite di {2}, felicità {3}.
+e90d2d	nuovo rial
+045952	Società
+d8fbfd	{0} decreta la mobilitazione generale.
+635daa	{0} invia armi, denaro e volontari a {1} contro {2}.

@@ -1,0 +1,84 @@
+738665	Özel
+6315e0	⚙️ Diğer seçenekler (özel)
+0b7b7b	🎯 Bu oyunun seviyesi
+a83c17	👀 Tüm seçenekleri göster
+8e6bf4	Diğer menüsünün tamamı görünür.
+0a6762	Gelişmiş seçenekler ilerledikçe açılır.
+d2c872	💡 İlk kez açıklamaları
+13e070	Her ekranı ilk açtığında kısa bir kart.
+71231e	🧭 Sonraki adım önerisi
+1a86f0	Haritanın üstünde «Önerilen: …».
+41dec9	↺ Açıklamaları yeniden göster
+f4bb5f	İlk kez kartları yeniden görünür.
+d4b979	Mod (Hızlı ya da Gerçekçi) oyun oluşturulurken seçilir ve sonradan değişmez; zorluk değişebilir.
+901306	İlk kez açıklamaları yeniden görünecek.
+a3a1f6	Sözlük
+d5a3a2	Daha sonra açılır
+c54540	18 yaşında
+f613c9	18 yaşında, bir yıllık ortalama maaş kadar birikimle
+87ec0c	5 yıllık ortalama maaş kadar servetle
+f30956	30 yaşında ya da çocuk sahibi olunca
+0ff455	yönetince ya da orduya girince
+40b8f6	teknik araç: «Tümünü göster» içinde
+457707	Şimdi tümünü göstermek için dokun
+eb91a7	Tümünü göster
+a261bb	Diğer menüsündeki tüm seçenekler görünür. Ayarlar’dan yeniden gizleyebilirsin.
+f8aa55	İlk kez burada
+4be0e2	Önerilen:
+52cddd	📘 Kazandığından fazla harcadın: farkı birikimlerin karşıladı.
+873c19	📘 Servetin net maaşından fazla büyüdü: hesapların, yatırımların ya da şirketlerin de para kazandırdı.
+e943dd	📘 Servetin harcamalarından fazla düştü: bir yatırım, şirket ya da alım değer kaybetti.
+afc8ee	Diğer’de yeni seçenek
+0930b8	Bankanda risk var
+edd50c	Geçmişindeki uyarıya bak.
+227673	Oyunun kullandığı ekonomi ve finans terimleri. Kolay modda para ve ülke ekranlarında altı çizili görünür: anlamını görmek için dokun.
+e0281e	Seviyeler
+64968c	Seviyeler ve Kolay mod
+b0e217	Şimdi değil
+539e07	Hisse (borsa)
+0ad20e	Ortalama maaş
+375cfc	Faiz oranı
+0637e8	Çeşitlendirme
+2401fc	{0} ekonomi ve finans terimi, açıklamalı
+c0e8eb	📘 Rakamlarla yılın: {0} gelir ve {1} yaşam gideri; servetin {2} iken {3} oldu.
+5c4c5c	🔓 Diğer’de açıldı: {0}
+a39604	💡 Biliyor muydun…? {0} (Kaynak: {1})
+e62b0a	⚠️ {1} hesabında {0} var: mevduat sigortası banka başına {2} tutarına kadar karşılar. O banka batarsa farkı kaybedebilirsin; parayı birkaç bankaya dağıtmak riski azaltır.
+67799a	⚠️ {1} hesabında {0} var ve ülkende mevduat sigortası yok: banka batarsa hepsini kaybedebilirsin. Parayı birkaç büyük bankaya dağıtmak riski azaltır.
+24a9c6	{0} (üzerine yazılır)
+180bc0	Oyunu ya da ekonominin işleyişini bilmeyenler için: basit kurallar ve daha fazla pay; gelişmiş seçenekler yavaş yavaş açılır ve her ekran ilk kez açıklanır. Bir hayat: 10–15 dk.
+51f252	Gerçek verilerle ayarlı, kurallar basit: maaş ve giderler otomatik, savaşlar yılda tek muharebe, her şey görünür. Bir hayat: 10–15 dk.
+ed96d3	Tüm mekanikler: vergiler, enflasyon, krediler, aylık savaşlar, hastalıklar, meclis ve davalar. Bir hayat: 30–60 dk.
+b23482	Parayı bankada tutmak onu korur ve faiz kazandırır (mevduat faizi). Küçük bankalar daha sık battığı için daha çok öder; biri batarsa ülkenin mevduat sigortası banka başına bir sınıra kadar öder. Burada kredi de çekersin: faiz kredi geçmişine bağlıdır.
+55147a	Hisse, bir şirketin küçük bir parçasıdır. Şirket iyi giderse fiyat yükselir, bazıları temettü dağıtır; kötü giderse kaybedebilirsin. Farklı sektörlerden şirket almak (çeşitlendirme), tek birinin düşmesinin zararını azaltır.
+55c1d6	Bir şirket her ay satış yapar; girdi, maaş, kira, vergi ve borç öder. Kalan kârdır ve dağıttığı kısım senin parana gelir. Küçük başlayıp yeniden yatırım yapmak, hızlı büyümek için borçlanmaktan daha güvenlidir.
+361159	Her ay ödediğin hizmetler: koruma, sağlık, ev yardımı. Hayatını iyileştirir ya da riskleri azaltır (örneğin çok paran varken kaçırılma riski), ama sabit giderdir: gelirin kaldırdığında tut.
+e8c16a	Yıllık paran: brüt gelirden yaşam giderleri (Gerçekçi’de vergiler ve kredi ödemeleri de) çıkınca net kalır. Net eksiyse kazandığından fazla harcıyorsun ve birikimin azalır.
+67b11d	Burada zamanını neye harcayacağına karar verirsin. Her etkinlik zaman ya da para ister ve istatistiklerini değiştirir: ders çalışmak zekâyı, spor salonu sağlığı, aile mutluluğu artırır. Bu istatistikler hangi kapıların açılacağını belirler.
+d40bce	Geçimini sağlama biçimin. Bir iş hemen maaş verir; üniversite yıllar sürer ama daha iyi ödeyen işler açar; iktidara giden kariyerler (siyaset, ordu, iş dünyası) yönetmeye götürür. Maaşlar ülkenin gerçek ortalama maaşından gelir.
+40dca5	Sahip oldukların: ev, araba ve diğer varlıklar. Servetin, sahip olduğun her şey (nakit, hesaplar, yatırımlar ve varlıklar) eksi borçlarındır.
+c63650	İlişkilerin: aile, partner, arkadaşlar ve tanıdıklar. Zaman ayırmazsan soğur; tanıdıklar sana iş ve fırsat kapısı açar.
+427549	Hırsın, bu hayat için seçtiğin hedeftir: burada ne kadar kaldığını ve kazandığın başarımları görürsün.
+ecab87	Her ülke 2026’nın gerçek verileriyle: nüfus, ekonomi, ordu ve diğer ülkelerle ilişkiler. Seninkinde olanlar (savaşlar, krizler, maaşlar) seni de etkiler.
+81e3ae	🩺 Sağlığın düşük: doktora ya da spor salonuna git.
+f01ef9	🌴 Mutluluğun düşük: ailenle vakit geçir ya da tatile çık.
+831c8b	📚 Ders çalış: zekâ notlarını yükseltir ve daha iyi kariyerler açar.
+999b71	💼 İş bul ya da üniversiteye gir: ilk gelir kaynağın bu.
+552684	📉 Kazandığından fazla harcıyorsun: daha iyi maaşlı bir iş ara ya da kendini geliştir.
+7c420a	🏦 Boşta nakit var: banka hesabında faiz kazanır.
+e0d9d7	📈 Çeşitlendir: birikiminin bir kısmını bir yatırım fonuna koy.
+2d319d	🏪 Artık girişimci olabilirsin: bir şirket maaştan fazlasını kazandırabilir.
+842059	Bir yıldaki genel fiyat artışı. %5 enflasyonda 100 $ olan şey 105 $ olur: maaşın aynı oranda artmazsa daha az alabilirsin.
+dcfd47	Gayrisafi yurt içi hasıla: bir ülkenin bir yılda ürettiği her şeyin değeri. Ekonomisinin büyüklüğünü ölçer.
+6196eb	GSYH’nin nüfusa bölünmesi. Her ülkenin ortalama ne kadar zengin olduğunu karşılaştırmaya yarar.
+dc4239	Ülkedeki bir çalışanın tipik yıllık maaşı. Oyun bunu maaş ve fiyatların temeli olarak kullanır.
+155753	Paranın zaman içindeki fiyatı, yıllık %: bankanın paranı tuttuğu için sana ödediği ya da borç verdiği için aldığı.
+ea86c4	Devlet güvencesi: bankan batarsa mevduatın banka başına bir sınıra kadar geri ödenir. Sınırı aşan kısım kaybolabilir.
+1327d2	Borsada alınıp satılan, bir şirketin küçük bir parçası. Fiyatı şirketten beklenenlere göre yükselir ya da düşer.
+a5b042	Bir şirketin kârından hissedarlarına dağıttığı pay.
+c2858c	Paranı farklı yatırımlara dağıtmak; böylece birinin düşüşü seni fazla etkilemez.
+cf2009	Tüm maliyetler ödendikten sonra satışlardan kalan. Eksiyse şirket para kaybediyordur.
+bdc70a	Sahip olduğun her şey (nakit, hesaplar, yatırımlar ve varlıklar) eksi tüm borçların.
+a8a375	Ne kadar iyi ödeyici olduğunun puanı. İyi bir geçmişle daha çok ve daha düşük faizle borç alırsın.
+086033	Gelirin ve alışverişlerin üzerinden devlete ödediğin. Bununla okullar, hastaneler, ordu ve yapılar finanse edilir.
+baef67	Bir şirketin ya da bankanın borcunu ödeyemeyip kapanması ya da el konulması.

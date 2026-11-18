@@ -1,0 +1,106 @@
+da4112	Wachstum des Landes
+e770f6	Rezession
+c42c4a	Zinsen
+b82b50	Krieg
+2091ec	Ölpreis
+6f40f5	Metallpreise
+de3107	Bankenkrise
+eaa432	Zustand der Banken
+25df08	Seine Kunden (Kette)
+8ba059	Konsum der Haushalte
+428aa6	Jüngste Insolvenzen
+eb9d92	Branchentrend
+2a9066	Haushalte der Provinz
+ba2f44	Touristen
+0ed580	Andere Unternehmen des Landes
+2b3fa3	Unternehmen und Haushalte, die Technologie einführen
+90c48c	Haushalte im ganzen Land
+cfcdcf	Weltmarkt: Du verkaufst zum internationalen Preis
+bf3612	wegen der Insolvenz eines Unternehmens
+fe1287	wegen der Schließung eines Unternehmens
+04d5bf	{0} Monate
+01c6b3	Beitrag zur lokalen Wirtschaft
+e29d55	Es hat seinen ersten Monat noch nicht abgeschlossen.
+ae31cc	Wertschöpfung pro Jahr
+a59004	Mit Lieferanten und Löhnen
+a14887	Arbeitsplätze
+e0373a	direkt + indirekt
+8cf54c	Steuern und Abgaben
+78ca2c	pro Jahr
+f45225	BIP der Provinz
+54e3cd	BIP des Landes
+c37c0c	Wertschöpfung = Umsatz − Vorleistungen: was dein Unternehmen zur Wirtschaft beiträgt.
+2ccea0	Seine Einkäufe bei Lieferanten und die Löhne, die deine Angestellten ausgeben, schaffen mehr Aktivität (Multiplikator).
+bd431d	Jedes Jahr fließt dieser Beitrag ins BIP von {0}.
+5d2777	Lieferkette
+163de9	Vorleistungen
+e9b8a1	{0} % der Kosten
+725a2b	Preis seit 2026
+3c8275	Von deinem Unternehmen produziert
+f9c7b3	(10 % billiger)
+c60a91	Vertikale Integration: Du sparst {0} pro Monat bei den Vorleistungen.
+e84b64	Kunden
+928862	Zustand deiner Branche
+cd52f2	Wirkung auf deine Nachfrage
+0b5c1a	Nachfrage der Provinz
+6b7103	Dein Beitrag zur Wirtschaft
+33a71c	BIP deines Landes
+e0d793	Deine Unternehmen auf der Karte ansehen
+b5aae0	Im Ausland zu kaufen ist eine ausländische Direktinvestition: Du zahlst {0} % Gebühren, und das Unternehmen arbeitet mit den Löhnen, Steuern und Krisen dieses Landes.
+59502b	Gebühren: {0}
+c33869	Dieses Land existiert nicht mehr.
+ff7f4c	Gebühren für Auslandsinvestitionen: {0}.
+afd069	Du kaufst {0} für {1}. Gebühren für Auslandsinvestitionen: {2}.
+bd6bcf	Du kaufst {0} für {1} (du zahlst {2}; {3} Kredit bleiben als Schulden des Unternehmens). Gebühren für Auslandsinvestitionen: {4}.
+b5a26e	Konkurrent aus derselben Branche
+ec0385	Zahlt mehr, wenn das Unternehmen gesund ist: Es bringt ihm Kunden und Filialen.
+488eb4	Private-Equity-Fonds
+2fabc6	Kauft nur Unternehmen mit Gewinn; zahlt nach ihren Cashflows.
+1342fe	Privatinvestor
+67b06b	Bietet weniger, kauft aber fast jedes Unternehmen.
+033f80	Unternehmen verkaufen
+3b6679	Geschätzter Wert
+99ff29	Zustand des Unternehmens
+e4ed68	Jeder Käufer bietet je nach Zustand des Unternehmens: Marge, Ruf, Wachstum und Schulden.
+21206a	Du kannst annehmen oder mehr verlangen: Lehnt er ab, senkt er sein Angebot etwas; nach der zweiten Ablehnung zieht er sich zurück.
+5b72aa	Die Angebote erneuern sich alle 3 Monate.
+095408	Im Moment gibt es keine interessierten Käufer.
+c733ab	Hat schon abgelehnt, mehr zu zahlen: {0}
+8f9f73	Annehmen
+4f5c13	{0} Capital Fonds
+37b68c	{0} zieht sich zurück: will nicht mehr für {1} zahlen.
+362d66	{0} lehnt es ab, mehr zu zahlen, und senkt sein Angebot auf {1}. Du kannst es annehmen oder es noch einmal versuchen.
+dadf29	Du verkaufst {0} an {1} für {2} ({3} % mehr als das Angebot). Das Unternehmen arbeitet mit dem neuen Eigentümer weiter.
+2b53c9	Du verkaufst {0} an {1} für {2}. Das Unternehmen arbeitet mit dem neuen Eigentümer weiter.
+ba0b31	Zustand der Branchen
+19f297	50 ist normal.
+f3c89a	Jede Branche hängt von ihren Kunden ab: Fällt der Bau, spüren es Industrie und Bergbau später (Lieferkette).
+cd2c1f	Tippe auf eine Branche, um ihre Ursachen zu sehen.
+84fdb6	Seine Schuldner
+99ebbc	Lokale Wirtschaft
+84b89e	Wirtschaftliche Aktivität
+d276d5	Hauptbranche
+1bc7f4	{0} % der Wirtschaft
+b6d859	Lokale Wirtschaft und deine Unternehmen
+df6537	schwach
+7af0f1	stark
+ee64e3	Deine Unternehmen
+bd7d15	Die Wirtschaftsaktivität der Provinzen wird im Haupt-Thread berechnet.
+d215c8	In diesem Browser nicht verfügbar: Sie wird im Haupt-Thread berechnet.
+012346	Die Wirtschaftsaktivität der 3.422 Provinzen wird jeden Monat in einem anderen Thread berechnet.
+59e47e	Weltwirtschaft im Hintergrund: aktiviert
+1f3ade	Weltwirtschaft im Hintergrund: deaktiviert
+1662ca	Die Insolvenz von {0} macht {1} Menschen in {2} arbeitslos; die Banken von {3} verlieren {4} an Krediten, die nicht zurückgezahlt werden.
+737a53	Durch die Schließung von {0} verlieren {1} Menschen in {2} ihre Arbeit, und die Nachfrage der Provinz sinkt einige Monate.
+694f77	Wertschöpfung
+01640b	Was ein Unternehmen zur Wirtschaft beiträgt: sein Umsatz minus das, was es bei anderen Unternehmen einkauft (Vorleistungen). Die Summe der Wertschöpfung aller Unternehmen ist das BIP.
+66fdc7	Wirtschaftlicher Multiplikator
+54f06b	Jeder Peso, den ein Unternehmen für Lieferanten und Löhne ausgibt, wird in anderen Geschäften erneut ausgegeben; deshalb ist seine Gesamtwirkung auf die Wirtschaft größer als sein eigener Umsatz.
+aaabdb	Vertikale Integration
+3daa84	Den eigenen Lieferanten (oder Kunden) besitzen: Die Vorleistung wird billiger und du hängst nicht von anderen ab, aber du bündelst das Risiko.
+4d3788	Ausländische Direktinvestition
+816d1b	Unternehmen in einem anderen Land kaufen oder gründen. Das bringt dem Empfängerland Arbeitsplätze und Kapital; der Investor trägt seine Krisen, seine Steuern und seine Währung.
+60cc9e	Bewertungsmultiplikator
+fab259	Wie oft der Jahresgewinn für ein Unternehmen bezahlt wird. Ein Käufer zahlt einen höheren Multiplikator, wenn das Unternehmen wächst, eine gute Marge und wenig Schulden hat.
+220bd8	Netz von Unternehmen, die sich gegenseitig beliefern: Gerät ein wichtiger Kunde in die Krise, spüren es seine Lieferanten später, und so weiter entlang der Kette.
+d0a528	Vernetzte Wirtschaft

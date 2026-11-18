@@ -1,0 +1,381 @@
+543e35	T	Llegas a la cima de la política: te nombran secretaria de Gobierno de {0}. (Modo Vida: el país lo dirige la IA.)
+b59a8f	T	Llegas a la cima de la política: te nombran secretario de Gobierno de {0}. (Modo Vida: el país lo dirige la IA.)
+379e6b	T	Eres el jefe de Estado de {0}. Tienes {1} años.
+b661c6	T	Eres la jefe de Estado de {0}. Tienes {1} años.
+21bdeb	T	Sucesión en {0}: {1} asume el gobierno.
+25ceef	D	Ánimo
+32ddef	T	🤝 Saldas o debes un favor a {0}
+cbce37	T	🤝 {0} te debe un favor
+9def5f	D	No disponible
+7fd0b6	D	Tu pareja
+32be24	T	{0} te espera despierta.
+6d4dda	T	{0} te espera despierto.
+b61bdd	D	«Casi no te veo, y cuando estás, estás en otra parte.»
+c6e6f7	D	Las deudas pesan en la casa.
+e77d31	T	La relación está en {0}/100.
+55e1cf	D	Escuchar sin interrumpir
+65378a	D	Lo intentas, pero te defiendes a mitad de frase.
+8f67e5	D	Te escucha y se relaja. Hablan hasta tarde.
+b41143	D	Una noche de escuchar
+272169	D	No te alcanza el dinero
+529897	D	Fin de semana juntos
+6d1946	D	Dos días sin teléfono. Vuelven más unidos.
+d0e544	T	Proponer un fin de semana juntos ({0})
+1d97b6	D	Suena a excusa. La conversación se enfría.
+54980c	D	Explicar que trabajas por la familia
+75bfc7	D	Entiende tus razones, aunque te pide más presencia.
+ddd9ff	D	«Siempre una excusa»
+8dd267	T	Días después, {0} lo dice claro: «Necesitamos ayuda… o separarnos».
+3881b1	D	Terapia de pareja
+eabc58	D	Las sesiones duelen, pero funcionan.
+378f48	D	Pedir tiempo para pensarlo
+e27714	D	Acepta, pero la distancia crece.
+2c77ba	T	Te separas de {0}.
+4463e2	D	Separarse
+7f6bab	D	Se separan. La casa queda en silencio.
+f01a34	D	Tus hijos
+130c88	T	{0} ({1} años) llega con la boleta: reprobó matemáticas. {2}
+9df750	D	Te sorprende.
+d3b597	D	No es la primera vez.
+172dea	D	Estudiaron juntos
+9eb73a	T	{0} mejora poco a poco. Lo nota en sus notas y en cómo te mira.
+e6527d	T	Sentarte a estudiar con {0} cada semana
+f6b5d2	D	Necesitas 10 días libres
+00735e	T	Contratar un tutor ({0})
+378bc1	D	El tutor es bueno. Sube su promedio.
+048948	D	El regaño
+44f5ff	D	Se encierra en su cuarto. No te habla en días.
+4fb3a8	D	Lo toma en serio. Mejora un poco.
+dae62a	D	Regañarle y quitarle el teléfono
+4b4fac	D	Se siente comprendido, pero nada cambia en la escuela.
+4d85da	D	Restarle importancia
+b7ed39	D	Se siente comprendida, pero nada cambia en la escuela.
+1253f3	T	Te llama tu padre, {0} ({1} años): el médico encontró algo y quiere estudios en un hospital privado ({2}). En el sistema público la espera es de meses.
+912460	T	Te llama tu madre, {0} ({1} años): el médico encontró algo y quiere estudios en un hospital privado ({2}). En el sistema público la espera es de meses.
+05a470	T	Pagar todo ({0})
+465890	D	Detectan el problema a tiempo. Tu familia no lo olvida.
+e264dd	D	Pagaste sus estudios
+00f1df	D	Dividir el gasto con tus hermanos
+362e46	D	No tienes hermanos
+4de522	D	La familia unida
+a3a72f	D	Entre todos lo pagan. Se acercan como familia.
+d13b49	D	Pedirle que espere al sistema público
+f3ba13	D	Lo acepta sin quejarse. Tú te quedas con la duda.
+6966d6	T	Tras {0} meses de espera, {1} por fin tiene sus estudios. Era tratable: llegó a tiempo. (La probabilidad dependía de la calidad del sistema de salud de {2}: esperanza de vida {3} años.)
+bb4884	T	La espera fue demasiado larga. Cuando atienden a {0}, el tratamiento ya es más agresivo. Te reprocha en silencio.
+2ba304	D	Pasan tiempo juntos.
+4b5f90	D	Visitarle más seguido
+2238af	D	Todo vuelve a la normalidad.
+72c9d9	D	Seguir con tu vida
+9f9b45	D	La culpa te acompaña un tiempo.
+35b526	D	Tus hermanos
+3a8e20	T	{0}, tu hermana, te pide {1} prestados para arrancar un negocio. Promete pagarte en un año.
+4a0503	T	{0}, tu hermano, te pide {1} prestados para arrancar un negocio. Promete pagarte en un año.
+415504	D	Le prestaste dinero
+4ca5bc	D	Prestarle
+f17bcf	D	Te abraza. «No te vas a arrepentir.»
+8ea008	D	No entiendes bien los números y te quedas con la duda.
+da5e49	D	Pedir ver su plan de negocio
+e48649	D	Lo revisan juntos.
+0c7176	D	Lo entiende. No pasa a más.
+2fc018	D	Negarte con tacto
+7855d5	D	Se ofende. «Para los extraños sí tienes.»
+d1553b	D	No le prestaste
+58d6f3	T	El plan tiene huecos: ventas infladas y ningún colchón. Rasgo de {0}: {1}.
+f895a5	T	El plan es sólido: clientes identificados, costos realistas. Rasgo de {0}: {1}.
+19d757	D	Hecho. Ahora toca esperar.
+37b77b	D	Prestarle de todos modos
+74d84f	D	Prestarle la mitad y asesorarle
+fb281a	D	Acepta tu ayuda. Ajustan el plan juntos.
+0a32c8	D	No prestarle
+d1983b	D	Lo lamenta; el plan era bueno.
+d861de	D	Le explicas los huecos. A regañadientes, lo reconoce.
+8def48	D	El préstamo
+39eb77	T	Pasó un año desde que le prestaste {0} a {1}.
+70cb1c	D	Te pide más tiempo: el negocio no despega.
+7582a6	D	Llega con un sobre: te paga completo y con un 5 % extra.
+1c38ca	D	Cuentas claras, amistades largas.
+7be2ff	D	Pagó su deuda
+0e4447	D	Agradece la paciencia.
+511ca4	D	Darle seis meses más
+028eb9	D	Vende lo que puede y te paga la mitad.
+0e1395	D	Discuten fuerte. No te paga.
+5910d4	D	Exigir el pago
+a0b991	D	Le exigiste el pago
+af2909	D	Discusión por dinero
+5872be	D	Perdonar la deuda
+88025f	D	Le perdonaste la deuda
+949ff7	D	Se le quiebra la voz. No lo olvidará.
+8d17d5	D	Tus amigos
+14f069	T	{0} perdió su trabajo (la economía de {1} está en recesión). Te llama para pedir ayuda.
+a74c18	T	{0} perdió su trabajo. Te llama para pedir ayuda.
+067e6a	D	Le recomendaste
+0edf00	D	Recomendarle en tu trabajo
+2862cf	D	Necesitas empleo e influencia 20+
+b0a7ce	D	Le dan una entrevista. Queda a prueba.
+2e46c9	T	Prestarle para la renta ({0})
+84e436	D	Respira aliviado. Promete devolverlo.
+f8b87c	D	No te alcanza
+28868f	D	Ayudarle con su CV y contactos
+74aaa3	D	Pulen su perfil y le presentas a dos personas.
+c0768a	D	Necesitas 5 días libres
+f8cdfa	D	Le ayudaste a buscar trabajo
+6f1691	D	«Ahora no puedo»
+701bd4	D	Lo entiende… pero lo recuerda.
+f3a77e	D	Tu recomendación
+0ef0cc	T	{0} ({1}) no duró: llegaba tarde y discutió con un cliente. Tu jefe te mira distinto.
+67d0c9	T	{0} resultó excelente en el trabajo. Tu jefe te lo agradece: «Tienes buen ojo».
+dec003	D	Tu palabra vale más en la empresa.
+e415d7	D	Aprendes a recomendar con cuidado.
+91f7ee	D	Un favor pendiente
+420caa	D	Estás corto de dinero.
+5a3f2e	D	Estás sin empleo.
+8b1b14	T	{0} te debe {1} favores.
+8e3a63	T	{0} te debe un favor.
+cf6dd7	D	¿Se lo recuerdas?
+0b9e14	D	Mueve sus contactos por ti: te abre puertas.
+bdf022	D	Pedirle una recomendación profesional
+f13f2a	D	Cobraste un favor
+18a68d	D	Te lo presta sin preguntas.
+aecd60	T	Pedirle dinero prestado ({0})
+ad3462	D	Pedirle apoyo político
+d32cc9	D	Habla bien de ti en su círculo.
+de585e	D	Solo si estás en política
+50934d	D	Un favor guardado es poder.
+dad6ae	D	Guardar el favor para después
+858c3d	D	Un rencor
+11b1d8	T	Rencor: {0}.
+ba92de	T	Te enteras de que {0} anda contando cosas de ti desde aquello de «{1}».
+d4dcfe	T	Te enteras de que {0} anda contando cosas de ti.
+05bac6	D	Se dicen todo. Algo se destraba.
+080d34	D	Hicieron las paces
+70dc9f	D	Termina peor: ahora lo dice en voz alta.
+d54a8e	D	Hablarle en privado
+17753f	D	Tu versión convence más.
+554930	D	Parece pleito de vecindad. Pierdes imagen.
+dcca38	D	Responder públicamente
+b9975f	D	Lo acepta. El hielo se derrite.
+fa47eb	T	Un regalo y una disculpa ({0})
+11e0c1	D	El rumor sigue su curso.
+0ebfbb	D	Una invitación
+df4081	T	Te invitan a una cena privada con empresarios y políticos. Te sientan junto a {0}, {1} años, del mundo empresarial.
+09f6b5	D	Intercambian teléfonos. Te invita a otra reunión.
+1cd67c	D	Conversar y caer bien
+50e211	D	La cena
+a3d5dd	D	Plática cortés, nada más.
+465651	D	Te ve con prisa. Cambia de tema.
+83525f	D	Hablar de negocios
+a6970f	T	{0} se interesa: «Tengo algo en lo que podrías entrar».
+06b32c	D	Te quedas en casa.
+5d87d4	D	Una oportunidad
+087275	T	{0} te ofrece entrar en un desarrollo inmobiliario: {1}, retorno esperado de 25 % en dos años. «Solo para amigos.»
+21aaa4	D	Los papeles están en orden: permisos, terreno, constructora.
+37be86	D	Hay cosas raras: el terreno no está a nombre de la empresa.
+980143	D	Pedir los papeles y revisarlos
+bb3c4a	D	Son muchas hojas. No te queda claro.
+2395cb	D	Entrar sin revisar
+9d1aaa	D	Firmas. Ahora a esperar.
+34e8ea	D	Le agradeces. Quedan en buenos términos.
+84cd4d	D	Firmas.
+b6f2b0	D	¿Entras?
+318c94	D	Tu inversión
+24c0aa	T	El proyecto se cayó: permisos irregulares. Recuperas {0} de {1}. {2} ({3}) dejó de contestar.
+7d4492	T	El desarrollo se vendió. Recibes {0} ({1} % de ganancia). {2} cumplió.
+7ade64	D	La inversión fallida
+a2d208	D	La inversión salió bien
+d8994d	D	Lección cara.
+d94198	D	Buen negocio.
+39221e	T	{0}, tu jefa, te pide quedarte los fines de semana de este mes. Sin pago extra.
+a5b196	D	«Con la recesión, no hay presupuesto.»
+b6bcf0	T	{0}, tu jefe, te pide quedarte los fines de semana de este mes. Sin pago extra.
+24b0a2	D	Trabajaste los fines de semana
+3d8b7d	D	Lo nota. Te ve como alguien confiable.
+06e3fc	D	Acepta pagarte doble. Respeta que sepas negociar.
+87a541	D	Negociar pago o días libres
+d4a4a6	D	«Es temporal, no lo hagas difícil.» Se molesta.
+594264	D	Te negaste
+9a2046	D	No dice nada. Pero lo anota.
+c7741c	D	Lo acepta de mala gana.
+0f2b84	D	Entrevista de ascenso
+64e1c5	T	Se abre una gerencia. Entrevista con el comité, presidido por {0}. Primera pregunta: «¿Cuál sería tu primer cambio?»
+e0f562	D	(Tus fines de semana extra cuentan a tu favor.)
+12a780	D	Tus cifras no cuadran del todo.
+c30fd8	D	Reducir costos con datos
+e9517c	D	Les gusta el enfoque.
+0b0299	D	Motivar y ordenar al equipo
+3cb30a	D	Suena a discurso aprendido.
+eaea29	D	Transmites liderazgo.
+407648	D	«Lo que la dirección decida»
+6bcfb4	D	Respuesta segura, sin brillo.
+3b9168	D	Segunda pregunta: «¿Cuál es tu expectativa de sueldo?»
+8a66cd	D	Asienten.
+398a89	D	+25 %, con datos del mercado
+9bc01d	D	Traes estudios de sueldos. Los convences.
+a3c040	D	Les parece desmedido.
+06ca1f	D	Anotan algo.
+7221a7	D	«Lo que ustedes ofrezcan»
+bcee13	D	Una semana después, te llaman: el puesto es tuyo.
+e583da	D	Una semana después: eligieron a otra persona. Te dan retroalimentación por escrito.
+b13e4d	D	Lees la retroalimentación: te falta experiencia en presupuesto.
+b2cec1	D	Ascenso.
+b4cde7	D	Ascenso a gerente con el sueldo que pediste.
+d4bd55	D	Ascenso a gerente.
+8be4a3	D	En la oficina
+e196ea	T	{0} presentó tu proyecto como suyo frente a la dirección.
+2e1ad0	D	Lo expusiste
+96cd34	D	Tu evidencia es débil. Parece envidia.
+97aeb0	D	La evidencia es clara. Te dan el crédito.
+9ef5f9	D	Mostrar tus correos y versiones al jefe
+1c652c	D	Se disculpa y te da el crédito en la próxima junta.
+391f2a	D	Lo niega en tu cara.
+756647	D	Confrontarle a solas
+984e2b	D	Proponer trabajar juntos el siguiente
+ac6281	D	Acepta. Ahora te debe una.
+a8c410	D	Te tragas el coraje.
+9583ad	D	Una oferta
+c3298c	T	Un empresario, {0}, te ofrece {1} «por agilizar un permiso». Nadie más lo sabe.
+6ab0f5	D	El sobre cambia de manos.
+f267a2	D	Aceptaste su dinero
+07a7b8	D	Lo rechazaste
+94718f	D	Se va sonriendo. «Usted se lo pierde.»
+3e6fff	D	Sin pruebas suficientes. Ahora tienes un enemigo.
+7b2093	D	Graba la conversación. La fiscalía actúa.
+9254de	D	Lo denunciaste
+d497af	D	Denunciarlo con pruebas
+d18d6d	D	La fiscalía
+5d0c49	T	La fiscalía abre una investigación por el permiso de hace meses. (En {0}, con estabilidad {1}, las instituciones funcionan: el riesgo es alto.)
+9633ff	T	La fiscalía abre una investigación por el permiso de hace meses. (En {0}, con estabilidad {1}, las instituciones son débiles: hay margen para negociar.)
+6015c1	D	Te vinculan a proceso: dos años de prisión.
+8c3dc0	D	Te condenan por cohecho.
+c5fa78	D	Tecnicismos procesales. El caso se archiva.
+d05f61	T	Contratar un buen abogado ({0})
+a60470	D	Entregas al empresario. Evitas la cárcel, no el escándalo.
+b4addd	D	Cooperar como testigo
+01cd2a	D	Te condenan por cohecho y obstrucción.
+36d775	D	El expediente desaparece.
+649c70	T	Pagar para que el expediente «se pierda» ({0})
+6d73d0	D	El fiscal no se deja: suma otro delito.
+2af16a	T	{0}, tu proveedor principal, sube precios {1} % (la inflación en {2} va en {3} %).
+498dff	T	{0}, tu proveedor principal, sube precios {1} %.
+167c11	D	Tu margen se adelgaza este año.
+a8b0a1	D	Aceptar el aumento
+609451	D	Negociar volumen y plazo
+88dcaf	D	Lo dejan en la mitad a cambio de pedidos fijos.
+f786bc	D	No cede.
+396488	D	Necesitas 7 días libres
+897e20	D	Buscar otro proveedor
+c85ef2	D	Encuentras uno más barato y confiable.
+d1a66c	D	El nuevo falla en la primera entrega.
+3d387f	D	Inspección
+0e9d1a	D	Llega un inspector sanitario: encuentra detalles en la bodega y en las fechas de caducidad.
+93ee61	D	Llega una inspectora sanitaria: encuentra detalles en la bodega y en las fechas de caducidad.
+dc7b0f	D	Pasas la reinspección sin problemas.
+f7dec0	T	Corregir todo ({0})
+8f2d83	D	No acepta: el sobre lo empeora. Multa doble y queda en tu expediente.
+dc4364	T	Ofrecerle «una ayuda» ({0})
+ded818	D	Firma y se va.
+31ff58	D	Demuestras que todo estaba en regla.
+84b1b1	D	Impugnar con tu documentación
+937ae3	D	Pierdes la impugnación y pagas multa.
+2ce0a2	D	Debate televisado
+a4a4e5	T	Debate televisado contra {0}. Primera pregunta: la economía (crecimiento de {1} %, inflación de {2} %).
+e6b996	T	Debate televisado contra {0}. Primera pregunta: la economía ({1} está en recesión: {2} %).
+7b5843	D	Propuesta concreta con cifras
+a0d4d2	D	Te enredas con los números.
+f9a6db	D	Claro y creíble.
+1d9b8f	D	Conectas con la gente.
+3c6bc2	D	Suena hueco.
+4b0309	D	Mensaje emotivo sobre las familias
+323834	D	No tiene experiencia para gobernar
+533a25	T	{0} te ataca: «{1}».
+a84ff3	D	Su gobierno prometió y no cumplió
+44ea9f	D	Lo dejas sin respuesta.
+731a4f	D	Parece pleito. Ambos pierden.
+9d7c84	D	Contraatacar con su historial
+7824ae	D	Se ve presidencial.
+7b2022	D	Responder con calma y datos
+ef9d73	D	Correcto, pero aburrido.
+aeac52	D	Ignorarlo y volver a tu propuesta
+ba8c85	D	Neutral.
+3ad57c	D	Las encuestas de salida te dan como ganador claro del debate.
+9b5acb	D	Las encuestas de salida te dan como perdedor del debate.
+c86160	D	Las encuestas de salida te dan un empate técnico.
+64f22c	D	Huelga general
+03182e	T	{0}, líder sindical, exige un aumento de 12 % para el sector público. Amenaza con huelga general.
+d423cd	T	{0}, líder sindical, exige un aumento de 12 % para el sector público (la inflación va en {1} %). Amenaza con huelga general.
+04403c	D	Se evita la huelga. El gasto público sube.
+cee0c8	D	Conceder el 12 %
+44c291	D	Acuerdo firmado.
+8747eb	D	Negociar 6 % y bonos de productividad
+bf6517	D	Rompen la mesa. Huelga de una semana.
+abd488	D	Huelga general. El país se detiene diez días.
+edde32	D	Rechazar y aplicar la ley
+253411	D	Una filtración
+687667	T	Un documento interno de tu gobierno aparece en la prensa. Todo apunta a {0}, de tu gabinete.
+061394	D	Destituirle de inmediato
+20c203	D	Mensaje de firmeza. Pierdes un operador.
+979ecd	D	Investigar antes de actuar
+a72987	D	La investigación se alarga y la prensa te come vivo.
+f1484b	D	Fue otro funcionario. Proteges a la persona correcta.
+40fd40	D	Por ahora nadie pregunta más.
+7dadb0	D	Encubrir
+72e6a9	D	El encubrimiento
+bcaccb	D	Un periódico publica que encubriste la filtración. La oposición pide comparecencia.
+1449c9	D	La honestidad baja la presión.
+248141	D	No convences.
+4cea7f	D	Asumir el error en conferencia
+585bf4	D	Aparecen más pruebas. Escándalo nacional.
+9ade79	D	La nota se diluye.
+ae7c82	D	Una propuesta discreta
+da5b32	T	{0}, embajador de {1}, propone en privado: inversión de {2} a cambio de que {3} vote con ellos en la ONU durante cinco años.
+9457a0	D	Llega la inversión. Tu política exterior queda atada.
+0f622d	D	Negociar sin compromisos de voto
+2c9f5d	D	Se retiran ofendidos.
+399c9c	D	Consigues la mitad de la inversión sin ataduras.
+d0bec4	D	Mantienes la independencia.
+44ca89	D	Tu cuerpo avisa
+6b08b5	T	Llevas semanas sin descansar. Duermes mal y te cuesta concentrarte. (Tiempo libre: {0} días, ánimo {1}.)
+ba3e1e	D	Vuelves con otra cara.
+ce8a98	T	Tomar una semana de descanso real ({0})
+e907cf	D	Pones nombre a lo que sientes. Ayuda.
+45e2d2	D	Te enfermas y pasas una semana en cama.
+4e9450	D	Aguantas. Por ahora.
+8b1d0a	D	Seguir adelante
+cc7c7f	D	% al año
+afedac	D	Mala suerte
+32fe7a	D	Te asaltan al salir de una tienda.
+160c88	D	Entregar todo sin resistirte
+3b3d71	D	Pierdes la cartera y el teléfono. Estás a salvo.
+25a4a6	D	Resistirte (arriesgado: casi siempre es mejor entregar)
+2bcb15	D	Logras zafarte y huir.
+cd7b88	D	Te golpean. Terminas en urgencias.
+7770c3	D	Suerte
+27ac89	T	Encuentras {0} tirados en la calle. No hay nadie cerca.
+7a3cc3	D	Entregarlos a la policía
+82a1c3	D	Quedártelos
+fd4888	D	El policía te mira raro. Te sientes bien.
+20779e	T	Un notario te llama: un tío lejano que apenas recuerdas te dejó {0}.
+05fa9c	D	Firmas los papeles.
+993ef0	D	Un conductor distraído te impacta en un cruce.
+941156	D	Te atienden tras horas de espera. Fractura en el brazo.
+a0c6db	D	Ir al hospital público
+060cb6	D	Atención inmediata. Recuperación rápida.
+66a677	T	Ir a un hospital privado ({0})
+0a2b5e	D	Celebras con los vecinos.
+f66c93	D	¡Cobrar!
+fe4f2f	T	Ganas la rifa de tu colonia: {0} en efectivo.
+1ebe86	D	Golpe de suerte
+ca9034	T	Una empresa grande descubre tu negocio por una reseña y te hace un pedido enorme: {0} de ganancia.
+5db7ad	D	Aceptar y contratar temporales
+72776e	D	Aceptar y hacerlo tú
+8bef69	D	Entregas tarde. Te pagan menos.
+940a89	D	Lo sacas: mucho cansancio, pero feliz.
+adbd5a	D	Cumples a tiempo. Te vuelven a llamar.
+4f440f	T	El mes se detuvo para una decisión. Faltan {0} día(s): vuelve a tocar el botón para completarlo.
+ccd8cc	T	El año se detuvo para una decisión. Faltan {0} día(s): vuelve a tocar el botón para completarlo.
+ef8a82	T	La semana se detuvo para una decisión. Faltan {0} día(s): vuelve a tocar el botón para completarlo.
+511650	D	⏸️ Pausa automática
+d26b78	T	{0} años
+fae3d7	T	Escudo de la Casa {0}
+8375cf	T	{0} imágenes ({1} KB).
+b7f055	T	{0} imágenes importadas.

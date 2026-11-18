@@ -1,0 +1,260 @@
+0	Zoom in	Aproximar	Zoomer	Vergrößern	Ingrandisci	Приблизить	Yakınlaştır	Perbesar	放大	拡大	확대	تكبير	ज़ूम इन
+1	Zoom out	Afastar	Dézoomer	Verkleinern	Riduci	Отдалить	Uzaklaştır	Perkecil	缩小	縮小	축소	تصغير	ज़ूम आउट
+2	Advance 5 years	Avançar 5 anos	Avancer de 5 ans	5 Jahre vorspulen	Avanza di 5 anni	Вперёд на 5 лет	5 yıl ilerle	Maju 5 tahun	快进5年	5年進める	5년 진행	تقدّم 5 سنوات	5 साल आगे
+3	Center	Centralizar	Centrer	Zentrieren	Centra	Центрировать	Ortala	Pusatkan	居中	中央へ	가운데로	توسيط	बीच में लाओ
+4	Development	Desenvolvimento	Développement	Entwicklung	Sviluppo	Развитие	Kalkınma	Pembangunan	发展	開発	개발	التنمية	विकास
+5	Diplomacy	Diplomacia	Diplomatie	Diplomatie	Diplomazia	Дипломатия	Diplomasi	Diplomasi	外交	外交	외교	الدبلوماسية	कूटनीति
+6	Buildings	Edifícios	Bâtiments	Gebäude	Edifici	Здания	Binalar	Bangunan	建筑	建物	건물	المباني	इमारतें
+7	Stability	Estabilidade	Stabilité	Stabilität	Stabilità	Стабильность	İstikrar	Stabilitas	稳定度	安定度	안정도	الاستقرار	स्थिरता
+8	Happiness	Felicidade	Bonheur	Glück	Felicità	Счастье	Mutluluk	Kebahagiaan	幸福	幸福	행복	السعادة	खुशी
+9	Full screen	Tela cheia	Plein écran	Vollbild	Schermo intero	Полный экран	Tam ekran	Layar penuh	全屏	全画面	전체 화면	ملء الشاشة	फ़ुल स्क्रीन
+10	Population	População	Population	Bevölkerung	Popolazione	Население	Nüfus	Populasi	人口	人口	인구	السكان	जनसंख्या
+11	Politics	Política	Politique	Politik	Politica	Политика	Siyaset	Politik	政治	政治	정치	السياسة	राजनीति
+12	Core provinces	Províncias centrais	Provinces centrales	Kernprovinzen	Province centrali	Коренные провинции	Çekirdek iller	Provinsi inti	核心省份	中核州	핵심 지역	المقاطعات الأساسية	मूल प्रांत
+13	Wealth	Riqueza	Richesse	Reichtum	Ricchezza	Богатство	Zenginlik	Kekayaan	财富	富	부	الثروة	संपत्ति
+14	System of government	Sistema de governo	Système de gouvernement	Regierungssystem	Sistema di governo	Система правления	Yönetim sistemi	Sistem pemerintahan	政府体制	政治体制	정부 체제	نظام الحكم	शासन प्रणाली
+15	Terrain	Terreno	Terrain	Gelände	Terreno	Местность	Arazi	Medan	地形	地形	지형	التضاريس	भूभाग
+16	Military terrain	Terreno militar	Terrain militaire	Militärisches Gelände	Terreno militare	Военная местность	Askerî arazi	Medan militer	军事地形	軍事地形	군사 지형	التضاريس العسكرية	सैन्य भूभाग
+17	Technology	Tecnologia	Technologie	Technologie	Tecnologia	Технологии	Teknoloji	Teknologi	科技	技術	기술	التكنولوجيا	तकनीक
+18	Energy	Energia	Énergie	Energie	Energia	Энергия	Enerji	Energi	能源	エネルギー	에너지	الطاقة	ऊर्जा
+19	Gold	Ouro	Or	Gold	Oro	Золото	Altın	Emas	黄金	金	금	الذهب	सोना
+20	Economy	Economia	Économie	Wirtschaft	Economia	Экономика	Ekonomi	Ekonomi	经济	経済	경제	الاقتصاد	अर्थव्यवस्था
+21	Education	Educação	Éducation	Bildung	Istruzione	Образование	Eğitim	Pendidikan	教育	教育	교육	التعليم	शिक्षा
+22	International	Internacional	International	International	Internazionale	Международный	Uluslararası	Internasional	国际	国際	국제	دولي	अंतरराष्ट्रीय
+23	National	Nacional	National	National	Nazionale	Национальный	Ulusal	Nasional	全国	全国	전국	وطني	राष्ट्रीय
+24	Regional	Regional	Régional	Regional	Regionale	Региональный	Bölgesel	Regional	地区	地方	지역	إقليمي	क्षेत्रीय
+25	Health	Saúde	Santé	Gesundheit	Salute	Здоровье	Sağlık	Kesehatan	健康	健康	건강	الصحة	स्वास्थ्य
+26	Work	Trabalho	Travail	Arbeit	Lavoro	Работа	İş	Pekerjaan	工作	仕事	일	العمل	काम
+27	Actions	Ações	Actions	Aktionen	Azioni	Действия	Eylemler	Aksi	行动	行動	행동	الأفعال	क्रियाएँ
+28	Settings	Configurações	Paramètres	Einstellungen	Impostazioni	Настройки	Ayarlar	Pengaturan	设置	設定	설정	الإعدادات	सेटिंग्स
+29	Ambition and achievements	Ambição e conquistas	Ambition et succès	Ehrgeiz und Erfolge	Ambizione e traguardi	Амбиции и достижения	Hırs ve başarılar	Ambisi dan pencapaian	抱负与成就	野心と実績	야망과 업적	الطموح والإنجازات	महत्वाकांक्षा और उपलब्धियाँ
+30	Looks	Aparência	Apparence	Aussehen	Aspetto	Внешность	Görünüm	Penampilan	外貌	外見	외모	المظهر	रूप
+31	Banks and funds	Bancos e fundos	Banques et fonds	Banken und Fonds	Banche e fondi	Банки и фонды	Bankalar ve fonlar	Bank dan dana	银行与基金	銀行とファンド	은행과 펀드	البنوك والصناديق	बैंक और फंड
+32	Stock ticker	Faixa de cotações	Bandeau des cours	Kursleiste	Barra delle quotazioni	Бегущая строка котировок	Borsa bandı	Pita saham	行情滚动条	株価ティッカー	시세 표시줄	شريط الأسعار	भाव पट्टी
+33	Assets and businesses	Bens e negócios	Biens et entreprises	Vermögen und Unternehmen	Beni e attività	Имущество и бизнес	Varlıklar ve işletmeler	Aset dan usaha	资产与企业	資産と事業	자산과 사업	الأصول والأعمال	संपत्ति और व्यवसाय
+34	Stock exchange	Bolsa de valores	Bourse des valeurs	Börse	Borsa valori	Фондовая биржа	Borsa	Bursa saham	证券交易所	証券取引所	증권거래소	البورصة	शेयर बाज़ार
+35	Bonds	Títulos	Obligations	Anleihen	Obbligazioni	Облигации	Tahviller	Obligasi	债券	債券	채권	السندات	बॉन्ड
+36	Career	Carreira	Carrière	Karriere	Carriera	Карьера	Kariyer	Karier	职业	キャリア	커리어	المسيرة	करियर
+37	Fame careers	Carreiras de fama	Carrières de célébrité	Ruhmeskarrieren	Carriere di fama	Карьеры славы	Şöhret kariyerleri	Karier ketenaran	名人职业	有名人キャリア	명성 커리어	مسيرات الشهرة	प्रसिद्धि करियर
+38	Portfolio	Carteira	Portefeuille	Portfolio	Portafoglio	Портфель	Portföy	Portofolio	投资组合	ポートフォリオ	포트폴리오	المحفظة	पोर्टफ़ोलियो
+39	Buy	Comprar	Acheter	Kaufen	Compra	Купить	Satın al	Beli	买入	買う	매수	شراء	ख़रीदो
+40	Buy and sell currencies	Comprar e vender moedas	Acheter et vendre des devises	Devisen kaufen und verkaufen	Compra e vendi valute	Покупка и продажа валют	Döviz al ve sat	Beli dan jual valuta	买卖外汇	通貨の売買	통화 매매	شراء وبيع العملات	मुद्रा ख़रीदो-बेचो
+41	Contract	Contrato	Contrat	Vertrag	Contratto	Контракт	Sözleşme	Kontrak	合约	契約	계약	العقد	अनुबंध
+42	Loans	Créditos	Crédits	Kredite	Prestiti	Кредиты	Krediler	Pinjaman	贷款	ローン	대출	القروض	ऋण
+43	Accounts	Contas	Comptes	Konten	Conti	Счета	Hesaplar	Rekening	账户	口座	계좌	الحسابات	खाते
+44	Debts	Dívidas	Dettes	Schulden	Debiti	Долги	Borçlar	Utang	债务	負債	부채	الديون	कर्ज़
+45	World currencies	Moedas do mundo	Devises du monde	Weltwährungen	Valute del mondo	Валюты мира	Dünya para birimleri	Mata uang dunia	世界货币	世界の通貨	세계 통화	عملات العالم	दुनिया की मुद्राएँ
+46	Army	Exército	Armée	Armee	Esercito	Армия	Ordu	Militer	军队	軍隊	군대	الجيش	सेना
+47	Scandals	Escândalos	Scandales	Skandale	Scandali	Скандалы	Skandallar	Skandal	丑闻	スキャンダル	스캔들	الفضائح	घोटाले
+48	Income statement	Demonstração de resultados	Compte de résultat	Gewinn- und Verlustrechnung	Conto economico	Отчёт о прибылях	Gelir tablosu	Laporan laba rugi	利润表	損益計算書	손익계산서	قائمة الدخل	आय विवरण
+49	Fans	Fãs	Fans	Fans	Fan	Фанаты	Hayranlar	Penggemar	粉丝	ファン	팬	المعجبون	प्रशंसक
+50	Fans by territory	Fãs por território	Fans par territoire	Fans nach Gebiet	Fan per territorio	Фанаты по территориям	Bölgelere göre hayranlar	Penggemar per wilayah	各地区粉丝	地域別ファン	지역별 팬	المعجبون حسب المنطقة	क्षेत्र के अनुसार प्रशंसक
+51	Index funds	Fundos de índice	Fonds indiciels	Indexfonds	Fondi indicizzati	Индексные фонды	Endeks fonları	Reksa dana indeks	指数基金	インデックスファンド	인덱스 펀드	صناديق المؤشرات	इंडेक्स फंड
+52	War	Guerra	Guerre	Krieg	Guerra	Война	Savaş	Perang	战争	戦争	전쟁	الحرب	युद्ध
+53	Game guide	Guia do jogo	Guide du jeu	Spielanleitung	Guida al gioco	Руководство по игре	Oyun rehberi	Panduan permainan	游戏指南	ゲームガイド	게임 가이드	دليل اللعبة	खेल गाइड
+54	Children	Filhos	Enfants	Kinder	Figli	Дети	Çocuklar	Anak	子女	子ども	자녀	الأبناء	बच्चे
+55	Credit history	Histórico de crédito	Historique de crédit	Kreditgeschichte	Storico creditizio	Кредитная история	Kredi geçmişi	Riwayat kredit	信用记录	信用履歴	신용 기록	السجل الائتماني	क्रेडिट इतिहास
+56	Inflation	Inflação	Inflation	Inflation	Inflazione	Инфляция	Enflasyon	Inflasi	通货膨胀	インフレ	인플레이션	التضخم	महँगाई
+57	Influence	Influência	Influence	Einfluss	Influenza	Влияние	Nüfuz	Pengaruh	影响力	影響力	영향력	النفوذ	प्रभाव
+58	Intelligence	Inteligência	Intelligence	Intelligenz	Intelligenza	Интеллект	Zekâ	Kecerdasan	智力	知力	지능	الذكاء	बुद्धि
+59	What moved the markets	O que moveu os mercados	Ce qui a fait bouger les marchés	Was die Märkte bewegt hat	Cosa ha mosso i mercati	Что двигало рынки	Piyasaları ne hareketlendirdi	Apa yang menggerakkan pasar	是什么推动了市场	市場を動かしたもの	시장을 움직인 것	ما الذي حرّك الأسواق	बाज़ार को किसने हिलाया
+60	Commodities	Matérias-primas	Matières premières	Rohstoffe	Materie prime	Сырьё	Emtialar	Komoditas	大宗商品	コモディティ	원자재	السلع	कमोडिटी
+61	Top producers	Maiores produtores	Principaux producteurs	Größte Produzenten	Principali produttori	Главные производители	En büyük üreticiler	Produsen utama	主要生产国	主要生産国	주요 생산국	أكبر المنتجين	सबसे बड़े उत्पादक
+62	Markets	Mercados	Marchés	Märkte	Mercati	Рынки	Piyasalar	Pasar	市场	市場	시장	الأسواق	बाज़ार
+63	My companies	Minhas empresas	Mes entreprises	Meine Unternehmen	Le mie aziende	Мои компании	Şirketlerim	Perusahaanku	我的公司	自分の会社	내 회사	شركاتي	मेरी कंपनियाँ
+64	Currency and central bank	Moeda e banco central	Monnaie et banque centrale	Währung und Zentralbank	Moneta e banca centrale	Валюта и центробанк	Para birimi ve merkez bankası	Mata uang dan bank sentral	货币与央行	通貨と中央銀行	통화와 중앙은행	العملة والبنك المركزي	मुद्रा और केंद्रीय बैंक
+65	Move	Mudar-se	Déménager	Umziehen	Trasferirti	Переехать	Taşın	Pindah	搬家	引っ越す	이사	الانتقال	घर बदलो
+66	More	Mais	Plus	Mehr	Altro	Ещё	Daha fazla	Lainnya	更多	その他	더보기	المزيد	और
+67	Formable nations	Nações formáveis	Nations formables	Gründbare Nationen	Nazioni formabili	Создаваемые нации	Kurulabilir uluslar	Bangsa yang dapat dibentuk	可建立的国家	形成可能な国家	형성 가능한 국가	الأمم القابلة للتشكيل	बनाए जा सकने वाले राष्ट्र
+68	Nations you can form	Nações que você pode formar	Nations que tu peux former	Nationen, die du gründen kannst	Nazioni che puoi formare	Нации, которые можно создать	Kurabileceğin uluslar	Bangsa yang bisa kamu bentuk	你可以建立的国家	あなたが形成できる国家	형성할 수 있는 국가	الأمم التي يمكنك تشكيلها	राष्ट्र जो तुम बना सकते हो
+69	News	Notícias	Actualités	Nachrichten	Notizie	Новости	Haberler	Berita	新闻	ニュース	뉴스	الأخبار	समाचार
+70	Works	Obras	Œuvres	Werke	Opere	Работы	Eserler	Karya	作品	作品	작품	الأعمال	रचनाएँ
+71	Contract offers	Ofertas de contrato	Offres de contrat	Vertragsangebote	Offerte di contratto	Предложения контрактов	Sözleşme teklifleri	Tawaran kontrak	合约报价	契約オファー	계약 제안	عروض العقود	अनुबंध प्रस्ताव
+72	Parents	Pais	Parents	Eltern	Genitori	Родители	Ebeveynler	Orang tua	父母	両親	부모	الوالدان	माता-पिता
+73	Partner	Parceiro(a)	Partenaire	Partner	Partner	Партнёр	Partner	Pasangan	伴侣	パートナー	연인	الشريك	साथी
+74	Net worth	Patrimônio líquido	Patrimoine net	Nettovermögen	Patrimonio netto	Чистые активы	Net servet	Kekayaan bersih	净资产	純資産	순자산	صافي الثروة	कुल संपत्ति
+75	Sponsorship	Patrocínio	Parrainage	Sponsoring	Sponsorizzazione	Спонсорство	Sponsorluk	Sponsor	赞助	スポンサー	스폰서십	الرعاية	प्रायोजन
+76	Fights	Lutas	Combats	Kämpfe	Incontri	Бои	Maçlar	Pertarungan	比赛	試合	경기	النزالات	मुक़ाबले
+77	Military powers	Potências militares	Puissances militaires	Militärmächte	Potenze militari	Военные державы	Askerî güçler	Kekuatan militer	军事强国	軍事大国	군사 강국	القوى العسكرية	सैन्य शक्तियाँ
+78	Awards	Prêmios	Prix	Preise	Premi	Награды	Ödüller	Penghargaan	奖项	賞	수상	الجوائز	पुरस्कार
+79	Performances	Apresentações	Spectacles	Auftritte	Esibizioni	Выступления	Gösteriler	Pertunjukan	演出	公演	공연	العروض	प्रस्तुतियाँ
+80	Treasury budget	Orçamento do tesouro	Budget du Trésor	Staatshaushalt	Bilancio del Tesoro	Бюджет казны	Hazine bütçesi	Anggaran kas negara	国库预算	国庫予算	국고 예산	ميزانية الخزينة	राजकोष बजट
+81	Provinces	Províncias	Provinces	Provinzen	Province	Провинции	İller	Provinsi	省份	州	지역	المقاطعات	प्रांत
+82	Buy back	Recomprar	Racheter	Zurückkaufen	Riacquista	Выкупить	Geri al	Beli kembali	回购	買い戻す	환매	إعادة الشراء	वापस ख़रीदो
+83	Strategic resources	Recursos estratégicos	Ressources stratégiques	Strategische Ressourcen	Risorse strategiche	Стратегические ресурсы	Stratejik kaynaklar	Sumber daya strategis	战略资源	戦略資源	전략 자원	الموارد الاستراتيجية	रणनीतिक संसाधन
+84	Royalties	Royalties	Redevances	Tantiemen	Royalty	Роялти	Telif gelirleri	Royalti	版税	印税	로열티	العوائد	रॉयल्टी
+85	International reserves	Reservas internacionais	Réserves internationales	Internationale Reserven	Riserve internazionali	Международные резервы	Uluslararası rezervler	Cadangan internasional	国际储备	外貨準備	외환보유고	الاحتياطيات الدولية	अंतरराष्ट्रीय भंडार
+86	Record	Cartel	Palmarès	Bilanz	Record	Рекорд	Sicil	Rekor	战绩	戦績	전적	السجل	रिकॉर्ड
+87	IPO	Abertura de capital	Introduction en bourse	Börsengang	Quotazione in borsa	Выход на биржу	Halka arz	IPO	上市	株式公開	상장	الطرح العام	आईपीओ
+88	Deposit insurance	Seguro de depósitos	Garantie des dépôts	Einlagensicherung	Garanzia dei depositi	Страхование вкладов	Mevduat sigortası	Penjaminan simpanan	存款保险	預金保険	예금자 보호	ضمان الودائع	जमा बीमा
+89	Hired services	Serviços contratados	Services engagés	Gebuchte Dienste	Servizi ingaggiati	Нанятые услуги	Tutulan hizmetler	Layanan yang disewa	雇用的服务	契約中のサービス	이용 중인 서비스	الخدمات المتعاقد عليها	ली गई सेवाएँ
+90	Financial system	Sistema financeiro	Système financier	Finanzsystem	Sistema finanziario	Финансовая система	Finansal sistem	Sistem keuangan	金融体系	金融システム	금융 시스템	النظام المالي	वित्तीय प्रणाली
+91	Policy rate	Taxa de referência	Taux directeur	Leitzins	Tasso di riferimento	Ключевая ставка	Politika faizi	Suku bunga acuan	政策利率	政策金利	기준금리	سعر الفائدة الرئيسي	नीतिगत दर
+92	Rates and currencies	Taxas e moedas	Taux et devises	Zinsen und Devisen	Tassi e valute	Ставки и валюты	Faizler ve dövizler	Suku bunga dan valuta	利率与汇率	金利と為替	금리와 환율	الفائدة والعملات	दरें और मुद्राएँ
+93	Season	Temporada	Saison	Saison	Stagione	Сезон	Sezon	Musim	赛季	シーズン	시즌	الموسم	सीज़न
+94	Will	Testamento	Testament	Testament	Testamento	Завещание	Vasiyet	Wasiat	遗嘱	遺言	유언장	الوصية	वसीयत
+95	Treaties in force	Tratados vigentes	Traités en vigueur	Geltende Verträge	Trattati in vigore	Действующие договоры	Yürürlükteki antlaşmalar	Perjanjian yang berlaku	生效条约	発効中の条約	발효 중인 조약	المعاهدات السارية	लागू संधियाँ
+96	Your bank	Seu banco	Ta banque	Deine Bank	La tua banca	Твой банк	Bankan	Bankmu	你的银行	あなたの銀行	내 은행	بنكك	तुम्हारा बैंक
+97	Your career	Sua carreira	Ta carrière	Deine Karriere	La tua carriera	Твоя карьера	Kariyerin	Kariermu	你的职业	あなたのキャリア	내 커리어	مسيرتك	तुम्हारा करियर
+98	Your currency	Sua moeda	Ta monnaie	Deine Währung	La tua valuta	Твоя валюта	Para birimin	Mata uangmu	你的货币	あなたの通貨	내 통화	عملتك	तुम्हारी मुद्रा
+99	Your bonds	Seus títulos	Tes obligations	Deine Anleihen	Le tue obbligazioni	Твои облигации	Tahvillerin	Obligasimu	你的债券	あなたの債券	내 채권	سنداتك	तुम्हारे बॉन्ड
+100	Net income	Lucro líquido	Résultat net	Nettogewinn	Utile netto	Чистая прибыль	Net kâr	Laba bersih	净利润	純利益	순이익	صافي الربح	शुद्ध लाभ
+101	Sell	Vender	Vendre	Verkaufen	Vendi	Продать	Sat	Jual	卖出	売る	매도	بيع	बेचो
+102	Volume	Volume	Volume	Volumen	Volume	Объём	Hacim	Volume	成交量	出来高	거래량	الحجم	वॉल्यूम
+103	Family tree	Árvore genealógica	Arbre généalogique	Stammbaum	Albero genealogico	Семейное древо	Soy ağacı	Silsilah keluarga	家谱	家系図	가계도	شجرة العائلة	वंश वृक्ष
+104	Orders	Ordens	Ordres	Orders	Ordini	Ордера	Emirler	Order	订单	注文	주문	الأوامر	ऑर्डर
+105	Stamina	Resistência	Endurance	Ausdauer	Resistenza	Выносливость	Dayanıklılık	Stamina	耐力	スタミナ	지구력	التحمّل	सहनशक्ति
+106	Action	Ação	Action	Aktion	Azione	Акция	Hisse	Saham	股票	株	주식	سهم	शेयर
+107	Agency	Agência	Agence	Agentur	Agenzia	Агентство	Ajans	Agensi	经纪公司	事務所	에이전시	وكالة	एजेंसी
+108	Charisma	Carisma	Charisme	Charisma	Carisma	Харизма	Karizma	Karisma	魅力	カリスマ	카리스마	الكاريزما	करिश्मा
+109	City	Cidade	Ville	Stadt	Città	Город	Şehir	Kota	城市	都市	도시	المدينة	शहर
+110	Sporty	Esportivo	Sportif	Sportlich	Sportivo	Спортивная	Sportif	Sporty	运动	スポーティ	스포티	رياضي	स्पोर्टी
+111	Style	Estilo	Style	Stil	Stile	Стиль	Tarz	Gaya	风格	スタイル	스타일	الأسلوب	शैली
+112	Tour	Turnê	Tournée	Tournee	Tour	Тур	Turne	Tur	巡演	ツアー	투어	جولة	टूर
+113	Group	Grupo	Groupe	Gruppe	Gruppo	Группа	Grup	Grup	团体	グループ	그룹	فرقة	ग्रुप
+114	Research	Pesquisa	Recherche	Forschung	Ricerca	Исследования	Araştırma	Riset	研究	研究	연구	البحث	शोध
+115	Map	Mapa	Carte	Karte	Mappa	Карта	Harita	Peta	地图	地図	지도	الخريطة	नक्शा
+116	Night	Noite	Nuit	Nacht	Notte	Ночь	Gece	Malam	夜间	夜	밤	ليل	रात
+117	Production	Produção	Production	Produktion	Produzione	Производство	Üretim	Produksi	产量	生産	생산	الإنتاج	उत्पादन
+118	Accept	Aceitar	Accepter	Annehmen	Accetta	Принять	Kabul et	Terima	接受	受け入れる	수락	قبول	स्वीकार करो
+119	approval	aprovação	approbation	Zustimmung	approvazione	одобрение	onay	persetujuan	支持率	支持率	지지율	التأييد	समर्थन
+120	year	ano	an	Jahr	anno	год	yıl	tahun	年	年	년	سنة	साल
+121	year)	ano)	an)	Jahr)	anno)	год)	yıl)	tahun)	年）	年）	년)	سنة)	साल)
+122	years	anos	ans	Jahre	anni	лет	yıl	tahun	年	年	년	سنوات	साल
+123	years.	anos.	ans.	Jahre.	anni.	лет.	yıl.	tahun.	年。	年。	년.	سنوات.	साल।
+124	Buy a house with a mortgage	Comprar casa com hipoteca	Acheter une maison avec un prêt immobilier	Haus mit Hypothek kaufen	Comprare casa con un mutuo	Купить дом в ипотеку	İpotekle ev almak	Beli rumah dengan KPR	贷款买房	住宅ローンで家を買う	대출로 집 사기	شراء منزل برهن عقاري	होम लोन से घर ख़रीदो
+125	Businessperson	Empresário	Entrepreneur	Unternehmer	Imprenditore	Предприниматель	İş insanı	Pengusaha	企业家	実業家	사업가	رائد أعمال	उद्यमी
+126	Study	Estudar	Étudier	Lernen	Studiare	Учиться	Ders çalışmak	Belajar	学习	勉強する	공부하기	الدراسة	पढ़ाई
+127	Generation	Geração	Génération	Generation	Generazione	Поколение	Kuşak	Generasi	代	世代	세대	الجيل	पीढ़ी
+128	Mother	Mãe	Mère	Mutter	Madre	Мать	Anne	Ibu	母亲	母	어머니	الأم	माँ
+129	Father	Pai	Père	Vater	Padre	Отец	Baba	Ayah	父亲	父	아버지	الأب	पिता
+130	Power	Poder	Pouvoir	Macht	Potere	Власть	Güç	Kekuasaan	权力	権力	권력	السلطة	सत्ता
+131	due to health problems	por problemas de saúde	pour des raisons de santé	aus gesundheitlichen Gründen	per problemi di salute	по состоянию здоровья	sağlık sorunları nedeniyle	karena masalah kesehatan	由于健康问题	健康上の理由で	건강 문제로	لأسباب صحية	स्वास्थ्य कारणों से
+132	Realistic	Realista	Réaliste	Realistisch	Realistico	Реалистичный	Gerçekçi	Realistis	写实	リアル	현실	واقعي	यथार्थवादी
+133	Reject	Recusar	Refuser	Ablehnen	Rifiuta	Отклонить	Reddet	Tolak	拒绝	断る	거절	رفض	अस्वीकार करो
+134	Fast	Rápido	Rapide	Schnell	Rapido	Быстрый	Hızlı	Cepat	快速	クイック	빠름	سريع	तेज़
+135	Continue the war	Continuar a guerra	Poursuivre la guerre	Krieg fortsetzen	Continuare la guerra	Продолжить войну	Savaşa devam et	Lanjutkan perang	继续战争	戦争を続ける	전쟁 계속	مواصلة الحرب	युद्ध जारी रखो
+136	Rate	Taxa	Taux	Zinssatz	Tasso	Ставка	Faiz	Suku bunga	利率	金利	금리	الفائدة	दर
+137	You move to	Você se muda para	Tu déménages à	Du ziehst nach	Ti trasferisci a	Ты переезжаешь:	Yeni yerin:	Kamu pindah ke	你搬到了	引っ越し先：	이사:	تنتقل إلى	तुम यहाँ जाते हो:
+138	Sell your house	Vender sua casa	Vendre ta maison	Dein Haus verkaufen	Vendere la tua casa	Продать дом	Evini sat	Jual rumahmu	卖掉你的房子	家を売る	집 팔기	بيع منزلك	अपना घर बेचो
+139	You sell your house.	Você vende sua casa.	Tu vends ta maison.	Du verkaufst dein Haus.	Vendi la tua casa.	Ты продаёшь дом.	Evini satıyorsun.	Kamu menjual rumahmu.	你卖掉了房子。	家を売る。	집을 팝니다.	تبيع منزلك.	तुम अपना घर बेचते हो।
+140	Housing	Moradia	Logement	Wohnen	Abitazione	Жильё	Konut	Tempat tinggal	住房	住まい	주거	السكن	आवास
+141	Friend	Amigo	Ami	Freund	Amico	Друг	Arkadaş	Teman	朋友	友人	친구	صديق	दोस्त
+142	Family	Família	Famille	Familie	Famiglia	Семья	Aile	Keluarga	家人	家族	가족	العائلة	परिवार
+143	Rule a country	Governar um país	Gouverner un pays	Ein Land regieren	Governare un paese	Править страной	Bir ülke yönetmek	Memimpin negara	治理一个国家	国を治める	나라 다스리기	حكم دولة	देश पर शासन करो
+144	Invest	Investir	Investir	Investieren	Investire	Инвестировать	Yatırım yap	Investasi	投资	投資する	투자	استثمار	निवेश करो
+145	Boss	Chefe	Patron	Chef	Capo	Начальник	Patron	Bos	老板	上司	상사	المدير	बॉस
+146	Teacher	Professor	Professeur	Lehrer	Insegnante	Учитель	Öğretmen	Guru	老师	先生	선생님	المعلّم	शिक्षक
+147	Mentor	Mentor	Mentor	Mentor	Mentore	Наставник	Mentor	Mentor	导师	メンター	멘토	مرشد	मार्गदर्शक
+148	Relationship	Relação	Relation	Beziehung	Relazione	Отношения	İlişki	Hubungan	关系	関係	관계	العلاقة	रिश्ता
+149	Rival	Rival	Rival	Rivale	Rivale	Соперник	Rakip	Rival	对手	ライバル	라이벌	منافس	प्रतिद्वंद्वी
+150	Your boss	Seu chefe	Ton patron	Dein Chef	Il tuo capo	Твой начальник	Patronun	Bosmu	你的老板	あなたの上司	내 상사	مديرك	तुम्हारा बॉस
+151	accepts the alliance.	aceita a aliança.	accepte l'alliance.	nimmt das Bündnis an.	accetta l'alleanza.	принимает союз.	ittifakı kabul ediyor.	menerima aliansi.	接受了同盟。	同盟を受け入れた。	동맹을 수락했습니다.	يقبل التحالف.	गठबंधन स्वीकार करता है।
+152	You make peace with	Você assina a paz com	Tu signes la paix avec	Du schließt Frieden mit	Firmi la pace con	Ты заключаешь мир:	Barış imzalandı:	Kamu berdamai dengan	你与其签订和约：	講和の相手：	강화 체결:	توقّع السلام مع	तुम शांति करते हो:
+153	opinion	opinião	opinion	Meinung	opinione	мнение	görüş	opini	好感	意見	의견	الرأي	राय
+154	Peace	Paz	Paix	Frieden	Pace	Мир	Barış	Damai	和平	平和	평화	السلام	शांति
+155	rejects the alliance.	recusa a aliança.	refuse l'alliance.	lehnt das Bündnis ab.	rifiuta l'alleanza.	отклоняет союз.	ittifakı reddediyor.	menolak aliansi.	拒绝了同盟。	同盟を拒否した。	동맹을 거절했습니다.	يرفض التحالف.	गठबंधन ठुकराता है।
+156	soldiers in	soldados em	soldats à	Soldaten in	soldati a	солдат в	asker →	tentara di	名士兵进驻	人の兵士が配置：	명의 병사 배치:	جنديًا في	सैनिक यहाँ:
+157	High	Altos	Élevés	Hoch	Alti	Высокие	Yüksek	Tinggi	高	高い	높음	مرتفعة	ऊँचा
+158	Low	Baixos	Bas	Niedrig	Bassi	Низкие	Düşük	Rendah	低	低い	낮음	منخفضة	नीचा
+159	of GDP.	do PIB.	du PIB.	des BIP.	del PIL.	ВВП.	GSYİH.	PDB.	的GDP。	（対GDP）。	(GDP 대비).	من الناتج المحلي.	GDP का।
+160	cold	frio	froid	kalt	freddo	холод	soğuk	dingin	寒冷	寒冷	한랭	برد	ठंड
+161	mountain	montanha	montagne	Gebirge	montagna	горы	dağ	pegunungan	山地	山岳	산악	جبال	पहाड़
+162	You pay	Você paga	Tu paies	Du zahlst	Paghi	Ты платишь	Ödüyorsun:	Kamu membayar	你支付	支払い：	지불:	تدفع	तुम चुकाते हो
+163	You invest	Você investe	Tu investis	Du investierst	Investi	Ты инвестируешь	Yatırım yapıyorsun:	Kamu menginvestasikan	你投资	投資額：	투자:	تستثمر	तुम निवेश करते हो
+164	You free	Você liberta	Tu libères	Du befreist	Liberi	Ты освобождаешь	Serbest bırakıyorsun:	Kamu membebaskan	你释放	放出：	방출:	تُطلق	तुम छोड़ते हो
+165	House	Casa	Maison	Haus	Casa	Дом	Ev	Rumah	房子	家	집	المنزل	घर
+166	Inheritance	Herança	Héritage	Erbe	Eredità	Наследство	Miras	Warisan	遗产	遺産	유산	الميراث	विरासत
+167	Approval	Aprovação	Approbation	Zustimmung	Approvazione	Одобрение	Onay	Persetujuan	支持率	支持率	지지율	التأييد	समर्थन
+168	Continue	Continuar	Continuer	Weiter	Continua	Продолжить	Devam	Lanjutkan	继续	続ける	계속	متابعة	जारी रखो
+169	free days	dias livres	jours libres	freie Tage	giorni liberi	свободных дн.	boş gün	hari luang	天空闲	日の空き	일 여유	أيام فراغ	खाली दिन
+170	Got it	Entendido	Compris	Verstanden	Capito	Понятно	Anladım	Mengerti	知道了	了解	알겠습니다	فهمت	समझ गया
+171	investment	investimento	investissement	Investition	investimento	инвестиция	yatırım	investasi	投资	投資	투자	استثمار	निवेश
+172	politics	política	politique	Politik	politica	политика	siyaset	politik	政治	政治	정치	السياسة	राजनीति
+173	Treasury	Tesouro	Trésor	Staatskasse	Tesoro	Казна	Hazine	Kas negara	国库	国庫	국고	الخزينة	राजकोष
+174	Your business	Seu negócio	Ton entreprise	Dein Unternehmen	La tua attività	Твой бизнес	İşletmen	Usahamu	你的企业	あなたの事業	내 사업	عملك التجاري	तुम्हारा व्यवसाय
+175	Your parents	Seus pais	Tes parents	Deine Eltern	I tuoi genitori	Твои родители	Ebeveynlerin	Orang tuamu	你的父母	あなたの両親	내 부모	والداك	तुम्हारे माता-पिता
+176	commission	comissão	commission	Provision	commissione	комиссия	komisyon	komisi	佣金	手数料	수수료	العمولة	कमीशन
+177	Let the currency float	Deixar a moeda flutuar	Laisser flotter la monnaie	Währung frei floaten lassen	Lasciar fluttuare la valuta	Отпустить курс в свободное плавание	Kuru serbest bırak	Biarkan mata uang mengambang	让货币自由浮动	通貨を変動させる	환율 자유 변동	تعويم العملة	मुद्रा को मुक्त छोड़ो
+178	of GDP	do PIB	du PIB	des BIP	del PIL	ВВП	GSYİH	PDB	的GDP	（対GDP）	(GDP 대비)	من الناتج المحلي	GDP का
+179	Pts	Pts	Pts	Pkt.	Pt	очк.	puan	poin	分	pt	점	نقاط	अंक
+180	You contribute	Você contribui	Tu apportes	Du steuerst bei	Apporti	Ты вкладываешь	Katkın:	Kamu menyetor	你出资	拠出：	출자:	تساهم بـ	तुम योगदान देते हो
+181	of the world	do mundo	du monde	der Welt	del mondo	мира	dünyanın	dunia	全世界	世界の	세계	في العالم	दुनिया का
+182	You have left	Restam	Il te reste	Dir bleiben	Ti restano	У тебя осталось	Kalan:	Sisa	你还剩	残り	남은 것	يتبقى لك	तुम्हारे पास बचे हैं
+183	You sell	Você vende	Tu vends	Du verkaufst	Vendi	Ты продаёшь	Satıyorsun:	Kamu menjual	你卖出	売却：	매도:	تبيع	तुम बेचते हो
+184	per year.	por ano.	par an.	pro Jahr.	all'anno.	в год.	yılda.	per tahun.	每年。	毎年。	매년.	سنويًا.	प्रति वर्ष।
+185	Bond	Título	Obligation	Anleihe	Obbligazione	Облигация	Tahvil	Obligasi	债券	債券	채권	سند	बॉन्ड
+186	Corporate	Corporativo	Entreprise	Konzern	Aziendale	Корпорация	Kurumsal	Korporat	企业	企業	기업	الشركات	कॉरपोरेट
+187	Finances	Finanças	Finance	Finanzen	Finanza	Финансы	Finans	Keuangan	财务	財務	재무	المالية	वित्त
+188	Bank	Banco	Banque	Bank	Banca	Банк	Banka	Bank	银行	銀行	은행	البنك	बैंक
+189	You must be 18.	Você precisa ter 18 anos.	Il faut avoir 18 ans.	Du musst 18 sein.	Devi avere 18 anni.	Тебе должно быть 18.	18 yaşında olmalısın.	Kamu harus berusia 18 tahun.	你必须年满18岁。	18歳以上である必要がある。	18세 이상이어야 합니다.	يجب أن يكون عمرك 18 سنة.	तुम्हारी उम्र 18 होनी चाहिए।
+190	Bankruptcy	Falência	Faillite	Insolvenz	Fallimento	Банкротство	İflas	Kebangkrutan	破产	破産	파산	الإفلاس	दिवालियापन
+191	Ministry of	Secretaria de	Ministère de	Ministerium für	Ministero di	Министерство:	Bakanlık:	Kementerian	部长：	大臣：	장관:	وزارة	मंत्रालय:
+192	Golden Ball	Bola de Ouro	Ballon d'or	Goldener Ball	Pallone d'Oro	Золотой мяч	Altın Top	Bola Emas	金球奖	バロンドール	발롱도르	الكرة الذهبية	बैलन डी'ओर
+193	Purse	Bolsa	Bourse	Börse	Borsa	Гонорар	Ödül parası	Bayaran	出场费	ファイトマネー	대전료	المكافأة	पर्स
+194	Football	Futebol	Football	Fußball	Calcio	Футбол	Futbol	Sepak bola	足球	サッカー	축구	كرة القدم	फ़ुटबॉल
+195	No agent	Sem agente	Sans agent	Ohne Agent	Senza agente	Без агента	Menajersiz	Tanpa agen	无经纪人	代理人なし	에이전트 없음	بلا وكيل	बिना एजेंट
+196	Net purse	Bolsa líquida	Bourse nette	Nettobörse	Borsa netta	Чистый гонорар	Net ödül	Bayaran bersih	净出场费	手取りファイトマネー	순 대전료	صافي المكافأة	शुद्ध पर्स
+197	Camp	Campo de treinamento	Camp	Trainingslager	Ritiro	Сборы	Kamp	Kamp latihan	集训营	キャンプ	캠프	المعسكر	कैंप
+198	days.	dias.	jours.	Tage.	giorni.	дней.	gün.	hari.	天。	日。	일.	أيام.	दिन।
+199	Final	Final	Finale	Finale	Finale	Финал	Final	Final	决赛	決勝	결승	النهائي	फ़ाइनल
+200	Fitness coach	Preparador físico	Préparateur physique	Fitnesstrainer	Preparatore atletico	Тренер по физподготовке	Kondisyoner	Pelatih fisik	体能教练	フィジカルコーチ	피지컬 코치	مدرب اللياقة	फ़िटनेस कोच
+201	per year	por ano	par an	pro Jahr	all'anno	в год	yılda	per tahun	每年	毎年	매년	سنويًا	प्रति वर्ष
+202	year(s)	ano(s)	an(s)	Jahr(e)	anno/i	лет	yıl	tahun	年	年	년	سنوات	साल
+203	Club	Clube	Club	Verein	Club	Клуб	Kulüp	Klub	俱乐部	クラブ	클럽	النادي	क्लब
+204	World Cup	Copa do Mundo	Coupe du monde	Weltmeisterschaft	Coppa del Mondo	Чемпионат мира	Dünya Kupası	Piala Dunia	世界杯	ワールドカップ	월드컵	كأس العالم	विश्व कप
+205	Signing	Contratação	Transfert	Transfer	Trasferimento	Переход	Transfer	Transfer	转会	移籍	이적	انتقال	ट्रांसफ़र
+206	Playoffs	Mata-mata	Phase finale	Playoffs	Playoff	Плей-офф	Play-off	Babak gugur	季后赛	プレーオフ	플레이오프	الأدوار الإقصائية	प्लेऑफ़
+207	Minute	Minuto	Minute	Minute	Minuto	Минута	Dakika	Menit	分钟	分	분	دقيقة	मिनट
+208	Club World Cup	Mundial de Clubes	Coupe du monde des clubs	Klub-WM	Mondiale per club	Клубный чемпионат мира	Kulüpler Dünya Kupası	Piala Dunia Antarklub	世俱杯	クラブワールドカップ	클럽 월드컵	كأس العالم للأندية	क्लब विश्व कप
+209	You are nominated in	Você foi indicado em	Tu es nommé dans	Du bist nominiert in	Sei candidato in	Ты номинирован:	Aday gösterildin:	Kamu dinominasikan di	你被提名于	ノミネート：	후보 지명:	رُشّحت في	तुम्हें नामांकित किया गया:
+210	Level	Nível	Niveau	Level	Livello	Уровень	Seviye	Level	等级	レベル	레벨	المستوى	स्तर
+211	Session	Sessão	Séance	Session	Sessione	Сессия	Seans	Sesi	场次	セッション	세션	الجلسة	सत्र
+212	Sleep	Dormir	Dormir	Schlafen	Dormire	Спать	Uyumak	Tidur	睡觉	寝る	잠자기	النوم	सोना
+213	Government actions	Ações de governo	Actions du gouvernement	Regierungsaktionen	Azioni di governo	Действия правительства	Hükümet eylemleri	Aksi pemerintah	政府行动	政府の行動	정부 행동	أفعال الحكومة	सरकारी क्रियाएँ
+214	accepts peace. You gain no territory.	aceita a paz. Você não ganha território.	accepte la paix. Tu n'obtiens aucun territoire.	akzeptiert den Frieden. Du erhältst kein Gebiet.	accetta la pace. Non ottieni territorio.	принимает мир. Ты не получаешь территорий.	barışı kabul ediyor. Toprak kazanmıyorsun.	menerima damai. Kamu tidak mendapat wilayah.	接受和平。你没有获得领土。	講和を受け入れる。領土は得られない。	강화를 수락합니다. 영토는 얻지 못합니다.	يقبل السلام. لا تحصل على أراضٍ.	शांति स्वीकार करता है। तुम्हें कोई क्षेत्र नहीं मिलता।
+215	agrees to negotiate peace.	aceita negociar a paz.	accepte de négocier la paix.	ist bereit, über Frieden zu verhandeln.	accetta di negoziare la pace.	соглашается на мирные переговоры.	barış görüşmelerini kabul ediyor.	setuju merundingkan perdamaian.	同意进行和平谈判。	和平交渉に応じる。	평화 협상에 동의합니다.	يوافق على التفاوض على السلام.	शांति वार्ता के लिए राज़ी है।
+216	adjusted to your region's economy.	ajustados à economia da sua região.	ajustés à l'économie de ta région.	an die Wirtschaft deiner Region angepasst.	adeguati all'economia della tua regione.	с поправкой на экономику твоего региона.	bölgenin ekonomisine göre ayarlandı.	disesuaikan dengan ekonomi wilayahmu.	已按你所在地区的经济调整。	地域の経済に合わせて調整。	지역 경제에 맞춰 조정됨.	مُعدّلة حسب اقتصاد منطقتك.	तुम्हारे क्षेत्र की अर्थव्यवस्था के अनुसार समायोजित।
+217	Random (by population)	Aleatório (pela população)	Au hasard (selon la population)	Zufällig (nach Bevölkerung)	A caso (in base alla popolazione)	Случайно (по населению)	Rastgele (nüfusa göre)	Acak (berdasarkan populasi)	随机（按人口）	ランダム（人口比）	무작위(인구 비례)	عشوائي (حسب السكان)	यादृच्छिक (जनसंख्या के अनुसार)
+218	Allies	Aliados	Alliés	Verbündete	Alleati	Союзники	Müttefikler	Sekutu	盟友	同盟国	동맹국	الحلفاء	सहयोगी
+219	Ambition	Ambição	Ambition	Ehrgeiz	Ambizione	Амбиции	Hırs	Ambisi	抱负	野心	야망	الطموح	महत्वाकांक्षा
+220	Surname	Sobrenome	Nom de famille	Nachname	Cognome	Фамилия	Soyadı	Nama keluarga	姓	姓	성	اسم العائلة	उपनाम
+221	Support in congress	Apoio no congresso	Soutien au parlement	Unterstützung im Parlament	Sostegno in parlamento	Поддержка в парламенте	Meclis desteği	Dukungan di parlemen	议会支持	議会の支持	의회 지지	الدعم في البرلمان	संसद में समर्थन
+222	Take over the government	Assumir o governo	Prendre le gouvernement	Die Regierung übernehmen	Assumere il governo	Взять правительство	Hükümeti devral	Ambil alih pemerintahan	接管政府	政権を握る	정부 장악	تولّي الحكومة	सरकार अपने हाथ में लो
+223	Advance the clock to recover time.	Avance o relógio para recuperar tempo.	Avance l'horloge pour récupérer du temps.	Spule die Uhr vor, um Zeit zurückzugewinnen.	Fai avanzare l'orologio per recuperare tempo.	Перемотай время, чтобы восстановиться.	Zaman kazanmak için saati ilerlet.	Majukan jam untuk memulihkan waktu.	推进时钟以恢复时间。	時計を進めて時間を回復する。	시계를 진행해 시간을 회복하세요.	قدّم الساعة لاستعادة الوقت.	समय वापस पाने के लिए घड़ी आगे बढ़ाओ।
+224	Year	Ano	Année	Jahr	Anno	Год	Yıl	Tahun	年	年	년	السنة	वर्ष
+225	year(s) behind on payments	ano(s) de atraso nos pagamentos	an(s) de retard de paiement	Jahr(e) Zahlungsrückstand	anno/i di ritardo nei pagamenti	лет просрочки платежей	yıl ödeme gecikmesi	tahun tunggakan pembayaran	年拖欠还款	年の支払い遅延	년 연체	سنوات تأخر في السداد	साल भुगतान में देरी
+226	year(s) in office	ano(s) no cargo	an(s) en poste	Jahr(e) im Amt	anno/i in carica	лет у власти	yıl görevde	tahun menjabat	年任期	年在任	년 재임	سنوات في المنصب	साल पद पर
+227	year). Tap one of your provinces → 🏗️ Build.	ano). Toque em uma de suas províncias → 🏗️ Construir.	an). Touche une de tes provinces → 🏗️ Construire.	Jahr). Tippe auf eine deiner Provinzen → 🏗️ Bauen.	anno). Tocca una tua provincia → 🏗️ Costruisci.	год). Коснись своей провинции → 🏗️ Строить.	yıl). İllerinden birine dokun → 🏗️ İnşa et.	tahun). Ketuk salah satu provinsimu → 🏗️ Bangun.	年）。点击你的一个省份 → 🏗️ 建造。	年）。自分の州をタップ → 🏗️ 建設。	년). 내 지역 하나를 탭 → 🏗️ 건설.	سنة). المس إحدى مقاطعاتك ← 🏗️ بناء.	साल)। अपने किसी प्रांत को टैप करो → 🏗️ निर्माण।
+228	years (full life)	anos (vida completa)	ans (vie complète)	Jahre (ganzes Leben)	anni (vita completa)	лет (вся жизнь)	yaş (tüm hayat)	tahun (seluruh hidup)	岁（完整人生）	歳（人生まるごと）	세(전체 인생)	سنة (حياة كاملة)	साल (पूरा जीवन)
+229	years in	anos em	ans à	Jahre in	anni a	лет в	yıl,	tahun di	年，在	年、場所：	년, 위치:	سنوات في	साल, यहाँ:
+230	years)	anos)	ans)	Jahre)	anni)	лет)	yıl)	tahun)	年）	年）	년)	سنوات)	साल)
+231	years, Influence	anos, Influência	ans, Influence	Jahre, Einfluss	anni, Influenza	лет, Влияние	yıl, Nüfuz	tahun, Pengaruh	年，影响力	年、影響力	년, 영향력	سنوات، النفوذ	साल, प्रभाव
+232	Bankruptcy: no credit	Falência: sem crédito	Faillite : pas de crédit	Insolvenz: kein Kredit	Bancarotta: niente credito	Банкротство: нет кредита	İflas: kredi yok	Bangkrut: tidak ada kredit	破产：无法贷款	破産：融資不可	파산: 신용 없음	إفلاس: لا ائتمان	दिवालिया: कोई क्रेडिट नहीं
+233	Deletes the saved game	Apaga o jogo salvo	Supprime la partie sauvegardée	Löscht das gespeicherte Spiel	Elimina la partita salvata	Удаляет сохранённую игру	Kayıtlı oyunu siler	Menghapus permainan tersimpan	删除已保存的游戏	セーブデータを削除	저장된 게임 삭제	يحذف اللعبة المحفوظة	सहेजा गया खेल हटाता है
+234	Start life	Começar a vida	Commencer la vie	Leben beginnen	Inizia la vita	Начать жизнь	Hayata başla	Mulai hidup	开始人生	人生を始める	인생 시작	ابدأ الحياة	जीवन शुरू करो
+235	With more than	Com mais de	Avec plus de	Mit mehr als	Con più di	Больше чем	Şundan fazla:	Dengan lebih dari	超过	以上：	초과:	بأكثر من	इससे अधिक:
+236	Peace conference with	Conferência de paz com	Conférence de paix avec	Friedenskonferenz mit	Conferenza di pace con	Мирная конференция:	Barış konferansı:	Konferensi damai dengan	和平会议：	講和会議：	평화 회의:	مؤتمر السلام مع	शांति सम्मेलन:
+237	Continue as	Continuar como	Continuer en tant que	Weiter als	Continua come	Продолжить как	Şu kişiyle devam et:	Lanjutkan sebagai	以此身份继续：	この人物で続ける：	이 인물로 계속:	المتابعة بصفة	इस रूप में जारी रखो:
+238	Continue as the next leader of	Continuar como o próximo líder de	Continuer en tant que prochain dirigeant de	Weiter als nächster Anführer von	Continua come prossimo leader di	Продолжить как следующий лидер:	Sonraki lider olarak devam et:	Lanjutkan sebagai pemimpin berikutnya dari	作为下一任领袖继续：	次のリーダーとして続ける：	다음 지도자로 계속:	المتابعة كقائد تالٍ لـ	अगले नेता के रूप में जारी रखो:
+239	Growth	Crescimento	Croissance	Wachstum	Crescita	Рост	Büyüme	Pertumbuhan	增长	成長	성장	النمو	वृद्धि
+240	Spouse	Cônjuge	Conjoint	Ehepartner	Coniuge	Супруг(а)	Eş	Pasangan hidup	配偶	配偶者	배우자	الزوج/الزوجة	जीवनसाथी
+241	Real data and sources	Dados reais e fontes	Données réelles et sources	Echte Daten und Quellen	Dati reali e fonti	Реальные данные и источники	Gerçek veriler ve kaynaklar	Data nyata dan sumber	真实数据与来源	実データと出典	실제 데이터와 출처	بيانات حقيقية ومصادر	असली आँकड़े और स्रोत
+242	Where every number in the game comes from	De onde vem cada número do jogo	D'où vient chaque chiffre du jeu	Woher jede Zahl im Spiel stammt	Da dove viene ogni numero del gioco	Откуда берётся каждая цифра в игре	Oyundaki her rakamın kaynağı	Asal setiap angka dalam permainan	游戏中每个数字的来源	ゲームの各数値の出典	게임 속 모든 수치의 출처	من أين يأتي كل رقم في اللعبة	खेल का हर आँकड़ा कहाँ से आता है
+243	of GDP)	do PIB)	du PIB)	des BIP)	del PIL)	ВВП)	GSYİH)	PDB)	的GDP）	対GDP）	GDP 대비)	من الناتج المحلي)	GDP का)
+244	Unemployment	Desemprego	Chômage	Arbeitslosigkeit	Disoccupazione	Безработица	İşsizlik	Pengangguran	失业率	失業率	실업률	البطالة	बेरोज़गारी
+245	Public debt	Dívida pública	Dette publique	Staatsschulden	Debito pubblico	Госдолг	Kamu borcu	Utang publik	公共债务	公的債務	국가 부채	الدين العام	सार्वजनिक कर्ज़
+246	Term length and re-election	Duração dos mandatos e reeleição	Durée des mandats et réélection	Amtszeiten und Wiederwahl	Durata dei mandati e rielezione	Сроки полномочий и переизбрание	Görev süresi ve yeniden seçilme	Masa jabatan dan pemilihan ulang	任期与连任	任期と再選	임기와 재선	مدة الولاية وإعادة الانتخاب	कार्यकाल और पुनर्चुनाव
+247	days	dias	jours	Tage	giorni	дней	gün	hari	天	日	일	أيام	दिन
+248	days and you have left	dias e restam	jours et il te reste	Tage und dir bleiben	giorni e ti restano	дн., и у тебя осталось	gün; kalan:	hari dan sisa	天，你还剩	日、残り	일, 남은 것	أيام ويتبقى لك	दिन और तुम्हारे पास बचे हैं
+249	Congress rejects your proposal: “	O congresso rejeita sua proposta: “	Le parlement rejette ta proposition : «	Das Parlament lehnt deinen Vorschlag ab: „	Il parlamento respinge la tua proposta: “	Парламент отклоняет твоё предложение: «	Meclis teklifini reddediyor: “	Parlemen menolak usulanmu: “	议会否决了你的提案：“	議会があなたの提案を否決：「	의회가 당신의 제안을 부결했습니다: "	البرلمان يرفض اقتراحك: «	संसद तुम्हारा प्रस्ताव ठुकराती है: “
+250	Elected	Eleitas	Élues	Gewählt	Elette	Избранные	Seçilmiş	Terpilih	民选	選出	선출	منتخبة	निर्वाचित
+251	Start at age	Começar aos	Commencer à	Beginnen mit	Iniziare a	Начать с возраста	Başlangıç yaşı	Mulai pada usia	开始年龄	開始年齢	시작 나이	البدء بعمر	शुरुआती आयु
+252	against for 2 years, they sue you.	contra por 2 anos, processam você.	contre pendant 2 ans, on te poursuit en justice.	2 Jahre lang dagegen, du wirst verklagt.	contro per 2 anni, ti fanno causa.	против в течение 2 лет — на тебя подают в суд.	2 yıl boyunca karşı; sana dava açılıyor.	menentang selama 2 tahun, kamu digugat.	反对达2年，你被起诉了。	反対が2年続き、訴えられる。	2년간 반대, 소송을 당합니다.	معارضة لمدة سنتين، فتُرفع عليك دعوى.	2 साल तक विरोध, तुम पर मुक़दमा होता है।
+253	At war with	Em guerra com	En guerre contre	Im Krieg mit	In guerra con	Война:	Savaşta:	Berperang dengan	交战中：	交戦中：	교전 중:	في حرب مع	युद्ध में:
+254	Paused: returns when the game is complete	Em pausa: volta quando o jogo estiver completo	En pause : revient quand le jeu sera complet	Pausiert: kommt zurück, wenn das Spiel fertig ist	In pausa: torna quando il gioco sarà completo	На паузе: вернётся, когда игра будет готова	Duraklatıldı: oyun tamamlanınca geri gelecek	Dijeda: kembali saat permainan selesai	已暂停：游戏完成后回归	一時停止中：ゲーム完成時に復帰	일시 중지: 게임 완성 시 복귀	متوقف: يعود عند اكتمال اللعبة	रुका हुआ: खेल पूरा होने पर लौटेगा
+255	Life expectancy	Expectativa de vida	Espérance de vie	Lebenserwartung	Aspettativa di vita	Продолжительность жизни	Yaşam beklentisi	Harapan hidup	预期寿命	平均寿命	기대 수명	متوسط العمر المتوقع	जीवन प्रत्याशा
+256	Real life expectancy in	Expectativa de vida real em	Espérance de vie réelle en	Reale Lebenserwartung in	Aspettativa di vita reale in	Реальная продолжительность жизни:	Gerçek yaşam beklentisi:	Harapan hidup nyata di	真实预期寿命：	実際の平均寿命：	실제 기대 수명:	متوسط العمر الحقيقي في	वास्तविक जीवन प्रत्याशा:
+257	Initial political stability	Estabilidade política inicial	Stabilité politique initiale	Anfängliche politische Stabilität	Stabilità politica iniziale	Начальная политическая стабильность	Başlangıç siyasi istikrarı	Stabilitas politik awal	初始政治稳定度	初期の政治的安定	초기 정치 안정도	الاستقرار السياسي الأولي	प्रारंभिक राजनीतिक स्थिरता
+258	This takes	Isso leva	Cela prend	Das dauert	Questo richiede	Это займёт	Bu sürer:	Ini memakan	这需要	所要：	소요:	هذا يستغرق	इसमें लगता है
+259	Family, friends, rivals and boss: interact with each one	Família, amigos, rivais e chefe: interaja com cada um	Famille, amis, rivaux et patron : interagis avec chacun	Familie, Freunde, Rivalen und Chef: interagiere mit jedem	Famiglia, amici, rivali e capo: interagisci con ognuno	Семья, друзья, соперники и начальник: общайся с каждым	Aile, arkadaşlar, rakipler ve patron: her biriyle etkileşime geç	Keluarga, teman, rival, dan bos: berinteraksilah dengan masing-masing	家人、朋友、对手和老板：与每个人互动	家族、友人、ライバル、上司：一人ひとりと交流する	가족, 친구, 라이벌, 상사: 각각과 교류하세요	العائلة والأصدقاء والمنافسون والمدير: تفاعل مع كل واحد	परिवार, दोस्त, प्रतिद्वंद्वी और बॉस: हर किसी से बात करो

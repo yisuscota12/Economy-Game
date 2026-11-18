@@ -1,0 +1,157 @@
+ff2822	Administra {0}
+2db424	Você contrata {0} funcionário(s).
+a9084f	Crédito {0}
+0af880	Você demite {0} funcionário(s).
+a98c77	Você entra em {0} como {1}.
+bce051	Injetar capital próprio ({0})
+570310	Você retira {0}.
+d92860	Faltam {0}.
+5a2722	Você vende {0} ao preço mundial: {1}.
+ad01f5	{0}: corta {1} zeros (antes {2})
+a15fb8	{0}: {1} passa a flutuar livremente.
+a7e43c	Paz: {0} cede {1} província(s) ocupada(s) a {2}.
+e6ac50	Agricultura
+1da85d	Alto +15 %
+ad4669	Baixo −15 %
+ca9bf1	Arroz
+e2eb07	Associado
+8e4369	Automotivo
+2fcbd4	Cafeteria
+2c0027	Variação em 12 meses
+35ff4c	Construtora
+0b14bc	Coordenador
+419316	Denunciar
+0ab909	Descentralização
+12a447	Diretor
+3ddc05	Escola particular
+73a427	Farmácia
+c6816f	Fundo balanceado
+16dc8a	Fundo conservador
+ec71b7	Fundo de índice
+45f66f	Forças armadas
+c37936	Fábrica
+3dbada	Novos hospitais
+9c4ba7	Hotel
+be9d95	Infraestrutura
+811cac	Joalheria
+f1a9ce	Luxo
+f0a4ce	Média de 10 semanas
+d7b75b	Média de 30 semanas
+4cea5a	Média de 12 meses
+acf6d7	Média de 36 meses
+a53439	Metais
+b08dc9	Metais preciosos
+6e6700	Mina
+476008	Metade ações, metade títulos
+372ed9	Normas ambientais rigorosas
+bab2a8	Padaria
+73b2e9	Poço de petróleo
+66cd78	Fazenda de gado
+4974cd	Recrutamento voluntário
+fe7aa5	Reforma tributária progressiva
+a3ab1f	Exige curso superior.
+e46805	Restaurante
+31ad6e	Irrigação tecnificada
+3765ce	Semicondutores
+142fc4	Sem dinheiro.
+9e2534	Stop
+d458ff	Subsecretário
+237e06	Taxa aos poupadores (acima do normal)
+095411	Terras raras
+de5e04	Trader
+6a2cfd	Trader sênior
+159c2b	Turismo
+eda706	Urânio
+38ebc5	Vice-presidente
+1daf05	Meio Ambiente
+8a1a4f	Defesa Nacional
+356f9e	+felicidade; menos desastres
+f3ee6c	reformista honesto
+b6feb8	perfil misto
+a4f0f9	Diretrizes de {0}
+949c17	Ministério de {0}: «{1}». Custo {2}. {3}.
+c84ee3	{0}. Candidatos:
+7c3230	A capacidade melhora a área de cada ministério, a honestidade reduz a corrupção e a lealdade evita crises ao demiti-los.
+7e7d5b	Em andamento: {0}
+54a902	Abrir negócio em {0}
+4ee73a	➕ Abrir um negócio em {0}
+4decd0	Abrir com meu dinheiro
+76b1e3	Com crédito ({0})
+fc3a06	Todo mês sua empresa vende, paga insumos, folha, aluguel, impostos e dívidas; o que ela distribui vai para o seu dinheiro. Máximo de {0} empresas.
+16f927	Para abrir em outra província, toque nela no mapa → Abrir negócio. O modo ⛏️ do mapa mostra onde há minas, petróleo e plantações.
+f1e4cf	Preço alto = mais margem, porém menos clientes (a demanda reage 1,3 vez). Qualidade e salários altos elevam a reputação, que atrai clientes. Demitir custa 3 meses de salário (Realista).
+f6584d	{0} filial
+00922b	Vender (~{0})
+64bab7	bloqueada {0} dias
+ec6a8e	Pagar empréstimo ({0})
+5a70ff	Margem: a corretora empresta até metade do que você compra (juros: taxa {0} + 3 pontos) e permite vender a descoberto. Se seu capital cair abaixo de 25 % das ações (30 % em vendas a descoberto), ela vende posições automaticamente (chamada de margem).
+285e02	moeda compartilhada
+3fcdb3	Unidades de {0} por dólar, fechamento de cada mês. Sobe = sua moeda se enfraquece.
+d21062	O câmbio segue a paridade do poder de compra (inflação de cada país contra a dos EUA) mais um desvio movido por juros, emissão de moeda, guerras, sanções, golpes de Estado e crises. Câmbios fixos podem quebrar com um ataque especulativo.
+0aa42e	Sem sobressaltos: os preços acompanharam o crescimento, a inflação e os juros de cada país.
+e3ea9e	💱 Seu dinheiro está em {0} ({1}): 1 dólar = {2}.
+aa0ad9	Taxa {0}: {1} %.
+e18d63	Preço limite
+441b31	Preço stop
+918dee	Ações (compradas)
+21f2b6	Preço/lucro
+a11b8a	1 {0} = {1}
+fc4491	seus depósitos em {0} rendem {1} % ao ano (taxa {2} − 0,5)
+f90a63	spread {0} %
+395e0c	Vender todo o meu {0}
+5d499c	Escolha qual mercado a barra transmite e em que prazo a variação é medida. Moedas e commodities são medidas por mês ou ano (fechamentos mensais).
+5ec2cd	Investir em {0}
+87a2fa	armazenagem {0} % ao ano.
+f073c0	proíbe exportar
+0c5830	O preço sobe quando falta oferta (guerras, território ocupado, proibições), cai quando a economia mundial desacelera, e o ouro sobe com o medo.
+1e1b5d	{0} % do seu dinheiro
+dbbe07	{0} % do seu dinheiro em caixa
+42bc90	Títulos públicos de 10 anos: pagam juros todo mês na moeda do país e devolvem o capital no vencimento. O preço cai se os juros do país sobem (duração ~7 anos) e podem sofrer deságio se o país der calote (dívida alta + crise).
+9fac33	Fundos administrados pelos bancos ({0}…). Rendem o que seus ativos rendem no jogo, menos a taxa anual.
+0f5d6d	você tem {0} ({1} %)
+518f4c	Sacar tudo
+9b244f	Fundar um banco exige capital mínimo e licença do regulador (melhor com influência e experiência financeira; mais difícil se a regulação for rígida).
+af2dbf	Receita de juros {0} − juros aos poupadores {1} − despesas {2} − provisões para calotes {3} − impostos {4}.
+9ade7c	Se o capital cair abaixo de 4 % dos empréstimos ou a reputação despencar, há corrida bancária.
+e26aa8	Custo total: {0} por ano (descontado todo mês).
+ebc324	Os preços acompanham os salários do seu país.
+263902	Todo mês o resultado vem dos preços reais do jogo: ações, commodities, moedas e títulos, mais a sua habilidade (inteligência {0}, finanças {1}).
+096d6a	Grupo A
+67d0c8	Grupo B
+7fb07d	Grupo C
+b6bd60	Grupo D
+16a7c9	Grupo E
+2a4d96	Grupo F
+dfcc6e	Grupo G
+62e49c	Grupo H
+2fd69e	Grupo I
+4c0412	Grupo J
+315943	Grupo K
+f5801d	Grupo L
+8ca912	{0} ações
+b254a4	custo {0}
+825b92	Limite a {0}
+929db9	Stop a {0}
+9bf9e6	{0} × {1} = {2}
+4449ea	você tem {0}
+fdfb68	vence {0}
+a4db0e	Risco de sequestro onde você mora: alto (conforme seu patrimônio e os homicídios do país).
+20fe1f	Risco de sequestro onde você mora: médio (conforme seu patrimônio e os homicídios do país).
+69f96d	Risco de sequestro onde você mora: baixo (conforme seu patrimônio e os homicídios do país).
+bf7352	Você tem {0} barris
+e2aef3	Você tem {0} milhões de BTU
+97b6dd	Você tem {0} toneladas
+5503c6	Você tem {0} toneladas de carbonato
+52e857	Você tem {0} onças
+bfcf9b	Você tem {0} toneladas de óxidos
+52942e	Você tem {0} libras de U₃O₈
+deb5c6	Aportar {0} de capital
+88f7cc	{0} (precisa de {1})
+779192	Suas empresas aqui: {0}
+d63521	Demanda / capacidade
+0eb8b4	euro
+3f397c	Diretrizes
+bcf214	Nomear
+a8e196	Resgatar
+0aaf0f	Relações Exteriores
+6445d8	Dívida/PIB

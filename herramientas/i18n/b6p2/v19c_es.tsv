@@ -1,0 +1,41 @@
+1a3e69	D	Juego: dibujos rellenos con estilo de juego de estrategia.
+aee2b4	D	Línea: trazos finos y sobrios.
+f378a1	D	Emoji del sistema: los de tu teléfono o computadora.
+de9aa2	D	Juego
+3bdd67	D	Emoji del sistema
+dca671	D	Set «Juego»: game-icons.net, licencia CC BY 3.0.
+241267	D	Set «Línea»: Tabler Icons, licencia MIT.
+cea7c6	D	Íconos propios del juego.
+41bd29	D	Animaciones y librerías
+1d303a	D	Lottie (lottie-web, licencia MIT) con animaciones propias del juego.
+2e843f	D	GSAP (licencia estándar de GSAP).
+23ec80	D	¡Logro!
+62b44a	D	¡Ascenso!
+ff52af	D	¡Victoria!
+bcb749	D	Animaciones de momentos clave
+0aa7a3	D	Una animación corta al conseguir un logro, un ascenso o una victoria.
+a8451e	D	En automático se apagan con «reducir movimiento», el mapa ligero o un equipo de 2 núcleos.
+121b1e	D	Probar
+f7ae21	D	Toca un ejército para darle órdenes.
+85dad9	D	Toca en el mapa la provincia destino
+02ec88	D	Soldados
+2d0cf6	D	población movilizable
+b2e6a4	D	Calidad
+bd9098	D	Como General mueves las tropas; reclutar y disolver lo decide el gobierno.
+718e6b	D	Su poder
+d85ecd	D	Tu lugar
+c7aad4	D	Puntaje
+45118b	D	Órdenes desde el mapa
+79e3da	T	bono de política {0} %
+87a3da	T	de {0} países
+024d2f	T	{0} (tú)
+829c2b	T	🎯 Toca en el mapa la provincia destino del ejército de {0}.
+6fc24f	T	🎯 Ejército de {0} ({1}) listo: toca el destino en el mapa.
+61eeeb	D	th:1 mes
+6b6a17	D	Partidas recuperadas
+e7ccbe	T	movimiento {0}/{1}
+84ccfe	T	enemigo {0}
+0079a4	T	ocupas {0}
+f6ed6b	T	te ocupan {0} prov.
+7909a6	T	Cansancio: tú {0} %
+4a7eaa	T	ellos {0} %

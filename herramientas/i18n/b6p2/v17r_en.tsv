@@ -1,0 +1,373 @@
+401969	Pressure, body work, the left hook to the liver, chin and heart. Fights are fought up close and won in the late rounds.
+44a9e9	Mexican school
+129179	American school
+82bb6e	Speed, athleticism and shoulder defense (the "Philly shell" guard): counterpunching, fast combinations and lots of footwork.
+775867	The most successful amateur school: footwork, rhythm, defense and hitting without getting hit. It masters the points system.
+7a84b4	Cuban school
+458511	Soviet school
+6739d1	Rigorous fundamentals, jab, distance and conditioning; a system of state-trained coaches that is still alive in Eastern Europe and Central Asia.
+9d002e	Upright guard, straight jab and mobility, with a long tradition of amateur clubs. Fights are won with distance and discipline.
+cb9b65	British school
+1edfdc	Hand speed, angles, volume and aggression; many southpaws and high-tempo fights in the lighter divisions.
+ddc8c5	Filipino school
+14ef74	Freestyle wrestling and sambo from childhood: chain takedowns, smothering top control and huge cardio.
+cefba4	Dagestani school
+6ff3fe	The ground game: guard, passes, sweeps and submissions. Any fall to the mat becomes a threat.
+b61c90	Brazilian jiu-jitsu
+77e2a4	Dutch kickboxing
+a18017	Punch combinations that end in a low kick, constant pressure and lots of power on the feet.
+efc844	The art of eight limbs: fists, elbows, knees and kicks, with a clinch that punishes nonstop.
+f2a5c6	Thai muay thai
+766f90	Explosive takedowns, control against the cage and ground-and-pound; the base of many MMA champions.
+e6dd3a	American collegiate wrestling
+0a18d7	Cuban coaches' gym in Miami
+d92c95	Almaty training base
+d98c37	Manila boxing gym
+1b44fa	Amsterdam kickboxing gym
+405d97	Muay thai camp in Phuket
+e3357d	Weights, medicine ball and heavy-bag work.
+f2c649	Strength and power
+2f5bdf	Running, intervals, rope and circuits: the gas tank for the late rounds.
+8895f5	Conditioning
+27b0a9	Mitts, shadowboxing and drilling combinations with your coach.
+d1d5d1	Technique and combinations
+700685	Slips, blocks, getting off the ropes and countering.
+ee8417	Defense and head movement
+25a214	Speed and reflexes
+ef52c9	Double-end bag, reaction drills, plyometrics and footwork.
+87dff5	Hard rounds with partners your weight: technique under pressure.
+df4ae9	Hard sparring
+c2283f	Diet and cardio to make weight without dehydrating.
+eb8745	Controlled weight cut
+1e4b20	Mobility, sleep and light work: clears fatigue.
+95403c	Active rest
+073ebe	Weights, sled and hip power for strikes and takedowns.
+81dae9	Intervals, circuits and wrestling with changes of pace.
+a40cda	Striking and kicks
+e72595	Mitts, punch and kick combinations, stand-up defense.
+4d154f	Wrestling and takedowns
+781b50	Shots, takedown defense and control against the cage.
+36b89c	Jiu-jitsu and submissions
+64541a	Guard, passes, escapes and locks.
+343b0c	Transitions between standing, cage and ground: the complete game.
+144f0c	Light
+880d5c	Hard
+62e6f7	Video analysis of your opponent
+c43ae3	You study their fights with your coach: you see their exact attributes and walk in with a plan built for them.
+a852fb	A week with a former champion from your school: school mastery and technique.
+d6e2b0	Clinic with a legend of your school
+624bdd	Altitude camp
+e3e9bf	Three weeks training above 2,000 meters: the body produces more red blood cells.
+08d569	Physiotherapy and recovery
+947f32	Massage, cryotherapy and physiotherapy: greatly lowers fatigue and shortens injuries.
+304579	Handling pressure, visualization and focus for your next fight.
+316a38	Sports psychologist
+2be01c	Nutritionist and physiologist
+c2e0b0	A measured weight-cut plan: greatly lowers the risk of missing weight.
+0e8c3d	Paid sparring with a contender
+50950d	Rounds with someone from the top 15 of your division: you learn a lot and it hurts.
+31f5e4	A week with international-level wrestlers: takedowns and control.
+fac395	Wrestling with Olympic wrestlers
+76ffb1	One-on-one jiu-jitsu classes: submissions and escapes.
+c3e8d6	Private lessons with a black belt
+1982dc	Professional gym
+1c467b	Neighborhood gym
+8e5d16	High-performance center
+e0d556	Good
+f48996	Top-level
+783951	International promotion
+7fcfc3	National promotion
+ffb956	Local promotion
+1dec54	No television
+3c0575	International network
+512ea7	National channel
+6bc154	Local internet stream
+161d7d	Expensive
+a2ebd7	Cheap
+80951f	Accumulated fatigue takes its toll: you get injured and are out for {0} months.
+ecc644	Accumulated fatigue takes its toll: you get injured and are out for a month.
+30388e	You get injured during the block: you are out for {0} months.
+cd9383	You get injured during the block: you are out for a month.
+54a38f	You complete the «{0}» block at {1} intensity. Fatigue {2}/100.
+94c21c	You need a scheduled fight.
+9ba7aa	You already studied this opponent.
+178493	You already booked it for your next fight.
+28ae2b	Professionals only.
+c61d48	Available in {0} days.
+3dbf6f	You study hours of video with your coach: you now know their exact attributes and habits. In the fight your plan will be built for them.
+5ff2ab	A week with a former champion of the {0}: your school mastery rises to {1}/100.
+12e0f1	Three weeks at altitude: your stamina rises and, if you have a scheduled fight, you'll arrive with more gas.
+3fbadd	Physiotherapy and recovery: your fatigue drops to {0}/100.
+7ce95f	Physiotherapy and recovery: your fatigue drops to {0}/100 and your body is ready to take on more load.
+39c9d4	You work on focus and handling pressure: in your next fight you'll have more composure (chin and technique +2).
+b1fabc	A weight plan measured week by week: the risk of missing weight in your next fight drops a lot.
+8b4dc5	Rounds with a top-15 contender: your technique and defense improve, though you take some punishment.
+cc485c	A week with Olympic wrestlers: your takedowns and control improve.
+7d9f5c	Private jiu-jitsu classes: your submissions and escapes improve.
+15b7b4	You pay {0}.
+f00aba	It's your current style.
+fbe6ff	Requires 60 affinity (you have {0}).
+664e69	You switch your style from {0} to {1}. For two months you'll still be adapting (technique −3 in fights).
+d7a4b0	International invitational tournament
+bd9fc8	🏅 You're called up to the {0} national amateur team: a monthly stipend, training camps with the best and access to international tournaments.
+be1eea	National team members only.
+9cabb4	📨 The {0} orders the mandatory title fight against {1}. There was a purse bid: {2}, and the challenger gets 25 %.
+13028b	You already have a gym.
+39a2af	First you need to be in the world of boxing or MMA.
+20e363	Opening a {0} costs {1}.
+1c1c1a	You open {0}: a {1} of the {2}. Hire coaches to attract members.
+29cd1a	Your {0} allows {1} coach(es).
+cc9e80	You hire {0} (quality {1}, {2}) for {3} a month.
+9fa433	You fire {0}. Severance: {1}.
+329546	You already have the highest level.
+880a0b	Expanding costs {0}.
+005e98	You expand your gym into a {0}: more members, more coaches and more fighters.
+2c1c66	Your equipment is already top-level.
+e0906c	Upgrading the equipment costs {0}.
+875f19	New equipment: it's now {0}. It attracts more members and improves training.
+2d8ec8	You sell your gym for {0}.
+d8a4df	Your gym has no room for more fighters.
+e87da3	You tour amateur tournaments and local gyms: you find {0} prospects who could sign with your gym.
+086e22	{0} joins your gym. They give you 10 % of their purses and improve with the quality of your coaches.
+0a3fcf	⚠️ {0} has been losing money for three months. Review the fee, the coaches and the equipment.
+d46dc8	You already have a promotion.
+873827	Registering a promotion costs {0} (license, insurance, starting capital).
+261592	You register {0} with the {1} commission. Sign fighters and put on your first show.
+d62fdf	A {0} can have {1} fighters.
+5f5c73	The signing bonus is {0}.
+e09895	{0} ({1}) signs for 3 years. Bonus {2}; minimum purse {3} per fight.
+931590	You release {0} from their contract.
+bc1fd6	Requires reputation {0} (you have {1}).
+e92fcc	You're already an international promotion.
+72143c	{0} is now an {1}: bigger venues, more fighters and better TV deals.
+1a99ad	For a bigger deal you need to level up your promotion.
+6d3f95	You already negotiated with the networks this year.
+d43a3a	You already have the best TV deal.
+128ce6	You close the deal: {0}. Every show will earn more broadcast rights.
+78fd22	The networks don't see enough audience yet. Try again next year.
+f71936	{0} fought recently: needs at least 45 days between fights.
+275204	No opponent is available for that fight.
+53b1ef	You can put on at most one show a month.
+24addf	{0} leaves {1}: more than nine months without fighting.
+349b92	{0}'s contract with {1} ends.
+665c67	🎟️ {0}: «{1}». {2}. Show result: {3}.
+cafc54	Renewing costs {0}.
+882546	You renew {0} for 3 more years (minimum purse {1}).
+e477c8	You sell {0} for {1}.
+68dc41	"You're overtrained"
+0610b3	{0} stops you in the middle of training. "You've been loading for weeks without rest. Your fatigue is at {1}. That's how injuries and fights with no legs happen."
+03cac2	You truly rest. You come back with fresh legs.
+82e62b	Take a week off
+1a9262	A tweak in your back: a month out.
+5f4609	Your body holds up, this time.
+ab641b	"A bit more, the fight is almost here"
+19471c	The national team camp
+95541e	{0}, the national team coach, calls you to a three-week training camp before the next international tournament. It's an honor, but you'll have to leave your gym and your life for a while.
+454347	Three weeks with the best in your country: you level up and earn the coaching staff's respect.
+b6195f	Go to the camp
+f24788	Excuse yourself: you have other commitments
+fd6255	The coaching staff takes note. Your ranking points drop.
+2cfa77	A fighter from your gym wants to leave
+409495	{0} ({1}) knocks on your office door. "A big gym came for me. They offer better sparring partners and a big-name coach. I owe you a lot, but I have to think about my career."
+1221b9	They stay with you. Your commission drops, but your gym keeps its star.
+6fb316	Offer a better deal (lower commission)
+63850c	Win them over with the gym's project
+78f52e	You show them what you've been building together. They stay.
+b225b6	You don't convince them: they leave and your gym loses prestige.
+489727	Let them go with your blessing
+493ded	You say goodbye with a hug. Other kids in the neighborhood see how you treat your own.
+5cca15	🥊 Your combat sports businesses
+844195	Blue: you. Red: your opponent (exact data from the video analysis).
+525928	Wear from low kicks
+a796a3	Wear from body shots
+73658a	Significant strikes per round
+85c209	Punches landed per round
+42a6bc	Fight attributes (with school, style, camp and starting fatigue).
+0a9f7b	4 blocks or more
+8d7c57	Physical
+ec33b0	Tapering at the end
+189bac	Weight plan: ready.
+760383	Psychologist: ready.
+877fd8	No video analysis.
+9f0614	Altitude camp.
+e086b6	Video analysis done.
+11ba8c	School
+2766b5	The blocks you do now count toward your fight camp.
+a3ca5a	injury {0} %
+099e17	Rounds fought
+fbb5c7	Fights recorded
+5869be	Punches received
+712d81	Defense (punches avoided)
+1255f9	Knockdowns suffered
+f4cea3	Punches per round
+224459	national team
+78eee5	Wins recorded: {0} by submission or stoppage and {1} by decision.
+c18c27	Wins recorded: {0} by RSC and {1} by decision.
+1f66f8	low kicks that wear down
+b1248c	body shots that wear down
+5b3faf	You're now a hybrid: {0} + {1}.
+df19ea	Change style?
+0ba94b	rent {0} a month
+8d6d45	You need {0}
+caba0e	up to {0} members, {1} coach(es) and {2} fighters
+100e42	{0} of {1} (demand {2})
+734686	Monthly fee
+800fbc	Members
+0157c9	Last month's income
+cb5d35	Last month's expenses
+f51cca	12-month result
+9b6f27	Cheap fee
+aaad71	Expensive fee
+eded79	Normal fee
+5cb8fd	You train with your coaches and your school; your wins raise the gym's reputation
+8aab6d	Move your training to your gym
+affa6e	🥊 Train at your gym
+bef497	✅ You train at your gym
+2aeee4	quality {0}
+2d3bfd	{0} a month
+ac6445	tap to fire (2 months of severance)
+b40940	No room
+7a9831	you tour amateur tournaments and local gyms
+b11456	estimated potential {0}
+36fdcf	more members and better training
+569c58	🛠️ Upgrade the equipment to {0}
+9c9e21	You get back {0} (40 % of what you invested)
+d802fb	more members, coaches and fighters
+d8b099	💰 Sell the gym
+89b593	🎟️ Register a promotion
+fe694c	license with the commission, insurance and starting capital
+1f4979	Shows
+a9eaf4	Television
+aa44f8	Fighters
+ab71a6	Result of the last 6
+0d4940	📅 Put on a show
+19278c	you choose the main event, the ticket price and see the projection
+3a559a	Wait until next month
+437053	No fighters
+53d906	Sign fighters first
+cafbf3	One show a month at most
+50ec4f	📺 Negotiate with the networks
+8de803	You already have the best deal
+a1263c	Level up for a bigger deal
+d59ea5	You already negotiated this year
+1999f0	✅ Automatic shows
+1c5e98	⬜ Automatic shows
+30158b	Your team puts on a show every two months if it doesn't lose much money
+aed301	You organize every show yourself
+20bc6a	requires reputation {0}
+7e6b69	Reputation {0}/{1}
+8b187a	venues for {0} people
+c7b868	⬆️ Become a {0}
+0353bd	💰 Sell the promotion
+d9d565	You get back {0}
+02bf75	Terminate this fighter's contract?
+1403cb	You now train at your own gym.
+8b2900	You go back to training at your previous gym.
+9a557e	Fire this coach?
+c701f1	Fire
+72f82c	Sell your gym?
+d2c6b1	Sell your promotion?
+f9837a	filler opponent
+ecdbc1	TV rights
+984d4f	Main event purse (your fighter)
+a5d687	Undercard purses
+af15c8	Opponent's purse
+c340be	Production and security
+f3aaec	Venue rent
+8ba898	You have no combat sports businesses.
+fd2193	Training blocks
+abb13e	Fatigue
+94d308	Special sessions
+de17a8	Block-based camp
+17e57d	Boxing and MMA schools
+fbf611	Schools
+72fd27	Styles
+166342	Full amateur record
+357fbf	Punch statistics
+99895d	Your own gym
+760869	Your own promotion
+659e08	Purse bid
+f86db7	🥋 Boxing and MMA in depth
+4d6471	Fatigue drops 20 points a month. Above 45 the risk of injury rises; it also reduces what you gain from training (×{0}).
+cde573	Your gym's school
+8b3cbf	Mastery
+7c248d	Affinity
+c7f79b	A block is two weeks of focused work on several qualities at once. Light: ×0.7 gains, half the fatigue and less than half the risk. Hard: ×1.3 gains, ×1.7 fatigue and double the risk.
+9c915f	fatigue {0}
+e1f44a	Every gym teaches a school. Training there raises your mastery of that school (0–100): it changes how much each attribute rises when you train and gives you advantages in fights. Your two schools with the most mastery count (the second at half). The ones you don't practice drop 2 points a year.
+6959da	Today in a fight
+df9375	To learn another school, change gyms (Career path → Gyms: there are academies of every school abroad) or take a clinic with a legend in Train.
+557b57	Your style decides your punch volume, your natural plan and your advantages against other styles. Your affinity with each style rises when you train what that style needs, with a school that teaches it and when you fight with its plan. At 60 you can adopt it; at 70 in a second style you fight as a hybrid (technique +2).
+4a4da2	Adopt this style
+ad305e	with mastery 100 in a fight
+9e7d15	amateur edge +{0}
+833973	Styles it favors
+fe0ff2	Your gym teaches it.
+687691	Advantage against
+d84fe6	Struggles against
+587bed	Natural plan
+d884bc	Your own gym: you charge members' fees, hire coaches, sign fighters who give you 10 % of their purses and you can train there. Choose the school it will teach:
+bf763d	Open
+d1a2b3	Your own promotion: you sign fighters, build cards, sell tickets and TV rights and pay the purses. It starts local; with reputation it grows to national and international.
+0c678e	Without coaches almost nobody signs up.
+14574c	Candidates (they change every 4 months):
+4ac5ec	Gym fighters ({0}/{1})
+f0cad2	Coaches ({0}/{1})
+28c182	Scout for talent
+4b8bec	⬆️ Expand to {0}
+8a7000	Your fighters
+5ab9fe	You don't have any fighters yet.
+289bf1	Available fighters
+ce7e02	New show
+e98aa5	Tickets ({0} of {1} at {2})
+bf050e	Estimated result
+09f637	Put on the show
+519c11	Previous shows
+c4799c	{0} of {1} seats
+8f6803	{0} market: purses for local and national shows pay ×{1} compared with the US.
+2a7861	Compare on radar
+246322	Each point adds energy at the start of the fight; with 4 or more, technique too.
+6a4845	Live stats
+59397a	knockdown
+044e99	you
+ca1dde	Fight radar
+96494d	🎟️ {0} presents «{1}»: {2}. Result: {3}.
+ce1280	{0} presents «{1}»: {2}.
+19099c	{0}-{1} ({2} % wins)
+3f46c6	national ranking #{0}
+b7cc03	{0} points
+f7dcf2	stipend received {0}
+610693	W-L
+006804	Inside the distance
+937555	Latest amateur bouts
+f83724	decision
+e802d4	{0} min
+ea2ef0	level {0} → potential {1}
+fe4df1	Contract until {0}
+f33b5f	minimum purse {0}
+644201	last fight {0} months ago
+58dc18	Profile
+e3a264	Networks
+a49fa1	Main event:
+fd8bee	No title
+94a152	{0} title
+49a3ad	Projection
+76a0f5	Pay-per-view ({0} buys)
+21e9fe	🏆 Your fighter is world champion!
+b6398c	Attendance
+8c503c	Income
+791cdf	Expenses
+1b71ac	you get {0} %. The result of a purse bid can't be negotiated.
+4f965d	School: {0}
+a0d273	Controlled weight cut: {0}.
+acdaac	Undercard
+543f69	Terminate
+a13653	{0} blocks or more
+c1e61f	Cameras, microphones and your opponent two meters away. A reporter asks: «What do you have to say to {0}?» What you say moves the public's anticipation (and ticket and pay-per-view sales).
+737c32	{0} also makes weight. The final face-off is tense.
+cce3f5	chance of winning. {0} rounds.
+b88050	The bell rings. Your corner reminds you of the plan: {0}.
+0dafb9	You beat {0} by
+c7a8ef	You lose to {0} by
+695598	You draw with {0} by
+7db0a0	with {0} ({1}, effectiveness ×{2}, chemistry ×{3}). Specialty:

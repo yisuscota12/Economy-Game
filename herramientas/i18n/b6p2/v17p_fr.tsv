@@ -1,0 +1,323 @@
+4366df	Responsable de salle
+8c8e10	Formation service et vins
+b19c39	Restauration
+dfe4b8	Maître d’hôtel
+9f8dcb	Serveur à temps partiel
+00917b	Opérateur qualifié
+25db75	Chef de ligne
+74eafc	Industrie manufacturière
+94f5cd	Directeur d’usine
+f2be78	Opérateur
+feaa5e	Certification chariot élévateur et sécurité industrielle
+5f47dd	Directeur régional
+5fb2e4	Diplôme de vente
+8784c7	Vendeur senior
+91a608	Responsable de magasin
+3e14b9	Certificat de compétence en bâtiment
+45ce87	Ouvrier qualifié
+722636	Bâtiment
+8a029f	Manœuvre
+b940ba	Chef de chantier
+1854d3	Ouvrier agricole
+9a507e	Exploitant
+9c0347	Agriculture
+b6ea8f	Formation irrigation et agriculture de précision
+fec8e2	Exploitant propriétaire
+1faabc	Certification bureautique et comptabilité
+317e4f	Assistant administratif
+47eabc	Coordinateur de service
+4e83ca	Chef de bureau
+2caf0b	Diplôme d’administration publique
+847b37	Administration
+9960c9	Assistant
+85b776	Sécurité publique
+95f50e	Brigadier
+bb20c5	Commissaire
+e396cc	Formation à l’école de police
+ecc8ab	Gardien principal
+029afd	Chef technique
+301b0e	Certification technique spécialisée
+8d5ff3	Technicien spécialisé
+2b1326	Master en éducation
+76e452	Coordinateur pédagogique
+b16d01	Enseignant titulaire
+ca7665	Directeur d’école
+ebafca	Enseignant contractuel
+1e6ae7	Architecte logiciel
+263cf3	Développeur junior
+2a3192	Lead technique
+72d6e9	Développeur senior
+d28d03	Certification cloud
+46a7e8	Certification en gestion de projet
+7e2469	Ingénieur junior
+8c3f49	Ingénieur senior
+f4762a	Responsable ingénierie
+011605	Avocat collaborateur
+0398bf	Avocat senior
+1f4f0f	Associé du cabinet
+7140d8	Services juridiques
+b76cc3	Master en droit
+e33833	Stagiaire
+5d4a06	Chef de service
+7ab414	Médecin spécialiste
+894f03	Médecin généraliste
+c88e92	Chef de service adjoint
+cc35c0	Spécialité médicale (internat)
+1f4928	Formation professionnelle
+282819	Responsable
+2cd4fa	Superviseur
+17fdcf	De jour
+824b8c	De nuit
+8fa6b9	Tournant (change chaque semaine)
+af15e6	Mixte
+86df48	Très élevé
+bb90d1	Faible
+f46edd	Élevé
+04251e	Normalement
+e18540	Heures sup.
+f58f80	Le minimum
+a34683	Savoir-faire
+aa3ec4	Relation avec ton chef
+e201ca	Heures travaillées
+55230a	Ancienneté
+90499f	Certification
+fed9ee	Stress
+619554	avec syndicat
+13c296	Collègues
+7f57e4	Poste
+9a5b79	Conditions
+0da43f	Expérience totale
+502edc	Savoir-faire
+598c7e	Avertissements
+866e28	Congés restants
+971fe4	Horaire
+ccf106	Risque du métier
+1c77d4	Durée légale du travail
+990919	Prime de fin d’année
+35fe5f	Emploi informel
+73bb98	Indemnité de licenciement
+8f52ef	Ton emploi
+dce00f	Syndicalisation
+5ddc89	Congés payés
+2cd097	Prime de fin d’année ou mois supplémentaires
+8f25e2	Indemnité de licenciement
+892af6	Syndicats
+211eb2	Formel ou informel
+5f8c85	Stress au travail
+109b47	Performance
+110729	performance
+7c2374	PERFORMANCE
+4db381	Échelons
+4f6653	emploi formel
+8a6ade	emploi informel
+44db32	Parcours
+b7be52	Salaire annuel
+3a0b96	Temps de travail
+79bd0e	Actions
+34eb65	Ton chef
+52a3e8	Ton équipe
+8c161b	Évaluations
+086bff	excellente
+87b88f	bonne
+5f51ef	moyenne
+0d9c30	faible
+e033af	sympa
+859738	commère
+d0f165	travailleur
+809f9a	paresseux
+c17e7c	mentor
+a24cb9	🔥 Tu frôles l’épuisement (burn-out) : réduis tes heures ou prends des congés.
+1082fd	🩹 Tu te blesses au travail.
+5d3f81	🚑 Tu as un accident du travail. Tu te rétablis, mais il te reste des séquelles.
+6a370f	📋 Évaluation semestrielle : {0}/100, bonne. Augmentation de {1} %.
+862f07	📋 Évaluation semestrielle : {0}/100, moyenne. Pas d’augmentation.
+ba807c	📋 Évaluation semestrielle : {0}/100, faible. Tu reçois un avertissement écrit ({1} sur 2).
+f759b8	📋 Évaluation semestrielle : {0}/100, excellente. Prime de {1} et augmentation de {2} %.
+38f462	📄 Tu es licencié de {0}. Tu touches {1} d’indemnités (loi de ton pays : {2} jours plus {3} par année travaillée).
+c504b9	📄 Tu es licencié de {0}. La loi de ton pays n’impose pas d’indemnité.
+e1def0	📄 Tu es licencié de {0}. Comme l’emploi était informel, tu ne touches aucune indemnité.
+09a3ff	📢 Poste de {0} à pourvoir ({1}) : l’entreprise grandit.
+956c00	📢 Poste de {0} à pourvoir ({1}) : quelqu’un part à la retraite.
+b5fb67	📢 Poste de {0} à pourvoir ({1}) : quelqu’un a été licencié.
+d7fbcb	📢 Poste de {0} à pourvoir ({1}) : quelqu’un a démissionné.
+233972	Tu as déjà postulé.
+9f69b8	Pour ce poste, il te faut : {0}.
+15c3eb	🎉 Tu es promu : {0}. Ton salaire passe à {1} par an.
+4cd1d1	Le poste de {0} revient à {1}, ton rival. C’est désormais ton chef.
+099a0f	Le poste de {0} revient à quelqu’un d’autre.
+83f5d2	Le poste de {0} est pourvu par un candidat externe.
+93ca0a	📨 {0} te propose un poste de {1} avec {2} % de salaire en plus.
+a4531b	{0} te propose un poste de {1} avec {2} % de salaire en plus.
+7f73dc	Tu acceptes. Tu commences chez {0} comme {1}, pour {2} par an.
+e36383	Ton chef n’aime pas la pression. Pas d’augmentation, et la relation se refroidit.
+eb05a6	Ton chef ne veut pas te perdre : il t’augmente de {0} %.
+6d4e8b	Tu as demandé une augmentation récemment : attends un an.
+94c1d4	Ton chef accepte : ton salaire augmente de {0} %.
+848773	Ton chef dit non pour l’instant.
+cc38c7	Tu commences : {0}. Durée {1} mois, coût {2}.
+5cc68c	Il ne te reste plus de jours de congé cette année.
+0421de	Tu prends {0} jours de congés payés. Tu reviens reposé.
+63f5a6	Tu prends {0} jours sans solde (un emploi informel n’a pas de congés payés).
+15bec4	Tu quittes le syndicat.
+faa5df	Tu adhères au syndicat. La cotisation est de 1 % de ton salaire.
+2484e8	Tu déjeunes avec {0}, qui te raconte tous les potins.
+629a4e	Tu déjeunes avec {0}. Vous vous entendez mieux.
+7e316d	Tu déjeunes avec {0}, qui te partage des astuces du métier.
+387c03	Tu as déjà une offre sur la table.
+db66b9	Tu envoies des candidatures, mais personne ne rappelle pour l’instant.
+88b9bf	🎄 Prime de fin d’année : tu reçois {0} ({1} jours de salaire, selon la loi).
+c68240	🎄 Mois supplémentaires légaux : tu reçois {0} ({1} jours de salaire par an).
+0b6904	🤝 Le syndicat signe la convention collective : augmentation générale de {0} %.
+e0d6ff	Échange de service
+b6ccc3	{0} t’arrête dans le couloir : « Tu peux me remplacer samedi ? J’ai un engagement familial que je ne peux pas déplacer ».
+0f1170	Tu perds ton samedi, mais il t’en est vraiment reconnaissant. Il te doit un service.
+574d5a	Le remplacer
+2122b9	Refuser gentiment
+991339	Il comprend, même si sa déception se voit.
+3d5ff0	Accepter s’il te remplace un jour plus tard
+518a03	Il trouve que tu fais payer le service et repart vexé.
+af570f	Marché conclu : vous échangez vos jours et tout le monde est content.
+db2a1e	Rumeurs de licenciements
+0ebecc	Le bruit court que {0} va réduire ses effectifs. {1}, ton chef, est plus sérieux que d’habitude.
+0aac23	Proposer de faire des heures sup
+6753ba	Ton chef note ta disponibilité. Tu travailleras plus, mais on te voit comme indispensable.
+0ce6ae	Demander à ton chef où tu en es
+3be889	Il esquive la question. Tu restes dans le doute, encore plus stressé.
+f99eb2	Il te confirme que ton poste n’est pas menacé. Tu respires.
+42e9d9	Postuler ailleurs, au cas où
+77c735	Tu mets ton CV à jour et envoies des candidatures.
+f32c32	Traitement humiliant
+f2ee92	En pleine réunion, {0} se moque de ton travail devant tout le monde. Ce n’est pas la première fois.
+959bb5	Tu ravales ta colère. Le stress s’accumule.
+5fd72c	Parler à ton chef en privé
+990b9d	Tu lui dis calmement que ce n’est pas correct. Il s’excuse à moitié, mais ça ne se reproduit plus.
+e6eb06	Il se braque et te dit que tu ne supportes rien.
+c71486	Faute de preuves suffisantes, le signalement n’aboutit pas et ton chef l’apprend.
+dab6cc	Les RH ouvrent une enquête et il reçoit un rappel à l’ordre. Tes collègues te respectent davantage.
+f71b65	Le signaler aux RH avec des preuves
+408e05	Il n’y a pas de syndicat dans ton travail
+870300	Le délégué syndical parle à l’entreprise. Le traitement s’améliore.
+cc15f4	Aller voir le syndicat
+08283d	Ragots au bureau
+b24f2e	{0} te raconte que quelqu’un dit que tu vas quitter l’entreprise. Plusieurs y croient déjà.
+3fdebb	Démentir devant tout le monde
+58bd81	On voit que ça t’a touché, et la rumeur enfle.
+995b0c	Tu clarifies avec humour et la rumeur s’éteint.
+d2fc17	En quelques semaines, plus personne ne s’en souvient.
+526b90	Tu découvres que c’est quelqu’un du service d’à côté. Tu lui fais comprendre que tu sais.
+676f17	Tu poses trop de questions et c’est toi qu’on commente maintenant.
+9075a6	Découvrir qui l’a lancée
+a40673	Projet urgent
+0f0f7f	{0} t’appelle dans son bureau : « On a un projet urgent pour vendredi et je veux que tu le mènes ».
+1cf670	Accepter
+d6ce4f	Tu travailles tard toute la semaine, mais tu livres à temps. Ton chef est impressionné.
+21751c	Personne n’est disponible. Tu t’en sors seul, à marche forcée.
+7d2d82	On t’attribue quelqu’un de l’équipe. Ça se passe bien, sans trop de nuits blanches.
+e3601f	Accepter si on te donne du renfort
+054357	Refuser avec des arguments
+564838	Ça lui paraît être une excuse.
+c19c2f	Tu expliques que tu ne pourrais pas le faire bien en ce moment. Il comprend et le confie à quelqu’un d’autre.
+7fd8ed	Tu n’as pas d’emploi ordinaire. Trouves-en un dans Carrière → Emplois.
+7bc0ce	Prochaine évaluation dans {0} mois.
+c84cc5	Prochaine évaluation dans 1 mois.
+28ab8f	Moins de stress, mais tes performances baissent et ton chef le remarque.
+4648d2	Plus de performance et plus de stress. Dans ton cas, les heures sup sont payées sans majoration.
+7105a6	Plus de performance et plus de stress. Les heures sup sont payées {0}× l’heure normale.
+96710b	Tu fais tes heures sans t’user plus que nécessaire.
+2708e1	Clôture dans 1 mois.
+6f1419	Clôture dans {0} mois.
+beacbe	Probabilité d’obtenir le poste : {0} %.
+aa7d56	expire dans 1 mois
+472b97	expire dans {0} mois
+2062de	attends un an
+0c5269	sans solde (emploi informel)
+4520af	plus de jours cette année
+a31a5d	🏖️ Prendre une semaine de congé
+df46d5	il te reste {0} jours payés
+51d050	tu n’as pas assez d’argent
+7729ce	💼 Certification
+e0c6cb	nécessaire pour être promu : {0}
+e10e5b	+6 de performance
+2984dc	✊ Adhérer au syndicat
+7f7034	tu paies 1 % de ton salaire
+cf7925	✊ Quitter le syndicat
+fd31ac	cotisation de 1 % de ton salaire
+bd950e	{0} heures par semaine
+f7ba87	payées {0}× l’heure normale
+173daa	{0} jours de salaire
+dcd595	{0} jours la première année
+e312e9	{0} jours par an (mois supplémentaires)
+ed2304	{0} jours la première année (augmentent avec l’ancienneté)
+f9f0f9	pas obligatoire
+31ea26	pas obligatoire
+c4b6f6	formel, avec sécurité sociale
+d3af34	{0} % des travailleurs
+dde865	{0} jours plus {1} par année travaillée
+e29e4f	environ {0} %
+529ced	Comme ton emploi est formel, tu as droit à ce que prévoit la loi : congés payés, prime de fin d’année et indemnités en cas de licenciement sans motif.
+682191	Un emploi informel n’a pas de contrat : tu ne cotises pas, tu n’as ni congés payés ni prime de fin d’année, et si tu es licencié tu ne touches aucune indemnité.
+50a988	Tu refuses l’offre.
+286141	💼 Ton emploi
+9e7b7b	Tu as perdu ton emploi. Trouves-en un autre dans Carrière → Emplois.
+63488f	📋 Évaluation
+9d2db4	L’horloge s’est arrêtée : consulte ton évaluation dans 💼 Ton emploi.
+a70d60	📨 Offre d’emploi
+bff4ac	L’horloge s’est arrêtée : tu as une offre d’emploi.
+ccce29	L’horloge s’est arrêtée : un poste s’est libéré dans ton travail.
+7d9ab7	Chaque mois, ta performance tend vers {0}. Ce qui compte :
+97296d	📢 Poste à pourvoir : {0}
+cfa60f	📨 Offre de {0}
+16b88b	{0} avec {1} % de salaire en plus
+e52c6f	🎓 Tu as déjà : {0}.
+fa120d	🎓 {0} : encore {1}.
+4be2f6	Relation {0}/100
+8d3e18	relation {0}/100
+4fc176	performance {0}
+b5761e	Lois et conditions : {0} (approximatives, 2025–2026).
+3d81af	augmentation {0} %
+502e4f	{0}–aujourd’hui
+b35e9d	{0} sur 2
+1423bf	✋ Postuler
+e9d1a1	T’en servir pour négocier
+20dc80	💰 Demander une augmentation
+353edb	une fois par an
+863a31	🔎 Chercher un autre emploi
+5bea79	tu postules dans d’autres entreprises
+518bda	Passer du temps ensemble améliore la relation et baisse ton stress. Ton rival te dispute les promotions.
+2aece1	⚔️ rival
+50d80e	🍽️ Déjeuner ensemble
+ee5221	sans majoration obligatoire
+1706b4	informel, sans avantages
+a03b21	Salaire dans cet emploi
+0cf8d9	Le graphique apparaît après deux ans dans cet emploi.
+7ae45a	🟡 Salaire (nominal)
+2729f1	🔵 Salaire réel (corrigé de l’inflation)
+fd1c92	Tu n’as encore aucune évaluation.
+a8acb5	Historique des emplois
+779c52	📢 poste libre
+119910	📨 offre
+1fc588	📢 Poste à pourvoir
+8d8938	📄 Licenciement
+d150e6	💼 Postuler
+16429c	💼 Demander une augmentation
+0dd6ea	💼 Congés
+6c2c95	💼 Syndicat
+883b4e	💼 Chercher un emploi
+4207cd	💼 Offre
+98cdac	💼 Passer du temps ensemble
+94ca96	Mairie de {0}
+66ac7f	Bureau régional de {0}
+fa33b4	Mairie d’arrondissement {0}
+231b63	Police municipale de {0}
+d350d6	Police régionale de {0}
+134845	École primaire {0}
+ebc6e8	Collège technique de {0}
+f428af	Hôpital général de {0}
+c8f710	Centre médical {0}
+77c56e	Postuler
+98bdfa	Syndicat
+db5a60	Chercher un emploi
+70285d	Offre
+69bde7	💼 Emplois ordinaires
+756e3b	Emplois ordinaires
+f9876f	pas obligatoires (ton entreprise accorde {0} jours par an)

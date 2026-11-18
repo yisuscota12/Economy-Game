@@ -1,0 +1,97 @@
+533c62	▶️ Automatischer Zeitablauf
+0de1d9	Tempo ×1: ein Tag pro Sekunde.
+3463ad	Tempo ×2: zwei Tage pro Sekunde.
+8d252b	Tempo ×5: fünf Tage pro Sekunde.
+6d40c0	Er pausiert von selbst bei Dialogen, Ereignissen und Entscheidungen.
+bba2b1	Automatischer Zeitablauf: tippen zum Starten oder Pausieren
+aad27c	Tempo des automatischen Zeitablaufs
+27e687	💱 Anzeigewährung
+e1642f	Anzeigewährung
+69f39b	💱 Anzeigewährung
+512a66	Es ändert nur die Anzeige der Beträge: Deine Ersparnisse, Löhne und Preise bleiben in der Währung deines Landes.
+93f518	Mit einer gewählten Währung werden auch BIP, Staatskasse und die übrigen nationalen Zahlen darin angezeigt, zum Tageskurs.
+37ccf4	Währung deines Landes
+36093d	Währung deines Landes
+674f2a	Dein Geld in {0}, die nationalen Zahlen in Dollar.
+80ae53	Dollar für alles
+62edc2	Dein Geld und die nationalen Zahlen in US-Dollar.
+3df1a8	Am häufigsten genutzt
+bb9357	Alle Währungen
+2c67af	1 Dollar = {0}
+6dd715	Dein Geld: {0}
+b3b76d	dein Geld: {0}
+d2dc9d	Tippe, um jede beliebige Währung zu wählen, egal in welchem Land du bist.
+cad927	Tippen, um die Währung zu wechseln
+5bbd41	✏️ Umbenennen
+c963c0	Umbenennen
+4d0671	Länder, Unternehmen, Banken, Vereine, Organisationen und Ministerien
+ebebd3	Ändere den Namen von Ländern, Unternehmen, Banken, Vereinen, Organisationen und Ministerien.
+beba20	Geänderte Namen werden nicht übersetzt: Sie erscheinen genau so, wie du sie schreibst.
+86b3a8	In dieser Partie geänderte Namen: {0}
+d172ae	🌎 Länder
+760c85	Länder
+04acfe	🏛️ Ministerien
+1451e6	Ministerien
+12b37c	🏪 Deine Unternehmen
+ee64e3	Deine Unternehmen
+63e67b	🏦 Banken
+d55063	Banken
+4d1f43	Deine Bank
+7c86cc	Dein Land
+772c18	Börsennotiert
+44567c	📈 Börsenunternehmen
+0b5899	Börsenunternehmen
+df93f2	⚽ Fußballvereine
+09d2a9	Fußballvereine
+501036	🏆 Fußballligen
+9a3b79	Fußballligen
+ccad2e	🥊 Kampfsportverbände und -ligen
+f02874	Kampfsportverbände und -ligen
+a0ca6e	🎟️ Box- und MMA-Promoter
+70529f	Box- und MMA-Promoter
+1f5cc2	🎬 Unterhaltungsfirmen
+0a6e38	Unterhaltungsfirmen
+d2600a	Ursprünglicher Name: {0}
+6af0b6	Neuer Name
+051b44	Suchen…
+8fb8b1	{0} von {1} angezeigt. Tippe, um zu suchen.
+e68491	↺ Wiederherstellen
+c45f35	↺ Wiederhergestellt
+091008	✏️ Umbenannt
+82d4e4	Ändern
+c6f4e6	💬 Offene Gespräche
+6e8ccc	Offene Gespräche
+174073	💬 Offenes Gespräch
+6729e7	Tippe auf 💬 neben der Uhr, wann immer du dich darum kümmern willst.
+8da594	Gespräche, die warten können, halten die Uhr nicht mehr an: Kümmere dich darum, wann du willst.
+ffb574	Wenn ihre Frist abläuft, erscheinen sie von selbst.
+c5a26a	Wenn du sie ignorierst, nimmt die Person es dir übel.
+91ced0	Du hast keine offenen Gespräche.
+26a968	Läuft morgen ab
+f43bbb	Läuft in {0} Tagen ab
+37ef49	Die Lage hat sich geändert: Dieses Gespräch ist hinfällig.
+51e58f	⏳ Später
+ae417e	🚫 Ignorieren (wird dir übelgenommen)
+486165	Dieses Gespräch hat seine Frist erreicht: Es kann nicht länger warten.
+4043c3	💬 Du hast dich nicht rechtzeitig um {0} gekümmert, was übel genommen wurde.
+e98330	💬 Du hast ein Gespräch verstreichen lassen: „{0}“. Die Gelegenheit ist vorbei.
+3b040f	du hast nicht geantwortet
+4ac72b	💬 Gespräche, die warten können: in den Posteingang
+9d328d	💬 Gespräche, die warten können: halten die Uhr an
+214689	Familie, Freunde, Arbeit, Geschäfte und Ruhm warten bis zu 30 Tage in 💬.
+bdf4c4	Dringendes hält die Uhr weiterhin an.
+2538da	Alle Gespräche halten die Uhr an, sobald sie erscheinen (wie vor v1.8a).
+9e88a6	Dein Sozialleben
+d87ac3	👥 Dein Sozialleben
+cbd79b	Enge Beziehungen: {0}/100.
+fd2876	Du hast niemanden, der dir nahesteht.
+e0ecaf	Groll: {0}.
+b0b7bc	Deine Stimmung steigt um {0} pro Monat (gutes Sozialleben).
+70839b	Deine Stimmung steigt um {0} pro Monat (stabiles Sozialleben).
+48e30b	Deine Stimmung sinkt um {0} pro Monat (stabiles Sozialleben).
+79ad2f	Deine Stimmung sinkt um {0} pro Monat (angespanntes Sozialleben).
+12737c	Dein Sozialleben ändert deine Stimmung diesen Monat nicht.
+cfa6fe	⏩ Zeitablauf, Währung, Namen und Gespräche
+e7a44f	Sierra-leonischer Leone
+1feceb	ZiG (Simbabwe-Gold)
+78d953	erinnert sich: „{0}“

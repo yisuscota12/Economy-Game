@@ -1,0 +1,197 @@
+c627fc	Salute dell'economia
+be67ec	Imprese
+d55063	Banche
+847b37	Governo
+583f1c	Mondo
+f20262	Rischio
+bef920	Ogni indicatore va da 0 a 100 e mostra cosa lo fa salire e cosa lo fa scendere.
+e80e50	Tocca un indicatore per vederne le cause.
+b3c287	Non hai ancora imprese. Aprile da 🏪 Le mie imprese: qui vedrai la loro salute.
+833d4b	Settori diversi
+a2b510	Settore più debole
+eac819	Le tue imprese dipendono da pochi settori: se uno cade, cadono insieme.
+e29b75	Diversificare in altri rami distribuisce il rischio.
+ae22f1	Finanziaria: margine, reputazione, crescita e debito (la stessa che usano gli acquirenti).
+9b729e	Sociale: stipendi, carico di lavoro, reputazione, perdite, il suo settore e la sua provincia.
+b1a4a9	Sotto 30 c'è malcontento e la reputazione scende ogni mese.
+6b1098	Salute finanziaria
+42ad83	Salute sociale
+c16a01	Margine di profitto
+56ba2a	Reputazione
+04161f	Crescita delle vendite
+fe1343	Debito rispetto alle vendite
+5908a8	Stipendi rispetto al mercato
+8fb0ac	Carico di lavoro
+57396c	Perdite che minacciano posti di lavoro
+6d5a5a	Salute del suo settore
+0b5c1a	Domanda della provincia
+3c6663	Salute delle sue imprese
+cab686	Diversificazione
+b6aa21	Indebitamento
+12a447	Direttore
+d01aa6	Ripresa naturale
+bc3174	Regolamentazione
+e770f6	Recessione
+ac8b72	Rialzo dei tassi
+181407	Stabilità politica
+99a07b	Programma di austerità
+a6275b	Capitale rispetto ai prestiti
+4a069d	Costo del debito rispetto alla crescita
+ee29ef	Tesoro
+37c1e3	Riserve internazionali
+e03871	Inflazione
+824c69	Programma del FMI
+b82b50	Guerra
+eb3bfb	Approvazione del governo
+a42fbe	Felicità della popolazione
+45edda	Crescita mondiale
+3a99c4	Paesi in crisi bancaria
+f1ab57	Paesi in recessione
+2091ec	Prezzo del petrolio
+8dddb5	Banche deboli
+bdd0f8	Crisi bancaria in atto
+b75288	Settori fragili
+100dc0	Economia concentrata
+bc6c8f	Contagio dai vicini
+a16c6a	Entrate rispetto alle spese
+29ce23	Cassa
+6a04c7	Umore dei tifosi
+3090ad	Debito pubblico
+53ba43	Debito pubblico alto
+1282f9	Riserve che attutiscono
+4ce7b0	Famiglie in difficoltà
+24ffb7	Programmi del FMI attivi
+3cfdcc	Critica
+b44405	Fragile
+e9c0f4	Stabile
+35bf06	Sana
+bb90d1	Basso
+fd0855	Moderato
+f46edd	Alto
+86df48	Molto alto
+a822ef	Tutto al suo livello normale.
+07316f	mesi di spese
+296312	Banche di {0}
+54dd5c	Crisi bancaria in corso
+2fde65	Rischio di crisi bancaria quest'anno: {0}
+c88199	Cosa la muove quest'anno (punti all'anno):
+98bce2	Le banche prestano i soldi dei risparmiatori a imprese e famiglie.
+6aab89	Se i loro debitori smettono di pagare, perdono capitale.
+0bd708	Con poco capitale, un'ondata di insolvenze diventa crisi e il credito si congela.
+100cc9	I tuoi conti
+8b0fcd	Saldo
+7b221e	Se una banca fallisce, la garanzia dei depositi del tuo paese ti rimborsa fino a un tetto per banca: dividere i risparmi tra più banche ti protegge di più.
+4d1f43	La tua banca
+90753c	Capitale rispetto ai prestiti: {0} %
+5b467c	Depositi
+a28712	Le regole internazionali di Basilea III chiedono alle banche un capitale di alta qualità di almeno il 7 % dei loro attivi ponderati per il rischio.
+6d5585	Nel gioco, il 20 % di capitale rispetto ai prestiti equivale a salute 100.
+852e14	{0} % del PIL
+ac0e8f	Tasso dei titoli di Stato
+5bf106	Approvazione
+78f460	Salute fiscale
+d60f47	Un governo sano paga il suo debito senza affogare: poco debito, tassi sotto la sua crescita e riserve per le emergenze.
+0d6a06	Se la salute fiscale scende sotto 35, i dipendenti pubblici restano senza aumenti.
+193b1c	Sotto 15 ci sono tagli di posti.
+a0f2d9	La salute sociale unisce approvazione, stabilità, felicità, consumi e inflazione.
+3bfeab	Scende con guerre, recessioni e austerità, e una società in difficoltà consuma meno.
+fcc28f	FMI e sistema finanziario mondiale
+6ad6fc	Sistema finanziario mondiale
+bb31d7	Programmi del FMI
+273d37	Il FMI presta ai paesi in crisi in cambio di un programma di aggiustamento.
+f0aaaa	La Banca mondiale finanzia progetti di sviluppo.
+8a1b71	Quando molte economie cadono insieme, il contagio si alimenta da solo.
+fd103d	Banca mondiale
+e2386f	Paesi con progetti della Banca mondiale: {0}.
+21dfbe	Le tue organizzazioni
+a1868f	Quando avrai una banca, un club o una palestra tuoi, la loro salute comparirà qui.
+ac3b03	Il tuo club
+12ae18	La tua palestra
+02639e	La tua società di promozione
+105504	Rischio sistemico
+064aa8	Rischio sistemico di {0}
+a1f2a5	Il rischio sistemico è la probabilità che la caduta di una parte trascini tutto il sistema.
+26e90d	Qui 0 è tranquillo e 100 è una crisi sul punto di scoppiare.
+773e69	Catena del contagio
+db530e	Il cliente più debole delle banche
+8aad51	Se {0} continua a scendere, i suoi debiti non pagati colpiscono le banche.
+8665aa	Con meno credito, le famiglie consumano meno e questo colpisce tutti i settori: è così che si propaga una crisi.
+88e038	Vicini in crisi
+f845e6	Nessun vicino è in crisi bancaria né in recessione.
+6a5d23	Quando scoppia una crisi bancaria, le banche dei paesi vicini subiscono un colpo proporzionale alla dimensione di quell'economia.
+cd67b0	Se è un'economia molto grande, lo sente tutto il mondo.
+fd0200	Paesi più a rischio
+99ff29	Salute dell'impresa
+77fb83	Salute di tutte le tue imprese
+ecd4cd	Salute delle tue imprese
+d9b22f	Salute e rischio
+ee9446	Imprese, banche, governo, organizzazioni e rischio di contagio
+cbc3a1	Il tuo datore di lavoro: lo Stato
+b2fc1a	salute fiscale
+2783a0	Il tuo settore
+0c6be4	Rischio di tagli: {0} % all'anno
+bd4e96	Nessun rischio di tagli per ora
+678483	Aumenti congelati finché resta sotto 35.
+bccfc6	Buon momento: ogni valutazione aggiunge fino al {0} % in più.
+841404	Aumenti normali.
+b5d240	In pensione
+d40fe7	In pensione
+635017	Lavora per lo Stato
+040572	Lavora nel settore {0}
+1872e6	Cerca lavoro
+deeb2b	Cerca lavoro da 1 mese
+46f7dd	Cerca lavoro da {0} mesi
+951e84	Aiutare con dei soldi ({0})
+d81819	+Rapporto, mentre cerca lavoro
+7cf003	Dai {0} a {1} mentre cerca lavoro.
+48cd53	Rischio sistemico per paese
+ee24bf	alto
+98973d	basso
+c121f9	🏭 Il settore di una delle tue imprese è debole: diversifica in un altro ramo e controlla la sua salute in 🩺.
+50bad6	Qui vedi quanto sono sane le tue imprese, le banche, il governo e il mondo. Se un settore cade, trascina i suoi fornitori, le banche che gli hanno prestato e chi ci lavora: è così che si propaga una crisi.
+74ec80	Il 15 settembre 2008 fallì la banca d'investimento Lehman Brothers. Nel 2009 l'economia mondiale si contrasse per la prima volta dalla Seconda guerra mondiale.
+4f2eb0	Fondo monetario internazionale
+4cbdf7	Nella crisi del 1994–1995 («effetto tequila») il PIL del Messico calò di circa il 6 % nel 1995, e la crisi si propagò ad altri mercati dell'America Latina.
+79d6fc	INEGI; Banca mondiale
+04ae42	La crisi asiatica iniziò il 2 luglio 1997, quando la Thailandia lasciò fluttuare la sua moneta. Si propagò a Indonesia, Corea del Sud e Malesia, e il PIL dell'Indonesia calò di oltre il 13 % nel 1998.
+d7ae94	Dopo la crisi del 2008, la disoccupazione negli Stati Uniti raggiunse il 10 % nell'ottobre 2009.
+c8c13f	Ufficio di statistica del lavoro degli Stati Uniti
+55a2d3	Le regole di Basilea III chiedono alle banche un capitale di alta qualità di almeno il 7 % dei loro attivi ponderati per il rischio (4,5 % minimo più 2,5 % di cuscinetto).
+fb747d	Banca dei regolamenti internazionali
+668c82	Negli Stati Uniti la garanzia dei depositi copre fino a 250.000 dollari a persona in ogni banca. In Messico l'IPAB copre fino a 400.000 UDIS.
+22be78	FDIC; IPAB
+8d4ec0	Una banca è «sistemica» quando il suo fallimento trascinerebbe tutto il sistema finanziario. Per questo alle più grandi del mondo si chiede più capitale.
+a8c2e4	Consiglio per la stabilità finanziaria
+549599	Contagio finanziario
+ee35bc	Salvataggio bancario
+d60368	Solvibilità
+4828c7	Liquidità
+3a4bbf	Requisito patrimoniale
+4ff337	Disoccupazione
+65b36c	Il rischio che la caduta di un'impresa, una banca o un settore trascini tutto il sistema economico, perché sono tutti collegati da crediti, vendite e posti di lavoro.
+467500	Quando la crisi di un paese, una banca o un settore si trasmette ad altri: per debiti non pagati, panico degli investitori o meno commercio.
+288d08	Quando il governo (o il FMI) mette soldi per salvare banche in difficoltà ed evitare che il credito si congeli. Pagano i contribuenti.
+98807d	Capacità di pagare tutti i tuoi debiti con ciò che possiedi. Un'impresa o una banca è insolvente quando deve più di quanto vale.
+fbaa3c	Denaro disponibile per pagare subito. Un'impresa può essere redditizia e fallire lo stesso se resta senza contanti per pagare stipendi e fornitori.
+01763d	Parte dei suoi attivi che una banca deve avere con denaro proprio (non preso in prestito) per assorbire perdite senza fallire.
+c77844	Persone che vogliono lavorare e cercano lavoro ma non lo hanno. Sale quando i settori in cui lavorano entrano in crisi.
+346242	Salute dell'economia e contagio
+bf63fc	🌐 Contagio: la crisi bancaria in {0} colpisce le banche di {1}.
+7d2019	Contagio mondiale: la crisi bancaria in {0} colpisce le banche di tutto il mondo.
+829b26	🏛️ {0} perde il lavoro presso lo Stato: la salute fiscale è a {1}/100.
+3de1d0	📉 {0} perde il lavoro nel settore {1}: il settore è a {2}/100.
+6b921c	📈 {0} riceve un aumento: lo Stato se lo può permettere (salute fiscale {1}/100).
+684779	📈 {0} riceve un aumento: il settore {1} va bene ({2}/100).
+e2a88b	💼 {0} trova lavoro presso lo Stato dopo 1 mese.
+068e68	💼 {0} trova lavoro presso lo Stato dopo {1} mesi.
+a1fcf1	💼 {0} trova lavoro nel settore {1} dopo 1 mese.
+d17698	💼 {0} trova lavoro nel settore {1} dopo {2} mesi.
+cffffe	📉 Lo Stato taglia posti: la sua salute fiscale è a {0}/100.
+d1bded	📉 {0} taglia il personale: {1} è a {2}/100.
+a2e72c	⏸️ Lo Stato congela gli stipendi pubblici: la sua salute fiscale è a {0}/100 e il tuo aumento del {1} % viene annullato.
+572d28	⏸️ {0} congela gli aumenti: {1} è a {2}/100 e il tuo aumento del {3} % viene annullato.
+b57143	📈 La buona salute fiscale dello Stato ({0}/100) aggiunge il {1} % al tuo stipendio.
+56b32e	📈 Il buon momento del settore {0} ({1}/100) aggiunge il {2} % al tuo stipendio.
+2d4e49	😠 Malcontento in {0}: stipendi bassi o troppo lavoro danneggiano la sua reputazione.
+aa957c	Tocca qualcuno per interagire (una volta all'anno per persona).
+f3f8bb	Le relazioni forti aprono favori, prestiti e lavori, e i rivali possono sabotarti.

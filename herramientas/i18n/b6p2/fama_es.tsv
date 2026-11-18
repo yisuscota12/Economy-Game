@@ -1,0 +1,1402 @@
+f4b7be	D	Acciones$
+b280e5	D	Carrera$
+fb6c7e	D	Nación$
+c22a85	D	Más$
+a95033	D	Personaje$
+c65b63	D	País$
+b5f4ab	D	Salud$
+5bf3eb	D	Felicidad$
+83970e	D	Inteligencia$
+c15805	D	Apariencia$
+19bc1f	D	Influencia$
+264c8e	D	Deudas$
+21ada1	D	Resumen$
+736d30	D	Ejército$
+147f3d	D	Diplomacia$
+62c13f	D	Guerra$
+f9bedb	D	Ranking$
+0c694c	D	Gabinete$
+a15683	D	Mercados$
+18e577	D	Cartera$
+9339fe	D	Comprar$
+87c0f9	D	Vender$
+778eac	D	Corto$
+52a20c	D	Recomprar (cerrar corto)
+d3401f	D	Límite$
+90b4f1	D	Stop$
+b272b5	D	Orden stop (stop loss)
+21f2b6	D	Precio/utilidad
+b7a231	D	Precio/utilidad (P/U o P/E)
+f03b60	D	Beta
+da623a	D	Ganancia$
+7411ea	D	Salida a bolsa (OPI)
+ec6093	D	Fondos indexados (ETF)
+e5aabf	D	Materias$
+d79635	D	Bonos$
+0c6a2b	D	Divisas$
+6f5de5	D	Cuentas$
+98542b	D	Créditos$
+68b866	D	Fondos$
+1d2cb7	D	Finanzas$
+d63521	D	Demanda / capacidad
+2ae6bf	D	Pareja$
+bb5260	D	Padres$
+08ce1d	D	Nivel$
+ec22f0	D	Imagen$
+b6b3c7	D	Entrenador$
+566a7b	D	Agente$
+a02232	D	Contrato$
+80bc7a	D	Equipo$
+08cce6	D	Minimosca
+257c5c	D	Superpluma
+35e01c	D	Completo
+384722	D	Supermosca
+5e364c	D	Mediano
+8e5d22	D	Supergallo
+8eea6f	D	Superwélter
+9e5a34	D	Gallo
+b7d7ab	D	Ligero
+c06c74	D	Semicompleto
+c44aec	D	Superligero
+dec6ab	D	Supermediano
+e94a1d	D	Mosca
+eefa93	D	Wélter
+ffbe0d	D	Crucero
+09cf49	D	Semipesado
+2096e0	D	Paja
+d3b72d	D	Pesado
+4679e1	D	Fajador
+612631	D	Presiona sin descanso, corta el ring y trabaja el cuerpo en corto. Necesita mucha resistencia y buena quijada.
+634c4c	D	Estilista
+dab00f	D	Boxea a distancia con el jab y las piernas; acumula puntos y evita el castigo.
+81cb7e	D	Contragolpeador
+cb0172	D	Espera el error del rival y responde con precisión. Lee muy bien la pelea.
+5ad5be	D	Pegador
+aacf88	D	Busca el nocaut con golpes de poder. Peligroso en cualquier round, aunque se cansa.
+1b3b3d	D	Boxeador-pegador
+56d916	D	Combina técnica y poder: puede boxear a distancia o pelear en corto.
+051e5f	D	Pelea de pie con boxeo y patadas; evita el suelo.
+d5b251	D	Striker
+2a065d	D	Luchador
+5a9d29	D	Lucha olímpica: derriba, controla contra la reja y castiga en el suelo.
+5ca1ee	D	Jiu-jitsu brasileño: lleva la pelea al suelo para buscar sumisiones.
+6cb52b	D	Grappler
+7b8abf	D	Muay thai
+b8ea42	D	Codos, rodillas, patadas bajas y clinch: castigo constante de pie.
+40aec7	D	Sambista
+885d46	D	Sambo: derribos, control y llaves de pierna; muy duro físicamente.
+cc9423	D	Todoterreno
+cfc485	D	Completo en todas las áreas: se adapta al rival.
+1785f1	D	Boxear a distancia
+1f2ad6	D	Presión constante
+54e761	D	Contragolpear
+091f0d	D	Equilibrado
+31eb96	D	Cuidarte y sobrevivir
+c61355	D	Buscar el nocaut
+655734	D	Buscar la sumisión
+7ba319	D	Pelear de pie
+d86677	D	Derribar y controlar
+eb291e	D	Desgastar contra la reja
+5b63f5	D	Boxea, no te enganches
+628c06	D	Sigue el plan
+71b0ec	D	¡Ve por el nocaut!
+ac8bcf	D	Cuídate: sobrevive el round
+bbb2b5	D	Sube la presión
+bef1c0	D	Espera y contragolpea
+25307f	D	Busca la sumisión
+33f667	D	Mantente de pie
+771140	D	Derríbalo
+138bb6	D	Asociación Global de Boxeo
+2e10cb	D	Organización Mundial del Ring
+8e69fb	D	Consejo Mundial de Pugilismo
+cf0c70	D	Federación Internacional de Pugilismo
+9e1351	D	Circuito regional
+20ed06	D	Tigre Asiático Promotions
+90f271	D	Promociones del Pacífico
+08bc81	D	Tokio
+1c0e14	D	Domo del Golfo
+5435e6	D	Riad
+7f2369	D	Arena Bahía
+8aa2ff	D	Súper Arena
+94050f	D	Las Vegas
+971880	D	Coliseo del Desierto
+9dbdcd	D	Manila
+afbe2d	D	Londres
+bdc033	D	Arena Támesis
+0dbe5e	D	Campeonato mundial amateur
+5a5c44	D	Campeonato nacional amateur
+97f33c	D	Torneo Guantes de Plata (local)
+b43b0c	D	Campeonato continental
+3c2c65	D	Torneo amateur de MMA (local)
+5d5169	D	Campeonato nacional amateur de MMA
+61a939	D	Campeonato mundial amateur de MMA
+e72257	D	Abierto de jiu-jitsu
+025f7f	D	La Cobra
+194360	D	El Bombardero
+2cf2ff	D	El Rayo
+2ebf99	D	El Demoledor
+308787	D	El Halcón
+5147ac	D	El Profesor
+614292	D	El Lobo
+757a4c	D	El Tanque
+76b4b5	D	El Terremoto
+8de424	D	El Martillo
+a6305e	D	El Fantasma
+a9e28e	D	El Tigre
+b64e13	D	El Matador
+b9c0e8	D	El Ciclón
+d40055	D	El Zurdo
+d49a90	D	El Relámpago
+e7b882	D	El Huracán
+fa08a3	D	El Gladiador
+fb02c0	D	El Toro
+02987d	D	El Chacal
+14b5fb	D	El Pitbull
+1f1c59	D	El Escorpión
+283eb5	D	El Vikingo
+2d53f6	D	El Diamante
+303157	D	El Puma
+3f4443	D	El Oso
+56fbb4	D	El Cóndor
+62da7e	D	El Asesino Silencioso
+6c77e6	D	La Máquina
+875813	D	El Chamaco
+b11825	D	El Látigo
+b35696	D	El Guerrero
+b890cc	D	El Monstruo
+bcf6d9	D	El Jaguar
+bfc2f6	D	La Roca
+d84910	D	El Samurái
+da5399	D	El Titán
+fd3f59	D	El Niño de Oro
+ff4425	D	El Maestro
+2ae813	D	La Víbora
+43a7ee	D	La Bala
+4cb145	D	La Princesa Guerrera
+6a170c	D	La Leona
+7077f5	D	La Imparable
+7f8e34	D	La Fiera
+ad5614	D	La Jaguar
+b559a7	D	La Tormenta
+c8d996	D	La Gata
+cbb257	D	La Centella
+dd169f	D	La Pantera
+eb9174	D	La Dama de Hierro
+fa9c06	D	La Reina
+408f45	D	{a} controla la distancia con el jab.
+cf2cef	D	{a} trabaja el jab y mantiene lejos a {b}.
+dd17a0	D	El jab de {a} marca el ritmo del round.
+36d8fc	D	{a} castiga el cuerpo con ganchos al hígado.
+44f84d	D	{a} suelta una combinación de cuatro golpes que entra completa.
+5d6640	D	{a} conecta un recto de derecha limpio.
+c5c4ea	D	Gancho de izquierda de {a} que sacude a {b}.
+f37a62	D	Uppercut de {a} en la corta distancia.
+9b1221	D	{a} acorrala a {b} contra las cuerdas.
+9cc539	D	{a} corta el ring y no deja respirar a {b}.
+bd0581	D	{a} esquiva con movimientos de cintura y hace fallar a {b}.
+fc8344	D	{b} no encuentra el blanco: {a} se mueve con inteligencia.
+07a949	D	{b} entra y {a} lo recibe con un contragolpe preciso.
+89a2e6	D	Round muy parejo, intercambios en el centro del ring.
+99f92a	D	{a} espera y contragolpea en cada intercambio.
+a93624	D	Round de estudio: mucho amago y poco contacto.
+a98b8f	D	{b} baja las manos: se nota el cansancio.
+e0b923	D	A {b} se le doblan las piernas: ¡está lastimado!
+e39360	D	{b} respira por la boca; el ritmo le está pasando factura.
+e87e91	D	{b} está tocado y se abraza para ganar tiempo.
+1996d4	D	un gancho al hígado
+308551	D	{b} sangra de la nariz tras los golpes de {a}.
+32a0b2	D	una derecha al mentón
+52f6a4	D	Choque de cabezas: se abre una cortada en {b}.
+7fbdeb	D	un gancho de izquierda
+88546f	D	un uppercut
+d7d7de	D	un volado de derecha
+ebba62	D	Se abre una cortada sobre la ceja de {b}.
+188411	D	{a} conecta un cruzado limpio.
+2dddbb	D	Rodillazo de {a} en el clinch.
+948ba0	D	Codazo de {a} en la corta distancia.
+977e0f	D	Patada a la cabeza de {a} que pasa rozando.
+9a99d7	D	{a} mantiene la distancia con el jab y patadas al cuerpo.
+b0a232	D	{a} conecta una combinación de boxeo y sale del rango.
+fa3091	D	Patada baja de {a} que castiga la pierna de {b}.
+053d76	D	{a} derriba a {b} en el clinch contra la reja.
+136440	D	{b} defiende el derribo contra la reja.
+304b27	D	{a} derriba a {b} con un derribo a dos piernas.
+788ba9	D	{a} levanta a {b} y lo azota contra la lona.
+e12397	D	{b} se suelta y vuelve a ponerse de pie.
+8ee586	D	{a} trabaja desde la media guardia con codos cortos.
+9b60ab	D	llave de brazo
+c2f10c	D	estrangulación de brazo
+dab3d5	D	{a} controla desde la montada y castiga con golpes en el suelo.
+fcfaf9	D	{b} escapa de un intento de {s} de {a}.
+154a9b	D	Se abre una cortada en la ceja de {b}.
+39d935	D	A {b} le pesan las piernas tras el castigo.
+3aeb7e	D	Choque de cabezas: cortada en {b}.
+441a98	D	Round de estudio: mucho movimiento y poco contacto.
+5ab5e6	D	{b} está tocado y busca el clinch.
+6092b7	D	un rodillazo
+7220c1	D	un recto de derecha
+7aad69	D	{b} se ve agotado: baja el ritmo.
+acd1ad	D	una patada a la cabeza
+cf8967	D	Intercambios parejos en el centro del octágono.
+20c487	D	empate técnico
+3597f3	D	decisión mayoritaria
+82e607	D	decisión técnica
+94cb33	D	nocaut técnico (la esquina detiene la pelea)
+c8e66f	D	nocaut técnico (el médico detiene la pelea por cortada)
+2ca931	D	Liga Premier inglesa
+882308	D	Primera División de España
+d3a074	D	Serie A italiana
+118dc8	D	Primeira Liga portuguesa
+6a07f1	D	Bundesliga alemana
+f5f524	D	Ligue 1 francesa
+fc71b5	D	Eredivisie neerlandesa
+145a3e	D	Liga Profesional saudí
+4148a5	D	Liga Profesional argentina
+c52938	D	Brasileirão
+05a9a6	D	Série B
+2c0998	D	Championship
+4be230	D	Segunda División
+dbc16a	D	Ligue 2
+16799b	D	Unión {c}
+410270	D	Racing de {c}
+5cd987	D	Gimnasia de {c}
+81da61	D	Independiente de {c}
+920e1a	D	Ciclón de {c}
+92612d	D	Estudiantes de {c}
+a366ae	D	Pumas de {c}
+b546ea	D	Tigres de {c}
+dd8427	D	Atlético {c}
+e1cf74	D	Rayados de {c}
+daecb6	D	Olympique de {c}
+34eef4	D	Botafogo de {c}
+41f3a0	D	Internacional de {c}
+a8e7d9	D	Vitória {c}
+5989c7	D	Al-Shabab {c}
+61c409	D	Al-Nasr {c}
+af1ad2	D	Al-Ittihad {c}
+b6c972	D	Al-Ahli {c}
+e886ce	D	Al-Hilal {c}
+004be1	D	CONCACAF (Norte, Centroamérica y Caribe)
+4f4dc4	D	OFC (Oceanía)
+6359ae	D	CAF (África)
+b9d97d	D	CONMEBOL (Sudamérica)
+f7ec68	D	Copa Africana de Naciones
+618676	D	Portero
+747e3e	D	Lateral
+7b0da3	D	Mediocampista defensivo
+e2c85b	D	Defensa central
+2b254a	D	Mediocampista
+5e4962	D	Delantero
+f6b719	D	Extremo
+0a2676	D	Suplente
+3a648e	D	Juvenil (fuerzas básicas)
+fb6a5f	D	Rotación
+053d79	D	Espérance de Túnez
+165f80	D	Al-Ahly El Cairo
+9cc64f	D	Al-Sadd Doha
+d18262	D	Londres,Mánchester,Liverpool,Birmingham,Leeds,Newcastle,Sheffield,Bristol,Nottingham,Leicester,Southampton,Brighton,Portsmouth,Norwich,Coventry,Derby,Stoke,Sunderland,Middlesbrough,Ipswich,Bournemouth,Wolverhampton,Burnley,Blackburn,Hull,Plymouth,Reading,Watford,Swansea,Cardiff,Preston,Oxford,Luton,
+af427f	D	Madrid,Barcelona,Valencia,Sevilla,Bilbao,San Sebastián,Villarreal,Vigo,Málaga,Zaragoza,Gijón,Oviedo,Pamplona,Valladolid,Palma,Las Palmas,Santander,La Coruña,Granada,Cádiz,Almería,Elche,Alicante,Getafe,Leganés,Huesca,Tenerife,Córdoba,Murcia,Burgos,Albacete,Vitoria,Girona,Castellón,Lugo,Salamanca,Méri
+2d9952	D	Milán,Roma,Turín,Nápoles,Florencia,Bérgamo,Bolonia,Génova,Verona,Udine,Bari,Palermo,Cagliari,Parma,Lecce,Empoli,Salerno,Cremona,Venecia,Monza,Sassuolo,Frosinone,Como,Pisa,Módena,Brescia,Perugia,Catania,Ascoli,Reggio,Spezia,Ferrara,Padua,Trieste,Livorno,Siena,Pescara,Ancona,Vicenza,Tarento
+4b5f94	D	Múnich,Dortmund,Berlín,Hamburgo,Colonia,Fráncfort,Stuttgart,Leipzig,Bremen,Gelsenkirchen,Mönchengladbach,Leverkusen,Wolfsburgo,Friburgo,Hannover,Núremberg,Maguncia,Augsburgo,Bochum,Heidenheim,Kaiserslautern,Düsseldorf,Karlsruhe,Sinsheim,Darmstadt,Kiel,Rostock,Magdeburgo,Paderborn,Bielefeld,Brunswick
+85f72e	D	París,Marsella,Lyon,Lille,Mónaco,Niza,Rennes,Lens,Nantes,Burdeos,Toulouse,Montpellier,Estrasburgo,Reims,Brest,Saint-Étienne,Lorient,Metz,Le Havre,Auxerre,Angers,Caen,Grenoble,Bastia,Ajaccio,Guingamp,Amiens,Dijon,Troyes,Clermont,Nancy,Sochaux,Laval,Rodez,Annecy,Pau
+83ae3e	D	Lisboa,Oporto,Braga,Guimarães,Coímbra,Funchal,Faro,Aveiro,Setúbal,Vizela,Famalicão,Barcelos,Chaves,Arouca,Estoril,Portimão,Leiria,Viseu,Penafiel,Moreira
+5c705e	D	Ámsterdam,Róterdam,Eindhoven,La Haya,Utrecht,Alkmaar,Arnhem,Enschede,Groninga,Heerenveen,Nimega,Breda,Tilburgo,Zwolle,Sittard,Almere,Deventer,Volendam,Waalwijk,Maastricht
+19fa17	D	São Paulo,Río de Janeiro,Belo Horizonte,Porto Alegre,Curitiba,Salvador,Recife,Fortaleza,Goiânia,Florianópolis,Campinas,Santos,Belém,Manaos,Natal,Cuiabá,Bragança,Sorocaba,Juiz de Fora,Ribeirão Preto,Londrina,Maceió,João Pessoa,Vitória,Joinville,Caxias do Sul,Chapecó,Criciúma,Novo Hamburgo,Volta Redon
+bbd09e	D	Buenos Aires,Avellaneda,La Plata,Rosario,Córdoba,Mendoza,Santa Fe,Tucumán,Mar del Plata,Bahía Blanca,Lanús,Banfield,Quilmes,San Juan,Salta,Paraná,Rafaela,Junín,Sarandí,Florencio Varela,Victoria,Liniers,Santiago del Estero
+cbac8b	D	Ciudad de México,Guadalajara,Monterrey,Puebla,Toluca,Querétaro,León,Tijuana,Pachuca,Torreón,San Luis Potosí,Aguascalientes,Mazatlán,Ciudad Juárez,Morelia,Cancún,Veracruz,Mérida,Culiacán,Hermosillo,Chihuahua,Zacatecas,Oaxaca,Celaya,Los Mochis,Saltillo,Durango,Acapulco
+892ad0	D	Los Ángeles,Nueva York,Chicago,Houston,Dallas,Atlanta,Seattle,Miami,Filadelfia,Boston,Denver,Portland,Kansas City,Salt Lake City,Columbus,Cincinnati,Nashville,Orlando,Charlotte,San José,Austin,San Diego,Minneapolis,San Luis,Washington,Detroit,Las Vegas,Phoenix,Sacramento,Tampa
+7c729d	D	Riad,Yeda,Dammam,La Meca,Medina,Taif,Abha,Buraida,Jamis Mushait,Al Jubail,Tabuk,Hail,Najrán,Jizán,Al Hasa,Al Khobar,Unaiza,Al Kharj,Yanbu,Sakaka
+3586b4	D	Guayaquil,Quito
+52386d	D	Asunción
+5b3c1d	D	Santiago
+ae6d92	D	Montevideo,Montevideo
+e263b9	D	Lima
+e67438	D	Bogotá,Medellín,Cali,Barranquilla
+16e38a	D	contra el viento
+287551	D	del sur
+2c945c	D	en llamas
+3a5cc4	D	de prestado
+3cf5c1	D	en silencio
+41cc55	D	en espera
+4e2389	D	de ayer
+501777	D	del fin del mundo
+793969	D	de madrugada
+79d127	D	de cristal
+8771ea	D	del desierto
+8a5bd9	D	en pedazos
+a07c57	D	de sal
+b5e9da	D	de papel
+c427af	D	de hiel
+cb724b	D	de neón
+cee1ce	D	de nadie
+d1712c	D	para siempre
+df6870	D	de barro
+e61dad	D	sin dueño
+ff3991	D	en calma
+09e75b	D	Miami
+34971b	D	Chicago
+64e274	D	Bogotá
+669530	D	Río de Janeiro
+b7e31f	D	Toronto
+d74d60	D	Monterrey
+122a41	D	Barcelona
+2d0488	D	Estocolmo
+450578	D	Estambul
+638ce6	D	París
+7a2191	D	Madrid
+808098	D	Berlín
+837c6b	D	Milán
+8f0e31	D	Johannesburgo
+b6223b	D	Lagos
+c205df	D	Ámsterdam
+c60107	D	Dubái
+c9464d	D	Varsovia
+174f85	D	Yakarta
+3df232	D	Seúl
+5b7046	D	Bangkok
+6f7636	D	Shanghái
+dbb73e	D	Bombay
+e878e1	D	Sídney
+4b2826	D	Discos Colibrí
+8a02e6	D	Grupo Áureo Música
+c0e3eb	D	Titán Records
+db44b0	D	Estudio Brújula
+e1bc18	D	Cinta Roja Récords
+f9dbf3	D	Sonarama, Onda+ y Rítmika
+2fe757	D	Más {A}
+19843c	D	Abrir con un tema nuevo y arriesgado
+2cb9f1	D	Arrancar con tu canción más conocida
+2e2550	D	Hablarle al público antes de cantar
+883c3f	D	Abres el show. El público todavía está frío y el sonido tarda en acomodarse.
+13d762	D	Parar y esperar al equipo técnico
+3a2ca5	D	Hacer que el público cante el coro
+6a7bf1	D	A media canción se cae el audio de tu micrófono.
+ebc0d7	D	Seguir a capela hasta que vuelva
+009511	D	Buscar la nota más alta
+9e5077	D	Llega la balada: el recinto se llena de luces de teléfonos.
+a72621	D	Bajar del escenario y cantar entre la gente
+ab47e0	D	Cantarla íntima, casi hablada
+83ac6a	D	Seguir con el plan
+8890d6	D	Tocar un fragmento acústico
+ccb7c6	D	Improvisarla con la banda
+d8bc1c	D	El público pide una canción que no estaba en el repertorio.
+430449	D	Cierre del show: quedan cinco minutos y la energía está arriba.
+6ba8e2	D	Un tema inédito de despedida
+7d3dc2	D	Final con coreografía completa
+e6237c	D	Encore con tu mayor éxito
+dd0811	D	Producciones Zaguán
+e5f78d	D	Teatro de la Esquina
+158c4e	D	Vistara, Cinemar y Primera Fila
+22eb75	D	{A}: el origen
+aa53e4	D	Los días de {A}
+3debfc	D	Se levanta el telón. Tu primera línea marca el tono de toda la función.
+6c343e	D	Entrar con fuerza y proyectar la voz
+9f35b2	D	Buscar la risa del público desde el inicio
+f4fba6	D	Entrar contenido y dejar crecer al personaje
+6f88b8	D	Esperar en silencio
+992920	D	Darle el pie con una línea inventada
+a18d8f	D	Tu compañero de escena olvida su parlamento.
+b9a178	D	Improvisar para cubrirlo sin salir del personaje
+110a9c	D	Romper la cuarta pared y hablarle a la sala
+12c6fb	D	Jugártela con una pausa larga antes del clímax
+7684b2	D	Decirlo tal como lo ensayaste
+eeba4c	D	El monólogo central de la obra.
+2b493c	D	Un teléfono suena en la tercera fila en plena escena dramática.
+3601aa	D	Ignorarlo y sostener la emoción
+d483ab	D	Detener la función un momento
+e558ab	D	Incorporarlo a la escena
+1283b2	D	Un gesto que nadie espera
+26a274	D	Escena final: todo depende de tu última mirada.
+9e62d8	D	Un final sobrio y preciso
+bc20a1	D	Llanto real en escena
+292de8	D	Colectivo Trípode
+dd9e87	D	Grupo Nódulo
+f6be45	D	Fábrica de Contenido
+285bfd	D	Clipo, Miraplay y Zumbo
+2902cf	D	24 horas en {A}
+c9c1c3	D	La verdad sobre {A}
+d3d18f	D	Probé {A} {B}
+eb9675	D	{A} al extremo
+2ffb69	D	Entrar corriendo y saludar a gritos
+bac90b	D	Sales al escenario de la convención: miles de teléfonos te graban.
+bb4eac	D	Abrir con un video sorpresa
+c50202	D	Contar una anécdota personal
+192887	D	Responder con honestidad
+28003e	D	Contestar con humor
+ae15c6	D	Sesión de preguntas: alguien te cuestiona por una polémica vieja.
+b2af95	D	Esquivar la pregunta
+13a702	D	Aceptar el reto más difícil
+1b4a8a	D	Elegir uno seguro
+31c955	D	Reto en vivo propuesto por el público.
+9ee300	D	Invitar a un fan a hacerlo contigo
+240ce4	D	Improvisar un juego con el público
+381116	D	Narrar el video de memoria
+545996	D	Falla la pantalla gigante en el momento del estreno.
+bdeafd	D	Esperar a que lo arreglen
+04de0e	D	Quedarte dos horas más con la fila
+0b64d1	D	Cierre: firma de autógrafos y fotos.
+af3820	D	Foto grupal y anuncio exclusivo
+e48e11	D	Despedida breve
+5cb7d4	D	Estudio Maniquí
+62e365	D	Línea Nacional
+6cac77	D	Vértice Model Management
+7c0587	D	Élan Models
+068d39	D	Maison Aurel, Ferrante, Revista Tendencia y Kōda
+19ec90	D	Edición {A}
+67cbe7	D	Línea {A}
+e0eded	D	Colección {A}
+0e74bd	D	Proponer salir descalzo como concepto
+83324e	D	Salir así y dominar el paso
+cc7e0d	D	Pedir un ajuste rápido aunque retrase la salida
+f1c9be	D	Tras bambalinas: te cambian el atuendo a último minuto y los zapatos te quedan grandes.
+493337	D	Paso firme y mirada al frente
+a7a45c	D	Tu primera pasada: la pasarela es más larga y resbalosa de lo ensayado.
+c8bbcd	D	Paso lento y teatral
+e39e5b	D	Sonreír y romper el protocolo
+2c5312	D	Liberarlo con calma
+38ae9c	D	Seguir caminando aunque se rasgue
+460158	D	Se te atora el vestido al dar la vuelta frente a los fotógrafos.
+5af4c4	D	Convertirlo en una pose
+1bfe90	D	Hacer una pasada limpia y clásica
+6ea975	D	El diseñador pide que cierres el desfile con la pieza principal.
+b90721	D	Pedirle una indicación de actitud
+f10b44	D	Aceptar y arriesgar un giro completo
+0ed0ac	D	Dar una declaración sobre la colección
+709df1	D	Posar para todas las cámaras
+c0b6d3	D	Retirarte rápido
+c8f0d2	D	Fotos finales con la prensa especializada.
+453b9f	D	Circuito Nacional de Comedia
+4d92be	D	Sótano Cómico
+4eb8bd	D	Grupo Telón
+ac2847	D	Bar La Risa
+e2f970	D	Teatro Sátira
+f62733	D	Foro Micrófono Abierto
+8b7c92	D	Vistara, Onda+ y el Circuito Nacional
+0b7677	D	{A}, pero con cariño
+22c57a	D	Peor que {A}
+d5e7a8	D	No es por {A}
+e9fc47	D	{A} para principiantes
+4ebb3c	D	Primer minuto: la sala aún no decide si le caes bien.
+86fe01	D	Estrenar el material nuevo de una vez
+a647a3	D	Burlarte de ti mismo
+e350b8	D	Abrir con tu chiste más probado
+18f141	D	Pedir a seguridad que lo saque
+588f73	D	Integrarlo a la rutina con buen humor
+7b43b0	D	Destrozarlo con una respuesta rápida
+9c6ed5	D	Un borracho te interrumpe desde el fondo.
+1231a9	D	Un chiste arriesgado cae en silencio.
+4e42b7	D	Cambiar de tema rápido
+aa2a47	D	Reírte del silencio y remontar
+defac2	D	Doblar la apuesta con otro más fuerte
+60e931	D	Mencionarlo con un chiste breve
+8f46d9	D	Improvisar cinco minutos con esa persona
+b70efa	D	Notas a alguien famoso en primera fila.
+0d863a	D	Rematar con la historia completa
+291914	D	Cerrar con el chiste seguro
+8212be	D	Improvisar un cierre con lo que pasó esta noche
+913e7b	D	Cierre: te queda el remate largo que conecta todo el show.
+04947e	D	Libros del Faro
+0726bb	D	Ediciones del Zaguán
+d4a09c	D	Grupo Editorial Áncora
+667fc5	D	Librería Atlas, Leemás y Página Uno
+948ea1	D	Los nombres de {A}
+e72eea	D	Historia de {A}
+e84f3e	D	El año de {A}
+044c79	D	Leer el capítulo más duro
+20dc55	D	Leer la escena más divertida
+8b5e1b	D	Sala llena en la feria del libro. Te piden leer un fragmento.
+b309dc	D	Contar cómo nació el libro en vez de leer
+7dff3d	D	Un crítico conocido te pregunta, con micrófono, si tu final no es «demasiado fácil».
+a599bb	D	Aceptar la crítica con elegancia
+c92520	D	Defender el final con argumentos
+d69eb8	D	Responder con ironía
+4ed36a	D	Una lectora te cuenta entre lágrimas lo que tu libro significó para ella.
+9f03c8	D	Dedicarle unas palabras al público sobre eso
+a9924d	D	Escucharla sin prisa aunque la fila crezca
+f223de	D	Agradecer y seguir firmando
+14feb5	D	El moderador te pide adelantar algo de tu próximo libro.
+96ed1e	D	Negarte: da mala suerte
+a62c43	D	Describir la idea sin revelar la trama
+b5b35e	D	Leer una página inédita
+4411f8	D	Cierre: la fila de firmas da vuelta a la sala.
+52de0a	D	Firmar rápido y tomarte fotos
+5a1ce7	D	Firmar todos con dedicatoria personal
+943677	D	Limitar la firma a cien ejemplares
+3f0375	D	Grupo Sazón
+811c76	D	Colección Mantel
+bff523	D	Grupo Brasa y Sal
+cc9919	D	Bistró del Barrio
+d7fb51	D	Fonda Raíz
+75b8d5	D	la Guía Gourmet, Canal Sabor y Mesa+
+5c74c4	D	Fuego y {A}
+a05076	D	Menú {A}
+f8842d	D	Raíz y {A}
+1edf66	D	Confiar en tu brigada y supervisar el pase
+ea9bbd	D	Mandarles un plato fuera de carta
+ebba2f	D	Servicio lleno. Entra la comanda de la mesa 7: se rumora que es un inspector de la Guía Gourmet.
+f77b24	D	Cocinar tú mismo cada plato de esa mesa
+123a24	D	Reinventar el plato con lo que hay
+33fb81	D	Se acaba el ingrediente principal del plato estrella a mitad del servicio.
+daef1a	D	Retirarlo y avisar mesa por mesa
+e056c4	D	Ofrecer una alternativa de la carta
+334d0d	D	Frenar la sala y regalar una entrada
+63abd6	D	Reorganizar a la brigada
+813507	D	Un cocinero se quema y la línea se atrasa quince minutos.
+846fd5	D	Tomar su estación y marcar el ritmo
+157cfb	D	Devuelven un plato: «le falta sal».
+499ffb	D	Salir a platicar con el comensal
+84cb4f	D	Rehacerlo sin discutir
+dddbb1	D	Probarlo y defender tu sazón en la mesa
+5a1af3	D	Acompañarlo con una historia del platillo
+9ce56b	D	Último tiempo: el postre que cierra la experiencia.
+d36aa2	D	Servirlo exactamente como está en carta
+d93dde	D	Terminarlo en la mesa frente al cliente
+04bd10	D	Techno
+175bce	D	Drum & bass
+4db5bf	D	Afro house
+7c2ec8	D	Trance
+99cb7d	D	Bass
+dc8745	D	House
+f467e1	D	Disco
+012273	D	Festival Mañanaluz
+5b7d0c	D	Grupo Neón
+dff604	D	Circuito Eléctrico
+f9e74f	D	Sello Sótano
+f9d5ff	D	Sonarama, Rítmika, Mañanaluz y Electric Meadow
+b1c5a7	D	Track
+448ab7	D	Set
+22ef86	D	Tomas la cabina a las 2 de la mañana: el DJ anterior dejó la pista muy arriba.
+6d7363	D	Bajar el ritmo y construir tu propio viaje
+8229fb	D	Soltar de inmediato tu track nuevo
+feda89	D	Sostener la energía con un tema conocido
+25384b	D	La pista empieza a vaciarse hacia la barra.
+8623ad	D	Insistir con tu selección
+a21be9	D	Leer al público y cambiar de género
+bef8fe	D	Meter un clásico que nadie resiste
+4e7555	D	Una de las tornamesas digitales se congela.
+63fa16	D	Tomar el micrófono y animar
+cc03b0	D	Poner una pista larga mientras reinicia
+d814f0	D	Mezclar a oído con una sola
+5508a8	D	Negarte y cerrar a tiempo
+58b286	D	El promotor te pide alargar el set una hora.
+c26b79	D	Aceptar e improvisar con música que no preparaste
+f4ee31	D	Aceptar repitiendo tus temas más fuertes
+027a4c	D	Una mezcla larga de tres temas
+6c1579	D	Cerrar con un inédito tuyo
+735c87	D	Último tema de la noche: se encienden las luces del amanecer.
+97460e	D	Cerrar con un himno que todos cantan
+32630d	D	Grabar un álbum
+8e3fa4	D	Grabar un sencillo
+bcbc35	D	Audicionar para una serie
+e07ce9	D	Audicionar para una película
+f4d4ff	D	Obra de teatro
+1e8924	D	Cinturón mundial
+0c9ae6	D	Hacer un video de gran producción
+3a2289	D	Publicar un video
+92e362	D	Sesión de fotos editorial
+b223db	D	Casting de pasarela
+3a6f00	D	Escribir una rutina nueva
+5ae593	D	Grabar un especial de comedia
+2ded6f	D	Escribir columnas y cuentos
+45ebc5	D	Escribir un libro
+165294	D	Grabar un programa de cocina
+deda59	D	Crear platillos nuevos
+653f06	D	Set en club
+9426bb	D	Producir un EP
+a1e177	D	Producir un track
+025a82	D	Club gigante de Europa
+1ab5d0	D	Equipo de primera división
+72726a	D	Equipo de segunda división
+86677a	D	Club grande de la liga
+8e5915	D	Club amateur
+10778c	D	Nadie te conoce todavía: crea, preséntate y construye tu público.
+267434	T	Empiezas tu carrera en {0}. {1} Abre Carrera → ⭐ Tu carrera para manejarla.
+96261a	D	Entrena duro: el nivel se construye con años de práctica.
+4b58ae	T	Estás lesionado: faltan {0} mes(es).
+eda798	D	Estás en prisión.
+1f1a4c	T	{0} rescinde tu contrato.
+d13499	T	Escándalo: {0} protagoniza {1}.
+36d104	D	Tu equipo de relaciones públicas contiene parte del daño.
+8ec0b6	D	Un publicista habría reducido el golpe.
+fd3b8f	T	💥 Escándalo por {0}: pierdes {1} % de tus fans y tu imagen baja a {2}.
+7df05f	T	Entrenas ({0}): tu nivel sube a {1}.
+fce6f4	T	Te lesionas entrenando: {0} mes(es) fuera. (Un entrenador mejor reduce las lesiones.)
+da870e	T	Necesitas {0} para producirlo.
+48a008	T	No te quedas con el casting (probabilidad {0} %). Mejora tu nivel o consigue un agente: abren puertas.
+5f4f59	T	No te quedas con el papel (probabilidad {0} %). Mejora tu nivel o consigue un agente: abren puertas.
+bf5c6b	D	acusaciones de plagio en tu trabajo más reciente
+8424b1	D	una declaración polémica durante la promoción
+0f4924	T	+{0} fans. Producción: {1}.
+7da8fa	T	{0}: ¡éxito rotundo! calidad {1}
+681825	T	Necesitas al menos {0} fans fuera de tu país para llenar una gira internacional.
+7077e2	T	Necesitas al menos {0} fans en tu país para llenar una arena nacional.
+df3dfa	T	Necesitas al menos {0} fans en tu provincia para llenar un bar o foro local.
+af2fa7	D	cancelar de último minuto por agotamiento
+952957	T	+{0} fans.
+dfc1ea	T	{0} ({1}): {2} asistentes, utilidad {3} después de producción y comisiones
+9f5ac5	D	una pelea en redes sociales que se salió de control
+46a458	T	Publicas en redes algo provocador: +{0} seguidores (tu imagen baja un poco).
+a18127	T	Publicas en redes: +{0} seguidores y tu imagen mejora.
+085277	T	Necesitas {0}.
+cac2fd	T	Donas {0} a una causa social: tu imagen sube a {1}.
+1cb684	D	Tu imagen está muy dañada: ninguna marca quiere asociarse contigo.
+48cfc1	D	Las marcas buscan figuras con fama de 35 o más.
+99551b	D	Ya firmaste el patrocinio de este año.
+f0e5a2	T	Firmas el patrocinio anual de una marca: {0} antes de impuestos.
+2cb5e8	T	Pierdes por decisión contra {0} (probabilidad {1} %)!
+738e80	T	¡Ganas por nocaut contra {0} (probabilidad {1} %)!
+89e239	T	Pierdes por nocaut contra {0} (probabilidad {1} %)!
+b843f9	T	¡Ganas por decisión contra {0} (probabilidad {1} %)!
+e17232	T	Bolsa {0}. Récord {1}-{2} ({3} KO)
+fa6cbb	T	Lesión: {0} mes(es).
+fa99e8	T	ranking mundial #{0}.
+4cc71d	D	Necesitas estar en el top 3 del ranking para pelear por el título.
+1b88cd	D	Campeón mundial de box
+4b35e8	D	Campeón mundial de MMA
+7afaf7	T	¡{0} es campeón mundial de {1}!
+c4bd86	T	🏆 ¡CAMPEÓN MUNDIAL! Bolsa de {0}.
+20262f	T	Pierdes la pelea por el título. Bolsa de {0}. Bajas al #{1}.
+6013dc	T	Club amateur de {0}
+9d2d83	D	🏆 Tu equipo gana el campeonato.
+d9bd1a	D	Campeón de torneo regional
+f1d46e	D	Campeón de liga
+27127e	T	Te convocan a la selección de {0}.
+85aaa4	D	Campeón del mundo con la selección
+87436d	T	¡{0} campeón del mundo! {1}, figura del torneo.
+05a448	D	estudio de cine
+64ad5f	D	red de creadores
+6e0959	D	agencia de marcas global
+70d2cd	D	cadena de televisión
+a2b5bd	D	agencia de modelos local
+d76c89	D	plataforma de video
+5490ca	D	canal de cocina
+93bea6	D	sello de música electrónica
+970390	D	productora de especiales
+a386f3	D	plataforma de streaming
+a66cc8	D	liga mundial de MMA
+0d8151	T	Firmas con {0}: anticipo de {1}, {2} % de regalías por {3} años. Tu alcance se multiplica ×{4}.
+1932d1	T	Termina tu contrato con {0}.
+5bdb5a	T	📨 Tienes {0} oferta(s) de contrato. Revísalas en ⭐ Tu carrera.
+348a61	T	Te nominan al {0}, pero no ganas esta vez.
+519e10	T	🏆 ¡Ganas el {0}!
+c784de	T	{0} gana el {1}.
+00bb55	D	🏆 ¡Ganas el Balón Dorado al mejor jugador del mundo!
+949daf	T	{0} gana el Balón Dorado.
+f97112	T	A los {0} años tu cuerpo ya no responde igual. Considera el retiro.
+cc43fb	T	Te retiras de {0} como {1}. Tu fama se irá apagando poco a poco, pero seguirás recibiendo algo de regalías e invitaciones.
+061cbc	T	⭐ Tu carrera: {0}
+0d56c8	T	nivel {0}
+894ed3	T	{0} fans
+b22047	D	toca para abrir el panel
+19c93d	D	hasta 32 años
+3527c9	D	cambiar te deja ~30 % de tus fans
+88ce42	T	{0} Empezar en {1}
+eac545	T	cuenta tu {0}
+fce430	T	{0} Cambiar a {1}
+141ae2	D	sin límite
+97d3fc	T	{0} ({1}) vence a {2} por {3} en el round {4}
+ce0935	T	{0} ({1}) vence a {2} por {3}
+f43828	T	{0} y {1} empatan
+00a760	T	{0} y retiene {1} de peso {2}.
+3ff505	T	Unificación: {0} y retiene {1} de peso {2}.
+55739c	T	¡Nuevo campeón! {0} y se queda con los cinturones {1} de peso {2}.
+567639	T	¡Nuevo campeón! {0} y se queda con el cinturón {1} de peso {2}.
+6c13a4	T	Título vacante {0} de peso {1}: {2} y es el nuevo campeón.
+577adf	T	Se retira {0} ({1}) con récord de {2} y {3} nocauts.
+9062c3	D	Comunitario
+a14d02	D	Alto rendimiento
+c44248	D	De barrio
+ebcdfe	D	Campamento de élite
+3bd2f2	D	Academia de box de Sheffield
+767e48	D	Centro de lucha de Majachkalá
+896b26	D	Campamento de altura en las montañas de California
+987a3d	D	Academia Cumbre de Albuquerque
+a0d161	D	Gimnasio histórico de la Ciudad de México
+dc6e29	D	Equipo Jaguar de Río de Janeiro
+218887	D	Team
+5cad88	D	Puño de Hierro
+a4b1c5	T	Gimnasio comunitario de {0}
+de82c1	D	Academia
+651717	T	Centro de Alto Rendimiento de {0}
+042468	D	Pide nivel 58 o estar en el top 30 mundial.
+32f893	D	Pide nivel 42 o una medalla nacional.
+4c004c	T	Necesitas al menos {0} para la inscripción.
+4e0d84	D	Ya entrenas ahí.
+4578a2	T	Te cambias a {0}. Tu entrenador ahora es {1}. La química con el nuevo equipo tarda meses en construirse (rendimiento ×{2}).
+f1384d	T	Te lesionas entrenando: {0} mes(es) fuera. (Un gimnasio mejor cuida más la carga de trabajo.)
+0152fd	T	Entrenas {0} en {1}: {2} {3}
+88e540	T	nivel general {0}.
+234604	D	Una lesión menor en el sparring te deja un mes fuera.
+7ab385	T	Haces sparring con peleadores profesionales de primer nivel: tu técnica sube a {0} y tu defensa a {1}.
+a5512b	T	Haces sparring con compañeros del gimnasio: tu técnica sube a {0} y tu defensa a {1}.
+ee7f72	T	Haces sparring con profesionales del gimnasio: tu técnica sube a {0} y tu defensa a {1}.
+f23029	D	Ya eres profesional.
+07af68	T	Pelea amateur contra {0}: ¡ganas por RSC (el réferi detiene el combate)! (probabilidad {1} %). Récord amateur {2}.
+22eedb	T	Pelea amateur contra {0}: ¡ganas por sumisión! (probabilidad {1} %). Récord amateur {2}.
+52f3cd	T	Pelea amateur contra {0}: pierdes por decisión (probabilidad {1} %). Récord amateur {2}.
+859aa9	T	Pelea amateur contra {0}: ganas por decisión (probabilidad {1} %). Récord amateur {2}.
+57ce35	D	Solo para amateurs.
+5bacc7	D	Ya participaste este año.
+442b6c	D	Pide ser campeón nacional (este año o el anterior).
+d2adf3	D	Pide 4 victorias amateur.
+0415ec	D	El mundial amateur es en años impares.
+3219d4	D	Pide ser campeón nacional.
+4e6fbb	D	Pide título nacional o medalla continental/mundial reciente (clasificatorio).
+c06a63	T	Los próximos Juegos Olímpicos son en {0}.
+7d79ee	D	Semifinal
+931e9e	D	Cuartos de final
+996451	D	Octavos de final
+52aa9b	T	{0}: vences a {1}
+f04e5d	T	{0}: pierdes ante {1}
+e6b79d	T	{0} gana la medalla de {1} en {2} para {3}.
+2e09ab	T	🏅 ¡Medalla de {0}!
+652083	D	Te quedas sin medalla.
+53208e	D	Debes tener 18 años para debutar como profesional.
+cb8732	T	Debutas como profesional. Tu historial amateur ({0}-{1}) define cuánto interés despiertas en las promotoras. Revisa las ofertas de contrato.
+fd996d	T	Debutas como profesional. Tu historial amateur ({0}-{1}, {2} medalla(s)) define cuánto interés despiertas en las promotoras. Revisa las ofertas de contrato.
+1b0496	T	Promociones {0}
+7853fb	T	Liga nacional de MMA de {0}
+91cb46	T	Rompes tu contrato anterior: pagas {0} de penalización.
+64df77	T	Firmas con {0} por {1} años: {2} peleas al año garantizadas, bolsa mínima de {3}.
+dd8012	T	Firmas con {0} por {1} años: {2} peleas al año garantizadas, bolsa mínima de {3} y bono por firma de {4}.
+04b838	D	Preliminar
+617041	D	Pelea estelar
+e0a270	D	Semifondo
+10d1ad	D	Auditorio municipal
+701f7a	T	Arena {0}
+c609fa	D	Gimnasio municipal
+d71f0b	D	Palenque
+b165f9	D	Promotor independiente
+153bea	D	Primero debuta como profesional.
+63e2ff	D	Ya tienes una pelea programada.
+b4132b	T	Suspensión médica: faltan {0} días.
+ec5e02	T	Suspendido por dopaje hasta {0}.
+e951e3	D	En las MMA necesitas contrato con una liga para pelear. Revisa tus ofertas de contrato.
+5a21cb	T	Llamas a promotores independientes y consigues {0} oferta(s) de pelea. Revísalas en la pestaña Ofertas.
+94a5d7	T	{0} te consigue {1} oferta(s) de pelea. Revísalas en la pestaña Ofertas.
+99485e	D	Nadie quiere pelear contigo este mes. Intenta más adelante o sube en el ranking.
+3979ad	D	No tienes el público suficiente para pedir parte del pago por evento (PPV).
+8fb47b	D	El promotor ya dio su última oferta: tómala o déjala.
+42b31d	D	incluyen cláusula de revancha si pierdes
+96358d	D	la pelea se mueve tres semanas: más campamento
+af663c	T	te dan {0} % de las ganancias del pago por evento
+d0a08e	T	la bolsa sube a {0}
+6399fa	D	❌ El otro lado se levanta de la mesa: la oferta se cae.
+de96f0	D	⚠️ No aceptan. Es su última oferta: tómala o déjala.
+1d796e	D	Choque de Titanes
+2bb0cf	D	Velada de golpes
+3429b2	D	Función de box
+346175	D	Sábado de Combate
+35b18d	D	Gloria o Nada
+65aea8	D	Furia en la Arena
+6d790c	D	Guerra en el Ring
+8209ab	D	Noche de Campeones
+87c44b	D	Viernes de Golpes
+aca165	D	La Revancha del Siglo
+d1ad59	D	Noche de prospectos
+f2b214	D	Noche de Box
+cfc516	T	Firmas la pelea contra {0} ({1}): {2} rounds, {3} en {4}, {5}, dentro de {6} días. Bolsa {7}.
+dee37c	T	Firmas la pelea contra {0} ({1}): {2} rounds, {3} en {4}, {5}, dentro de {6} días. Bolsa {7} + {8} si ganas.
+fbbc40	T	⚠️ No tienes tiempo libre suficiente: campamento al {0} %.
+50c60d	D	Nutriólogo (corte de peso)
+bf9f8e	D	Hablas con respeto de tu rival. La prensa te describe como un deportista serio. Imagen +3.
+a62002	D	Dices con calma que vas a ganar y explicas por qué. Los titulares hablan de tu confianza. Expectativa +1.
+6db0c1	D	La provocación cae mal: te acusan de irrespetuoso. Expectativa +1, imagen −8.
+c8ddd2	D	Tus provocaciones se vuelven virales: todo el mundo quiere ver la pelea. Expectativa +2.
+04f276	D	una pelea en el careo de la rueda de prensa
+fb530e	T	El careo termina en empujones y la seguridad os separa. Expectativa +3, pero la comisión te multa con {0}.
+ef5279	T	Das el peso sin problemas: {0} kg (límite {1} kg).
+f2c2ca	D	Das el peso sin problemas.
+fd5b6a	T	En la báscula marcas {0} kg: ¡te pasaste del límite de {1} kg! Te quedan dos horas.
+89adb6	D	Pasas dos horas en el sauna y con ropa térmica: das el peso, pero llegas deshidratado (menos resistencia y quijada en la pelea).
+6c27f6	D	Aceptas la multa: 20 % de tu bolsa pasa a tu rival.
+94af36	D	Aceptas la multa: 20 % de tu bolsa pasa a tu rival. El título no está en juego para ti: si ganas, el cinturón queda vacante.
+da2886	T	{0} cae en el round {1} tras un golpe que pocos vieron...
+6cdf77	T	¡{0} aplica una {1} y {2} se rinde!
+e222f4	T	¡{0} aplica un {1} y {2} se rinde!
+9f8f7c	T	¡CAÍDA! {0} manda a la lona a {1} con {2}.
+82aebb	T	{0} remata en el suelo y el réferi detiene la pelea.
+0c6265	T	{0} se levanta a la cuenta de {1}.
+6cf491	T	{0} no se levanta antes de la cuenta de diez. ¡NOCAUT!
+061bb0	D	Tres caídas en el round: el réferi termina la pelea.
+c61530	T	{0} ya no se defiende y el réferi detiene la pelea.
+0966a3	D	El médico detiene la pelea por una cortada accidental antes del cuarto round: empate técnico.
+386429	T	El médico revisa la cortada de {0} (choque de cabezas) y detiene la pelea: se va a las tarjetas.
+28c890	T	El médico revisa la cortada de {0} y detiene la pelea.
+ab1e7a	T	La esquina de {0} no lo deja salir al round {1}.
+379163	T	🏆 ¡Retienes tu título {0}!
+b6ad0c	T	Defensa exitosa {0} ({1})
+9ecf0f	T	🏆 ¡Unificas el título {0} de peso {1}!
+b63449	T	🏆 ¡Ganas el título {0} de peso {1}!
+e12273	T	Campeón mundial {0} ({1})
+98864d	D	su rival
+a3e552	T	¡{0} ({1}) es campeón mundial {2} de peso {3} al vencer a {4} por {5}!
+ac7c81	D	Ganas, pero como no diste el peso el cinturón queda vacante.
+203963	T	{0} retiene el cinturón {1}.
+a37dd3	T	{0} te quita el cinturón {1}.
+2dc857	D	un resultado positivo en el control antidopaje (sustancias prohibidas)
+eb2bc8	D	Te suspenden y la victoria se anula.
+8873ee	D	una investigación por haber arreglado una pelea
+3a11c8	T	🥊 Pierdes contra {0} por {1} en el round {2}.
+41b439	T	Récord {0}-{1}-{2}.
+5959a5	T	🥊 Ganas contra {0} por {1} en el round {2}.
+7bdfee	T	Bolsa neta {0}.
+7dcf49	T	🥊 Pierdes contra {0} por {1}.
+a18abe	T	🥊 Ganas contra {0} por {1}.
+c9a52b	T	🥊 Empatas contra {0} por {1}.
+d00c62	T	Récord {0}-{1}.
+d326c5	T	🥊 Empatas contra {0} por {1} en el round {2}.
+9c7960	D	Agradeces a tu equipo y a tu rival. Imagen +2.
+aa9d31	D	Tomas el micrófono y retas al campeón frente a todo el público. Tu promotora buscará una pelea por el título.
+cd7750	D	Pides la revancha de inmediato. Tu promotora intentará cerrarla.
+2f1806	D	Tienes una pelea programada.
+c7c9bc	D	No hay otra división en esa dirección.
+00c76d	D	Dejas vacantes tus cinturones.
+10d6a8	D	Ganas velocidad, pero el corte de peso será más duro (riesgo de no dar el peso).
+392617	T	Bajas a peso {0} ({1}).
+9111a1	D	Ganas algo de pegada, pierdes algo de velocidad; los rivales pegan más fuerte.
+f9156d	T	Subes a peso {0} ({1}).
+2f5fc0	D	📨 Tienes una nueva oferta de pelea. Revísala en ⭐ Tu carrera → Ofertas.
+fb6883	T	📨 El {0} ordena tu defensa obligatoria contra {1}.
+76a484	T	El {0} te retira el cinturón por no hacer tu defensa obligatoria.
+a0f552	T	El {0} despoja a {1} de su título por no enfrentar al retador obligatorio.
+2cf007	D	📨 Hay promotoras interesadas en firmarte. Revisa ⭐ Tu carrera → Promotora.
+0956a0	T	Empiezas como amateur en peso {0} ({1}), estilo {2}. Entrena en tu gimnasio, pelea como amateur y debuta como profesional desde los 18 años.
+ee0d2e	D	cb año
+f7b9cb	D	Una oferta en el estacionamiento
+3cb356	T	Después de entrenar, {0} te espera junto a tu coche. «Hay gente que apostó fuerte en tu próxima pelea. Si te dejas caer en la segunda mitad, te llevas {1} en efectivo. Nadie se entera.»
+077298	D	«Tú sabrás.» Se va molesto. Tu conciencia y tu carrera siguen limpias.
+74be80	D	Rechazar sin dudar
+9ae806	D	Sin pruebas, la denuncia no prospera y ahora tienes enemigos peligrosos.
+b9ce4e	D	Denunciarlo ante la comisión
+d4f714	D	La comisión abre una investigación y la prensa te aplaude por tu honestidad.
+1cfb90	D	Aceptar el dinero
+855a6f	D	Te entregan un sobre. En la pelea tendrás que caer en la segunda mitad. Si alguien investiga, tu carrera termina.
+fb1f64	D	Un atajo químico
+2544c7	T	{0}, un preparador que conociste en el gimnasio, baja la voz: «Tengo algo que te da más fuerza y te recupera el doble. Los controles casi nunca lo detectan.» En el mundo real, los controles por sorpresa (como los de agencias antidopaje voluntarias) atrapan a muchos.
+45a4c2	D	Rechazar: quieres ganar limpio
+ec16ca	D	Te alejas. Tu cuerpo y tu nombre siguen limpios.
+84da46	D	Durante un año tendrás +5 de pegada y resistencia. En cada pelea hay 25 % de que el control te atrape: suspensión, multa y pérdida de títulos.
+9f7473	D	Aceptar las sustancias
+f8ec2d	D	Te retan en redes
+b89c24	T	{0}, un peleador de tu división, publica un video burlándose de ti: «Está protegido por su promotora. Que me enfrente si se atreve.» Ya tiene miles de reproducciones.
+36ab1f	D	Tu respuesta tranquila se comparte por su madurez.
+ce533e	D	Responder con elegancia
+babc68	D	Tu respuesta se vuelve viral y la gente pide la pelea.
+bea6e5	D	Te pasas de la raya y te llueven críticas.
+cdc35b	D	Responder con todo
+298628	D	El tema se apaga en unos días.
+feb338	D	Tu entrenador está preocupado
+b8fde6	T	{0} cierra la puerta del vestidor. «Llevas {1} peleas como profesional y muchos golpes encima. Te tardas más en contestar, te mareas en el sparring. El daño cerebral por golpes se acumula y no se cura.» Tu daño acumulado: {2}.
+182382	D	Los estudios salen dentro de lo normal, pero hay que cuidarse: menos sparring fuerte.
+4321df	D	Los estudios muestran daño. El médico recomienda retirarte pronto.
+b1c9fb	D	Hacerte estudios neurológicos
+23f165	D	Ajustas tu preparación: el daño crecerá más lento.
+fb38fc	D	Menos sparring y peleas más espaciadas
+0876a7	D	Tu entrenador asiente en silencio, pero no está convencido.
+3622bd	D	Invitación a un campamento
+13ecaa	T	{0} te llama: el campamento de {1} necesita un sparring de tu estilo durante seis semanas. Pagan bien y aprenderías de los mejores, pero el sparring con un campeón duele.
+d3441c	D	el campeón
+e41819	D	Seis semanas de guerra en el gimnasio: aprendes muchísimo y haces contactos.
+13efa1	D	Rechazar: te concentras en tu carrera
+1731ef	D	Sigues con tu propia preparación.
+925eb5	D	«¿Hasta cuándo?»
+c780a6	T	{0} te mira después de tu última pelea. «Cada vez que subes al ring siento que te voy a perder. Ya demostraste lo que tenías que demostrar.»
+e387c9	D	Prometer que esta será la última etapa
+e492c1	D	Se abrazan. Te quita un peso de encima.
+0f78a7	D	Explicarle que aún te queda por lograr
+94a685	D	Te entiende y te apoya, aunque le cueste.
+a540eb	D	No te entiende y la tensión crece en casa.
+213072	T	Club {0}
+65aba6	T	Deportivo {0}
+6f29fe	D	Segunda división de
+13ac5d	T	Liga de {0}
+294f18	D	Clausura
+41ebd4	D	Apertura
+02f2cf	T	Final del {0} de la {1}
+213338	T	Liguilla ({0})
+332a36	T	{0} es campeón del {1} de la {2} al vencer {3} a {4} en la final.
+49bac4	T	{0} gana la {1} ({2}) con {3} puntos.
+028acf	T	Ascienden a la {0}: {1}. Descienden: {2}.
+5372e5	D	Copa de Inglaterra
+952100	T	Copa de {0}
+def24b	D	Copa Abierta de EE. UU.
+6e2942	T	Final de la {0}
+628731	T	{0} gana la {1}: {2} a {3}.
+995a9b	T	{0}: terminan los grupos. Avanzan {1} y otros 12 clubes.
+0aa88d	T	¡{0} ({1}) gana la {2}! Vence {3} a {4} en la final.
+cc8245	D	Final del Mundial de Clubes
+2b4f41	T	{0} es campeón del Mundial de Clubes: {1} a {2}.
+109707	T	Arranca {0} ({1}) en {2}: {3} selecciones.
+e5dc0b	T	Arranca {0} ({1}): {2} selecciones.
+aeade8	D	avanza a la fase eliminatoria
+e55cf4	D	queda eliminado en la fase de grupos
+933390	T	Final de {0}
+283e32	T	¡{0} CAMPEÓN DE {1} {2}! Vence {3} a {4} en la final.
+89d394	T	{0} se queda fuera.
+aeee80	T	Eliminatorias: quedan definidas las 48 selecciones del Mundial {0}.
+76b388	D	la Copa del Mundo
+28ad6a	T	Fichaje: {0} ({1}) deja {2} y firma con {3} por US${4} M.
+ae87b8	T	Balón Dorado {0}: {1} ({2}, {3}). Segundo: {4}; tercero: {5}.
+25de53	D	🏆 Balón Dorado
+adec9f	D	🏆 ¡GANAS EL BALÓN DORADO al mejor jugador del mundo!
+feae64	T	Quedas {0}.º en la votación del Balón Dorado.
+cdb96c	T	Entras a las fuerzas básicas de {0}.
+614901	D	Ningún club profesional te firma todavía: entrena y pide una prueba.
+f1c37e	T	Firmas tu primer contrato profesional con {0}.
+386a31	T	media {0}.
+66ff09	T	Entrenas {0}: {1} {2}
+a2dc28	T	Te lesionas en el entrenamiento extra: {0} mes(es) fuera.
+9aafe0	D	No tienes club.
+130e8a	T	El entrenador te escucha: «Te veo bien, vas a tener más minutos.» Confianza {0}. Rol: {1}.
+8d694b	T	«Aquí juega el que mejor entrena.» No le gustó que fueras a reclamar. Confianza {0}.
+113359	D	No hay clubes en tu país.
+a7ef1c	T	Te pruebas en {0}, pero no te firman (probabilidad {1} %). Mejora tu media y vuelve a intentarlo.
+8342e5	T	¡{0} te firma tras la prueba! Contrato de {1} año(s), {2} al año.
+371d74	T	🤕 Te lesionas en un partido ({0}): {1} mes(es) fuera.
+bdb009	T	⚽ ¡Debutas con el primer equipo de {0}! Firmas tu primer contrato profesional.
+a0d130	T	🇺🇳 Te convocan a la selección de {0}.
+4b8b9a	D	tu club
+912ef4	T	Termina tu préstamo: regresas a {0}.
+fc3c74	T	Termina tu contrato con {0}: eres agente libre.
+17f7a5	T	Campeón de goleo de la {0}
+5de6bd	T	👟 ¡Eres el campeón de goleo de la {0} con {1} goles!
+7cff17	T	👟 Campeón de goleo ({0} goles)
+39a6da	T	⭐ Te eligen mejor jugador de la {0} (calificación media {1}).
+918e6c	D	⭐ Mejor jugador de la liga
+93d2a9	T	Mejor jugador de la {0}
+a1b698	D	Premio al mejor jugador joven
+1d06e0	T	🏆 ¡Campeón: {0}!
+2bfca2	T	📨 Tienes {0} oferta(s) de fichaje. Revísalas en ⭐ Tu carrera → Fichajes.
+8a0e11	D	La oferta paga tu cláusula de rescisión: tu club no puede negarse.
+d58afd	D	Tu club acepta la oferta.
+f791d0	T	Tu club la rechaza: pide al menos {0}.
+bbd512	D	Es su última oferta: tómala o déjala.
+1e71ca	T	el sueldo sube a {0} al año
+20e20c	D	⚠️ No aceptan. Es su última oferta.
+32be19	D	❌ El club se retira de la negociación.
+2a7cbb	T	Te vas cedido a {0}: jugarás más minutos y volverás a {1} en un año.
+9d44f9	T	🔁 Te vas a préstamo a {0} por un año.
+7be405	D	su club
+c012bd	T	Fichaje: {0} deja {1} y firma con {2} por {3}.
+9cbb16	T	{0} Firmas con {1} por {2} años: {3} al año, traspaso de {4}. Rol prometido: {5}.
+b8a56c	T	{0} Firmas con {1} por {2} años: {3} al año. Rol prometido: {4}.
+55858b	D	No puedes pedir salir ahora.
+813e1f	D	Le pides al club que te deje salir. La afición no lo toma bien y el entrenador te tiene menos confianza, pero tu club escuchará ofertas más bajas.
+899872	T	📝 {0} te ofrece renovar: {1} al año por {2} años.
+a62b05	D	Rechazas la renovación. Si nadie te ficha, al terminar el contrato quedarás libre (y podrás irte sin costo de traspaso).
+ca37f2	T	Renuevas hasta {0}: {1} al año.
+19723d	D	A esta edad ya no puedes cambiar de posición.
+988048	T	Ahora juegas de {0}. Tu media en esa posición: {1}.
+657726	T	⚽ Gol del rival (minuto {0}).
+f65d4a	T	⚽ Gol de tu equipo (minuto {0}).
+566d45	D	Tirar a puerta
+a5883f	D	Pasar al compañero desmarcado
+afdf8a	D	Regatear y definir
+50409c	D	Entrar fuerte al balón
+a96806	D	Falta táctica (tarjeta amarilla)
+e8eb92	D	Temporizar y cerrar el espacio
+1598db	D	Achicar y salir al mano a mano
+377456	D	Lanzarte al primer palo
+4784ff	D	Esperar en la línea
+2cfc76	T	Minuto {0}: recibes de espaldas en tres cuartos, giras y quedas de frente al área.
+30447c	T	Minuto {0}: contragolpe; conduces por la banda con un compañero entrando por el centro.
+659b3d	T	Minuto {0}: el balón te cae en el borde del área tras un rebote.
+459ff4	T	Minuto {0}: el delantero rival encara en velocidad y te queda solo a ti.
+6b3afc	T	Minuto {0}: contragolpe rival, tres contra dos.
+957de3	T	Minuto {0}: pase filtrado a la espalda de tu línea; llegas a cerrar.
+1d2c43	T	Minuto {0}: un delantero queda solo frente a ti.
+f9821a	T	Minuto {0}: disparo potente desde fuera del área.
+ffc37d	T	Minuto {0}: centro rasante al área chica.
+fd4733	D	¡Disparo colocado al ángulo: GOL!
+fe00f2	D	¡Asistencia perfecta! Tu compañero solo la empuja: ¡GOL!
+ffafaa	D	¡Dejas a dos rivales en el camino y la cruzas: GOL!
+44fa84	D	¡y te anotan!
+53384f	D	Te quitan el balón y viene el contragolpe...
+c61a25	D	El pase se queda corto y la defensa corta.
+f79739	D	El portero rival vuela y la saca.
+4f92fa	D	¡Barrida limpia! Recuperas el balón.
+5a3e68	D	¡Segunda amarilla: te expulsan! Tu equipo se queda con diez.
+753b6c	D	Cortas la jugada con falta: tarjeta amarilla.
+f73883	D	Cierras el espacio y el atacante pierde el balón.
+69f616	D	Te gana la espalda y define: gol del rival.
+d688ac	D	Te superan, pero el disparo se va desviado.
+fa8a68	D	Llegas tarde y derribas al delantero en el área: penal... y gol del rival.
+30e661	D	No llegas: gol del rival.
+4f850e	D	¡Atajadón! Sacas el balón con una mano.
+db6afc	D	No llegas, pero el balón pega en el poste.
+01612c	D	Empate al final de los 90 minutos: ¡tiempo extra!
+867378	D	Empate tras el tiempo extra: ¡penales!
+103cf8	D	Pateas al lado derecho: ¡GOL!
+2ecb39	D	El portero adivina (izquierda): ¡te lo ataja!
+740a07	D	El portero adivina (centro): ¡te lo ataja!
+9e0795	D	Pateas al centro: ¡GOL!
+b3c29d	D	Pateas al lado izquierdo: ¡GOL!
+d7ddb8	D	El portero adivina (derecha): ¡te lo ataja!
+89b051	D	¡Te lanzas a la izquierda y atajas el penal!
+b776fb	D	El tiro va a la derecha: gol.
+d0d0b9	D	¡Te lanzas a la mitad y atajas el penal!
+ee0ca8	D	El tiro va al centro: gol.
+f2238c	D	El tiro va a la izquierda: gol.
+fc1e9c	D	¡Te lanzas a la derecha y atajas el penal!
+f2d2cf	T	Tanda de penales: {0}-{1}.
+7321f9	T	Firmas con {0}.
+733c41	T	Juegas de {0} (media {1}).
+8d9256	D	Aún no tienes club: pide una prueba.
+ece50e	D	fútbol mes
+b135b1	D	Sin minutos
+ea197a	T	Llevas semanas en la banca de {0}. {1}, el entrenador, pasa a tu lado sin mirarte. Tu media es {2} y la del equipo ronda {3}.
+06e423	D	Te quedas después de cada entrenamiento. El cuerpo técnico lo nota.
+231333	D	Entrenar el doble y esperar tu oportunidad
+6c1cf5	D	Lo toma como una falta de respeto.
+7a15e1	D	Te explica qué necesita de ti y te promete minutos.
+e9ada5	D	Pedirle explicaciones
+346630	D	Tu representante empieza a mover tu nombre con otros clubes.
+c7ba1c	D	Pedirle a tu representante que busque un préstamo
+738186	D	La noche antes del partido
+3cb526	T	{0}, compañero del equipo, te escribe: «Hay fiesta en un club exclusivo. Mañana jugamos, pero es temprano... ¿vienes?»
+0f8c79	D	Quedarte a descansar
+43ca38	D	Duermes ocho horas. Al día siguiente te sientes ligero.
+05aaf9	D	Ir un rato y regresar temprano
+3ce68f	D	Te diviertes y llegas a dormir a buena hora.
+fbc310	D	Se te pasa la hora. Juegas mal y el entrenador lo nota.
+4e725c	D	Alguien sube fotos tuyas a las 4 de la mañana.
+a132ed	D	unas fotos de fiesta la víspera de un partido
+f1523f	D	Ir hasta que cierren
+285853	D	El gafete de capitán
+b8f0b0	T	El entrenador te llama a su oficina: «Quiero que seas el capitán de {0}. El vestidor te respeta.»
+8bb59e	D	Te pones el gafete. Ahora eres la voz del equipo dentro y fuera de la cancha.
+8f1b43	D	Rechazar: prefieres concentrarte en tu juego
+c66346	D	El entrenador respeta tu decisión.
+8509d7	D	Un mensaje desconocido
+97992d	T	Un número desconocido te escribe: «Te pagamos {0} si te sacan una tarjeta amarilla antes del minuto 20 el sábado. Nadie lo va a notar.» Así empiezan muchos casos de amaño de partidos.
+4334ff	D	Ignorar y bloquear el número
+56b129	D	Bloqueas el número. Nada más pasa.
+a73a56	D	La unidad de integridad abre una investigación y te agradece. Tu nombre sale limpio en la prensa.
+afbe11	D	Reportarlo a la federación
+e88cee	D	una investigación por amaño de partidos (suspensión de 10 meses)
+fa8cb1	D	Te sacan la amarilla y recibes el dinero. Pero las casas de apuestas detectan movimientos raros...
+a53558	T	¡«{0}», de {1}, llega al número 1 de {2}!
+af6d20	T	«{0}», de {1} ({2}), es el nuevo número 1 de {3}.
+ff66d7	T	{0} anuncia su retiro tras una carrera con {1} premio(s) y {2} número(s) 1.
+42d119	T	🎟️ Estás nominado en {0} categoría(s) de {1}. Esta noche es la ceremonia.
+477600	T	La Guía Gourmet reduce a {0} estrellas a la cocina de {1}.
+5bbe85	T	La Guía Gourmet otorga {0} estrella a la cocina de {1}.
+6f3b70	T	La Guía Gourmet otorga {0} estrellas a la cocina de {1}.
+c62c79	T	La Guía Gourmet reduce a {0} estrella a la cocina de {1}.
+fd4995	T	La Guía Gourmet retira las estrellas a la cocina de {0}.
+00651d	T	{0} estrellas de la Guía Gourmet
+894e78	T	{0} estrella de la Guía Gourmet
+2e9b4e	D	Tu llegada es de lo más comentado de la alfombra.
+4836ba	D	Tu atuendo divide opiniones: mala prensa al día siguiente.
+0973e7	D	Tu discurso político incomoda a patrocinadores y a parte del público.
+f293f4	D	Tu discurso sobre una causa se vuelve tendencia.
+73e763	D	Tu chiste no cae bien en la sala, pero nadie lo recordará mañana.
+a888ee	D	Tu discurso con humor es el momento más compartido de la noche.
+6c70ed	D	Agradeces a tu equipo: un discurso breve y elegante.
+d1c654	T	{0} gana {1} {2} (varias categorías).
+bd1d31	T	Te vas de {0} sin premio, pero la nominación ya suma prestigio.
+135f42	T	nivel {0}.
+13af31	T	Practicas {0} ({1}): {2} {3}
+04edec	T	{0} no financia producciones de ese tamaño
+01e67b	D	Ya tienes un proyecto en marcha: termínalo o cancélalo.
+c2466e	T	No te eligen para {0}. Mejora tu nivel, tu fama o consigue representación: abren puertas.
+2a4a0a	T	¡Te eligen! {0} en «{1}» ({2}). Honorarios: {3}. Ahora toca trabajar: {4} sesiones.
+86fec8	T	No puedes producirlo: {0}.
+225fdf	T	Son {0} sesiones de trabajo.
+48494b	T	Inviertes {0}.
+c4baab	T	Empiezas «{0}» ({1}, producción {2}).
+e2f691	T	{0} adelanta el presupuesto (se recupera de tus regalías).
+e79578	T	Colabora {0}.
+543304	D	El proyecto ya está terminado: lánzalo.
+e53478	D	No tienes un proyecto en marcha.
+ec490e	D	Sesión perdida: sigues bloqueado. La siguiente saldrá mejor.
+42ad4d	D	un día para olvidar
+bbe0c6	D	¡Terminado! Ya puedes lanzarlo.
+a7f491	T	Cancelas «{0}». Lo invertido no se recupera.
+ad2585	D	No hay nada que lanzar.
+a1b6ed	T	Necesitas {0} para esa promoción.
+0ed812	D	buenas reseñas
+307146	D	el público lo adora
+4e8791	D	la crítica lo aclama
+541455	D	reseñas mixtas
+b680e0	D	recepción tibia
+c956c6	D	gusta al público
+e6d636	D	la crítica lo destroza
+245411	T	Participas con {0} % de las ganancias.
+435729	T	Regalías: {0} % (primero se recupera el anticipo: faltan {1}).
+71b2a6	T	Regalías: {0} %.
+96f8ce	T	Lanzas «{0}» ({1}): {2} ({3}/100) y {4} ({5}/100). +{6} {7}.
+eb1160	D	Como independiente te quedas 70 % de lo que genere.
+672ed8	T	📨 Tienes {0} oferta(s) de contrato. Revísalas en ⭐ Tu carrera → Industria.
+361297	T	las regalías suben a {0} %
+ef648f	T	el anticipo sube a {0}
+f54d71	D	conservas el control creativo
+a79e2b	D	❌ La compañía se retira de la negociación.
+42ed91	T	Firmas con {0} por {1} año(s): anticipo de {2} (recuperable de tus regalías), {3} % de regalías, {4} obra(s) comprometida(s).
+7b20df	T	Firmas con {0} por {1} año(s): anticipo de {2} (recuperable de tus regalías), {3} % de regalías, {4} obra(s) comprometida(s), con control creativo.
+7a6880	T	Rescindir cuesta {0} (anticipo sin recuperar más penalización) y no te alcanza.
+03a5a4	T	Rescindes tu contrato con {0}: pagas {1}. Vuelves a ser independiente.
+182eb0	D	Se nota el tropiezo.
+680f69	D	El público lo percibe y la energía baja.
+916584	D	Sale perfecto: el público responde.
+d79a49	D	Funciona mejor de lo que esperabas.
+f5ed0a	D	No sale como querías.
+fb4e5e	D	Lo logras y se nota en la sala.
+6ec986	D	una presentación correcta
+b4dff5	D	una noche legendaria
+c463b1	D	una noche floja
+d1921e	D	una gran noche
+fbb4ac	D	un desastre que circulará en redes
+b472c2	T	{0} asistentes, utilidad {1}
+b485cd	D	No puedes presentarte ahí:
+2a561c	D	ya estás de gira
+5a9436	D	necesitas más público fuera de tu país
+31fb6e	D	No puedes salir de gira:
+21ed65	T	Arranca: {0} ({1}), {2} fechas ({3}). Se juegan unas 4 por mes y la última se vive en pantalla.
+1c5aeb	T	Termina: {0} ({1}), {2} fechas, {3} asistentes y {4} de utilidad.
+93712d	T	{0} cierra una gira {1} con {2} asistentes.
+ddc406	T	Convives con {0}: hay buena química. Relación {1}. Con 25 o más puedes invitarle a colaborar.
+a4750f	T	{0} es amable, pero su equipo te despacha rápido. Las figuras grandes cuidan con quién se juntan.
+08f0be	T	un pleito público con {0} que se salió de control
+8e1fa1	T	Lanzas una indirecta pública contra {0}. Las redes arden: +{1} {2}, pero tu imagen baja y él no lo olvidará.
+d56158	T	Lanzas una indirecta pública contra {0}. Las redes arden: +{1} {2}, pero tu imagen baja y ella no lo olvidará.
+f64ef0	T	📈 «{0}» entra al top 10 de {1} (puesto {2}).
+43d7cb	D	El anticipo que no se recuperó lo absorbe la compañía.
+5e2551	T	Quedaste a deber {0} obra(s): tu reputación con las compañías baja.
+6f61cd	D	Termina tu contrato con la compañía.
+b2b15d	T	Tu estilo: {0}. Nivel {1}; puesto #{2} en «{3}». Abre Carrera → ⭐ Tu carrera para manejarla.
+e65788	T	Tu estilo: {0}. Nivel {1}; puesto fuera de lista en «{2}». Abre Carrera → ⭐ Tu carrera para manejarla.
+40829e	T	{0} aplica la cláusula de moralidad y rescinde tu contrato.
+f8376b	D	Tu compañía
+d27510	D	Bloqueo creativo
+76e8d7	T	Llevas días frente a «{0}» y nada de lo que haces te convence. {1}, que ya pasó por esto, te dice: «El bloqueo no se rompe empujando más fuerte».
+119c11	D	Avanzas, pero sabes que lo de hoy no es tu mejor trabajo. La próxima sesión se perderá.
+506c35	D	Forzarte a trabajar de todos modos
+870434	D	Vuelves con la cabeza limpia y dos ideas nuevas.
+a9aa49	D	Tomarte unos días fuera para despejarte
+33f39e	D	Está ocupado con lo suyo y lo toma como un abuso de confianza.
+b0b436	D	Pedirle que revise el material contigo
+ec3982	D	Encuentra lo que tú ya no veías. El proyecto mejora.
+1e79fc	D	Acusación de plagio
+b69923	T	Un despacho de abogados te notifica: alguien afirma que «{0}» copia una obra suya y exige {1}. En la industria, los éxitos atraen demandas: algunas son legítimas y otras buscan un arreglo rápido.
+b9c844	D	Firmas el arreglo. Nadie se entera y sigues adelante.
+c9f054	D	Pagar un arreglo confidencial
+3a0413	D	Ir a juicio y defender tu obra
+3b1e6e	D	El peritaje demuestra que las obras solo comparten elementos comunes del género. Ganas y tu nombre queda limpio.
+5d5ed3	D	una sentencia por plagio
+ea737f	D	El juez ve similitudes sustanciales. Pagas daños y costas.
+bf7761	D	Ofrecerle crédito y un porcentaje de la obra
+df83d1	D	Acepta figurar como coautor. Cedes una parte de tus regalías de esa obra.
+d75fa4	D	Propuesta de colaboración
+fe717f	T	{0} ({1}, {2} {3}) te escribe: «Me gusta lo que haces. ¿Hacemos algo juntos?» Una colaboración suma los públicos de ambos, pero también reparte el crédito.
+096b2c	D	Quedan de verse la próxima semana. La colaboración queda lista para tu siguiente proyecto.
+7c27b6	D	Aceptar: empezar un proyecto juntos
+37c63d	D	Lo entiende. La puerta queda abierta.
+93b790	D	Agradecer y dejarlo para después
+738346	D	Rechazar: no quieres que te asocien con su estilo
+88d6b5	D	No le cae bien. Se lo contará a otros.
+f4a032	D	El estado de cuenta
+dd3eca	T	Llega tu estado de regalías de {0}: después de meses de trabajo, el saldo a tu favor es cero. {1}, de la compañía, lo explica: «Seguimos recuperando el anticipo y los costos de producción y promoción. Faltan {2}». Así funcionan casi todos los contratos: no cobras regalías hasta recuperar.
+6286c3	D	Pedir una auditoría de las cuentas
+68c79a	D	La auditoría encuentra cargos mal aplicados. Te reducen el saldo pendiente.
+ff646f	D	Las cuentas están en orden y la auditoría la pagas tú.
+33fcb5	D	Aceptan: +3 puntos de regalías y un año más de contrato.
+ab735b	D	Renegociar: mejores regalías a cambio de un año más
+c333e5	D	«El contrato es el contrato.»
+8d800f	D	Entiendes el juego: el anticipo fue tu pago por adelantado.
+ca5064	D	Aceptarlo y concentrarte en el siguiente lanzamiento
+ef28e0	D	Una crítica demoledora
+e10437	T	La reseña más leída del mes sobre «{0}» se titula «Un paso en falso». Le pone {1} de 100 y todo el medio la está compartiendo.
+3c941b	D	En dos semanas nadie habla de la reseña.
+74386c	D	No responder y dejar que el trabajo hable
+225700	D	Suenas a mal perdedor. La discusión dura días.
+ea5042	D	Responderle en redes
+f4aa85	D	Tu respuesta, con humor, cae bien: hasta el crítico la comparte.
+5f95c8	D	Publica una segunda nota, más matizada. Tu imagen mejora.
+68e932	D	Invitar al crítico a ver tu proceso de trabajo
+8c52f6	D	Rechaza la invitación: «No me dedico a las relaciones públicas».
+abb910	D	Un patrocinio polémico
+ef43ae	T	{0} representa a una casa de apuestas en línea que quiere tu imagen: {1} por un año. Paga el triple que una marca normal porque muchas figuras se niegan: parte de tu público lo verá mal.
+2e775c	D	Firmas. El depósito llega esa semana; los comentarios también.
+adee05	D	promover apuestas entre un público joven
+18d537	D	Tu postura se comparte mucho. Otras marcas toman nota.
+19b5d2	D	Rechazar y decirlo públicamente
+0eb227	D	Rechazar con discreción
+fe6ae1	D	Agradeces y dejas la puerta abierta a otro tipo de marca.
+385e27	D	Una indirecta en público
+d4cf60	T	En una entrevista, {0} suelta sin decir tu nombre: «Hay gente que confunde la fama con el talento». Todos entienden que habla de ti. Las rivalidades venden, pero también desgastan.
+a09b15	D	No le das combustible. El tema muere solo.
+9443c5	D	Contestarle con una indirecta mejor
+d24bc6	D	Tu respuesta se vuelve tendencia. El público toma partido... y el tuyo crece.
+f65685	D	Tu respuesta suena forzada y te llueven burlas.
+5b7fbf	D	Te deja en visto.
+644c9d	D	Resulta que su equipo le había llevado chismes. Terminan en buenos términos.
+dacdfd	D	Escribirle en privado para aclararlo
+263e21	D	El cuerpo pasa la factura
+56a6e8	T	Vas a la mitad de la gira y llevas semanas durmiendo en aviones y camerinos. {0} te ve pálido antes de salir: «Así no llegas al final». Cancelar fechas cuesta dinero y enoja al público; seguir puede costarte la salud.
+b009ef	D	Aguantas. Nadie nota nada.
+e83753	D	Seguir como si nada
+f4944a	D	Te desvaneces tras bambalinas. Un mes fuera por prescripción médica.
+31c2b5	D	Posponer una semana de fechas
+50a39d	D	Descansas. Parte del público se molesta, pero vuelves entero.
+504bcf	D	Contratar un médico y un preparador para la gira
+a9f4a5	D	Con rutina, comida y sueño ordenados, terminas la gira mejor de lo que la empezaste.
+36f52e	T	⏳ {0} día
+a287a6	D	Tienes otro trabajo o estudias: cada actividad toma el doble de días que si te dedicaras de tiempo completo.
+764478	T	con {0}
+f4c15e	D	cada vez rinde un poco menos en el año
+3bc2a5	T	bolsa ×{0}
+ef1860	T	probabilidad de ganar ~{0} %
+07f585	D	🏆 Pelear por el título mundial
+3a1df0	D	solo top 3 del ranking
+8fde91	D	bolsa enorme
+fb3173	D	⭐ Pelea por el título
+02ee6c	D	más alcance
+159408	D	depende de que te escojan
+4897f0	T	producción {0}
+5374b0	T	requiere {0} fans {1}
+1d90df	D	📱 Publicar en redes
+5d501c	D	más alcance, riesgo de escándalo
+b3a368	D	seguro, mejora tu imagen
+353edb	D	una vez al año
+9c8feb	D	dona y recupera imagen
+b214e9	D	🤲 Apoyar una causa social
+d818bc	D	fama 35+ e imagen 45+
+095db6	D	⭐ éxito
+1e77c2	T	¿Retirarte de {0}?
+805a60	D	⭐ Carreras de fama
+714287	D	ⓘ Burbujas de ayuda y barra de abajo
+c3b55c	D	tiempo completo (actividades a mitad de días)
+11dda8	T	❌ Perdiste contra {0} por {1} en el round {2}
+7879a9	T	✅ Ganaste contra {0} por {1} en el round {2}
+a32376	T	🤝 Empate contra {0} por {1}
+b0d245	T	❌ Perdiste contra {0} por {1}
+e22325	T	✅ Ganaste contra {0} por {1}
+0787df	D	la quijada es casi toda natural: sube poco
+770a43	D	especialidad del gimnasio
+9a48bd	T	{0} Entrenar {1}
+5d2bad	D	técnica y defensa
+5f6073	D	algo de daño
+904dd4	D	3 rounds de 3 minutos
+e7bcd1	D	experiencia y récord
+043215	T	{0} te consigue peleas ({1} al año garantizadas).
+918fdf	D	Las ofertas vencen en tres semanas.
+63e6d7	T	Recibes {0} propuesta(s) de contrato.
+ce0e75	D	¿Subir de división?
+e6c6cb	D	¿Bajar de división?
+6c5c03	T	+ {0} % del PPV (~{1})
+60b29b	D	+5 de resistencia al empezar
+526fa0	D	TÍTULO
+5c8091	D	ÚLTIMA OFERTA
+3d0f88	T	+ {0} por ganar
+7fe2aa	T	{0} % del PPV
+beb02c	D	cláusula de revancha
+1fdd7a	D	Las promotoras firman a profesionales: primero debuta.
+c49f43	D	Sin contrato.
+467f53	T	bono por firma {0}
+3e8458	D	el entrenador cobra 10 % de tus bolsas
+3b833d	D	; no puedes ganar el título
+acb15f	D	Mucho volumen y castigo; gasta mucha energía. Bueno contra estilistas si tienes resistencia.
+cf27d7	D	Golpes de poder para terminar la pelea; te descubres y te cansas.
+9c53d8	D	Suena la campana. Tu esquina te recuerda el plan:
+915c7b	T	FIN DEL ROUND {0} DE {1}
+f1e51e	T	caídas {0}–{1}
+c28d84	T	en el round {0}
+23d839	D	Entrenador (10 %)
+0bcdf0	T	Mánager ({0} %)
+6741be	T	Lesión: {0} mes(es)
+66d0c5	D	Pro
+745a24	D	🥊 pelea en
+12e255	D	🥊 Box y MMA
+b369c5	D	Peleador$
+4e757e	D	Rankings$
+3e2f25	D	Trayectoria$
+b884bc	D	Pelear$
+56ccfc	D	(Torneo|Campeonato|Juegos Olímpicos|Abierto de jiu)
+18efaa	D	Verde: copa continental
+3f0af5	D	En liguilla.
+8f5a9c	D	Temporada terminada.
+5f4b28	T	Ronda {0}
+687788	T	quedan {0} clubes
+f1f6b0	T	🏆 Campeón: {0}{1}
+f22d83	D	El próximo Mundial:
+0d9132	T	Clasificados: {0}. {1}
+653fd4	D	Próxima ventana: verano (junio)
+eec1e0	D	Próxima ventana: invierno (enero)
+18d27f	D	🇺🇳 convocado a la selección
+da0d15	D	capitán
+37572b	D	🔥 en racha
+4a247d	T	actual {0}
+b22f78	T	pesa {0} % en tu media
+4cb4c1	D	un club de tu país te prueba
+7236ec	D	📋 Pedir una prueba en un club
+9490e6	D	pide más minutos (prueba de carisma)
+a7095d	D	⭐ Hablar con el entrenador
+f762dc	D	🗣️ Hablar con el entrenador
+3e1ec9	D	fama 35+
+7185a1	D	riesgo de escándalo
+4bb08b	T	Traspaso {0}
+02d5ac	D	🚪 Pedir salir del club
+a34f85	D	tu club acepta ofertas más bajas, pero baja la confianza del DT
+7c9e92	D	Penales. Te toca adivinar hacia dónde tiran:
+cceea4	D	Penales. Te toca patear:
+cd8902	T	Tu actuación: {0} gol(es), {1} asistencia(s), expulsado.
+d3b966	T	Tu actuación: {0} gol(es), {1} asistencia(s).
+34b0e7	D	⚽ Fútbol
+932d71	D	Jugador$
+767db8	D	Club$
+209c41	D	Fichajes$
+7b46ff	D	Torneos$
+6acdac	D	Ofertas$
+f92f6d	D	Selecciones$
+4b3e2c	D	Ligas$
+3fc7a8	D	Obra anterior (antes de la v1.6d)
+b1f6e5	D	con
+dbbb0e	D	fuera de lista
+d3acc7	D	🎟️ de gira
+574c53	T	pesa {0} % en tu nivel
+7145e3	T	{0} Practicar {1}
+2b7fe3	D	🛠️ Sesión de trabajo
+91a16f	D	⭐ Sesión
+bbc5ea	D	avanza el proyecto; la calidad de cada sesión varía
+074d01	T	la producción se estrena con la promoción de {0}
+1eb7ea	T	tus regalías: {0} %
+5281c0	T	{0} la distribuye
+620558	D	la publicas por tu cuenta
+9f0c0c	D	te quedas 70 %
+0bb695	T	🎲 {0} % de que te elijan
+12e303	D	Te eligen según tu nivel, tu fama y tu representación. Si firmas con un estudio, tus probabilidades suben.
+9cae0c	D	⭐ Audición
+b24146	T	honorarios desde {0}
+bcf2a0	D	Te eligen según tu nivel, tu fama y tu representación. Si firmas con una agencia, tus probabilidades suben.
+d4cc92	T	{0} sesiones
+dbf81d	T	cuentan {0} y {1}
+407e98	D	necesitas algo de fama (12+) e imagen (35+)
+b89d8e	D	presentas tu trabajo a varias compañías
+9f3a7f	D	de tu país
+5820f0	D	⭐ Presentación
+9c2e59	D	público estimado
+323933	T	requiere {0} {1}
+42c0de	T	requiere {0} {1} y público fuera de tu país
+beeebf	T	{0} fechas
+5ac30d	D	Total de
+40064a	D	Tocas varias puertas, pero por ahora nadie te hace una oferta. Publica más, crece tu público o consigue representante.
+de5557	T	¿Rescindir el contrato? Cuesta {0}.
+8e4ecc	D	🔒 necesitas relación 25 o más
+c43c7b	T	{0} acepta colaborar en tu próximo proyecto.
+af9c53	T	¡Ganas {0} premio(s)! Subes al escenario con el corazón a mil. ¿Qué dices en tu discurso?
+1179c5	D	🏆 ¡Premios!
+4111ce	D	🎟️ ¡Función!
+d8e244	D	🎟️ FUNCIÓN
+a7a9d3	D	🛠️ proyecto en marcha
+3e8f86	D	🎤 Música, cine, redes, moda, comedia, letras, cocina y DJ
+a5d60b	D	Perfil$
+69d61e	D	Obras$
+755dc1	D	Industria$
+131ce8	D	Escena$
+d6b9b9	D	En vivo$
+f27680	D	kv:Obras que debes
+d40712	D	Lista$
+dabefc	D	Colegas$
+69326b	D	Premios$

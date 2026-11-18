@@ -1,0 +1,106 @@
+da4112	Ülkenin büyümesi
+e770f6	Durgunluk
+c42c4a	Faiz oranları
+b82b50	Savaş
+2091ec	Petrol fiyatı
+6f40f5	Metal fiyatları
+de3107	Bankacılık krizi
+eaa432	Bankaların sağlığı
+25df08	Müşterileri (zincir)
+8ba059	Hane halkı tüketimi
+428aa6	Son iflaslar
+eb9d92	Sektör eğilimi
+2a9066	İldeki haneler
+ba2f44	Turistler
+0ed580	Ülkedeki diğer şirketler
+2b3fa3	Teknolojiyi benimseyen şirketler ve haneler
+90c48c	Ülke genelindeki haneler
+cfcdcf	Dünya piyasası: uluslararası fiyattan satarsın
+bf3612	bir şirketin iflası nedeniyle
+fe1287	bir şirketin kapanması nedeniyle
+04d5bf	{0} ay
+01c6b3	Yerel ekonomiye katkı
+e29d55	Henüz ilk ayını kapatmadı.
+ae31cc	Yıllık katma değer
+a59004	Tedarikçiler ve maaşlarla
+a14887	İstihdam
+e0373a	doğrudan + dolaylı
+8cf54c	Vergiler ve primler
+78ca2c	yılda
+f45225	İlin GSYH'si
+54e3cd	Ülkenin GSYH'si
+c37c0c	Katma değer = satışlar − girdiler: şirketinin ekonomiye kattığı.
+2ccea0	Tedarikçilerden yaptığı alımlar ve çalışanlarının harcadığı maaşlar daha fazla faaliyet yaratır (çarpan).
+bd431d	Her yıl bu katkı {0} GSYH'sine eklenir.
+5d2777	Tedarik zinciri
+163de9	Girdiler
+e9b8a1	Maliyetin %{0}
+725a2b	2026'dan beri fiyat
+3c8275	Senin şirketin üretiyor
+f9c7b3	(%10 daha ucuz)
+c60a91	Dikey entegrasyon: girdilerde ayda {0} tasarruf ediyorsun.
+e84b64	Müşteriler
+928862	Sektörünün sağlığı
+cd52f2	Talebine etkisi
+0b5c1a	İlin talebi
+6b7103	Ekonomiye katkın
+33a71c	Ülkenin GSYH'si içindeki payın
+e0d793	Şirketlerini haritada gör
+b5aae0	Başka bir ülkede satın almak doğrudan yabancı yatırımdır: %{0} işlem ücreti ödersin ve şirket o ülkenin maaşları, vergileri ve krizleriyle çalışır.
+59502b	İşlem ücreti: {0}
+c33869	Bu ülke artık yok.
+ff7f4c	Yabancı yatırım işlem ücreti: {0}.
+afd069	{0} şirketini {1} karşılığında satın alıyorsun. Yabancı yatırım işlem ücreti: {2}.
+bd6bcf	{0} şirketini {1} karşılığında satın alıyorsun ({2} ödüyorsun; {3} kredi şirketin borcu olarak kalıyor). Yabancı yatırım işlem ücreti: {4}.
+b5a26e	Aynı alandaki rakip
+ec0385	Şirket sağlıklıysa daha fazla öder: ona müşteri ve şube kazandırır.
+488eb4	Özel sermaye fonu
+2fabc6	Yalnızca kâr eden şirketleri alır; nakit akışlarına göre öder.
+1342fe	Bireysel yatırımcı
+67b06b	Daha az teklif eder ama neredeyse her şirketi alır.
+033f80	Şirketi sat
+3b6679	Tahmini değer
+99ff29	Şirketin sağlığı
+e4ed68	Her alıcı şirketin sağlığına göre teklif verir: marj, itibar, büyüme ve borç.
+21206a	Kabul edebilir ya da daha fazlasını isteyebilirsin: reddederse teklifini biraz düşürür; ikinci retten sonra çekilir.
+5b72aa	Teklifler her 3 ayda bir yenilenir.
+095408	Şimdilik ilgilenen alıcı yok.
+c733ab	Daha fazla ödemeyi zaten reddetti: {0}
+8f9f73	Kabul et
+4f5c13	{0} Capital Fonu
+37b68c	{0} çekiliyor: {1} için daha fazla ödemeyi kabul etmiyor.
+362d66	{0} daha fazla ödemeyi reddediyor ve teklifini {1} seviyesine düşürüyor. Kabul edebilir ya da bir kez daha deneyebilirsin.
+dadf29	{0} şirketini {1} alıcısına {2} karşılığında satıyorsun (teklifinden %{3} fazla). Şirket yeni sahibiyle çalışmaya devam ediyor.
+2b53c9	{0} şirketini {1} alıcısına {2} karşılığında satıyorsun. Şirket yeni sahibiyle çalışmaya devam ediyor.
+ba0b31	Sektörlerin sağlığı
+19f297	50 normaldir.
+f3c89a	Her sektör müşterilerine bağlıdır: inşaat düşerse sanayi ve madencilik bunu sonra hisseder (tedarik zinciri).
+cd2c1f	Nedenlerini görmek için bir sektöre dokun.
+84fdb6	Borçluları
+99ebbc	Yerel ekonomi
+84b89e	Ekonomik faaliyet
+d276d5	Ana sektör
+1bc7f4	Ekonominin %{0}
+b6d859	Yerel ekonomi ve şirketlerin
+df6537	zayıf
+7af0f1	güçlü
+ee64e3	Şirketlerin
+bd7d15	İllerin ekonomik faaliyeti ana iş parçacığında hesaplanır.
+d215c8	Bu tarayıcıda kullanılamıyor: ana iş parçacığında hesaplanır.
+012346	3.422 ilin ekonomik faaliyeti her ay başka bir iş parçacığında hesaplanır.
+59e47e	Dünya ekonomisi arka planda: açık
+1f3ade	Dünya ekonomisi arka planda: kapalı
+1662ca	{0} şirketinin iflası {2} bölgesinde {1} kişiyi işsiz bırakıyor; {3} bankaları geri ödenmeyecek kredilerde {4} kaybediyor.
+737a53	{0} kapanınca {2} bölgesinde {1} kişi işsiz kalıyor ve ilin talebi birkaç ay düşüyor.
+694f77	Katma değer
+01640b	Bir şirketin ekonomiye kattığı: satışları eksi diğer şirketlerden aldıkları (girdiler). Tüm şirketlerin katma değerlerinin toplamı GSYH'dir.
+66fdc7	Ekonomik çarpan
+54f06b	Bir şirketin tedarikçilere ve maaşlara harcadığı her peso başka işletmelerde yeniden harcanır; bu yüzden ekonomiye toplam etkisi kendi satışlarından büyüktür.
+aaabdb	Dikey entegrasyon
+3daa84	Kendi tedarikçinin (ya da müşterinin) sahibi olmak: girdi daha ucuza gelir ve başkalarına bağımlı olmazsın, ama riski yoğunlaştırırsın.
+4d3788	Doğrudan yabancı yatırım
+816d1b	Başka bir ülkede şirket satın almak ya da açmak. Ev sahibi ülkeye istihdam ve sermaye getirir; yatırımcı o ülkenin krizlerini, vergilerini ve para birimini üstlenir.
+60cc9e	Değerleme çarpanı
+fab259	Bir şirket için yıllık kârının kaç katı ödendiği. Şirket büyüyorsa, marjı iyiyse ve borcu azsa alıcı daha yüksek çarpan öder.
+220bd8	Birbirine satış yapan şirketler ağı: önemli bir müşteri krize girerse tedarikçileri bunu sonra hisseder ve zincir boyunca böyle sürer.
+d0a528	Bağlantılı ekonomi

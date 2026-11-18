@@ -1,0 +1,323 @@
+4366df	Gerente de salão
+8c8e10	Curso de serviço e vinhos
+b19c39	Restaurantes
+dfe4b8	Chefe de garçons
+9f8dcb	Garçom de meio período
+00917b	Operário qualificado
+25db75	Supervisor de linha
+74eafc	Indústria
+94f5cd	Gerente de fábrica
+f2be78	Operário
+feaa5e	Certificação de empilhadeira e segurança industrial
+5f47dd	Gerente regional
+5fb2e4	Curso de vendas
+8784c7	Vendedor sênior
+91a608	Gerente de loja
+3e14b9	Certificado de competência em construção
+45ce87	Oficial
+722636	Construção
+8a029f	Servente
+b940ba	Mestre de obras
+1854d3	Diarista rural
+9a507e	Produtor
+9c0347	Agropecuária
+b6ea8f	Curso de irrigação e agricultura de precisão
+fec8e2	Produtor com terras próprias
+1faabc	Certificação em pacote Office e contabilidade
+317e4f	Auxiliar administrativo
+47eabc	Coordenador de área
+4e83ca	Chefe de escritório
+2caf0b	Curso de administração pública
+847b37	Governo
+9960c9	Auxiliar
+85b776	Segurança pública
+95f50e	Subtenente
+bb20c5	Comissário
+e396cc	Curso da academia de polícia
+ecc8ab	Policial de primeira classe
+029afd	Chefe técnico
+301b0e	Certificação técnica especializada
+8d5ff3	Técnico especialista
+2b1326	Mestrado em educação
+76e452	Coordenador pedagógico
+b16d01	Professor efetivo
+ca7665	Diretor de escola
+ebafca	Professor temporário
+1e6ae7	Arquiteto de software
+263cf3	Programador júnior
+2a3192	Líder técnico
+72d6e9	Programador sênior
+d28d03	Certificação em nuvem
+46a7e8	Certificação em gestão de projetos
+7e2469	Engenheiro júnior
+8c3f49	Engenheiro sênior
+f4762a	Gerente de engenharia
+011605	Advogado associado
+0398bf	Advogado sênior
+1f4f0f	Sócio do escritório
+7140d8	Serviços jurídicos
+b76cc3	Mestrado em direito
+e33833	Estagiário
+5d4a06	Chefe de serviço
+7ab414	Médico especialista
+894f03	Clínico geral
+c88e92	Subchefe de serviço
+cc35c0	Especialização médica (residência)
+1f4928	Curso de capacitação
+282819	Encarregado
+2cd4fa	Supervisor
+17fdcf	Diurno
+824b8c	Noturno
+8fa6b9	Rotativo (muda toda semana)
+af15e6	Misto
+86df48	Muito alto
+bb90d1	Baixo
+f46edd	Alto
+04251e	O normal
+e18540	Horas extras
+f58f80	O mínimo
+a34683	Habilidade na profissão
+aa3ec4	Relação com o chefe
+e201ca	Horas que você trabalha
+55230a	Tempo de casa
+90499f	Certificação
+fed9ee	Estresse
+619554	com sindicato
+13c296	Colegas
+7f57e4	Cargo
+9a5b79	Condições
+0da43f	Experiência total
+502edc	Habilidade
+598c7e	Advertências
+866e28	Férias restantes
+971fe4	Turno
+ccf106	Risco da profissão
+1c77d4	Jornada legal
+990919	13º salário
+35fe5f	Trabalho informal
+73bb98	Indenização
+8f52ef	Seu emprego
+dce00f	Sindicalização
+5ddc89	Férias remuneradas
+2cd097	13º salário ou pagamentos extras
+8f25e2	Indenização por demissão
+892af6	Sindicatos
+211eb2	Formal ou informal
+5f8c85	Estresse no trabalho
+109b47	Desempenho
+110729	desempenho
+7c2374	DESEMPENHO
+4db381	Plano de carreira
+4f6653	emprego formal
+8a6ade	emprego informal
+44db32	Trajetória
+b7be52	Salário anual
+3a0b96	Horas de trabalho
+79bd0e	Ações
+34eb65	Seu chefe
+52a3e8	Sua equipe
+8c161b	Avaliações
+086bff	excelente
+87b88f	boa
+5f51ef	regular
+0d9c30	baixa
+e033af	gentil
+859738	fofoqueiro
+d0f165	esforçado
+809f9a	preguiçoso
+c17e7c	mentor
+a24cb9	🔥 Você está à beira do esgotamento (burnout): reduza as horas ou tire férias.
+1082fd	🩹 Você se machuca no trabalho.
+5d3f81	🚑 Você sofre um acidente de trabalho. Se recupera, mas ficam sequelas.
+6a370f	📋 Avaliação semestral: {0}/100, boa. Aumento de {1} %.
+862f07	📋 Avaliação semestral: {0}/100, regular. Sem aumento.
+ba807c	📋 Avaliação semestral: {0}/100, baixa. Você recebe uma advertência por escrito ({1} de 2).
+f759b8	📋 Avaliação semestral: {0}/100, excelente. Bônus de {1} e aumento de {2} %.
+38f462	📄 Você é demitido de {0}. Recebe {1} de indenização (lei do seu país: {2} dias mais {3} por ano trabalhado).
+c504b9	📄 Você é demitido de {0}. A lei do seu país não obriga a pagar indenização.
+e1def0	📄 Você é demitido de {0}. Como o emprego era informal, não recebe indenização.
+09a3ff	📢 Vaga de {0} em {1}: a empresa está crescendo.
+956c00	📢 Vaga de {0} em {1}: alguém se aposenta.
+b5fb67	📢 Vaga de {0} em {1}: alguém foi demitido.
+d7fbcb	📢 Vaga de {0} em {1}: alguém pediu demissão.
+233972	Você já se candidatou.
+9f69b8	Para esse cargo você precisa de: {0}.
+15c3eb	🎉 Você é promovido a {0}. Seu salário passa a {1} por ano.
+4cd1d1	A vaga de {0} fica com {1}, seu rival. Agora é seu chefe.
+099a0f	A vaga de {0} fica com outra pessoa.
+83f5d2	A vaga de {0} é preenchida por alguém de fora.
+93ca0a	📨 {0} oferece um emprego como {1} com {2} % a mais de salário.
+a4531b	{0} oferece um emprego como {1} com {2} % a mais de salário.
+7f73dc	Você aceita. Começa em {0} como {1} com salário de {2} por ano.
+e36383	Seu chefe não gosta da pressão. Não há aumento e a relação esfria.
+eb05a6	Seu chefe não quer perder você: aumenta seu salário em {0} %.
+6d4e8b	Você pediu aumento há pouco: espere um ano.
+94c1d4	Seu chefe aceita: seu salário sobe {0} %.
+848773	Seu chefe diz que por enquanto não.
+cc38c7	Você começa: {0}. Dura {1} meses e custa {2}.
+5cc68c	Você não tem mais dias de férias este ano.
+0421de	Você tira {0} dias de férias remuneradas. Volta descansado.
+63f5a6	Você tira {0} dias sem remuneração (no emprego informal não há férias remuneradas).
+15bec4	Você sai do sindicato.
+faa5df	Você se filia ao sindicato. A contribuição é de 1 % do salário.
+2484e8	Você almoça com {0}. Fica sabendo de todas as fofocas.
+629a4e	Você almoça com {0}. Vocês se entendem melhor.
+7e316d	Você almoça com {0}. Te ensina truques da profissão.
+387c03	Você já tem uma oferta na mesa.
+db66b9	Você envia currículos, mas por enquanto ninguém liga.
+88b9bf	🎄 13º salário: você recebe {0} ({1} dias de salário, por lei).
+c68240	🎄 Pagamentos extras por lei: você recebe {0} ({1} dias de salário por ano).
+0b6904	🤝 O sindicato assina o acordo coletivo: aumento geral de {0} %.
+e0d6ff	Troca de turno
+b6ccc3	{0} te para no corredor: «Você cobre meu turno de sábado? Tenho um compromisso de família e não dá para mudar».
+0f1170	Você perde seu sábado, mas a pessoa agradece de verdade. Agora te deve uma.
+574d5a	Cobrir o turno
+2122b9	Recusar com gentileza
+991339	A pessoa entende, mas dá para ver a decepção.
+3d5ff0	Aceitar em troca de ela cobrir um dia seu depois
+518a03	A pessoa acha que você está cobrando o favor e sai chateada.
+af570f	Combinado: vocês trocam os dias e os dois ficam contentes.
+db2a1e	Rumores de corte
+0ebecc	Corre o boato de que em {0} haverá cortes de pessoal. {1}, seu chefe, está mais sério que o normal.
+0aac23	Oferecer-se para fazer horas extras
+6753ba	Seu chefe nota sua disposição. Você vai trabalhar mais, mas é visto como indispensável.
+0ce6ae	Falar com o chefe para saber sua situação
+3be889	Ele desconversa. Você fica na dúvida e mais estressado.
+f99eb2	Ele confirma que seu cargo não está em risco. Você respira.
+42e9d9	Mandar currículos para outras empresas, por via das dúvidas
+77c735	Você atualiza o currículo e envia candidaturas.
+f32c32	Tratamento humilhante
+f2ee92	No meio da reunião, {0} zomba do seu trabalho na frente de todos. Não é a primeira vez.
+959bb5	Você engole a raiva. O estresse se acumula.
+5fd72c	Falar com o chefe em particular
+990b9d	Você diz com calma que isso não está certo. Ele se desculpa pela metade, mas não volta a acontecer.
+e6eb06	Ele fica na defensiva e diz que você não aguenta nada.
+c71486	Sem provas suficientes, a denúncia não avança e seu chefe fica sabendo.
+dab6cc	O RH abre uma investigação e ele é advertido. Seus colegas passam a respeitar você mais.
+f71b65	Denunciar ao RH com provas
+408e05	Não há sindicato no seu trabalho
+870300	O delegado sindical conversa com a empresa. O tratamento melhora.
+cc15f4	Recorrer ao sindicato
+08283d	Fofoca no escritório
+b24f2e	{0} conta que alguém anda dizendo que você vai sair da empresa. Vários já acreditam.
+3fdebb	Desmentir na frente de todos
+58bd81	Dá para ver que te afetou e a fofoca cresce.
+995b0c	Você esclarece com bom humor e a fofoca morre.
+d2fc17	Em poucas semanas ninguém lembra.
+526b90	Você descobre que foi alguém da área ao lado. Deixa claro que sabe.
+676f17	Você pergunta demais e agora a fofoca é você.
+9075a6	Descobrir quem começou
+a40673	Projeto urgente
+0f0f7f	{0} te chama na sala: «Temos um projeto urgente para sexta e quero que você o conduza».
+1cf670	Aceitar
+d6ce4f	Você trabalha até tarde a semana toda, mas entrega a tempo. Seu chefe fica impressionado.
+21751c	Não há gente disponível. Você faz sozinho, a toque de caixa.
+7d2d82	Te dão alguém da equipe. Dá certo e sem tantas noites em claro.
+e3601f	Aceitar se te derem apoio
+054357	Recusar com argumentos
+564838	Para ele, soa como desculpa.
+c19c2f	Você explica que agora não conseguiria fazer bem. Ele entende e passa para outra pessoa.
+7fd8ed	Você não tem um emprego comum. Procure um em Carreira → Empregos.
+7bc0ce	Próxima avaliação em {0} meses.
+c84cc5	Próxima avaliação em 1 mês.
+28ab8f	Menos estresse, mas seu desempenho cai e seu chefe percebe.
+4648d2	Mais desempenho e mais estresse. No seu caso, as horas extras são pagas sem adicional.
+7105a6	Mais desempenho e mais estresse. As horas extras são pagas a {0}× a hora normal.
+96710b	Você cumpre sua jornada sem se desgastar demais.
+2708e1	Fecha em 1 mês.
+6f1419	Fecha em {0} meses.
+beacbe	Probabilidade de ficar com o cargo: {0} %.
+aa7d56	vence em 1 mês
+472b97	vence em {0} meses
+2062de	espere um ano
+0c5269	sem remuneração (emprego informal)
+4520af	sem dias este ano
+a31a5d	🏖️ Tirar uma semana de férias
+df46d5	restam {0} dias remunerados
+51d050	o dinheiro não dá
+7729ce	💼 Certificação
+e0c6cb	necessária para ser promovido a {0}
+e10e5b	+6 de desempenho
+2984dc	✊ Filiar-se ao sindicato
+7f7034	você paga 1 % do salário
+cf7925	✊ Sair do sindicato
+fd31ac	contribuição de 1 % do salário
+bd950e	{0} horas por semana
+f7ba87	pagas a {0}× a hora normal
+173daa	{0} dias de salário
+dcd595	{0} dias no primeiro ano
+e312e9	{0} dias por ano (pagamentos extras)
+ed2304	{0} dias no primeiro ano (aumentam com o tempo de casa)
+f9f0f9	não é obrigatório
+31ea26	não é obrigatória
+c4b6f6	formal, com seguridade social
+d3af34	{0} % dos trabalhadores
+dde865	{0} dias mais {1} por ano trabalhado
+e29e4f	cerca de {0} %
+529ced	Como seu emprego é formal, você tem direito ao que a lei determina: férias remuneradas, 13º salário e indenização se for demitido sem justa causa.
+682191	No emprego informal não há contrato: você não contribui, não tem férias remuneradas nem 13º, e se for demitido não recebe indenização.
+50a988	Você recusa a oferta.
+286141	💼 Seu emprego
+9e7b7b	Você perdeu o emprego. Procure outro em Carreira → Empregos.
+63488f	📋 Avaliação
+9d2db4	O relógio parou: veja sua avaliação em 💼 Seu emprego.
+a70d60	📨 Oferta de emprego
+bff4ac	O relógio parou: você tem uma oferta de emprego.
+ccce29	O relógio parou: há uma vaga no seu trabalho.
+7d9ab7	Seu desempenho se aproxima de {0} a cada mês. O que pesa:
+97296d	📢 Vaga: {0}
+cfa60f	📨 Oferta de {0}
+16b88b	{0} com {1} % a mais de salário
+e52c6f	🎓 Você já tem: {0}.
+fa120d	🎓 {0}: faltam {1}.
+4be2f6	Relação {0}/100
+8d3e18	relação {0}/100
+4fc176	desempenho {0}
+b5761e	Leis e condições de {0} (aproximadas a 2025–2026).
+3d81af	aumento {0} %
+502e4f	{0}–hoje
+b35e9d	{0} de 2
+1423bf	✋ Candidatar-se
+e9d1a1	Usá-la para negociar
+20dc80	💰 Pedir aumento
+353edb	uma vez por ano
+863a31	🔎 Procurar outro emprego
+5bea79	você envia currículos a outras empresas
+518bda	Conviver melhora a relação e reduz seu estresse. Seu rival disputa as promoções com você.
+2aece1	⚔️ rival
+50d80e	🍽️ Almoçar juntos
+ee5221	sem adicional obrigatório
+1706b4	informal, sem benefícios
+a03b21	Salário neste emprego
+0cf8d9	O gráfico aparece quando você tiver dois anos neste emprego.
+7ae45a	🟡 Salário (nominal)
+2729f1	🔵 Salário real (descontada a inflação)
+fd1c92	Você ainda não tem avaliações.
+a8acb5	Histórico de empregos
+779c52	📢 vaga
+119910	📨 oferta
+1fc588	📢 Vaga
+8d8938	📄 Demissão
+d150e6	💼 Candidatar-se
+16429c	💼 Pedir aumento
+0dd6ea	💼 Férias
+6c2c95	💼 Sindicato
+883b4e	💼 Procurar emprego
+4207cd	💼 Oferta
+98cdac	💼 Conviver
+94ca96	Prefeitura de {0}
+66ac7f	Escritório estadual de {0}
+fa33b4	Subprefeitura {0}
+231b63	Polícia municipal de {0}
+d350d6	Polícia estadual de {0}
+134845	Escola Primária {0}
+ebc6e8	Escola Técnica de {0}
+f428af	Hospital Geral de {0}
+c8f710	Centro Médico {0}
+77c56e	Candidatar-se
+98bdfa	Sindicato
+db5a60	Procurar emprego
+70285d	Oferta
+69bde7	💼 Empregos comuns
+756e3b	Empregos comuns
+f9876f	não são obrigatórias (sua empresa dá {0} dias por ano)

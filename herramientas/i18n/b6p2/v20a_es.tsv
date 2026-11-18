@@ -1,0 +1,84 @@
+738665	D	Personalizado
+6315e0	D	⚙️ Más opciones (personalizado)
+0b7b7b	D	🎯 Nivel de esta partida
+a83c17	D	👀 Mostrar todas las opciones
+8e6bf4	D	Todo el menú Más está a la vista.
+0a6762	D	Las opciones avanzadas se abren con tu avance.
+d2c872	D	💡 Explicaciones de primera vez
+13e070	D	Una tarjeta corta la primera vez que abres cada pantalla.
+71231e	D	🧭 Sugerencia del siguiente paso
+1a86f0	D	«Te conviene: …» arriba del mapa.
+41dec9	D	↺ Volver a ver las explicaciones
+f4bb5f	D	Las tarjetas de primera vez aparecen otra vez.
+d4b979	D	El modo (Rápido o Realista) se elige al crear la partida y no cambia a mitad; la dificultad sí.
+901306	D	Las explicaciones de primera vez aparecerán otra vez.
+a3a1f6	D	Glosario
+d5a3a2	D	Se abren más adelante
+c54540	D	a los 18 años
+f613c9	D	a los 18 años, con ahorros de un año de salario medio
+87ec0c	D	con un patrimonio de 5 años de salario medio
+f30956	D	a los 30 años o al tener hijos
+0ff455	D	al gobernar o entrar al ejército
+40b8f6	D	herramienta técnica: está en «Mostrar todo»
+457707	D	Toca para mostrar todo ahora
+eb91a7	D	Mostrar todo
+a261bb	D	Todas las opciones del menú Más están a la vista. Puedes volver a ocultarlas en Ajustes.
+f8aa55	D	Primera vez aquí
+4be0e2	D	Te conviene:
+52cddd	D	📘 Gastaste más de lo que ganaste: tus ahorros cubrieron la diferencia.
+873c19	D	📘 Tu patrimonio creció más que tu sueldo neto: tus cuentas, inversiones o empresas también te dieron dinero.
+e943dd	D	📘 Tu patrimonio bajó más que por tus gastos: alguna inversión, empresa o compra perdió valor.
+afc8ee	D	Nueva opción en Más
+0930b8	D	Riesgo en tu banco
+edd50c	D	Revisa el aviso en tu historial.
+227673	D	Términos de economía y finanzas que usa el juego. En el modo Fácil aparecen subrayados en las pantallas de dinero y del país: tócalos para ver qué significan.
+e0281e	D	Niveles
+64968c	D	Niveles y modo Fácil
+b0e217	D	Ahora no
+539e07	D	Acción (bolsa)
+0ad20e	D	Salario medio
+375cfc	D	Tasa de interés
+0637e8	D	Diversificar
+2401fc	T	{0} términos de economía y finanzas, explicados
+c0e8eb	T	📘 Tu año en números: ingresos de {0} y gastos de vida de {1}; tu patrimonio pasó de {2} a {3}.
+5c4c5c	T	🔓 Se abre en Más: {0}
+a39604	T	💡 ¿Sabías que…? {0} (Fuente: {1})
+e62b0a	T	⚠️ Tienes {0} en {1}: el seguro de depósitos cubre hasta {2} por banco. Si ese banco quiebra, puedes perder la diferencia; repartir tu dinero en varios bancos reduce el riesgo.
+67799a	T	⚠️ Tienes {0} en {1} y tu país no tiene seguro de depósitos: si el banco quiebra, puedes perderlo todo. Repartir tu dinero en varios bancos grandes reduce el riesgo.
+24a9c6	T	{0} (se sobrescribe)
+180bc0	D	Para quien no conoce el juego ni cómo funciona la economía: reglas simples y más margen; las opciones avanzadas se abren poco a poco y cada pantalla se explica la primera vez. Una vida: 10–15 min.
+51f252	D	Calibrado con datos reales y con reglas simples: sueldo y gastos automáticos, guerras de una batalla al año, todo a la vista. Una vida: 10–15 min.
+ed96d3	D	Todas las mecánicas: impuestos, inflación, préstamos, guerras mes a mes, enfermedades, congreso y juicios. Una vida: 30–60 min.
+b23482	D	Guardar dinero en un banco lo protege y le paga intereses (la tasa de depósito). Los bancos chicos pagan más porque quiebran más seguido; si uno quiebra, el seguro de depósitos de tu país te devuelve hasta un tope por banco. Aquí también pides créditos: el interés depende de tu historial crediticio.
+55147a	D	Una acción es una pequeña parte de una empresa. Si a la empresa le va bien, el precio sube y algunas reparten dividendos; si le va mal, puedes perder. Comprar empresas de sectores distintos (diversificar) reduce el daño de que una sola caiga.
+55c1d6	D	Una empresa vende cada mes y paga insumos, sueldos, renta, impuestos y deudas; lo que queda es la utilidad, y lo que reparte llega a tu dinero. Empezar chico y reinvertir es más seguro que endeudarse para crecer rápido.
+361159	D	Servicios que pagas cada mes: protección, salud, ayuda en casa. Mejoran tu vida o bajan riesgos (por ejemplo, el de secuestro cuando tienes mucho dinero), pero son un gasto fijo: contrátalos cuando tu ingreso los aguante.
+e8c16a	D	Tu dinero del año: ingreso bruto menos gastos de vida (y, en Realista, impuestos y pagos de préstamos) da tu neto. Si el neto es negativo, gastas más de lo que ganas y tus ahorros bajan.
+67b11d	D	Aquí decides en qué usas tu tiempo. Cada actividad cuesta tiempo o dinero y mueve tus estadísticas: estudiar sube la inteligencia; el gimnasio, la salud; la familia, la felicidad. Esas estadísticas deciden qué puertas se abren después.
+d40bce	D	Tu forma de ganarte la vida. Un empleo da sueldo desde ya; la universidad cuesta años, pero abre empleos mejor pagados; las carreras hacia el poder (política, ejército, negocios) llevan a gobernar. Los sueldos salen del salario medio real de tu país.
+40dca5	D	Lo que tienes: casa, autos y otros bienes. Tu patrimonio es todo lo que posees (efectivo, cuentas, inversiones y bienes) menos lo que debes.
+c63650	D	Tus relaciones: familia, pareja, amigos y contactos. Se enfrían si no les dedicas tiempo; los contactos te abren empleos y negocios.
+427549	D	Tu ambición es la meta que elegiste para esta vida: aquí ves cuánto te falta y los logros que ya conseguiste.
+ecab87	D	Cada país con datos reales de 2026: población, economía, ejército y relaciones con otros países. Lo que pase en el tuyo (guerras, crisis, sueldos) también te afecta a ti.
+81e3ae	D	🩺 Tu salud está baja: ve al médico o al gimnasio.
+f01ef9	D	🌴 Tu felicidad está baja: pasa tiempo con tu familia o toma vacaciones.
+831c8b	D	📚 Estudia: la inteligencia sube tus calificaciones y abre mejores carreras.
+999b71	D	💼 Busca empleo o entra a la universidad: es tu primera fuente de ingresos.
+552684	D	📉 Gastas más de lo que ganas: busca un empleo mejor pagado o prepárate más.
+7c420a	D	🏦 Tienes efectivo sin rendir: en una cuenta de banco gana intereses.
+e0d9d7	D	📈 Diversifica: pon una parte de tus ahorros en un fondo de inversión.
+2d319d	D	🏪 Ya podrías emprender: una empresa puede darte más que un sueldo.
+842059	D	Subida general de los precios en un año. Con 5 % de inflación, lo que costaba $100 cuesta $105: si tu sueldo no sube igual, puedes comprar menos.
+dcfd47	D	Producto interno bruto: el valor de todo lo que un país produce en un año. Mide el tamaño de su economía.
+6196eb	D	El PIB dividido entre los habitantes. Sirve para comparar qué tan rico es, en promedio, cada país.
+dc4239	D	El sueldo anual típico de un trabajador del país. El juego lo usa como base de sueldos y precios.
+155753	D	El precio del dinero en el tiempo, en % al año: lo que te paga el banco por guardar tu dinero o lo que te cobra por prestártelo.
+ea86c4	D	Garantía del gobierno: si tu banco quiebra, te devuelve tus depósitos hasta un tope por banco. Lo que pase del tope se puede perder.
+1327d2	D	Una pequeña parte de una empresa que se compra y vende en la bolsa. Su precio sube o baja según lo que se espera de la empresa.
+a5b042	D	La parte de las ganancias que una empresa reparte entre quienes tienen sus acciones.
+c2858c	D	Repartir tu dinero entre varias inversiones distintas para que la caída de una sola no te afecte demasiado.
+cf2009	D	Lo que queda de las ventas después de pagar todos los costos. Si es negativa, la empresa pierde dinero.
+bdc70a	D	Todo lo que tienes (efectivo, cuentas, inversiones y bienes) menos todo lo que debes.
+a8a375	D	Calificación de qué tan buen pagador eres. Con un buen historial te prestan más y con menos interés.
+086033	D	Lo que pagas al gobierno sobre tus ingresos y compras. Con eso se pagan escuelas, hospitales, ejército y obras.
+baef67	D	Cuando una empresa o un banco no puede pagar lo que debe y cierra o es intervenido.

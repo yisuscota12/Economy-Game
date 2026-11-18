@@ -1,0 +1,84 @@
+738665	Benutzerdefiniert
+6315e0	⚙️ Weitere Optionen (benutzerdefiniert)
+0b7b7b	🎯 Stufe dieser Partie
+a83c17	👀 Alle Optionen anzeigen
+8e6bf4	Das ganze Menü Mehr ist sichtbar.
+0a6762	Fortgeschrittene Optionen öffnen sich mit deinem Fortschritt.
+d2c872	💡 Erklärungen beim ersten Mal
+13e070	Eine kurze Karte, wenn du einen Bildschirm zum ersten Mal öffnest.
+71231e	🧭 Vorschlag für den nächsten Schritt
+1a86f0	„Empfehlung: …“ über der Karte.
+41dec9	↺ Erklärungen erneut zeigen
+f4bb5f	Die Karten fürs erste Mal erscheinen erneut.
+d4b979	Der Modus (Schnell oder Realistisch) wird beim Erstellen gewählt und ändert sich nicht mittendrin; die Schwierigkeit schon.
+901306	Die Erklärungen fürs erste Mal erscheinen wieder.
+a3a1f6	Glossar
+d5a3a2	Öffnen sich später
+c54540	mit 18 Jahren
+f613c9	mit 18 Jahren und Ersparnissen von einem Jahresdurchschnittslohn
+87ec0c	mit einem Vermögen von 5 Jahresdurchschnittslöhnen
+f30956	mit 30 Jahren oder wenn du Kinder hast
+0ff455	wenn du regierst oder zur Armee gehst
+40b8f6	technisches Werkzeug: unter „Alles anzeigen“
+457707	Tippe, um jetzt alles zu zeigen
+eb91a7	Alles anzeigen
+a261bb	Alle Optionen im Menü Mehr sind sichtbar. In den Einstellungen kannst du sie wieder ausblenden.
+f8aa55	Zum ersten Mal hier
+4be0e2	Empfehlung:
+52cddd	📘 Du hast mehr ausgegeben als verdient: deine Ersparnisse haben die Differenz gedeckt.
+873c19	📘 Dein Vermögen wuchs stärker als dein Nettolohn: Konten, Anlagen oder Firmen haben dir ebenfalls Geld gebracht.
+e943dd	📘 Dein Vermögen sank stärker als durch deine Ausgaben: eine Anlage, Firma oder Anschaffung hat an Wert verloren.
+afc8ee	Neue Option in Mehr
+0930b8	Risiko bei deiner Bank
+edd50c	Sieh dir die Warnung in deinem Verlauf an.
+227673	Begriffe aus Wirtschaft und Finanzen, die das Spiel nutzt. Im Modus Leicht sind sie auf den Geld- und Länderbildschirmen unterstrichen: tippe darauf, um die Bedeutung zu sehen.
+e0281e	Stufen
+64968c	Stufen und Modus Leicht
+b0e217	Jetzt nicht
+539e07	Aktie (Börse)
+0ad20e	Durchschnittslohn
+375cfc	Zinssatz
+0637e8	Diversifizieren
+2401fc	{0} Begriffe aus Wirtschaft und Finanzen, erklärt
+c0e8eb	📘 Dein Jahr in Zahlen: Einnahmen von {0} und Lebenshaltungskosten von {1}; dein Vermögen ging von {2} auf {3}.
+5c4c5c	🔓 Neu in Mehr: {0}
+a39604	💡 Wusstest du…? {0} (Quelle: {1})
+e62b0a	⚠️ Du hast {0} bei {1}: Die Einlagensicherung deckt bis {2} pro Bank. Geht diese Bank pleite, kannst du die Differenz verlieren; Geld auf mehrere Banken zu verteilen senkt das Risiko.
+67799a	⚠️ Du hast {0} bei {1}, und dein Land hat keine Einlagensicherung: Geht die Bank pleite, kannst du alles verlieren. Geld auf mehrere große Banken zu verteilen senkt das Risiko.
+24a9c6	{0} (wird überschrieben)
+180bc0	Für alle, die das Spiel oder die Wirtschaft noch nicht kennen: einfache Regeln und mehr Spielraum; fortgeschrittene Optionen öffnen sich nach und nach, und jeder Bildschirm wird beim ersten Mal erklärt. Ein Leben: 10–15 Min.
+51f252	Mit echten Daten kalibriert und einfachen Regeln: Lohn und Ausgaben automatisch, Kriege mit einer Schlacht pro Jahr, alles sichtbar. Ein Leben: 10–15 Min.
+ed96d3	Alle Mechaniken: Steuern, Inflation, Kredite, Kriege Monat für Monat, Krankheiten, Kongress und Prozesse. Ein Leben: 30–60 Min.
+b23482	Geld auf der Bank ist geschützt und bringt Zinsen (den Einlagenzins). Kleine Banken zahlen mehr, weil sie öfter pleitegehen; geht eine pleite, erstattet die Einlagensicherung deines Landes bis zu einer Grenze pro Bank. Hier nimmst du auch Kredite auf: der Zins hängt von deiner Kreditgeschichte ab.
+55147a	Eine Aktie ist ein kleiner Teil eines Unternehmens. Läuft es gut, steigt der Kurs, und manche zahlen Dividenden; läuft es schlecht, kannst du verlieren. Firmen aus verschiedenen Branchen zu kaufen (diversifizieren) mindert den Schaden, wenn eine einzelne fällt.
+55c1d6	Ein Unternehmen verkauft jeden Monat und zahlt Material, Löhne, Miete, Steuern und Schulden; was übrig bleibt, ist der Gewinn, und was es ausschüttet, landet bei dir. Klein anfangen und reinvestieren ist sicherer, als sich für schnelles Wachstum zu verschulden.
+361159	Dienste, die du monatlich bezahlst: Schutz, Gesundheit, Hilfe im Haushalt. Sie verbessern dein Leben oder senken Risiken (etwa Entführung, wenn du viel Geld hast), sind aber Fixkosten: buche sie, wenn dein Einkommen sie trägt.
+e8c16a	Dein Geld im Jahr: Bruttoeinkommen minus Lebenshaltungskosten (und im Realistisch-Modus Steuern und Kreditraten) ergibt dein Netto. Ist es negativ, gibst du mehr aus, als du verdienst, und deine Ersparnisse sinken.
+67b11d	Hier entscheidest du, wofür du deine Zeit nutzt. Jede Aktivität kostet Zeit oder Geld und verändert deine Werte: Lernen hebt die Intelligenz, das Fitnessstudio die Gesundheit, die Familie das Glück. Diese Werte entscheiden, welche Türen sich später öffnen.
+d40bce	Wie du deinen Lebensunterhalt verdienst. Ein Job zahlt sofort; die Universität dauert Jahre, öffnet aber besser bezahlte Jobs; die Laufbahnen zur Macht (Politik, Armee, Wirtschaft) führen zum Regieren. Die Löhne beruhen auf dem echten Durchschnittslohn deines Landes.
+40dca5	Was du besitzt: Haus, Autos und andere Güter. Dein Vermögen ist alles, was du hast (Bargeld, Konten, Anlagen und Güter), minus das, was du schuldest.
+c63650	Deine Beziehungen: Familie, Partner, Freunde und Kontakte. Sie kühlen ab, wenn du ihnen keine Zeit widmest; Kontakte öffnen dir Jobs und Geschäfte.
+427549	Deine Ambition ist das Ziel, das du für dieses Leben gewählt hast: Hier siehst du, wie viel noch fehlt, und deine bisherigen Erfolge.
+ecab87	Jedes Land mit echten Daten von 2026: Bevölkerung, Wirtschaft, Armee und Beziehungen zu anderen Ländern. Was in deinem passiert (Kriege, Krisen, Löhne), betrifft auch dich.
+81e3ae	🩺 Deine Gesundheit ist niedrig: geh zum Arzt oder ins Fitnessstudio.
+f01ef9	🌴 Dein Glück ist niedrig: verbringe Zeit mit der Familie oder mach Urlaub.
+831c8b	📚 Lerne: Intelligenz verbessert deine Noten und öffnet bessere Laufbahnen.
+999b71	💼 Such dir einen Job oder geh an die Uni: das ist deine erste Einnahmequelle.
+552684	📉 Du gibst mehr aus, als du verdienst: such einen besser bezahlten Job oder bilde dich weiter.
+7c420a	🏦 Du hast ungenutztes Bargeld: auf einem Bankkonto bringt es Zinsen.
+e0d9d7	📈 Diversifiziere: leg einen Teil deiner Ersparnisse in einen Investmentfonds.
+2d319d	🏪 Du könntest jetzt gründen: ein Unternehmen kann mehr bringen als ein Gehalt.
+842059	Allgemeiner Preisanstieg in einem Jahr. Bei 5 % Inflation kostet, was 100 $ kostete, 105 $: steigt dein Lohn nicht genauso, kannst du weniger kaufen.
+dcfd47	Bruttoinlandsprodukt: der Wert von allem, was ein Land in einem Jahr produziert. Es misst die Größe seiner Wirtschaft.
+6196eb	Das BIP geteilt durch die Einwohner. Damit vergleicht man, wie reich jedes Land im Schnitt ist.
+dc4239	Der typische Jahreslohn eines Arbeitnehmers im Land. Das Spiel nutzt ihn als Grundlage für Löhne und Preise.
+155753	Der Preis des Geldes über die Zeit, in % pro Jahr: was dir die Bank fürs Aufbewahren zahlt oder fürs Leihen berechnet.
+ea86c4	Staatliche Garantie: Geht deine Bank pleite, bekommst du deine Einlagen bis zu einer Grenze pro Bank zurück. Was darüber liegt, kann verloren gehen.
+1327d2	Ein kleiner Teil eines Unternehmens, der an der Börse gekauft und verkauft wird. Der Kurs steigt oder fällt mit den Erwartungen an die Firma.
+a5b042	Der Teil des Gewinns, den ein Unternehmen an seine Aktionäre ausschüttet.
+c2858c	Dein Geld auf mehrere verschiedene Anlagen verteilen, damit der Absturz einer einzelnen dich nicht zu sehr trifft.
+cf2009	Was vom Umsatz nach allen Kosten übrig bleibt. Ist er negativ, verliert die Firma Geld.
+bdc70a	Alles, was du besitzt (Bargeld, Konten, Anlagen und Güter), minus alles, was du schuldest.
+a8a375	Bewertung, wie zuverlässig du zurückzahlst. Mit guter Historie leihst du mehr zu niedrigeren Zinsen.
+086033	Was du dem Staat auf Einkommen und Einkäufe zahlst. Damit werden Schulen, Krankenhäuser, Armee und Bauprojekte bezahlt.
+baef67	Wenn ein Unternehmen oder eine Bank ihre Schulden nicht zahlen kann und schließt oder unter Aufsicht gestellt wird.

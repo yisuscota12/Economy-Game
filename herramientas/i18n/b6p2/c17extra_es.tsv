@@ -1,0 +1,86 @@
+4d6471	T	La fatiga baja 20 puntos al mes. Arriba de 45 sube el riesgo de lesión; también reduce lo que ganas al entrenar (×{0}).
+cde573	D	Escuela de tu gimnasio
+8b3cbf	D	Dominio
+7c248d	D	Afinidad
+c7f79b	D	Un bloque son dos semanas de trabajo enfocado en varias cualidades a la vez. Ligera: ×0.7 de ganancia, la mitad de fatiga y menos de la mitad del riesgo. Dura: ×1.3 de ganancia, ×1.7 de fatiga y el doble de riesgo.
+9c915f	T	fatiga {0}
+e1f44a	D	Cada gimnasio enseña una escuela. Entrenar ahí sube tu dominio de esa escuela (0–100): cambia cuánto sube cada atributo al entrenar y te da ventajas en la pelea. Tus dos escuelas con más dominio cuentan (la segunda a la mitad). Las que no practicas bajan 2 puntos al año.
+6959da	D	Hoy en la pelea
+df9375	D	Para aprender otra escuela cambia de gimnasio (Trayectoria → Gimnasios: hay academias de cada escuela en el extranjero) o toma una clínica con una leyenda en Entrenar.
+557b57	D	Tu estilo decide tu volumen de golpes, tu plan natural y las ventajas contra otros estilos. La afinidad con cada estilo sube al entrenar lo que ese estilo necesita, con una escuela que lo enseña y al pelear con su plan. Con 60 puedes adoptarlo; con 70 en un segundo estilo peleas como híbrido (técnica +2).
+4a4da2	D	Adoptar este estilo
+ad305e	D	con dominio 100 en la pelea
+9e7d15	T	ventaja amateur +{0}
+833973	D	Estilos que favorece
+fe0ff2	D	La enseña tu gimnasio.
+687691	D	Ventaja contra
+d84fe6	D	Sufre contra
+587bed	D	Plan natural
+d884bc	D	Tu propio gimnasio: cobras cuotas a los socios, contratas entrenadores, firmas peleadores que te dejan 10 % de sus bolsas y puedes entrenar ahí. Escoge la escuela que va a enseñar:
+bf763d	D	Abrir
+d1a2b3	D	Tu propia promotora: firmas peleadores, armas carteleras, vendes boletos y derechos de televisión y pagas las bolsas. Empieza local; con reputación crece a nacional e internacional.
+0c678e	D	Sin entrenadores casi nadie se inscribe.
+14574c	D	Candidatos (cambian cada 4 meses):
+4ac5ec	T	Peleadores del gimnasio ({0}/{1})
+f0cad2	T	Entrenadores ({0}/{1})
+28c182	D	Buscar talento
+4b8bec	T	⬆️ Ampliar a {0}
+8a7000	D	Tus peleadores
+5ab9fe	D	Todavía no tienes peleadores.
+289bf1	D	Peleadores disponibles
+ce7e02	D	Nueva función
+e98aa5	T	Boletos ({0} de {1} a {2})
+bf050e	D	Resultado estimado
+09f637	D	Presentar la función
+519c11	D	Funciones anteriores
+c4799c	T	{0} de {1} lugares
+8f6803	T	Mercado de {0}: las bolsas de las funciones locales y nacionales pagan ×{1} frente a EE. UU.
+2a7861	D	Comparar en radar
+246322	D	Cada punto suma energía al empezar la pelea; con 4 o más también técnica.
+6a4845	D	Estadísticas en vivo
+59397a	D	caída
+044e99	D	tú
+ca1dde	D	Radar de la pelea
+96494d	T	🎟️ {0} presenta «{1}»: {2}. Resultado: {3}.
+ce1280	T	{0} presenta «{1}»: {2}.
+19099c	T	{0}-{1} ({2} % de victorias)
+3f46c6	T	ranking nacional #{0}
+b7cc03	T	{0} puntos
+f7dcf2	T	beca recibida {0}
+c18c27	T	Victorias registradas: {0} por RSC y {1} por decisión.
+78eee5	T	Victorias registradas: {0} por sumisión o detención y {1} por decisión.
+610693	D	G-P
+006804	D	Antes del límite
+937555	D	Últimos combates amateur
+f83724	D	decisión
+e802d4	T	{0} min
+ea2ef0	T	nivel {0} → potencial {1}
+fe4df1	T	Contrato hasta {0}
+f33b5f	T	bolsa mínima {0}
+644201	T	última pelea hace {0} meses
+58dc18	D	Ficha
+e3a264	D	Televisoras
+a49fa1	D	Pelea estelar:
+fd8bee	D	Sin título
+94a152	T	Título {0}
+49a3ad	D	Proyección
+76a0f5	T	Pago por evento ({0} compras)
+21e9fe	D	🏆 ¡Tu peleador es campeón mundial!
+b6398c	D	Asistencia
+8c503c	D	Ingresos
+791cdf	D	Gastos
+1b71ac	T	te toca {0} %. El resultado de una subasta no se negocia.
+4f965d	T	Escuela: {0}
+a0d273	T	Corte de peso controlado: {0}.
+acdaac	D	Preliminares
+543f69	D	Rescindir
+8d7c57	D	Físico
+a13653	T	{0} bloques o más
+c1e61f	T	Cámaras, micrófonos y tu rival a dos metros. Un periodista pregunta: «¿Qué le dices a {0}?» Lo que digas mueve la expectativa del público (y la venta de boletos y del pago por evento).
+737c32	T	{0} también da el peso. El careo final es tenso.
+cce3f5	T	de probabilidad de ganar. {0} rounds.
+b88050	T	Suena la campana. Tu esquina te recuerda el plan: {0}.
+0dafb9	T	Vences a {0} por
+c7a8ef	T	Pierdes ante {0} por
+695598	T	Empatas con {0} por
+7db0a0	T	con {0} ({1}, eficacia ×{2}, química ×{3}). Especialidad:

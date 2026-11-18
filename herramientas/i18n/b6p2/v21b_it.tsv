@@ -1,0 +1,106 @@
+da4112	Crescita del paese
+e770f6	Recessione
+c42c4a	Tassi di interesse
+b82b50	Guerra
+2091ec	Prezzo del petrolio
+6f40f5	Prezzo dei metalli
+de3107	Crisi bancaria
+eaa432	Salute delle banche
+25df08	I suoi clienti (catena)
+8ba059	Consumi delle famiglie
+428aa6	Fallimenti recenti
+eb9d92	Tendenza del settore
+2a9066	Famiglie della provincia
+ba2f44	Turisti
+0ed580	Altre imprese del paese
+2b3fa3	Imprese e famiglie che adottano tecnologia
+90c48c	Famiglie di tutto il paese
+cfcdcf	Mercato mondiale: vendi al prezzo internazionale
+bf3612	per il fallimento di un'impresa
+fe1287	per la chiusura di un'impresa
+04d5bf	{0} mesi
+01c6b3	Contributo all'economia locale
+e29d55	Non ha ancora chiuso il suo primo mese.
+ae31cc	Valore aggiunto all'anno
+a59004	Con fornitori e stipendi
+a14887	Posti di lavoro
+e0373a	diretti + indiretti
+8cf54c	Imposte e contributi
+78ca2c	all'anno
+f45225	PIL della provincia
+54e3cd	PIL del paese
+c37c0c	Valore aggiunto = vendite − input: ciò che la tua impresa aggiunge all'economia.
+2ccea0	I suoi acquisti dai fornitori e gli stipendi che i tuoi dipendenti spendono generano più attività (moltiplicatore).
+bd431d	Ogni anno questo contributo entra nel PIL di {0}.
+5d2777	Catena di approvvigionamento
+163de9	Input
+e9b8a1	{0} % del costo
+725a2b	prezzo dal 2026
+3c8275	Lo produce la tua impresa
+f9c7b3	(10 % più economico)
+c60a91	Integrazione verticale: risparmi {0} al mese in input.
+e84b64	Clienti
+928862	Salute del tuo settore
+cd52f2	Effetto sulla tua domanda
+0b5c1a	Domanda della provincia
+6b7103	Il tuo contributo all'economia
+33a71c	PIL del tuo paese
+e0d793	Vedi le tue imprese sulla mappa
+b5aae0	Comprare in un altro paese è un investimento diretto estero: paghi il {0} % di pratiche e l'impresa opera con gli stipendi, le imposte e le crisi di quel paese.
+59502b	Pratiche: {0}
+c33869	Quel paese non esiste più.
+ff7f4c	Pratiche per investimento estero: {0}.
+afd069	Compri {0} per {1}. Pratiche per investimento estero: {2}.
+bd6bcf	Compri {0} per {1} (paghi {2}; {3} di credito restano come debito dell'impresa). Pratiche per investimento estero: {4}.
+b5a26e	Concorrente dello stesso settore
+ec0385	Paga di più se l'impresa è sana: gli porta clienti e filiali.
+488eb4	Fondo di private equity
+2fabc6	Compra solo imprese in utile; paga secondo i loro flussi di cassa.
+1342fe	Investitore individuale
+67b06b	Offre meno, ma compra quasi qualsiasi impresa.
+033f80	Vendere l'impresa
+3b6679	Valore stimato
+99ff29	Salute dell'impresa
+e4ed68	Ogni acquirente offre in base alla salute dell'impresa: margine, reputazione, crescita e debito.
+21206a	Puoi accettare o chiedere di più: se rifiuta, abbassa un po' l'offerta; al secondo rifiuto si ritira.
+5b72aa	Le offerte si rinnovano ogni 3 mesi.
+095408	Per ora non ci sono acquirenti interessati.
+c733ab	Ha già rifiutato di pagare di più: {0}
+8f9f73	Accetta
+4f5c13	Fondo {0} Capital
+37b68c	{0} si ritira: non accetta di pagare di più per {1}.
+362d66	{0} rifiuta di pagare di più e abbassa la sua offerta a {1}. Puoi accettarla o riprovare una volta.
+dadf29	Vendi {0} a {1} per {2} (il {3} % in più della sua offerta). L'impresa continua a operare con il nuovo proprietario.
+2b53c9	Vendi {0} a {1} per {2}. L'impresa continua a operare con il nuovo proprietario.
+ba0b31	Salute dei settori
+19f297	50 è la normalità.
+f3c89a	Ogni settore dipende dai suoi clienti: se l'edilizia cala, l'industria e le miniere lo sentono dopo (catena di approvvigionamento).
+cd2c1f	Tocca un settore per vederne le cause.
+84fdb6	I suoi debitori
+99ebbc	Economia locale
+84b89e	Attività economica
+d276d5	Settore principale
+1bc7f4	{0} % dell'economia
+b6d859	Economia locale e le tue imprese
+df6537	debole
+7af0f1	forte
+ee64e3	Le tue imprese
+bd7d15	L'attività economica delle province viene calcolata nel thread principale.
+d215c8	Non disponibile in questo browser: viene calcolata nel thread principale.
+012346	L'attività economica delle 3.422 province viene calcolata in un altro thread ogni mese.
+59e47e	Economia mondiale in background: attiva
+1f3ade	Economia mondiale in background: disattivata
+1662ca	Il fallimento di {0} lascia senza lavoro {1} persone a {2}; le banche di {3} perdono {4} in crediti che non saranno rimborsati.
+737a53	Chiudendo {0}, {1} persone restano senza lavoro a {2} e la domanda della provincia cala per alcuni mesi.
+694f77	Valore aggiunto
+01640b	Ciò che un'impresa aggiunge all'economia: le sue vendite meno ciò che compra da altre imprese (input). La somma del valore aggiunto di tutte le imprese è il PIL.
+66fdc7	Moltiplicatore economico
+54f06b	Ogni peso che un'impresa spende in fornitori e stipendi viene speso di nuovo in altre attività; per questo il suo effetto totale sull'economia è maggiore delle sue stesse vendite.
+aaabdb	Integrazione verticale
+3daa84	Possedere il proprio fornitore (o cliente): l'input costa meno e non dipendi da altri, ma concentri il rischio.
+4d3788	Investimento diretto estero
+816d1b	Comprare o aprire imprese in un altro paese. Porta posti di lavoro e capitali al paese che lo riceve; l'investitore si assume le sue crisi, le sue imposte e la sua valuta.
+60cc9e	Multiplo di valutazione
+fab259	Quante volte il suo utile annuo si paga per un'impresa. Un acquirente paga un multiplo più alto se l'impresa cresce, ha un buon margine e poco debito.
+220bd8	Rete di imprese che si vendono a vicenda: se un cliente importante entra in crisi, i suoi fornitori lo sentono dopo, e così via lungo la catena.
+d0a528	Economia connessa

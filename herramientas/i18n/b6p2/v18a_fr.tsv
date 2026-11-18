@@ -1,0 +1,97 @@
+533c62	▶️ Avance automatique
+0de1d9	Vitesse ×1 : un jour par seconde.
+3463ad	Vitesse ×2 : deux jours par seconde.
+8d252b	Vitesse ×5 : cinq jours par seconde.
+6d40c0	Il se met en pause tout seul face aux dialogues, aux événements et aux décisions.
+bba2b1	Avance automatique : touche pour lancer ou mettre en pause
+aad27c	Vitesse de l'avance automatique
+27e687	💱 Devise d'affichage
+e1642f	Devise d'affichage
+69f39b	💱 Devise d'affichage
+512a66	Cela change seulement l'affichage des montants : ton épargne, tes salaires et les prix restent dans la monnaie de ton pays.
+93f518	Avec une devise choisie, le PIB, le trésor et les autres chiffres nationaux s'affichent aussi dans celle-ci, au taux de change du jour.
+37ccf4	Monnaie de ton pays
+36093d	monnaie de ton pays
+674f2a	Ton argent en {0} et les chiffres nationaux en dollars.
+80ae53	Des dollars pour tout
+62edc2	Ton argent et les chiffres nationaux en dollars américains.
+3df1a8	Les plus utilisées
+bb9357	Toutes les devises
+2c67af	1 dollar = {0}
+6dd715	Ton argent : {0}
+b3b76d	ton argent : {0}
+d2dc9d	Touche pour choisir n'importe quelle devise, quel que soit ton pays.
+cad927	Touche pour changer de devise
+5bbd41	✏️ Renommer
+c963c0	Renommer
+4d0671	Pays, entreprises, banques, clubs, organismes et ministères
+ebebd3	Change le nom des pays, entreprises, banques, clubs, organismes et ministères.
+beba20	Les noms que tu changes ne sont pas traduits dans d'autres langues : ils s'affichent tels que tu les écris.
+86b3a8	Noms modifiés dans cette partie : {0}
+d172ae	🌎 Pays
+760c85	Pays
+04acfe	🏛️ Ministères
+1451e6	Ministères
+12b37c	🏪 Tes entreprises
+ee64e3	Tes entreprises
+63e67b	🏦 Banques
+d55063	Banques
+4d1f43	Ta banque
+7c86cc	Ton pays
+772c18	Cotée en bourse
+44567c	📈 Sociétés cotées
+0b5899	Sociétés cotées
+df93f2	⚽ Clubs de football
+09d2a9	Clubs de football
+501036	🏆 Ligues de football
+9a3b79	Ligues de football
+ccad2e	🥊 Organismes et ligues de combat
+f02874	Organismes et ligues de combat
+a0ca6e	🎟️ Promoteurs de boxe et de MMA
+70529f	Promoteurs de boxe et de MMA
+1f5cc2	🎬 Sociétés de spectacle
+0a6e38	Sociétés de spectacle
+d2600a	Nom d'origine : {0}
+6af0b6	Nouveau nom
+051b44	Rechercher…
+8fb8b1	{0} sur {1} affichés. Écris pour rechercher.
+e68491	↺ Restaurer
+c45f35	↺ Restauré
+091008	✏️ Renommé
+82d4e4	Changer
+c6f4e6	💬 Conversations en attente
+6e8ccc	Conversations en attente
+174073	💬 Conversation en attente
+6729e7	Touche 💬 à côté de l'horloge quand tu veux t'en occuper.
+8da594	Les conversations qui peuvent attendre n'arrêtent plus l'horloge : occupe-t'en quand tu veux.
+ffb574	À leur échéance, elles apparaissent d'elles-mêmes.
+c5a26a	Si tu les ignores, la personne le prend mal.
+91ced0	Tu n'as aucune conversation en attente.
+26a968	Échéance demain
+f43bbb	Échéance dans {0} jours
+37ef49	La situation a changé : cette conversation n'a plus lieu d'être.
+51e58f	⏳ Plus tard
+ae417e	🚫 Ignorer (cela sera mal pris)
+486165	Cette conversation a atteint son échéance : elle ne peut plus attendre.
+4043c3	💬 Tu n'as pas répondu à temps à {0}, qui l'a mal pris.
+e98330	💬 Tu as laissé passer une conversation : « {0} ». L'occasion est perdue.
+3b040f	tu n'as pas répondu
+4ac72b	💬 Conversations qui peuvent attendre : dans la boîte
+9d328d	💬 Conversations qui peuvent attendre : arrêtent l'horloge
+214689	Famille, amis, travail, affaires et célébrité attendent jusqu'à 30 jours dans 💬.
+bdf4c4	L'urgent arrête toujours l'horloge.
+2538da	Toutes les conversations arrêtent l'horloge dès qu'elles apparaissent (comme avant la v1.8a).
+9e88a6	Ta vie sociale
+d87ac3	👥 Ta vie sociale
+cbd79b	Relations proches : {0}/100.
+fd2876	Tu n'as personne de proche.
+e0ecaf	Rancunes : {0}.
+b0b7bc	Ton moral monte de {0} par mois (bonne vie sociale).
+70839b	Ton moral monte de {0} par mois (vie sociale stable).
+48e30b	Ton moral baisse de {0} par mois (vie sociale stable).
+79ad2f	Ton moral baisse de {0} par mois (vie sociale tendue).
+12737c	Ta vie sociale ne change pas ton moral ce mois-ci.
+cfa6fe	⏩ Avance automatique, devise, noms et conversations
+e7a44f	leone sierraléonais
+1feceb	ZiG (or du Zimbabwe)
+78d953	se souvient : « {0} »

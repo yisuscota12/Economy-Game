@@ -1,0 +1,419 @@
+5ee328	D	Reserva Federal
+2041ec	D	Banco Central Europeo
+26c03f	D	Banco Central de Brasil
+86fc3a	D	Banco de Inglaterra
+200627	D	Banco de Japón
+8db8d1	D	Banco Popular de China
+d1ca53	D	Banco de Canadá
+5c1b98	D	Banco Nacional Suizo
+21550c	D	Banco de la Reserva de la India
+8fe486	D	Banco de Rusia
+f2534c	D	Banco Central de Turquía
+998cf7	D	Banco de Corea
+51229e	D	Banco de la Reserva de Australia
+21a31c	D	Banco Central de Chile
+9925ce	D	Banco de la República
+525350	D	Banco de la Reserva de Sudáfrica
+9bbe9c	D	Autoridad Monetaria de Hong Kong
+226d1b	T	banco central del {0}
+3f2c41	T	banco central de la {0}
+3ae616	T	nuevo {0}
+0702e4	T	nueva {0}
+b2a193	D	Comisión 0.1 % (mínimo US$1).
+dcba28	D	Comisión 0.1 % (mínimo US$1) + 0.25 % por cambio de moneda.
+00f47a	T	en bancos {0}.
+22a105	T	Los bancos chicos pagan más, pero quiebran más; el seguro de depósitos de tu país cubre hasta {0} por banco.
+b44b54	T	Los bancos chicos pagan más, pero quiebran más; el seguro de depósitos de tu país cubre hasta {0} (hoy está desactivado) por banco.
+2501a3	D	📈 Bolsa
+e1fa56	D	Compra
+3b19a7	D	Venta
+4ea185	D	Recompra
+9ef9b3	D	lira italiana
+c4705a	D	peseta
+9bfbe8	D	dracma
+22d907	D	florín
+cef7ce	D	franco belga
+6b075a	D	libra irlandesa
+cca819	D	tólar
+c74305	D	corona eslovaca
+460dd9	D	corona estonia
+2cf929	D	lats
+57e993	D	litas
+928435	D	libra chipriota
+faac0b	D	lira maltesa
+851b9d	D	kuna
+ca5ec7	D	lev
+40bb9f	D	perper
+329924	D	dinar kosovar
+09dcbb	D	sucre
+5a9c37	D	balboa
+6d058c	D	escudo timorense
+e90d2d	D	nuevo rial
+045952	D	Sociedad
+d8fbfd	T	{0} decreta la movilización general.
+635daa	T	{0} envía armas, dinero y voluntarios a {1} contra {2}.
+96e58e	D	Ir
+816c52	D	No
+6ea506	D	No ir
+1bf81f	D	honesto
+335845	D	leal
+ad2a34	D	generoso
+782a85	D	ambicioso
+36663a	D	codicioso
+bcf550	D	rencoroso
+6c41a7	D	rasgo
+9cc117	T	{0} % al año
+662989	T	1 en {0} al año
+41b0bc	T	· dado: {0}/100
+6322bd	D	🎲 Probabilidad en tu situación:
+e0560d	T	Indicador: {0} homicidios por 100 mil hab. en {1}.
+c0ab68	T	(Rasgo de {0}: {1}. Desempleo en {2}: {3} %. Probabilidad de pago: {4} %.)
+d36d42	D	Patrimonio neto (con casa)
+7820ad	D	Importada
+d1b620	D	Dificultad
+c5dce7	D	+10 %, razonable
+cffeb8	T	{0} te guarda rencor
+637569	T	{0} te guarda menos rencor
+691a77	D	vs
+618686	T	sacaste {0}, necesitabas {1} o menos
+059646	T	{0} controla la distancia con el jab.
+0d682a	T	{0} trabaja el jab y mantiene lejos a {1}.
+28a4d3	T	El jab de {0} marca el ritmo del round.
+b91969	T	{0} castiga el cuerpo con ganchos al hígado.
+01c64f	T	{0} suelta una combinación de cuatro golpes que entra completa.
+c309dc	T	{0} conecta un recto de derecha limpio.
+aabb6d	T	Gancho de izquierda de {0} que sacude a {1}.
+e23d54	T	Uppercut de {0} en la corta distancia.
+c2e8dd	T	{0} acorrala a {1} contra las cuerdas.
+a225d6	T	{0} corta el ring y no deja respirar a {1}.
+9e2c88	T	{0} esquiva con movimientos de cintura y hace fallar a {1}.
+dabe98	T	{0} no encuentra el blanco: {1} se mueve con inteligencia.
+9b6eca	T	{0} entra y {1} lo recibe con un contragolpe preciso.
+12f55b	T	{0} espera y contragolpea en cada intercambio.
+33e9e5	T	{0} baja las manos: se nota el cansancio.
+31bc6d	T	A {0} se le doblan las piernas: ¡está lastimado!
+71c6dc	T	{0} respira por la boca; el ritmo le está pasando factura.
+abbaa2	T	{0} está tocado y se abraza para ganar tiempo.
+fe783a	T	{0} sangra de la nariz tras los golpes de {1}.
+f1cd78	T	Choque de cabezas: se abre una cortada en {0}.
+0abfd8	T	Se abre una cortada sobre la ceja de {0}.
+6427f8	T	{0} conecta un cruzado limpio.
+deecc1	T	Rodillazo de {0} en el clinch.
+32ca85	T	Codazo de {0} en la corta distancia.
+d2afaf	T	Patada a la cabeza de {0} que pasa rozando.
+e22cc2	T	{0} mantiene la distancia con el jab y patadas al cuerpo.
+eefa17	T	{0} conecta una combinación de boxeo y sale del rango.
+7c86a5	T	Patada baja de {0} que castiga la pierna de {1}.
+cb0cd5	T	{0} derriba a {1} en el clinch contra la reja.
+3f59c8	T	{0} defiende el derribo contra la reja.
+d03b23	T	{0} derriba a {1} con un derribo a dos piernas.
+7bfaeb	T	{0} levanta a {1} y lo azota contra la lona.
+e0d8fb	T	{0} se suelta y vuelve a ponerse de pie.
+2df4f8	T	{0} trabaja desde la media guardia con codos cortos.
+377d90	T	{0} controla desde la montada y castiga con golpes en el suelo.
+72e378	T	{0} escapa de un intento de {1} de {2}.
+7a2a45	T	Se abre una cortada en la ceja de {0}.
+75ee82	T	A {0} le pesan las piernas tras el castigo.
+e04e44	T	Choque de cabezas: cortada en {0}.
+ba33fe	T	{0} está tocado y busca el clinch.
+0bbea0	T	{0} se ve agotado: baja el ritmo.
+2adef9	D	Agradecer a tu equipo y a tu familia
+7bf324	D	Aplaudir al ganador
+549116	D	Pedir la revancha
+ffda7f	D	Retar al campeón frente al público
+c8832b	D	Usar el micrófono para hablar de una causa
+d8c2a8	D	Revancha
+8c7e1e	D	Un año menos
+8293fd	D	Más campamento
+62d398	D	Amateur
+e627db	D	Calif.
+401401	D	Club
+73d38d	D	Fans
+b25928	D	Total
+1aa7ba	T	Final: {0}
+c7f7cf	T	Mejor noche: {0} ({1}/100)
+228472	T	Obras recientes: {0}
+f11f4b	T	Récord {0}-{1} ({2} detenidas).
+0fdfc2	D	Si pelearan hoy, tu probabilidad estimada de ganar:
+c71352	D	Terminas esta carrera; tu catálogo seguirá dejando algo y tu fama se irá apagando
+f5cf48	D	Terminas esta carrera; tu fama se irá apagando poco a poco
+bfad65	D	Terminas tu carrera; tu fama se irá apagando poco a poco
+bfc851	D	Cuelgas los botines; tu fama se irá apagando poco a poco
+c88e1a	D	Todavía eres amateur. Debuta como profesional en la pestaña Entrenar (desde los 18 años) para recibir ofertas de pelea.
+16fb92	D	Eres independiente: te quedas 70 % de lo que generan tus obras, pero pagas la producción y la promoción, y tu alcance es solo tu propio público.
+15c353	T	Estás nominado en {0} categoría(s). Antes de entrar, la alfombra: decenas de cámaras y la prensa de todo el mundo.
+160a32	D	Cada presentación se vive en pantalla: cuatro momentos con decisiones. La asistencia depende de tu público en la zona y la noche puede salir legendaria o desastrosa.
+561e6f	D	Colegas y rivales cercanos a tu nivel, y con quienes ya tienes trato. La relación va de −100 a 100: con 25 o más puedes invitarles a colaborar.
+41f2c4	T	Juegas cada mes con {0} y cobras sueldo cada año. Si tu nivel supera el de tu liga, te fichan equipos más grandes ({1}). Con nivel 72+ en primera división te pueden convocar a la selección.
+e853e5	D	Carrera → Fama y espectáculo. Hay 11 carreras: música, actuación, fútbol, box, MMA, creador de contenido, modelaje, comedia, escritura, cocina y DJ. Cada una usa un atributo clave (apariencia, salud o inteligencia).
+92b2db	D	(recuperable)
+48b38c	D	30 %: incomoda a patrocinadores
+d6e038	D	70 %: más público
+61e9cf	T	{0} aficionados
+08831f	T	vence en {0} mes(es)
+05f74b	T	rol prometido: {0}
+ded8e6	T	alcance propio {0}
+1e5fcf	T	alcance ×{0}
+356647	T	fuerza {0}
+e71e65	T	desde {0}
+e1fa3a	D	siempre visible
+2cc5a3	D	subrayada
+065293	D	(+30 %). El atributo que eliges sube mucho; los demás, un poco. Cerca de 100 cada punto cuesta más.
+c2bff7	D	pen.
+a130f4	D	t. e.
+d8e256	T	Arranca: {0} ({1}), {2} fechas ({3}).
+6bcedf	T	Cada obra genera {0} mes a mes: arranca fuerte y se va apagando. Lo que ves en la gráfica es su vida en {1} ({2}).
+d729f9	T	Se ordena por {0}. Toca un nombre para ver su ficha.
+c2efc3	T	{0}: se entrega cada año en {1}. Cinco nominados por categoría, entre las obras de los últimos doce meses.
+8412a9	T	Total de {0}
+18b5e4	T	{0} ({1}): {2} gana «{3}».
+59961b	T	Segunda división de {0}
+40b66d	T	Entrenar {0}
+686535	T	calidad ×{0}
+d454f4	T	más público y {0} % de mala prensa
+6d5e64	D	enero
+1bbd84	D	febrero
+4e9772	D	marzo
+2fae67	D	abril
+b2479b	D	mayo
+d55b5e	D	junio
+523361	D	julio
+5a3c84	D	agosto
+ba8e2b	D	septiembre
+ed4c92	D	octubre
+69fab6	D	noviembre
+953567	D	diciembre
+1a90e0	D	pasa sin pena ni gloria
+97a6ff	D	te ha dejado
+ec80f5	D	hoy
+5043f7	D	nuevo
+e0b8ad	D	Tú
+9cad6c	D	te prometen ser titular
+fc29a1	D	pegada
+c9a8a7	D	velocidad
+c9292c	D	defensa
+d8148f	D	resistencia
+72579d	D	quijada
+a3d540	D	técnica
+7d3ce3	D	lucha
+a4ddef	D	sumisiones
+7ef481	D	Las ofertas llegan al cerrar mayo, junio y diciembre, y vencen en unas seis semanas.
+f7b911	D	Un discurso con humor
+e72af3	D	Volver al menú principal
+f8e25e	D	Volver a la pantalla anterior
+4aaead	D	Tamaño de la producción (más presupuesto = más calidad):
+70d42c	D	Las compañías chicas pagan poco anticipo pero mejores regalías.
+733789	D	Las grandes, al revés, y aportan mucho más alcance.
+c88c77	D	Te buscan según tu fama.
+b07e49	D	Un buen representante trae más ofertas y negocia mejor.
+cc7882	D	Entrenador (costo anual y eficacia):
+0ce150	D	Las agencias aceptan clientes según su fama: local desde Promesa, nacional desde Figura local, internacional desde Figura nacional. Publicista y abogado: Más → 🧑‍💼 Servicios.
+e4342a	D	Renovación
+39d04d	D	calidad promedio
+118e1f	D	ganas atención, pierdes imagen y su amistad, y puede salirse de control
+14350f	D	Subir te da algo de pegada pero los rivales son más grandes.
+d9de42	D	Bajar te hace más rápido pero el corte de peso es más duro.
+bdff0a	D	Se juegan unas 4 fechas por mes al avanzar el reloj y la última se vive en pantalla.
+4c6c43	D	Se juegan unas 4 por mes y la última se vive en pantalla.
+baa0c1	D	comensales
+40ede5	T	{0} vence {1} a {2}
+f1151b	D	Quijada
+58d937	D	Lucha
+ede8b2	D	Sumisiones
+99d38e	D	th:PJ
+f4e715	D	th:G
+5a3cbc	D	th:E
+4b3bb3	D	th:P
+14f5d6	D	th:DG
+fb0f57	D	th:Pts
+76e88d	D	th:A
+f5ad2e	D	th:Calif.
+b9ea87	D	Pase
+6da351	D	Tiro
+8d7c57	D	Físico
+f5bc45	D	Agente libre
+4ffb4d	D	Defensa obligatoria
+3aa458	D	Préstamo
+b3143e	D	Traspaso
+de82c1	D	Academia
+2b728f	D	POR
+24b216	D	DFC
+21d7cd	D	LAT
+283957	D	MCD
+dc8d73	D	MC
+2f79e5	D	EXT
+4d017c	D	DEL
+f01e09	T	MOMENTO {0} DE {1}
+ebb0eb	D	si sale
+d9ced4	T	{0}: {1} avanza a la fase eliminatoria.
+396ac3	T	{0}: {1} queda eliminado en la fase de grupos.
+882d97	T	{0} ¡clasifica!
+55d03f	T	Logro: {0} — {1}.
+a6cb59	T	Empiezas tu carrera en {0}.
+1daf05	D	Medio Ambiente
+8a1a4f	D	Defensa Nacional
+356f9e	D	+felicidad; menos desastres
+f3ee6c	D	reformista honesto
+b6feb8	D	perfil mixto
+a4f0f9	T	Directivas de {0}
+949c17	T	Secretaría de {0}: «{1}». Costo {2}. {3}.
+c84ee3	T	{0}. Candidatos:
+7c3230	D	La capacidad mejora el área de cada secretaría, la honestidad baja la corrupción y la lealtad evita crisis al removerlos.
+7e7d5b	T	En marcha: {0}
+54a902	T	Abrir negocio en {0}
+4ee73a	T	➕ Abrir un negocio en {0}
+4decd0	D	Abrir con mi dinero
+76b1e3	T	Con crédito ({0})
+fc3a06	T	Cada mes tu empresa vende, paga insumos, nómina, renta, impuestos y deudas; lo que reparte llega a tu dinero. Máximo {0} empresas.
+16f927	D	Para abrir en otra provincia, tócala en el mapa → Abrir negocio. El modo ⛏️ del mapa muestra dónde hay minas, petróleo y cultivos.
+f1e4cf	D	Precio alto = más margen pero menos clientes (la demanda responde 1.3 veces). Calidad y sueldos altos suben la reputación, que atrae clientes. Despedir cuesta 3 meses de sueldo (Realista).
+f6584d	T	{0} sucursal
+00922b	T	Vender (~{0})
+64bab7	T	bloqueada {0} días
+ec6a8e	T	Pagar préstamo ({0})
+5a70ff	T	Margen: el corredor te presta hasta la mitad de lo que compras (interés: tasa {0} + 3 puntos) y te permite vender en corto. Si tu capital cae por debajo del 25 % de tus acciones (30 % en cortos), te vende posiciones automáticamente (llamada de margen).
+285e02	D	moneda compartida
+3fcdb3	T	Unidades de {0} por dólar, cierre de cada mes. Sube = tu moneda se debilita.
+d21062	D	El tipo de cambio sigue la paridad de poder de compra (inflación de cada país contra la de EE. UU.) más un desvío que mueven las tasas de interés, la impresión de dinero, guerras, sanciones, golpes de Estado y crisis. Los tipos fijos pueden romperse con un ataque especulativo.
+0aa42e	D	Sin sobresaltos: los precios siguieron al crecimiento, la inflación y las tasas de cada país.
+e3ea9e	T	💱 Tu dinero está en {0} ({1}): 1 dólar = {2}.
+aa0ad9	T	Tasa {0}: {1} %.
+e18d63	D	Precio límite
+441b31	D	Precio stop
+918dee	D	Acciones (largo)
+a11b8a	T	1 {0} = {1}
+fc4491	T	tus depósitos en {0} ganan {1} % al año (tasa {2} − 0.5)
+f90a63	T	diferencial {0} %
+395e0c	T	Vender todo mi {0}
+5d499c	D	Elige qué mercado transmite la barra y en qué plazo se mide el cambio. Divisas y materias primas se miden por mes o año (cierres mensuales).
+5ec2cd	T	Invertir en {0}
+87a2fa	T	almacenaje {0} % al año.
+f073c0	D	prohíbe exportar
+0c5830	D	El precio sube cuando falta oferta (guerras, territorio ocupado, prohibiciones), cae cuando la economía mundial se frena, y el oro sube con el miedo.
+1e1b5d	T	{0} % de tu dinero
+dbbe07	T	{0} % de tu efectivo
+42bc90	D	Bonos de gobierno a 10 años: pagan intereses cada mes en la moneda del país y devuelven el capital al vencer. Su precio baja si suben las tasas del país (duración ~7 años) y pueden sufrir una quita si el país cae en moratoria (deuda alta + crisis).
+9fac33	T	Fondos administrados por los bancos ({0}…). Rinden lo que hacen sus activos en el juego, menos comisión anual.
+0f5d6d	T	tienes {0} ({1} %)
+518f4c	D	Retirar todo
+9b244f	D	Fundar un banco requiere capital mínimo y licencia del regulador (mejor con influencia y experiencia financiera; más difícil si la regulación es estricta).
+af2dbf	T	Ingresos por intereses {0} − intereses a ahorradores {1} − gastos {2} − reservas por impagos {3} − impuestos {4}.
+9ade7c	D	Si el capital baja de 4 % de los préstamos o la reputación se desploma, hay corrida bancaria.
+e26aa8	T	Costo total: {0} al año (se descuenta cada mes).
+ebc324	D	Los precios siguen a los sueldos de tu país.
+263902	T	Cada mes el resultado sale de los precios reales del juego: acciones, materias primas, divisas y bonos, más tu habilidad (inteligencia {0}, finanzas {1}).
+096d6a	D	Grupo A
+67d0c8	D	Grupo B
+7fb07d	D	Grupo C
+b6bd60	D	Grupo D
+16a7c9	D	Grupo E
+2a4d96	D	Grupo F
+dfcc6e	D	Grupo G
+62e49c	D	Grupo H
+2fd69e	D	Grupo I
+4c0412	D	Grupo J
+315943	D	Grupo K
+f5801d	D	Grupo L
+8ca912	T	{0} acc.
+b254a4	T	costo {0}
+825b92	T	Límite a {0}
+929db9	T	Stop a {0}
+9bf9e6	T	{0} × {1} = {2}
+4449ea	T	tienes {0}
+fdfb68	T	vence {0}
+a4db0e	D	Riesgo de secuestro donde vives: alto (según tu patrimonio y los homicidios del país).
+20fe1f	D	Riesgo de secuestro donde vives: medio (según tu patrimonio y los homicidios del país).
+69f96d	D	Riesgo de secuestro donde vives: bajo (según tu patrimonio y los homicidios del país).
+bf7352	T	Tienes {0} barriles
+e2aef3	T	Tienes {0} millones de BTU
+97b6dd	T	Tienes {0} toneladas
+5503c6	T	Tienes {0} toneladas de carbonato
+52e857	T	Tienes {0} onzas
+bfcf9b	T	Tienes {0} toneladas de óxidos
+52942e	T	Tienes {0} libras de U₃O₈
+deb5c6	T	Aportar {0} de capital
+88f7cc	T	{0} (necesita {1})
+779192	T	Tus empresas aquí: {0}
+0eb8b4	D	euro
+3f397c	D	Directivas
+bcf214	D	Nombrar
+a8e196	D	Retirar
+0aaf0f	D	Relaciones Exteriores
+6445d8	D	Deuda/PIB
+9454fd	T	Cuenta de bolsa: {0} en acciones netas.
+335ab1	T	Tú trabajas en la Secretaría de {0}.
+7c2374	D	DESEMPEÑO
+4f6653	D	empleo formal
+8a6ade	D	empleo informal
+44db32	D	Trayectoria
+b7be52	D	Sueldo anual
+3a0b96	D	Horas de trabajo
+79bd0e	D	Acciones
+34eb65	D	Tu jefe
+52a3e8	D	Tu equipo de trabajo
+8c161b	D	Evaluaciones
+086bff	D	excelente
+87b88f	D	buena
+5f51ef	D	regular
+0d9c30	D	baja
+e033af	D	amable
+859738	D	chismoso
+d0f165	D	trabajador
+809f9a	D	flojo
+c17e7c	D	mentor
+472b97	T	vence en {0} meses
+7d9ab7	T	Tu desempeño se acerca cada mes a {0}. Lo que pesa:
+97296d	T	📢 Vacante: {0}
+cfa60f	T	📨 Oferta de {0}
+16b88b	T	{0} con {1} % más de sueldo
+e52c6f	T	🎓 Ya tienes: {0}.
+fa120d	T	🎓 {0}: te faltan {1}.
+4be2f6	T	Relación {0}/100
+8d3e18	T	relación {0}/100
+4fc176	T	desempeño {0}
+b5761e	T	Leyes y condiciones de {0} (aproximadas a 2025–2026).
+3d81af	T	aumento {0} %
+502e4f	T	{0}–hoy
+b35e9d	T	{0} de 2
+1423bf	D	✋ Postularte
+e9d1a1	D	Usarla para negociar
+20dc80	D	💰 Pedir aumento
+863a31	D	🔎 Buscar otro empleo
+5bea79	D	mandas solicitudes a otras empresas
+518bda	D	Convivir sube la relación y baja tu estrés. Tu rival compite contigo por los ascensos.
+2aece1	D	⚔️ rival
+50d80e	D	🍽️ Comer juntos
+ee5221	D	sin recargo obligatorio
+1706b4	D	informal, sin prestaciones
+a03b21	D	Sueldo en este empleo
+0cf8d9	D	La gráfica aparece cuando tengas dos años en este empleo.
+7ae45a	D	🟡 Sueldo (nominal)
+2729f1	D	🔵 Sueldo real (descontando la inflación)
+fd1c92	D	Aún no tienes evaluaciones.
+a8acb5	D	Historial de empleos
+779c52	D	📢 vacante
+119910	D	📨 oferta
+1fc588	D	📢 Vacante
+8d8938	D	📄 Despido
+d150e6	D	💼 Postularte
+16429c	D	💼 Pedir aumento
+0dd6ea	D	💼 Vacaciones
+6c2c95	D	💼 Sindicato
+883b4e	D	💼 Buscar empleo
+4207cd	D	💼 Oferta
+98cdac	D	💼 Convivir
+94ca96	T	Ayuntamiento de {0}
+66ac7f	T	Oficina estatal de {0}
+fa33b4	T	Delegación {0}
+231b63	T	Policía municipal de {0}
+d350d6	T	Policía estatal de {0}
+134845	T	Escuela Primaria {0}
+ebc6e8	T	Secundaria Técnica de {0}
+f428af	T	Hospital General de {0}
+c8f710	T	Centro Médico {0}
+77c56e	D	Postularte
+98bdfa	D	Sindicato
+db5a60	D	Buscar empleo
+70285d	D	Oferta
+69bde7	D	💼 Empleos comunes
+756e3b	D	Empleos comunes

@@ -1,0 +1,292 @@
+65225c	Tenere palla, passaggi corti e pazienza. Scardina i blocchi bassi; soffre il pressing alto.
+e5beae	Possesso palla
+5313c5	Pressing alto
+54ace6	Recuperare palla in alto e in fretta. Soffoca le squadre di possesso; lascia spazio alle spalle.
+700856	Aspettare e ripartire veloce. Punisce le difese alte; soffre senza palla contro il possesso.
+fd1844	Contropiede
+4cc592	Blocco basso
+7166e7	Difendere vicino all'area e chiudere gli spazi. Neutralizza il gioco diretto; soffre il possesso paziente.
+3fc98c	Palle lunghe e seconde palle. Salta il pressing; va a sbattere contro i blocchi bassi.
+93e9a6	Gioco diretto
+037676	Senza estremi: si adatta all'avversario. Nessun vantaggio né svantaggio netto.
+56993d	Compra a poco, forma e vende ai grandi: vive dei trasferimenti.
+958239	Acquirente
+bfaaca	Ingaggia stelle e paga trasferimenti alti; vende poco e caro.
+275cfa	Compra e vende secondo le esigenze.
+dce9ac	Da vivaio
+e914fe	Punta sui giovani: le sue stelle arrivano giovani e con più potenziale.
+18a046	Austera
+525174	Ambiziosa
+ef5959	Da galácticos
+9bc2c5	Popolare
+2f0ada	Campo comunale
+912d13	Centro moderno
+9c9eda	Centro d'élite
+9d6d76	Centro di base
+de9953	Cittadella sportiva
+41347f	Accademia regionale
+5c642f	Scuola calcio
+61da4b	Nessuna accademia
+9fd328	Accademia nazionale
+f17aa6	Accademia d'élite
+773471	Senza licenza
+026e9d	Ottenere la promozione
+37bc23	Evitare la retrocessione
+4f7927	Chiudere nella metà alta
+73a7c7	Qualificarsi alla coppa continentale
+ab8a73	Non finire tra le ultime tre
+cd9075	Vincere il campionato
+e5fa55	Vincere il campionato regionale
+5e84cb	{0} non rinnova il suo allenatore, {1}, dopo una stagione negativa. Sostituto: {2} ({3}).
+09f1f5	{0} esonera il suo allenatore, {1}, dopo {2} partite di risultati negativi. Sostituto: {3} ({4}).
+63aa35	{0} lascia {1} e diventa il nuovo allenatore di {2} ({3}).
+10f3a1	{0} annuncia il ritiro del suo allenatore, {1}. Sostituto: {2} ({3}).
+409b99	Manca un centro sportivo.
+555745	Manca uno stadio da {0} posti.
+96dee2	🏆 {0} vince: {1}! Premio per il club: {2}.
+0d7844	🏗️ Il comune approva il permesso: iniziano i lavori ({0} mesi).
+ab5af1	🏗️ Il comune respinge il permesso di costruzione. Puoi richiederlo di nuovo.
+c9a918	🏟️ L'ampliamento è finito: il tuo stadio ora ha {0} posti.
+cc455a	🏋️ Apre il tuo nuovo centro sportivo: {0}.
+86699e	📨 {0} offre {1} per {2}. Vedi ⚽ Il tuo club → Mercato.
+ffe27d	💵 Metti {0} di tasca tua per coprire le perdite di {1}.
+7c7649	⚖️ {0} finisce in amministrazione controllata per i debiti e viene venduto a un nuovo proprietario. Ricevi {1}.
+95820c	{0} finisce in amministrazione controllata e cambia proprietario.
+6582d8	⚠️ {0} è in rosso e non hai di che coprirlo. Vendi stelle, riduci il monte ingaggi o versa capitale.
+c09dad	🎯 Obiettivo stagionale per {0}: {1}.
+d973be	✅ {0} centra l'obiettivo stagionale ({1}): chiude al posto {2}.
+517e79	❌ {0} manca l'obiettivo stagionale ({1}): chiude al posto {2}.
+e0a38b	⚖️ La lega multa {0} di {1} per il mancato rispetto della licenza.
+7d20ac	⏳ {0} ha bisogno di almeno sei mesi nel campionato regionale prima di chiedere l'ammissione a: {1}.
+3738fe	📋 {0} non ottiene la licenza: {1}.
+f5dfa6	📋 Per entrare in {0} devi comprare un posto (franchigia).
+354ea6	{0} entra in {1} e prende il posto di {2}, che scende nei campionati regionali.
+e51d62	🎉 {0} entra in {1}!
+a589fa	📋 {0} chiude in zona promozione ma non ottiene la licenza: {1}. Sale la successiva.
+379bd5	🎉 {0} viene promosso: {1}!
+579ab4	⬇️ {0} retrocede: {1}.
+110f5e	Le regole non permettono a un calciatore in attività di possedere un club.
+b414b3	Devi essere maggiorenne.
+abda79	Possiedi già un club.
+dea1c7	Comprare {0} costa {1}.
+bf5c17	Compri {0} per {1}. Ora decidi il monte ingaggi, gli acquisti, i lavori e chi guida la squadra.
+f04535	{0} compra {1} per {2}.
+658bc4	Esiste già un club con questo nome.
+b4b78c	Fondare un club costa {0}.
+cb6635	Per entrare in {0} servono sei mesi di competizione e uno stadio da {1} posti.
+db5bd7	Fondi {0}. Gioca nel campionato regionale e affitta un campo comunale da {1} posti.
+71662b	Il posto costa {0} e il tuo club ha solo {1} in cassa.
+edcfbb	Hai già comprato il posto.
+1207fd	Compri un posto in {0} per {1}. Entrerai a fine stagione se rispetti la licenza.
+f2b559	Vendi {0}. Ricevi {1} (cassa del club inclusa).
+5eb3f7	Non hai {0}.
+85a110	Versi {0} nella cassa del club.
+086101	Prelevi {0} dalla cassa del club.
+61b2b1	La cassa del club non basta.
+02ea66	Hai già dei lavori in corso.
+472782	Lo stadio non può superare i 100.000 posti.
+8e8ac6	I lavori costano {0} e il permesso {1}.
+1c78ed	Chiedi il permesso di costruzione per ampliare lo stadio di {0} posti. Il comune risponde in 2-4 mesi.
+99e68e	Hai già il miglior centro.
+41d74d	Chiedi il permesso per costruire: {0}. Il comune risponde in 2-4 mesi.
+476363	Iniziano i lavori: {0} (3 mesi).
+76cfc3	Hai già la migliore accademia.
+8c1b8b	Apri: {0}. Ogni anno possono uscire giovani con più potenziale.
+afacdc	Il mercato è chiuso: apre a giugno e a gennaio.
+e5c92c	{0} non è interessato al tuo progetto: il tuo club è molto al di sotto del suo livello.
+38d1e8	Il trasferimento costa {0} e il tuo club ha {1} in cassa.
+c01f9c	La tua rosa ha già dieci stelle.
+4fa5ea	{0} firma con {1}: trasferimento da {2} e stipendio di {3} all'anno.
+74e01f	Nessun club offre quanto vale {0} per ora.
+70f57f	Vendi {0} a {1} per {2}.
+72ab90	Rifiuti l'offerta di {0} per {1}.
+0d3252	Accettato: {0} va a {1} per {2}.
+2ae8e9	Ti servono {0} in cassa (buonuscita dell'allenatore attuale e indennizzo).
+f51cb9	{0} è il nuovo allenatore di {1}: {2}, stipendio di {3} all'anno.
+3ba870	Per guidare {0} ti serve la {1}.
+214503	Cambi lo stile di gioco: {0}. La squadra ha bisogno di qualche mese per adattarsi.
+3107ca	La buonuscita dell'allenatore attuale costa {0}.
+4f4776	Prendi la panchina di {0}. La tua forza da allenatore: {1}.
+e10c49	Ce l'hai già
+f675a8	Prima ti serve la {0}
+6db1e0	Un anno dopo la precedente
+f81838	Superi il corso e ottieni la {0}. La tua forza da allenatore: {1} (massimo {2} con questa licenza).
+5cdd46	Scarso
+90e998	Ideale
+94144b	👤 {0} ha un nuovo allenatore: {1} ({2}). La tua compatibilità con il suo stile: {3}. La fiducia dell'allenatore riparte da zero.
+5c0411	🌱 La tua accademia promuove {0} ({1} anni, {2}, potenziale {3}).
+68c625	licenze da allenatore
+768bb4	⚽ Diventare proprietario di un club di calcio
+959325	⚽ Il tuo club di calcio
+e956dc	Compra un club o fondane uno
+0e4333	Età
+3488d6	Modulo abituale
+3c3d15	Bilancio (V-N-P)
+58999d	Qualità dell'allenatore
+be736c	In carica dal
+e008d0	Campionati regionali
+0cb069	Modello di business
+1b7d61	Ricavi stimati all'anno
+4397b6	Tifosi
+4ab4a4	Forza
+e3dbe4	Valore del club
+347876	Arriva da {0}
+ede971	Comprare questo club?
+37938f	Stile dell'allenatore
+00e6b7	Rosa
+94dd4a	Fondare
+9d8aca	Strutture
+ea9804	Licenze
+3e98e0	Campionato regionale
+4fea0c	Capitale iniziale (cassa del club)
+5ff1d4	Iscrizione alla federazione
+16cfa0	Stadio minimo per la licenza
+9d5764	Campionato di ingresso
+d41547	scegli il nome nel passo successivo
+fc4a8f	🏟️ Fondare un club
+64c889	Da ex calciatore professionista fai i corsi in metà tempo.
+514290	Mesi da allenatore
+84b4ae	Massimo con questa licenza
+b16ef5	La tua licenza
+f09490	La tua forza da allenatore
+6eb203	forza massima {0}
+eec32e	Ottenuta
+72d389	Posizione in classifica
+cb5e1b	Forza obiettivo
+7bcbf6	Cassa del club
+76b653	Mesi nel campionato regionale
+1c2f1a	💰 Vendere il club
+d422e3	Ricevi circa {0} (cassa del club inclusa)
+16db45	Ti serve la {0}
+411876	la tua forza da allenatore: {0}
+6cf571	Non paghi più lo stipendio dell'allenatore
+b892ac	📣 Allenare tu la squadra
+02b1bc	indennizzo {0}
+6fa4ca	chiede {0} all'anno
+11b00c	Forza attuale
+4916f3	Stipendi della rosa all'anno
+eb3280	Stipendi delle stelle
+303efa	Mercato chiuso
+5dc715	media {0}
+948086	valore {0}
+05301c	Alla tua portata
+a4114a	Tutti
+831e83	stipendio {0}
+984162	Cassa insufficiente
+c53e0e	trasferimento {0}
+fe80e4	Non interessato al tuo progetto
+257c0b	Posti
+4a8fd4	Spettatori dell'ultimo mese
+9fc8f7	permesso {0}
+e40f2d	Lavori già in corso
+eb601c	{0} mesi di lavori
+c8194e	Manutenzione all'anno
+9da719	3 mesi di lavori
+cb6c1f	serve un permesso di costruzione
+4c34ce	apre subito
+181efe	Investito da te
+33f233	Gestione e manutenzione
+6000a1	Acquisti e lavori
+a26d34	Sponsor e negozio
+b9faad	Biglietti
+c56269	Cessioni di giocatori
+fa4a30	Prezzo medio del biglietto
+bad3c9	Dalla cassa del club ai tuoi soldi
+bb4e9f	Dai tuoi soldi alla cassa del club
+bba8c5	entri a fine stagione se rispetti la licenza
+c941e1	📋 Comprare un posto in {0}
+e1804f	Già comprato
+eb067b	Nome del club
+3d594b	Vendere il tuo club?
+b73399	Ingaggiare
+cb5b9b	Ingaggiare questo allenatore?
+3d7fed	Allenare tu la squadra?
+7decd2	Compatibilità tattica
+7ef211	Modelli di business
+960972	Monte ingaggi
+86c8ea	Licenza della lega
+ca62ff	Licenze da allenatore
+5c188c	Permessi di costruzione
+e6907a	Permesso di costruzione
+d6d9ac	⚽ Calcio manageriale
+40fdfb	Tocca un club per vedere la sua scheda.
+31f930	Qualità che apprezza di più:
+0040b2	Una buona compatibilità ti avvicina a un posto da titolare.
+ac3b03	Il tuo club
+96f57a	Comprare il club
+f8aad3	Compra
+cb3025	Ancora nessun trasferimento registrato.
+d5b798	Ultimi trasferimenti
+01a429	Chi ha speso di più (12 mesi)
+18262e	Chi ha venduto di più (12 mesi)
+a85a74	I giocatori di maggior valore
+5d71d7	Valori per campionato
+5e7363	Ricavo medio
+090fc2	TV per club
+f3fce9	Stella più cara
+1bcfb1	I valori di mercato seguono la media, l'età, il campionato e il potenziale, come nei siti di trasferimenti.
+ef43bb	Stadio (posti)
+4ce4c4	Trasferimenti recenti
+763e06	Palmarès del club
+d1cf91	Diventare proprietario di un club
+44989a	Compri tutto il club: lo stadio, la rosa e il posto in campionato. Poi decidi il monte ingaggi, gli acquisti, i lavori e chi guida la squadra. I tuoi soldi:
+e0e6ea	Fondi un club nella tua città. Parte dal campionato regionale con un campo comunale in affitto; per entrare nel campionato professionistico servono sei mesi di competizione e la licenza (uno stadio con abbastanza posti e, in prima divisione, un centro sportivo).
+ae7e77	Il tuo paese non ha una seconda divisione simulata: oltre alla licenza devi comprare un posto (franchigia) prima di entrare.
+1910a3	Il tuo paese non ha ancora un campionato simulato: viene creato quando fondi il club.
+0dbdeb	Colori del club:
+737c87	Le licenze da allenatore (come quelle UEFA e delle federazioni) si ottengono in ordine: C, B, A e Pro. Con la B guidi un club regionale, con la A uno di seconda divisione e con la Pro uno di prima.
+f2fd94	La tua forza da allenatore sale ogni mese in panchina, più in fretta con buoni risultati, fino al massimo della tua licenza.
+6a04c7	Umore dei tifosi
+650011	Obiettivo stagionale:
+4e3c98	Stagioni
+7cd71d	Centro sportivo
+626b01	Posto (franchigia)
+3a7321	Sei mesi nel campionato regionale
+4b582a	Per entrare in {0} a fine stagione:
+c56e24	🏟️ Stadio minimo per la licenza: {0}
+836e2d	Stipendio dell'allenatore
+e67695	Il tuo stile di gioco (cambiarlo richiede qualche mese di adattamento):
+fac21d	Adattamento della rosa
+1dfac7	Candidati (svincolati e di altri club; per chi ha un contratto paghi al suo club un anno di indennizzo):
+7ac8f0	Il monte ingaggi ti colloca nella classifica della spesa del tuo campionato: la forza della squadra si avvicina pian piano a quella che paga.
+ccdd7a	Sotto ogni nome: potenziale e stipendio annuo.
+269fa8	Il tuo club non ha stelle. Ingaggiale in Mercato o forma giovani nella tua accademia.
+aa4c9b	Cassa del club:
+05f3ed	OFFERTA PER LA TUA STELLA
+65ff6d	{0} offre {1} per {2}.
+adb813	Offerte per le tue stelle
+c56862	Vendere una stella
+6e6ef8	Ingaggiare
+802049	📋 Permesso di costruzione in corso: il comune risponde tra {0} mese/i.
+e0e0de	🏗️ Lavori in corso: finiscono tra {0} mese/i.
+545b3c	Per salire in {0} servono {1} posti e un centro sportivo.
+208445	Ogni livello aggiunge mezzo punto alla forza obiettivo; in prima divisione serve almeno un centro di base.
+651e5d	Ogni anno l'accademia può promuovere un giovane: più livello, più probabilità e più potenziale.
+426395	Ultimi 12 mesi
+988b22	I biglietti economici riempiono lo stadio e rallegrano i tifosi; quelli cari lasciano posti vuoti.
+2bd8d2	Capitale
+1d64ab	Se la cassa va in rosso, la copri di tasca tua; se non puoi, il club finisce in amministrazione controllata.
+85f0a6	Posto in campionato
+43321a	🏟️ Ampliare di {0} posti
+bc3292	🏋️ Costruire: {0}
+66a8ea	🌱 Aprire: {0}
+c9ec56	➕ Versare {0}
+a282f7	💵 Prelevare {0}
+6d0fa7	{0} vende {1}.
+efd38e	Va a {0}
+ed9d19	Corso: Licenza C
+736caf	Corso: Licenza B
+da3e10	Corso: Licenza A
+adae2d	Corso: Licenza Pro
+11b0e4	Corso accelerato: Licenza C
+db4dc9	Corso accelerato: Licenza B
+d1df7b	Corso accelerato: Licenza A
+5c4caf	Corso accelerato: Licenza Pro
+e18d07	Licenza C
+3a0f42	Licenza B
+dae3a0	Licenza A
+f42d61	Licenza Pro
+89c7d6	svincolato
+de82c1	Accademia
+872401	Stadio
+41e155	Classifica

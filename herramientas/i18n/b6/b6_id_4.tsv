@@ -1,0 +1,100 @@
+fb54ef	Menentukan bagaimana kursmu bergerak dan risiko krisis mata uang.
+184332	Selisih antara kurs resmi dan kurs yang dianggap wajar oleh pasar. Jika melebar, spekulan bertaruh melawan mata uang itu.
+c01db3	Deviasi yang besar menaikkan risiko devaluasi paksa.
+9c6af2	Membiayai pemerintah dengan mencetak uang baru. Dalam jangka pendek membayar tagihan; dalam jangka menengah memicu inflasi dan depresiasi.
+2c07d3	Menambah kas negara hari ini dan inflasi esok hari.
+7d82c3	Pembatasan membawa uang ke luar negeri atau membeli valuta (misalnya "cepo" di Argentina). Mengerem pelarian modal, tetapi mengusir investasi.
+ca7ee6	Mengurangi tekanan pada mata uangmu dengan imbalan pertumbuhan lebih rendah.
+752281	Valuta, emas, dan aset lain yang disimpan bank sentral untuk membayar impor, utang luar negeri, dan mempertahankan mata uang. Tingkat yang sehat menutup setidaknya 3 bulan impor.
+b29ed0	Jika berkuasa, kamu bisa membeli atau menjual valuta untuk intervensi, menimbun emas, dan membuat cadangan minyak strategis. Ini melindungi dari krisis.
+0e3b2d	Mata uang semua negara dan harganya terhadap dolar.
+cd9a3a	Kurs dan perubahannya.
+8f3006	Apa yang benar-benar bisa kamu beli dengan uangmu. Jika gajimu naik 5% dan harga naik 10%, kamu makin miskin.
+700bc4	Membandingkan uangmu setelah disesuaikan dengan inflasi.
+7f69e8	Pasar tempat saham (bagian kepemilikan perusahaan) dibeli dan dijual. Dalam jangka panjang, bursa rata-rata menghasilkan 6–10% per tahun, dengan kejatuhan tajam di tengah jalan (2008, 2020).
+ad8c2b	32 bursa nyata dengan perusahaan yang terinspirasi perusahaan nyata. Harga bergerak setiap hari bursa karena laporan keuangan, berita, dan ekonomi.
+a72efb	Bursa dan indeks dunia (S&P 500, IPC, Ibovespa, DAX, Nikkei...). Indeks merangkum kinerja perusahaan terbesar di suatu pasar.
+adefa4	Pilih bursa untuk melihat perusahaan dan indeksnya.
+e01e21	Kumpulan investasimu. Diversifikasi (punya banyak perusahaan dan sektor) mengurangi risiko tanpa banyak mengurangi imbal hasil yang diharapkan.
+acca51	Posisimu, keuntungan belum terealisasi, margin, dan short.
+815e39	Instruksi membeli atau menjual. Order pasar: langsung dieksekusi pada harga saat ini. Limit: hanya pada hargamu atau lebih baik. Stop: aktif jika harga menembus level tertentu, untuk memangkas kerugian.
+74a9e3	Order tertunda yang tereksekusi sendiri saat harga tercapai.
+e14604	Membeli saham untuk untung jika naik (posisi long) dan menerima dividen.
+735265	Membeli pada harga saat ini ditambah komisi.
+dfd1ad	Menutup posisi. Keuntungan baru nyata saat kamu menjual; sebelum itu masih "keuntungan belum terealisasi".
+4629e4	Menjual sahammu pada harga saat ini.
+c5fcb2	Meminjam saham dan menjualnya dengan harapan harganya turun agar bisa dibeli kembali lebih murah. Kerugian potensial tak terbatas jika harga naik.
+d98a9c	Kamu untung jika saham turun. Membutuhkan margin dan membayar biaya pinjaman.
+7d1955	Membeli saham yang dijual short untuk mengembalikannya dan menutup taruhan.
+eafe5a	Menutup posisi short-mu.
+44cb0e	Membeli hanya jika harga turun ke levelmu (atau menjual hanya jika naik). Kamu mengendalikan harga, bukan waktunya.
+84cbeb	Tertunda sampai harga mencapainya.
+016956	Penjualan otomatis jika harga turun ke level tertentu. Berguna untuk membatasi kerugian tanpa terus menatap layar.
+c0e2bf	Aktif sendiri saat level ditembus.
+eda590	Harga saham dikali jumlah saham: nilai seluruh perusahaan menurut pasar.
+d6cf10	Ukuran perusahaan.
+29bbcd	Berapa tahun laba yang kamu bayar saat membeli saham. P/E 15 itu wajar; P/E 40 menunjukkan pasar mengharapkan pertumbuhan besar (atau gelembung).
+51198c	Lebih rendah = lebih murah dibanding labanya.
+d0409a	Seberapa besar saham bergerak dibanding pasar. Beta 1: sama dengan indeks; 2: dua kali lipat (lebih berisiko); 0.5: setengahnya (defensif).
+3cd5b2	Risiko saham dibanding bursanya.
+0b00e1	Bagian laba yang dibagikan perusahaan kepada pemegang saham, biasanya per kuartal atau per tahun.
+628d79	Kamu menerimanya tunai selama memegang saham itu.
+0fbd20	Harga tertinggi dalam setahun terakhir. Berguna untuk melihat apakah saham dekat dengan titik ekstremnya.
+42dbf0	Acuan rentang harga.
+74a594	Harga terendah dalam setahun terakhir.
+70500f	Berapa banyak saham diperdagangkan per hari. Volume lebih besar = lebih mudah masuk dan keluar tanpa menggerakkan harga (likuiditas).
+080e85	Likuiditas saham.
+5b55c4	Harga rata-rata pembelian sahammu, memperhitungkan semua pembelianmu.
+e6bc56	Dasar untuk menghitung keuntunganmu.
+fe550d	Untung atau rugi yang akan kamu dapat jika menjual hari ini. Belum nyata sampai kamu menjual.
+2601f8	Selisih antara nilai saat ini dan biayamu.
+dbfed5	Selisih antara nilai posisimu dan biaya yang kamu keluarkan.
+b54f1d	Hijau untung, merah rugi.
+2e4d1f	Uang yang dipinjamkan broker agar kamu bisa berinvestasi lebih dari yang kamu punya. Melipatgandakan untung dan rugi; jika turun tajam, kamu diminta menambah uang (margin call) atau posisimu dijual.
+7623c6	Jika jaminanmu turun terlalu jauh, permainan melikuidasi posisi.
+eda137	Perusahaan menjual saham ke publik untuk pertama kalinya demi mendapatkan modal. Para pendiri menjadi jutawan di atas kertas, tetapi berbagi kendali.
+ee6e77	Kamu bisa membawa usahamu ke bursa jika besar dan menguntungkan.
+10e8ee	Reksa dana yang meniru seluruh indeks dengan biaya sangat rendah. Bagi kebanyakan penabung, hasilnya lebih baik daripada memilih saham sendiri, karena terdiversifikasi dan hampir tanpa biaya.
+cfff56	Kamu membeli seluruh pasar sekaligus.
+57f5fe	Barang dasar yang diperdagangkan dalam jumlah besar: minyak, emas, tembaga, gandum. Harganya naik seiring permintaan global dan krisis pasokan (perang, kekeringan).
+0af9f3	Beli dan jual komoditas; harganya memengaruhi negara dan perusahaan produsen.
+7189b6	Minyak, emas, tembaga, litium, biji-bijian... Harganya ditentukan penawaran dan permintaan dunia.
+cc971a	Perdagangkan komoditas.
+3f0397	Pinjaman yang kamu berikan kepada pemerintah atau perusahaan dengan bunga tetap. Lebih aman daripada saham; jika suku bunga naik, harga obligasi yang sudah ada turun.
+7996ef	Beli obligasi pemerintah; kamu menerima kupon setiap tahun.
+d01260	Obligasi yang kamu miliki, bunganya (kupon), dan jatuh temponya.
+e4d2e1	Kamu menerima bunga sampai jatuh tempo atau sampai kamu menjualnya.
+db2d23	Pasar valuta asing adalah yang terbesar di dunia: sekitar 7.5 triliun dolar per hari. Harga satu mata uang terhadap yang lain berubah karena suku bunga, inflasi, dan arus modal.
+17c775	Beli dan jual mata uang asing; lindungi uangmu dari devaluasi atau berspekulasi.
+0dbde4	Menukar mata uangmu dengan yang lain. Menabung dalam mata uang kuat melindungi dari devaluasi, tetapi ada biaya penukaran.
+aeb81d	Perdagangkan valuta dengan selisih harga beli-jualnya.
+e896ab	Suku bunga tiap negara dan mata uangnya. Uang cenderung mengalir ke tempat yang membayar lebih dengan risiko lebih kecil (carry trade).
+daca62	Gambaran suku bunga dan kurs.
+87670f	Pasar bereaksi terhadap laporan perusahaan, data ekonomi, keputusan bank sentral, dan peristiwa politik.
+ad7689	Berita terbaru yang menggerakkan harga.
+e75595	Bursa menyiarkan harga lewat pita berjalan (ticker). Hijau naik, merah turun.
+ba53b9	Pilih pasar dan periode yang tampil di pita.
+087d77	Bank menyimpan simpanan dan meminjamkannya; mereka untung dari selisih bunga yang ditagih dan yang dibayar. Ada koperasi simpan pinjam, bank daerah, nasional, internasional, dan raksasa sistemik.
+c06eea	Buka rekening, ajukan pinjaman, investasi di reksa dana, atau dirikan bankmu sendiri.
+a82950	Simpanan bank yang memberi bunga. Bank kecil biasanya membayar lebih tinggi, tetapi lebih sering bangkrut; penjaminan simpanan menanggung hingga jumlah tertentu per bank.
+89d855	Setor dan tarik. Sebar uangmu ke beberapa bank agar tidak melebihi batas penjaminan.
+28d86c	Pinjaman berbunga. Bunganya bergantung pada riwayat kredit, penghasilan, dan jaminanmu. Riwayat yang baik membuka pinjaman lebih murah.
+a74774	Ajukan kredit sesuai kemampuan bayarmu.
+2e60f9	Manajer profesional menginvestasikan uang banyak orang dengan imbalan biaya. Ada reksa dana saham, obligasi, campuran, dan hedge fund.
+6ed91b	Investasikan di reksa dana dengan risiko dan biaya berbeda.
+14ec15	Mendirikan bank butuh modal besar dan izin regulator. Bank meminjamkan beberapa kali lipat modalnya (leverage), sehingga bisa sangat menguntungkan atau bangkrut saat rush.
+180410	Dirikan dan kelola bankmu: tetapkan bunga, modal, dan risiko.
+637dab	Skor (di banyak negara 300 sampai 850) yang mengukur seberapa baik kamu membayar utang. Membayar tepat waktu menaikkannya; terlambat menjatuhkannya selama bertahun-tahun.
+d6cb57	Menentukan berapa banyak dan dengan bunga berapa kamu dipinjami.
+8c5109	Dana publik yang mengembalikan tabunganmu jika bankmu bangkrut, hingga batas tertentu. Mencegah rush.
+a16daa	Menanggung simpananmu per bank hingga batas atas.
+2d99d1	Kumpulan bank, dana, dan regulator sebuah negara. Jika bank-bank jatuh, kredit membeku dan ekonomi masuk resesi (2008).
+526e28	Kesehatan perbankan negara, krisis perbankan, dan bantuan IMF serta Bank Dunia.
+e8cfc2	Seberapa kuat permodalan dan kesehatan bank. Di bawah level tertentu, risiko krisis perbankan naik.
+ccb952	Jika turun jauh, krisis bisa meledak.
+38a3d0	Dana Moneter Internasional meminjamkan uang kepada negara yang krisis dengan syarat (penghematan, reformasi). Membantu stabilisasi, tetapi biasanya tidak populer.
+b10cc7	Uang untuk kas negara saat krisis, dengan syarat.
+9bf7b4	Memangkas belanja publik untuk mengurangi defisit dan utang. Memberi kepercayaan kepada kreditur, tetapi bisa memperlambat ekonomi dan memicu protes.
+5e12ea	Belanja lebih sedikit, dukungan lebih rendah, kepercayaan lebih besar.
+583b5a	Pendapatan, pengeluaran, tabungan, utang, dan pajak. Aturan dasarnya: belanjakan lebih sedikit dari penghasilan dan investasikan selisihnya.
+f8dc23	Laporan keuangan pribadimu.

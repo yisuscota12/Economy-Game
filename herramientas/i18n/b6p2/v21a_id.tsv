@@ -1,0 +1,120 @@
+79f1a0	Pertumbuhan
+13860a	Membuka cabang saat ada kas dan perusahaan menjual dengan kapasitas penuh.
+9aa21f	Efisiensi
+a419b8	Memangkas biaya: laba naik sesuai kecakapan direktur.
+61c537	Konservatif
+31385f	Melunasi utang dulu dan menyimpan kas untuk masa krisis.
+a31d55	Grup {0}
+bfb596	{0} memimpin {1} ({2}, kecakapan {3}). Gaji: {4} per tahun, dibayar perusahaan-perusahaan grup.
+962793	Kamu memecat {0}: pesangon ({1}) diambil dari kas perusahaan grup.
+4c1e09	Kamu menyapu kas {0}: {1} masuk ke uangmu. Setiap perusahaan menyisakan 3 bulan biaya.
+84f001	Tidak ada perusahaan di {0} yang punya kas berlebih (masing-masing butuh 3 bulan biaya).
+6f31ff	Grup membutuhkan minimal 2 perusahaan.
+cfbdb2	Tidak perlu memindahkan kas: tidak ada perusahaan yang butuh atau tidak ada yang berlebih.
+dcefdf	Pinjaman internal: {0} memindahkan {1} ke {2}, yang membayar {3} utang bank.
+97b844	Pinjaman internal: {0} memindahkan {1} ke {2}.
+96cf14	Kamu membubarkan {0}: perusahaannya kembali di bawahmu.
+90205f	Kurang {0} untuk audit.
+653aca	Audit {0} ({1}) menemukan utang tersembunyi {2} dan hasil yang digelembungkan: penjualan sebenarnya {3} % dari yang dinyatakan penjual.
+07432e	Audit {0} ({1}) mengonfirmasi angka penjual: tidak ada utang tersembunyi.
+d92860	Kurang {0}.
+e4eca8	Kamu harus berusia 18 tahun.
+774901	Penjual menolak tawaranmu untuk {0} dan menariknya dari pasar.
+d038f3	Penjual menolak {0} untuk {1}. Kamu bisa mencoba sekali lagi.
+2c4f8e	Kamu membeli {0} seharga {1} (kamu membayar {2}; {3} kredit menjadi utang perusahaan).
+8a32dc	Kamu membeli {0} seharga {1}.
+c3810a	Kamu membeli {0} seharga {1}. Saat memeriksa pembukuan, kamu menemukan utang tersembunyi {2}: kamu tidak melakukan audit.
+7d6cad	Kamu membeli {0} seharga {1} (kamu membayar {2}; {3} kredit menjadi utang perusahaan). Saat memeriksa pembukuan, kamu menemukan utang tersembunyi {4}: kamu tidak melakukan audit.
+a80a45	Perusahaan ini tidak bisa dibeli lewat penawaran tender.
+b447c9	Kamu sudah mengendalikan perusahaan ini.
+6cba2b	Kamu sudah membuat penawaran untuk perusahaan ini tahun ini: pemegang saham tidak menerima yang lain sampai tahun depan.
+5fc942	Pemegang saham {0} menolak tawaranmu {1} per saham. Kamu membayar {2} kepada penasihat dan saham naik karena spekulasi.
+14aff7	{0} mengambil alih kendali {1} lewat penawaran tender: membeli 51 % saham dengan premi {2} %.
+cc2471	Kamu mengambil alih kendali {0}: membeli {1} saham pada {2} ({3} dengan komisi). Sekarang kamu memilih strategi dan direkturnya.
+da1738	Seimbang
+e65e56	Tetap seperti semula.
+7a76c3	Tumbuh
+3da0c1	Menginvestasikan kembali hampir semuanya: laba tumbuh lebih cepat dan dividen lebih sedikit.
+94f59e	Memangkas biaya: laba sedikit lebih tinggi dan saham bergerak lebih tenang.
+b94493	Dividen
+908b77	Membagikan lebih banyak: dividen jauh lebih tinggi, tetapi tumbuh lebih lambat.
+026517	{0} mengubah strategi: {1}.
+d6c94d	{0} menjadi direktur utama baru {1} (kecakapan {2}).
+c33cbb	Kepemilikanmu di {0} turun di bawah 50 %: kamu kehilangan kendali atas perusahaan.
+61204b	Kamu butuh {0} atau kurang.
+b2c202	Setiap bulan perusahaanmu menjual, membayar bahan, gaji, sewa, pajak, dan utang; yang dibagikan masuk ke uangmu.
+00124f	Kamu bisa memimpin langsung hingga {0} perusahaan; selebihnya, kelompokkan di bawah seorang direktur.
+4696d6	{0} dipimpin langsung
+fa9f4a	⚠️ Kamu memimpin langsung {0} perusahaan: waktumu tidak cukup dan setiap bulan semuanya kehilangan {1} poin reputasi.
+31ac0c	Buat grup dengan direktur untuk memulihkannya.
+55fb54	Perusahaan dijual
+83f3eb	Grup
+3c25b5	Dikendalikan di bursa
+e0af5d	Strategi: {0}
+5cba62	Perusahaanku
+b2cd36	Usaha di {0} yang pemiliknya ingin menjual. Angkanya dari pernyataan penjual: bisa dipoles.
+a7f651	Audit memeriksa pembukuan dan utang sebelum membeli.
+fcf966	Daftar diperbarui setiap 6 bulan.
+ff1f4f	Saat ini tidak ada perusahaan yang dijual.
+5a55b8	{0} karyawan
+8c58df	reputasi {0}
+906c35	Penjualan per tahun
+a753b2	Laba per tahun
+e8d23f	Utang
+29ce23	Kas
+2a469b	Sudah diaudit
+75939d	Penjual terburu-buru
+0c06e4	Utang tersembunyi: {0}
+d83204	Tawaran ditolak: {0}
+d9d394	Audit ({0})
+1e872c	Dengan kredit: kamu membayar separuh dan separuh lagi menjadi utang perusahaan
+e146d0	Audit
+345238	Grup (konglomerat) menyatukan beberapa perusahaanmu di bawah seorang direktur.
+fddf77	Dengan begitu kamu bisa punya sebanyak yang kamu mau tanpa kehilangan perhatian, dan yang sebidang berbagi pelanggan dan pemasok (sinergi).
+15c6fa	{0} perusahaan
+c665a3	Tanpa direktur
+948086	nilai {0}
+b63dfe	Buat grup
+92ac3b	Nama grup
+12a447	Direktur
+306fa7	kecakapan {0}
+f702aa	{0} per tahun
+3408b6	Tanpa direktur, perusahaan grup tidak mendapat perbaikannya. Gajinya dibayar perusahaan grup.
+c701f1	Pecat
+7181cb	Perusahaan grup
+f9059b	{0}/bulan
+024340	sinergi {0}/bulan
+819e73	penghematan {0}/bulan
+36d9a1	Keluarkan
+ba39af	Belum ada perusahaan.
+f6cb1f	Tambahkan ke grup
+76afcf	Sapu kas
+749f23	Pinjaman internal
+67de03	Bubarkan
+96a561	Kendali perusahaan
+5fa13a	Sahammu
+4b5b07	Strategi
+1c6a17	Dividen per tahun
+8381a9	Kamu mengendalikan {0}: kamu menentukan strategi dan direkturnya. Jika menjual saham dan turun di bawah 50 %, kamu kehilangan kendali.
+66ca3f	Ganti direktur
+d9a1b7	Pilih direktur
+cf5468	Dengan lebih dari 50 % saham kamu mengendalikan perusahaan. Penawaran tender membeli dari semua pemegang saham yang mau menjual dengan premi di atas harga hari ini: makin tinggi premi, makin banyak yang setuju.
+fb16fb	Kurang
+8ca912	{0} lbr
+be3ffa	Nilai pasar
+136044	Kamu sudah membuat penawaran tahun ini: pemegang saham tidak menerima yang lain sampai tahun depan.
+05f71c	Premi
+e11d21	Penawaran tender
+4705dc	Tawaran membeli saham perusahaan terbuka dari semua pemegang sahamnya dengan harga tetap untuk mengambil alih kendali. Dalam bahasa Spanyol disebut OPA.
+3759a9	Premi kendali
+6cc33f	Jumlah yang dibayar di atas harga pasar agar pemegang saham mau menjual dan kendali beralih.
+28a776	Audit (uji tuntas)
+b88955	Pemeriksaan pembukuan, kontrak, dan utang perusahaan sebelum membelinya agar tidak membayar terlalu mahal untuk angka yang dipoles.
+73ebba	Pembelian dengan utang
+46cbb8	Membeli perusahaan dengan banyak uang pinjaman yang kemudian dilunasi perusahaan itu sendiri dari labanya. Melipatgandakan keuntungan dan risiko.
+d39083	Konglomerat
+1fa8cc	Kelompok perusahaan dari berbagai bidang di bawah satu pemilik dan manajemen bersama.
+860c3b	Sinergi
+5e13be	Penghematan atau penjualan tambahan yang muncul saat menggabungkan perusahaan yang berbagi pelanggan, pemasok, atau proses.
+77c8d3	Kendali di bursa
+e6850f	Membeli perusahaan dan grup
