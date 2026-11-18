@@ -3,6 +3,12 @@
    vitrina de trofeos (gxVitrina), gráfica de radar (gxRadar), logos de empresas, bancos y compañías (gxLogo) y portadas de obras (gxCover).
    Nada se guarda en la partida; se cachea en memoria por nombre. Los textos visibles (siglas, iniciales) no pasan por traducción: son nombres propios. */
 const GX={c:new Map()};
+/* v2.2b estilo pixel: filtros SVG compartidos que convierten un gráfico vectorial en bloques de 2 o 3 px CSS
+   (toma una muestra por bloque y la expande). Los usan los retratos (.face.px2/.px3), escudos, trofeos, cinturones, logos y portadas
+   vía CSS (style.css, html[data-px=p2][data-pxf]). Se crean una vez; sin el estilo pixel no se aplican. */
+function gxPxDefs(){if(document.getElementById('pxF2'))return;const f=(id,n)=>`<filter id="${id}" x="0" y="0" width="1" height="1" color-interpolation-filters="sRGB"><feFlood x="${n>>1}" y="${n>>1}" width="1" height="1"/><feComposite width="${n}" height="${n}"/><feTile result="a"/><feComposite in="SourceGraphic" in2="a" operator="in"/><feMorphology operator="dilate" radius="${n>>1}"/></filter>`;
+  const d=document.createElement('div');d.innerHTML=`<svg width="0" height="0" style="position:absolute;width:0;height:0" aria-hidden="true">${f('pxF2',2)}${f('pxF3',3)}</svg>`;document.body.appendChild(d.firstChild);}
+try{if(document.body)gxPxDefs();else addEventListener('DOMContentLoaded',gxPxDefs);}catch(e){}
 function gxR(seed){let s=(seed>>>0)||1;return ()=>{s^=s<<13;s>>>=0;s^=s>>>17;s^=s<<5;s>>>=0;return (s%100000)/100000;};}
 function gxLum(hex){const n=parseInt((hex||'#888').slice(1),16);return ((n>>16)*.299+(n>>8&255)*.587+(n&255)*.114)/255;}
 const gxShade=(h,k)=>face2Shade(h,k);

@@ -3,7 +3,8 @@
    (ui_v06.js mete la ropa por oficio justo antes de ese cuello y los sombreros al final), opciones mood, dead, bg, shirt ('none' = sin camisa), crown.
    Nuevo: mandíbula y orejas, sombra lateral, ojos con iris por población, párpados, cejas que siguen el ánimo, nariz, labios y dientes al sonreír,
    8 peinados de hombre y 8 de mujer (capa de atrás y de adelante), barba incompleta, bigote, candado y barba completa, entradas y calvicie con la edad,
-   canas graduales, arrugas por edad, pecas, aretes y 3 tipos de lentes. Sin <defs> ni identificadores: se puede repetir en la misma pantalla. */
+   canas graduales, arrugas por edad, pecas, aretes y 3 tipos de lentes. Sin <defs> ni identificadores: se puede repetir en la misma pantalla.
+   v2.2b: clase px2 (retrato chico, bloques de 2 px) o px3 (grande, bloques de 3 px) para el estilo pixel (filtros en ui_v16f_gx.js). */
 const FACE2_IRIS={afri:['#3b2416','#2a180e'],indi:['#3b2416','#4a2e1a'],chin:['#2a1a10','#3b2416'],japo:['#2a1a10','#3b2416'],core:['#2a1a10','#3b2416'],seas:['#3b2416','#2a1a10'],
   arab:['#3b2416','#5a3a1e','#4b5a2a'],pers:['#3b2416','#5a3a1e','#4b6a3a'],turc:['#4a2e1a','#5a3a1e','#4b6a3a'],hisp:['#3b2416','#5a3a1e','#6b4a1e'],luso:['#3b2416','#5a3a1e','#4b6a3a'],
   angl:['#3d6ea8','#4b7a4a','#5a3a1e','#6a8aa8'],germ:['#3d6ea8','#6a8aa8','#4b7a4a','#5a3a1e'],esla:['#6a8aa8','#3d6ea8','#4b7a4a','#5a3a1e'],fran:['#5a3a1e','#3d6ea8','#4b7a4a'],ital:['#5a3a1e','#4b7a4a','#3b2416'],hebr:['#5a3a1e','#4b7a4a','#3b2416']};
@@ -21,7 +22,7 @@ function faceV2(x,size,o){o=o||{};const name=x.name||(x.first+' '+x.surname)||'x
   const rx=baby?24:kid?21.5:F?19.5:20.5,ry=baby?24:kid?23:25;
   const jaw=F?3:kid?2:5+((sd>>>9)%3); /* mandíbula: más ancha en hombres */
   const hsM=(sd>>>5)%8,hsF=(sd>>>6)%8;
-  let s=`<svg viewBox="0 0 100 100" width="${size}" height="${size}" class="face${dead?' dead':''}"><circle cx="50" cy="50" r="49" fill="${o.bg||'#22303f'}"/>`;
+  let s=`<svg viewBox="0 0 100 100" width="${size}" height="${size}" class="face${dead?' dead':''}${size<56?' px2':' px3'}"><circle cx="50" cy="50" r="49" fill="${o.bg||'#22303f'}"/>`;
   /* --- pelo de atrás (largo) --- */
   const backHair=()=>{if(baby)return '';
     if(F){switch(hsF){

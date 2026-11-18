@@ -195,3 +195,16 @@ function dsIn(els,o){if(!els||!els.length)return;try{gsap.killTweensOf(els);gsap
   const lab={auto:'Automático',on:'Sí',off:'No'};const x=document.createElement('div');x.className='item';x.style.display='block';
   x.innerHTML=`<div class="t">✨ Animaciones de la interfaz</div><div class="s">Transiciones suaves al abrir pantallas y cambiar de pestaña. En automático se apagan con «reducir movimiento», el mapa ligero o un equipo de 2 núcleos.</div><div class="chips" style="margin-top:6px">${['auto','on','off'].map(k=>`<button data-dsa="${k}" class="${m===k?'on':''}">${lab[k]}</button>`).join('')}</div><div class="s" style="margin-top:4px">${DS.anim()?'Ahora: encendidas':'Ahora: apagadas'}</div>`;
   const ref=b.querySelector('#sMfx');(ref?ref.after(x):b.appendChild(x));x.querySelectorAll('[data-dsa]').forEach(y=>y.onclick=()=>{CFG.dsa=y.dataset.dsa;saveCfg();showSettings();});}catch(e){}};}
+
+/* ---------- v2.2b — Prueba 2: estilo pixel integral (Ajustes → 🕹️ Estilo pixel) ----------
+   CFG.pxui ('' = actual, 'p2' = pixel) pone html[data-px=p2]; los estilos están en style.css. html[data-pxf] activa además el pixelado
+   de retratos, escudos, trofeos, logos y portadas (filtros SVG de ui_v16f_gx.js); se omite con el mapa ligero para no cargar equipos lentos.
+   El mapa (map.js) se dibuja a 1 px por px CSS con escalado pixelado y fronteras del mismo grosor; la portada (ui_v19a.js), a 1/3 con tramado. */
+function pxUI(){const h=document.documentElement;if(pxOn()){h.dataset.px='p2';if(typeof mapMode==='undefined'||mapMode!=='lite')h.dataset.pxf='1';else delete h.dataset.pxf;}else{delete h.dataset.px;delete h.dataset.pxf;}}
+function pxUISet(k){CFG.pxui=k;saveCfg();pxUI();try{if(mapReady){fitCanvas();refreshMap();}}catch(e){}try{if(typeof CV!=='undefined'&&CV.on)cvStart();}catch(e){}}
+try{pxUI();}catch(e){}
+{const _ss=showSettings;showSettings=function(){_ss();try{pxUI();const b=$('sheetIn');if(!b||b.querySelector('[data-pxui]'))return;const m=pxOn()?'p2':'';
+  const x=document.createElement('div');x.className='item';x.style.display='block';x.id='cfPxUI';
+  x.innerHTML=`<div class="t">🕹️ Estilo pixel (prueba 2)</div><div class="s"><span>Toda la interfaz en pixel art: bordes 16-bit, botones que se hunden, barras en bloques, letra pixel, retratos y escudos pixelados.</span> <span>El mapa se dibuja a 1 px por punto y conserva el grosor de las fronteras.</span></div><div class="chips" style="margin-top:6px"><button data-pxui="" class="${m===''?'on':''}">Actual</button><button data-pxui="p2" class="${m==='p2'?'on':''}">Pixel</button></div>`;
+  const ref=b.querySelector('#sMfx');(ref?ref.after(x):b.insertBefore(x,b.querySelector('.item')||null));
+  x.querySelectorAll('[data-pxui]').forEach(y=>y.onclick=()=>{pxUISet(y.dataset.pxui);showSettings();});}catch(e){console.warn('v22b ajustes',e);}};}

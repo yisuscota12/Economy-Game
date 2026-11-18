@@ -62,11 +62,12 @@ function coverBind(c){const go=c.querySelector('#cvGo');if(go)go.onclick=()=>{co
   x.innerHTML=`<span><div class="t">🖼️ Portada</div><div class="s">${s[0]} <span>${s[1]}</span> · <span>Toca para verla y cambiar el estilo.</span></div></span>`;x.onclick=()=>{closeSheet();coverShow(true);};b.appendChild(x);};}
 
 /* fondo de la portada: la imagen de relieve recoloreada una sola vez por estilo (base) y, en cada cuadro, paneo lento + capa animada */
-function cvStart(){cancelAnimationFrame(CV.raf);clearTimeout(CV.to);const c=$('cvC');if(!c)return;const dpr=Math.min(1.5,window.devicePixelRatio||1);
-  const W=Math.max(2,Math.round(innerWidth*dpr)),H=Math.max(2,Math.round(innerHeight*dpr));c.width=W;c.height=H;Object.assign(CV,{W,H,dpr,s:cvStyle(),t0:performance.now()});
+// v2.2b estilo pixel: la portada se dibuja a 1 pixel por cada 3 px CSS (dpr .5 para trazos y luces) y se agranda sin suavizar
+function cvStart(){cancelAnimationFrame(CV.raf);clearTimeout(CV.to);const c=$('cvC');if(!c)return;const pf=typeof pxOn==='function'&&pxOn()?3:0;const dpr=pf?.5:Math.min(1.5,window.devicePixelRatio||1);
+  const W=Math.max(2,Math.round(pf?innerWidth/pf:innerWidth*dpr)),H=Math.max(2,Math.round(pf?innerHeight/pf:innerHeight*dpr));c.width=W;c.height=H;Object.assign(CV,{W,H,dpr,pf,s:cvStyle(),t0:performance.now()});
   cvImg().then(img=>{if(!CV.on||!img)return;try{cvBase(img);cvPrep();cvLoop();}catch(e){console.warn('portada',e);}});}
 function cvImg(){if(CV.img)return Promise.resolve(CV.img);return new Promise(ok=>{const im=new Image();im.onload=()=>{CV.img=im;ok(im);};im.onerror=()=>ok(null);im.src=REL_IMG;});}
-function cvBase(img){const s=CV.s,key=s+'|'+CV.H;if(CV.base&&CV.bs===key)return;const BH=Math.round(Math.min(900,CV.H*1.08)),BW=Math.round(BH*img.width/img.height);
+function cvBase(img){const s=CV.s,key=s+'|'+CV.H+'|'+(CV.pf||0);if(CV.base&&CV.bs===key)return;const BH=Math.round(Math.min(900,CV.H*1.08)),BW=Math.round(BH*img.width/img.height);
   const b=document.createElement('canvas');b.width=BW;b.height=BH;const x=b.getContext('2d');x.drawImage(img,0,0,BW,BH);
   if(s!=='planeta'){const d=x.getImageData(0,0,BW,BH),a=d.data;
     for(let i=0;i<a.length;i+=4){const r=a[i],g=a[i+1],bl=a[i+2];const L=(r*.3+g*.59+bl*.11)/255;const bg=r+g+bl<75;const w=!bg&&bl>r+16&&bl>=g-8;
@@ -74,7 +75,12 @@ function cvBase(img){const s=CV.s,key=s+'|'+CV.H;if(CV.base&&CV.bs===key)return;
       else if(s==='mercados'){if(bg){a[i]=2;a[i+1]=5;a[i+2]=6;}else if(w){a[i]=3;a[i+1]=8+L*8;a[i+2]=9+L*8;}else{a[i]=6+L*18;a[i+1]=22+L*58;a[i+2]=16+L*30;}}
       else{if(bg){a[i]=214;a[i+1]=198;a[i+2]=160;}else if(w){a[i]=222-L*22;a[i+1]=208-L*20;a[i+2]=170-L*18;}else{a[i]=118+L*92;a[i+1]=92+L*80;a[i+2]=52+L*56;}}}
     x.putImageData(d,0,0);}
+  if(CV.pf)cvDither(x,BW,BH);
   CV.base=b;CV.bs=key;}
+// tramado ordenado 4×4 (Bayer) a 6 niveles por canal: el fondo de la portada queda con paleta corta y textura retro
+const CV_BAYER=[0,8,2,10,12,4,14,6,3,11,1,9,15,7,13,5];
+function cvDither(x,w,h){const d=x.getImageData(0,0,w,h),a=d.data,q=5;for(let y=0;y<h;y++)for(let i=0;i<w;i++){const k=(y*w+i)*4,t=(CV_BAYER[(y&3)*4+(i&3)]+.5)/16;
+    for(let c=0;c<3;c++)a[k+c]=Math.min(255,Math.floor(a[k+c]/255*q+t)*255/q);}x.putImageData(d,0,0);}
 // ciudades (luces y rutas), velas de la bolsa y rutas de navegación del atlas
 function cvPrep(){const C=(typeof CITIES!=='undefined'?CITIES:[]).slice().sort((a,b)=>b[2]-a[2]);CV.lights=C.slice(0,420).map(c=>[c[0]/4096,c[1]/1755,Math.log10(Math.max(1e4,c[2]))-4,Math.random()*6.28]);
   const big=C.slice(0,48);let sd=7;const rnd=()=>{sd=(sd*9301+49297)%233280;return sd/233280;};CV.arcs=[];
@@ -88,7 +94,7 @@ const cvReduced=()=>{try{return matchMedia('(prefers-reduced-motion: reduce)').m
 function cvLoop(){let last=0;const step=t=>{if(!CV.on)return;if(document.hidden){CV.to=setTimeout(()=>{CV.raf=requestAnimationFrame(step);},500);return;}
     if(t-last>=32){last=t;try{cvFrame(t);}catch(e){console.warn(e);CV.on&&cancelAnimationFrame(CV.raf);return;}}
     if(!cvReduced())CV.raf=requestAnimationFrame(step);};CV.raf=requestAnimationFrame(step);}
-function cvFrame(t){const c=$('cvC');if(!c||!CV.base)return;const x=c.getContext('2d'),W=CV.W,H=CV.H,s=CV.s,b=CV.base;const T=(t-CV.t0)/1000;
+function cvFrame(t){const c=$('cvC');if(!c||!CV.base)return;const x=c.getContext('2d'),W=CV.W,H=CV.H,s=CV.s,b=CV.base;const T=(t-CV.t0)/1000;x.imageSmoothingEnabled=!CV.pf;
   const dh=H*1.06,dw=b.width*dh/b.height;let dx;
   if(dw>W){const span=dw-W;const c0=clamp(CV.fx*dw-W/2,0,span);const ph=Math.asin(clamp(c0/span*2-1,-1,1));dx=-span*(.5+.5*Math.sin(ph+T*2*Math.PI/90));}else dx=(W-dw)/2;
   const dy=(H-dh)/2;x.globalCompositeOperation='source-over';x.globalAlpha=1;x.drawImage(b,dx,dy,dw,dh);

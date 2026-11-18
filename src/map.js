@@ -19,16 +19,17 @@ async function initMap(){
   ID_IMG=idImg;
   let ok=false;if(!liteWanted()){try{ok=initGL(idImg,relImg);}catch(e){ok=false;}}
   if(ok)mapMode='gl';else{initLite(relImg);mapMode='lite';}
-  mapReady=true;fitCanvas();refreshMap();
+  mapReady=true;try{if(typeof pxUI==='function')pxUI();}catch(e){}fitCanvas();refreshMap();
   setTimeout(()=>{(window.requestIdleCallback||setTimeout)(decodeIds);},1200);
 }
 /* ----- WebGL ----- */
-let PXQ=0,PXDPR=0; // v2.2a: niveles de color y grosor de línea del estilo pixel (0 = estilo actual; los fija ui_v22a.js)
+/* v2.2b estilo pixel integral (Prueba 2): el lienzo del mapa se dibuja a 1 px por px CSS y el navegador lo agranda sin suavizar
+   (image-rendering:pixelated). El grosor de las fronteras sigue igual en px CSS (uDpr usa el mismo factor). CFG.pxui='p2' lo activa. */
+function pxOn(){try{return CFG.pxui==='p2';}catch(e){return false;}}
+function mapDpr(){return pxOn()?1:Math.min(2,window.devicePixelRatio||1);}
 const VS='attribute vec2 p;varying vec2 v;void main(){v=vec2(p.x*.5+.5,.5-p.y*.5);gl_Position=vec4(p,0.,1.);}';
 const FS=`precision highp float;
-uniform sampler2D uId,uRel,uLut,uOwn,uCoast;uniform float uFx;uniform vec2 uTex,uLutN,uView;uniform vec4 uVB;uniform float uSel,uMe,uDetail,uMix,uVec,uPulse,uPx;varying vec2 v;
-/* v2.2a estilo pixel: cuantiza a uPx niveles por canal con tramado ordenado 2×2 (uPx=0: sin cambio) */
-vec3 pxq(vec3 c){if(uPx<.5)return c;vec2 q=mod(floor(gl_FragCoord.xy),2.);float b=q.y<.5?(q.x<.5?0.:2.):(q.x<.5?3.:1.);return floor(c*uPx+(b+.5)/4.)/uPx;}
+uniform sampler2D uId,uRel,uLut,uOwn,uCoast;uniform float uFx;uniform vec2 uTex,uLutN,uView;uniform vec4 uVB;uniform float uSel,uMe,uDetail,uMix,uVec,uPulse;varying vec2 v;
 float idAt(vec2 m){if(m.x<0.||m.y<0.||m.x>=uTex.x||m.y>=uTex.y)return 0.;vec4 c=texture2D(uId,(floor(m)+.5)/uTex);return floor(c.r*255.+.5)+floor(c.g*255.+.5)*256.;}
 vec2 lc(float i){return (vec2(mod(i,${LUTW}.),floor(i/${LUTW}.))+.5)/uLutN;}
 vec4 lut(float i){return texture2D(uLut,lc(i));}
@@ -36,7 +37,7 @@ vec4 own(float i){return texture2D(uOwn,lc(i));}
 float hsh(vec2 p){return fract(sin(dot(p,vec2(12.9898,78.233)))*43758.5453);}
 float vnz(vec2 p){vec2 i=floor(p),f=fract(p);f=f*f*(3.-2.*f);return mix(mix(hsh(i),hsh(i+vec2(1.,0.)),f.x),mix(hsh(i+vec2(0.,1.)),hsh(i+vec2(1.,1.)),f.x),f.y);}
 void main(){vec2 m=uVB.xy+v*uVB.zw;float px=uVB.z/uView.x;vec3 rel=texture2D(uRel,clamp(m,vec2(0.),uTex)/uTex).rgb;
- if(m.x<0.||m.x>=uTex.x||m.y<0.||m.y>=uTex.y){gl_FragColor=vec4(pxq(vec3(.03,.08,.13)),1.);return;}
+ if(m.x<0.||m.x>=uTex.x||m.y<0.||m.y>=uTex.y){gl_FragColor=vec4(vec3(.03,.08,.13),1.);return;}
  float id=idAt(m);
  if(id<.5){float n=max(max(idAt(m+vec2(px,0.)),idAt(m-vec2(px,0.))),max(idAt(m+vec2(0.,px)),idAt(m-vec2(0.,px))));
   vec3 c=rel*.92;
@@ -45,7 +46,7 @@ void main(){vec2 m=uVB.xy+v*uVB.zw;float px=uVB.z/uView.x;vec3 rel=texture2D(uRe
    float lw=max(px*1.2,.35),fa=clamp(1.6-px,0.,1.);
    float rp=(1.-smoothstep(0.,lw,abs(d-2.6)))*.30+(1.-smoothstep(0.,lw,abs(d-6.5)))*.18+(1.-smoothstep(0.,lw,abs(d-12.)))*.10;
    c=mix(c,vec3(.80,.92,.97),rp*fa);c+=(vnz(m*.18)-.5)*.035;}
-  if(n>.5)c=mix(c,vec3(.04,.06,.09),.55);gl_FragColor=vec4(pxq(c),1.);return;}
+  if(n>.5)c=mix(c,vec3(.04,.06,.09),.55);gl_FragColor=vec4(c,1.);return;}
  vec4 o=lut(id);vec4 ow=own(id);float lum=dot(rel,vec3(.3,.59,.11));
  vec3 c=mix(rel,o.rgb*(.5+.75*lum),uMix);
  float prov=0.,nat=0.,sel=0.,me=0.;
@@ -64,7 +65,7 @@ void main(){vec2 m=uVB.xy+v*uVB.zw;float px=uVB.z/uView.x;vec3 rel=texture2D(uRe
  c=mix(c,o.a>.1?vec3(.85,.12,.12):vec3(.05,.06,.08),.78*nat);}
  if(id==uSel){c=mix(c,vec3(1.),.22);if(sel>0.)c=vec3(1.);}
  if(me>0.)c=mix(c,vec3(1.,.78,.2),me);
- gl_FragColor=vec4(pxq(c),1.);}`;
+ gl_FragColor=vec4(c,1.);}`;
 function initGL(idImg,relImg){
   const cv=$('glc');gl=cv.getContext('webgl',{antialias:false,alpha:false})||cv.getContext('experimental-webgl');if(!gl)return false;
   if(gl.getParameter(gl.MAX_TEXTURE_SIZE)<MW)return false;
@@ -80,7 +81,7 @@ function initGL(idImg,relImg){
     gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_MIN_FILTER,filter);gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_MAG_FILTER,filter);
     if(src instanceof Uint8Array)gl.texImage2D(gl.TEXTURE_2D,0,gl.RGBA,w,h,0,gl.RGBA,gl.UNSIGNED_BYTE,src);else gl.texImage2D(gl.TEXTURE_2D,0,gl.RGBA,gl.RGBA,gl.UNSIGNED_BYTE,src);return t;};
   tex(0,idImg,gl.NEAREST);tex(1,relImg,gl.LINEAR);GLX.lutData=new Uint8Array(LUTW*LUTH*4);GLX.lut=tex(2,GLX.lutData,gl.NEAREST,LUTW,LUTH);GLX.ownData=new Uint8Array(LUTW*LUTH*4);GLX.own=tex(3,GLX.ownData,gl.NEAREST,LUTW,LUTH);if(GLX.coastImg)tex(4,GLX.coastImg,gl.LINEAR);else tex(4,new Uint8Array(4),gl.NEAREST,1,1);
-  const U=n=>gl.getUniformLocation(pr,n);GLX.u={id:U('uId'),rel:U('uRel'),lut:U('uLut'),tex:U('uTex'),lutN:U('uLutN'),view:U('uView'),vb:U('uVB'),sel:U('uSel'),me:U('uMe'),det:U('uDetail'),own:U('uOwn'),mix:U('uMix'),vec:U('uVec'),pulse:U('uPulse'),coast:U('uCoast'),fx:U('uFx'),px:U('uPx')};GLX.prog=pr;GLX.pLoc=loc;GLX.qbuf=b;
+  const U=n=>gl.getUniformLocation(pr,n);GLX.u={id:U('uId'),rel:U('uRel'),lut:U('uLut'),tex:U('uTex'),lutN:U('uLutN'),view:U('uView'),vb:U('uVB'),sel:U('uSel'),me:U('uMe'),det:U('uDetail'),own:U('uOwn'),mix:U('uMix'),vec:U('uVec'),pulse:U('uPulse'),coast:U('uCoast'),fx:U('uFx')};GLX.prog=pr;GLX.pLoc=loc;GLX.qbuf=b;
   gl.uniform1i(GLX.u.id,0);gl.uniform1i(GLX.u.rel,1);gl.uniform1i(GLX.u.lut,2);gl.uniform1i(GLX.u.own,3);gl.uniform1i(GLX.u.coast,4);gl.uniform2f(GLX.u.tex,MW,MH);gl.uniform2f(GLX.u.lutN,LUTW,LUTH);
   cv.addEventListener('webglcontextlost',e=>{e.preventDefault();try{localStorage.setItem('imperioLite','1');}catch(_){}} ,false);
   try{initBorders();}catch(e){GLX.lines=null;}
@@ -120,7 +121,7 @@ function drawLines(det,L0){const cv=$('glc');const L=L0||((vb.w/cv.width>1.25&&G
   gl.bindBuffer(gl.ARRAY_BUFFER,L.bPQ);gl.enableVertexAttribArray(L.lPQ);gl.vertexAttribPointer(L.lPQ,4,gl.FLOAT,false,0,0);
   gl.bindBuffer(gl.ARRAY_BUFFER,L.bS);gl.enableVertexAttribArray(L.lS);gl.vertexAttribPointer(L.lS,1,gl.FLOAT,false,0,0);
   gl.bindBuffer(gl.ARRAY_BUFFER,L.bK);gl.enableVertexAttribArray(L.lK);gl.vertexAttribPointer(L.lK,1,gl.FLOAT,false,0,0);
-  gl.uniform4f(L.uVB,vb.x,vb.y,vb.w,vb.h);gl.uniform2f(L.uView,cv.width,cv.height);gl.uniform1f(L.uDpr,PXDPR||Math.min(2,window.devicePixelRatio||1));gl.uniform1f(L.uDet,det);gl.uniform1f(L.uDet0,det);const tpp=vb.w/cv.width;gl.uniform1f(L.uZ,clamp((7-tpp)/5,.5,1));
+  gl.uniform4f(L.uVB,vb.x,vb.y,vb.w,vb.h);gl.uniform2f(L.uView,cv.width,cv.height);gl.uniform1f(L.uDpr,mapDpr());gl.uniform1f(L.uDet,det);gl.uniform1f(L.uDet0,det);const tpp=vb.w/cv.width;gl.uniform1f(L.uZ,clamp((7-tpp)/5,.5,1));
   gl.enable(gl.BLEND);gl.blendFunc(gl.SRC_ALPHA,gl.ONE_MINUS_SRC_ALPHA);gl.drawArrays(gl.TRIANGLES,0,L.n);gl.disable(gl.BLEND);
   gl.disableVertexAttribArray(L.lPQ);gl.disableVertexAttribArray(L.lS);gl.disableVertexAttribArray(L.lK);
   gl.useProgram(GLX.prog);gl.bindBuffer(gl.ARRAY_BUFFER,GLX.qbuf);gl.enableVertexAttribArray(GLX.pLoc);gl.vertexAttribPointer(GLX.pLoc,2,gl.FLOAT,false,0,0);}
@@ -148,7 +149,7 @@ function setMapMode(k){MMODE=k;document.querySelectorAll('.mmodes button').forEa
   $('mLeg').innerHTML=md.lo?`<span>${md.n}</span><div class="lg-bar"></div><div class="lg-lab"><span>${md.lo}</span><span>${md.hi}</span></div>`:'';$('mLeg').style.display=md.lo?'block':'none';refreshMap();}
 function drawGL(){const cv=$('glc');gl.viewport(0,0,cv.width,cv.height);const u=GLX.u;
   gl.uniform2f(u.view,cv.width,cv.height);gl.uniform4f(u.vb,vb.x,vb.y,vb.w,vb.h);
-  gl.uniform1f(u.mix,MODES_MAP[MMODE].mix);gl.uniform1f(u.fx,mapFx()&&GLX.coastImg?1:0);gl.uniform1f(u.pulse,PULSE.v);gl.uniform1f(u.px,PXQ);gl.uniform1f(u.sel,G.sel&&RG[G.sel]?RG[G.sel].i:-1);gl.uniform1f(u.me,P&&RG[P.r]?RG[P.r].i:-1);
+  gl.uniform1f(u.mix,MODES_MAP[MMODE].mix);gl.uniform1f(u.fx,mapFx()&&GLX.coastImg?1:0);gl.uniform1f(u.pulse,PULSE.v);gl.uniform1f(u.sel,G.sel&&RG[G.sel]?RG[G.sel].i:-1);gl.uniform1f(u.me,P&&RG[P.r]?RG[P.r].i:-1);
   const tpp=vb.w/cv.width,det=clamp((2.2-tpp)/1.4,0,1);gl.uniform1f(u.det,det);gl.uniform1f(u.vec,GLX.lines?1:0);gl.drawArrays(gl.TRIANGLE_STRIP,0,4);
   if(GLX.roads&&mapRoads()){const rd=clamp((1.5-tpp)/.9,0,1);if(rd>0)drawLines(rd,GLX.roads);}
   if(GLX.lines)drawLines(det);}
@@ -180,13 +181,13 @@ function drawLite(){const cv=$('lc'),x=cv.getContext('2d');x.imageSmoothingEnabl
   const k=cv.width/vb.w;x.drawImage(LITE.off,sx0/2,sy0/2,(sx1-sx0)/2,(sy1-sy0)/2,(sx0-vb.x)*k,(sy0-vb.y)*k,(sx1-sx0)*k,(sy1-sy0)*k);
   // carreteras en modo ligero: solo las visibles y solo al acercar
   const tpp=vb.w/cv.width;if(typeof ROADS_B64!=='undefined'&&mapRoads()&&tpp<1.3){if(!LITE.roads)LITE.roads=decodeRoads();const minor=tpp<.9;x.lineCap='round';
-    for(const pass of [4,5]){if(pass===5&&!minor)continue;x.beginPath();x.strokeStyle=pass===4?'rgba(92,48,20,.6)':'rgba(77,51,31,.4)';x.lineWidth=(pass===4?1.3:.8)*Math.min(2,window.devicePixelRatio||1);
+    for(const pass of [4,5]){if(pass===5&&!minor)continue;x.beginPath();x.strokeStyle=pass===4?'rgba(92,48,20,.6)':'rgba(77,51,31,.4)';x.lineWidth=(pass===4?1.3:.8)*mapDpr();
       for(const r of LITE.roads){if(r.k!==pass||r.b[2]<vb.x||r.b[0]>vb.x+vb.w||r.b[3]<vb.y||r.b[1]>vb.y+vb.h)continue;const p=r.p;x.moveTo((p[0]-vb.x)*k,(p[1]-vb.y)*k);for(let i=2;i<p.length;i+=2)x.lineTo((p[i]-vb.x)*k,(p[i+1]-vb.y)*k);}x.stroke();}}}
 function decodeRoads(){const s=atob(ROADS_B64),u8=new Uint8Array(s.length);for(let i=0;i<s.length;i++)u8[i]=s.charCodeAt(i);const bin=u8.buffer;const h=new Uint32Array(bin,0,2),nA=h[0],nP=h[1];let off=8;
   const A=new Uint16Array(bin,off,nA);off+=nA*4;const N=new Uint32Array(bin,off,nA);off+=nA*4;const P=new Uint16Array(bin,off,nP*2);const out=[];let q=0;
   for(let i=0;i<nA;i++){const p=new Float32Array(N[i]*2);let a=1e9,b=1e9,c=-1e9,d=-1e9;for(let j=0;j<N[i];j++){const X=P[(q+j)*2]/16,Y=P[(q+j)*2+1]/16;p[j*2]=X;p[j*2+1]=Y;if(X<a)a=X;if(X>c)c=X;if(Y<b)b=Y;if(Y>d)d=Y;}q+=N[i];out.push({k:A[i],p,b:[a,b,c,d]});}return out;}
 /* ----- común ----- */
-function fitCanvas(){const w=wrap(),dpr=Math.min(2,window.devicePixelRatio||1);const cw=Math.round(w.clientWidth*dpr),ch=Math.round(w.clientHeight*dpr);
+function fitCanvas(){const w=wrap(),dpr=mapDpr();const cw=Math.round(w.clientWidth*dpr),ch=Math.round(w.clientHeight*dpr);
   ['glc','lc'].forEach(id=>{const c=$(id);if(c.width!==cw||c.height!==ch){c.width=cw;c.height=ch;}});
   const cx=vb.x+vb.w/2,cy=vb.y+vb.h/2;vb.h=vb.w*w.clientHeight/Math.max(1,w.clientWidth);vb.y=cy-vb.h/2;vb.x=cx-vb.w/2;}
 function setVB(){vb.w=clamp(vb.w,ZMIN,MW*1.1);vb.h=vb.w*wrap().clientHeight/Math.max(1,wrap().clientWidth);

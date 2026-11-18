@@ -1,4 +1,7 @@
 <style>
+/* PX5:INI — fuente pixel propia (herramientas/pixel/build_pxfont.py; no editar a mano) */
+@font-face{font-family :PX5;src:url(data:font/woff2;base64,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) format('woff2');font-display:block}
+/* PX5:FIN */
 :root{--bg:#0c1016;--card:#151b24;--card2:#1b2330;--line:#283243;--ink:#e8edf4;--mut:#8d98a8;--gold:#f2c14e;--teal:#3fb6a8;--red:#f0565d;--green:#47c26b;--blue:#5aa2f0}
 *{box-sizing:border-box}
 html,body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.4 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;-webkit-tap-highlight-color:transparent}
@@ -109,4 +112,50 @@ pre{background:#0e141c;border:1px solid var(--line);border-radius:10px;padding:1
 .hb{height:5px;border-radius:3px;background:#1d2532;overflow:hidden;margin-top:4px}.hb i{display:block;height:100%}
 .prow .hv{font-weight:800;font-size:15px;min-width:30px;text-align:right}.item.mine{border-color:var(--gold)}
 .mmodes{max-width:calc(100% - 16px);overflow-x:auto;scrollbar-width:none;flex-wrap:nowrap}.mmodes::-webkit-scrollbar{display:none}.mmodes button{flex:none}
+
+/* ===== v2.2b — Prueba 2: estilo pixel integral (Ajustes → 🕹️ Estilo pixel; CFG.pxui='p2' pone html[data-px=p2]) =====
+   Sin esquinas redondas ni sombras difuminadas: bordes dobles con bisel 16-bit (luz arriba-izquierda, sombra abajo-derecha),
+   esquinas escalonadas en botones, botones que se hunden al pulsar, barras en bloques, tramado 2×2 en los fondos y fuente PX5
+   (propia, 5×7) en botones, títulos, pestañas y números. El texto largo sigue en la fuente del sistema. */
+html[data-px=p2]{--pxf:IVI,PX5,ui-monospace,Menlo,Consolas,"Courier New",monospace;--pxn:IVI,PX5,ui-monospace,Menlo,Consolas,monospace;
+ --px-edge:color-mix(in srgb,var(--line) 45%,#000);--px-hi:rgba(255,255,255,.16);--px-lo:rgba(0,0,0,.42);--px-dot:rgba(255,255,255,.028);
+ --px-cut:polygon(0 2px,2px 2px,2px 0,calc(100% - 2px) 0,calc(100% - 2px) 2px,100% 2px,100% calc(100% - 2px),calc(100% - 2px) calc(100% - 2px),calc(100% - 2px) 100%,2px 100%,2px calc(100% - 2px),0 calc(100% - 2px));
+ --sh-1:none;--sh-2:none;--r-s:0;--r-m:0;--r-l:0;--r-p:0}
+html[data-px=p2]:is([data-theme=claro],[data-theme=amigable],[data-theme=medieval]){--px-edge:color-mix(in srgb,var(--line) 55%,#3a2814);--px-hi:rgba(255,255,255,.7);--px-lo:rgba(60,40,20,.28);--px-dot:rgba(60,40,20,.045)}
+/* alfabetos no latinos: la PX5 solo trae latín; en esos idiomas los textos usan la monoespaciada del sistema y la PX5 queda en los números */
+html[data-px=p2]:is([lang^=ru],[lang^=zh],[lang^=ja],[lang^=ko],[lang^=ar],[lang^=hi]){--pxf:IVI,ui-monospace,Menlo,Consolas,monospace}
+html[data-px=p2] *,html[data-px=p2] *::before,html[data-px=p2] *::after{border-radius:0!important;transition-timing-function:steps(4,end)!important;text-shadow:none!important}
+html[data-px=p2] :is(svg,.face,.flag,.nflag svg){shape-rendering:crispEdges}
+html[data-px=p2] :is(canvas,img,#mapWrap canvas,#cvC){image-rendering:pixelated;image-rendering:crisp-edges}
+html[data-px=p2] svg text{font-family:var(--pxn)!important;text-rendering:optimizeSpeed}
+/* retratos, escudos, trofeos, logos y portadas: pixelado real con el filtro #pxF2/#pxF3 (ui_v16f_gx.js); en el mapa ligero solo crispEdges */
+html[data-px=p2][data-pxf] svg.face.px3{filter:url(#pxF3)}
+html[data-px=p2][data-pxf] svg.face.dead.px3{filter:url(#pxF3) grayscale(1) brightness(.8)}html[data-px=p2][data-pxf] svg.face.dead.px2{filter:url(#pxF2) grayscale(1) brightness(.8)}
+html[data-px=p2][data-pxf] :is(svg.face.px2,svg.gxcr,svg.gxtr,svg.gxlg,svg.gxcv,svg.gxbelt){filter:url(#pxF2)}
+/* tramado 2×2 en los fondos */
+html[data-px=p2] body,html[data-px=p2] :is(.sheet,.modal,.card:not(.topc)){background-image:repeating-conic-gradient(var(--px-dot) 0 25%,transparent 0 50%);background-size:4px 4px}
+/* paneles: borde doble (contorno oscuro + bisel interior) */
+html[data-px=p2] :is(.card,.sheet,.modal,.fin,.nst,.bud,.army,.ideo,.cmd-w,.cmd-ord,.mleg,.mpop,.cv-fact,.tutBox,.paper,.ach,.title-chip,.pill,input,select,pre,#toast){border:2px solid var(--px-edge)!important;box-shadow:inset 2px 2px 0 var(--px-hi),inset -2px -2px 0 var(--px-lo)!important;backdrop-filter:none!important;-webkit-backdrop-filter:none!important}
+html[data-px=p2] .sheet{border-bottom:none!important}
+html[data-px=p2] .overlay{background:rgba(0,0,0,.6);backdrop-filter:none}
+/* botones: esquinas escalonadas, bisel, labio inferior y hundimiento al pulsar */
+html[data-px=p2] :is(.btn,.item,.opt,.mode,.nav,.ntabs button,.vtabs button,.chips button,.seg button,.mkt button,.zoom button,.mmodes button,#ageBtn,.cv-b,.mpa button,.pla button,.bt button,.ff,#clk button,.tutBox button){
+ border:2px solid var(--px-edge)!important;clip-path:var(--px-cut);box-shadow:inset 2px 2px 0 var(--px-hi),inset -2px -4px 0 var(--px-lo)!important;transition:none!important}
+html[data-px=p2] :is(.btn,.item,.opt,.mode,.nav,.ntabs button,.vtabs button,.chips button,.seg button,.mkt button,.zoom button,.mmodes button,#ageBtn,.cv-b,.mpa button,.pla button,.bt button,.ff,#clk button,.tutBox button):not(:disabled):active{
+ transform:translateY(2px)!important;box-shadow:inset 2px 3px 0 var(--px-lo),inset -2px -2px 0 var(--px-hi)!important;filter:brightness(.92)}
+html[data-px=p2] :is(.ntabs button,.chips button,.mkt button,.mode,.mmodes button,.army).on{box-shadow:inset 0 0 0 2px var(--gold),inset -2px -4px 0 var(--px-lo)!important}
+html[data-px=p2] :where(button,[role=button],select,input,a):focus-visible{outline:2px dashed var(--focus);outline-offset:-5px}
+/* barras y medidores en bloques de 6 px (5 de color + 1 de separación) */
+html[data-px=p2] :is(.bar,.hb,.mpbar,.cmd-bar,.rb,.lg-bar){-webkit-mask:repeating-linear-gradient(90deg,#000 0 5px,transparent 5px 6px);mask:repeating-linear-gradient(90deg,#000 0 5px,transparent 5px 6px);height:8px}
+html[data-px=p2] :is(.bar,.hb,.mpbar,.cmd-bar,.rb,.lg-bar) i,html[data-px=p2] .mpbar b{transition:width .5s steps(5,end)!important}
+/* tipografía pixel: botones, títulos, pestañas y números (la PX5 se ve nítida en múltiplos de 4 px en pantallas 2×) */
+html[data-px=p2] :is(.btn,.opt,.mode b,.item .t,.nav,.ntabs button,.vtabs button,.chips button,.seg button,.mkt button,.mpa button,.cv-b,.ff,#clk button,.sect,.cv-fl,.np-k){font-family:var(--pxf);font-size:12px;font-weight:400;letter-spacing:0;font-synthesis:none;-webkit-font-smoothing:none}
+html[data-px=p2] :is(h1,h2,h3,.tutBox h4,.sheet h3,.modal h2,.who .name,.nwho .name,#ageBtn,.np-mast,#toast .u){font-family:var(--pxf);font-size:16px;font-weight:400;letter-spacing:0;font-synthesis:none;-webkit-font-smoothing:none;line-height:1.25}
+html[data-px=p2] :is(.money .v,.money .y,#pYear,.nst b,.hv,.bctl span,.frow span:last-child,.badge,.badge2,.nav .badge,.stat .lab span:last-child,.item .r){font-family:var(--pxn);font-weight:400;font-synthesis:none;-webkit-font-smoothing:none}
+html[data-px=p2] .money .v{font-size:16px}html[data-px=p2] :is(.money .y,.nst b,.hv,.bctl span,.frow span:last-child,.nav .badge){font-size:12px}
+html[data-px=p2] .badge2{font-size:8px;line-height:16px}
+html[data-px=p2] #clk .seg button{padding-left:3px;padding-right:3px;white-space:nowrap}
+html[data-px=p2] .nav{font-size:8px;line-height:1.3;padding:7px 2px 9px}html[data-px=p2] .nav .ic{font-size:18px}
+html[data-px=p2] #ageBtn{box-shadow:inset 2px 2px 0 rgba(255,255,255,.35),inset -2px -5px 0 rgba(0,0,0,.35)!important}
+html[data-px=p2] .lg.new,html[data-px=p2] .modal.on,html[data-px=p2] .paper{animation-timing-function:steps(3,end)}
 </style>
