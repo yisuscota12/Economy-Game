@@ -1,6 +1,6 @@
 # ECONOMY (antes «Imperio de una Vida») — código fuente (v2.1c)
 
-**Siguiente:** la fase 4 quedó cerrada con la v2.1c; siguen las 3 pruebas de estilo pixel (dirección de arte) antes de la fase 5. Visión ampliada, orden aprobado, hardware de referencia y cómo superar el tope de 16 MB: sección 9e de `CONTEXTO_IA.md`.
+**Siguiente:** las 3 pruebas de estilo pixel están hechas (v2.2a mapa, v2.2b–v2.2c interfaz con tema bloqueable, v2.2d vista ciudad isométrica en `src/ui_v22d.js`); falta que el dueño elija estilo, y después sigue la fase 5 (naturaleza y recursos). Visión ampliada, orden aprobado, hardware de referencia y cómo superar el tope de 16 MB: sección 9e de `CONTEXTO_IA.md`.
 
 Para construir el juego: `node build.js` → genera `imperio.html` (todo en un solo archivo, funciona sin internet).
 Para probar el motor sin pantalla: `node sim.js mode=realista n=20 years=300 policy=power` (agrega `warlike=1 dip=1` para que los gobernantes hagan guerras y diplomacia con la capa Mando).

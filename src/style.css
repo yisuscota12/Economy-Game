@@ -189,4 +189,7 @@ html[data-px=p2]:not([data-pxa]) :is(.modal.on,.sheet.on #sheetIn>*,.pxfl){anima
 /* Ajustes: estado del tema y texto de versión (5 toques = modo desarrollador) */
 .pxst{font-size:11px;font-weight:600;color:var(--mut);margin-left:6px;white-space:nowrap}
 .pxver{text-align:center;padding:16px 0 8px;opacity:.6;user-select:none;-webkit-user-select:none;touch-action:manipulation;cursor:default}
+/* ===== v2.2d — Prueba 3: vista ciudad en pixel isométrico (ui_v22d.js) ===== */
+.ctyBox{overflow:auto;-webkit-overflow-scrolling:touch;touch-action:pan-x pan-y;background:#0d1020;border:2px solid var(--line);line-height:0;text-align:center}
+#ctyC{image-rendering:pixelated;image-rendering:crisp-edges;display:inline-block;max-width:none}
 </style>
