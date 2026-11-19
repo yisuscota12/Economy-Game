@@ -18,3 +18,7 @@
 ## Entrega
 - No pidas subir `imperio.html` como artifact.
 - Al final de cada entrega indica el **nombre exacto de la rama** y la **lista de archivos modificados**.
+
+## 5. Optimización Quirúrgica de Costos y Modelos
+- **Prohibido abrir navegadores (Chrome/Playwright/Puppeteer):** Nunca levantes servidores ni navegadores headless para hacer pruebas visuales o multi-idioma; la verificación termina en cuanto `node build.js` compila sin errores y pesa menos de 16 MB.
+- **Selección adaptativa de modelo:** Resuelve ediciones de CSS, UI, textos y ajustes puntuales directamente con el modelo estándar rápido (Sonnet). Escala a un subagente de razonamiento profundo (Opus) únicamente cuando la tarea exija refactorizar lógica compleja del motor (`engine_*`) o arquitectura multi-módulo.
