@@ -11,6 +11,10 @@
 - No rompas el Web Worker de guardado ni IndexedDB (`ui_v18b.js`), y no cambies las claves `imperioVida_v3` ni `imperioCfg`.
 - Patrón central: cada versión **envuelve** funciones anteriores declaradas con `function nombre(){}`. No las conviertas a `const`.
 
+## Pendientes de arquitectura visual
+- **Prueba 3 aprobada (19 nov 2026, cierre de la Fase 5):** la vista de ciudad isométrica en pixel de `src/ui_v22d.js` es la **base oficial del modo isométrico**. Sus textos y los de Ajustes de la v2.2c se traducen en `herramientas/i18n/b6p2/v22d_<idioma>.tsv`.
+- **Fase futura de pulido visual:** se hará un **selector dual de ciudad** que elige el jugador: **Modo Plano animado** (tema Actual) y **Modo Isométrico animado** (tema Pixel). Los dos tendrán simulación de vida conectada a las métricas del país (población, PIB por persona, felicidad, terreno…).
+
 ## Hardware objetivo
 - **iPhone 11 (Safari iOS)** es el dispositivo mínimo. Lo que importa ahí es que el toque sea fluido y que todo se vea nítido.
 - **Laptop Toshiba (Windows, Celeron, 4 GB)**: solo sirve como banco de pruebas del **modo ligero** (mapa en Canvas 2D, sin partículas ni efectos caros). No es el objetivo de cada efecto.

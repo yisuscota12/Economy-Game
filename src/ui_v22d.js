@@ -6,7 +6,10 @@
    · Dibujo: Canvas 2D a baja resolución (sin suavizado), escalado entero en píxeles del equipo con image-rendering:pixelated → nítido en iPhone 11.
    · Capas precalculadas (suelo, edificios, luces) y animación ligera (autos, humo, agua) a ~10 cuadros por segundo.
      Con el mapa ligero (Toshiba), «reducir movimiento» o Animaciones = No se dibuja una sola imagen fija.
-   · Sin imágenes ni licencias de terceros: todo son rectángulos de 1 px con una paleta reducida. */
+   · Sin imágenes ni licencias de terceros: todo son rectángulos de 1 px con una paleta reducida.
+   · Veredicto del dueño (19 nov 2026, Fase 5): la Prueba 3 queda APROBADA como base oficial del modo isométrico.
+     Textos traducidos en b6p2/v22d_<idioma>.tsv (incluye los de Ajustes de la v2.2c en ui_v19b.js). Si cambias un texto en español,
+     cambia su id SHA-1 y vuelve a salir en español: actualiza v22d_es.tsv, sus 13 traducciones y corre build_i18n.py. */
 const CTY={T:12,H:6,raf:0,to:0,st:null,night:false,var:0};
 const CTY_PAL={
   gr:{'':['#5f9a3e','#548b37'],d:['#d6b46c','#c9a55d'],f:['#7ea66a','#709a5d'],s:['#3f8a35','#367a2e'],w:['#e9eef3','#d7dee8']},
@@ -108,11 +111,11 @@ function ctyFit(){const c=$('ctyC'),S=CTY.st;if(!c||!S)return;const box=c.parent
 function ctyKind(I){const rich=Math.log10(Math.max(300,I.pc)/800)/2.1;return rich>.6?'rascacielos y avenidas':rich>.3?'edificios de departamentos y casas':'casas y viviendas humildes';}
 function ctyShow(rid,ci){if(!G||!P||!rid||!RG[rid]||!G.regions[rid])return;ctyStop();const I=ctyInfo(rid,ci);
   const draw=()=>{CTY.st=ctyBuild(I,CTY.var);const c=$('ctyC');if(!c)return;c.width=CTY.st.W;c.height=CTY.st.Hh;ctyFit();ctyStop();ctyFrame();};
-  showModal(`<h2>🏙️ <span data-noi18n>${I.name}</span></h2><div class="s" style="opacity:.8;margin-bottom:6px">Vista ciudad · prueba 3 de estilo pixel (isométrico)</div>
+  showModal(`<h2>🏙️ <span data-noi18n>${I.name}</span></h2><div class="s" style="opacity:.8;margin-bottom:6px">Vista ciudad · pixel isométrico</div>
     <div class="ctyBox"><canvas id="ctyC" role="img" aria-label="Ciudad en pixel art"></canvas></div>
-    <div class="s" style="margin:6px 0">👥 <b>${fmtPop(I.pop)}</b> · 💰 <b>${fmtN(I.pc)}</b> por persona · 😊 <b>${Math.round(I.hap)}</b><br>Se ve: ${ctyKind(I)}${I.river?', río':''}. Más ingreso → edificios más altos; más felicidad → más parques; más población → barrio más grande.</div>
+    <div class="s" style="margin:6px 0">👥 <b>${fmtPop(I.pop)}</b> · 💰 <b>${fmtN(I.pc)}</b> <span>por persona</span> · 😊 <b>${Math.round(I.hap)}</b><br><span>Se ve: ${ctyKind(I)}${I.river?', río':''}.</span> <span>Más ingreso → edificios más altos, más felicidad → más parques, más población → barrio más grande.</span></div>
     <div class="mini-actions"><button class="btn" id="ctyN">${CTY.night?'☀️ Día':'🌙 Noche'}</button><button class="btn" id="ctyV">🔄 Otro barrio</button><button class="btn" id="ctyX">Cerrar</button></div>
-    <div class="s" style="opacity:.7;margin-top:6px">Prueba de estilo: se genera con código desde los datos de la provincia; todavía no se juega aquí. Elige en el issue cuál de las 3 pruebas te gusta.</div>`,
+    <div class="s" style="opacity:.7;margin-top:6px"><span>Se genera con código desde los datos de la provincia.</span> <span>Todavía no se juega aquí.</span></div>`,
     m=>{m.querySelector('#ctyX').onclick=()=>{ctyStop();hideModal();};
       m.querySelector('#ctyN').onclick=e=>{CTY.night=!CTY.night;e.currentTarget.textContent=CTY.night?'☀️ Día':'🌙 Noche';ctyStop();ctyFrame();};
       m.querySelector('#ctyV').onclick=()=>{CTY.var=(CTY.var+1)%9;draw();};});
@@ -129,6 +132,6 @@ document.addEventListener('visibilitychange',()=>{try{if(document.hidden)ctyStop
 /* Ajustes: mostrar u ocultar el botón de la prueba 3 */
 {const _ss=showSettings;showSettings=function(){_ss();try{const b=$('sheetIn');if(!b||b.querySelector('[data-px3]'))return;const on=CFG.px3!==0;
   const x=document.createElement('div');x.className='item';x.style.display='block';
-  x.innerHTML=`<div class="t">🏙️ Vista ciudad pixel (prueba 3)</div><div class="s">Barrio en pixel isométrico generado con los datos de cada provincia. Se abre con «🏙️ Ciudad pixel» debajo del mapa.</div><div class="chips" style="margin-top:6px"><button data-px3="1" class="${on?'on':''}">Mostrar</button><button data-px3="0" class="${on?'':'on'}">Ocultar</button></div>`;
+  x.innerHTML=`<div class="t">🏙️ Vista ciudad pixel</div><div class="s"><span>Barrio en pixel isométrico generado con los datos de cada provincia.</span> <span>Se abre con «🏙️ Ciudad pixel» debajo del mapa.</span></div><div class="chips" style="margin-top:6px"><button data-px3="1" class="${on?'on':''}">Mostrar</button><button data-px3="0" class="${on?'':'on'}">Ocultar</button></div>`;
   const ref=b.querySelector('#cfPxUI')||b.querySelector('#sMfx');(ref?ref.after(x):b.appendChild(x));
   x.querySelectorAll('[data-px3]').forEach(y=>y.onclick=()=>{CFG.px3=+y.dataset.px3;saveCfg();try{renderSel();}catch(e){}showSettings();});}catch(e){console.warn('v22d ajustes',e);}};}
