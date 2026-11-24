@@ -1,0 +1,406 @@
+129ff9	Tropischer Regenwald
+bba34c	Savanne
+5013cb	Steppe
+bdff57	Subtropischer Wald
+732b6a	Prärie
+f25d99	Gemäßigter Wald
+ffa029	Taiga
+16ee1f	Knapp
+e38b71	Importabhängig
+db197e	Selbstversorgt
+8071ef	Exportiert
+16a69b	Dürre in {0} von {1} Provinzen von {2} im Jahr {3}: weniger Ernte, rationiertes Wasser und sinkende Zufriedenheit.
+432f1e	Jaguar
+5e8269	Leopard
+da0d2b	Tiger
+d03276	Kasuar
+c745ea	Ara
+ea6b53	Graupapagei
+eff2ee	Nashornvogel
+95f1b9	Paradiesvogel
+6c7f95	Brüllaffe
+00fa82	Schimpanse
+d41c16	Orang-Utan
+b34aa5	Baumkänguru
+0f7174	Pfeilgiftfrosch
+e1efe2	Laubfrosch
+5e5557	Flugfrosch
+26e570	Kapokbaum
+b2e0fa	Afrikanisches Mahagoni
+842f73	Flügelfruchtbaum
+f6e842	Orchideen
+7355df	Elefant
+66e73c	Ameisenbär
+a78f03	Asiatischer Elefant
+296747	Rotes Riesenkänguru
+ab8762	Giraffe
+87c9a1	Weißwedelhirsch
+bbd8e9	Pampashirsch
+07663e	Axishirsch
+7767af	Dingo
+3364b1	Löwe
+8dd8a2	Puma
+afe7d5	Asiatischer Löwe
+2f2e1a	Keilschwanzadler
+97a915	Akazie
+89d02c	Prosopis
+63e351	Eukalyptus
+fdefe7	Hohe Gräser
+cef9ed	Dromedar
+15cdd5	Kojote
+10c09c	Guanako
+11a4ec	Trampeltier
+64b2a2	Wüstenfuchs
+5c8fb9	Eidechse
+a7fa4b	Gila-Krustenechse
+182538	Dornteufel
+718a47	Dornschwanzagame
+ab3e38	Skorpion
+dbbc15	Kakteen und Sukkulenten
+84b442	Dattelpalme
+41aa62	Saxaul
+52e4b9	Spinifex
+3ee8ae	Wildpferd
+f3a236	Gabelbock
+f441ea	Gazelle
+502507	Graues Riesenkänguru
+39e1d4	Steppenadler
+e5a5ba	Steinadler
+5cddc1	Kondor
+b42eba	Murmeltier
+4173da	Präriehund
+9f5bc1	Viscacha
+4c19d7	Wüstenspringmaus
+01d844	Wombat
+6750fc	Federgras
+06ae50	Beifuß
+a978b3	Salzbusch
+386e7f	Bambus
+473ace	Wilder Olivenbaum
+72a06d	Olivenbaum
+52cc57	Immergrüne Eiche
+ad9b3c	Kampferbaum
+e0b77b	Korkeiche
+cb0290	Araukarie
+386dc7	Schildkröte
+9900a4	Schmetterlinge
+b2d6a5	Monarchfalter
+d0eb80	Schlangen
+d30fa9	Bison
+067c01	Wisent
+7c6bc4	Przewalski-Pferd
+562c21	Hase
+840fa2	Pampashase
+574c12	Wildbienen
+7476c9	Wilde Sonnenblume
+5e4022	Mohn
+e29ecc	Hirsch
+07ea1a	Braunbär
+72cc14	Schwarzbär
+7e1bb2	Kragenbär
+5f7738	Huemul
+74ae77	Koala
+4a5ab7	Eule
+1a7553	Rotfuchs
+bd356a	Eiche
+0ff152	Roble pellín
+8a8ba7	Waldpilze
+b4e3c3	Tanne und Kiefer
+219420	Grauwolf
+44f33d	Elch
+7e469d	Luchs
+143e7f	Rentier
+9ee0ea	Karibu
+623acb	Polarfuchs
+f99f29	Schneeeule
+e718dc	Moose und Flechten
+edcf79	Saibling
+bc4168	Andenkondor
+1288f7	Bartgeier
+aef341	Bergziege
+0a34fa	Dickhornschaf
+5c3e16	Vikunja
+b65196	Steinbock
+f978ae	Felsenkänguru
+4b12b4	Schneeleopard
+513928	Ameisenigel
+79bda5	Bergkiefer
+dc59b0	Alpenblumen
+58c018	Edelweiß
+7120ca	Flussfische
+822f97	Wels
+40aa10	Dorado
+21e6f9	Forelle
+ec91a8	Karpfen
+6cc5b0	Tilapia
+2f021b	Murray-Dorsch
+2cc076	Stark gefährdet
+e7247c	Städte und Bevölkerung verdrängen ihren Lebensraum
+e25ac6	Verschmutzung durch die Industrie
+84479e	Ihr Lebensraum wurde zu Ackerland
+6b0e77	Militärische Besetzung: Jagd und zerstörter Lebensraum
+94a232	Krieg: Wilderei und zerstörter Lebensraum
+d9f0ee	Dürre: Mangel an Wasser und Nahrung
+b29db0	Ein Staudamm unterbricht den Fluss
+a6f360	Wasser für die Bewässerung abgeleitet
+0633ee	Sole aus der Entsalzung
+b5e7ae	Geringer Umweltschutz
+1dd77f	Entsalzungsanlage
+0a532b	+35 m³ Wasser pro Person und Jahr pro Stufe, aus dem Meer gewonnen: unabhängig von Regen und Dürre.
+b18177	Bewässerungssystem
+e981ba	+12 % Ackerland und 10–20 % mehr Ernte pro Stufe (mehr, wo es wenig regnet). Verbraucht 4 % des Wassers.
+06f739	Gewächshäuser
+f075dd	Nahrung für 3 % mehr der Bevölkerung pro Stufe, auch in Dürrejahren.
+82504c	Staudamm und Stausee
+8d4bbd	+8 % Wasser, die Dürre nimmt die Hälfte davon weg, und +4 % Ackerland durch Bewässerung. Unterbricht den Fluss: Die Gesundheit des Ökosystems sinkt.
+52121d	Unbekannte Provinz.
+65908c	Bereits im Bau.
+9ddf39	Bereits am Maximum.
+938c1d	Nur in Küstenprovinzen.
+9ad5b0	Es gibt kein bebaubares Land.
+f64845	Braucht einen großen Fluss oder ein Tal zwischen Hügeln.
+e30d33	Die Provinz ist besetzt.
+c7b369	mehr Süßwasser
+3693c3	mehr Nahrung
+08d9cb	Nur in Provinzen deines Landes.
+834945	Die Staatskasse reicht nicht.
+f1e2f2	Nur die Regierung kann einen Staudamm bauen.
+7818cd	Deine Wasser- und Nahrungsprojekte bringen dir dieses Jahr {0} ein.
+cb4421	Dein Land hat diesen Fortschritt bereits.
+c8b376	Du brauchst Ziviltechnologie {0} (du hast {1}).
+99c4a7	Nur die Regierung kann Forschung finanzieren.
+95d4c1	Deine Universitäten erreichen den Durchbruch „Wassertechnologie“ ({0}): Wasser-, Nahrungs- und Naturschutzprojekte kosten {1} % weniger.
+a07ebb	{0} erreicht den Durchbruch „Wassertechnologie“: Wasser- und Naturschutzprojekte kosten {1} % weniger.
+2ee63c	Wiederaufforstung
+7e9be8	+3 Gesundheit des Ökosystems und +1,5 % erneuerbares Wasser pro Stufe (der Wald hält den Regen zurück). Hilft dem Tourismus.
+53c5a2	Schutzgebiet
+6f3d0c	+5 Gesundheit des Ökosystems und +2 % erneuerbares Wasser (geschützte Einzugsgebiete). Zieht Tourismus an. Nur die Regierung kann es ausweisen.
+2a6282	Kläranlage
+08d09b	Gleicht pro Stufe die Hälfte der Verschmutzung durch die Unternehmen der Provinz aus (+1, wenn es keine Industrie gibt: Abwasser der Städte).
+530ffe	Eine Wüste oder Tundra lässt sich nicht aufforsten.
+216e8d	Nur die Regierung kann ein Schutzgebiet ausweisen.
+d386e0	Minen und Bohrungen der Provinz
+3159c6	Verschmutzung durch Fabriken, Minen und Bohrungen
+061944	Dürre in {0}: {1} produziert dieses Jahr {2} % weniger.
+904c5e	Wartung deiner Naturschutzprojekte: {0}.
+213a9b	Kein Geld für die Wartung: {0} sind dieses Jahr ausgesetzt (ohne Wirkung).
+ca4813	Bevölkerung pro km²
+57e681	Industrie und Städte
+966987	In Ackerland umgewandeltes Land
+c86b99	Entwicklung und Umweltregulierung
+69b7e0	Militärische Besetzung
+d8cb2a	Dürre in diesem Jahr
+de4b55	Dürre in der Provinz
+1eb141	Niederschlag und Klima
+0a4d47	Wasser aus dem Rest des Landes
+b79a11	Staudämme, Brunnen und Wassernetze
+ed1999	Ackerland pro Person
+f91ad3	Fähigkeit, Nahrung zu importieren
+26f86e	Weltmarktpreis für Getreide
+56bd80	Ernten der Provinz
+0d2145	Importierte Nahrung und ihr Preis
+510f15	Dürre (im Vergleich zu einem normalen Jahr)
+cea13f	Weniger Wasser pro Person
+67e676	Importierte Energie und ihr Preis
+e3c2a9	Der Balken vergleicht Produktion und Verbrauch (die Linie markiert 100 %). Der Verbrauch wird anhand des Gewichts in der Wirtschaft und der Weltbevölkerung geschätzt.
+b196fa	Gesundheit des Ökosystems
+4b7975	Wie gut die Natur erhalten ist: Sie sinkt mit Bevölkerung, Industrie, Ackerbau, Krieg und Dürre.
+4fb591	Süßwasser
+82916c	m³ pro Person und Jahr in der Provinz
+a266f2	km³ erneuern sich
+2d3200	Unter 1.700 m³ pro Person und Jahr herrscht Wasserstress, unter 1.000 Knappheit.
+f09aaa	Ernährungssicherheit
+f901ec	Seine Ernten ernähren
+520213	seiner Bevölkerung
+5e971d	Ackerland
+5da13c	der Fläche
+85d589	Wasser pro Person
+f114c9	ernährte Menschen
+8fbe58	Dürrerisiko
+c49c23	pro Jahr
+c3db36	Hauptkulturen
+4a5cca	Bodenschätze
+197242	Ökosystem
+e624ee	Wasser
+b9e984	Ressourcenknappheit in {0}
+3ef09e	Biom
+7d313f	Eine große Naturregion mit ähnlichem Klima, ähnlicher Vegetation und Fauna: Regenwald, Savanne, Wüste, Taiga …
+ee3a7a	Es bestimmt, wie viel Regen abfließt, wie viel Land bebaut werden kann und wie oft es Dürren gibt.
+cfffcd	Erneuerbares Süßwasser
+ad3776	Das Regenwasser, das jedes Jahr über Flüsse abfließt und in Grundwasserleiter sickert, plus das Wasser, das die Flüsse von flussaufwärts bringen.
+859a20	Bei wenig Wasser pro Person trifft die Dürre Ernten, öffentliche Dienste und Zufriedenheit härter.
+4784a0	Dass die Bevölkerung genug zu essen hat: durch eigene Produktion oder durch Kaufen im Ausland.
+20e90d	Ein Land, das viel Nahrung importiert, leidet, wenn die Getreidepreise weltweit steigen.
+fc6296	Die Natur deines Landes
+650adf	Erneuerbares Wasser
+f828c6	Natur
+7dfe24	Natur und Ressourcen von {0}
+851d27	Nahrungsautarkie
+e3252b	Provinzen mit Dürre
+9e6e0b	der Bevölkerung
+3ce609	Durchschnitt seiner Provinzen, nach Fläche gewichtet.
+554c08	km³ erneuerbares Wasser pro Jahr
+e22349	m³ pro Person
+7e2b92	Falkenmark-Schwelle: unter 1.700 m³ pro Person und Jahr herrscht Wasserstress, unter 1.000 Knappheit, unter 500 absolute Knappheit.
+5d1bbc	Produziert Nahrung für
+74226c	Was die Natur in der Wirtschaft bewegt
+f79ce2	Ressourcenknappheit
+5379ab	Provinzen mit Dürre in diesem Jahr
+0747d3	Schweregrad
+b61f6c	Provinzen mit dem wenigsten Wasser pro Person
+6a6160	Tippe auf eine Provinz auf der Karte und öffne in ihrer Karte den Reiter 🌿 Natur, um Details zu sehen. Der Kartenmodus 🌿 färbt die Gesundheit des Ökosystems auf der ganzen Welt ein.
+bc1dbe	Wasserstress
+f05314	Dürre
+619ecb	Natur und Ressourcen
+01fe0f	Eine große Naturregion mit ähnlichem Klima, ähnlichen Pflanzen und Tieren: Regenwald, Savanne, Wüste, Steppe, Wald, Taiga, Tundra oder Gebirge.
+8ba1b0	Süßwasser, das der Regen jedes Jahr in Flüssen und Grundwasserleitern auffüllt. Gemessen in Kubikmetern pro Person und Jahr.
+edc5e7	Wenn weniger als 1.700 m³ erneuerbares Wasser pro Person und Jahr zur Verfügung stehen. Unter 1.000 ist es Knappheit, unter 500 absolute Knappheit (Falkenmark-Schwelle).
+cc7f99	Der Teil des Gebiets, der bestellt werden kann. Er hängt von Klima, Relief und Wasser ab und wächst mit der Bewässerung.
+a601f6	Dass die gesamte Bevölkerung genug Nahrung hat, weil sie sie entweder selbst erzeugt oder von anderen Ländern kaufen kann.
+0fdc9f	Ein Jahr mit viel weniger Regen als normal. Sie senkt Ernten und verfügbares Wasser und trifft Länder, die von der Landwirtschaft abhängen, härter.
+d8a207	Ein Land mit weniger als 1.700 m³ erneuerbarem Wasser pro Person und Jahr leidet unter Wasserstress. Unter 1.000 m³ herrscht Knappheit, unter 500 absolute Knappheit.
+50873e	Falkenmark (1989); UN-Water
+dbe190	Nur etwa 11 % der Landfläche der Erde sind Ackerland.
+0774c2	IFPRI; FAO
+cf6aa2	Wasserprojekte (Entsalzung, Staudämme, Bewässerung)
+9ba038	Staudamm, der den Fluss unterbricht
+790b54	Gesundheit des Ökosystems (Flüsse in Blau)
+7389b3	Tier
+65fa72	Pflanze
+792a17	sehr empfindlich
+dab812	{0} von {1} sind gefährdet: Die genannte Ursache ist diejenige unter den Bedrohungen, die dem Ökosystem am meisten abzieht.
+f888fa	Derzeit ist keine gefährdet.
+759c52	Flora und Fauna
+43740f	Die Arten hängen von der Gesundheit des Ökosystems ab ({0}/100).
+382971	Sie verändern die Wirtschaft nicht.
+efc332	Wasser- und Nahrungsprojekte
+0161e4	km³ Wasser pro Jahr
+4485eb	km² Ackerland
+a8a5b5	Nahrung für
+67b3db	Heute liefern sie:
+947cea	Du kannst nur in Provinzen deines Landes bauen.
+31475a	deine Regierung
+c08f3c	die Regierung
+977419	im Bau, noch:
+8f3bc2	Bezahlt von:
+74bd5f	Kosten
+9513ba	Dauer
+d72b64	Du regierst: Die Bauten werden aus der Staatskasse bezahlt ({0}).
+07253c	Du regierst nicht: Du kannst sie als private Investition selbst bezahlen; sie werfen jedes Jahr etwas ab (Wasser und verkaufte Ernten). Den Staudamm baut nur die Regierung.
+cef7d7	Die Effekte sind gemessen und klein: Sie erhöhen Wasser und Ackerland der Provinz und damit ein wenig die Selbstversorgung des Landes.
+279a67	{0} {1} in {2}?
+4440c2	Entsalzung
+08cfe9	Bewässerung
+ecde02	Gefährdete Art
+aca10e	Insgesamt liefern sie
+27aa1c	km³ Wasser pro Jahr und Nahrung für
+ecf3d2	Dein Land hat keine Projekte. Starte sie im Reiter 🌿 Natur jeder Provinz.
+d78d44	Gefährdete Arten
+36f3bc	{0} von {1} Pflanzen- und Tierpopulationen in deinen Provinzen sind gefährdet.
+99bd02	stark gefährdet in
+1be5e2	Gefährdet in
+23eb3c	Dem Meerwasser das Salz entziehen, damit es trinkbar wird. Es liefert Wasser auch ohne Regen, braucht aber viel Energie und hinterlässt Sole, die der Küste schadet.
+795688	Wasser über Kanäle, Brunnen oder Tropfschläuche zu den Feldern bringen. So kann man auch bei wenig Regen säen und mehr ernten, verbraucht aber einen großen Teil des Süßwassers.
+ebcde6	Pflanze oder Tier, deren Bestand so stark sinkt, dass sie an einem Ort verschwinden könnte. Die häufigste Ursache ist der Verlust des Lebensraums.
+c54050	Israel gewinnt etwa 70 % seines Trinkwassers aus Entsalzungsanlagen an der Mittelmeerküste.
+81d1e7	Israelische Wasserbehörde
+4b8581	Die Niederlande sind dem Wert nach der zweitgrößte Nahrungsmittelexporteur der Welt, zu einem großen Teil dank ihrer Gewächshäuser.
+b3342d	FAO; Universität Wageningen
+24513c	Rund eine Million Pflanzen- und Tierarten sind vom Aussterben bedroht, vor allem durch den Verlust ihres Lebensraums.
+4c0333	IPBES (2019)
+6e327f	Verschmutzung durch Unternehmen (Fabriken, Minen, Bohrungen)
+0dc2a0	Kläranlagen
+3e6f2e	Wiederaufforstung und Schutzgebiete
+b003ec	Dein Unternehmen
+091b73	Börsenunternehmen
+c88f37	Förderung
+d2f5b7	Die Wasseraufbereitung (Stufe {0}) gleicht aus:
+815fd9	Eine Kläranlage gleicht pro Stufe die Hälfte aus.
+324f21	Sie ziehen ab:
+39de72	von der Gesundheit des Ökosystems (je nach Größe im Verhältnis zur Wirtschaft der Provinz).
+f88adb	Erreicht in
+3602cb	Ziviltechnologie
+beac5c	kommt von allein auf Stufe
+335fa9	Erforschen
+4e6994	Durchbruch: Wassertechnologie
+7d2d65	Membranen, Tropfbewässerung und günstigere Baumschulen: senkt Kosten und Wartung aller Wasser-, Nahrungs- und Naturschutzprojekte um {0} %.
+fd5d4d	Naturschutz
+e3c26d	dieses Jahr ausgesetzt
+ea60b0	Tourismus der Provinz:
+65c7ed	Nachfrage bei Hotels, Bars und Juwelieren durch Natur und Schutzgebiete.
+a8617f	Wenn du regierst, zahlt die Staatskasse Bau und Wartung; reicht sie nicht, wird das Projekt in diesem Jahr ausgesetzt.
+84b356	Ohne zu regieren kannst du Wiederaufforstung und Aufbereitung als private Investition bezahlen (sie werfen etwas ab: CO₂-Zertifikate und Gebühren); die Wartung zahlst du aus eigener Tasche. Ein Schutzgebiet kann nur die Regierung ausweisen.
+868eeb	Wassertechnologie erforschen?
+7b8266	Industrielle Verschmutzung
+edf024	Es gibt weder Wiederaufforstung noch Schutzgebiete noch Kläranlagen. Starte sie im Reiter 🌿 Natur jeder Provinz.
+cb462c	Tourismus des Landes durch Natur und Schutzgebiete:
+1abf79	Nachfrage.
+6dc117	Gebiet, in dem das Gesetz Jagd, Holzeinschlag, Bau und Landwirtschaft einschränkt, um die Natur zu erhalten. Es schützt Arten und Wassereinzugsgebiete und lockt Tourismus an.
+6c43ff	Wieder Bäume pflanzen, wo einst Wald war. Der Wald hält den Regen zurück, füllt Grundwasserleiter auf und gibt vielen Arten Lebensraum zurück; die Wirkung braucht Jahre.
+517784	Abfälle, die Fabriken, Minen und Ölquellen in Luft, Wasser und Boden abgeben. Kläranlagen reinigen einen Teil des Wassers, bevor es in die Flüsse zurückfließt.
+7acc17	Costa Rica ist von etwa 21 % bewaldeter Landesfläche im Jahr 1987 auf heute über 50 % gekommen, mit Zahlungen an Landbesitzer für ihren Erhalt.
+5208dc	SINAC; FAO, Waldressourcen-Bewertung
+4a6c3c	Schutzgebiete bedecken rund 17 % der Landfläche der Erde.
+a04a4e	UNEP-WCMC und IUCN, Protected Planet Report 2020
+d5d83f	FAO, AQUASTAT
+2a2dc3	FAO; Weltbank
+ba97ca	Verschmutzung durch Unternehmen
+ecb904	Von Unternehmen am stärksten verschmutzte Provinzen
+04bbf6	🏗️ Bau abgeschlossen: {0} in {1}: {2} für die Provinz.
+7702c2	🏗️ Bau abgeschlossen: {0} in {1} (Stufe {2}): {3} für die Provinz.
+5a1b46	Der Bau beginnt: {0} in {1}. Er dauert {2} Monate.
+238966	Der Bau beginnt: {0} in {1}. Er dauert {2} Monate; es ist deine private Investition und bringt dir nach Inbetriebnahme etwa {3} % pro Jahr.
+8c5ed2	{0} Schutzgebiet in {1} ausgewiesen: Die Gesundheit des Ökosystems verbessert sich.
+d71837	{0} Bau abgeschlossen: {1} in {2}: Die Gesundheit des Ökosystems verbessert sich.
+43d09c	{0} Bau abgeschlossen: {1} in {2} (Stufe {3}): Die Gesundheit des Ökosystems verbessert sich.
+27a851	empfindlich
+c51d52	widerstandsfähig
+f1fe5b	noch
+98b395	ausgesetzt
+f46b3a	Aufbereitung
+67bbcd	geschädigt
+c53414	gesund
+8f12c6	Gefährdet
+1f3e92	Du hast nicht genug Geld.
+32c536	Großer Fluss
+327a63	Bevölkerungswachstum
+4cb456	2022 verboten mehrere Länder den Export von Lebensmitteln nach dem Einmarsch in die Ukraine, einen der größten Weizen- und Maisexporteure der Welt.
+5087e8	aus deinem Geld
+b5df5e	🌳 Wartung von Wiederaufforstung, Schutzgebieten und Wasseraufbereitung: {0} aus der Staatskasse.
+c98083	Wiederaufforstung ({0})
+5230e6	Schutzgebiet ({0})
+b74b18	Kläranlage ({0})
+a502fe	Wiederaufforstung ({0}), {1}
+f324fd	Schutzgebiet ({0}), {1}
+434a81	Kläranlage ({0}), {1}
+58afc8	Kartenebenen
+58d28b	Börse öffnen ›
+4a8db5	Starte oder lade ein Spiel, um Anlagen auszuwählen.
+430413	Indizes
+f3c241	Keine
+862604	Höchstens {0} Anlagen.
+451845	Anlagen auf dem Hauptbildschirm
+374a64	Wähle, welche Börsenanlagen in einer kleinen Blase auf dem Hauptbildschirm erscheinen. Standardmäßig keine. Die vollständige Kursleiste ist in der Börse.
+01385b	Pixelansicht
+256a5c	Menü öffnen
+2739ab	Menü einklappen
+216b3d	Sanft
+d11840	Flink
+6aaab3	Mit Trägheit
+6baff9	Ohne Trägheit
+6a2be3	Karte: Empfindlichkeit
+57c32e	Sanft: Man muss den Finger weiter bewegen, um zu ziehen (Tipps treffen genauer). Flink: Die Karte reagiert früher und gleitet beim Loslassen weiter.
+54f68f	Wolkenkratzer und Boulevards
+3882bc	Wohnblöcke und Häuser
+2f63ab	einfache Häuser und bescheidene Behausungen
+3f273c	Stadt in Pixelart
+b014ad	Stadtansicht
+06abc6	Stiltest 3, Pixel (isometrisch)
+8ee5d6	Anderes Viertel
+921a76	Stiltest: wird per Code aus den Daten der Provinz erzeugt; hier noch nicht spielbar. Wähle im Issue, welcher der 3 Tests dir gefällt.
+b48248	Pixel-Stadtansicht (Test 3)
+1120ae	Ein isometrisches Pixelviertel, erzeugt aus den Daten jeder Provinz. Es öffnet sich über „🏙️ Stadt“ unter der Karte im Städte-Reiter.
+906dc6	Anzeigen
+4f5841	Ausblenden
+c94656	Zu sehen: {0}. Mehr Einkommen → höhere Gebäude; mehr Zufriedenheit → mehr Parks; mehr Bevölkerung → größeres Viertel.
+c635ba	Zu sehen: {0}, Fluss. Mehr Einkommen → höhere Gebäude; mehr Zufriedenheit → mehr Parks; mehr Bevölkerung → größeres Viertel.

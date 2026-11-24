@@ -3,7 +3,7 @@
    causas, tierra cultivable, cosechas, riesgo de sequía, cultivos y recursos, resumen del país con su escasez de recursos) y en la
    vista País (medidores, efectos en los sectores, escasez de cada recurso, provincias con sequía y con menos agua); línea en la
    ficha de abajo del mapa; modo de mapa 🌿 (salud del ecosistema); glosario (+6, categoría nueva), ⓘ, Guía y «¿Sabías que…?».
-   Textos solo en español por ahora (pendiente: traducciones con el flujo de herramientas/i18n, ver CONTEXTO_IA.md). */
+   Textos traducidos a los 13 idiomas con el flujo de herramientas/i18n (b6p2/naturaleza_es.tsv + v23_<idioma>.tsv; Guía y ⓘ en b6/b6_<idioma>_18.tsv, aplicados al final de ui_v23c.js). */
 
 const NT_CL={dens:'Población por km²',ind:'Industria y ciudades',agro:'Tierra convertida en cultivos',rio:'Río grande',reg:'Desarrollo y regulación ambiental',
   ocup:'Ocupación militar',guerra:'Guerra',sequia:'Sequía este año',sequia2:'Sequía en la provincia',clima:'Lluvia y clima',pais:'Agua del resto del país',

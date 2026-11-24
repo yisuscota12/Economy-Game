@@ -1,0 +1,406 @@
+129ff9	Tropical rainforest
+bba34c	Savanna
+5013cb	Steppe
+bdff57	Subtropical forest
+732b6a	Grassland
+f25d99	Temperate forest
+ffa029	Taiga
+16ee1f	Scarce
+e38b71	Import-dependent
+db197e	Self-sufficient
+8071ef	Exports
+16a69b	Drought in {0} of {1} provinces of {2} in {3}: smaller harvests, rationed water and falling happiness.
+432f1e	Jaguar
+5e8269	Leopard
+da0d2b	Tiger
+d03276	Cassowary
+c745ea	Macaw
+ea6b53	Grey parrot
+eff2ee	Hornbill
+95f1b9	Bird-of-paradise
+6c7f95	Howler monkey
+00fa82	Chimpanzee
+d41c16	Orangutan
+b34aa5	Tree kangaroo
+0f7174	Poison dart frog
+e1efe2	Tree frog
+5e5557	Flying frog
+26e570	Kapok tree
+b2e0fa	African mahogany
+842f73	Dipterocarp
+f6e842	Orchids
+7355df	Elephant
+66e73c	Anteater
+a78f03	Asian elephant
+296747	Red kangaroo
+ab8762	Giraffe
+87c9a1	White-tailed deer
+bbd8e9	Pampas deer
+07663e	Axis deer
+7767af	Dingo
+3364b1	Lion
+8dd8a2	Puma
+afe7d5	Asiatic lion
+2f2e1a	Wedge-tailed eagle
+97a915	Acacia
+89d02c	Mesquite
+63e351	Eucalyptus
+fdefe7	Tall grasses
+cef9ed	Dromedary
+15cdd5	Coyote
+10c09c	Guanaco
+11a4ec	Bactrian camel
+64b2a2	Desert fox
+5c8fb9	Lizard
+a7fa4b	Gila monster
+182538	Thorny devil
+718a47	Spiny-tailed lizard
+ab3e38	Scorpion
+dbbc15	Cacti and succulents
+84b442	Date palm
+41aa62	Saxaul
+52e4b9	Spinifex
+3ee8ae	Wild horse
+f3a236	Pronghorn
+f441ea	Gazelle
+502507	Grey kangaroo
+39e1d4	Steppe eagle
+e5a5ba	Golden eagle
+5cddc1	Condor
+b42eba	Marmot
+4173da	Prairie dog
+9f5bc1	Viscacha
+4c19d7	Jerboa
+01d844	Wombat
+6750fc	Feather grass
+06ae50	Sagebrush
+a978b3	Saltbush
+386e7f	Bamboo
+473ace	Wild olive
+72a06d	Olive tree
+52cc57	Evergreen oak
+ad9b3c	Camphor tree
+e0b77b	Cork oak
+cb0290	Monkey puzzle tree
+386dc7	Turtle
+9900a4	Butterflies
+b2d6a5	Monarch butterfly
+d0eb80	Snakes
+d30fa9	Bison
+067c01	European bison
+7c6bc4	Przewalski's horse
+562c21	Hare
+840fa2	Patagonian mara
+574c12	Wild bees
+7476c9	Wild sunflower
+5e4022	Poppy
+e29ecc	Deer
+07ea1a	Brown bear
+72cc14	Black bear
+7e1bb2	Asian black bear
+5f7738	Huemul
+74ae77	Koala
+4a5ab7	Owl
+1a7553	Red fox
+bd356a	Oak
+0ff152	Roble pellín (Chilean oak)
+8a8ba7	Forest mushrooms
+b4e3c3	Fir and pine
+219420	Gray wolf
+44f33d	Moose
+7e469d	Lynx
+143e7f	Reindeer
+9ee0ea	Caribou
+623acb	Arctic fox
+f99f29	Snowy owl
+e718dc	Mosses and lichens
+edcf79	Arctic char
+bc4168	Andean condor
+1288f7	Bearded vulture
+aef341	Mountain goat
+0a34fa	Bighorn sheep
+5c3e16	Vicuña
+b65196	Alpine ibex
+f978ae	Rock wallaby
+4b12b4	Snow leopard
+513928	Echidna
+79bda5	Mountain pine
+dc59b0	Alpine flowers
+58c018	Edelweiss
+7120ca	River fish
+822f97	Catfish
+40aa10	Dorado
+21e6f9	Trout
+ec91a8	Carp
+6cc5b0	Tilapia
+2f021b	Murray cod
+2cc076	Endangered
+e7247c	Cities and population take over their habitat
+e25ac6	Industrial pollution
+84479e	Their habitat became cropland
+6b0e77	Military occupation: hunting and destroyed habitat
+94a232	War: poaching and destroyed habitat
+d9f0ee	Drought: lack of water and food
+b29db0	A dam cuts off the river
+a6f360	Water diverted for irrigation
+0633ee	Brine from desalination
+b5e7ae	Weak environmental protection
+1dd77f	Desalination plant
+0a532b	+35 m³ of water per person per year per level, taken from the sea: it doesn't depend on rain or drought.
+b18177	Irrigation system
+e981ba	+12% arable land and 10–20% bigger harvests per level (more where rain is scarce). Uses 4% of the water.
+06f739	Greenhouses
+f075dd	Food for 3% more of the population per level, even in drought years.
+82504c	Dam and reservoir
+8d4bbd	+8% water, drought takes half of that water away, and +4% arable land with irrigation. It cuts off the river: ecosystem health drops.
+52121d	Unknown province.
+65908c	Already under construction.
+9ddf39	Already at the maximum.
+938c1d	Only in coastal provinces.
+9ad5b0	There is no land that can be farmed.
+f64845	Needs a large river or a valley between hills.
+e30d33	The province is occupied.
+c7b369	more fresh water
+3693c3	more food
+08d9cb	Only in provinces of your country.
+834945	The national treasury isn't enough.
+f1e2f2	Only the government can build a dam.
+7818cd	Your water and food projects bring you {0} this year.
+cb4421	Your country already has this breakthrough.
+c8b376	You need civil technology {0} (you have {1}).
+99c4a7	Only the government can fund research.
+95d4c1	Your universities achieve the “Water technology” breakthrough ({0}): water, food and conservation projects cost {1}% less.
+a07ebb	{0} achieves the “Water technology” breakthrough: water and conservation projects cost {1}% less.
+2ee63c	Reforestation
+7e9be8	+3 ecosystem health and +1.5% renewable water per level (the forest holds the rain). Helps tourism.
+53c5a2	Protected area
+6f3d0c	+5 ecosystem health and +2% renewable water (protected watersheds). Attracts tourism. Only the government can declare it.
+2a6282	Water treatment plant
+08d09b	Offsets half of the pollution from the province's companies per level (+1 if there is no industry: city sewage).
+530ffe	You can't reforest a desert or a tundra.
+216e8d	Only the government can declare a protected area.
+d386e0	Mines and wells of the province
+3159c6	Pollution from factories, mines and wells
+061944	Drought in {0}: {1} produces {2}% less this year.
+904c5e	Upkeep of your conservation projects: {0}.
+213a9b	No money for upkeep: {0} are suspended this year (no effect).
+ca4813	Population per km²
+57e681	Industry and cities
+966987	Land converted to cropland
+c86b99	Development and environmental regulation
+69b7e0	Military occupation
+d8cb2a	Drought this year
+de4b55	Drought in the province
+1eb141	Rainfall and climate
+0a4d47	Water from the rest of the country
+b79a11	Dams, wells and water networks
+ed1999	Arable land per person
+f91ad3	Ability to import food
+26f86e	World price of grains
+56bd80	Harvests of the province
+0d2145	Imported food and its price
+510f15	Drought (compared to a normal year)
+cea13f	Less water per person
+67e676	Imported energy and its price
+e3c2a9	The bar compares what it produces with what it consumes (the line marks 100%). Consumption is estimated from its weight in the economy and in the world's population.
+b196fa	Ecosystem health
+4b7975	How well preserved nature is: it falls with population, industry, crops, war and drought.
+4fb591	Fresh water
+82916c	m³ per person per year in the province
+a266f2	km³ renew
+2d3200	With less than 1,700 m³ per person per year there is water stress; below 1,000, scarcity.
+f09aaa	Food security
+f901ec	Its harvests feed
+520213	of its population
+5e971d	Arable land
+5da13c	of the surface
+85d589	Water per person
+f114c9	people fed
+8fbe58	Drought risk
+c49c23	per year
+c3db36	Main crops
+4a5cca	Underground resources
+197242	Ecosystem
+e624ee	Water
+b9e984	Resource scarcity in {0}
+3ef09e	Biome
+7d313f	A large natural region with a similar climate, vegetation and fauna: rainforest, savanna, desert, taiga…
+ee3a7a	It defines how much rain runs off, how much land can be farmed and how often droughts happen.
+cfffcd	Renewable fresh water
+ad3776	Rainwater that runs through rivers and seeps into aquifers every year, plus what the rivers bring from upstream.
+859a20	With little water per person, drought hits harvests, public services and happiness harder.
+4784a0	That the population has enough food: by producing it or by being able to buy it abroad.
+20e90d	A country that imports a lot of food suffers when grain prices rise around the world.
+fc6296	Your country's nature
+650adf	Renewable water
+f828c6	Nature
+7dfe24	Nature and resources of {0}
+851d27	Food self-sufficiency
+e3252b	Provinces in drought
+9e6e0b	of the population
+3ce609	Average of its provinces, weighted by area.
+554c08	km³ of renewable water per year
+e22349	m³ per person
+7e2b92	Falkenmark threshold: below 1,700 m³ per person per year is water stress; below 1,000, scarcity; below 500, absolute scarcity.
+5d1bbc	Produces food for
+74226c	What nature moves in the economy
+f79ce2	Resource scarcity
+5379ab	Provinces in drought this year
+0747d3	Severity
+b61f6c	Provinces with the least water per person
+6a6160	Tap a province on the map and open the 🌿 Nature tab on its card to see the details. The 🌿 map mode paints ecosystem health across the whole world.
+bc1dbe	Water stress
+f05314	Drought
+619ecb	Nature and resources
+01fe0f	A large natural region with similar climate, plants and animals: rainforest, savanna, desert, steppe, forest, taiga, tundra or mountain.
+8ba1b0	Fresh water that rain replenishes every year in rivers and aquifers. Measured in cubic meters per person per year.
+edc5e7	When there are less than 1,700 m³ of renewable water per person per year. Below 1,000 is scarcity and below 500, absolute scarcity (Falkenmark threshold).
+cc7f99	The part of the territory that can be sown. It depends on climate, terrain and water, and grows with irrigation.
+a601f6	That the whole population has enough food, either because they produce it or because they can buy it from other countries.
+0fdc9f	A year with far less rain than normal. It cuts harvests and available water, and hits countries that depend on farming harder.
+d8a207	A country with less than 1,700 m³ of renewable water per person per year lives in water stress. Below 1,000 m³ there is scarcity and below 500, absolute scarcity.
+50873e	Falkenmark (1989); UN-Water
+dbe190	Only about 11% of the planet's land surface is arable.
+0774c2	IFPRI; FAO
+cf6aa2	Water projects (desalination, dams, irrigation)
+9ba038	Dam that cuts off the river
+790b54	Ecosystem health (rivers in blue)
+7389b3	Animal
+65fa72	Plant
+792a17	very sensitive
+dab812	{0} of {1} are at risk: the cause shown is whatever subtracts the most from the ecosystem among its threats.
+f888fa	None are at risk for now.
+759c52	Flora and fauna
+43740f	Species depend on ecosystem health ({0}/100).
+382971	They don't change the economy.
+efc332	Water and food projects
+0161e4	km³ of water per year
+4485eb	km² of arable land
+a8a5b5	food for
+67b3db	Today they provide:
+947cea	You can only build in provinces of your country.
+31475a	your government
+c08f3c	the government
+977419	under construction, remaining:
+8f3bc2	Paid by:
+74bd5f	Cost
+9513ba	Takes
+d72b64	You govern: works are paid from the national treasury ({0}).
+07253c	You don't govern: you can pay for them yourself as a private investment; they pay off every year (water and crops that get sold). Only the government builds the dam.
+cef7d7	The effects are measured and small: they raise the province's water and arable land, and with that, a little, the country's self-sufficiency.
+279a67	{0} {1} in {2}?
+4440c2	Desalination
+08cfe9	Irrigation
+ecde02	Species at risk
+aca10e	In total they provide
+27aa1c	km³ of water per year and food for
+ecf3d2	Your country has no projects. Open them from the 🌿 Nature tab of each province.
+d78d44	Species at risk
+36f3bc	{0} of {1} plant and animal populations in your provinces are at risk.
+99bd02	endangered in
+1be5e2	At risk in
+23eb3c	Removing the salt from seawater to make it drinkable. It gives water even when it doesn't rain, but it uses a lot of energy and leaves brine that harms the coast.
+795688	Bringing water to crops with canals, wells or drip lines. It lets you sow where it rains little and harvest more, but it uses a large share of the fresh water.
+ebcde6	A plant or animal whose population falls so much that it could disappear from a place. The most common cause is the loss of its habitat.
+c54050	Israel gets about 70% of its drinking water from desalination plants on the Mediterranean coast.
+81d1e7	Israel Water Authority
+4b8581	The Netherlands is the world's second-largest food exporter by value, thanks largely to its greenhouses.
+b3342d	FAO; Wageningen University
+24513c	Close to a million species of plants and animals are in danger of extinction, mostly because of the loss of their habitat.
+4c0333	IPBES (2019)
+6e327f	Company pollution (factories, mines, wells)
+0dc2a0	Water treatment plants
+3e6f2e	Reforestation and protected areas
+b003ec	Your company
+091b73	Listed company
+c88f37	Extraction
+d2f5b7	Water treatment (level {0}) offsets
+815fd9	A water treatment plant offsets half per level.
+324f21	They subtract
+39de72	from ecosystem health (depending on their size compared to the province's economy).
+f88adb	Achieved in
+3602cb	Civil technology
+beac5c	arrives on its own at level
+335fa9	Research
+4e6994	Breakthrough: water technology
+7d2d65	Membranes, drip irrigation and cheaper nurseries: it cuts the cost and upkeep of all water, food and conservation projects by {0}%.
+fd5d4d	Conservation
+e3c26d	suspended this year
+ea60b0	Province tourism:
+65c7ed	of demand at hotels, bars and jewelers because of its nature and protected areas.
+a8617f	If you govern, the treasury pays for the work and its upkeep; if it can't cover it, the project is suspended that year.
+84b356	Without governing you can pay for reforestation and treatment as a private investment (they pay back a little: carbon credits and fees); upkeep comes out of your own money. Only the government can declare a protected area.
+868eeb	Research water technology?
+7b8266	Industrial pollution
+edf024	There is no reforestation, protected areas or treatment plants. Open them from the 🌿 Nature tab of each province.
+cb462c	Country tourism from its nature and protected areas:
+1abf79	of demand.
+6dc117	An area where the law limits hunting, logging, construction and farming in order to conserve nature. It protects species and watersheds and attracts tourism.
+6c43ff	Planting trees again where there used to be forest. The forest holds the rain, recharges aquifers and gives habitat back to many species; it takes years to take effect.
+517784	Waste that factories, mines and oil wells release into the air, water and soil. Treatment plants clean part of the water before it returns to the rivers.
+7acc17	Costa Rica went from about 21% of its territory under forest in 1987 to more than 50% today, with payments to landowners for conserving it.
+5208dc	SINAC; FAO, Forest Resources Assessment
+4a6c3c	Protected areas cover about 17% of the world's land.
+a04a4e	UNEP-WCMC and IUCN, Protected Planet Report 2020
+d5d83f	FAO, AQUASTAT
+2a2dc3	FAO; World Bank
+ba97ca	Company pollution
+ecb904	Provinces most polluted by companies
+04bbf6	🏗️ Finished building {0} in {1}: {2} for the province.
+7702c2	🏗️ Finished building {0} in {1} (level {2}): {3} for the province.
+5a1b46	Construction begins: {0} in {1}. It takes {2} months.
+238966	Construction begins: {0} in {1}. It takes {2} months; it's your private investment and will return about {3}% per year once running.
+8c5ed2	{0} Protected area declared in {1}: ecosystem health improves.
+d71837	{0} Finished {1} in {2}: ecosystem health improves.
+43d09c	{0} Finished {1} in {2} (level {3}): ecosystem health improves.
+27a851	sensitive
+c51d52	resilient
+f1fe5b	remaining
+98b395	suspended
+f46b3a	treatment
+67bbcd	degraded
+c53414	healthy
+8f12c6	At risk
+1f3e92	You don't have enough money.
+32c536	Large river
+327a63	Population growth
+4cb456	In 2022, several countries banned food exports after the invasion of Ukraine, one of the world's largest exporters of wheat and corn.
+5087e8	from your own money
+b5df5e	🌳 Upkeep of reforestation, protected areas and water treatment: {0} from the treasury.
+c98083	Reforestation ({0})
+5230e6	Protected area ({0})
+b74b18	Water treatment plant ({0})
+a502fe	Reforestation ({0}), {1}
+f324fd	Protected area ({0}), {1}
+434a81	Water treatment plant ({0}), {1}
+58afc8	Map layers
+58d28b	Open the Stock Exchange ›
+4a8db5	Start or load a game to choose assets.
+430413	Indices
+f3c241	None
+862604	Maximum {0} assets.
+451845	Assets on the main screen
+374a64	Choose which stock market assets appear in a small bubble on the main screen. None by default. The full quotes bar is inside the Stock Exchange.
+01385b	Pixel view
+256a5c	Open menu
+2739ab	Collapse menu
+216b3d	Soft
+d11840	Snappy
+6aaab3	With inertia
+6baff9	No inertia
+6a2be3	Map: sensitivity
+57c32e	Soft: you have to move your finger more to drag (taps land more accurately). Snappy: the map responds sooner and glides further when released.
+54f68f	skyscrapers and avenues
+3882bc	apartment buildings and houses
+2f63ab	simple houses and modest dwellings
+3f273c	City in pixel art
+b014ad	City view
+06abc6	style test 3, pixel (isometric)
+8ee5d6	Another neighborhood
+921a76	Style test: it is generated by code from the province's data; you can't play it here yet. Pick in the issue which of the 3 tests you like.
+b48248	Pixel city view (test 3)
+1120ae	An isometric pixel neighborhood generated from each province's data. It opens from “🏙️ City” below the map, in the cities tab.
+906dc6	Show
+4f5841	Hide
+c94656	Shows: {0}. More income → taller buildings; more happiness → more parks; more population → bigger neighborhood.
+c635ba	Shows: {0}, river. More income → taller buildings; more happiness → more parks; more population → bigger neighborhood.

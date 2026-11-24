@@ -11,7 +11,7 @@
    5) La barra «Tu bolsa» (#mtick) sale de la pantalla principal: va dentro de la Bolsa. Ajustes → «📈 Activos en la pantalla
       principal» elige qué activos se ven en una burbuja pequeña (CFG.stk; por omisión ninguno).
    7) Botones con toque de 44 px, pestañas en una fila, barras de desplazamiento finas.
-   Textos nuevos solo en español (pendientes de traducir; ver CONTEXTO_IA.md 9e). */
+   Textos nuevos traducidos a los 13 idiomas (b6p2/interfaz23_es.tsv + v23_<idioma>.tsv). */
 (function(){const st=document.createElement('style');st.id='st23d';st.textContent=`
 :root{--v3g:rgba(12,18,26,.72)}
 @supports (background:color-mix(in srgb,red 50%,transparent)){:root{--v3g:color-mix(in srgb,var(--glass,#0c121a) 74%,transparent)}}

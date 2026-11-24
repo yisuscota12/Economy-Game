@@ -1,0 +1,406 @@
+129ff9	Forêt tropicale
+bba34c	Savane
+5013cb	Steppe
+bdff57	Forêt subtropicale
+732b6a	Prairie
+f25d99	Forêt tempérée
+ffa029	Taïga
+16ee1f	Rare
+e38b71	Dépend des importations
+db197e	Autosuffisant
+8071ef	Exporte
+16a69b	Sécheresse dans {0} des {1} provinces de {2} en {3} : récoltes réduites, eau rationnée et bonheur en baisse.
+432f1e	Jaguar
+5e8269	Léopard
+da0d2b	Tigre
+d03276	Casoar
+c745ea	Ara
+ea6b53	Perroquet gris
+eff2ee	Calao
+95f1b9	Oiseau de paradis
+6c7f95	Singe hurleur
+00fa82	Chimpanzé
+d41c16	Orang-outan
+b34aa5	Kangourou arboricole
+0f7174	Grenouille venimeuse
+e1efe2	Rainette
+5e5557	Grenouille volante
+26e570	Fromager
+b2e0fa	Acajou d'Afrique
+842f73	Diptérocarpe
+f6e842	Orchidées
+7355df	Éléphant
+66e73c	Fourmilier
+a78f03	Éléphant d'Asie
+296747	Kangourou roux
+ab8762	Girafe
+87c9a1	Cerf de Virginie
+bbd8e9	Cerf des pampas
+07663e	Cerf axis
+7767af	Dingo
+3364b1	Lion
+8dd8a2	Puma
+afe7d5	Lion d'Asie
+2f2e1a	Aigle d'Australie
+97a915	Acacia
+89d02c	Prosopis
+63e351	Eucalyptus
+fdefe7	Hautes herbes
+cef9ed	Dromadaire
+15cdd5	Coyote
+10c09c	Guanaco
+11a4ec	Chameau de Bactriane
+64b2a2	Renard du désert
+5c8fb9	Lézard
+a7fa4b	Monstre de Gila
+182538	Diable épineux
+718a47	Fouette-queue
+ab3e38	Scorpion
+dbbc15	Cactus et plantes grasses
+84b442	Palmier dattier
+41aa62	Saxaoul
+52e4b9	Spinifex
+3ee8ae	Cheval sauvage
+f3a236	Antilocapre
+f441ea	Gazelle
+502507	Kangourou gris
+39e1d4	Aigle des steppes
+e5a5ba	Aigle royal
+5cddc1	Condor
+b42eba	Marmotte
+4173da	Chien de prairie
+9f5bc1	Viscache
+4c19d7	Gerboise
+01d844	Wombat
+6750fc	Stipe plumeuse
+06ae50	Armoise
+a978b3	Arroche
+386e7f	Bambou
+473ace	Olivier sauvage
+72a06d	Olivier
+52cc57	Chêne vert
+ad9b3c	Camphrier
+e0b77b	Chêne-liège
+cb0290	Araucaria
+386dc7	Tortue
+9900a4	Papillons
+b2d6a5	Papillon monarque
+d0eb80	Serpents
+d30fa9	Bison
+067c01	Bison d'Europe
+7c6bc4	Cheval de Przewalski
+562c21	Lièvre
+840fa2	Mara de Patagonie
+574c12	Abeilles sauvages
+7476c9	Tournesol sauvage
+5e4022	Coquelicot
+e29ecc	Cerf
+07ea1a	Ours brun
+72cc14	Ours noir
+7e1bb2	Ours noir d'Asie
+5f7738	Huémul
+74ae77	Koala
+4a5ab7	Hibou
+1a7553	Renard roux
+bd356a	Chêne
+0ff152	Roble pellín
+8a8ba7	Champignons des bois
+b4e3c3	Sapin et pin
+219420	Loup gris
+44f33d	Élan
+7e469d	Lynx
+143e7f	Renne
+9ee0ea	Caribou
+623acb	Renard polaire
+f99f29	Harfang des neiges
+e718dc	Mousses et lichens
+edcf79	Omble chevalier
+bc4168	Condor des Andes
+1288f7	Gypaète barbu
+aef341	Chèvre de montagne
+0a34fa	Mouflon d'Amérique
+5c3e16	Vigogne
+b65196	Bouquetin
+f978ae	Wallaby des rochers
+4b12b4	Panthère des neiges
+513928	Échidné
+79bda5	Pin de montagne
+dc59b0	Fleurs alpines
+58c018	Edelweiss
+7120ca	Poissons de rivière
+822f97	Poisson-chat
+40aa10	Dorado
+21e6f9	Truite
+ec91a8	Carpe
+6cc5b0	Tilapia
+2f021b	Morue de Murray
+2cc076	En danger
+e7247c	Les villes et la population occupent leur habitat
+e25ac6	Pollution de l'industrie
+84479e	Leur habitat est devenu des cultures
+6b0e77	Occupation militaire : chasse et habitat détruit
+94a232	Guerre : braconnage et habitat détruit
+d9f0ee	Sécheresse : manque d'eau et de nourriture
+b29db0	Un barrage coupe la rivière
+a6f360	Eau détournée pour l'irrigation
+0633ee	Saumure du dessalement
+b5e7ae	Faible protection de l'environnement
+1dd77f	Usine de dessalement
+0a532b	+35 m³ d'eau par personne et par an par niveau, puisée dans la mer : elle ne dépend ni de la pluie ni de la sécheresse.
+b18177	Système d'irrigation
+e981ba	+12 % de terres cultivables et 10 à 20 % de récoltes en plus par niveau (davantage là où il pleut peu). Utilise 4 % de l'eau.
+06f739	Serres
+f075dd	De la nourriture pour 3 % de population en plus par niveau, même les années de sécheresse.
+82504c	Barrage et réservoir
+8d4bbd	+8 % d'eau, la sécheresse en enlève la moitié, et +4 % de terres cultivables avec l'irrigation. Coupe la rivière : la santé de l'écosystème baisse.
+52121d	Province inconnue.
+65908c	Déjà en construction.
+9ddf39	Déjà au maximum.
+938c1d	Uniquement dans les provinces côtières.
+9ad5b0	Il n'y a aucune terre cultivable.
+f64845	Nécessite un grand fleuve ou une vallée entre des collines.
+e30d33	La province est occupée.
+c7b369	plus d'eau douce
+3693c3	plus de nourriture
+08d9cb	Uniquement dans les provinces de ton pays.
+834945	Le trésor national ne suffit pas.
+f1e2f2	Seul le gouvernement peut construire un barrage.
+7818cd	Tes projets d'eau et d'alimentation te rapportent {0} cette année.
+cb4421	Ton pays a déjà cette avancée.
+c8b376	Il te faut la technologie civile {0} (tu as {1}).
+99c4a7	Seul le gouvernement peut financer la recherche.
+95d4c1	Tes universités réalisent l'avancée « Technologie de l'eau » ({0}) : les projets d'eau, d'alimentation et de conservation coûtent {1} % de moins.
+a07ebb	{0} réalise l'avancée « Technologie de l'eau » : les projets d'eau et de conservation coûtent {1} % de moins.
+2ee63c	Reboisement
+7e9be8	+3 de santé de l'écosystème et +1,5 % d'eau renouvelable par niveau (la forêt retient la pluie). Aide le tourisme.
+53c5a2	Aire protégée
+6f3d0c	+5 de santé de l'écosystème et +2 % d'eau renouvelable (bassins versants protégés). Attire le tourisme. Seul le gouvernement peut la déclarer.
+2a6282	Station d'épuration des eaux
+08d09b	Compense la moitié de la pollution des entreprises de la province par niveau (+1 s'il n'y a pas d'industrie : eaux usées des villes).
+530ffe	On ne peut pas reboiser un désert ou une toundra.
+216e8d	Seul le gouvernement peut déclarer une aire protégée.
+d386e0	Mines et puits de la province
+3159c6	Pollution des usines, mines et puits
+061944	Sécheresse à {0} : {1} produit {2} % de moins cette année.
+904c5e	Entretien de tes projets de conservation : {0}.
+213a9b	Pas d'argent pour l'entretien : {0} sont suspendus cette année (sans effet).
+ca4813	Population par km²
+57e681	Industrie et villes
+966987	Terres converties en cultures
+c86b99	Développement et régulation environnementale
+69b7e0	Occupation militaire
+d8cb2a	Sécheresse cette année
+de4b55	Sécheresse dans la province
+1eb141	Pluie et climat
+0a4d47	Eau du reste du pays
+b79a11	Barrages, puits et réseaux d'eau
+ed1999	Terres cultivables par personne
+f91ad3	Capacité d'importer de la nourriture
+26f86e	Prix mondial des céréales
+56bd80	Récoltes de la province
+0d2145	Alimentation importée et son prix
+510f15	Sécheresse (par rapport à une année normale)
+cea13f	Moins d'eau par personne
+67e676	Énergie importée et son prix
+e3c2a9	La barre compare ce qu'il produit à ce qu'il consomme (le trait marque 100 %). La consommation est estimée d'après son poids dans l'économie et dans la population mondiale.
+b196fa	Santé de l'écosystème
+4b7975	À quel point la nature est préservée : elle baisse avec la population, l'industrie, les cultures, la guerre et la sécheresse.
+4fb591	Eau douce
+82916c	m³ par personne et par an dans la province
+a266f2	km³ se renouvellent
+2d3200	Sous 1 700 m³ par personne et par an, il y a stress hydrique ; sous 1 000, pénurie.
+f09aaa	Sécurité alimentaire
+f901ec	Ses récoltes nourrissent
+520213	de sa population
+5e971d	Terres cultivables
+5da13c	de la superficie
+85d589	Eau par personne
+f114c9	personnes nourries
+8fbe58	Risque de sécheresse
+c49c23	par an
+c3db36	Principales cultures
+4a5cca	Ressources du sous-sol
+197242	Écosystème
+e624ee	Eau
+b9e984	Pénurie de ressources de {0}
+3ef09e	Biome
+7d313f	Une grande région naturelle au climat, à la végétation et à la faune semblables : forêt tropicale, savane, désert, taïga…
+ee3a7a	Il définit la quantité de pluie qui ruisselle, la quantité de terres cultivables et la fréquence des sécheresses.
+cfffcd	Eau douce renouvelable
+ad3776	L'eau de pluie qui s'écoule par les rivières et s'infiltre dans les aquifères chaque année, plus celle qu'apportent les rivières d'amont.
+859a20	Avec peu d'eau par personne, la sécheresse frappe plus fort les récoltes, les services publics et le bonheur.
+4784a0	Que la population ait assez à manger : en le produisant ou en pouvant l'acheter à l'étranger.
+20e90d	Un pays qui importe beaucoup de nourriture souffre quand les céréales renchérissent dans le monde.
+fc6296	La nature de ton pays
+650adf	Eau renouvelable
+f828c6	Nature
+7dfe24	Nature et ressources de {0}
+851d27	Autosuffisance alimentaire
+e3252b	Provinces en sécheresse
+9e6e0b	de la population
+3ce609	Moyenne de ses provinces, pondérée par la superficie.
+554c08	km³ d'eau renouvelable par an
+e22349	m³ par personne
+7e2b92	Seuil de Falkenmark : sous 1 700 m³ par personne et par an, stress hydrique ; sous 1 000, pénurie ; sous 500, pénurie absolue.
+5d1bbc	Produit de la nourriture pour
+74226c	Ce que la nature fait bouger dans l'économie
+f79ce2	Pénurie de ressources
+5379ab	Provinces en sécheresse cette année
+0747d3	Gravité
+b61f6c	Provinces avec le moins d'eau par personne
+6a6160	Touche une province sur la carte et ouvre l'onglet 🌿 Nature de sa fiche pour voir le détail. Le mode de carte 🌿 colore la santé de l'écosystème dans le monde entier.
+bc1dbe	Stress hydrique
+f05314	Sécheresse
+619ecb	Nature et ressources
+01fe0f	Une grande région naturelle au climat, aux plantes et aux animaux semblables : forêt tropicale, savane, désert, steppe, forêt, taïga, toundra ou montagne.
+8ba1b0	Eau douce que la pluie renouvelle chaque année dans les rivières et les aquifères. Elle se mesure en mètres cubes par personne et par an.
+edc5e7	Lorsqu'il y a moins de 1 700 m³ d'eau renouvelable par personne et par an. Sous 1 000, c'est la pénurie et sous 500, la pénurie absolue (seuil de Falkenmark).
+cc7f99	La partie du territoire qui peut être ensemencée. Elle dépend du climat, du relief et de l'eau, et augmente avec l'irrigation.
+a601f6	Que toute la population ait assez de nourriture, soit en la produisant, soit en pouvant l'acheter à d'autres pays.
+0fdc9f	Une année avec bien moins de pluie que la normale. Elle réduit les récoltes et l'eau disponible, et frappe davantage les pays qui dépendent de l'agriculture.
+d8a207	Un pays qui dispose de moins de 1 700 m³ d'eau renouvelable par personne et par an vit un stress hydrique. Sous 1 000 m³, il y a pénurie, et sous 500, pénurie absolue.
+50873e	Falkenmark (1989) ; ONU-Eau
+dbe190	Seulement environ 11 % de la surface terrestre de la planète est cultivable.
+0774c2	IFPRI ; FAO
+cf6aa2	Projets d'eau (dessalement, barrages, irrigation)
+9ba038	Barrage qui coupe la rivière
+790b54	Santé de l'écosystème (rivières en bleu)
+7389b3	Animal
+65fa72	Plante
+792a17	très sensible
+dab812	{0} sur {1} sont menacées : la cause indiquée est celle qui enlève le plus à l'écosystème parmi ses menaces.
+f888fa	Aucune n'est menacée pour l'instant.
+759c52	Flore et faune
+43740f	Les espèces dépendent de la santé de l'écosystème ({0}/100).
+382971	Elles ne changent pas l'économie.
+efc332	Projets d'eau et d'alimentation
+0161e4	km³ d'eau par an
+4485eb	km² de terres cultivables
+a8a5b5	nourriture pour
+67b3db	Aujourd'hui ils apportent :
+947cea	Tu ne peux construire que dans les provinces de ton pays.
+31475a	ton gouvernement
+c08f3c	le gouvernement
+977419	en construction, reste :
+8f3bc2	Payé par :
+74bd5f	Coût
+9513ba	Dure
+d72b64	Tu gouvernes : les travaux sont payés par le trésor national ({0}).
+07253c	Tu ne gouvernes pas : tu peux les payer toi-même comme investissement privé ; elles rapportent chaque année (eau et récoltes vendues). Seul le gouvernement construit le barrage.
+cef7d7	Les effets sont mesurés et modestes : ils augmentent l'eau et les terres cultivables de la province et, avec elles, un peu l'autosuffisance du pays.
+279a67	{0} {1} à {2} ?
+4440c2	Dessalement
+08cfe9	Irrigation
+ecde02	Espèce menacée
+aca10e	Au total, ils apportent
+27aa1c	km³ d'eau par an et de la nourriture pour
+ecf3d2	Ton pays n'a aucun projet. Ouvre-les depuis l'onglet 🌿 Nature de chaque province.
+d78d44	Espèces menacées
+36f3bc	{0} populations de plantes et d'animaux sur {1} dans tes provinces sont menacées.
+99bd02	en danger dans
+1be5e2	À risque dans
+23eb3c	Retirer le sel de l'eau de mer pour la rendre potable. Elle fournit de l'eau même sans pluie, mais consomme beaucoup d'énergie et laisse une saumure qui abîme la côte.
+795688	Amener l'eau aux cultures par des canaux, des puits ou du goutte-à-goutte. Cela permet de semer là où il pleut peu et de récolter plus, mais consomme une grande part de l'eau douce.
+ebcde6	Plante ou animal dont la population baisse au point de pouvoir disparaître d'un endroit. La cause la plus courante est la perte de son habitat.
+c54050	Israël tire environ 70 % de son eau potable d'usines de dessalement sur la côte méditerranéenne.
+81d1e7	Autorité de l'eau d'Israël
+4b8581	Les Pays-Bas sont le deuxième exportateur de produits alimentaires au monde en valeur, en grande partie grâce à leurs serres.
+b3342d	FAO ; Université de Wageningen
+24513c	Près d'un million d'espèces de plantes et d'animaux sont menacées d'extinction, surtout à cause de la perte de leur habitat.
+4c0333	IPBES (2019)
+6e327f	Pollution des entreprises (usines, mines, puits)
+0dc2a0	Stations d'épuration des eaux
+3e6f2e	Reboisement et aires protégées
+b003ec	Ton entreprise
+091b73	Entreprise cotée
+c88f37	Extraction
+d2f5b7	Le traitement des eaux (niveau {0}) compense
+815fd9	Une station d'épuration compense la moitié par niveau.
+324f21	Elles retirent
+39de72	de la santé de l'écosystème (selon leur taille par rapport à l'économie de la province).
+f88adb	Réalisé en
+3602cb	Technologie civile
+beac5c	arrive tout seul au niveau
+335fa9	Rechercher
+4e6994	Avancée : technologie de l'eau
+7d2d65	Membranes, goutte-à-goutte et pépinières moins chères : réduit de {0} % le coût et l'entretien de tous les projets d'eau, d'alimentation et de conservation.
+fd5d4d	Conservation
+e3c26d	suspendu cette année
+ea60b0	Tourisme de la province :
+65c7ed	de demande dans les hôtels, bars et bijouteries grâce à sa nature et à ses aires protégées.
+a8617f	Si tu gouvernes, le trésor paie les travaux et l'entretien ; s'il ne suffit pas, le projet est suspendu cette année-là.
+84b356	Sans gouverner, tu peux payer le reboisement et le traitement comme investissement privé (ils rapportent un peu : crédits carbone et tarifs) ; l'entretien est à ta charge. Seul le gouvernement déclare une aire protégée.
+868eeb	Rechercher la technologie de l'eau ?
+7b8266	Pollution industrielle
+edf024	Il n'y a ni reboisement, ni aires protégées, ni stations d'épuration. Ouvre-les depuis l'onglet 🌿 Nature de chaque province.
+cb462c	Tourisme du pays grâce à sa nature et à ses aires protégées :
+1abf79	de demande.
+6dc117	Zone où la loi limite la chasse, l'abattage, la construction et l'agriculture pour préserver la nature. Elle protège les espèces et les bassins d'eau et attire le tourisme.
+6c43ff	Replanter des arbres là où il y avait de la forêt. La forêt retient la pluie, recharge les aquifères et rend l'habitat à de nombreuses espèces ; elle met des années à faire effet.
+517784	Déchets que les usines, mines et puits de pétrole rejettent dans l'air, l'eau et le sol. Les stations d'épuration nettoient une partie de l'eau avant de la rendre aux rivières.
+7acc17	Le Costa Rica est passé d'environ 21 % de son territoire couvert de forêt en 1987 à plus de 50 % aujourd'hui, grâce à des paiements aux propriétaires pour la conserver.
+5208dc	SINAC ; FAO, Évaluation des ressources forestières
+4a6c3c	Les aires protégées couvrent environ 17 % des terres émergées du monde.
+a04a4e	UNEP-WCMC et UICN, Protected Planet Report 2020
+d5d83f	FAO, AQUASTAT
+2a2dc3	FAO ; Banque mondiale
+ba97ca	Pollution des entreprises
+ecb904	Provinces les plus polluées par les entreprises
+04bbf6	🏗️ Travaux terminés : {0} à {1} : {2} pour la province.
+7702c2	🏗️ Travaux terminés : {0} à {1} (niveau {2}) : {3} pour la province.
+5a1b46	Les travaux commencent : {0} à {1}. Ils durent {2} mois.
+238966	Les travaux commencent : {0} à {1}. Ils durent {2} mois ; c'est ton investissement privé et il te rapportera environ {3} % par an une fois en service.
+8c5ed2	{0} Aire protégée déclarée à {1} : la santé de l'écosystème s'améliore.
+d71837	{0} Travaux terminés : {1} à {2} : la santé de l'écosystème s'améliore.
+43d09c	{0} Travaux terminés : {1} à {2} (niveau {3}) : la santé de l'écosystème s'améliore.
+27a851	sensible
+c51d52	résistante
+f1fe5b	reste
+98b395	suspendu
+f46b3a	traitement
+67bbcd	dégradé
+c53414	sain
+8f12c6	À risque
+1f3e92	Tu n'as pas assez d'argent.
+32c536	Grand fleuve
+327a63	Croissance de la population
+4cb456	En 2022, plusieurs pays ont interdit les exportations de nourriture après l'invasion de l'Ukraine, l'un des plus grands exportateurs de blé et de maïs du monde.
+5087e8	de ton argent
+b5df5e	🌳 Entretien du reboisement, des aires protégées et du traitement des eaux : {0} du trésor.
+c98083	Reboisement ({0})
+5230e6	Aire protégée ({0})
+b74b18	Station d'épuration des eaux ({0})
+a502fe	Reboisement ({0}), {1}
+f324fd	Aire protégée ({0}), {1}
+434a81	Station d'épuration des eaux ({0}), {1}
+58afc8	Couches de la carte
+58d28b	Ouvrir la Bourse ›
+4a8db5	Commence ou charge une partie pour choisir des actifs.
+430413	Indices
+f3c241	Aucun
+862604	Maximum {0} actifs.
+451845	Actifs sur l'écran principal
+374a64	Choisis quels actifs de la bourse apparaissent dans une petite bulle sur l'écran principal. Aucun par défaut. La barre complète des cours se trouve dans la Bourse.
+01385b	Vue pixel
+256a5c	Ouvrir le menu
+2739ab	Replier le menu
+216b3d	Doux
+d11840	Vif
+6aaab3	Avec inertie
+6baff9	Sans inertie
+6a2be3	Carte : sensibilité
+57c32e	Doux : il faut bouger davantage le doigt pour faire glisser (les touches sont plus précises). Vif : la carte réagit plus vite et glisse plus loin au relâchement.
+54f68f	gratte-ciel et avenues
+3882bc	immeubles d'appartements et maisons
+2f63ab	maisons et logements modestes
+3f273c	Ville en pixel art
+b014ad	Vue de la ville
+06abc6	essai de style 3, pixel (isométrique)
+8ee5d6	Autre quartier
+921a76	Essai de style : il est généré par du code à partir des données de la province ; on n'y joue pas encore. Choisis dans l'issue lequel des 3 essais te plaît.
+b48248	Vue de ville en pixel (essai 3)
+1120ae	Un quartier en pixel isométrique généré avec les données de chaque province. Il s'ouvre depuis « 🏙️ Ville » sous la carte, dans l'onglet des villes.
+906dc6	Afficher
+4f5841	Masquer
+c94656	On voit : {0}. Plus de revenu → des immeubles plus hauts ; plus de bonheur → plus de parcs ; plus de population → un quartier plus grand.
+c635ba	On voit : {0}, rivière. Plus de revenu → des immeubles plus hauts ; plus de bonheur → plus de parcs ; plus de population → un quartier plus grand.

@@ -3,7 +3,7 @@
    de la bolsa con sede ahí y minas y pozos; lo que compensa el tratamiento) y 🌳 Conservación (reforestación, área protegida y
    planta de tratamiento con costo, mantenimiento al año, tiempo y botón Construir; efecto en el turismo; avance «💧 Tecnología del
    agua» con su botón si gobiernas). En País → 🌿 Naturaleza: proyectos de conservación del país, provincias más contaminadas, el
-   avance y el turismo. Textos solo en español (pendiente: traducciones con el flujo de herramientas/i18n). */
+   avance y el turismo. Textos traducidos a los 13 idiomas (ver ui_v23a.js). */
 
 Object.assign(NT_CL,{cont:'Contaminación de empresas (fábricas, minas, pozos)',trat:'Plantas de tratamiento de aguas',refor:'Reforestación',aprot:'Área protegida',
   cvag:'Reforestación y áreas protegidas'});
@@ -68,3 +68,7 @@ SABIAS.push(
 .ntcr>span{display:flex;flex-direction:column;min-width:0}.ntcr>span b{font-size:13px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.ntcr small{color:var(--mut);font-size:11px}
 .ntcr .dn{color:var(--red);flex:0 0 auto}
 `;document.head.appendChild(st);})();
+
+/* ---------- Guía y ⓘ traducidos (B6, trampa 15): este módulo es el último que toca GUIA y HELP de naturaleza (v2.3a–c), así que se traducen aquí ---------- */
+if(typeof I18!=='undefined'&&I18&&typeof I18B!=='undefined'&&typeof LANG!=='undefined'&&I18B[LANG]){try{const B=JSON.parse(I18B[LANG]);const hk=s=>{let x=0x811c9dc5;for(let i=0;i<s.length;i++){x^=s.charCodeAt(i);x=Math.imul(x,0x01000193)>>>0;}return x.toString(36);};const t=s=>(typeof s==='string'&&B[hk(s)])||s;
+  GUIA.forEach(g=>{g[1]=t(g[1]);});HELP.forEach(e=>{e[2]=t(e[2]);e[3]=t(e[3]);});}catch(e){console.warn('B6 v23c',e);}}

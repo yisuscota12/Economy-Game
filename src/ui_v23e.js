@@ -9,7 +9,7 @@
       solo el botón dorado de avanzar y se abre al tocar ☰. El estado se recuerda.
    3) Pantalla completa: el mapa queda libre; zoom, paneles y barra superior se recolocan según el riel; hojas más compactas.
    4) Ajustes → «🖐️ Mapa: sensibilidad» (el manejo del mapa vive en map.js: umbral de toque, pellizco, doble toque e inercia).
-   Textos nuevos solo en español (pendientes de traducir; ver CONTEXTO_IA.md 9e). */
+   Textos nuevos traducidos a los 13 idiomas (b6p2/interfaz23_es.tsv + v23_<idioma>.tsv). */
 (function(){const st=document.createElement('style');st.id='st23e';st.textContent=`
 /* ---------- 1) pestañas: una fila, trazo en la activa ---------- */
 body :is(.ntabs,.mkt,.nwt){position:relative;display:flex;flex-wrap:nowrap;gap:0;margin:2px 0 10px;padding:0;overflow-x:auto;overflow-y:hidden;border:0;border-bottom:1px solid var(--line);border-radius:0;background:none;scrollbar-width:none;-webkit-overflow-scrolling:touch;overscroll-behavior-x:contain}

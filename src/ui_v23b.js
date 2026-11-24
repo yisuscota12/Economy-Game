@@ -4,7 +4,7 @@
    curso, costo, tiempo, lo que aportan hoy y botón Construir). En País → 🌿 Naturaleza: proyectos del país y especies en riesgo.
    Modo de mapa 🌿: los ríos principales (ya dibujados en el relieve) se resaltan en azul (WebGL en map.js con uRiv; en el modo
    ligero, este envoltorio de composeLite). Los lagos ya se ven como agua en todos los modos (huecos del mapa de identificadores).
-   Textos solo en español (pendiente: traducciones con el flujo de herramientas/i18n). */
+   Textos traducidos a los 13 idiomas (ver ui_v23a.js). */
 
 Object.assign(NT_CL,{proy:'Proyectos de agua (desalinización, presas, riego)',presa:'Presa que corta el río',riego:'Agua desviada para riego',desal:'Salmuera de la desalinización'});
 MODES_MAP.nat.n='Salud del ecosistema (ríos en azul)';

@@ -1,0 +1,14 @@
+54f68f	D	rascacielos y avenidas
+3882bc	D	edificios de departamentos y casas
+2f63ab	D	casas y viviendas humildes
+3f273c	D	Ciudad en pixel art
+b014ad	D	Vista ciudad
+06abc6	D	prueba 3 de estilo pixel (isométrico)
+8ee5d6	D	Otro barrio
+921a76	D	Prueba de estilo: se genera con código desde los datos de la provincia; todavía no se juega aquí. Elige en el issue cuál de las 3 pruebas te gusta.
+b48248	D	Vista ciudad pixel (prueba 3)
+1120ae	D	Barrio en pixel isométrico generado con los datos de cada provincia. Se abre desde «🏙️ Ciudad» debajo del mapa, en la pestaña de ciudades.
+906dc6	D	Mostrar
+4f5841	D	Ocultar
+c94656	T	Se ve: {0}. Más ingreso → edificios más altos; más felicidad → más parques; más población → barrio más grande.
+c635ba	T	Se ve: {0}, río. Más ingreso → edificios más altos; más felicidad → más parques; más población → barrio más grande.

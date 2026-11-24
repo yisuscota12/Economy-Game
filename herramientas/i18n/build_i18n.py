@@ -16,7 +16,7 @@ for f in sorted(glob.glob(H+'/tr_*.tsv')):
     for line in open(f,encoding='utf8'):
         p=line.rstrip('\n').split('\t')
         if len(p)==1+len(CODES): put(ui[int(p[0])],p[1:])
-for name in ['tr2_ui.tsv','tr3_fama.tsv','tr4_pant.tsv','tr5_extra.tsv','tr0_extra.tsv','tr6_b6.tsv','tr7_v17q.tsv']:
+for name in ['tr2_ui.tsv','tr3_fama.tsv','tr4_pant.tsv','tr5_extra.tsv','tr0_extra.tsv','tr6_b6.tsv','tr7_v17q.tsv','tr8_v23.tsv']:
     for line in open(H+'/'+name,encoding='utf8'):
         p=line.rstrip('\n').split('\t')
         if len(p)==1+len(CODES): put(p[0],p[1:])

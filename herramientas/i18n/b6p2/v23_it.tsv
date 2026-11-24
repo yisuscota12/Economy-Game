@@ -1,0 +1,406 @@
+129ff9	Foresta tropicale
+bba34c	Savana
+5013cb	Steppa
+bdff57	Foresta subtropicale
+732b6a	Prateria
+f25d99	Foresta temperata
+ffa029	Taiga
+16ee1f	Scarso
+e38b71	Dipende dall'import
+db197e	Autosufficiente
+8071ef	Esporta
+16a69b	Siccità in {0} province su {1} di {2} nel {3}: raccolti ridotti, acqua razionata e felicità in calo.
+432f1e	Giaguaro
+5e8269	Leopardo
+da0d2b	Tigre
+d03276	Casuario
+c745ea	Ara
+ea6b53	Pappagallo cenerino
+eff2ee	Bucero
+95f1b9	Uccello del paradiso
+6c7f95	Scimmia urlatrice
+00fa82	Scimpanzé
+d41c16	Orango
+b34aa5	Canguro arboricolo
+0f7174	Rana velenosa
+e1efe2	Raganella
+5e5557	Rana volante
+26e570	Ceiba
+b2e0fa	Mogano africano
+842f73	Dipterocarpo
+f6e842	Orchidee
+7355df	Elefante
+66e73c	Formichiere
+a78f03	Elefante asiatico
+296747	Canguro rosso
+ab8762	Giraffa
+87c9a1	Cervo dalla coda bianca
+bbd8e9	Cervo delle pampas
+07663e	Cervo axis
+7767af	Dingo
+3364b1	Leone
+8dd8a2	Puma
+afe7d5	Leone asiatico
+2f2e1a	Aquila codacuneata
+97a915	Acacia
+89d02c	Prosopis
+63e351	Eucalipto
+fdefe7	Erbe alte
+cef9ed	Dromedario
+15cdd5	Coyote
+10c09c	Guanaco
+11a4ec	Cammello battriano
+64b2a2	Volpe del deserto
+5c8fb9	Lucertola
+a7fa4b	Mostro di Gila
+182538	Diavolo spinoso
+718a47	Lucertola dalla coda spinosa
+ab3e38	Scorpione
+dbbc15	Cactus e piante grasse
+84b442	Palma da dattero
+41aa62	Saxaul
+52e4b9	Spinifex
+3ee8ae	Cavallo selvatico
+f3a236	Antilocapra
+f441ea	Gazzella
+502507	Canguro grigio
+39e1d4	Aquila delle steppe
+e5a5ba	Aquila reale
+5cddc1	Condor
+b42eba	Marmotta
+4173da	Cane della prateria
+9f5bc1	Viscaccia
+4c19d7	Gerboa
+01d844	Vombato
+6750fc	Lino delle fate
+06ae50	Artemisia
+a978b3	Atriplice
+386e7f	Bambù
+473ace	Olivo selvatico
+72a06d	Ulivo
+52cc57	Leccio
+ad9b3c	Albero della canfora
+e0b77b	Quercia da sughero
+cb0290	Araucaria
+386dc7	Tartaruga
+9900a4	Farfalle
+b2d6a5	Farfalla monarca
+d0eb80	Serpenti
+d30fa9	Bisonte
+067c01	Bisonte europeo
+7c6bc4	Cavallo di Przewalski
+562c21	Lepre
+840fa2	Mara della Patagonia
+574c12	Api selvatiche
+7476c9	Girasole selvatico
+5e4022	Papavero
+e29ecc	Cervo
+07ea1a	Orso bruno
+72cc14	Orso nero
+7e1bb2	Orso nero asiatico
+5f7738	Huemul
+74ae77	Koala
+4a5ab7	Gufo
+1a7553	Volpe rossa
+bd356a	Quercia
+0ff152	Roble pellín
+8a8ba7	Funghi del bosco
+b4e3c3	Abete e pino
+219420	Lupo grigio
+44f33d	Alce
+7e469d	Lince
+143e7f	Renna
+9ee0ea	Caribù
+623acb	Volpe artica
+f99f29	Civetta delle nevi
+e718dc	Muschi e licheni
+edcf79	Salmerino alpino
+bc4168	Condor delle Ande
+1288f7	Gipeto
+aef341	Capra di montagna
+0a34fa	Muflone americano
+5c3e16	Vigogna
+b65196	Stambecco
+f978ae	Wallaby delle rocce
+4b12b4	Leopardo delle nevi
+513928	Echidna
+79bda5	Pino montano
+dc59b0	Fiori alpini
+58c018	Stella alpina
+7120ca	Pesci di fiume
+822f97	Pesce gatto
+40aa10	Dorado
+21e6f9	Trota
+ec91a8	Carpa
+6cc5b0	Tilapia
+2f021b	Merluzzo del Murray
+2cc076	In pericolo
+e7247c	Città e popolazione occupano il loro habitat
+e25ac6	Inquinamento dell'industria
+84479e	Il loro habitat è diventato coltivato
+6b0e77	Occupazione militare: caccia e habitat distrutto
+94a232	Guerra: bracconaggio e habitat distrutto
+d9f0ee	Siccità: mancanza di acqua e cibo
+b29db0	Una diga taglia il fiume
+a6f360	Acqua deviata per l'irrigazione
+0633ee	Salamoia della desalinizzazione
+b5e7ae	Scarsa protezione ambientale
+1dd77f	Impianto di desalinizzazione
+0a532b	+35 m³ di acqua per persona all'anno per livello, presa dal mare: non dipende dalla pioggia né dalla siccità.
+b18177	Sistema di irrigazione
+e981ba	+12% di terra coltivabile e 10–20% di raccolti in più per livello (di più dove piove poco). Usa il 4% dell'acqua.
+06f739	Serre
+f075dd	Cibo per il 3% in più della popolazione per livello, anche negli anni di siccità.
+82504c	Diga e bacino
+8d4bbd	+8% di acqua, la siccità ne toglie la metà, e +4% di terra coltivabile con l'irrigazione. Taglia il fiume: la salute dell'ecosistema cala.
+52121d	Provincia sconosciuta.
+65908c	Già in costruzione.
+9ddf39	Già al massimo.
+938c1d	Solo nelle province costiere.
+9ad5b0	Non c'è terra che si possa coltivare.
+f64845	Serve un grande fiume o una valle tra le colline.
+e30d33	La provincia è occupata.
+c7b369	più acqua dolce
+3693c3	più cibo
+08d9cb	Solo nelle province del tuo paese.
+834945	Il tesoro nazionale non basta.
+f1e2f2	Solo il governo può costruire una diga.
+7818cd	I tuoi progetti per acqua e cibo ti fruttano {0} quest'anno.
+cb4421	Il tuo paese ha già questo progresso.
+c8b376	Ti serve la tecnologia civile {0} (hai {1}).
+99c4a7	Solo il governo può finanziare la ricerca.
+95d4c1	Le tue università raggiungono il progresso «Tecnologia dell'acqua» ({0}): i progetti per acqua, cibo e conservazione costano il {1}% in meno.
+a07ebb	{0} raggiunge il progresso «Tecnologia dell'acqua»: i progetti per acqua e conservazione costano il {1}% in meno.
+2ee63c	Rimboschimento
+7e9be8	+3 di salute dell'ecosistema e +1,5% di acqua rinnovabile per livello (il bosco trattiene la pioggia). Aiuta il turismo.
+53c5a2	Area protetta
+6f3d0c	+5 di salute dell'ecosistema e +2% di acqua rinnovabile (bacini protetti). Attira turismo. Solo il governo può istituirla.
+2a6282	Impianto di trattamento delle acque
+08d09b	Compensa metà dell'inquinamento delle aziende della provincia per livello (+1 se non c'è industria: acque reflue delle città).
+530ffe	Non si può rimboschire un deserto o una tundra.
+216e8d	Solo il governo può istituire un'area protetta.
+d386e0	Miniere e pozzi della provincia
+3159c6	Inquinamento di fabbriche, miniere e pozzi
+061944	Siccità a {0}: {1} produce il {2}% in meno quest'anno.
+904c5e	Manutenzione dei tuoi progetti di conservazione: {0}.
+213a9b	Niente soldi per la manutenzione: {0} restano sospesi quest'anno (senza effetto).
+ca4813	Popolazione per km²
+57e681	Industria e città
+966987	Terra convertita in coltivazioni
+c86b99	Sviluppo e regolamentazione ambientale
+69b7e0	Occupazione militare
+d8cb2a	Siccità quest'anno
+de4b55	Siccità nella provincia
+1eb141	Pioggia e clima
+0a4d47	Acqua dal resto del paese
+b79a11	Dighe, pozzi e reti idriche
+ed1999	Terra coltivabile per persona
+f91ad3	Capacità di importare cibo
+26f86e	Prezzo mondiale dei cereali
+56bd80	Raccolti della provincia
+0d2145	Cibo importato e suo prezzo
+510f15	Siccità (rispetto a un anno normale)
+cea13f	Meno acqua per persona
+67e676	Energia importata e suo prezzo
+e3c2a9	La barra confronta ciò che produce con ciò che consuma (la linea segna il 100%). Il consumo è stimato in base al suo peso nell'economia e nella popolazione mondiale.
+b196fa	Salute dell'ecosistema
+4b7975	Quanto è conservata la natura: cala con popolazione, industria, coltivazioni, guerra e siccità.
+4fb591	Acqua dolce
+82916c	m³ per persona all'anno nella provincia
+a266f2	km³ si rinnovano
+2d3200	Sotto i 1.700 m³ per persona all'anno c'è stress idrico; sotto i 1.000, scarsità.
+f09aaa	Sicurezza alimentare
+f901ec	I suoi raccolti sfamano
+520213	della sua popolazione
+5e971d	Terra coltivabile
+5da13c	della superficie
+85d589	Acqua per persona
+f114c9	persone sfamate
+8fbe58	Rischio di siccità
+c49c23	all'anno
+c3db36	Colture principali
+4a5cca	Risorse del sottosuolo
+197242	Ecosistema
+e624ee	Acqua
+b9e984	Scarsità di risorse di {0}
+3ef09e	Bioma
+7d313f	Una grande regione naturale con clima, vegetazione e fauna simili: foresta pluviale, savana, deserto, taiga…
+ee3a7a	Definisce quanta pioggia scorre via, quanta terra si può coltivare e quanto spesso ci sono siccità.
+cfffcd	Acqua dolce rinnovabile
+ad3776	L'acqua piovana che ogni anno scorre nei fiumi e si infiltra nelle falde, più quella che portano i fiumi da monte.
+859a20	Con poca acqua per persona, la siccità colpisce più duramente i raccolti, i servizi pubblici e la felicità.
+4784a0	Che la popolazione abbia cibo a sufficienza: producendolo o potendolo comprare all'estero.
+20e90d	Un paese che importa molto cibo soffre quando i cereali rincarano nel mondo.
+fc6296	La natura del tuo paese
+650adf	Acqua rinnovabile
+f828c6	Natura
+7dfe24	Natura e risorse di {0}
+851d27	Autosufficienza alimentare
+e3252b	Province in siccità
+9e6e0b	della popolazione
+3ce609	Media delle sue province, ponderata per superficie.
+554c08	km³ di acqua rinnovabile all'anno
+e22349	m³ per persona
+7e2b92	Soglia di Falkenmark: sotto i 1.700 m³ per persona all'anno c'è stress idrico; sotto i 1.000, scarsità; sotto i 500, scarsità assoluta.
+5d1bbc	Produce cibo per
+74226c	Cosa muove la natura nell'economia
+f79ce2	Scarsità di risorse
+5379ab	Province in siccità quest'anno
+0747d3	Gravità
+b61f6c	Province con meno acqua per persona
+6a6160	Tocca una provincia sulla mappa e apri la scheda 🌿 Natura per vedere i dettagli. La modalità mappa 🌿 colora la salute dell'ecosistema in tutto il mondo.
+bc1dbe	Stress idrico
+f05314	Siccità
+619ecb	Natura e risorse
+01fe0f	Una grande regione naturale con clima, piante e animali simili: foresta pluviale, savana, deserto, steppa, bosco, taiga, tundra o montagna.
+8ba1b0	Acqua dolce che la pioggia rinnova ogni anno in fiumi e falde. Si misura in metri cubi per persona all'anno.
+edc5e7	Quando ci sono meno di 1.700 m³ di acqua rinnovabile per persona all'anno. Sotto i 1.000 è scarsità e sotto i 500, scarsità assoluta (soglia di Falkenmark).
+cc7f99	La parte del territorio che si può seminare. Dipende da clima, rilievo e acqua, e cresce con l'irrigazione.
+a601f6	Che tutta la popolazione abbia cibo a sufficienza, perché lo produce o perché può comprarlo da altri paesi.
+0fdc9f	Un anno con molta meno pioggia del normale. Riduce i raccolti e l'acqua disponibile, e colpisce di più i paesi che dipendono dall'agricoltura.
+d8a207	Un paese con meno di 1.700 m³ di acqua rinnovabile per persona all'anno vive in stress idrico. Sotto i 1.000 m³ c'è scarsità e sotto i 500, scarsità assoluta.
+50873e	Falkenmark (1989); ONU-Acqua
+dbe190	Solo circa l'11% della superficie terrestre del pianeta è coltivabile.
+0774c2	IFPRI; FAO
+cf6aa2	Progetti idrici (desalinizzazione, dighe, irrigazione)
+9ba038	Diga che taglia il fiume
+790b54	Salute dell'ecosistema (fiumi in blu)
+7389b3	Animale
+65fa72	Pianta
+792a17	molto sensibile
+dab812	{0} su {1} sono a rischio: la causa indicata è quella che toglie di più all'ecosistema tra le sue minacce.
+f888fa	Per ora nessuna è a rischio.
+759c52	Flora e fauna
+43740f	Le specie dipendono dalla salute dell'ecosistema ({0}/100).
+382971	Non cambiano l'economia.
+efc332	Progetti per acqua e cibo
+0161e4	km³ di acqua all'anno
+4485eb	km² di terra coltivabile
+a8a5b5	cibo per
+67b3db	Oggi apportano:
+947cea	Puoi costruire solo nelle province del tuo paese.
+31475a	il tuo governo
+c08f3c	il governo
+977419	in costruzione, mancano:
+8f3bc2	Pagato da:
+74bd5f	Costo
+9513ba	Richiede
+d72b64	Governi tu: le opere sono pagate dal tesoro nazionale ({0}).
+07253c	Non governi: puoi pagarle tu come investimento privato; rendono ogni anno (acqua e raccolti che si vendono). La diga la costruisce solo il governo.
+cef7d7	Gli effetti sono misurati e piccoli: aumentano l'acqua e la terra coltivabile della provincia e, con ciò, un po' l'autosufficienza del paese.
+279a67	{0} {1} a {2}?
+4440c2	Desalinizzazione
+08cfe9	Irrigazione
+ecde02	Specie a rischio
+aca10e	In totale apportano
+27aa1c	km³ di acqua all'anno e cibo per
+ecf3d2	Il tuo paese non ha progetti. Aprili dalla scheda 🌿 Natura di ogni provincia.
+d78d44	Specie a rischio
+36f3bc	{0} popolazioni su {1} di piante e animali nelle tue province sono a rischio.
+99bd02	in pericolo in
+1be5e2	A rischio in
+23eb3c	Togliere il sale all'acqua di mare per renderla potabile. Dà acqua anche quando non piove, ma consuma molta energia e lascia salamoia che danneggia la costa.
+795688	Portare l'acqua alle colture con canali, pozzi o goccia a goccia. Permette di seminare dove piove poco e raccogliere di più, ma usa gran parte dell'acqua dolce.
+ebcde6	Pianta o animale la cui popolazione cala tanto da poter scomparire da un luogo. La causa più comune è la perdita del suo habitat.
+c54050	Israele ottiene circa il 70% della sua acqua potabile da impianti di desalinizzazione sulla costa del Mediterraneo.
+81d1e7	Autorità idrica di Israele
+4b8581	I Paesi Bassi sono il secondo esportatore di alimenti al mondo per valore, in buona parte grazie alle loro serre.
+b3342d	FAO; Università di Wageningen
+24513c	Circa un milione di specie di piante e animali rischia l'estinzione, soprattutto per la perdita del loro habitat.
+4c0333	IPBES (2019)
+6e327f	Inquinamento delle aziende (fabbriche, miniere, pozzi)
+0dc2a0	Impianti di trattamento delle acque
+3e6f2e	Rimboschimento e aree protette
+b003ec	La tua azienda
+091b73	Azienda quotata
+c88f37	Estrazione
+d2f5b7	Il trattamento delle acque (livello {0}) compensa
+815fd9	Un impianto di trattamento delle acque compensa metà per livello.
+324f21	Tolgono
+39de72	dalla salute dell'ecosistema (in base alla loro dimensione rispetto all'economia della provincia).
+f88adb	Raggiunto nel
+3602cb	Tecnologia civile
+beac5c	arriva da solo al livello
+335fa9	Ricerca
+4e6994	Progresso: tecnologia dell'acqua
+7d2d65	Membrane, irrigazione a goccia e vivai più economici: riduce del {0}% il costo e la manutenzione di tutti i progetti per acqua, cibo e conservazione.
+fd5d4d	Conservazione
+e3c26d	sospeso quest'anno
+ea60b0	Turismo della provincia:
+65c7ed	di domanda in hotel, bar e gioiellerie grazie alla sua natura e alle aree protette.
+a8617f	Se governi, il tesoro paga l'opera e la manutenzione; se non basta, il progetto viene sospeso quell'anno.
+84b356	Senza governare puoi pagare rimboschimento e trattamento come investimento privato (rendono un po': crediti di carbonio e tariffe); la manutenzione esce dai tuoi soldi. L'area protetta la istituisce solo il governo.
+868eeb	Ricercare la tecnologia dell'acqua?
+7b8266	Inquinamento industriale
+edf024	Non ci sono rimboschimenti, aree protette né impianti di trattamento. Aprili dalla scheda 🌿 Natura di ogni provincia.
+cb462c	Turismo del paese grazie a natura e aree protette:
+1abf79	di domanda.
+6dc117	Zona in cui la legge limita caccia, taglio, costruzione e agricoltura per conservare la natura. Protegge specie e bacini idrici e attira turismo.
+6c43ff	Ripiantare alberi dove c'era il bosco. Il bosco trattiene la pioggia, ricarica le falde e restituisce l'habitat a molte specie; ci vogliono anni perché faccia effetto.
+517784	Rifiuti che fabbriche, miniere e pozzi petroliferi rilasciano in aria, acqua e suolo. Gli impianti di trattamento puliscono parte dell'acqua prima di restituirla ai fiumi.
+7acc17	La Costa Rica è passata da circa il 21% del territorio coperto da foreste nel 1987 a oltre il 50% oggi, con pagamenti ai proprietari terrieri per conservarle.
+5208dc	SINAC; FAO, Valutazione delle risorse forestali
+4a6c3c	Le aree protette coprono circa il 17% delle terre emerse del mondo.
+a04a4e	UNEP-WCMC e IUCN, Protected Planet Report 2020
+d5d83f	FAO, AQUASTAT
+2a2dc3	FAO; Banca Mondiale
+ba97ca	Inquinamento delle aziende
+ecb904	Province più inquinate dalle aziende
+04bbf6	🏗️ Costruzione completata: {0} a {1}: {2} per la provincia.
+7702c2	🏗️ Costruzione completata: {0} a {1} (livello {2}): {3} per la provincia.
+5a1b46	Iniziano i lavori: {0} a {1}. Ci vogliono {2} mesi.
+238966	Iniziano i lavori: {0} a {1}. Ci vogliono {2} mesi; è un tuo investimento privato e ti renderà circa il {3}% all'anno a regime.
+8c5ed2	{0} Area protetta istituita a {1}: la salute dell'ecosistema migliora.
+d71837	{0} Completato: {1} a {2}: la salute dell'ecosistema migliora.
+43d09c	{0} Completato: {1} a {2} (livello {3}): la salute dell'ecosistema migliora.
+27a851	sensibile
+c51d52	resistente
+f1fe5b	mancano
+98b395	sospeso
+f46b3a	trattamento
+67bbcd	degradato
+c53414	sano
+8f12c6	A rischio
+1f3e92	Non hai abbastanza soldi.
+32c536	Grande fiume
+327a63	Crescita della popolazione
+4cb456	Nel 2022 diversi paesi hanno vietato l'esportazione di cibo dopo l'invasione dell'Ucraina, uno dei maggiori esportatori di grano e mais al mondo.
+5087e8	dai tuoi soldi
+b5df5e	🌳 Manutenzione di rimboschimento, aree protette e trattamento delle acque: {0} dal tesoro.
+c98083	Rimboschimento ({0})
+5230e6	Area protetta ({0})
+b74b18	Impianto di trattamento delle acque ({0})
+a502fe	Rimboschimento ({0}), {1}
+f324fd	Area protetta ({0}), {1}
+434a81	Impianto di trattamento delle acque ({0}), {1}
+58afc8	Livelli della mappa
+58d28b	Apri la Borsa ›
+4a8db5	Inizia o carica una partita per scegliere gli asset.
+430413	Indici
+f3c241	Nessuno
+862604	Massimo {0} asset.
+451845	Asset nella schermata principale
+374a64	Scegli quali asset della borsa compaiono in una piccola bolla nella schermata principale. Per impostazione predefinita, nessuno. La barra completa delle quotazioni è dentro la Borsa.
+01385b	Vista a pixel
+256a5c	Apri il menu
+2739ab	Comprimi il menu
+216b3d	Dolce
+d11840	Pronto
+6aaab3	Con inerzia
+6baff9	Senza inerzia
+6a2be3	Mappa: sensibilità
+57c32e	Dolce: serve muovere di più il dito per trascinare (i tocchi sono più precisi). Pronto: la mappa risponde prima e scivola più a lungo quando rilasci.
+54f68f	grattacieli e viali
+3882bc	palazzi di appartamenti e case
+2f63ab	case e abitazioni modeste
+3f273c	Città in pixel art
+b014ad	Vista della città
+06abc6	prova di stile 3, pixel (isometrico)
+8ee5d6	Altro quartiere
+921a76	Prova di stile: è generata dal codice a partire dai dati della provincia; qui non si gioca ancora. Scegli nell'issue quale delle 3 prove ti piace.
+b48248	Vista città in pixel (prova 3)
+1120ae	Un quartiere in pixel isometrico generato con i dati di ogni provincia. Si apre da «🏙️ Città» sotto la mappa, nella scheda delle città.
+906dc6	Mostra
+4f5841	Nascondi
+c94656	Si vede: {0}. Più reddito → edifici più alti; più felicità → più parchi; più popolazione → quartiere più grande.
+c635ba	Si vede: {0}, fiume. Più reddito → edifici più alti; più felicità → più parchi; più popolazione → quartiere più grande.
