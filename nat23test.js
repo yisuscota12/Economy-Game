@@ -3,11 +3,14 @@
 // v2.3a (base=1 quita engine_v23a.js): PIB mundial, crecimiento, recesiones y crisis bancarias nuevas, salud de los sectores
 // (Consumo básico, Servicios públicos, Industria y la media ponderada por empleo, que es lo que decide despidos y contrataciones en la
 // v2.1c), felicidad mundial y personas desempleadas en la red del jugador. Sin base=1 corre las dos y muestra la diferencia.
+// v2.3b: quita=v23b compara la v2.3a contra la v2.3a + v2.3b (por omisión quita=v23 quita las dos); muestra también proyectos de agua y
+// alimentos terminados en el mundo y especies en riesgo.
 const fs=require('fs'),vm=require('vm');const D=__dirname+'/';const args=Object.fromEntries(process.argv.slice(2).map(a=>a.split('=')));
+const QUITA=new RegExp(args.quita||'v23');   // v2.3b: quita=v23b compara contra la v2.3a (sin quita: contra la versión sin naturaleza)
 const Y=+(args.years||10),nid=args.c||'MEX',mode=args.mode||'realista';const seeds=(args.seeds||'1,2,3,4').split(',').map(Number);
 const all=fs.readFileSync(D+'build.js','utf8').split('\n').find(l=>l.startsWith('const engine')).match(/src\/[a-z0-9_]+\.js/g);
 const DATA={MAP:JSON.parse(fs.readFileSync(D+'raw/map2.json')),WORLD:JSON.parse(fs.readFileSync(D+'raw/world.json')),TERR:JSON.parse(fs.readFileSync(D+'raw/terr.json')),SPLIT:JSON.parse(fs.readFileSync(D+'raw/split.json')),CITIES:JSON.parse(fs.readFileSync(D+'raw/cities.json')),CITY_RG:JSON.parse(fs.readFileSync(D+'raw/city_rg.json'))};
-function run(seed,withNat){const files=withNat?all:all.filter(f=>!/v23a/.test(f));
+function run(seed,withNat){const files=withNat?all:all.filter(f=>!QUITA.test(f));
   const ctx=Object.assign({},DATA,{console,Math,JSON,Object,Array,Set,Map,String,Number,isFinite,Float32Array,Float64Array,Int16Array,Int32Array,Uint8Array,Date});
   vm.createContext(ctx);vm.runInContext(files.map(f=>fs.readFileSync(D+f,'utf8')).join('\n')+'\n;this.X=function(s){return eval(s);};',ctx);const X=ctx.X;
   let s0=seed;ctx.Math=Object.create(Math);ctx.Math.random=()=>{s0=(s0*1103515245+12345)%2147483648;return s0/2147483648;};X('Math=this.Math');
@@ -30,6 +33,8 @@ function run(seed,withNat){const files=withNat?all:all.filter(f=>!/v23a/.test(f)
     const n=G.nations['${nid}'];const N=ntNat('${nid}');let t0=Date.now();NTC.g=null;for(const r in G.regions)ntProv(r);const tP=Date.now()-t0;
     return {ecosistema:q(A),agua:q(W),alimentos:q(F),pais:{agua:ntWaterN('${nid}').v,alimentos:ntFoodN('${nid}').v,ecosistema:ntEcoN('${nid}').v,m3_persona:Math.round(N.wpc),autosuf:+N.ss.toFixed(2),sequia:N.nd+'/'+N.nr},
       causas_cons:shParts(n,'cons').map(([k,v])=>k+' '+v.toFixed(1)).join(', '),causas_serv:shParts(n,'serv').map(([k,v])=>k+' '+v.toFixed(1)).join(', '),
+      proyectos:typeof ntPjTick==='function'?(()=>{const c={hechos:0,obra:0,nat:{},n:0};for(const r in G.np||{})for(const k in G.np[r]){const e=G.np[r][k];c.hechos+=e.l;if(e.q)c.obra++;c.nat[k]=(c.nat[k]||0)+e.l;}return JSON.stringify(c);})():'-',
+      especies:typeof ntSpecies==='function'?(()=>{let t=0,r1=0,r2=0;for(const r in G.regions){const L=ntSpecies(r);L.forEach(s=>{t++;if(s.st===1)r1++;if(s.st===2)r2++;});}return t+' (riesgo '+r1+', peligro '+r2+')';})():'-',
       escasez:ntRes('${nid}').filter(e=>e.pr>0||e.st<2).map(e=>e.k+':'+NT_RST[e.st]).join(' '),ms_3422_prov:tP,nan:A.concat(W,F).filter(v=>!isFinite(v)).length};})()`);
   return o;}
 const R={con:[],sin:[]};const f2=v=>+v.toFixed(2);
@@ -38,6 +43,6 @@ const avg=(L,k)=>L.reduce((s,o)=>s+o[k],0)/L.length;const sum=(L,k)=>L.reduce((s
 const res=L=>({crec_mundial_anual:f2(avg(L,'cagr'))+' %',pib_mundial_billones:f2(avg(L,'g')/1e12),recesiones_nuevas:sum(L,'rec'),crisis_bancarias_nuevas:sum(L,'crb'),
   salud_consumo_basico:f2(avg(L,'cons')),salud_servicios_publicos:f2(avg(L,'serv')),salud_industria:f2(avg(L,'ind')),salud_ponderada_empleo:f2(avg(L,'emp')),
   felicidad_mundial:f2(avg(L,'hap')),desempleados_red:sum(L,'des')+' de '+sum(L,'ppl'),mes_ms_mediana:avg(L,'ms')});
-const out={semillas:seeds.join(','),anios:Y,sin_v23a:res(R.sin)};
-if(R.con.length){out.con_v23a=res(R.con);out.diferencia={pib_mundial:f2((avg(R.con,'g')/avg(R.sin,'g')-1)*100)+' %',por_semilla:R.con.map((o,i)=>f2((o.g/R.sin[i].g-1)*100)+' %').join(' ')};out.naturaleza=R.con[0].nat;}
+const out={semillas:seeds.join(','),anios:Y,quita:QUITA.source,sin:res(R.sin)};
+if(R.con.length){out.con=res(R.con);out.diferencia={pib_mundial:f2((avg(R.con,'g')/avg(R.sin,'g')-1)*100)+' %',por_semilla:R.con.map((o,i)=>f2((o.g/R.sin[i].g-1)*100)+' %').join(' ')};out.naturaleza=R.con[0].nat;}
 console.log(JSON.stringify(out,null,1));

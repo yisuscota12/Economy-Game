@@ -29,7 +29,7 @@ function pxOn(){try{return CFG.pxui==='p2';}catch(e){return false;}}
 function mapDpr(){return pxOn()?1:Math.min(2,window.devicePixelRatio||1);}
 const VS='attribute vec2 p;varying vec2 v;void main(){v=vec2(p.x*.5+.5,.5-p.y*.5);gl_Position=vec4(p,0.,1.);}';
 const FS=`precision highp float;
-uniform sampler2D uId,uRel,uLut,uOwn,uCoast;uniform float uFx;uniform vec2 uTex,uLutN,uView;uniform vec4 uVB;uniform float uSel,uMe,uDetail,uMix,uVec,uPulse;varying vec2 v;
+uniform sampler2D uId,uRel,uLut,uOwn,uCoast;uniform float uFx;uniform vec2 uTex,uLutN,uView;uniform vec4 uVB;uniform float uSel,uMe,uDetail,uMix,uVec,uPulse,uRiv;varying vec2 v;
 float idAt(vec2 m){if(m.x<0.||m.y<0.||m.x>=uTex.x||m.y>=uTex.y)return 0.;vec4 c=texture2D(uId,(floor(m)+.5)/uTex);return floor(c.r*255.+.5)+floor(c.g*255.+.5)*256.;}
 vec2 lc(float i){return (vec2(mod(i,${LUTW}.),floor(i/${LUTW}.))+.5)/uLutN;}
 vec4 lut(float i){return texture2D(uLut,lc(i));}
@@ -49,6 +49,7 @@ void main(){vec2 m=uVB.xy+v*uVB.zw;float px=uVB.z/uView.x;vec3 rel=texture2D(uRe
   if(n>.5)c=mix(c,vec3(.04,.06,.09),.55);gl_FragColor=vec4(c,1.);return;}
  vec4 o=lut(id);vec4 ow=own(id);float lum=dot(rel,vec3(.3,.59,.11));
  vec3 c=mix(rel,o.rgb*(.5+.75*lum),uMix);
+ if(uRiv>.5){vec3 q=rel*255.;if(abs(q.r-58.)<30.&&abs(q.g-108.)<30.&&abs(q.b-160.)<35.&&q.b>q.r+55.)c=mix(c,vec3(.25,.6,.95),.9);}
  float prov=0.,nat=0.,sel=0.,me=0.;
  bool need=uVec<.5||id==uSel||id==uMe;
  if(need)for(int k=0;k<8;k++){vec2 d=k==0?vec2(1.,0.):k==1?vec2(-1.,0.):k==2?vec2(0.,1.):k==3?vec2(0.,-1.):k==4?vec2(2.,0.):k==5?vec2(-2.,0.):k==6?vec2(0.,2.):vec2(0.,-2.);
@@ -81,7 +82,7 @@ function initGL(idImg,relImg){
     gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_MIN_FILTER,filter);gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_MAG_FILTER,filter);
     if(src instanceof Uint8Array)gl.texImage2D(gl.TEXTURE_2D,0,gl.RGBA,w,h,0,gl.RGBA,gl.UNSIGNED_BYTE,src);else gl.texImage2D(gl.TEXTURE_2D,0,gl.RGBA,gl.RGBA,gl.UNSIGNED_BYTE,src);return t;};
   tex(0,idImg,gl.NEAREST);tex(1,relImg,gl.LINEAR);GLX.lutData=new Uint8Array(LUTW*LUTH*4);GLX.lut=tex(2,GLX.lutData,gl.NEAREST,LUTW,LUTH);GLX.ownData=new Uint8Array(LUTW*LUTH*4);GLX.own=tex(3,GLX.ownData,gl.NEAREST,LUTW,LUTH);if(GLX.coastImg)tex(4,GLX.coastImg,gl.LINEAR);else tex(4,new Uint8Array(4),gl.NEAREST,1,1);
-  const U=n=>gl.getUniformLocation(pr,n);GLX.u={id:U('uId'),rel:U('uRel'),lut:U('uLut'),tex:U('uTex'),lutN:U('uLutN'),view:U('uView'),vb:U('uVB'),sel:U('uSel'),me:U('uMe'),det:U('uDetail'),own:U('uOwn'),mix:U('uMix'),vec:U('uVec'),pulse:U('uPulse'),coast:U('uCoast'),fx:U('uFx')};GLX.prog=pr;GLX.pLoc=loc;GLX.qbuf=b;
+  const U=n=>gl.getUniformLocation(pr,n);GLX.u={id:U('uId'),rel:U('uRel'),lut:U('uLut'),tex:U('uTex'),lutN:U('uLutN'),view:U('uView'),vb:U('uVB'),sel:U('uSel'),me:U('uMe'),det:U('uDetail'),own:U('uOwn'),mix:U('uMix'),vec:U('uVec'),pulse:U('uPulse'),coast:U('uCoast'),fx:U('uFx'),riv:U('uRiv')};GLX.prog=pr;GLX.pLoc=loc;GLX.qbuf=b;
   gl.uniform1i(GLX.u.id,0);gl.uniform1i(GLX.u.rel,1);gl.uniform1i(GLX.u.lut,2);gl.uniform1i(GLX.u.own,3);gl.uniform1i(GLX.u.coast,4);gl.uniform2f(GLX.u.tex,MW,MH);gl.uniform2f(GLX.u.lutN,LUTW,LUTH);
   cv.addEventListener('webglcontextlost',e=>{e.preventDefault();try{localStorage.setItem('imperioLite','1');}catch(_){}} ,false);
   try{initBorders();}catch(e){GLX.lines=null;}
@@ -149,7 +150,7 @@ function setMapMode(k){MMODE=k;document.querySelectorAll('.mmodes button').forEa
   $('mLeg').innerHTML=md.lo?`<span>${md.n}</span><div class="lg-bar"></div><div class="lg-lab"><span>${md.lo}</span><span>${md.hi}</span></div>`:'';$('mLeg').style.display=md.lo?'block':'none';refreshMap();}
 function drawGL(){const cv=$('glc');gl.viewport(0,0,cv.width,cv.height);const u=GLX.u;
   gl.uniform2f(u.view,cv.width,cv.height);gl.uniform4f(u.vb,vb.x,vb.y,vb.w,vb.h);
-  gl.uniform1f(u.mix,MODES_MAP[MMODE].mix);gl.uniform1f(u.fx,mapFx()&&GLX.coastImg?1:0);gl.uniform1f(u.pulse,PULSE.v);gl.uniform1f(u.sel,G.sel&&RG[G.sel]?RG[G.sel].i:-1);gl.uniform1f(u.me,P&&RG[P.r]?RG[P.r].i:-1);
+  gl.uniform1f(u.mix,MODES_MAP[MMODE].mix);gl.uniform1f(u.riv,MMODE==='nat'?1:0);gl.uniform1f(u.fx,mapFx()&&GLX.coastImg?1:0);gl.uniform1f(u.pulse,PULSE.v);gl.uniform1f(u.sel,G.sel&&RG[G.sel]?RG[G.sel].i:-1);gl.uniform1f(u.me,P&&RG[P.r]?RG[P.r].i:-1);
   const tpp=vb.w/cv.width,det=clamp((2.2-tpp)/1.4,0,1);gl.uniform1f(u.det,det);gl.uniform1f(u.vec,GLX.lines?1:0);gl.drawArrays(gl.TRIANGLE_STRIP,0,4);
   if(GLX.roads&&mapRoads()){const rd=clamp((1.5-tpp)/.9,0,1);if(rd>0)drawLines(rd,GLX.roads);}
   if(GLX.lines)drawLines(det);}
