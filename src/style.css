@@ -192,4 +192,23 @@ html[data-px=p2]:not([data-pxa]) :is(.modal.on,.sheet.on #sheetIn>*,.pxfl){anima
 /* ===== v2.2d — Prueba 3: vista ciudad en pixel isométrico (ui_v22d.js) ===== */
 .ctyBox{overflow:auto;-webkit-overflow-scrolling:touch;touch-action:pan-x pan-y;background:#0d1020;border:2px solid var(--line);line-height:0;text-align:center}
 #ctyC{image-rendering:pixelated;image-rendering:crisp-edges;display:inline-block;max-width:none}
+/* ===== v2.2e — La interfaz pixel adopta la paleta y el tratamiento de la Prueba 3 (ciudad isométrica) =====
+   Solo CSS y solo bajo html[data-px=p2] (tema Pixel desbloqueado o en vista previa). No cambia colores de texto (contraste AA intacto):
+   toca bordes, bordes inferiores («losa» isométrica de 2 px), pestañas activas, barra de navegación y fondos. */
+html[data-px=p2]{--c-grass:#5f9a3e;--c-grass2:#548b37;--c-road:#55555f;--c-roadE:#47474f;--c-line:#d9cf74;--c-water:#3b80c4;--c-roof:#a8473b;--c-lit:#ffd166;
+ --px-slab:rgba(0,0,0,.38)}
+html[data-px=p2]:is([data-theme=claro],[data-theme=amigable],[data-theme=medieval]){--px-slab:rgba(60,40,20,.3)}
+/* tarjetas: losa con grosor, como un bloque de la ciudad (2 px, cabe en el margen de 10 px) */
+html[data-px=p2] .card:not(.topc){box-shadow:inset 2px 2px 0 var(--px-hi),inset -2px -2px 0 var(--px-lo),0 2px 0 var(--px-slab)!important}
+/* barra de navegación: calle de asfalto con línea central discontinua */
+html[data-px=p2] .nav{background-image:linear-gradient(90deg,var(--c-line) 0 4px,transparent 4px 8px);background-size:8px 2px;background-repeat:repeat-x;background-position:0 2px}
+/* pestañas y opciones activas: ventana encendida (luz cálida) en vez de solo el borde dorado */
+html[data-px=p2] :is(.ntabs button,.chips button,.mkt button,.mode,.mmodes button,.army).on{box-shadow:inset 0 0 0 2px var(--c-lit),inset -2px -4px 0 var(--px-lo)!important}
+/* barras de progreso: el hueco se ve como suelo de césped oscuro (solo el riel; el color del relleno lo manda cada barra) */
+html[data-px=p2] :is(.bar,.hb,.mpbar,.cmd-bar,.rb,.lg-bar){background-color:color-mix(in srgb,var(--c-grass2) 22%,#000);box-shadow:inset 0 -2px 0 rgba(0,0,0,.35)}
+/* hoja inferior y ventanas: remate de tejado (línea del color del barrio) */
+html[data-px=p2] .sheet{border-top:2px solid var(--c-roof)!important}
+html[data-px=p2] :is(.modal.on,.paper){box-shadow:inset 2px 2px 0 var(--px-hi),inset -2px -2px 0 var(--px-lo),0 4px 0 var(--px-slab)!important}
+/* el selector de provincia (#selInfo) y la vista ciudad comparten el marco */
+html[data-px=p2] .ctyBox{border:2px solid var(--px-edge);box-shadow:inset 2px 2px 0 var(--px-hi),inset -2px -2px 0 var(--px-lo),0 2px 0 var(--px-slab)}
 </style>
