@@ -5,6 +5,8 @@
 // v2.1c), felicidad mundial y personas desempleadas en la red del jugador. Sin base=1 corre las dos y muestra la diferencia.
 // v2.3b: quita=v23b compara la v2.3a contra la v2.3a + v2.3b (por omisión quita=v23 quita las dos); muestra también proyectos de agua y
 // alimentos terminados en el mundo y especies en riesgo.
+// v2.3c: quita=v23c compara la v2.3b contra la v2.3c (conservación, contaminación, sequía en granjas, avance); quita=zzzz no quita nada
+// (las dos corridas son la versión actual: sirve para medir el ruido A/A). Muestra también la contaminación de empresas.
 const fs=require('fs'),vm=require('vm');const D=__dirname+'/';const args=Object.fromEntries(process.argv.slice(2).map(a=>a.split('=')));
 const QUITA=new RegExp(args.quita||'v23');   // v2.3b: quita=v23b compara contra la v2.3a (sin quita: contra la versión sin naturaleza)
 const Y=+(args.years||10),nid=args.c||'MEX',mode=args.mode||'realista';const seeds=(args.seeds||'1,2,3,4').split(',').map(Number);
@@ -35,6 +37,7 @@ function run(seed,withNat){const files=withNat?all:all.filter(f=>!QUITA.test(f))
       causas_cons:shParts(n,'cons').map(([k,v])=>k+' '+v.toFixed(1)).join(', '),causas_serv:shParts(n,'serv').map(([k,v])=>k+' '+v.toFixed(1)).join(', '),
       proyectos:typeof ntPjTick==='function'?(()=>{const c={hechos:0,obra:0,nat:{},n:0};for(const r in G.np||{})for(const k in G.np[r]){const e=G.np[r][k];c.hechos+=e.l;if(e.q)c.obra++;c.nat[k]=(c.nat[k]||0)+e.l;}return JSON.stringify(c);})():'-',
       especies:typeof ntSpecies==='function'?(()=>{let t=0,r1=0,r2=0;for(const r in G.regions){const L=ntSpecies(r);L.forEach(s=>{t++;if(s.st===1)r1++;if(s.st===2)r2++;});}return t+' (riesgo '+r1+', peligro '+r2+')';})():'-',
+      contaminacion:typeof ntCont==='function'?(()=>{let n=0,s=0;for(const r in G.regions){const c=ntProv(r).cont;if(c&&c.raw<=-.5){n++;s+=c.v;}}return n+' provincias, media '+(n?(s/n).toFixed(2):0);})():'-',
       escasez:ntRes('${nid}').filter(e=>e.pr>0||e.st<2).map(e=>e.k+':'+NT_RST[e.st]).join(' '),ms_3422_prov:tP,nan:A.concat(W,F).filter(v=>!isFinite(v)).length};})()`);
   return o;}
 const R={con:[],sin:[]};const f2=v=>+v.toFixed(2);

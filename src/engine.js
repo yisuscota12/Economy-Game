@@ -1,6 +1,6 @@
 /*ENGINE_START*/
 // Imperio de una Vida v0.2 — motor (sin DOM). Requiere MAP y WORLD definidos antes.
-const VERSION='2.3b';
+const VERSION='2.3c';
 const R=(a,b)=>a+Math.random()*(b-a);
 const RI=(a,b)=>Math.floor(R(a,b+1));
 const pick=a=>a[Math.floor(Math.random()*a.length)];

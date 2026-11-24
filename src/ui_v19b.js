@@ -250,7 +250,7 @@ setInterval(()=>{try{const want=pxOn(),has=document.documentElement.dataset.px==
   x.querySelectorAll('[data-pxui]').forEach(y=>y.onclick=()=>{pxUISet(y.dataset.pxui);showSettings();});
   const pv=x.querySelector('[data-pxpv]');if(pv)pv.onclick=()=>{if(pxPreview())toast('🕹️ Vista previa del estilo pixel',`Tienes ${PXT.PV} minutos para probarlo.`);showSettings();};
   /* texto de versión: 5 toques en menos de 3 s activan o apagan el modo desarrollador/tester (gratis, sin restricciones) */
-  const v=document.createElement('div');v.className='s pxver';v.setAttribute('data-noi18n','');v.textContent=`ECONOMY v${VERSION} · interfaz v2.2f`+(dev?' · 🛠️ modo desarrollador':'');
+  const v=document.createElement('div');v.className='s pxver';v.setAttribute('data-noi18n','');v.textContent=`ECONOMY v${VERSION} · interfaz v2.3c`+(dev?' · 🛠️ modo desarrollador':'');
   let n=0,t0=0;v.onclick=()=>{const now=Date.now();if(now-t0>3000)n=0;t0=now;if(++n<5)return;n=0;CFG.devMode=CFG.devMode?0:1;saveCfg();pxRefresh();
     toast(CFG.devMode?'🛠️ Modo desarrollador activado':'🛠️ Modo desarrollador apagado',CFG.devMode?'El estilo pixel queda desbloqueado para tus pruebas.':'Los temas vuelven a su estado normal (bloqueado, vista previa o desbloqueado).');showSettings();};
   b.appendChild(v);}catch(e){console.warn('v22c ajustes',e);}};}
