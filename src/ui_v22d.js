@@ -2,7 +2,9 @@
    Cierra las 3 pruebas de la dirección de arte (sección 9e): 1) filtro pixel del mapa (v2.2a), 2) interfaz pixel integral (v2.2b–v2.2c),
    3) esta vista de ciudad. No toca el motor ni el guardado de la partida: solo LEE la provincia (población, PIB por persona, felicidad,
    desarrollo y terreno TRN) y dibuja un barrio con semilla fija, así la misma provincia siempre se ve igual.
-   · Se abre con «🏙️ Ciudad pixel» en la ficha de abajo del mapa (#selInfo). Ajustes → «🏙️ Vista ciudad pixel (prueba 3)» la oculta (CFG.px3=0).
+   · v2.3d: «🏙️ Ciudad» (antes «Ciudad pixel») en la ficha de abajo del mapa (#selInfo) abre la pestaña de ciudades de la ficha del lugar
+     (showPlace(rid,'ci'), la misma que al tocar una ciudad); la vista pixel se abre desde ahí («🧱 Vista pixel», ui_v23d.js).
+     Ajustes → «🏙️ Vista ciudad pixel (prueba 3)» oculta ese botón (CFG.px3=0); el acceso «🏙️ Ciudad» queda siempre.
    · Dibujo: Canvas 2D a baja resolución (sin suavizado), escalado entero en píxeles del equipo con image-rendering:pixelated → nítido en iPhone 11.
    · Capas precalculadas (suelo, edificios, luces) y animación ligera (autos, humo, agua) a ~10 cuadros por segundo.
      Con el mapa ligero (Toshiba), «reducir movimiento» o Animaciones = No se dibuja una sola imagen fija.
@@ -120,15 +122,17 @@ function ctyShow(rid,ci){if(!G||!P||!rid||!RG[rid]||!G.regions[rid])return;ctySt
 window.addEventListener('resize',()=>{try{if($('ctyC'))ctyFit();}catch(e){}});
 document.addEventListener('visibilitychange',()=>{try{if(document.hidden)ctyStop();else if($('ctyC')&&CTY.st){ctyStop();ctyFrame();}}catch(e){}});
 {const _hm=hideModal;hideModal=function(){ctyStop();return _hm.apply(this,arguments);};}
-/* botón en la ficha de abajo del mapa (junto a «📋 Ficha del lugar») */
-{const _rs=renderSel;renderSel=function(){_rs();try{if(CFG.px3===0)return;const box=$('selInfo');if(!box||!G||!G.sel||!RG[G.sel]||!P)return;
+/* botón en la ficha de abajo del mapa (junto a «📋 Ficha del lugar»). v2.3d: un solo acceso, «🏙️ Ciudad», que abre la pestaña de ciudades
+   con la ciudad elegida (o la más poblada de la provincia); la vista pixel se abre desde esa pestaña (ui_v23d.js) */
+{const _rs=renderSel;renderSel=function(){_rs();try{const box=$('selInfo');if(!box||!G||!G.sel||!RG[G.sel]||!P)return;
+  const cs=typeof citiesOf==='function'?citiesOf(G.sel):[];if(!cs.length)return;
   let d=box.querySelector('.plfx');if(!d){d=document.createElement('div');d.className='mini-actions plfx';box.appendChild(d);}
-  const b=document.createElement('button');b.className='btn';b.textContent='🏙️ Ciudad pixel';b.onclick=()=>{const ci=PL&&PL.rid===G.sel?PL.city:null;
-    const cs=ci==null&&typeof citiesOf==='function'?citiesOf(G.sel):[];let best=ci;if(best==null&&cs.length)best=cs.reduce((a,i)=>CITIES[i][2]>CITIES[a][2]?i:a,cs[0]);ctyShow(G.sel,best);};
+  const b=document.createElement('button');b.className='btn';b.dataset.plcy='1';b.textContent='🏙️ Ciudad';b.onclick=()=>{const rid=G.sel;const ci=PL&&PL.rid===rid&&PL.city!=null&&cs.includes(PL.city)?PL.city:null;
+    const best=ci!=null?ci:cs.reduce((a,i)=>CITIES[i][2]>CITIES[a][2]?i:a,cs[0]);PL.rid=rid;PL.city=best;PL.tab='ci';showPlace(rid,'ci');};
   d.appendChild(b);}catch(e){}};}
 /* Ajustes: mostrar u ocultar el botón de la prueba 3 */
 {const _ss=showSettings;showSettings=function(){_ss();try{const b=$('sheetIn');if(!b||b.querySelector('[data-px3]'))return;const on=CFG.px3!==0;
   const x=document.createElement('div');x.className='item';x.style.display='block';
-  x.innerHTML=`<div class="t">🏙️ Vista ciudad pixel (prueba 3)</div><div class="s">Barrio en pixel isométrico generado con los datos de cada provincia. Se abre con «🏙️ Ciudad pixel» debajo del mapa.</div><div class="chips" style="margin-top:6px"><button data-px3="1" class="${on?'on':''}">Mostrar</button><button data-px3="0" class="${on?'':'on'}">Ocultar</button></div>`;
+  x.innerHTML=`<div class="t">🏙️ Vista ciudad pixel (prueba 3)</div><div class="s">Barrio en pixel isométrico generado con los datos de cada provincia. Se abre desde «🏙️ Ciudad» debajo del mapa, en la pestaña de ciudades.</div><div class="chips" style="margin-top:6px"><button data-px3="1" class="${on?'on':''}">Mostrar</button><button data-px3="0" class="${on?'':'on'}">Ocultar</button></div>`;
   const ref=b.querySelector('#cfPxUI')||b.querySelector('#sMfx');(ref?ref.after(x):b.appendChild(x));
   x.querySelectorAll('[data-px3]').forEach(y=>y.onclick=()=>{CFG.px3=+y.dataset.px3;saveCfg();try{renderSel();}catch(e){}showSettings();});}catch(e){console.warn('v22d ajustes',e);}};}
