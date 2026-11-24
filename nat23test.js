@@ -7,6 +7,7 @@
 // alimentos terminados en el mundo y especies en riesgo.
 // v2.3c: quita=v23c compara la v2.3b contra la v2.3c (conservación, contaminación, sequía en granjas, avance); quita=zzzz no quita nada
 // (las dos corridas son la versión actual: sirve para medir el ruido A/A). Muestra también la contaminación de empresas.
+// v2.4a: quita=v24a compara la v2.3c contra la v2.4a (logística); muestra flujos por modo, el término «nlog» en Comercio minorista y la eficiencia de los transportistas.
 const fs=require('fs'),vm=require('vm');const D=__dirname+'/';const args=Object.fromEntries(process.argv.slice(2).map(a=>a.split('=')));
 const QUITA=new RegExp(args.quita||'v23');   // v2.3b: quita=v23b compara contra la v2.3a (sin quita: contra la versión sin naturaleza)
 const Y=+(args.years||10),nid=args.c||'MEX',mode=args.mode||'realista';const seeds=(args.seeds||'1,2,3,4').split(',').map(Number);
@@ -38,6 +39,11 @@ function run(seed,withNat){const files=withNat?all:all.filter(f=>!QUITA.test(f))
       proyectos:typeof ntPjTick==='function'?(()=>{const c={hechos:0,obra:0,nat:{},n:0};for(const r in G.np||{})for(const k in G.np[r]){const e=G.np[r][k];c.hechos+=e.l;if(e.q)c.obra++;c.nat[k]=(c.nat[k]||0)+e.l;}return JSON.stringify(c);})():'-',
       especies:typeof ntSpecies==='function'?(()=>{let t=0,r1=0,r2=0;for(const r in G.regions){const L=ntSpecies(r);L.forEach(s=>{t++;if(s.st===1)r1++;if(s.st===2)r2++;});}return t+' (riesgo '+r1+', peligro '+r2+')';})():'-',
       contaminacion:typeof ntCont==='function'?(()=>{let n=0,s=0;for(const r in G.regions){const c=ntProv(r).cont;if(c&&c.raw<=-.5){n++;s+=c.v;}}return n+' provincias, media '+(n?(s/n).toFixed(2):0);})():'-',
+      logistica:typeof lgFlows==='function'?(()=>{const F=lgFlows();const by={};F.forEach(f=>{const k=f.m+(f.dom?'_interno':'');by[k]=(by[k]||0)+1;});
+        const T=Object.values(G.nations).filter(n=>n.alive).map(n=>lgSect(n)).filter(Boolean).map(z=>z.r);const vis=T.filter(v=>v>=.5||v<=-.5);
+        const E=Object.values(G.lg.ai).map(a=>a.e);let dl=0,ls=0;Object.values(G.lg.ai).forEach(a=>{dl+=a.dl;ls+=a.ls;});
+        return {flujos:by,paises_con_termino:vis.length+' de '+T.length,termino_min_media_max:[Math.min(...T),T.reduce((a,b)=>a+b,0)/Math.max(1,T.length),Math.max(...T)].map(v=>+v.toFixed(2)).join(' / '),
+          eficiencia_ia:Math.min(...E).toFixed(2)+'–'+Math.max(...E).toFixed(2),retrasos_perdidas_ultimo_anio:dl+' / '+ls,mes:G.lg.t};})():'-',
       escasez:ntRes('${nid}').filter(e=>e.pr>0||e.st<2).map(e=>e.k+':'+NT_RST[e.st]).join(' '),ms_3422_prov:tP,nan:A.concat(W,F).filter(v=>!isFinite(v)).length};})()`);
   return o;}
 const R={con:[],sin:[]};const f2=v=>+v.toFixed(2);

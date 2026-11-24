@@ -16,6 +16,7 @@ está en `CONTEXTO_IA.md` (secciones 3, 7, 9 y 10); este archivo es el resumen c
 | `a2cc7ac` | v2.3d | Horizontal con mapa a pantalla completa; reloj, Personaje, País y noticias como burbujas; bolsa solo en su pestaña; activos elegibles en Ajustes; botón «Ciudad». |
 | `0c04aca` | v2.3e | Pestañas más simples; riel izquierdo plegable; pantalla completa en horizontal (metas de app web); mapa con umbral de 7 px, zoom en los dedos, inercia y sensibilidad en Ajustes. |
 | `26d332b` | — (textos) | Traducción de los textos nuevos de v2.3a a v2.3e a los 13 idiomas (422 claves; sin cambiar claves existentes). |
+| (este commit) | v2.4a | Fase 6, parte 1: empresas de transporte (terrestre, 🚢 naviera, ✈️ carga aérea) con flota, rutas y costo operativo; 20 transportistas de la IA; red de envíos anual; capa 🚢 Envíos en el mapa (lienzo propio, sin librerías); pantalla 🚚 Logística; flete de las importaciones como efecto pequeño. Textos solo en español. |
 
 ## Decisiones tomadas por el dueño
 
@@ -28,6 +29,7 @@ está en `CONTEXTO_IA.md` (secciones 3, 7, 9 y 10); este archivo es el resumen c
 
 - v2.3a: PIB mundial +0.2 % (dentro del ruido de ±0.36 %).
 - v2.3b: PIB +0.16 %, recesiones −0.8 %, crisis +4.6 % (dentro del ruido).
+- v2.4a: 60 semillas. La primera versión dio PIB −0.45 % (A/A −0.06 %): fuera del ruido; se corrigió (no llenar la caché de la naturaleza en `ageUp`, sin baja en bolsa). Final: PIB +0.03 % (A/A +0.37 %), recesiones −0.2 %, crisis +1.0 %, salud ponderada −0.66 (A/A +0.66), felicidad −0.03: dentro del ruido.
 - v2.3c: 60 semillas en dos tandas. La primera (semillas 1–30) dio PIB −0.64 %, fuera del ruido de +0.15 %; la segunda (31–60) dio +0.79 %. Con 60 semillas: +0.07 %, dentro del ruido. **Pendiente de vigilar** si el PIB mundial sale fuera del ruido en pruebas más largas.
 
 ## Pendientes
@@ -45,8 +47,11 @@ está en `CONTEXTO_IA.md` (secciones 3, 7, 9 y 10); este archivo es el resumen c
 - Corregir «personas» en zh, ja y ko (traducción antigua mala); cambia la clave en el código.
 - Dirección del árabe en los textos nuevos.
 
+### Traducción (v2.4a)
+- Traducir los ≈ 80 textos nuevos de la v2.4a a los 13 idiomas (lista en `CONTEXTO_IA.md`, sección 10, «v2.4a»).
+
 ### Ruta del juego (siguiente)
-- **Fase 6: Logística** (estimado 12–16 h). Pendiente de planificar con el dueño.
+- **Fase 6: Logística**: parte 1 hecha en v2.4a. Parte 2: agencias y organizaciones de comercio, aduanas, puertos y aeropuertos como obras, bloqueos y estrechos cerrados, eventos de envíos. Probar en iPhone 11 y Toshiba la capa 🚢 y la pantalla 🚚.
 - **Fase 7: Política y mundo** (estimado 28–36 h).
 - Pendientes menores de la fase 5: que la IA pague obras con su presupuesto; que la sequía afecte a las empresas agrícolas de la bolsa; ríos y lagos con nombre cuando haya datos de Natural Earth; avances científicos adicionales; íconos propios para 🚰 y 🔬; que la contaminación afecte a las empresas de la IA del mercado.
 
