@@ -5,6 +5,7 @@
    - Más transparentes: el fondo de la gota deja ver el mapa; el relieve es un degradado de cristal con borde de luz.
    - Relieve 3D: brillo especular más nítido arriba a la izquierda y refracción leve abajo.
    - Más rápidas: transiciones de resorte más cortas (el mismo rebote, menos espera).
+   - Barra de submenús (.shx) y métricas (.v4m): cápsula de cristal, Atrás con tinte propio, activo con brillo.
    - Burbujas superiores (reloj, Personaje, País, noticias): mismo cristal.
    - Modo ligero (html.v4lt, mapa en Canvas 2D de la Toshiba): sin desenfoque de fondo ni brillos caros.
    Desenfoque (backdrop-filter) pequeño y solo fuera del modo ligero: el iPhone 11 lo soporta con pocas gotas. */
@@ -32,6 +33,15 @@ html.v3m body.land .bottom>.in>.nav:active,.v4d:active{transform:scale(.9)!impor
 /* burbujas superiores (reloj, Personaje, País, noticias): mismo cristal que el riel */
 html.v3m #v3top>.v3bb,html.v3m #v3top #tick.v3dot{border:1px solid var(--v5rim)!important;background:var(--v5gr),var(--v5gb)!important;box-shadow:var(--v5sh)!important;transition:transform .18s cubic-bezier(.3,1.5,.5,1),box-shadow .16s ease}
 html.v3m #v3top>.v3bb:active{transform:scale(.92)}
+/* barra de submenús (.shx): una cápsula de cristal que contiene las opciones; «‹ Atrás» con tinte propio */
+html.v3m body.land .shx{position:relative;padding:3px;border-radius:20px;background:var(--v5gb);border:1px solid var(--v5rim);box-shadow:inset 0 1px 1px rgba(255,255,255,.18),0 3px 8px rgba(0,0,0,.2);width:max-content;max-width:100%;margin:-2px 0 8px}
+html.v3m body.land .shx button{border:1px solid var(--v5rim)!important;background:var(--v5gr),var(--v5gb)!important;box-shadow:var(--v5sh)!important;transition:transform .18s cubic-bezier(.3,1.5,.5,1),box-shadow .16s ease,border-color .16s ease}
+html.v3m body.land .shx button:active{transform:scale(.93)}
+html.v3m body.land .shx button.on,html.v3m body.land .shx button[aria-current=true]{border-color:var(--v4on)!important;box-shadow:0 0 0 1px var(--v4on),0 0 10px var(--v4glow),var(--v5sh)!important;transform:scale(1.04)}
+html.v3m body.land .shx .bk{background:linear-gradient(180deg,rgba(255,255,255,.16),rgba(255,255,255,.02)),var(--v5gb)!important;color:var(--mut,#b9c4d2)!important}
+/* métricas de la barra (.v4mt): mismas gotas, más transparentes */
+html.v3m body.land .v4m{background:var(--v5gr),var(--v5gb)!important;border:1px solid var(--v5rim)!important;box-shadow:var(--v5sh)!important;transition:transform .18s cubic-bezier(.3,1.5,.5,1)}
+html.v3m body.land .v4m:active{transform:scale(.96)}
 /* con desenfoque (fuera del modo ligero): ligero y sin costo en el iPhone */
 html:not(.v4lt) .v4d,html.v3m:not(.v4lt) body.land .bottom>.in>.nav{-webkit-backdrop-filter:blur(6px) saturate(1.6);backdrop-filter:blur(6px) saturate(1.6)}
 /* modo ligero (Toshiba, mapa en Canvas 2D): sin desenfoque ni reflejos extra */
