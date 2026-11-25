@@ -44,7 +44,7 @@ for(const f of fs.readdirSync(path.join(SRC,'src')).filter(f=>f.endsWith('.js')&
       if(a.type==='CallExpression'){const c=a.callee;call=c.type==='Identifier'?c.name:c.type==='MemberExpression'&&c.property?c.property.name:'';if(call)break;}}
     const tr=kind==='lit'?has(txt):(tpRx.some(r=>r.test(txt.replace(/\{(\d+)\}/g,'X$1X')))?1:0);
     const ex=kind==='tpl'?node.expressions.map(e=>code.slice(e.start,e.end).slice(0,80)):[];
-    out.push({loose,f,line:node.loc.start.line,kind,nx,ex,call,key,tr,len:plain.length,words:plain.split(' ').length,t:txt.slice(0,300)});
+    out.push({loose,f,line:node.loc.start.line,kind,nx,ex,call,key,tr,len:plain.length,words:plain.split(' ').length,t:txt});
   });
 }
 process.stdout.write(JSON.stringify(out));

@@ -121,7 +121,7 @@ f81838	T	Apruebas el curso y obtienes la {0}. Tu fuerza como DT: {1} (máximo {2
 768bb4	D	⚽ Ser dueño de un club de fútbol
 959325	D	⚽ Tu club de fútbol
 e956dc	D	Compra un club o funda uno
-b4d114	D	.ft7t{width:100%;border-collapse:collapse;font-size:12px;font-variant-numeric:tabular-nums}.ft7t td,.ft7t th{padding:3px 4px;border-bottom:1px solid #1f2b3a;text-align:left}.ft7t th{color:var(--mut);font-weight:600;font-size:11px}.ft7t td.r,.ft7t th.r{text-align:right}\n.ft7t .s{font-size:11px;color
+f20719	D	.ft7t{width:100%;border-collapse:collapse;font-size:12px;font-variant-numeric:tabular-nums}.ft7t td,.ft7t th{padding:3px 4px;border-bottom:1px solid #1f2b3a;text-align:left}.ft7t th{color:var(--mut);font-weight:600;font-size:11px}.ft7t td.r,.ft7t th.r{text-align:right}\n.ft7t .s{font-size:11px;color:var(--mut)}[data-ftc]{cursor:pointer}span[data-ftc]{text-decoration:underline dotted rgba(255,255,255,.35)}\n.ft7sw{display:flex;flex-wrap:wrap;gap:5px;margin:4px 0 8px}.ft7sw button{width:28px;height:28px;border-radius:50%;border:2px solid #334155;padding:0}.ft7sw button.on{border-color:#f2c14e;box-shadow:0 0 0 2px #f2c14e55}\n.ft7chips{display:flex;flex-wrap:wrap;gap:4px;margin:4px 0}.ft7chips span{font-size:11.5px;border:1px solid var(--line);border-radius:10px;padding:2px 7px}\n.ft7chips span.ok{border-color:#3ccf8e;color:#3ccf8e}.ft7chips span.no{border-color:#ff7b6b;color:#ff7b6b}
 0e4333	D	Edad
 3488d6	D	Formación habitual
 3c3d15	D	Récord (G-E-P)

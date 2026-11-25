@@ -1,0 +1,219 @@
+cc7c7f	% per year
+5d22b6	Gulf Airports
+943607	Aérocontinental
+1f7a4f	Esc
+80c9bd	% of GDP
+4241e5	Technologies
+7db3cf	Industrial
+79d127	of glass
+a07c57	of salt
+b1f6e5	with
+9f3a7f	of your country
+95ea01	5 years
+46fb8b	Land
+ac6d75	Sea
+b8b49d	cargo planes
+c92f48	Air
+0c680d	Shipping line
+0331b6	Air cargo
+167498	A shipping line needs a province with a coast for its port.
+1ae2bc	Caminos del Norte
+33ab9a	Seda Exprés
+90f620	Volga Logística
+9f96de	EuroRuta
+312700	IndoCarga
+a1b23c	TransAndes
+023528	Mareas del Pacífico
+afd0b8	Atlántica Naviera
+aff5a7	Ruta del Índico
+598a17	Antípodas Shipping
+a92834	Naviera del Golfo
+251146	Ala del Pacífico
+6b04dc	Cóndor Carga
+d1d723	You drop this route: another carrier will cover it.
+4b58b9	You take the route: your fleet will carry those shipments.
+bc156c	Another of your companies already covers this route.
+b27e58	Airport
+fafbf1	More flights: tourists and fast cargo; +0.3 % growth per level you build
+365ca1	Only in capitals, provinces with a city of 500 thousand people or more, or with 2 million inhabitants.
+916c69	It already has the largest airport (level 3).
+4b6b23	UNWTO and World Bank (ST.INT.ARVL, ST.INT.RCPT.CD), 2019, approx.
+39a9d6	Low tax
+86073e	Strict
+a68851	Open
+bbd254	No tax
+d9e40a	High tax
+183290	; +0.5 stability per year
+550322	Medium
+aeef45	Small
+28645e	National Oil
+edeb9f	National Cargo Airline
+f406b3	State Railways and Freight
+0db718	State Construction Company
+254cf5	State Hotels
+28e800	State Urban Transport
+799715	State Industries
+7da646	National Development Bank
+15dfd6	State Livestock
+30efee	Welfare Pharmacies
+4b24e3	State Clinics
+596014	State Technologies
+934a2c	State Housing
+bcee33	State Farms
+4b3d36	State Technical Schools
+7ebf93	Welfare Shops
+b744d9	State Digital Studio
+c95c37	State Post and Digital Commerce
+feace3	State Media Agency
+82fe95	Unknown line of business.
+94ef77	The country's economy is too small.
+70b177	The country has no oil or gas.
+947c24	The country has no mineral deposits.
+75b16d	The country needs more development (universities and technicians) for this line of business.
+a7da06	A shipping line needs a coast.
+8b762c	state-owned
+dc14f8	its province
+033ffd	You already have a state company in this line: invest in it.
+73d7bb	There is no suitable province.
+d4a13f	You already cut this company this year.
+051254	Your country has no stock exchange.
+2924eb	No exchange.
+30281d	Already listed.
+d2c515	Only a company with profits can go public.
+2f24bb	Aerospace
+389140	Transport
+43e93c	Public Utilities
+84d2bd	Mining
+9843b2	Financial
+bdb14a	Media
+f9ba98	Telecom
+0c55b4	Industries
+1310a4	Technologies
+18dcea	Semiconductor
+18fdc5	Utilities
+2f2f07	Luxury
+3703cd	Health
+437bcb	Energy
+7a2c34	Logistics
+925dd3	Retail
+97f3d6	Motors
+bd32ee	Foods
+bd91f0	Financial
+da33e1	Construction
+e4fdcd	Aerospace
+faabcf	Mining
+ac9b53	uses a government share
+51ca89	🌿 Nature and resources
+488a86	protected area
+559cad	protected areas
+f746cf	Import freight
+c89d74	📦 Shipment lost this month
+15e809	automatic assignment
+3c86ab	Fleet
+aa9a70	Routes
+dd85ae	chosen by you
+35b09f	rises with reputation
+75cfed	per month (fuel, wages and rent)
+7f0d0c	Operating cost
+4df5b8	cost reputation and cash
+72405c	Delays and losses
+b80450	On-time shipments
+3c276e	Carriers
+66d405	Your country's network
+0ec38f	no imports in the network
+e7294a	Network efficiency
+97fd61	Import dependence
+df59a8	of what it consumes in resources
+7b2233	Shipments
+310ee0	Freight
+94573b	Logistics
+00e497	this year
+c534c4	Cargo per year
+623773	Shipments (tap to show)
+86eb30	Shipments (tap to hide)
+1041a0	Everything needed for a good to travel from where it is produced to where it is used: transport, warehouses, ports, customs and the information that coordinates them.
+c916db	The cost of moving a cargo. It is added to the price of what is imported: that is why the same good costs more far from where it is produced.
+682b2b	🚚 Your company's logistics
+72fe85	Your company's logistics
+a21619	A transport company sells capacity: trucks, ships or planes that move other people's cargo. It earns more when its fleet is full and its shipments arrive on time; delays and losses cost clients and insurance.
+151430	🚚 Logistics
+b2284e	About 80 % of world trade by volume travels by sea; planes carry little weight but a lot of value. Freight is added to the price of everything imported.
+c1e471	About 80 % of world merchandise trade, measured by volume, travels by sea.
+e3e451	The Suez Canal saves a ship between Asia and Europe about 7,000 km compared with sailing around the Cape of Good Hope.
+e40836	Suez Canal Authority
+097afc	Shipments on the map: visible (tap to hide)
+774018	Shipments on the map: hidden (tap to show)
+7a66fc	Back to:
+bd281d	Back two screens:
+0a5fa7	per month
+459b30	days this year
+602c3c	Exchange
+74b095	Your life
+addfa4	Others
+a61197	Hide shipments
+ee796a	See shipments
+ed476b	Logistics network
+399313	Activity
+28f064	State companies
+5975f6	Air cargo and oil
+9c0d3d	Only the ruler builds in provinces of its own country.
+2d47a7	✈️ Air network
+b4de1f	Airports
+604b54	100 % = departure airports
+a8cac3	Air connectivity
+d53e85	Air routes
+3bd28d	raises or lowers the flight
+9db502	Air freight (1,500 px)
+ef6375	Oil against its trend
+5a4421	Transit to
+83f8d3	Sales this year
+e0e325	Employment
+03ed26	Annual budget
+13040d	investment and maintenance
+68ffc6	To the treasury last year
+d35fe9	Contribution to GDP
+883839	Privatization
+f5ef97	Closure
+3f403f	State company
+72ddfc	You already have one in this line.
+c41dc8	Tourist spending
+efc70a	Arrivals per year
+3b0035	Weight in the economy
+9a65f3	Place in the world
+9b65d8	Spending per visitor
+f41787	by arrivals
+b523f8	Effect of policies
+dca9ab	campaign, visa, tax, airports and protected areas
+243251	📣 Campaign
+3afae2	no campaign
+528aa8	💵 Tourist tax
+f66b83	🏞️ Protected areas
+436eb1	Tourism campaign
+b6a333	Visa
+8c58b2	Tourist tax
+8818e6	Tourists per year
+12a0ba	Of the GDP of
+827139	Its sector
+6e4c06	Companies on the exchange
+f8b117	A company owned by the government. Its profit goes to the treasury and its loss is paid by the treasury; it can be sold to private owners (privatize) or listed on the exchange.
+9671a3	Privatize
+d968e7	Sell a state company to private owners. The government receives money once and stops receiving (or paying) its result each year.
+c76b37	International tourism
+fa7584	Visitors who come from another country and spend on hotels, restaurants, transport and shopping: for the economy it is like an export.
+69b3bb	🏛️ Investment office
+de4490	Investment office
+dfc0bb	Many countries have state companies in oil, electricity, development banks or transport. They can provide jobs and strategic services, but if they lose money the treasury pays.
+233acd	Tourism office
+80b21c	🏖️ Tourism office
+b6cb25	In 2019 about 1,460 million international tourists arrived in the world and spent around 1.5 trillion dollars (UNWTO). France, Spain and the USA receive the most visitors; the USA earns the most.
+ada182	Planes carry less than 1 % of the weight of world trade, but about a third of its value: the urgent, the perishable and the expensive. Fuel is one of its largest costs.
+b8cb2c	Air network
+6ff790	🏛️ State enterprise and tourism
+939ed6	UNWTO, World Tourism Barometer
+ae9de3	France is the country that receives the most international tourists (about 89 million in 2019), but the USA is the one that earns the most from tourism.
+96a93b	Air transport carries less than 1 % of world trade by volume, but about a third of its value.
+b5dfbe	Each year countries that export a resource supply those that import it, and provinces with surplus harvests supply those that cannot feed themselves. Freight on imports depends on distance, mode, the efficiency of carriers against the world average and war; if it rises, the health of the country's retail trade and industry falls a little.
+3c0b44	Fleet = branches × units (12 trucks, 2 ships or 1 plane per branch); each branch covers one route in the network (up to 8). With all your routes covered demand rises up to +12 %; without routes it falls 8 %. Each month each route can be delayed (~3.5 %) or lose the shipment (~0.5 %; more with low reputation or war): a delay costs 0.3 reputation; a loss, 1.5 and 3 % of the month's sales.
+6fef37	The treasury puts up the capital (0.03 %, 0.1 % or 0.3 % of GDP) and an annual budget (0 %, 3 % or 6 % of the capital; 70 % becomes capital and moves efficiency). Sales = capital ÷ capital intensity of the line × demand (sector health and province prosperity) × √efficiency. The result goes to the treasury. It moves the health of its sector (focused on profitability), employment and its province's GDP (value added × 0.5). After 2 years with a margin below −5 % it goes bankrupt.
+8be724	Arrivals = 2019 figure (approx.) × world growth × policies × conditions (war, sanctions, stability). They are split by province according to their attractions (city, capital, coast, nature, airport, protected area). Your hotels, bars and jewellers sell according to the tourist intensity of their province against its country (0.8–1.3) and the policies (0.85–1.2).
+21cbe6	Base airports in capitals and cities of 1 million or more (level 1–3) and the ones you build. Routes by gravity (population × income ÷ distance). Air freight = 10 % + 4 % per distance, × oil price against its trend. More connectivity than the starting one makes imports cheaper in retail and luxury, and attracts tourists.
