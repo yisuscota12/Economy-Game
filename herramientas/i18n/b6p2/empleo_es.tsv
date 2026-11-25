@@ -33,7 +33,6 @@ fec8e2	D	Productor con tierras propias
 05f095	D	Oficina estatal de {C}
 2caf0b	D	Diplomado en administración pública
 47dab2	D	Delegación {C}
-847b37	D	Gobierno
 8e7185	D	Ayuntamiento de {C}
 9960c9	D	Auxiliar
 65d419	D	Policía municipal de {C}
@@ -86,9 +85,6 @@ f29e25	D	Hospital General de {C}
 824b8c	D	Nocturno
 8fa6b9	D	Rotativo (cambia cada semana)
 af15e6	D	Mixto
-86df48	D	Muy alto
-bb90d1	D	Bajo
-f46edd	D	Alto
 04251e	D	Lo normal
 e18540	D	Horas extra
 f58f80	D	Lo mínimo
@@ -211,6 +207,7 @@ c84cc5	D	Próxima evaluación en 1 mes.
 2708e1	D	Cierra en 1 mes.
 6f1419	T	Cierra en {0} meses.
 beacbe	T	Probabilidad de quedarte con el puesto: {0} %.
+472b97	T	vence en {0} meses
 aa7d56	D	vence en 1 mes
 2062de	D	espera un año
 0c5269	D	sin goce de sueldo (empleo informal)

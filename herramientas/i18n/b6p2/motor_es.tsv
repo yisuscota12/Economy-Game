@@ -803,11 +803,380 @@ cbf9f2	T	Salir de noche ({0})
 99c6c4	D	Amaneces con resaca: −2 salud.
 c7f562	D	Bailas, ríes y llegas tarde a casa.
 f211a1	D	Sales de noche.
+13860a	D	Abre sucursales cuando hay caja y la empresa vende a tope.
+31385f	D	Paga deudas primero y guarda caja para las crisis.
+9aa21f	D	Eficiencia
+a419b8	D	Recorta costos: la utilidad sube con la calidad del director.
+a31d55	T	Grupo {0}
+bfb596	T	{0} dirige {1} ({2}, capacidad {3}). Sueldo: {4} al año, a cargo de las empresas del grupo.
+962793	T	Despides a {0}: la indemnización ({1}) sale de la caja de las empresas del grupo.
+4c1e09	T	Barres la caja de {0}: {1} pasan a tu dinero. Cada empresa conserva 3 meses de costos.
+84f001	T	Ninguna empresa de {0} tiene caja de sobra (cada una necesita 3 meses de costos).
+6f31ff	D	Se necesitan al menos 2 empresas en el grupo.
+cfbdb2	D	No hace falta mover caja: ninguna empresa la necesita o ninguna tiene de sobra.
+a4c569	T	Préstamo interno: {0} pasa {1} a {2}{3}.
+ee0309	T	, que paga {0} de deuda bancaria
+96cf14	T	Disuelves {0}: sus empresas vuelven a depender de ti.
+90205f	T	Te faltan {0} para la auditoría.
+653aca	T	La auditoría de {0} ({1}) encuentra una deuda oculta de {2} y resultados inflados: las ventas reales son {3} % de lo que declaraba el vendedor.
+07432e	T	La auditoría de {0} ({1}) confirma las cifras del vendedor: no hay deudas ocultas.
+774901	T	El vendedor rechaza tu oferta por {0} y la retira del mercado.
+d038f3	T	El vendedor rechaza {0} por {1}. Puedes volver a intentarlo una vez más.
+b0d7b3	T	Compras {0} por {1}{2}.
+fcaff6	T	(pagas {0}; {1} de crédito quedan como deuda de la empresa)
+fa84fb	T	Al revisar los libros descubres una deuda oculta de {0}: no hiciste auditoría.
+a80a45	D	Esta empresa no se puede comprar por OPA.
+b447c9	D	Ya controlas esta empresa.
+6cba2b	D	Ya lanzaste una oferta por esta empresa este año: los accionistas no aceptan otra hasta el próximo.
+5fc942	T	Los accionistas de {0} rechazan tu oferta de {1} por acción. Pagas {2} a los asesores y la acción sube por la especulación.
+cc2471	T	Tomas el control de {0}: compras {1} acciones a {2} ({3} con comisiones). Ahora eliges su estrategia y su director.
+3da0c1	D	Reinvierte casi todo: las utilidades crecen más rápido y reparte menos dividendos.
+7a76c3	D	Crecer
+da1738	D	Equilibrada
+e65e56	D	Sigue como estaba.
+908b77	D	Reparte más: dividendos mucho mayores, pero crece menos.
+94f59e	D	Recorta costos: utilidades algo mayores y la acción se mueve menos.
+b94493	D	Dividendos
+026517	T	{0} cambia de estrategia: {1}.
+d6c94d	T	{0} es la nueva directora o director general de {1} (capacidad {2}).
+c33cbb	T	Bajas del 50 % de las acciones de {0}: pierdes el control de la empresa.
+1662ca	T	La quiebra de {0} deja sin empleo a {1} personas en {2}; los bancos de {3} pierden {4} en créditos que no se pagarán.
+737a53	T	Al cerrar {0}, {1} personas se quedan sin empleo en {2} y la demanda de la provincia baja unos meses.
+37b68c	T	{0} se retira: no acepta pagar más por {1}.
+362d66	T	{0} rechaza pagar más y baja su oferta a {1}. Puedes aceptarla o intentarlo una vez más.
+ed070a	T	({0} % más que su oferta)
+f16144	T	Vendes {0} a {1} por {2}{3}. La empresa sigue operando con su nuevo dueño.
+c33869	D	Ese país ya no existe.
+ff7f4c	T	Trámites de inversión extranjera: {0}.
+bf63fc	T	🌐 Contagio: la crisis bancaria de {0} golpea a los bancos de {1}.
+3de1d0	T	📉 {0} pierde su empleo en {1}: el sector está en {2}/100.
+829b26	T	🏛️ {0} se queda sin empleo en el gobierno: la salud fiscal está en {1}/100.
+684779	T	📈 {0} recibe un aumento: a {1} le va bien ({2}/100).
+6b921c	T	📈 {0} recibe un aumento: al gobierno le alcanza (salud fiscal {1}/100).
+068e68	T	💼 {0} consigue empleo en el gobierno después de {1} meses.
+a1fcf1	T	💼 {0} consigue empleo en {1} después de 1 mes.
+d17698	T	💼 {0} consigue empleo en {1} después de {2} meses.
+e2a88b	T	💼 {0} consigue empleo en el gobierno después de 1 mes.
+7cf003	T	Le das {0} a {1} mientras busca empleo.
+951e84	T	Ayudar con dinero ({0})
+d81819	D	+Relación, mientras busca empleo
+cffffe	T	📉 El gobierno recorta plazas: su salud fiscal está en {0}/100.
+d1bded	T	📉 {0} recorta personal: {1} está en {2}/100.
+572d28	T	⏸️ {0} congela los aumentos: {1} está en {2}/100 y se revierte tu aumento de {3} %.
+a2e72c	T	⏸️ El gobierno congela los sueldos públicos: su salud fiscal está en {0}/100 y se revierte tu aumento de {1} %.
+56b32e	T	📈 El buen momento de {0} ({1}/100) suma {2} % a tu sueldo.
+b57143	T	📈 La buena salud fiscal del gobierno ({0}/100) suma {1} % a tu sueldo.
+dacfdc	D	v21c evaluación
+2d4e49	T	😠 Malestar en {0}: sueldos bajos o exceso de trabajo dañan su reputación.
+da414d	D	v21c año
+129ff9	D	Selva tropical
+bba34c	D	Sabana
+5013cb	D	Estepa
+732b6a	D	Pradera
+bdff57	D	Bosque subtropical
+f25d99	D	Bosque templado
+ffa029	D	Taiga
+16ee1f	D	Escaso
+8071ef	D	Exporta
+db197e	D	Autosuficiente
+e38b71	D	Depende de importaciones
+432f1e	D	Jaguar
+5e8269	D	Leopardo
+d03276	D	Casuario
+da0d2b	D	Tigre
+95f1b9	D	Ave del paraíso
+c745ea	D	Guacamaya
+ea6b53	D	Loro gris
+eff2ee	D	Cálao
+00fa82	D	Chimpancé
+6c7f95	D	Mono aullador
+b34aa5	D	Canguro arborícola
+d41c16	D	Orangután
+0f7174	D	Rana venenosa
+5e5557	D	Rana voladora
+e1efe2	D	Rana arborícola
+26e570	D	Ceiba
+842f73	D	Dipterocarpo
+b2e0fa	D	Caoba africana
+f6e842	D	Orquídeas
+296747	D	Canguro rojo
+66e73c	D	Oso hormiguero
+7355df	D	Elefante
+a78f03	D	Elefante asiático
+07663e	D	Ciervo axis
+7767af	D	Dingo
+87c9a1	D	Venado de cola blanca
+ab8762	D	Jirafa
+bbd8e9	D	Venado de las pampas
+2f2e1a	D	Águila audaz
+3364b1	D	León
+8dd8a2	D	Puma
+afe7d5	D	León asiático
+63e351	D	Eucalipto
+89d02c	D	Algarrobo
+97a915	D	Acacia
+fdefe7	D	Pastos altos
+10c09c	D	Guanaco
+11a4ec	D	Camello bactriano
+15cdd5	D	Coyote
+cef9ed	D	Dromedario
+64b2a2	D	Zorro del desierto
+182538	D	Diablo espinoso
+5c8fb9	D	Lagarto
+718a47	D	Lagarto de cola espinosa
+a7fa4b	D	Monstruo de Gila
+ab3e38	D	Escorpión
+41aa62	D	Saxaúl
+52e4b9	D	Spinifex
+84b442	D	Palmera datilera
+dbbc15	D	Cactus y suculentas
+3ee8ae	D	Caballo salvaje
+502507	D	Canguro gris
+f3a236	D	Berrendo
+f441ea	D	Gacela
+39e1d4	D	Águila esteparia
+5cddc1	D	Cóndor
+e5a5ba	D	Águila real
+01d844	D	Wombat
+4173da	D	Perro de las praderas
+4c19d7	D	Jerbo
+9f5bc1	D	Vizcacha
+b42eba	D	Marmota
+6750fc	D	Pasto pluma
+06ae50	D	Artemisa
+a978b3	D	Arbusto salado
+386e7f	D	Bambú
+473ace	D	Olivo silvestre
+72a06d	D	Olivo
+52cc57	D	Encino perenne
+ad9b3c	D	Alcanforero
+cb0290	D	Araucaria
+e0b77b	D	Alcornoque
+386dc7	D	Tortuga
+9900a4	D	Mariposas
+b2d6a5	D	Mariposa monarca
+d0eb80	D	Serpientes
+067c01	D	Bisonte europeo
+7c6bc4	D	Caballo de Przewalski
+d30fa9	D	Bisonte
+562c21	D	Liebre
+840fa2	D	Mara patagónica
+574c12	D	Abejas silvestres
+5e4022	D	Amapola
+7476c9	D	Girasol silvestre
+e29ecc	D	Ciervo
+07ea1a	D	Oso pardo
+5f7738	D	Huemul
+72cc14	D	Oso negro
+74ae77	D	Koala
+7e1bb2	D	Oso negro asiático
+4a5ab7	D	Búho
+1a7553	D	Zorro rojo
+0ff152	D	Roble pellín
+bd356a	D	Roble
+8a8ba7	D	Hongos del bosque
+b4e3c3	D	Abeto y pino
+219420	D	Lobo gris
+44f33d	D	Alce
+7e469d	D	Lince
+143e7f	D	Reno
+9ee0ea	D	Caribú
+623acb	D	Zorro ártico
+f99f29	D	Búho nival
+e718dc	D	Musgos y líquenes
+edcf79	D	Trucha ártica
+1288f7	D	Quebrantahuesos
+bc4168	D	Cóndor andino
+0a34fa	D	Borrego cimarrón
+5c3e16	D	Vicuña
+aef341	D	Cabra montés
+b65196	D	Íbice
+f978ae	D	Ualabí de roca
+4b12b4	D	Leopardo de las nieves
+513928	D	Equidna
+79bda5	D	Pino de montaña
+58c018	D	Edelweiss
+dc59b0	D	Flores alpinas
+21e6f9	D	Trucha
+2f021b	D	Bacalao de Murray
+40aa10	D	Dorado
+6cc5b0	D	Tilapia
+7120ca	D	Peces de río
+822f97	D	Bagre
+ec91a8	D	Carpa
+2cc076	D	En peligro
+8f12c6	D	En riesgo
+e9c0f4	D	Estable
+84479e	D	Su hábitat se convirtió en cultivos
+e25ac6	D	Contaminación de la industria
+e7247c	D	Ciudades y población ocupan su hábitat
+6b0e77	D	Ocupación militar: caza y hábitat destruido
+94a232	D	Guerra: caza furtiva y hábitat destruido
+d9f0ee	D	Sequía: falta agua y alimento
+0633ee	D	Salmuera de la desalinización
+a6f360	D	Agua desviada para riego
+b29db0	D	Una presa corta el río
+b5e7ae	D	Poca protección ambiental
+0a532b	D	+35 m³ de agua por persona al año por nivel, sacada del mar: no depende de la lluvia ni de la sequía.
+1dd77f	D	Planta desalinizadora
+b18177	D	Sistema de riego
+e981ba	D	+12 % de tierra cultivable y entre 10 % y 20 % más cosechas por nivel (más donde llueve poco). Usa 4 % del agua.
+06f739	D	Invernaderos
+f075dd	D	Alimentos para 3 % más de la población por nivel, aun en años de sequía.
+82504c	D	Presa y embalse
+8d4bbd	D	+8 % de agua, la sequía le quita la mitad de agua y +4 % de tierra cultivable con riego. Corta el río: baja la salud del ecosistema.
+52121d	D	Provincia desconocida.
+65908c	D	Ya está en construcción.
+9ddf39	D	Ya está al máximo.
+938c1d	D	Solo en provincias con costa.
+9ad5b0	D	No hay tierra que se pueda cultivar.
+f64845	D	Necesita un río grande o un valle entre cerros.
+e30d33	D	La provincia está ocupada.
+08d9cb	D	Solo en provincias de tu país.
+834945	D	No alcanza el tesoro nacional.
+1f3e92	D	No te alcanza el dinero.
+f1e2f2	D	Solo el gobierno puede construir una presa.
+4d574e	T	Empieza la obra: {0} en {1}. Tarda {2} meses{3}.
+6837b5	D	% al año cuando funcione
+ab2a3e	D	; es tu inversión privada y te dejará cerca del
+4cc082	T	🏗️ Tus proyectos de agua y alimentos te dejan {0} este año.
+c8b376	T	Necesitas tecnología civil {0} (tienes {1}).
+cb4421	D	Tu país ya tiene este avance.
+99c4a7	D	Solo el gobierno puede financiar la investigación.
+486424	T	🔬 Tus universidades logran el avance «Tecnología del agua» ({0}): los proyectos de agua, alimentos y conservación cuestan {1} % menos.
+2ee63c	D	Reforestación
+7e9be8	D	+3 de salud del ecosistema y +1.5 % de agua renovable por nivel (el bosque retiene la lluvia). Ayuda al turismo.
+53c5a2	D	Área protegida
+6f3d0c	D	+5 de salud del ecosistema y +2 % de agua renovable (cuencas protegidas). Atrae turismo. Solo la declara el gobierno.
+08d09b	D	Compensa la mitad de la contaminación de las empresas de la provincia por nivel (+1 si no hay industria: aguas negras de las ciudades).
+2a6282	D	Planta de tratamiento de aguas
+530ffe	D	No se puede reforestar un desierto o una tundra.
+216e8d	D	Solo el gobierno puede declarar un área protegida.
+d386e0	D	Minas y pozos de la provincia
+3159c6	D	Contaminación de fábricas, minas y pozos
+85e1e6	T	🌵 Sequía en {0}: {1} produce {2} % menos este año.
+b5df5e	T	🌳 Mantenimiento de reforestación, áreas protegidas y tratamiento de aguas: {0} del tesoro.
+c854e4	T	🌳 Mantenimiento de tus proyectos de conservación: {0}.
+45c896	T	⚠️ Sin dinero para el mantenimiento: {0} quedan suspendidos este año (sin efecto).
+46fb8b	D	Terrestre
+ac6d75	D	Marítimo
+b8b49d	D	aviones de carga
+c92f48	D	Aéreo
+0c680d	D	Naviera
+0331b6	D	Carga aérea
+167498	D	Una naviera necesita una provincia con costa para su puerto.
+1ae2bc	D	Caminos del Norte
+33ab9a	D	Seda Exprés
+90f620	D	Volga Logística
+9f96de	D	EuroRuta
+312700	D	IndoCarga
+a1b23c	D	TransAndes
+023528	D	Mareas del Pacífico
+afd0b8	D	Atlántica Naviera
+aff5a7	D	Ruta del Índico
+598a17	D	Antípodas Shipping
+a92834	D	Naviera del Golfo
+251146	D	Ala del Pacífico
+6b04dc	D	Cóndor Carga
+d1d723	D	Dejas esa ruta: otro transportista la cubrirá.
+f52b55	T	Tu flota cubre {0} ruta(s): abre otra sucursal o deja una ruta.
+4b58b9	D	Tomas la ruta: tu flota llevará esos envíos.
+bc156c	D	Otra de tus empresas ya cubre esa ruta.
+999eb4	T	📦 {0} pierde un envío de {1} en la ruta {2} → {3}: pagas el seguro y baja tu reputación.
+f878d3	D	v24a año
+b27e58	D	Aeropuerto
+fafbf1	D	Más vuelos: turistas y carga rápida; +0.3 % de crecimiento por nivel que construyas
+365ca1	D	Solo en capitales, provincias con una ciudad de 500 mil habitantes o más, o con 2 millones de habitantes.
+916c69	D	Ya tiene el aeropuerto más grande (nivel 3).
+4b6b23	D	OMT y Banco Mundial (ST.INT.ARVL, ST.INT.RCPT.CD), 2019, aprox.
+39a9d6	D	Tasa baja
+86073e	D	Estricto
+a68851	D	Libre
+bbd254	D	Sin tasa
+d9e40a	D	Tasa alta
+183290	D	; +0.5 de estabilidad al año
+ca3259	T	Visado para turistas: {0}. Llegadas {1}{2}.
+3f83c3	T	Tasa turística: {0}. Llegadas {1}; al tesoro {2} % del gasto de los turistas.
+550322	D	Mediana
+aeef45	D	Pequeña
+bb90d1	D	Bajo
+f46edd	D	Alto
+28645e	D	Petróleos Nacionales
+edeb9f	D	Aerolínea Nacional de Carga
+f406b3	D	Ferrocarriles y Carga del Estado
+0db718	D	Constructora del Estado
+254cf5	D	Hoteles del Estado
+28e800	D	Transporte Urbano del Estado
+799715	D	Industrias del Estado
+7da646	D	Banco Nacional de Fomento
+15dfd6	D	Ganadera del Estado
+30efee	D	Farmacias del Bienestar
+4b24e3	D	Clínicas del Estado
+596014	D	Tecnologías del Estado
+934a2c	D	Vivienda del Estado
+bcee33	D	Granjas del Estado
+4b3d36	D	Escuelas Técnicas del Estado
+7ebf93	D	Tiendas del Bienestar
+b744d9	D	Estudio Digital del Estado
+c95c37	D	Correos y Comercio Digital del Estado
+feace3	D	Agencia de Medios del Estado
+82fe95	D	Giro desconocido.
+94ef77	D	La economía del país es demasiado pequeña.
+70b177	D	El país no tiene petróleo ni gas.
+947c24	D	El país no tiene yacimientos minerales.
+75b16d	D	El país necesita más desarrollo (universidades y técnicos) para este giro.
+a7da06	D	Una naviera necesita costa.
+8b762c	D	del Estado
+8d36f0	T	🏛️ {0} deja de operar: el país perdió {1}.
+dc14f8	D	su provincia
+956d66	T	🏛️ {0} sigue en quiebra: el gobierno la cierra y vende lo que queda.
+41f6ee	T	⚠️ {0} está en quiebra (2 años con pérdidas grandes): rescátala, privatízala o ciérrala en la Secretaría de inversiones.
+033ffd	D	Ya tienes una empresa estatal de ese giro: invierte en ella.
+5e72ad	T	El tesoro no alcanza: hacen falta {0}.
+73d7bb	D	No hay una provincia adecuada.
+d1bafb	T	Fundas {0} en {1} con {2} del tesoro.
+e9f051	T	Inviertes {0} en {1}: más capacidad y +5 de eficiencia.
+d4a13f	D	Ya recortaste esta empresa este año.
+623d29	T	Recortas {0}: vendes activos ({1} al tesoro), baja la plantilla y sube la eficiencia; −1 de felicidad en {2}.
+7c0615	T	Presupuesto de {0}: {1} ({2} % de su capital al año).
+e589b4	T	Cierras {0}: recuperas {1} al vender sus activos; {2} personas pierden su empleo.
+5b2ff4	T	Te faltan {0} para comprarla.
+446552	T	Compras {0} por {1}{2}. Ahora es {3}.
+f6dce4	T	(la parte que tu empresa puede operar: {0} sucursal(es); el resto se vende a privados)
+122aea	T	Privatizas {0}: un grupo privado paga {1} al tesoro y la empresa sigue operando.
+051254	D	Tu país no tiene bolsa de valores.
+2924eb	D	No hay bolsa.
+30281d	D	Ya cotiza.
+d2c515	D	Solo una empresa con ganancias puede salir a bolsa.
+8b802d	T	{0} sale a la bolsa con la clave {1}: el tesoro recibe {2} por el 30 % y el Estado conserva el 70 %.
+2f24bb	D	Aeroespacial
+389140	D	Transportes
+43e93c	D	Servicios Públicos
+84d2bd	D	Minera
+9843b2	D	Financiera
+bdb14a	D	Medios
+f9ba98	D	Telecom
+0c55b4	D	Industries
+1310a4	D	Technologies
+18dcea	D	Semiconductor
+18fdc5	D	Utilities
+2f2f07	D	Luxury
+3703cd	D	Health
+437bcb	D	Energy
+7a2c34	D	Logistics
+925dd3	D	Retail
+97f3d6	D	Motors
+bd32ee	D	Foods
+bd91f0	D	Financial
+da33e1	D	Construction
+e4fdcd	D	Aerospace
+faabcf	D	Mining
+f087c4	D	v24c año
+5e9654	T	💼 {0} consigue empleo en una empresa estatal de {1} después de {2} {3}.
 8bdbaa	D	attribute vec2 p;varying vec2 v;void main(){v=vec2(p.x*.5+.5,.5-p.y*.5);gl_Position=vec4(p,0.,1.);}
 8fd208	D	attribute vec4 aPQ;attribute float aS;attribute float aK;uniform vec4 uVB;uniform vec2 uView;uniform float uDpr;uniform float uDet0;uniform float uZ;varying float vS;varying float vK;varying float vW;\nvoid main(){vec2 P=aPQ.xy/16.,Q=aPQ.zw/16.;vec2 X=abs(aS)>1.5?Q:P;vec2 d=Q-P;float L=length(d);vec2
 b01808	D	Riqueza por persona
 e3b0e6	D	Densidad de población
-5c28d5	D	Georgia,serif
 2e6a34	T	Crecimiento {0}
 767999	T	Ejército {0}
 871a99	T	Inflación {0}
@@ -953,3 +1322,824 @@ db5434	D	Importada:
 19b876	D	📂 Cargar una partida guardada
 dda8c7	D	💾 Partidas, dificultad, temas y vista
 8e963b	D	🕗 Reloj de 12 horas, día y noche
+cc6a37	D	Bienvenido a
+6cefe9	D	Planeta
+8bd28d	D	Atlas
+7d9fd1	D	Volver al juego
+831f9d	D	▶ Empezar una vida
+b7d1df	D	Cargando el mapa…
+56f25c	D	↩ Volver a la portada
+672410	D	Capital del país
+36681f	D	⚔️ En guerra
+d3dd79	D	📍 Vives aquí
+58dc18	D	Ficha
+ee5318	D	Clubes
+96ad6f	D	Personas que viven aquí, según censos y estimaciones recientes.
+c01e30	D	Más población es más mercado para tus negocios, más votos y más impuestos para el gobierno.
+4b0528	D	Valor de todo lo que se produce aquí en un año (producto interno bruto).
+94d1e0	D	Mueve sueldos, ventas de tus negocios e ingresos del gobierno; crece o cae cada año.
+417e28	D	El PIB dividido entre la población: la medida más usada del nivel de vida medio.
+8a44a3	D	PIB por persona
+fdcc52	D	Define los sueldos y precios de la zona: un negocio rinde más donde es alto, pero cuesta más abrirlo.
+075e00	D	Habitantes por kilómetro cuadrado: indica qué tan urbana o rural es la zona.
+6af8c0	D	Densidad
+fb2e47	D	Las zonas densas concentran clientes y empleo; las poco densas, tierra y recursos.
+0a1929	D	Satisfacción de la población; en el mundo real se mide con encuestas como el Informe Mundial de la Felicidad.
+edf38f	D	Con felicidad baja aumentan protestas, rebeliones y la pérdida de apoyo del gobierno.
+1a45b3	D	Sube la producción de la provincia y su crecimiento; el gobierno puede invertir para subirlo.
+91317c	D	Infraestructura, servicios y capital humano acumulados (del 0 al 10).
+048ee9	D	Cambio anual del PIB de la provincia.
+c7eb8c	D	Las inversiones rinden más donde la economía crece.
+b1fa53	D	Multiplica la defensa en una guerra y afecta la producción.
+b4ead8	D	Relieve y clima: montañas, selvas y desiertos son difíciles de conquistar y de abastecer.
+23f39c	D	Si no es núcleo: −20 de felicidad y la mitad de impuestos hasta asimilarla.
+7fb1e6	D	Una provincia es núcleo cuando su población se identifica con el país que la gobierna.
+3311ed	D	Su valor sale de los precios mundiales: guerras y crisis los mueven.
+7a0bb5	D	Yacimientos y cultivos estratégicos según los datos de producción reales del país.
+00626e	D	🏠 Tu país
+f7e632	T	Ciudades ({0})
+a5460c	D	multiplicador de defensa
+c0aae1	D	De la provincia
+6af0b6	D	Nuevo nombre
+08ece5	D	Función
+88d830	D	Evaluación de desempeño
+43ba44	D	Vence una conversación
+ab1dab	D	Elecciones
+0dc62a	D	Cierre de mes
+1a6b70	D	Año nuevo
+173a56	D	en 1 día
+9e88a6	D	Tu vida social
+08b3cd	D	Tu vida social: tensa
+8a0a5f	D	Tu vida social: buena
+99ffcb	D	Tu vida social: estable
+f5847d	D	Tu vida social: sin relaciones cercanas
+ba9bc9	D	#cover{position:fixed;inset:0;z-index:80;overflow:hidden;background:#04070d;color:#eef3f8;opacity:0;transition:opacity .3s ease;font-family:system-ui,-apple-system,'Segoe UI',sans-serif}\n#cover.on{opacity:1}body.cvon #toast.on{z-index:95}body.cvon{overflow:hidden}\n#cvC{position:absolute;inset:0;wid
+1d7e7b	D	Al tocar el mapa solo se actualiza la ficha de abajo, como antes de la v1.9a.
+26f4b2	D	🗺️ Burbuja al tocar el mapa: activada
+624861	D	Al tocar una provincia o ciudad aparece su información con botones para actuar desde ahí.
+f22b41	D	🗺️ Burbuja al tocar el mapa: desactivada
+3faf7c	D	📋 Ficha del lugar
+f664ca	D	Ficha del lugar
+c9c899	D	🗺️ El mapa: burbuja y ficha del lugar
+8becca	T	Asedio de {0}: mes {1} de ~{2}
+cb2d38	T	Asedio de {0}: la provincia puede caer el próximo mes
+441ede	T	Ejército enemigo en camino: {0} soldados, llega el próximo mes
+cdc498	T	Ejército enemigo en camino: {0} soldados, llega en ~{1} meses
+30dadb	D	India superó a China en 2023 como el país más poblado del mundo.
+24ecd8	D	Desde 2007 vive más gente en ciudades que en el campo.
+bbff83	D	La esperanza de vida mundial pasó de unos 46 años en 1950 a más de 73 hoy.
+a4d6e1	D	En los años sesenta cada mujer tenía en promedio unos 5 hijos; hoy el promedio mundial ronda los 2.2.
+5edca9	D	Corea del Sur tiene la fecundidad más baja del mundo: menos de 0.8 hijos por mujer.
+8ebd2a	D	Oficina de Estadística de Corea, 2024
+a60fb2	D	Oficina de Estadística de Japón, 2024
+bd29ae	D	En Japón casi 3 de cada 10 personas tienen 65 años o más.
+15bd7a	D	México es el país con más hablantes nativos de español: más de 120 millones.
+2d1b9b	D	La economía mundial produce unos 110 billones de dólares al año.
+b851b3	D	Estados Unidos y China generan juntos más del 40 % del PIB mundial.
+e573ab	D	México es el segundo país que más remesas recibe en el mundo, después de India.
+d729b6	D	En México, 99 de cada 100 empresas son micro, pequeñas o medianas.
+2eea62	D	El mercado de divisas mueve más de 9 billones de dólares al día.
+115baf	D	El dólar participa en casi 9 de cada 10 operaciones de divisas del mundo.
+a0e4e0	D	En Hungría, en 1946, los precios llegaron a duplicarse cada 15 horas: la peor hiperinflación registrada.
+269723	D	Banco de la Reserva de Zimbabue
+279a81	D	Zimbabue imprimió en 2009 un billete de 100 billones de dólares zimbabuenses.
+ba84cb	D	El banco central más antiguo que sigue funcionando es el de Suecia, fundado en 1668.
+dbc006	D	Banco de Suecia
+ff075c	D	La primera bolsa de valores moderna nació en Ámsterdam en 1602.
+abec67	D	Más del 80 % del comercio mundial, medido por volumen, viaja por mar.
+3dcd01	D	China produce más de la mitad del acero del mundo.
+d2efe5	D	Asociación Mundial del Acero, 2024
+8222d6	D	Venezuela tiene las mayores reservas probadas de petróleo del planeta.
+3f5e1d	D	La agricultura usa cerca del 70 % del agua dulce que se extrae en el mundo.
+0fffc5	D	Los océanos cubren alrededor del 71 % de la superficie de la Tierra.
+c90e03	D	El río Amazonas aporta cerca de una quinta parte de toda el agua dulce que los ríos del mundo llevan al mar.
+cf7d6b	D	Enciclopedia Británica
+3653c8	D	Agencia Internacional de Energía
+e25cad	D	Islandia genera casi toda su electricidad con energía hidroeléctrica y geotérmica.
+5f2f53	D	Gobierno de Rusia
+8719e1	D	Rusia abarca 11 husos horarios.
+f72b3a	D	Canadá tiene la costa más larga del mundo: más de 200,000 km.
+a6eaf9	D	El Estadio Azteca es el primero en recibir partidos de tres Copas del Mundo: 1970, 1986 y 2026.
+01019e	D	:root{--fs-1:11px;--fs-2:12.5px;--fs-3:13.5px;--fs-4:15px;--fs-5:17px;--fs-6:20px;--fs-7:26px;--sp-1:4px;--sp-2:8px;--sp-3:12px;--sp-4:16px;--sp-5:24px;\n --r-s:9px;--r-m:12px;--r-l:16px;--r-p:999px;--sh-1:0 1px 2px rgba(0,0,0,.18),0 2px 8px rgba(0,0,0,.12);--sh-2:0 10px 30px rgba(0,0,0,.35);\n --dur
+b756ff	D	Ahora: encendidas
+f0be78	D	Ahora: apagadas
+fef622	D	.money .v,.money .y,.nst b
+cc44ae	D	El estilo pixel volvió a Actual. Desbloquéalo para usarlo siempre.
+eea2a9	D	🕹️ Terminó la vista previa
+9598fc	T	👁️ Otra vista previa en {0} h
+35bd02	T	Tienes {0} minutos para probarlo.
+acba07	D	🕹️ Vista previa del estilo pixel
+8efe45	D	El estilo pixel queda desbloqueado para tus pruebas.
+b156d4	D	Los temas vuelven a su estado normal (bloqueado, vista previa o desbloqueado).
+23ec80	D	¡Logro!
+62b44a	D	¡Ascenso!
+ff52af	D	¡Victoria!
+2d0cf6	D	población movilizable
+79e3da	T	bono de política {0} %
+718e6b	D	Su poder
+87a3da	T	de {0} países
+c7aad4	D	Puntaje
+d85ecd	D	Tu lugar
+5d93cb	D	/* íconos: vista previa en Ajustes */\n.chips.ivs{display:grid;grid-template-columns:repeat(3,1fr);gap:6px}.chips.ivs button{display:grid;gap:2px;justify-items:center;padding:7px 4px;min-height:56px}\n.ivp{font-size:14px;letter-spacing:.5px;white-space:nowrap;line-height:1.2;max-width:100%;overflow:h
+b4c540	D	🎨 Íconos
+c179d9	D	Íconos
+086dd6	D	🎬 Animaciones de momentos clave
+bcb749	D	Animaciones de momentos clave
+b6286d	D	🪖 Órdenes desde el mapa
+762e0c	D	hoy está desactivado
+ad2bab	D	por banco
+09821f	D	Utilidad al mes
+e59fbf	D	Ventas al mes
+6bdd17	D	al año, se descuenta cada mes
+ed0648	D	según tu patrimonio y los homicidios del país
+f1bec0	D	Riesgo de secuestro
+b4b8c9	D	avanza el reloj
+a51cf1	D	Partículas
+eb602f	D	✨ Partículas
+cc8b73	D	Sonido
+ccc987	D	#pfx{position:fixed;inset:0;width:100vw;height:100vh;pointer-events:none;z-index:9985;display:none}\n#drgL{position:fixed;inset:0;pointer-events:none;z-index:9980;display:none}#drgL.on{display:block}\n#drgL svg{position:absolute;inset:0;width:100%;height:100%;overflow:visible}\n#drgL line{stroke:var(-
+180bc0	D	Para quien no conoce el juego ni cómo funciona la economía: reglas simples y más margen; las opciones avanzadas se abren poco a poco y cada pantalla se explica la primera vez. Una vida: 10–15 min.
+51f252	D	Calibrado con datos reales y con reglas simples: sueldo y gastos automáticos, guerras de una batalla al año, todo a la vista. Una vida: 10–15 min.
+ed96d3	D	Todas las mecánicas: impuestos, inflación, préstamos, guerras mes a mes, enfermedades, congreso y juicios. Una vida: 30–60 min.
+738665	D	Personalizado
+0a6762	D	Las opciones avanzadas se abren con tu avance.
+8e6bf4	D	Todo el menú Más está a la vista.
+901306	D	Las explicaciones de primera vez aparecerán otra vez.
+c54540	D	a los 18 años
+f613c9	D	a los 18 años, con ahorros de un año de salario medio
+87ec0c	D	con un patrimonio de 5 años de salario medio
+f30956	D	a los 30 años o al tener hijos
+0ff455	D	al gobernar o entrar al ejército
+40b8f6	D	herramienta técnica: está en «Mostrar todo»
+0d54fb	D	v20 más
+a261bb	D	Todas las opciones del menú Más están a la vista. Puedes volver a ocultarlas en Ajustes.
+b23482	D	Guardar dinero en un banco lo protege y le paga intereses (la tasa de depósito). Los bancos chicos pagan más porque quiebran más seguido; si uno quiebra, el seguro de depósitos de tu país te devuelve hasta un tope por banco. Aquí también pides créditos: el interés depende de tu historial crediticio.
+55147a	D	Una acción es una pequeña parte de una empresa. Si a la empresa le va bien, el precio sube y algunas reparten dividendos; si le va mal, puedes perder. Comprar empresas de sectores distintos (diversificar) reduce el daño de que una sola caiga.
+55c1d6	D	Una empresa vende cada mes y paga insumos, sueldos, renta, impuestos y deudas; lo que queda es la utilidad, y lo que reparte llega a tu dinero. Empezar chico y reinvertir es más seguro que endeudarse para crecer rápido.
+361159	D	Servicios que pagas cada mes: protección, salud, ayuda en casa. Mejoran tu vida o bajan riesgos (por ejemplo, el de secuestro cuando tienes mucho dinero), pero son un gasto fijo: contrátalos cuando tu ingreso los aguante.
+e8c16a	D	Tu dinero del año: ingreso bruto menos gastos de vida (y, en Realista, impuestos y pagos de préstamos) da tu neto. Si el neto es negativo, gastas más de lo que ganas y tus ahorros bajan.
+67b11d	D	Aquí decides en qué usas tu tiempo. Cada actividad cuesta tiempo o dinero y mueve tus estadísticas: estudiar sube la inteligencia; el gimnasio, la salud; la familia, la felicidad. Esas estadísticas deciden qué puertas se abren después.
+d40bce	D	Tu forma de ganarte la vida. Un empleo da sueldo desde ya; la universidad cuesta años, pero abre empleos mejor pagados; las carreras hacia el poder (política, ejército, negocios) llevan a gobernar. Los sueldos salen del salario medio real de tu país.
+40dca5	D	Lo que tienes: casa, autos y otros bienes. Tu patrimonio es todo lo que posees (efectivo, cuentas, inversiones y bienes) menos lo que debes.
+c63650	D	Tus relaciones: familia, pareja, amigos y contactos. Se enfrían si no les dedicas tiempo; los contactos te abren empleos y negocios.
+427549	D	Tu ambición es la meta que elegiste para esta vida: aquí ves cuánto te falta y los logros que ya conseguiste.
+ecab87	D	Cada país con datos reales de 2026: población, economía, ejército y relaciones con otros países. Lo que pase en el tuyo (guerras, crisis, sueldos) también te afecta a ti.
+81e3ae	D	🩺 Tu salud está baja: ve al médico o al gimnasio.
+f01ef9	D	🌴 Tu felicidad está baja: pasa tiempo con tu familia o toma vacaciones.
+831c8b	D	📚 Estudia: la inteligencia sube tus calificaciones y abre mejores carreras.
+999b71	D	💼 Busca empleo o entra a la universidad: es tu primera fuente de ingresos.
+552684	D	📉 Gastas más de lo que ganas: busca un empleo mejor pagado o prepárate más.
+7c420a	D	🏦 Tienes efectivo sin rendir: en una cuenta de banco gana intereses.
+e0d9d7	D	📈 Diversifica: pon una parte de tus ahorros en un fondo de inversión.
+2d319d	D	🏪 Ya podrías emprender: una empresa puede darte más que un sueldo.
+c0e8eb	T	📘 Tu año en números: ingresos de {0} y gastos de vida de {1}; tu patrimonio pasó de {2} a {3}.
+52cddd	D	📘 Gastaste más de lo que ganaste: tus ahorros cubrieron la diferencia.
+873c19	D	📘 Tu patrimonio creció más que tu sueldo neto: tus cuentas, inversiones o empresas también te dieron dinero.
+e943dd	D	📘 Tu patrimonio bajó más que por tus gastos: alguna inversión, empresa o compra perdió valor.
+5c4c5c	T	🔓 Se abre en Más: {0}
+8ce3c6	D	🔓 Nueva opción en Más
+a39604	T	💡 ¿Sabías que…? {0} (Fuente: {1})
+82e13b	D	v20 año
+4d935f	D	🏦 Bancos y fondos
+8e3efd	D	💼 Bienes y negocios
+dec933	D	🎯 Órdenes rápidas
+e62b0a	T	⚠️ Tienes {0} en {1}: el seguro de depósitos cubre hasta {2} por banco. Si ese banco quiebra, puedes perder la diferencia; repartir tu dinero en varios bancos reduce el riesgo.
+67799a	T	⚠️ Tienes {0} en {1} y tu país no tiene seguro de depósitos: si el banco quiebra, puedes perderlo todo. Repartir tu dinero en varios bancos grandes reduce el riesgo.
+b0e424	D	⚠️ Riesgo en tu banco
+edd50c	D	Revisa el aviso en tu historial.
+842059	D	Subida general de los precios en un año. Con 5 % de inflación, lo que costaba $100 cuesta $105: si tu sueldo no sube igual, puedes comprar menos.
+dcfd47	D	Producto interno bruto: el valor de todo lo que un país produce en un año. Mide el tamaño de su economía.
+6196eb	D	El PIB dividido entre los habitantes. Sirve para comparar qué tan rico es, en promedio, cada país.
+0ad20e	D	Salario medio
+dc4239	D	El sueldo anual típico de un trabajador del país. El juego lo usa como base de sueldos y precios.
+155753	D	El precio del dinero en el tiempo, en % al año: lo que te paga el banco por guardar tu dinero o lo que te cobra por prestártelo.
+375cfc	D	Tasa de interés
+79b5c8	D	tasa de interés
+d952b3	D	seguro de depósitos
+ea86c4	D	Garantía del gobierno: si tu banco quiebra, te devuelve tus depósitos hasta un tope por banco. Lo que pase del tope se puede perder.
+1327d2	D	Una pequeña parte de una empresa que se compra y vende en la bolsa. Su precio sube o baja según lo que se espera de la empresa.
+539e07	D	Acción (bolsa)
+a5b042	D	La parte de las ganancias que una empresa reparte entre quienes tienen sus acciones.
+0637e8	D	Diversificar
+c2858c	D	Repartir tu dinero entre varias inversiones distintas para que la caída de una sola no te afecte demasiado.
+cf2009	D	Lo que queda de las ventas después de pagar todos los costos. Si es negativa, la empresa pierde dinero.
+bdc70a	D	Todo lo que tienes (efectivo, cuentas, inversiones y bienes) menos todo lo que debes.
+a8a375	D	Calificación de qué tan buen pagador eres. Con un buen historial te prestan más y con menos interés.
+086033	D	Lo que pagas al gobierno sobre tus ingresos y compras. Con eso se pagan escuelas, hospitales, ejército y obras.
+baef67	D	Cuando una empresa o un banco no puede pagar lo que debe y cierra o es intervenido.
+a3a1f6	D	Glosario
+ea8304	D	🌱 Niveles y modo Fácil
+a27a5c	D	La Reserva Federal de Estados Unidos y el Banco Central Europeo buscan una inflación de 2 % a mediano plazo.
+6e3d04	D	Banco de México
+f3fa57	D	El Banco de México tiene como meta una inflación de 3 %, con un margen de un punto arriba o abajo.
+24cf6e	D	En junio de 2022 la inflación de Estados Unidos llegó a 9.1 %, la más alta en unos 40 años.
+c8c13f	D	Oficina de Estadísticas Laborales de EE. UU.
+15ebdd	D	Japón mantuvo tasas de interés negativas de 2016 a 2024.
+200627	D	Banco de Japón
+dd0034	D	A inicios de los ochenta, la Reserva Federal subió su tasa a cerca de 20 % para frenar una inflación de casi 15 %.
+2a34cf	D	Regla del 72
+a43297	D	Con 7 % de interés compuesto al año, un ahorro se duplica en unos 10 años: 72 entre la tasa da los años (regla del 72).
+bd33bf	D	En Estados Unidos el seguro de depósitos cubre hasta 250,000 dólares por persona y por banco.
+cccd1d	D	En México, el IPAB protege los depósitos hasta 400,000 UDIS por persona y por banco: unos 3 millones de pesos.
+1cea46	D	En México el impuesto sobre la renta de las personas sube por tramos hasta una tasa de 35 %.
+f09d8b	D	SAT, Ley del ISR
+ea8378	D	México recauda en impuestos alrededor del 17 % de su PIB, la proporción más baja de la OCDE.
+1e85a2	D	Los países de la OCDE recaudan en promedio cerca de un tercio de su PIB en impuestos.
+2ec021	D	Emiratos Árabes Unidos no cobra impuesto sobre la renta a las personas.
+de8f0e	D	Gobierno de los Emiratos Árabes Unidos
+ca0ddd	D	El IVA general en México es de 16 %.
+4c9cac	D	La ONU tiene 193 Estados miembros.
+23944b	D	Nueva Zelanda fue en 1893 el primer país autónomo en dar el voto a las mujeres.
+a07142	D	Gobierno de Nueva Zelanda
+75a132	D	Constitución de México, art. 83
+c02b9f	D	En México el presidente gobierna un solo periodo de 6 años, sin reelección.
+0fa5f3	D	La deuda pública de Japón supera dos veces el tamaño de su economía, la más alta entre los países ricos.
+43128c	D	Archivos Nacionales de EE. UU.
+a2e45a	D	La Constitución de Estados Unidos, de 1787, es la constitución escrita más antigua que sigue vigente.
+00e2df	D	El gasto militar mundial llegó a unos 2.7 billones de dólares en 2024, un récord.
+b06f0a	D	Estados Unidos concentra cerca del 37 % del gasto militar del mundo.
+6968d4	D	Gobierno de Costa Rica
+7386ff	D	Costa Rica abolió su ejército en 1948.
+0c63f2	D	Nueve países tienen armas nucleares.
+9d67d4	D	Desde 1945 ningún arma nuclear se ha usado en una guerra.
+498ddf	D	Cerca de 6 de cada 10 trabajadores del mundo están en la economía informal.
+752554	D	En México, más de la mitad de las personas ocupadas trabaja en la informalidad.
+053a93	D	Ley Federal del Trabajo, art. 87
+b075cc	D	En México el aguinaldo mínimo por ley es de 15 días de salario.
+c5c842	D	Cerca de 2 de cada 10 empresas nuevas en Estados Unidos cierran antes de cumplir un año.
+da52ad	D	El Mundial 2026 es el primero con 48 selecciones y tres países sede.
+5528ef	D	El boxeo es deporte olímpico desde 1904; solo faltó en Estocolmo 1912.
+c440f5	D	El streaming genera cerca de dos tercios de los ingresos mundiales de la música grabada.
+4fbf04	D	Resumen de tu país: PIB (el tamaño de su economía), crecimiento, estabilidad, deuda y relaciones. Si gobiernas, aquí cambias el sistema de gobierno y formas naciones nuevas.
+4c59cf	D	Cada provincia tiene población, riqueza, felicidad y desarrollo. Invertir y construir edificios las hace crecer; las ocupadas o muy infelices pueden rebelarse.
+0ac960	D	Tus ejércitos: soldados, calidad (sube con el gasto por soldado), moral y abasto. En guerra el tiempo corre mes a mes: mueves tropas, combates y sitias provincias. Cada soldado de más cuesta dinero del tesoro.
+a11ab9	D	El presupuesto reparte el dinero del país entre ejército, investigación, bienestar y más. Impuestos altos recaudan más, pero restan crecimiento y aprobación; si gastas más de lo que entra, la deuda sube.
+612c9b	D	La opinión de cada país hacia ti depende de su ideología, la historia reciente y tus acciones. Alianzas y pactos te protegen, y los aliados entran a tus guerras con sus ejércitos. Tienes pocas acciones diplomáticas por año: úsalas donde más importan.
+6e9f02	D	El parte resume la guerra: provincias ocupadas, bajas y cansancio de cada bando. Un país capitula si pierde más de la mitad de su población o se agota; antes de eso, la paz se negocia.
+0d4079	D	El ranking ordena a los países por su puntaje: 40 % economía (PIB), 30 % población y 30 % poder militar. Aquí ves tu lugar y quién va adelante.
+082073	D	El gabinete: las secretarías del gobierno, cada una con su titular. Un titular capaz mejora los resultados de su área; las directivas cambian sus prioridades a cambio de un costo.
+f61013	D	El sistema de gobierno cambia cuánto crece tu país, cuánto investiga, cuántos reclutas tiene y cuánto recauda. Cambiarlo cuesta estabilidad y solo se puede cada 4 años.
+160a1b	D	En la conferencia de paz gastas puntos de paz: cada provincia cuesta 1, liberar un país 1 y las reparaciones 2. Si el enemigo capituló, puedes tomar todo lo que ocupas.
+29ca6d	D	Gobierno e impuestos
+4637ba	D	Comercio y divisas
+5f9f6a	D	Bancos y crédito
+fe36f8	D	Economía del país
+18fd7e	D	Lo que puedes comprar con tu dinero. Si los precios suben más que tu ingreso, tu poder adquisitivo baja aunque ganes más.
+7878c2	D	poder de compra
+d435a1	D	Poder adquisitivo
+269e26	D	Ganar intereses sobre los intereses ya ganados. Con 7 % al año, un ahorro se duplica en unos 10 años; con una deuda funciona igual, pero en tu contra.
+72c061	D	interés compuesto
+8675d4	D	Interés compuesto
+365410	D	Índice de precios
+889839	D	índice de precios
+9834f0	D	Número que sigue el costo de una canasta de bienes y servicios. Si pasa de 1.00 a 1.10, los precios subieron 10 %.
+0a136a	D	La tasa de interés menos la inflación. Es lo que de verdad gana tu ahorro, o te cuesta tu deuda, en poder de compra.
+8d3fc3	D	Tasa real
+2bdc6b	D	Institución que emite la moneda de un país y fija su tasa de referencia para mantener la inflación baja y estable, como el Banco de México o la Reserva Federal.
+3c504c	D	tasa de referencia
+e77778	D	La tasa que fija el banco central. Subirla encarece el crédito y frena la inflación; bajarla abarata el crédito y anima la economía.
+d13bcb	D	Dinero que un banco te presta a cambio de devolverlo con intereses en pagos periódicos.
+f05ef4	D	Crédito
+036076	D	Fondo de inversión
+229efe	D	fondos de inversión
+46790c	D	Dinero de muchas personas que un gestor invierte en muchas acciones o bonos: diversificas sin elegir una por una.
+d5b599	D	fondo de inversión
+312a57	D	Un préstamo que le haces a un gobierno o a una empresa: te paga un interés fijo y te devuelve el dinero al vencer.
+4a46a6	D	Lo que gana una inversión en un periodo, en % de lo invertido: intereses, dividendos y cambio de precio.
+de6cb4	D	venta en corto
+f6e44e	D	Apostar a que un precio baja: vendes acciones prestadas y las recompras después. Si el precio sube, la pérdida no tiene límite.
+35d03f	D	Comprar con dinero prestado por la casa de bolsa. Multiplica las ganancias y también las pérdidas.
+4ffed5	D	ganancias de capital
+8b6db0	D	Lo que ganas al vender algo más caro de lo que lo compraste. En muchos países paga impuesto.
+bccf5b	D	Ganancia de capital
+bf61a7	D	ganancias de bolsa
+d80bfb	D	ganancia de capital
+b706b8	D	Cuando una empresa vende acciones al público por primera vez para conseguir dinero y crecer.
+a3e8d4	D	Cuando la economía de un país se contrae en vez de crecer: suben el desempleo y las quiebras.
+e770f6	D	Recesión
+429390	D	Deflación
+69b699	D	Baja general de los precios. Parece buena noticia, pero suele venir con menos ventas, menos empleo y deudas más pesadas.
+9d16c8	D	Inflación descontrolada, de 50 % o más al mes: la moneda pierde su valor en semanas.
+c72238	D	Hiperinflación
+19e14a	D	Tasa marginal
+35a203	D	El porcentaje de impuesto que se cobra sobre el último peso que ganas: el de tu tramo más alto.
+062fdd	D	Todo lo que pagas de impuestos dividido entre todo tu ingreso. En un impuesto por tramos siempre es menor que la tasa marginal.
+12983e	D	Tasa efectiva
+10d181	D	Impuesto progresivo
+519848	D	Impuesto por tramos: cada tramo de ingreso paga una tasa mayor, pero solo sobre la parte que cae en ese tramo.
+856046	D	por tramos
+428126	D	Lo que debe el gobierno. Se mide en % del PIB; si crece demasiado, los intereses se comen el presupuesto y los mercados dudan de que pueda pagar.
+43f70f	D	deuda pública
+3a8608	D	Déficit
+63ee5b	D	Cuando el gobierno gasta en un año más de lo que recauda. Se cubre con deuda o imprimiendo dinero.
+e6edd6	D	El plan de gastos del gobierno para el año: cuánto va al ejército, a la educación, a la salud y a lo demás.
+1debfe	D	tipos de cambio
+24a179	D	tipo de cambio
+3401ad	D	Cuántas unidades de tu moneda cuesta un dólar u otra moneda.
+3e9734	D	Tipo de cambio
+364a67	D	Devaluación
+cf086d	D	Cuando tu moneda pierde valor frente a otras: lo importado se encarece y lo que exportas se abarata para otros países.
+50dfae	D	Divisas y oro que guarda el banco central para pagar importaciones y deudas y para defender su moneda.
+04ef78	D	Castigos comerciales de otros países: menos comercio y menos crecimiento para el país sancionado.
+4a74a6	D	Sanciones
+9ca79b	D	Tratado comercial
+e7f41d	D	Acuerdo entre países para comerciar con menos barreras: suele subir el crecimiento de ambos.
+b40b85	D	Con tasa real positiva, ahorrar rinde y el crédito caro enfría la economía y los precios.
+d6807e	D	Con tasa real negativa, ahorrar pierde poder de compra y pedir prestado sale barato: eso empuja el consumo y los precios.
+34deae	D	Abre tu primera cuenta de banco
+548e6c	D	Consigue tu primer empleo
+0e4df9	D	Ahorra un año de salario
+51afeb	D	Termina un año ganando más de lo que gastas
+1924ae	D	Invierte en un fondo
+c3e6bf	D	Compra tu casa
+0f3c78	D	Abre tu primera empresa
+91420a	D	Ten acciones de 3 empresas distintas
+35a8c6	D	Junta un patrimonio de 5 años de salario
+1bfd9b	T	A los {0} años: consigues tu primer empleo ({1}).
+76ac82	T	A los {0} años: entras a la universidad ({1}).
+f646fb	T	A los {0} años: entras a la carrera de {1}.
+5d753e	T	A los {0} años: nace tu primer hijo.
+9f871a	T	A los {0} años: formas pareja.
+9fac40	T	A los {0} años: abres tu primera cuenta de banco.
+a31d68	T	A los {0} años: te gradúas de la universidad.
+7e2334	T	A los {0} años: pides tu primer crédito.
+92fb8d	T	A los {0} años: compras tu casa.
+c65365	T	A los {0} años: abres tu primera empresa.
+f21da5	T	A los {0} años: compras tus primeras acciones.
+1942f8	T	A los {0} años: te mudas a {1}.
+50cc43	T	A los {0} años: llegas a gobernar {1}.
+5d234b	T	A los {0} años: inviertes en tu primer fondo.
+85fa2d	T	A los {0} años: empiezas tu carrera de fama.
+083284	T	A los {0} años: tu país entra en guerra.
+da7414	T	A los {0} años: caes en bancarrota.
+1db4cf	T	el gobierno imprime dinero ({0} % del PIB al año) y hay más dinero para los mismos bienes
+05c09d	T	tu moneda perdió {0} de su valor frente al dólar y lo importado se encarece
+89cbbd	D	la guerra encarece los alimentos y el combustible
+b9f40e	T	el petróleo subió {0} y encarece el transporte y la producción
+c52a34	T	los alimentos subieron {0} en el mercado mundial
+0d7354	T	la tasa del banco central ({0}) está por encima de la inflación y frena el crédito y el consumo
+cdbd9e	T	la tasa del banco central ({0}) está por debajo de la inflación y el crédito barato empuja el consumo
+b0b099	D	la recesión bajó la demanda
+38c508	D	los precios vuelven a su ritmo habitual de los últimos años
+3369c0	T	📊 Inflación en {0}: {1} (el año pasado, {2}). Lo que más pesó: {3}.
+3c7ffc	T	📊 Tu ingreso cambió {0} y los precios {1}: en poder de compra, {2}.
+ad9594	T	📊 Impuestos del año: {0}, una tasa efectiva de {1}; tu tramo más alto cobra {2}, pero solo sobre la parte del ingreso que lo pasa.
+3289ee	T	📊 Tus cuentas rindieron en promedio {0} y la inflación fue {1}: rendimiento real de {2}.
+cc11b4	T	📊 Tus créditos cuestan en promedio {0} al año; descontando la inflación, {1} real.
+d3b4ba	T	🏦 {0} movió su tasa de {1} a {2} para sostener su tipo de cambio fijo.
+d9f81e	T	🏦 {0} subió su tasa de {1} a {2} porque la inflación ({3}) está arriba de su meta ({4}): los créditos nuevos salen más caros y las cuentas pagan más.
+b26ea6	T	🏦 {0} bajó su tasa de {1} a {2} porque la inflación ({3}) está cerca de su meta ({4}): el crédito se abarata y las cuentas pagan menos.
+c57f4f	T	🏦 {0} movió su tasa de {1} a {2}.
+d10681	D	v20b año
+fa3331	D	Abrir una cuenta desde joven deja trabajar al interés compuesto.
+decda3	D	Gastar menos de lo que ganas, aunque sea poco, es la base de cualquier patrimonio.
+eb4f4c	D	Invertir una parte de tus ahorros en un fondo diversificado suele rendir más que la inflación a largo plazo.
+a58030	D	Emprender es arriesgado, pero una empresa bien manejada puede darte más que un sueldo.
+9115f7	D	Prueba otro país u otro nivel: las mismas decisiones dan resultados distintos según la economía.
+6a49e6	D	En el historial: ingresos, gastos y cómo cambió tu patrimonio.
+df0832	D	En el historial: tu año en números, la inflación y su causa, impuestos y tasas reales.
+a6e01d	D	🔎 Por qué
+c79378	D	Por qué
+d293cb	D	🎓 Aprender en cada nivel
+4696d6	T	{0} en persona
+afaab5	D	🔍 Auditoría
+73ebba	D	Compra apalancada
+c665a3	D	Sin director
+92ac3b	D	Nombre del grupo
+d39083	D	Conglomerado
+1c6a17	D	Dividendo al año
+4b5b07	D	Estrategia
+5fa13a	D	Tus acciones
+66ca3f	D	Cambiar de director
+d9a1b7	D	Elegir director
+fb16fb	D	Te faltan
+3759a9	D	Prima de control
+e11d21cd	D	Oferta pública de adquisición
+2eea45	D	oferta pública de adquisición
+4705dc	D	Oferta para comprar las acciones de una empresa en bolsa a todos sus accionistas, a un precio fijo, para tomar el control. Se conoce por sus siglas, OPA.
+6cc33f	D	Lo que se paga por encima del precio de mercado para convencer a los accionistas de vender y quedarse con el control.
+28a776	D	Auditoría (due diligence)
+b88955	D	Revisión de los libros, contratos y deudas de una empresa antes de comprarla, para no pagar de más por cifras maquilladas.
+46cbb8	D	Comprar una empresa con mucho dinero prestado que después paga la propia empresa con sus utilidades. Multiplica la ganancia y el riesgo.
+1fa8cc	D	Grupo de empresas de giros distintos bajo un mismo dueño y una dirección común.
+5e13be	D	Ahorro o venta extra que aparece al juntar empresas que comparten clientes, proveedores o procesos.
+860c3b	D	Sinergia
+55fb54	D	Empresas en venta
+b70264	D	🛒 Empresas en venta
+83f3eb	D	Grupos
+96a561	D	Control de la empresa
+fcaa43	D	🏢 Control en bolsa
+551c65	D	🏢 Comprar empresas y grupos
+2091ec	D	Precio del petróleo
+6f40f5	D	Precio de los metales
+c42c4a	D	Tasas de interés
+da4112	D	Crecimiento del país
+25df08	D	Sus clientes (cadena)
+428aa6	D	Quiebras recientes
+8ba059	D	Consumo de los hogares
+eaa432	D	Salud de los bancos
+eb9d92	D	Tendencia del sector
+0ed580	D	Otras empresas del país
+2a9066	D	Hogares de la provincia
+2b3fa3	D	Empresas y hogares que adoptan tecnología
+90c48c	D	Hogares de todo el país
+ba2f44	D	Turistas
+cfcdcf	D	Mercado mundial: vendes a precio internacional
+bf3612	D	por la quiebra de una empresa
+fe1287	D	por el cierre de una empresa
+2dc73d	T	{0}\n{1}\nlet C=null,S=0,N=0;onmessage=e=>{const d=e.data;const t=performance.now();if(d.F){N=d.N;S=d.S;C=wmwComp(d.F,d.N,d.S,d.SK);}\n const r=wmwKernel(C,d.own,d.h,d.lx,N,S);postMessage({act:r.act,top:r.top,ms:performance.now()-t},[r.act.buffer,r.top.buffer]);};
+5cfc55	D	no disponible
+a59004	D	Con proveedores y sueldos
+ae31cc	D	Valor agregado al año
+54e3cd	D	PIB del país
+8cf54c	D	Impuestos y cuotas
+f45225	D	PIB de la provincia
+5d2777	D	Cadena de suministro
+66fdc7	D	Multiplicador económico
+694f77	D	Valor agregado
+aaabdb	D	Integración vertical
+33a71c	D	PIB de tu país
+4d3788	D	Inversión extranjera directa
+2fabc6	D	Solo compra empresas con utilidades; paga según sus flujos.
+488eb4	D	Fondo de capital privado
+b5a26e	D	Competidor del mismo giro
+ec0385	D	Paga más si la empresa está sana: le suma clientes y sucursales.
+1342fe	D	Inversionista individual
+67b06b	D	Ofrece menos, pero compra casi cualquier empresa.
+99ff29	D	Salud de la empresa
+60cc9e	D	Múltiplo de valuación
+84b89e	D	Actividad económica
+d276d5	D	Sector principal
+b6d859	D	Economía local y tus empresas
+012346	D	La actividad económica de las 3,422 provincias se calcula en otro hilo cada mes.
+bd7d15	D	La actividad económica de las provincias se calcula en el hilo principal.
+d215c8	D	No disponible en este navegador: se calcula en el hilo principal.
+bae4c1	D	⚙️ Economía del mundo en segundo plano: desactivada
+c323b4	D	⚙️ Economía del mundo en segundo plano: activada
+01640b	D	Lo que una empresa suma a la economía: sus ventas menos lo que compra a otras empresas (insumos). La suma del valor agregado de todas las empresas es el PIB.
+54f06b	D	Cada peso que una empresa gasta en proveedores y sueldos se vuelve a gastar en otros negocios; por eso su efecto total en la economía es mayor que sus propias ventas.
+220bd8	D	Red de empresas que se venden entre sí: si un cliente importante entra en crisis, sus proveedores lo sienten después, y así en cadena.
+d897af	D	cadena de suministro
+3daa84	D	Ser dueño de tu propio proveedor (o cliente): el insumo te sale más barato y no dependes de otros, pero concentras el riesgo.
+bb8333	D	integración vertical
+7b207a	D	inversión extranjera directa
+816d1b	D	Comprar o abrir empresas en otro país. Trae empleos y capital al país que la recibe; el inversionista asume sus crisis, sus impuestos y su moneda.
+ace599	D	inversión extranjera
+fab259	D	Cuántas veces su utilidad anual se paga por una empresa. Un comprador paga más múltiplo si la empresa crece, tiene buen margen y poca deuda.
+01c6b3	D	Aporte a la economía local
+e86110	D	🌐 Aporte a la economía local
+9ae8d3	D	🔗 Cadena de suministro
+5a973c	D	🏭 Salud de los sectores
+ba0b31	D	Salud de los sectores
+033f80	D	Vender la empresa
+3370d2	D	🤝 Vender la empresa
+63ff54	D	🌐 Economía conectada
+35bf06	D	Sana
+86df48	D	Muy alto
+b44405	D	Frágil
+fd0855	D	Moderado
+04161f	D	Crecimiento de las ventas
+5908a8	D	Sueldos frente al mercado
+8fb0ac	D	Carga de trabajo
+c16a01	D	Margen de utilidad
+fe1343	D	Deuda frente a ventas
+0b5c1a	D	Demanda de la provincia
+3c6663	D	Salud de sus empresas
+57396c	D	Pérdidas que amenazan empleos
+6d5a5a	D	Salud de su sector
+b6aa21	D	Endeudamiento
+cab686	D	Diversificación
+181407	D	Estabilidad política
+84fdb6	D	Sus deudores
+99a07b	D	Programa de austeridad
+a6275b	D	Capital frente a préstamos
+ac8b72	D	Alza de tasas
+d01aa6	D	Recuperación natural
+4a069d	D	Costo de la deuda frente al crecimiento
+824c69	D	Programa del FMI
+eb3bfb	D	Aprobación del gobierno
+3a99c4	D	Países en crisis bancaria
+45edda	D	Crecimiento mundial
+a42fbe	D	Felicidad de la población
+f1ab57	D	Países en recesión
+100dc0	D	Economía concentrada
+6a04c7	D	Ánimo de la afición
+8dddb5	D	Bancos débiles
+a16c6a	D	Ingresos frente a gastos
+b75288	D	Sectores frágiles
+bc6c8f	D	Contagio de vecinos
+bdd0f8	D	Crisis bancaria activa
+1282f9	D	Reservas que amortiguan
+24ffb7	D	Programas del FMI activos
+4ce7b0	D	Hogares en apuros
+53ba43	D	Deuda pública alta
+847b37	D	Gobierno
+a822ef	D	Todo en su nivel normal.
+e29d55	D	Aún no cierra su primer mes.
+d55063	D	Bancos
+f20262	D	Riesgo
+105504	D	Riesgo sistémico
+3a4bbf	D	Requerimiento de capital
+4828c7	D	Liquidez
+549599	D	Contagio financiero
+d60368	D	Solvencia
+ee35bc	D	Rescate bancario
+833d4b	D	Sectores distintos
+a2b510	D	Sector más débil
+42ad83	D	Salud social
+6b1098	D	Salud financiera
+c88199	D	Lo que la mueve este año (puntos por año):
+ac0e8f	D	Tasa de los bonos
+78f460	D	Salud fiscal
+6ad6fc	D	Sistema financiero mundial
+bb31d7	D	Programas del FMI
+02639e	D	Tu promotora
+12ae18	D	Tu gimnasio
+064aa8	T	Riesgo sistémico de {0}
+abd3d2	D	v21c país
+7e4ea7	D	v21c más
+040572	T	Trabaja en {0}
+635017	D	Trabaja en el gobierno
+1872e6	D	Busca empleo
+46f7dd	T	Busca empleo desde hace {0} meses
+deeb2b	D	Busca empleo desde hace 1 mes
+48cd53	D	Riesgo sistémico por país
+c121f9	D	🏭 El sector de una de tus empresas está débil: diversifica en otro giro y revisa su salud en 🩺.
+74ec80	D	El 15 de septiembre de 2008 quebró el banco de inversión Lehman Brothers. En 2009 la economía mundial se contrajo por primera vez desde la Segunda Guerra Mundial.
+4cbdf7	D	En la crisis de 1994–1995 («efecto tequila») el PIB de México cayó cerca de 6 % en 1995, y la crisis se contagió a otros mercados de América Latina.
+04ae42	D	La crisis asiática empezó el 2 de julio de 1997, cuando Tailandia dejó flotar su moneda. Se contagió a Indonesia, Corea del Sur y Malasia, y el PIB de Indonesia cayó más de 13 % en 1998.
+d7ae94	D	Tras la crisis de 2008, el desempleo de Estados Unidos llegó a 10 % en octubre de 2009.
+55a2d3	D	Las reglas de Basilea III piden a los bancos un capital de alta calidad de al menos 7 % de sus activos ponderados por riesgo (4.5 % mínimo más 2.5 % de colchón).
+fb747d	D	Banco de Pagos Internacionales
+668c82	D	En Estados Unidos el seguro de depósitos cubre hasta 250,000 dólares por persona en cada banco. En México el IPAB cubre hasta 400,000 UDIS.
+8d4ec0	D	Un banco es «sistémico» cuando su quiebra arrastraría a todo el sistema financiero. Por eso a los más grandes del mundo se les exige más capital.
+a8c2e4	D	Consejo de Estabilidad Financiera
+50bad6	D	Aquí ves qué tan sanas están tus empresas, los bancos, el gobierno y el mundo. Si un sector cae, arrastra a sus proveedores, a los bancos que le prestaron y a quienes trabajan en él: así se contagia una crisis.
+65b36c	D	Riesgo de que la caída de una empresa, un banco o un sector arrastre a todo el sistema económico, porque todos están conectados por créditos, ventas y empleos.
+ce810c	D	riesgo sistémico
+467500	D	Cuando la crisis de un país, un banco o un sector se transmite a otros: por deudas que no se pagan, pánico de los inversionistas o menos comercio.
+288d08	D	Cuando el gobierno (o el FMI) pone dinero para salvar a bancos en problemas y evitar que el crédito se congele. Lo pagan los contribuyentes.
+98807d	D	Capacidad de pagar todas tus deudas con lo que tienes. Una empresa o banco es insolvente cuando debe más de lo que vale.
+fbaa3c	D	Dinero disponible para pagar ya. Una empresa puede ser rentable y aun así quebrar si se queda sin efectivo para pagar sueldos y proveedores.
+01763d	D	Parte de sus activos que un banco debe tener con dinero propio (no prestado) para absorber pérdidas sin quebrar.
+b94031	D	requerimiento de capital
+c77844	D	Personas que quieren trabajar y buscan empleo pero no lo tienen. Sube cuando los sectores donde trabajan entran en crisis.
+0af73f	D	🧨 Riesgo sistémico
+6272fb	D	🩺 Salud de la economía y contagio
+2f63ab	D	casas y viviendas humildes
+3882bc	D	edificios de departamentos y casas
+54f68f	D	rascacielos y avenidas
+36f30f	D	, río
+65ed47	D	☀️ Día
+5564bc	D	/* --- seguridad de pantalla (viewport-fit=cover) --- */\n.app{padding-left:max(10px,env(safe-area-inset-left));padding-right:max(10px,env(safe-area-inset-right))}\nbody.land .app{padding-left:max(10px,env(safe-area-inset-left));padding-right:max(10px,env(safe-area-inset-right))}\n.bottom{padding-left
+2b9ece	D	Enter
+32c536	D	Río grande
+57e681	D	Industria y ciudades
+966987	D	Tierra convertida en cultivos
+c86b99	D	Desarrollo y regulación ambiental
+ca4813	D	Población por km²
+0a4d47	D	Agua del resto del país
+1eb141	D	Lluvia y clima
+69b7e0	D	Ocupación militar
+d8cb2a	D	Sequía este año
+de4b55	D	Sequía en la provincia
+327a63	D	Crecimiento de la población
+b79a11	D	Presas, pozos y redes de agua
+ed1999	D	Tierra cultivable por persona
+f91ad3	D	Capacidad de importar alimentos
+26f86e	D	Precio mundial de los granos
+56bd80	D	Cosechas de la provincia
+0d2145	D	Alimentos importados y su precio
+510f15	D	Sequía (contra un año normal)
+67e676	D	Energía importada y su precio
+cea13f	D	Menos agua por persona
+4b7975	D	Qué tan conservada está la naturaleza: baja con la población, la industria, los cultivos, la guerra y la sequía.
+b196fa	D	Salud del ecosistema
+2d3200	D	Con menos de 1,700 m³ por persona al año hay estrés hídrico; con menos de 1,000, escasez.
+4fb591	D	Agua dulce
+f09aaa	D	Seguridad alimentaria
+5da13c	D	de la superficie
+5e971d	D	Tierra cultivable
+85d589	D	Agua por persona
+8fbe58	D	Riesgo de sequía
+c49c23	D	por año
+197242	D	Ecosistema
+e624ee	D	Agua
+3ef09e	D	Bioma
+7d313f	D	Gran región natural con un clima, una vegetación y una fauna parecidos: selva, sabana, desierto, taiga…
+ee3a7a	D	Define cuánta lluvia escurre, cuánta tierra se puede cultivar y qué tan seguido hay sequías.
+859a20	D	Con poca agua por persona, la sequía pega más fuerte a las cosechas, los servicios públicos y la felicidad.
+ad3776	D	El agua de lluvia que escurre por ríos y se filtra a los acuíferos cada año, más la que traen los ríos de aguas arriba.
+cfffcd	D	Agua dulce renovable
+20e90d	D	Un país que importa mucha comida sufre cuando los granos se encarecen en el mundo.
+4784a0	D	Que la población tenga suficientes alimentos: produciéndolos o pudiendo comprarlos fuera.
+650adf	D	Agua renovable
+851d27	D	Autosuficiencia alimentaria
+9e6e0b	D	de la población
+e3252b	D	Provincias con sequía
+3ce609	D	Promedio de sus provincias según su superficie.
+7e2b92	D	Umbral de Falkenmark: menos de 1,700 m³ por persona al año es estrés hídrico; menos de 1,000, escasez; menos de 500, escasez absoluta.
+77a1de	D	v23a país
+bc1dbe	D	Estrés hídrico
+619ecb	D	Naturaleza y recursos
+01fe0f	D	Gran región natural con clima, plantas y animales parecidos: selva, sabana, desierto, estepa, bosque, taiga, tundra o montaña.
+8ba1b0	D	Agua dulce que la lluvia repone cada año en ríos y acuíferos. Se mide en metros cúbicos por persona al año.
+edc5e7	D	Cuando hay menos de 1,700 m³ de agua renovable por persona al año. Bajo 1,000 es escasez y bajo 500, escasez absoluta (umbral de Falkenmark).
+eeccd8	D	estrés hídrico
+cc7f99	D	Parte del territorio que se puede sembrar. Depende del clima, del relieve y del agua, y crece con el riego.
+a601f6	D	Que toda la población tenga alimentos suficientes, ya sea porque los produce o porque puede comprarlos a otros países.
+0fdc9f	D	Un año con mucha menos lluvia de lo normal. Reduce las cosechas y el agua disponible, y pega más a los países que dependen del campo.
+f05314	D	Sequía
+8d6cae	D	🌿 Salud del ecosistema
+51ca89	D	🌿 Naturaleza y recursos
+d8a207	D	Un país con menos de 1,700 m³ de agua renovable por persona al año vive estrés hídrico. Bajo 1,000 m³ hay escasez y bajo 500, escasez absoluta.
+dbe190	D	Solo cerca del 11 % de la superficie terrestre del planeta es tierra cultivable.
+4cb456	D	En 2022, varios países prohibieron exportar alimentos tras la invasión de Ucrania, uno de los mayores exportadores de trigo y maíz del mundo.
+9ba038	D	Presa que corta el río
+cf6aa2	D	Proyectos de agua (desalinización, presas, riego)
+790b54	D	Salud del ecosistema (ríos en azul)
+65fa72	D	Planta
+7389b3	D	Animal
+dab812	T	{0} de {1} están en riesgo: la causa es lo que más le resta al ecosistema entre sus amenazas.
+f888fa	D	Ninguna está en riesgo por ahora.
+947cea	D	Solo puedes construir en provincias de tu país.
+31475a	D	tu gobierno
+c08f3c	D	el gobierno
+08cfe9	D	Riego
+4440c2	D	Desalinización
+ecde02	D	Especie en riesgo
+1c01c8	D	v23b país
+23eb3c	D	Quitar la sal al agua de mar para volverla potable. Da agua aunque no llueva, pero gasta mucha energía y deja salmuera que daña la costa.
+795688	D	Llevar agua a los cultivos con canales, pozos o goteo. Permite sembrar donde llueve poco y cosechar más, pero usa gran parte del agua dulce.
+37e3fb	D	especies en riesgo
+807a23	D	en peligro
+86730f	D	especie en riesgo
+ebcde6	D	Planta o animal cuya población baja tanto que podría desaparecer de un lugar. La causa más común es la pérdida de su hábitat.
+759c52	D	Flora y fauna
+aacf0f	D	🦋 Flora y fauna
+eae466	D	🏗️ Proyectos de agua y alimentos
+efc332	D	Proyectos de agua y alimentos
+81d1e7	D	Autoridad del Agua de Israel
+c54050	D	Israel obtiene cerca de 70 % de su agua potable de plantas desalinizadoras en la costa del Mediterráneo.
+4b8581	D	Los Países Bajos son el segundo exportador de alimentos del mundo por valor, gracias en buena parte a sus invernaderos.
+b3342d	D	FAO; Universidad de Wageningen
+24513c	D	Cerca de un millón de especies de plantas y animales están en peligro de extinción, sobre todo por la pérdida de su hábitat.
+0dc2a0	D	Plantas de tratamiento de aguas
+6e327f	D	Contaminación de empresas (fábricas, minas, pozos)
+3e6f2e	D	Reforestación y áreas protegidas
+091b73	D	Empresa de bolsa
+b003ec	D	Tu empresa
+c88f37	D	Extracción
+335fa9	D	Investigar
+7b8266	D	Contaminación industrial
+f02e61	D	v23c país
+488a86	D	área protegida
+559cad	D	áreas protegidas
+6dc117	D	Zona donde la ley limita la caza, la tala, la construcción y la agricultura para conservar la naturaleza. Protege especies y cuencas de agua y atrae turismo.
+6c43ff	D	Volver a plantar árboles donde hubo bosque. El bosque retiene la lluvia, recarga los acuíferos y devuelve el hábitat a muchas especies; tarda años en dar efecto.
+517784	D	Desechos que fábricas, minas y pozos petroleros echan al aire, al agua y al suelo. Las plantas de tratamiento limpian parte del agua antes de devolverla a los ríos.
+c4450e	D	contaminación industrial
+653009	D	🏭 Contaminación de empresas
+ba97ca	D	Contaminación de empresas
+47818f	D	🌳 Conservación
+fd5d4d	D	Conservación
+5208dc	D	SINAC; FAO, Evaluación de los Recursos Forestales
+7acc17	D	Costa Rica pasó de cerca de 21 % de su territorio con bosque en 1987 a más de 50 % hoy, con pagos a los dueños de tierras por conservarlo.
+4a6c3c	D	Las áreas protegidas cubren cerca de 17 % de la tierra firme del mundo.
+a04a4e	D	UNEP-WCMC y UICN, Protected Planet Report 2020
+204c96	D	:root{--v3g:rgba(12,18,26,.72)}\n@supports (background:color-mix(in srgb,red 50%,transparent)){:root{--v3g:color-mix(in srgb,var(--glass,#0c121a) 74%,transparent)}}\n/* --- 7) generales: toque de 44 px, barras finas, transiciones cortas --- */\n*{scrollbar-width:thin;scrollbar-color:var(--line2,#2b3a4
+58afc8	D	Capas del mapa
+862604	T	Máximo {0} activos.
+8e7e8c	D	/* ---------- 1) pestañas: una fila, trazo en la activa ---------- */\nbody :is(.ntabs,.mkt,.nwt){position:relative;display:flex;flex-wrap:nowrap;gap:0;margin:2px 0 10px;padding:0;overflow-x:auto;overflow-y:hidden;border:0;border-bottom:1px solid var(--line);border-radius:0;background:none;scrollbar
+256a5c	D	Abrir menú
+2739ab	D	Plegar menú
+216b3d	D	Suave
+d11840	D	Ágil
+6aaab3	D	Con inercia
+6baff9	D	Sin inercia
+f746cf	D	Flete de las importaciones
+c89d74	D	📦 Envío perdido este mes
+15e809	D	asignación automática
+3c86ab	D	Flota
+aa9a70	D	Rutas
+dd85ae	D	elegidas por ti
+35b09f	D	sube con la reputación
+75cfed	D	al mes (combustible, sueldos y renta)
+7f0d0c	D	Costo operativo
+4df5b8	D	restan reputación y caja
+72405c	D	Retrasos y pérdidas
+b80450	D	Envíos a tiempo
+f017a6	T	{0} de {1} este año
+3c276e	D	Transportistas
+66d405	D	Red de tu país
+0ec38f	D	sin importaciones en la red
+e7294a	D	Eficiencia de la red
+97fd61	D	Dependencia de importaciones
+df59a8	D	de lo que consume en recursos
+7b2233	D	Envíos
+310ee0	D	Flete
+94573b	D	Logística
+4a4620	D	v24a país
+00e497	D	este año
+c534c4	D	Carga al año
+623773	D	Envíos (tocar para mostrar)
+86eb30	D	Envíos (tocar para ocultar)
+1041a0	D	Todo lo que hace falta para que un bien llegue de donde se produce a donde se usa: transporte, almacenes, puertos, aduanas y la información que los coordina.
+c916db	D	Lo que cuesta transportar una carga. Se suma al precio de lo que se importa: por eso un mismo bien cuesta más lejos de donde se produce.
+1a8987	D	Flota = sucursales × unidades (12 camiones, 2 buques o 1 avión por sucursal); cada sucursal cubre una ruta de la red (hasta 8). Con todas tus rutas cubiertas la demanda sube hasta +12 %; sin rutas baja 8 %. Cada mes cada ruta puede retrasarse (~3.5 %) o perder el envío (~0.5 %; más con baja reputaci
+682b2b	D	🚚 Logística de tu empresa
+72fe85	D	Logística de tu empresa
+a21619	D	Una empresa de transporte vende capacidad: camiones, buques o aviones que mueven carga de otros. Gana más cuando su flota va llena y sus envíos llegan a tiempo; los retrasos y las pérdidas cuestan clientes y seguros.
+151430	D	🚚 Logística
+828b20	D	Cada año los países que exportan un recurso abastecen a los que lo importan, y las provincias con cosechas de sobra a las que no se alimentan solas. El flete de las importaciones depende de la distancia, del modo, de la eficiencia de los transportistas contra la media del mundo y de la guerra; si su
+b2284e	D	Cerca del 80 % del comercio mundial por volumen viaja en barco; el avión mueve poco peso pero mucho valor. El flete se suma al precio de todo lo que se importa.
+c1e471	D	Cerca del 80 % del comercio mundial de mercancías, medido por volumen, viaja por mar.
+e3e451	D	El canal de Suez ahorra a un barco entre Asia y Europa unos 7,000 km frente a rodear África por el cabo de Buena Esperanza.
+e40836	D	Autoridad del Canal de Suez
+787171	D	:root{--v4rim:rgba(255,255,255,.2);--v4gb:rgba(16,24,34,.62);--v4gr:radial-gradient(130% 120% at 28% 16%,rgba(255,255,255,.26),rgba(255,255,255,.07) 42%,rgba(0,0,0,.12) 100%);\n --v4sh:inset 0 1px 1px rgba(255,255,255,.34),inset 0 -4px 8px rgba(0,0,0,.22),0 5px 12px rgba(0,0,0,.32);--v4on:var(--act,
+097afc	D	Envíos en el mapa: visibles (tocar para ocultar)
+774018	D	Envíos en el mapa: ocultos (tocar para mostrar)
+da98cd	T	Otras ciudades ({0})
+8749db	T	Clubes ({0})
+7a66fc	D	Volver a:
+bd281d	D	Volver dos pantallas:
+0a5fa7	D	por mes
+459b30	D	días este año
+602c3c	D	Cambio
+60180b	D	v24b país
+74b095	D	Tu vida
+c87aa1	D	Aprender
+de9aa2	D	Juego
+addfa4	D	Otros
+fb4187	D	v24b menú
+f828c6	D	Naturaleza
+ce4ec9	D	Ver tu país
+fc6296	D	Naturaleza de tu país
+a61197	D	Ocultar envíos
+ee796a	D	Ver envíos
+ed476b	D	Red logística
+399313	D	Actividad
+28f064	D	Empresas estatales
+5975f6	D	Carga aérea y petróleo
+9c0d3d	D	Solo quien gobierna construye en provincias de su país.
+5b4c58	T	Construyes ✈️ un aeropuerto en {0}: ahora es de nivel {1}.
+2d47a7	D	✈️ Red aérea
+b4de1f	D	Aeropuertos
+604b54	D	100 % = aeropuertos de partida
+a8cac3	D	Conectividad aérea
+d53e85	D	Rutas aéreas
+3bd28d	D	encarece o abarata el vuelo
+9db502	D	Flete aéreo (1,500 px)
+ef6375	D	Petróleo contra su tendencia
+5a4421	D	Tránsito a
+83f8d3	D	Ventas del año
+e0e325	D	Empleo
+03ed26	D	Presupuesto anual
+13040d	D	inversión y mantenimiento
+68ffc6	D	Al tesoro el año pasado
+d35fe9	D	Aporte al PIB
+883839	D	Privatización
+f5ef97	D	Cierre
+3f403f	D	Empresa estatal
+72ddfc	D	Ya tienes una de este giro.
+c41dc8	D	Gasto de los turistas
+efc70a	D	Llegadas al año
+3b0035	D	Peso en la economía
+9a65f3	D	Lugar en el mundo
+9b65d8	D	Gasto por visitante
+f41787	D	por llegadas
+b523f8	D	Efecto de las políticas
+dca9ab	D	campaña, visado, tasa, aeropuertos y áreas protegidas
+243251	D	📣 Campaña
+3afae2	D	sin campaña
+528aa8	D	💵 Tasa turística
+f66b83	D	🏞️ Áreas protegidas
+436eb1	D	Campaña turística
+b6a333	D	Visado
+8c58b2	D	Tasa turística
+8818e6	D	Turistas al año
+e5a0a1	D	v24c país
+12a0ba	D	Del PIB de
+827139	D	Su sector
+6e4c06	D	Empresas en la bolsa
+f8b117	D	Empresa cuyo dueño es el gobierno. Su ganancia entra al tesoro y su pérdida la paga el tesoro; puede venderse a privados (privatizar) o salir a la bolsa.
+9671a3	D	Privatizar
+d968e7	D	Vender una empresa del Estado a dueños privados. El gobierno recibe dinero una vez y deja de recibir (o de pagar) su resultado cada año.
+c76b37	D	Turismo internacional
+fa7584	D	Visitantes que llegan de otro país y gastan en hoteles, restaurantes, transporte y compras: para la economía es como una exportación.
+32cae9	D	El tesoro pone el capital (0.03 %, 0.1 % o 0.3 % del PIB) y un presupuesto anual (0 %, 3 % o 6 % del capital; el 70 % se vuelve capital y mueve la eficiencia). Ventas = capital ÷ intensidad de capital del giro × demanda (salud del sector y prosperidad de la provincia) × √eficiencia. El resultado va
+69b3bb	D	🏛️ Secretaría de inversiones
+de4490	D	Secretaría de inversiones
+dfc0bb	D	Muchos países tienen empresas del Estado en petróleo, electricidad, bancos de fomento o transporte. Pueden dar empleo y servicios estratégicos, pero si pierden dinero lo paga el tesoro.
+0b28ed	D	Llegadas = dato de 2019 (aprox.) × crecimiento del mundo × políticas × condiciones (guerra, sanciones, estabilidad). Se reparten por provincia según sus atractivos (ciudad, capital, costa, naturaleza, aeropuerto, área protegida). Tus hoteles, bares y joyerías venden según la intensidad turística de
+233acd	D	Secretaría de turismo
+80b21c	D	🏖️ Secretaría de turismo
+b6cb25	D	En 2019 llegaron cerca de 1,460 millones de turistas internacionales en el mundo y gastaron alrededor de 1.5 billones de dólares (OMT). Francia, España y EE. UU. reciben más visitantes; EE. UU. es el que más ingresa.
+8e4501	D	Aeropuertos base en capitales y ciudades de 1 millón o más (nivel 1–3) y los que construyas. Rutas por gravedad (población × ingreso ÷ distancia). Flete aéreo = 10 % + 4 % por distancia, × precio del petróleo contra su tendencia. Más conectividad que la de partida abarata lo importado en Comercio mi
+ada182	D	El avión mueve menos del 1 % del peso del comercio mundial, pero cerca de un tercio de su valor: lo urgente, lo perecedero y lo caro. El combustible es una de sus mayores costos.
+b8cb2c	D	Red aérea
+6ff790	D	🏛️ Estado empresario y turismo
+939ed6	D	OMT, Barómetro del Turismo Mundial
+ae9de3	D	Francia es el país que más turistas internacionales recibe (unos 89 millones en 2019), pero EE. UU. es el que más ingresa por turismo.
+96a93b	D	El transporte aéreo lleva menos del 1 % del volumen del comercio mundial, pero alrededor de un tercio de su valor.
+85d605	D	:root{--v5rim:rgba(255,255,255,.26);--v5gb:rgba(14,20,30,.42);\n --v5gr:radial-gradient(120% 110% at 30% 14%,rgba(255,255,255,.3),rgba(255,255,255,.08) 40%,rgba(255,255,255,0) 62%,rgba(0,0,0,.16) 100%);\n --v5sh:inset 0 1px 1px rgba(255,255,255,.4),inset 0 -5px 9px rgba(0,0,0,.2),inset 0 0 0 1px rgba
