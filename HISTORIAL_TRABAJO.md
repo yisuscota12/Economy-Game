@@ -17,7 +17,8 @@ está en `CONTEXTO_IA.md` (secciones 3, 7, 9 y 10); este archivo es el resumen c
 | `0c04aca` | v2.3e | Pestañas más simples; riel izquierdo plegable; pantalla completa en horizontal (metas de app web); mapa con umbral de 7 px, zoom en los dedos, inercia y sensibilidad en Ajustes. |
 | `26d332b` | — (textos) | Traducción de los textos nuevos de v2.3a a v2.3e a los 13 idiomas (422 claves; sin cambiar claves existentes). |
 | `60563f7` | v2.4a | Fase 6, parte 1: empresas de transporte (terrestre, 🚢 naviera, ✈️ carga aérea) con flota, rutas y costo operativo; 20 transportistas de la IA; red de envíos anual; capa 🚢 Envíos en el mapa (lienzo propio, sin librerías); pantalla 🚚 Logística; flete de las importaciones como efecto pequeño. Textos solo en español. |
-| (este commit) | v2.4b | Interfaz horizontal, fase 1 de la lista del dueño: ficha de ciudad sin desplazarse (secundario en subpestañas, acciones abajo); botón de envíos con icono vectorial en la ficha; riel de gotas de cristal por categoría con submenús que brotan; barra de submenús de cristal con atrás de 2 pasos, métricas con su tiempo y filas que se arrastran; burbuja del mapa con acciones según el tipo de mapa. Textos nuevos solo en español. |
+| `15fcab3` | v2.4b | Interfaz horizontal, fase 1 de la lista del dueño: ficha de ciudad sin desplazarse (secundario en subpestañas, acciones abajo); botón de envíos con icono vectorial en la ficha; riel de gotas de cristal por categoría con submenús que brotan; barra de submenús de cristal con atrás de 2 pasos, métricas con su tiempo y filas que se arrastran; burbuja del mapa con acciones según el tipo de mapa. Textos nuevos solo en español. |
+| (este commit) | v2.4c | Fase 2 de la lista del dueño (economía): ✈️ aeropuertos y rutas aéreas (capa del mapa y pestaña en 🚚 Logística; el costo sigue al petróleo); 🏛️ Secretaría de inversiones (empresas estatales: fundar, invertir, recortar, presupuesto, privatizar, sacar a bolsa, cerrar; la IA tiene las suyas); 🏖️ Secretaría de turismo (llegadas y gasto por país y provincia con datos aprox. de la OMT de 2019; campaña, visado, tasa, áreas protegidas, aeropuertos); bolsa con 178 empresas según el PIB (cada una representa su sector). Textos solo en español. |
 
 ## Decisiones tomadas por el dueño
 
@@ -31,6 +32,7 @@ está en `CONTEXTO_IA.md` (secciones 3, 7, 9 y 10); este archivo es el resumen c
 - v2.3a: PIB mundial +0.2 % (dentro del ruido de ±0.36 %).
 - v2.3b: PIB +0.16 %, recesiones −0.8 %, crisis +4.6 % (dentro del ruido).
 - v2.4a: 60 semillas. La primera versión dio PIB −0.45 % (A/A −0.06 %): fuera del ruido; se corrigió (no llenar la caché de la naturaleza en `ageUp`, sin baja en bolsa). Final: PIB +0.03 % (A/A +0.37 %), recesiones −0.2 %, crisis +1.0 %, salud ponderada −0.66 (A/A +0.66), felicidad −0.03: dentro del ruido.
+- v2.4c: 60 semillas en 6 tandas. Primera versión: salud ponderada −0.6 a −1.4 en 3 tandas por el sesgo del petróleo en «naer»; se redujo el efecto. Final: PIB +0.61 % (A/A −0.32 %); con una segunda base, diferencia de medias +0.30 % (dentro del ruido), salud ponderada −0.05, recesiones +0.4 %, crisis +0.6 % (A/A −0.8 %), felicidad −0.07.
 - v2.3c: 60 semillas en dos tandas. La primera (semillas 1–30) dio PIB −0.64 %, fuera del ruido de +0.15 %; la segunda (31–60) dio +0.79 %. Con 60 semillas: +0.07 %, dentro del ruido. **Pendiente de vigilar** si el PIB mundial sale fuera del ruido en pruebas más largas.
 
 ## Pendientes

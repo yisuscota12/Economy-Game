@@ -8,6 +8,8 @@
 // v2.3c: quita=v23c compara la v2.3b contra la v2.3c (conservación, contaminación, sequía en granjas, avance); quita=zzzz no quita nada
 // (las dos corridas son la versión actual: sirve para medir el ruido A/A). Muestra también la contaminación de empresas.
 // v2.4a: quita=v24a compara la v2.3c contra la v2.4a (logística); muestra flujos por modo, el término «nlog» en Comercio minorista y la eficiencia de los transportistas.
+// v2.4c: quita=v24c compara la v2.4a/b contra la v2.4c (red aérea, empresas estatales, turismo, bolsa según el PIB); muestra aeropuertos y rutas, estatales de la
+//        IA, términos «naer» y «est» visibles, empresas que cotizan y llegadas de turistas.
 const fs=require('fs'),vm=require('vm');const D=__dirname+'/';const args=Object.fromEntries(process.argv.slice(2).map(a=>a.split('=')));
 const QUITA=new RegExp(args.quita||'v23');   // v2.3b: quita=v23b compara contra la v2.3a (sin quita: contra la versión sin naturaleza)
 const Y=+(args.years||10),nid=args.c||'MEX',mode=args.mode||'realista';const seeds=(args.seeds||'1,2,3,4').split(',').map(Number);
@@ -44,6 +46,10 @@ function run(seed,withNat){const files=withNat?all:all.filter(f=>!QUITA.test(f))
         const E=Object.values(G.lg.ai).map(a=>a.e);let dl=0,ls=0;Object.values(G.lg.ai).forEach(a=>{dl+=a.dl;ls+=a.ls;});
         return {flujos:by,paises_con_termino:vis.length+' de '+T.length,termino_min_media_max:[Math.min(...T),T.reduce((a,b)=>a+b,0)/Math.max(1,T.length),Math.max(...T)].map(v=>+v.toFixed(2)).join(' / '),
           eficiencia_ia:Math.min(...E).toFixed(2)+'–'+Math.max(...E).toFixed(2),retrasos_perdidas_ultimo_anio:dl+' / '+ls,mes:G.lg.t};})():'-',
+      v24c:typeof seEnsure==='function'?(()=>{const S=seEnsure();const N=Object.values(G.nations).filter(n=>n.alive);let na=0,es=0;N.forEach(n=>{['retail','lujo'].forEach(k=>{if(shParts(n,k).some(z=>z[0]==='naer'))na++;});SH_K.forEach(k=>{if(shParts(n,k).some(z=>z[0]==='est'))es++;});});
+        let co=0,rp=0,dead=0;for(const id in G.mk.C){const c=G.mk.C[id];if(c.ix)continue;co++;if(c.rp)rp++;if(c.dead)dead++;}let ta=0;N.forEach(n=>ta+=tuNat(n.id).arr);const R=aeRoutes();
+        return {aeropuertos:Object.keys(aeBaseAll()).length,rutas_aereas:R.length,estatales_ia:S.L.length,estatales_ventas_mm:Math.round(S.L.reduce((a,e)=>a+(e.rev||0),0)/1e9),en_quiebra:S.L.filter(e=>e.qb).length,
+          naer_visible:na,est_visible:es,cotizan:co+' ('+rp+' nuevas, '+dead+' quebradas)',turistas_millones:Math.round(ta/1e6)};})():'-',
       escasez:ntRes('${nid}').filter(e=>e.pr>0||e.st<2).map(e=>e.k+':'+NT_RST[e.st]).join(' '),ms_3422_prov:tP,nan:A.concat(W,F).filter(v=>!isFinite(v)).length};})()`);
   return o;}
 const R={con:[],sin:[]};const f2=v=>+v.toFixed(2);
