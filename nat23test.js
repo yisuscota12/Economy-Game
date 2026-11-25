@@ -7,6 +7,7 @@
 // alimentos terminados en el mundo y especies en riesgo.
 // v2.3c: quita=v23c compara la v2.3b contra la v2.3c (conservación, contaminación, sequía en granjas, avance); quita=zzzz no quita nada
 // (las dos corridas son la versión actual: sirve para medir el ruido A/A). Muestra también la contaminación de empresas.
+// v2.4c: quita=v24c compara la v2.4b contra la v2.4c (pasos, huelgas, obras); muestra el bloque «pasos» (eventos de 10 años, rutas por paso, obras).
 // v2.4a: quita=v24a compara la v2.3c contra la v2.4a (logística); muestra flujos por modo, el término «nlog» en Comercio minorista y la eficiencia de los transportistas.
 const fs=require('fs'),vm=require('vm');const D=__dirname+'/';const args=Object.fromEntries(process.argv.slice(2).map(a=>a.split('=')));
 const QUITA=new RegExp(args.quita||'v23');   // v2.3b: quita=v23b compara contra la v2.3a (sin quita: contra la versión sin naturaleza)
@@ -44,6 +45,8 @@ function run(seed,withNat){const files=withNat?all:all.filter(f=>!QUITA.test(f))
         const E=Object.values(G.lg.ai).map(a=>a.e);let dl=0,ls=0;Object.values(G.lg.ai).forEach(a=>{dl+=a.dl;ls+=a.ls;});
         return {flujos:by,paises_con_termino:vis.length+' de '+T.length,termino_min_media_max:[Math.min(...T),T.reduce((a,b)=>a+b,0)/Math.max(1,T.length),Math.max(...T)].map(v=>+v.toFixed(2)).join(' / '),
           eficiencia_ia:Math.min(...E).toFixed(2)+'–'+Math.max(...E).toFixed(2),retrasos_perdidas_ultimo_anio:dl+' / '+ls,mes:G.lg.t};})():'-',
+      pasos:typeof lgCkUse==='function'?(()=>{const U=lgCkUse();let ob=0;for(const r in G.np||{})for(const k of NT_LGK){const e=G.np[r][k];if(e)ob+=e.l;}
+        return {eventos:G.lg.nc||{},rutas_por_paso:Object.fromEntries(Object.entries(U).map(([k,u])=>[k,u.n])),obras_logistica_terminadas:ob,factor_obras_media:lgObMean()};})():'-',
       escasez:ntRes('${nid}').filter(e=>e.pr>0||e.st<2).map(e=>e.k+':'+NT_RST[e.st]).join(' '),ms_3422_prov:tP,nan:A.concat(W,F).filter(v=>!isFinite(v)).length};})()`);
   return o;}
 const R={con:[],sin:[]};const f2=v=>+v.toFixed(2);

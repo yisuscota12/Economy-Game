@@ -19,6 +19,13 @@ está en `CONTEXTO_IA.md` (secciones 3, 7, 9 y 10); este archivo es el resumen c
 | `60563f7` | v2.4a | Fase 6, parte 1: empresas de transporte (terrestre, 🚢 naviera, ✈️ carga aérea) con flota, rutas y costo operativo; 20 transportistas de la IA; red de envíos anual; capa 🚢 Envíos en el mapa (lienzo propio, sin librerías); pantalla 🚚 Logística; flete de las importaciones como efecto pequeño. Textos solo en español. |
 | (este commit) | v2.4b | Interfaz horizontal, fase 1 de la lista del dueño: ficha de ciudad sin desplazarse (secundario en subpestañas, acciones abajo); botón de envíos con icono vectorial en la ficha; riel de gotas de cristal por categoría con submenús que brotan; barra de submenús de cristal con atrás de 2 pasos, métricas con su tiempo y filas que se arrastran; burbuja del mapa con acciones según el tipo de mapa. Textos nuevos solo en español. |
 
+## Sesión del 25 de noviembre de 2026 (GitHub, issue #1, rama `claude/issue-1-20261125-0310`)
+
+| Commit | Versión | Qué hace |
+|---|---|---|
+| (12 commits de arriba) | v2.2e–v2.4b | Se trajo la rama `claude/busy-goldberg-g55ljm` a esta rama (avance rápido, sin conflictos) para que el PR los lleve a `main`. |
+| (este commit) | v2.4c | Fase 6, parte 2: 🌊 estrechos y canales (Suez, Panamá, Bósforo, Ormuz, Malaca, Bab el-Mandeb) que se cierran por guerra, accidente, sequía o tensión, o tienen piratería; huelgas portuarias; 🏗️ terminal de contenedores y 🛫 aeropuerto de carga como obras; pestaña «🌊 Pasos y obras» en 🚚 Logística; pasos cerrados en el mapa. Textos solo en español. |
+
 ## Decisiones tomadas por el dueño
 
 - Estilo pixel: **prueba 3** (ciudad isométrica), aplicada a toda la interfaz pixel en v2.2e.
@@ -31,6 +38,7 @@ está en `CONTEXTO_IA.md` (secciones 3, 7, 9 y 10); este archivo es el resumen c
 - v2.3a: PIB mundial +0.2 % (dentro del ruido de ±0.36 %).
 - v2.3b: PIB +0.16 %, recesiones −0.8 %, crisis +4.6 % (dentro del ruido).
 - v2.4a: 60 semillas. La primera versión dio PIB −0.45 % (A/A −0.06 %): fuera del ruido; se corrigió (no llenar la caché de la naturaleza en `ageUp`, sin baja en bolsa). Final: PIB +0.03 % (A/A +0.37 %), recesiones −0.2 %, crisis +1.0 %, salud ponderada −0.66 (A/A +0.66), felicidad −0.03: dentro del ruido.
+- v2.4c (`quita=v24c`, base = v2.4b, 10 años, México, Realista). Primera versión, 40 semillas: PIB mundial 147.20 → 147.36 billones (+0.10 %; tandas de 5 entre −2.9 % y +1.7 %), recesiones +1.5 %, crisis +4.8 %, salud ponderada −0.15, felicidad −0.10. Ahí se vio que los eventos caían en los mismos meses en todas las partidas (h21 sin sal; el mundo inicial es igual siempre) y que había huelgas en países con «costa» de lago: se corrigió (sal por partida y huelgas solo en países con rutas marítimas). Versión final, 20 semillas: PIB 147.72 → 147.19 (−0.36 %; tandas +1.08, +0.35, −0.85, −1.97 %; la desviación por semilla es ~2.3 %, error de la media ~0.5 %), recesiones 2,791 → 2,827 (+1.3 %), crisis 502 → 487 (−3.0 %), salud ponderada 44.92 → 45.57, felicidad 48.46 → 48.51, mes 68.3 → 70.1 ms. Dentro del ruido. En 10 años, la primera semilla tuvo 1 cierre, 2 olas de piratería y ~5 huelgas; el término «nlog» se ve en 14–26 de ~50 países (antes 0–15).
 - v2.3c: 60 semillas en dos tandas. La primera (semillas 1–30) dio PIB −0.64 %, fuera del ruido de +0.15 %; la segunda (31–60) dio +0.79 %. Con 60 semillas: +0.07 %, dentro del ruido. **Pendiente de vigilar** si el PIB mundial sale fuera del ruido en pruebas más largas.
 
 ## Pendientes
@@ -48,12 +56,13 @@ está en `CONTEXTO_IA.md` (secciones 3, 7, 9 y 10); este archivo es el resumen c
 - Corregir «personas» en zh, ja y ko (traducción antigua mala); cambia la clave en el código.
 - Dirección del árabe en los textos nuevos.
 
-### Traducción (v2.4a y v2.4b)
+### Traducción (v2.4a, v2.4b y v2.4c)
+- Traducir los textos nuevos de la v2.4c (lista en `CONTEXTO_IA.md`, sección 10, «v2.4c»).
 - Traducir los textos nuevos de la v2.4b (lista en `CONTEXTO_IA.md`, sección 9e, «v2.4b»).
 - Traducir los ≈ 80 textos nuevos de la v2.4a a los 13 idiomas (lista en `CONTEXTO_IA.md`, sección 10, «v2.4a»).
 
 ### Ruta del juego (siguiente)
-- **Fase 6: Logística**: parte 1 hecha en v2.4a. Parte 2: agencias y organizaciones de comercio, aduanas, puertos y aeropuertos como obras, bloqueos y estrechos cerrados, eventos de envíos. Probar en iPhone 11 y Toshiba la capa 🚢 y la pantalla 🚚.
+- **Fase 6: Logística**: parte 1 hecha en v2.4a y parte 2 en v2.4c (estrechos y canales, huelgas, terminal de contenedores y aeropuerto de carga). Queda para una parte 3: agencias y organizaciones de comercio, aduanas y aranceles, rutas que traza el jugador. Probar en iPhone 11 y Toshiba la capa 🚢 y la pantalla 🚚.
 - **Fase 7: Política y mundo** (estimado 28–36 h).
 - Pendientes menores de la fase 5: que la IA pague obras con su presupuesto; que la sequía afecte a las empresas agrícolas de la bolsa; ríos y lagos con nombre cuando haya datos de Natural Earth; avances científicos adicionales; íconos propios para 🚰 y 🔬; que la contaminación afecte a las empresas de la IA del mercado.
 
