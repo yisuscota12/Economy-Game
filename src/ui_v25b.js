@@ -5,6 +5,7 @@
    - Más transparentes: el fondo de la gota deja ver el mapa; el relieve es un degradado de cristal con borde de luz.
    - Relieve 3D: brillo especular más nítido arriba a la izquierda y refracción leve abajo.
    - Más rápidas: transiciones de resorte más cortas (el mismo rebote, menos espera).
+   - Burbujas superiores (reloj, Personaje, País, noticias): mismo cristal.
    - Modo ligero (html.v4lt, mapa en Canvas 2D de la Toshiba): sin desenfoque de fondo ni brillos caros.
    Desenfoque (backdrop-filter) pequeño y solo fuera del modo ligero: el iPhone 11 lo soporta con pocas gotas. */
 (function(){const st=document.createElement('style');st.id='st25b';st.textContent=`
@@ -28,6 +29,9 @@ html.v3m body.land .bottom>.in>.nav.on{transform:scale(1.1)}
 #v4dr .v4dn{background:var(--v5gb);border:1px solid var(--v5rim);transition:opacity .12s ease,transform .18s cubic-bezier(.3,1.5,.5,1)}
 #v4dr.v4o .v4d,#v4dr.v4o .v4dn{opacity:1}
 html.v3m body.land .bottom>.in>.nav:active,.v4d:active{transform:scale(.9)!important}
+/* burbujas superiores (reloj, Personaje, País, noticias): mismo cristal que el riel */
+html.v3m #v3top>.v3bb,html.v3m #v3top #tick.v3dot{border:1px solid var(--v5rim)!important;background:var(--v5gr),var(--v5gb)!important;box-shadow:var(--v5sh)!important;transition:transform .18s cubic-bezier(.3,1.5,.5,1),box-shadow .16s ease}
+html.v3m #v3top>.v3bb:active{transform:scale(.92)}
 /* con desenfoque (fuera del modo ligero): ligero y sin costo en el iPhone */
 html:not(.v4lt) .v4d,html.v3m:not(.v4lt) body.land .bottom>.in>.nav{-webkit-backdrop-filter:blur(6px) saturate(1.6);backdrop-filter:blur(6px) saturate(1.6)}
 /* modo ligero (Toshiba, mapa en Canvas 2D): sin desenfoque ni reflejos extra */
