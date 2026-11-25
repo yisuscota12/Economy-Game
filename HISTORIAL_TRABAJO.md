@@ -16,7 +16,8 @@ está en `CONTEXTO_IA.md` (secciones 3, 7, 9 y 10); este archivo es el resumen c
 | `a2cc7ac` | v2.3d | Horizontal con mapa a pantalla completa; reloj, Personaje, País y noticias como burbujas; bolsa solo en su pestaña; activos elegibles en Ajustes; botón «Ciudad». |
 | `0c04aca` | v2.3e | Pestañas más simples; riel izquierdo plegable; pantalla completa en horizontal (metas de app web); mapa con umbral de 7 px, zoom en los dedos, inercia y sensibilidad en Ajustes. |
 | `26d332b` | — (textos) | Traducción de los textos nuevos de v2.3a a v2.3e a los 13 idiomas (422 claves; sin cambiar claves existentes). |
-| (este commit) | v2.4a | Fase 6, parte 1: empresas de transporte (terrestre, 🚢 naviera, ✈️ carga aérea) con flota, rutas y costo operativo; 20 transportistas de la IA; red de envíos anual; capa 🚢 Envíos en el mapa (lienzo propio, sin librerías); pantalla 🚚 Logística; flete de las importaciones como efecto pequeño. Textos solo en español. |
+| `60563f7` | v2.4a | Fase 6, parte 1: empresas de transporte (terrestre, 🚢 naviera, ✈️ carga aérea) con flota, rutas y costo operativo; 20 transportistas de la IA; red de envíos anual; capa 🚢 Envíos en el mapa (lienzo propio, sin librerías); pantalla 🚚 Logística; flete de las importaciones como efecto pequeño. Textos solo en español. |
+| (este commit) | v2.4b | Interfaz horizontal, fase 1 de la lista del dueño: ficha de ciudad sin desplazarse (secundario en subpestañas, acciones abajo); botón de envíos con icono vectorial en la ficha; riel de gotas de cristal por categoría con submenús que brotan; barra de submenús de cristal con atrás de 2 pasos, métricas con su tiempo y filas que se arrastran; burbuja del mapa con acciones según el tipo de mapa. Textos nuevos solo en español. |
 
 ## Decisiones tomadas por el dueño
 
@@ -35,7 +36,7 @@ está en `CONTEXTO_IA.md` (secciones 3, 7, 9 y 10); este archivo es el resumen c
 ## Pendientes
 
 ### Interfaz (se arreglará más adelante, según el dueño)
-- Probar en iPhone 11 horizontal: burbujas, riel, mapa y pestañas (v2.3d y v2.3e).
+- Probar en iPhone 11 horizontal: burbujas, riel, mapa y pestañas (v2.3d y v2.3e) y lo de la v2.4b (ficha de ciudad sin desplazarse, gotas del riel, barra de submenús, burbuja del mapa por tipo).
 - Recorrido guiado (`ui_v11`) y Guía (`ui_v15`): señalan elementos que en horizontal están ocultos o en otro lugar.
 - Decidir si el riel se pliega solo al abrir un panel y si la vista vertical también usa el riel plegable.
 - Botones del mapa (zoom y modos) siguen en 32–40 px en algunos casos.
@@ -47,7 +48,8 @@ está en `CONTEXTO_IA.md` (secciones 3, 7, 9 y 10); este archivo es el resumen c
 - Corregir «personas» en zh, ja y ko (traducción antigua mala); cambia la clave en el código.
 - Dirección del árabe en los textos nuevos.
 
-### Traducción (v2.4a)
+### Traducción (v2.4a y v2.4b)
+- Traducir los textos nuevos de la v2.4b (lista en `CONTEXTO_IA.md`, sección 9e, «v2.4b»).
 - Traducir los ≈ 80 textos nuevos de la v2.4a a los 13 idiomas (lista en `CONTEXTO_IA.md`, sección 10, «v2.4a»).
 
 ### Ruta del juego (siguiente)
