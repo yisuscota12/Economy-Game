@@ -6,6 +6,7 @@
    - Relieve 3D: brillo especular más nítido arriba a la izquierda y refracción leve abajo.
    - Más rápidas: transiciones de resorte más cortas (el mismo rebote, menos espera).
    - Barra de submenús (.shx) y métricas (.v4m): cápsula de cristal, Atrás con tinte propio, activo con brillo.
+   - Pestañas de las hojas (.ntabs, .mkt, .nwt): gotas con brillo en la activa.
    - Burbujas superiores (reloj, Personaje, País, noticias): mismo cristal.
    - Modo ligero (html.v4lt, mapa en Canvas 2D de la Toshiba): sin desenfoque de fondo ni brillos caros.
    Desenfoque (backdrop-filter) pequeño y solo fuera del modo ligero: el iPhone 11 lo soporta con pocas gotas. */
@@ -42,6 +43,10 @@ html.v3m body.land .shx .bk{background:linear-gradient(180deg,rgba(255,255,255,.
 /* métricas de la barra (.v4mt): mismas gotas, más transparentes */
 html.v3m body.land .v4m{background:var(--v5gr),var(--v5gb)!important;border:1px solid var(--v5rim)!important;box-shadow:var(--v5sh)!important;transition:transform .18s cubic-bezier(.3,1.5,.5,1)}
 html.v3m body.land .v4m:active{transform:scale(.96)}
+/* pestañas de las hojas (.ntabs, .mkt, .nwt): gotas pequeñas; la activa brilla */
+html.v3m body.land :is(.sheet,.app) :is(.ntabs,.mkt,.nwt) button{border:1px solid var(--v5rim)!important;background:var(--v5gr),var(--v5gb)!important;box-shadow:var(--v5sh)!important;transition:transform .18s cubic-bezier(.3,1.5,.5,1),box-shadow .16s ease,border-color .16s ease}
+html.v3m body.land :is(.sheet,.app) :is(.ntabs,.mkt,.nwt) button:active{transform:scale(.94)}
+html.v3m body.land :is(.sheet,.app) :is(.ntabs,.mkt,.nwt) button.on{border-color:var(--v4on)!important;box-shadow:0 0 0 1px var(--v4on),0 0 10px var(--v4glow),var(--v5sh)!important}
 /* con desenfoque (fuera del modo ligero): ligero y sin costo en el iPhone */
 html:not(.v4lt) .v4d,html.v3m:not(.v4lt) body.land .bottom>.in>.nav{-webkit-backdrop-filter:blur(6px) saturate(1.6);backdrop-filter:blur(6px) saturate(1.6)}
 /* modo ligero (Toshiba, mapa en Canvas 2D): sin desenfoque ni reflejos extra */
