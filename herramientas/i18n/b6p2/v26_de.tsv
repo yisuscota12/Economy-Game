@@ -1,0 +1,154 @@
+14c869	Infanterie
+fa6d0f	Mechanisiert
+55d1a8	Gepanzert
+b9db5d	Artillerie
+743a0f	Luftwaffe
+905224	Luftflügel
+585e41	Luftabwehr und Raketen
+66ca7e	Mittel
+8e2b67	Begrenzt
+980a92	Fortgeschritten
+a33669	Hochmodern
+17d4d7	Sturmgewehre, leichte Mörser und tragbare Raketenwerfer
+606a88	Vernetzter Soldat: Wärmebild, Handdrohnen und Lenkflugkörper nach dem Prinzip „Feuern und Vergessen“
+a288b7	Gewehre mit Zielfernrohr, Schutzwesten und leichte Fahrzeuge
+c10b1a	Alte Sturmgewehre, Maschinengewehre und Lastwagen
+fc66b4	Modulares Gewehr mit Nachtsicht, Panzerabwehrraketen und verschlüsselten Funkgeräten
+33f14a	Alte Lastwagen und Radpanzer
+87be29	Fahrzeuge der neuen Generation mit aktivem Schutz und Drohnen
+8ce35a	Moderne Kampffahrzeuge mit Panzerabwehrraketen
+a545b8	Schützenpanzer mit 30-mm-Kanone
+fde350	Gepanzerte Mannschaftstransporter (Typ BTR oder M113)
+072c57	Panzer der 2. Generation (Typ T-55 oder T-62)
+63a01c	Panzer der neuen Generation mit aktivem Schutz und Gefechtsnetz
+805209	Leichte Panzer und Panzer der Nachkriegszeit
+b485dc	Moderner Kampfpanzer (Typ Leopard 2, T-90 oder M1 Abrams)
+fab8c8	Kampfpanzer der 3. Generation (Typ T-72 oder modernisierter M60)
+01584c	Selbstfahrende Artillerie und Mehrfachraketenwerfer
+71162c	Gezogene Haubitzen und Mörser
+8c8506	Haubitzen von 122–155 mm und einfache Raketenwerfer
+af49f1	Präzisionsraketen mit großer Reichweite und Angriffsdrohnen
+ed79dc	Selbstfahrende Artillerie mit Gegenbatterieradar und gelenkter Munition
+062b17	Kampfflugzeuge der Generation 4.5, Tankflugzeuge und bewaffnete Drohnen
+0f18d8	Tarnkappenjäger der 5. Generation, Frühwarnung und Bomber
+3b93c4	Jäger der 3. Generation (Typ MiG-21 oder F-5) und Hubschrauber
+54913c	Jäger der 4. Generation (Typ MiG-29 oder F-16) und Kampfhubschrauber
+b53033	Bewaffnete Schulflugzeuge und Transporthubschrauber
+2d13fa	Boote und Küstenpatrouillenboote
+89ce9d	Fregatten, Raketenkorvetten und Diesel-U-Boote
+a0ab57	Zerstörer und Fregatten mit Raketen, moderne U-Boote
+bdd510	Hochseepatrouillenboote und Korvetten
+dcd4f9	Flugzeugträger, Raketenabwehr-Zerstörer und Atom-U-Boote
+36b849	Gestaffelte Verteidigung mit großer Reichweite (Typ S-300 oder Patriot)
+3e4c3e	Systeme mittlerer Reichweite und Überwachungsradare
+96c81f	Schutzschild gegen ballistische Raketen und Drohnenabwehr
+c33bc5	Tragbare Raketen und alte Batterien (Typ SA-2 oder SA-3)
+df04c9	Flugabwehrkanonen und tragbare Raketen
+854d18	Polizei und Sicherheitssondereinheiten (leichte Waffen)
+b5ec75	Küstenwache: Patrouillenboote und Schnellboote
+85b776	Öffentliche Sicherheit
+ab3823	Küstenwache
+4d226c	Zivile Kernforschung
+11889e	Brennstoff: niedrige Anreicherung (3–5 %)
+ad6da4	Reaktorbau
+92b9ff	Reaktorbetrieb
+80e171	Militärische Forschung
+cc8c61	Hohe Anreicherung (90 %)
+0846cd	Waffenentwurf
+20f88f	Atomtest
+a5017f	Arsenal
+8d782b	{0} von {1} erforderlich
+e571c1	Technische Kapazität
+51af11	{0} pro Jahr; Obergrenze {1} % der Staatseinnahmen ({2})
+5e5ac6	kein eigenes Uran und kein Marktzugang (unterzeichnet den NVV nicht oder steht unter Sanktionen)
+97f01d	kauft auf dem Markt (NVV-Unterzeichner)
+9e3675	eigene Produktion
+64dcff	Spaltbares Material
+e64e41	Plutonium aus den eigenen Reaktoren
+1d0613	die Wirtschaft ist für einen Reaktor zu klein (Mindest-BIP: 60 Mrd.)
+1e16f0	ausreichend für einen Reaktor
+fb65ce	Stromnetz
+1275c6	Anreicherungsinfrastruktur
+363781	hat den zivilen Zweig bei Brennstoff oder weiter
+f3e6bb	braucht den zivilen Zweig in Phase 2 (Brennstoff)
+3cfa0f	Atomwaffensperrvertrag
+7a1332	vom Vertrag anerkannte Atommacht
+905e23	Unterzeichner: darf keine Atomwaffen besitzen
+d49a4f	Nichtunterzeichner
+2d79e1	{0} (mindestens 25)
+79959c	{0} kommt mit seinem zivilen Atomprogramm voran: {1}.
+712de0	{0} führt einen Atomtest durch und erklärt sich zur Atommacht. Die Welt antwortet mit Sanktionen.
+9aea5f	{0} kommt mit seinem Atomwaffenprogramm voran ({1}). Es gibt Sanktionen und Proteste.
+3cb3d7	{0} kündigt ein ziviles Kernenergieprogramm an.
+3b349c	{0} tritt aus dem Atomwaffensperrvertrag aus.
+f775aa	Das Atomkonsortium verschwindet: Du erhältst {0} zurück.
+fe3966	Dividende des Atomkonsortiums von {0}: {1}.
+620871	Internationale Inspektoren entdecken das Atomwaffenprogramm von {0}: Sanktionen und das Programm wird ein Jahr eingefroren.
+bf7387	Das kann nur die Regierung entscheiden.
+c768b9	Atomsystem abgeschaltet.
+025887	Das Programm läuft bereits.
+a6c4e6	Du erfüllst die Voraussetzungen nicht:
+6c9e5d	Du startest das zivile Kernenergieprogramm. Die Forschung beginnt.
+9205d3	Du startest heimlich ein Atomwaffenprogramm. Die Inspektoren könnten es entdecken.
+fb8e0c	Es gibt kein ziviles Programm.
+51f117	Du brichst das zivile Atomprogramm ab.
+dc3f08	Du schließt deine Kernreaktoren: Energie wird teurer.
+918b11	Es gibt kein militärisches Programm.
+2e2a31	Du demontierst dein Atomarsenal, wie Südafrika 1991.
+9c4568	Du brichst das Atomwaffenprogramm ab.
+5217cd	Brich zuerst das Militärprogramm ab oder demontiere es.
+ff08a4	Du hast den Vertrag bereits unterzeichnet.
+356044	Du unterzeichnest den Atomwaffensperrvertrag: Der Markt für Kernbrennstoff steht dir offen.
+79e69f	Du bist nicht Vertragspartei.
+8a6229	Du bist anerkannte Atommacht: Ein Austritt bringt dir nichts.
+c31a25	Du trittst aus dem Atomwaffensperrvertrag aus. Sanktionen folgen für drei Jahre.
+4361c1	Dein Regime (Planwirtschaft) verbietet private Investitionen.
+8e2872	Du verbietest private Investitionen in Reaktoren.
+b4478b	Du erlaubst privaten Unternehmen, in Reaktoren zu investieren.
+159a69	Die Regierung erlaubt keine privaten Investitionen.
+2e43d4	Investiert wird nur in Bau oder Betrieb von Reaktoren.
+13cbfb	Du hältst bereits eine Beteiligung in einem anderen Land.
+2c9e3b	Du brauchst mindestens $10,000 zum Investieren.
+4b53c5	Du investierst {0} in das zivile Atomkonsortium. Es zahlt 6 % pro Jahr, solange die Reaktoren in Betrieb sind.
+5b4b15	Du hältst keine Beteiligung.
+3264c5	Du verkaufst deine Beteiligung für {0}.
+f396d6	K.-o.-Siege
+6b94e2	Facetten
+a0d831	Fortschrittsperiode
+6392d9	und kleinere Einheiten
+773cf8	Divisionen
+7aad70	Aktive Kräfte
+37b2ab	Bewaffnung
+86697f	Reservisten
+1009ee	Militärbudget
+2d72a4	und die Küstenwache
+6a4693	die Kräfte stammen aus den Truppen im Feld
+14b199	Steigt
+2a126d	Keine Trenddaten
+883cc9	Stabil ({0})
+8919b4	Sinkt
+2d8c9d	Militärische Stärke
+6c648b	Pfeile: Änderung seit {0} (grün steigt, rot sinkt, grau stabil ±1 %). Balken: Wert im Vergleich zum Spitzenreiter.
+f755b5	Pfeile mit * sind mit dem Wachstum des letzten Jahres geschätzt; die militärische Stärke zeigt sich nach Ablauf des nächsten Jahres. Balken: Wert im Vergleich zum Spitzenreiter.
+e16f9b	Kernenergie
+277eaa	⚡ Zivile Kernenergie
+761638	Kein Programm.
+fbb5ec	Hat seine Reaktoren {0} stillgelegt.
+d0fb2a	Jahr {0} von {1}
+3896b7	Nichtunterzeichner
+d9f17c	Anerkannte Atommacht
+e4b33f	Unterzeichner
+b74cc9	kann sich bewaffnen, mit Sanktionen
+80d0f7	in Betrieb
+b26acd	Reaktoren
+3772bd	Kernenergie starten
+fb5c98	Zivilen Zweig stoppen
+0b0d31	Militärprogramm abbrechen
+79d6bd	Militärprogramm starten
+c35518	Arsenal demontieren
+61cb58	Aus dem NVV austreten
+f4c857	NVV unterzeichnen
+c8b43c	Private Investitionen verbieten
+dfbd5f	Private Investitionen erlauben
+0788a4	{0} eingenommen
+5509cb	: {0} in {1}

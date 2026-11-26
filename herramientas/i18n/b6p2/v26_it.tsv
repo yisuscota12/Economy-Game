@@ -1,0 +1,154 @@
+14c869	Fanteria
+fa6d0f	Meccanizzata
+55d1a8	Corazzata
+b9db5d	Artiglieria
+743a0f	Aviazione
+905224	ala aerea
+585e41	Difesa antiaerea e missili
+66ca7e	Intermedio
+8e2b67	Limitato
+980a92	Avanzato
+a33669	All'avanguardia
+17d4d7	Fucili d'assalto, mortai leggeri e lanciarazzi portatili
+606a88	Soldato connesso: visione termica, droni portatili e missili «spara e dimentica»
+a288b7	Fucili con mirino, giubbotti antiproiettile e veicoli leggeri
+c10b1a	Vecchi fucili d'assalto, mitragliatrici e camion
+fc66b4	Fucile modulare con visione notturna, missili anticarro e radio cifrate
+33f14a	Vecchi camion e blindati a ruote
+87be29	Veicoli di nuova generazione con protezione attiva e droni
+8ce35a	Veicoli da combattimento moderni con missili anticarro
+a545b8	Veicoli da combattimento per la fanteria con cannone da 30 mm
+fde350	Trasporti truppe blindati (tipo BTR o M113)
+072c57	Carri armati di 2ª generazione (tipo T-55 o T-62)
+63a01c	Carro armato di nuova generazione con protezione attiva e rete di combattimento
+805209	Carri armati leggeri e del dopoguerra
+b485dc	Carro armato moderno (tipo Leopard 2, T-90 o M1 Abrams)
+fab8c8	Carro armato di 3ª generazione (tipo T-72 o M60 aggiornato)
+01584c	Artiglieria semovente e lanciarazzi multipli
+71162c	Obici trainati e mortai
+8c8506	Obici da 122–155 mm e semplici lanciarazzi
+af49f1	Razzi di precisione a lungo raggio e droni d'attacco
+ed79dc	Artiglieria semovente con radar di controbatteria e munizioni guidate
+062b17	Caccia di generazione 4.5, aerei cisterna e droni armati
+0f18d8	Caccia stealth di 5ª generazione, allerta precoce e bombardieri
+3b93c4	Caccia di 3ª generazione (tipo MiG-21 o F-5) ed elicotteri
+54913c	Caccia di 4ª generazione (tipo MiG-29 o F-16) ed elicotteri d'attacco
+b53033	Aerei da addestramento armati ed elicotteri da trasporto
+2d13fa	Motovedette e pattugliatori costieri
+89ce9d	Fregate, corvette lanciamissili e sottomarini diesel
+a0ab57	Cacciatorpediniere e fregate con missili, sottomarini moderni
+bdd510	Pattugliatori d'altura e corvette
+dcd4f9	Portaerei, cacciatorpediniere antimissile e sottomarini nucleari
+36b849	Difesa a strati a lungo raggio (tipo S-300 o Patriot)
+3e4c3e	Sistemi a medio raggio e radar di sorveglianza
+96c81f	Scudo antimissile balistico e difesa contro i droni
+c33bc5	Missili portatili e vecchie batterie (tipo SA-2 o SA-3)
+df04c9	Cannoni antiaerei e missili portatili
+854d18	Polizia e unità speciali di sicurezza (armi leggere)
+b5ec75	Guardia costiera: pattugliatori e motoscafi veloci
+85b776	Sicurezza pubblica
+ab3823	Guardia costiera
+4d226c	Ricerca nucleare civile
+11889e	Combustibile: arricchimento a basso livello (3–5 %)
+ad6da4	Costruzione di reattori
+92b9ff	Gestione dei reattori
+80e171	Ricerca militare
+cc8c61	Arricchimento ad alto livello (90 %)
+0846cd	Progettazione dell'arma
+20f88f	Test nucleare
+a5017f	Arsenale
+8d782b	{0} di {1} necessari
+e571c1	Capacità tecnica
+51af11	{0} all'anno; tetto {1} % delle entrate del tesoro ({2})
+5e5ac6	senza uranio proprio e senza accesso al mercato (non firma il TNP o ha sanzioni)
+97f01d	acquista sul mercato (firmatario del TNP)
+9e3675	produzione propria
+64dcff	Materiale fissile
+e64e41	plutonio dei suoi reattori
+1d0613	l'economia è troppo piccola per un reattore (PIL minimo: 60 miliardi)
+1e16f0	sufficiente per un reattore
+fb65ce	Rete elettrica
+1275c6	Infrastruttura di arricchimento
+363781	ha il ramo civile al combustibile o oltre
+f3e6bb	richiede il ramo civile in fase 2 (combustibile)
+3cfa0f	Trattato di non proliferazione
+7a1332	potenza riconosciuta dal trattato
+905e23	firmatario: non può avere armi nucleari
+d49a4f	non firmatario
+2d79e1	{0} (minimo 25)
+79959c	{0} avanza nel suo programma nucleare civile: {1}.
+712de0	{0} effettua un test nucleare e si dichiara potenza nucleare. Il mondo risponde con sanzioni.
+9aea5f	{0} avanza nel suo programma di armi nucleari ({1}). Arrivano sanzioni e proteste.
+3cb3d7	{0} annuncia un programma di energia nucleare civile.
+3b349c	{0} si ritira dal Trattato di non proliferazione nucleare.
+f775aa	Il consorzio nucleare scompare: recuperi {0}.
+fe3966	Dividendo del consorzio nucleare di {0}: {1}.
+620871	Gli ispettori internazionali scoprono il programma di armi nucleari di {0}: sanzioni e programma congelato per un anno.
+bf7387	Solo il governo può deciderlo.
+c768b9	Sistema nucleare spento.
+025887	Il programma è già in corso.
+a6c4e6	Non soddisfi i requisiti:
+6c9e5d	Avvii il programma di energia nucleare civile. Inizia la ricerca.
+9205d3	Avvii in segreto un programma di armi nucleari. Gli ispettori potrebbero scoprirlo.
+fb8e0c	Non c'è un programma civile.
+51f117	Annulli il programma nucleare civile.
+dc3f08	Chiudi i tuoi reattori nucleari: l'energia diventa più cara.
+918b11	Non c'è un programma militare.
+2e2a31	Smantelli il tuo arsenale nucleare, come il Sudafrica nel 1991.
+9c4568	Annulli il programma di armi nucleari.
+5217cd	Prima annulla o smantella il programma militare.
+ff08a4	Hai già firmato il trattato.
+356044	Firmi il Trattato di non proliferazione: il mercato del combustibile nucleare si apre per te.
+79e69f	Non sei parte del trattato.
+8a6229	Sei una potenza riconosciuta: ritirarti non ti dà nulla.
+c31a25	Ti ritiri dal Trattato di non proliferazione. Arrivano sanzioni per tre anni.
+4361c1	Il tuo regime (economia pianificata) vieta gli investimenti privati.
+8e2872	Vieti gli investimenti privati nei reattori.
+b4478b	Permetti alle imprese private di investire nei reattori.
+159a69	Il governo non permette investimenti privati.
+2e43d4	Si investe solo nella costruzione o nella gestione dei reattori.
+13cbfb	Hai già una partecipazione in un altro paese.
+2c9e3b	Servono almeno $10,000 per investire.
+4b53c5	Investi {0} nel consorzio nucleare civile. Pagherà il 6 % all'anno finché i reattori saranno in funzione.
+5b4b15	Non hai partecipazioni.
+3264c5	Vendi la tua partecipazione per {0}.
+f396d6	KO
+6b94e2	Sfaccettature
+a0d831	Periodo di avanzamento
+6392d9	e unità minori
+773cf8	Divisioni
+7aad70	Effettivi attivi
+37b2ab	Armamento
+86697f	Riservisti
+1009ee	Bilancio militare
+2d72a4	e la guardia costiera
+6a4693	gli effettivi provengono dalle truppe in campagna
+14b199	Sale
+2a126d	Nessun dato di tendenza
+883cc9	Stabile ({0})
+8919b4	Scende
+2d8c9d	Potenza militare
+6c648b	Frecce: variazione dal {0} (verde sale, rosso scende, grigio stabile ±1 %). Barre: valore rispetto al leader.
+f755b5	Le frecce con * sono stimate con la crescita dell'ultimo anno; la potenza militare si vedrà allo scadere del prossimo anno. Barre: valore rispetto al leader.
+e16f9b	Energia nucleare
+277eaa	⚡ Energia nucleare civile
+761638	Nessun programma.
+fbb5ec	Ha chiuso i suoi reattori nel {0}.
+d0fb2a	anno {0} di {1}
+3896b7	Non firmatario
+d9f17c	Potenza riconosciuta
+e4b33f	Firmatario
+b74cc9	può armarsi, con sanzioni
+80d0f7	in funzione
+b26acd	Reattori
+3772bd	Avviare l'energia nucleare
+fb5c98	Fermare il ramo civile
+0b0d31	Annullare il programma militare
+79d6bd	Avviare il programma militare
+c35518	Smantellare l'arsenale
+61cb58	Ritirarsi dal TNP
+f4c857	Firmare il TNP
+c8b43c	Vietare gli investimenti privati
+dfbd5f	Permettere gli investimenti privati
+0788a4	incassato {0}
+5509cb	: {0} in {1}

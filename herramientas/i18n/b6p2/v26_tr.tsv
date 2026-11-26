@@ -1,0 +1,154 @@
+14c869	Piyade
+fa6d0f	Mekanize
+55d1a8	Zırhlı
+b9db5d	Topçu
+743a0f	Havacılık
+905224	hava kanadı
+585e41	Hava savunma ve füzeler
+66ca7e	Orta
+8e2b67	Sınırlı
+980a92	Gelişmiş
+a33669	Son teknoloji
+17d4d7	Taarruz tüfekleri, hafif havanlar ve taşınabilir roketatarlar
+606a88	Bağlantılı asker: termal görüş, el dronları ve «ateşle ve unut» füzeleri
+a288b7	Dürbünlü tüfek, kurşun geçirmez yelek ve hafif araçlar
+c10b1a	Eski taarruz tüfekleri, makineli tüfekler ve kamyonlar
+fc66b4	Gece görüşlü modüler tüfek, tanksavar füzeleri ve şifreli telsizler
+33f14a	Eski kamyonlar ve tekerlekli zırhlılar
+87be29	Aktif korumalı ve dronlu yeni nesil araçlar
+8ce35a	Tanksavar füzeli modern muharebe araçları
+a545b8	30 mm toplu piyade muharebe araçları
+fde350	Zırhlı personel taşıyıcılar (BTR veya M113 tipi)
+072c57	2. nesil tanklar (T-55 veya T-62 tipi)
+63a01c	Aktif korumalı ve muharebe ağlı yeni nesil tank
+805209	Hafif ve savaş sonrası tanklar
+b485dc	Modern ana muharebe tankı (Leopard 2, T-90 veya M1 Abrams tipi)
+fab8c8	3. nesil ana muharebe tankı (T-72 veya modernize M60 tipi)
+01584c	Kundağı motorlu topçu ve çoklu roketatarlar
+71162c	Çekili obüsler ve havanlar
+8c8506	122–155 mm obüsler ve basit roketatarlar
+af49f1	Uzun menzilli hassas roketler ve saldırı dronları
+ed79dc	Karşı batarya radarlı ve güdümlü mühimmatlı kundağı motorlu topçu
+062b17	4.5 nesil savaş uçakları, yakıt ikmal uçakları ve silahlı dronlar
+0f18d8	5. nesil görünmez savaş uçakları, erken uyarı ve bombardıman uçakları
+3b93c4	3. nesil savaş uçakları (MiG-21 veya F-5 tipi) ve helikopterler
+54913c	4. nesil savaş uçakları (MiG-29 veya F-16 tipi) ve saldırı helikopterleri
+b53033	Silahlı eğitim uçakları ve nakliye helikopterleri
+2d13fa	Botlar ve kıyı devriye gemileri
+89ce9d	Fırkateynler, füzeli korvetler ve dizel denizaltılar
+a0ab57	Füzeli muhripler ve fırkateynler, modern denizaltılar
+bdd510	Açık deniz devriye gemileri ve korvetler
+dcd4f9	Uçak gemileri, füze savar muhripler ve nükleer denizaltılar
+36b849	Uzun menzilli katmanlı savunma (S-300 veya Patriot tipi)
+3e4c3e	Orta menzilli sistemler ve gözetleme radarları
+96c81f	Balistik füze kalkanı ve dron savunması
+c33bc5	Taşınabilir füzeler ve eski bataryalar (SA-2 veya SA-3 tipi)
+df04c9	Uçaksavar topları ve taşınabilir füzeler
+854d18	Polis ve özel güvenlik birimleri (hafif silahlar)
+b5ec75	Sahil güvenlik: devriye gemileri ve hızlı botlar
+85b776	Kamu güvenliği
+ab3823	Sahil güvenlik
+4d226c	Sivil nükleer araştırma
+11889e	Yakıt: düşük seviyeli zenginleştirme (%3–5)
+ad6da4	Reaktör inşası
+92b9ff	Reaktör işletimi
+80e171	Askerî araştırma
+cc8c61	Yüksek seviyeli zenginleştirme (%90)
+0846cd	Silah tasarımı
+20f88f	Nükleer test
+a5017f	Cephanelik
+8d782b	{0} / {1} gerekli
+e571c1	Teknik kapasite
+51af11	Yılda {0}; hazine gelirinin %{1} sınırı ({2})
+5e5ac6	kendi uranyumu yok ve pazara erişimi yok (NPT'yi imzalamamış veya yaptırım altında)
+97f01d	pazardan satın alır (NPT imzacısı)
+9e3675	kendi üretimi
+64dcff	Fisil malzeme
+e64e41	reaktörlerinden elde edilen plütonyum
+1d0613	ekonomi bir reaktör için çok küçük (asgari GSYH: 60 milyar)
+1e16f0	bir reaktör için yeterli
+fb65ce	Elektrik şebekesi
+1275c6	Zenginleştirme altyapısı
+363781	sivil kolu yakıt aşamasında veya daha ileride
+f3e6bb	sivil kolun 2. aşamada (yakıt) olması gerekir
+3cfa0f	Nükleer Silahların Yayılmasının Önlenmesi Antlaşması
+7a1332	antlaşmanın tanıdığı güç
+905e23	imzacı: nükleer silaha sahip olamaz
+d49a4f	imzacı değil
+2d79e1	{0} (asgari 25)
+79959c	{0} sivil nükleer programında ilerliyor: {1}.
+712de0	{0} nükleer test yapıyor ve kendini nükleer güç ilan ediyor. Dünya yaptırımlarla karşılık veriyor.
+9aea5f	{0} nükleer silah programında ilerliyor ({1}). Yaptırımlar ve protestolar var.
+3cb3d7	{0} sivil nükleer enerji programı açıklıyor.
+3b349c	{0} Nükleer Silahların Yayılmasının Önlenmesi Antlaşması'ndan çekiliyor.
+f775aa	Nükleer konsorsiyum ortadan kalkıyor: {0} geri alıyorsun.
+fe3966	{0} nükleer konsorsiyum temettüsü: {1}.
+620871	Uluslararası denetçiler {0} ülkesinin nükleer silah programını ortaya çıkarıyor: yaptırımlar ve program bir yıl donduruluyor.
+bf7387	Buna yalnızca hükümet karar verebilir.
+c768b9	Nükleer sistem kapalı.
+025887	Program zaten yürürlükte.
+a6c4e6	Şartları karşılamıyorsun:
+6c9e5d	Sivil nükleer enerji programını başlatıyorsun. Araştırma başlıyor.
+9205d3	Gizlice bir nükleer silah programı başlatıyorsun. Denetçiler keşfedebilir.
+fb8e0c	Sivil program yok.
+51f117	Sivil nükleer programı iptal ediyorsun.
+dc3f08	Nükleer reaktörlerini kapatıyorsun: enerji pahalılaşıyor.
+918b11	Askerî program yok.
+2e2a31	1991'de Güney Afrika'nın yaptığı gibi nükleer cephaneliğini söküyorsun.
+9c4568	Nükleer silah programını iptal ediyorsun.
+5217cd	Önce askerî programı iptal et veya söküp kaldır.
+ff08a4	Antlaşmayı zaten imzaladın.
+356044	Nükleer Silahların Yayılmasının Önlenmesi Antlaşması'nı imzalıyorsun: nükleer yakıt pazarı sana açılıyor.
+79e69f	Antlaşmaya taraf değilsin.
+8a6229	Tanınmış bir güçsün: çekilmek sana bir şey kazandırmaz.
+c31a25	Nükleer Silahların Yayılmasının Önlenmesi Antlaşması'ndan çekiliyorsun. Üç yıl boyunca yaptırımlar geliyor.
+4361c1	Rejimin (planlı ekonomi) özel yatırımı yasaklıyor.
+8e2872	Reaktörlerde özel yatırımı yasaklıyorsun.
+b4478b	Özel şirketlerin reaktörlere yatırım yapmasına izin veriyorsun.
+159a69	Hükümet özel yatırıma izin vermiyor.
+2e43d4	Yalnızca reaktör inşasına veya işletimine yatırım yapılır.
+13cbfb	Başka bir ülkede zaten bir payın var.
+2c9e3b	Yatırım yapmak için en az $10,000 gerekir.
+4b53c5	Sivil nükleer konsorsiyuma {0} yatırıyorsun. Reaktörler çalıştığı sürece yılda %6 ödeyecek.
+5b4b15	Payın yok.
+3264c5	Payını {0} karşılığında satıyorsun.
+f396d6	Nakavtlar
+6b94e2	Yüzeyler
+a0d831	İlerleme süresi
+6392d9	ve küçük birlikler
+773cf8	Tümenler
+7aad70	Aktif personel
+37b2ab	Silahlanma
+86697f	Yedek askerler
+1009ee	Askerî bütçe
+2d72a4	ve sahil güvenlik
+6a4693	personel sahadaki birliklerden gelir
+14b199	Yükseliyor
+2a126d	Eğilim verisi yok
+883cc9	Sabit ({0})
+8919b4	Düşüyor
+2d8c9d	Askerî güç
+6c648b	Oklar: {0} tarihinden beri değişim (yeşil yükseliş, kırmızı düşüş, gri sabit ±%1). Çubuklar: lidere göre değer.
+f755b5	* işaretli oklar son yılın büyümesiyle tahmin edilmiştir; askerî güç gelecek yıl geçince görünecek. Çubuklar: lidere göre değer.
+e16f9b	Nükleer enerji
+277eaa	⚡ Sivil nükleer enerji
+761638	Program yok.
+fbb5ec	Reaktörlerini {0} yılında kapattı.
+d0fb2a	{1} yıldan {0}. yıl
+3896b7	İmzacı değil
+d9f17c	Tanınmış güç
+e4b33f	İmzacı
+b74cc9	silahlanabilir, yaptırımlarla
+80d0f7	işletmede
+b26acd	Reaktörler
+3772bd	Nükleer enerjiyi başlat
+fb5c98	Sivil kolu durdur
+0b0d31	Askerî programı iptal et
+79d6bd	Askerî programı başlat
+c35518	Cephaneliği söküp kaldır
+61cb58	NPT'den çekil
+f4c857	NPT'yi imzala
+c8b43c	Özel yatırımı yasakla
+dfbd5f	Özel yatırıma izin ver
+0788a4	{0} tahsil edildi
+5509cb	: {0} {1} içinde
