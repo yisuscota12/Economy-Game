@@ -24,7 +24,7 @@
      +0.02·r puntos de crecimiento al año (ecoBonus) y +0.6·r en la salud del sector Energía (término «nuc»). El armamento no toca el PIB:
      solo sanciones (que el motor ya cobra: −2 puntos de crecimiento por año de sanción) y estabilidad. Al llegar a arsenal el país entra
      en NUKE (disuasión en la guerra y nivel de armamento de la v2.6a). */
-const NUKE_SYS={on:true};
+const NUKE_SYS={on:false};   // v2.6c: apagado por defecto hasta confirmar el balance de las crisis bancarias (ver RETOMAR_SESION.md)
 const NK_NWS=new Set(['USA','RUS','CHN','FRA','GBR']);           // potencias reconocidas por el TNP (probaron antes de 1967)
 const NK_NONPT=new Set(['IND','PAK','ISR','PRK','SSD']);         // fuera del TNP (Corea del Norte se retiró en 2003)
 const NK_BASE=[...NUKE];
