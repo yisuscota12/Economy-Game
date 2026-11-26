@@ -1,0 +1,406 @@
+129ff9	Floresta tropical
+bba34c	Savana
+5013cb	Estepe
+bdff57	Floresta subtropical
+732b6a	Pradaria
+f25d99	Floresta temperada
+ffa029	Taiga
+16ee1f	Escasso
+e38b71	Depende de importações
+db197e	Autossuficiente
+8071ef	Exporta
+16a69b	Seca em {0} de {1} províncias de {2} em {3}: colheitas menores, água racionada e a felicidade cai.
+432f1e	Onça-pintada
+5e8269	Leopardo
+da0d2b	Tigre
+d03276	Casuar
+c745ea	Arara
+ea6b53	Papagaio-cinzento
+eff2ee	Calau
+95f1b9	Ave-do-paraíso
+6c7f95	Bugio
+00fa82	Chimpanzé
+d41c16	Orangotango
+b34aa5	Canguru-arborícola
+0f7174	Rã-venenosa
+e1efe2	Perereca
+5e5557	Rã-voadora
+26e570	Sumaúma
+b2e0fa	Mogno-africano
+842f73	Dipterocarpo
+f6e842	Orquídeas
+7355df	Elefante
+66e73c	Tamanduá
+a78f03	Elefante-asiático
+296747	Canguru-vermelho
+ab8762	Girafa
+87c9a1	Veado-de-cauda-branca
+bbd8e9	Veado-campeiro
+07663e	Cervo-axis
+7767af	Dingo
+3364b1	Leão
+8dd8a2	Puma
+afe7d5	Leão-asiático
+2f2e1a	Águia-de-cauda-cuneiforme
+97a915	Acácia
+89d02c	Algaroba
+63e351	Eucalipto
+fdefe7	Gramíneas altas
+cef9ed	Dromedário
+15cdd5	Coiote
+10c09c	Guanaco
+11a4ec	Camelo-bactriano
+64b2a2	Raposa-do-deserto
+5c8fb9	Lagarto
+a7fa4b	Monstro-de-gila
+182538	Diabo-espinhoso
+718a47	Lagarto-de-cauda-espinhosa
+ab3e38	Escorpião
+dbbc15	Cactos e suculentas
+84b442	Tamareira
+41aa62	Saxaul
+52e4b9	Spinifex
+3ee8ae	Cavalo selvagem
+f3a236	Antilocapra
+f441ea	Gazela
+502507	Canguru-cinzento
+39e1d4	Águia-das-estepes
+e5a5ba	Águia-real
+5cddc1	Condor
+b42eba	Marmota
+4173da	Cão-da-pradaria
+9f5bc1	Viscacha
+4c19d7	Gerbo
+01d844	Vombate
+6750fc	Capim-pena
+06ae50	Artemísia
+a978b3	Arbusto-salgado
+386e7f	Bambu
+473ace	Oliveira-brava
+72a06d	Oliveira
+52cc57	Carvalho-sempre-verde
+ad9b3c	Canforeira
+e0b77b	Sobreiro
+cb0290	Araucária
+386dc7	Tartaruga
+9900a4	Borboletas
+b2d6a5	Borboleta-monarca
+d0eb80	Cobras
+d30fa9	Bisão
+067c01	Bisão-europeu
+7c6bc4	Cavalo-de-Przewalski
+562c21	Lebre
+840fa2	Mara-patagônica
+574c12	Abelhas silvestres
+7476c9	Girassol-silvestre
+5e4022	Papoula
+e29ecc	Veado
+07ea1a	Urso-pardo
+72cc14	Urso-negro
+7e1bb2	Urso-negro-asiático
+5f7738	Huemul
+74ae77	Coala
+4a5ab7	Coruja
+1a7553	Raposa-vermelha
+bd356a	Carvalho
+0ff152	Roble-pellín
+8a8ba7	Cogumelos da floresta
+b4e3c3	Abeto e pinheiro
+219420	Lobo-cinzento
+44f33d	Alce
+7e469d	Lince
+143e7f	Rena
+9ee0ea	Caribu
+623acb	Raposa-do-ártico
+f99f29	Coruja-das-neves
+e718dc	Musgos e líquenes
+edcf79	Truta-ártica
+bc4168	Condor-dos-andes
+1288f7	Quebra-ossos
+aef341	Cabra-montês
+0a34fa	Carneiro-selvagem
+5c3e16	Vicunha
+b65196	Íbex
+f978ae	Wallaby-das-rochas
+4b12b4	Leopardo-das-neves
+513928	Equidna
+79bda5	Pinheiro-de-montanha
+dc59b0	Flores alpinas
+58c018	Edelvais
+7120ca	Peixes de rio
+822f97	Bagre
+40aa10	Dourado
+21e6f9	Truta
+ec91a8	Carpa
+6cc5b0	Tilápia
+2f021b	Bacalhau-de-Murray
+2cc076	Em perigo
+e7247c	Cidades e população ocupam o seu habitat
+e25ac6	Poluição da indústria
+84479e	O seu habitat virou lavoura
+6b0e77	Ocupação militar: caça e habitat destruído
+94a232	Guerra: caça furtiva e habitat destruído
+d9f0ee	Seca: falta de água e alimento
+b29db0	Uma barragem corta o rio
+a6f360	Água desviada para irrigação
+0633ee	Salmoura da dessalinização
+b5e7ae	Pouca proteção ambiental
+1dd77f	Usina de dessalinização
+0a532b	+35 m³ de água por pessoa por ano por nível, tirada do mar: não depende da chuva nem da seca.
+b18177	Sistema de irrigação
+e981ba	+12% de terra cultivável e 10–20% mais colheitas por nível (mais onde chove pouco). Usa 4% da água.
+06f739	Estufas
+f075dd	Alimentos para 3% mais da população por nível, mesmo em anos de seca.
+82504c	Barragem e reservatório
+8d4bbd	+8% de água, a seca tira metade dessa água e +4% de terra cultivável com irrigação. Corta o rio: a saúde do ecossistema cai.
+52121d	Província desconhecida.
+65908c	Já está em construção.
+9ddf39	Já está no máximo.
+938c1d	Só em províncias litorâneas.
+9ad5b0	Não há terra que possa ser cultivada.
+f64845	Precisa de um rio grande ou de um vale entre morros.
+e30d33	A província está ocupada.
+c7b369	mais água doce
+3693c3	mais alimentos
+08d9cb	Só em províncias do seu país.
+834945	O tesouro nacional não chega.
+f1e2f2	Só o governo pode construir uma barragem.
+7818cd	Os seus projetos de água e alimentos rendem {0} este ano.
+cb4421	O seu país já tem este avanço.
+c8b376	Precisa de tecnologia civil {0} (você tem {1}).
+99c4a7	Só o governo pode financiar a pesquisa.
+95d4c1	As suas universidades alcançam o avanço «Tecnologia da água» ({0}): os projetos de água, alimentos e conservação custam {1}% menos.
+a07ebb	{0} alcança o avanço «Tecnologia da água»: os projetos de água e conservação custam {1}% menos.
+2ee63c	Reflorestamento
+7e9be8	+3 de saúde do ecossistema e +1,5% de água renovável por nível (a floresta retém a chuva). Ajuda o turismo.
+53c5a2	Área protegida
+6f3d0c	+5 de saúde do ecossistema e +2% de água renovável (bacias protegidas). Atrai turismo. Só o governo pode declará-la.
+2a6282	Estação de tratamento de águas
+08d09b	Compensa metade da poluição das empresas da província por nível (+1 se não houver indústria: esgoto das cidades).
+530ffe	Não dá para reflorestar um deserto ou uma tundra.
+216e8d	Só o governo pode declarar uma área protegida.
+d386e0	Minas e poços da província
+3159c6	Poluição de fábricas, minas e poços
+061944	Seca em {0}: {1} produz {2}% menos este ano.
+904c5e	Manutenção dos seus projetos de conservação: {0}.
+213a9b	Sem dinheiro para a manutenção: {0} ficam suspensos este ano (sem efeito).
+ca4813	População por km²
+57e681	Indústria e cidades
+966987	Terra convertida em lavoura
+c86b99	Desenvolvimento e regulação ambiental
+69b7e0	Ocupação militar
+d8cb2a	Seca este ano
+de4b55	Seca na província
+1eb141	Chuva e clima
+0a4d47	Água do resto do país
+b79a11	Barragens, poços e redes de água
+ed1999	Terra cultivável por pessoa
+f91ad3	Capacidade de importar alimentos
+26f86e	Preço mundial dos grãos
+56bd80	Colheitas da província
+0d2145	Alimentos importados e seu preço
+510f15	Seca (em relação a um ano normal)
+cea13f	Menos água por pessoa
+67e676	Energia importada e seu preço
+e3c2a9	A barra compara o que produz com o que consome (a linha marca 100%). O consumo é estimado pelo seu peso na economia e na população mundial.
+b196fa	Saúde do ecossistema
+4b7975	Quão conservada está a natureza: cai com a população, a indústria, as lavouras, a guerra e a seca.
+4fb591	Água doce
+82916c	m³ por pessoa por ano na província
+a266f2	km³ se renovam
+2d3200	Com menos de 1.700 m³ por pessoa por ano há estresse hídrico; com menos de 1.000, escassez.
+f09aaa	Segurança alimentar
+f901ec	As suas colheitas alimentam
+520213	da sua população
+5e971d	Terra cultivável
+5da13c	da superfície
+85d589	Água por pessoa
+f114c9	pessoas alimentadas
+8fbe58	Risco de seca
+c49c23	por ano
+c3db36	Principais culturas
+4a5cca	Recursos do subsolo
+197242	Ecossistema
+e624ee	Água
+b9e984	Escassez de recursos de {0}
+3ef09e	Bioma
+7d313f	Uma grande região natural com clima, vegetação e fauna parecidos: floresta tropical, savana, deserto, taiga…
+ee3a7a	Define quanta chuva escorre, quanta terra pode ser cultivada e com que frequência há secas.
+cfffcd	Água doce renovável
+ad3776	A água da chuva que escorre pelos rios e se infiltra nos aquíferos a cada ano, mais a que os rios trazem de montante.
+859a20	Com pouca água por pessoa, a seca afeta com mais força as colheitas, os serviços públicos e a felicidade.
+4784a0	Que a população tenha alimentos suficientes: produzindo-os ou podendo comprá-los fora.
+20e90d	Um país que importa muita comida sofre quando os grãos encarecem no mundo.
+fc6296	A natureza do seu país
+650adf	Água renovável
+f828c6	Natureza
+7dfe24	Natureza e recursos de {0}
+851d27	Autossuficiência alimentar
+e3252b	Províncias em seca
+9e6e0b	da população
+3ce609	Média das suas províncias, ponderada pela superfície.
+554c08	km³ de água renovável por ano
+e22349	m³ por pessoa
+7e2b92	Limiar de Falkenmark: abaixo de 1.700 m³ por pessoa por ano há estresse hídrico; abaixo de 1.000, escassez; abaixo de 500, escassez absoluta.
+5d1bbc	Produz alimentos para
+74226c	O que a natureza move na economia
+f79ce2	Escassez de recursos
+5379ab	Províncias em seca este ano
+0747d3	Severidade
+b61f6c	Províncias com menos água por pessoa
+6a6160	Toque numa província no mapa e abra a aba 🌿 Natureza da ficha dela para ver os detalhes. O modo de mapa 🌿 pinta a saúde do ecossistema no mundo todo.
+bc1dbe	Estresse hídrico
+f05314	Seca
+619ecb	Natureza e recursos
+01fe0f	Uma grande região natural com clima, plantas e animais parecidos: floresta tropical, savana, deserto, estepe, floresta, taiga, tundra ou montanha.
+8ba1b0	Água doce que a chuva repõe a cada ano em rios e aquíferos. Mede-se em metros cúbicos por pessoa por ano.
+edc5e7	Quando há menos de 1.700 m³ de água renovável por pessoa por ano. Abaixo de 1.000 é escassez e abaixo de 500, escassez absoluta (limiar de Falkenmark).
+cc7f99	A parte do território que pode ser semeada. Depende do clima, do relevo e da água, e cresce com a irrigação.
+a601f6	Que toda a população tenha alimentos suficientes, seja porque os produz ou porque pode comprá-los de outros países.
+0fdc9f	Um ano com muito menos chuva do que o normal. Reduz as colheitas e a água disponível, e afeta mais os países que dependem do campo.
+d8a207	Um país com menos de 1.700 m³ de água renovável por pessoa por ano vive em estresse hídrico. Abaixo de 1.000 m³ há escassez e abaixo de 500, escassez absoluta.
+50873e	Falkenmark (1989); ONU-Água
+dbe190	Só cerca de 11% da superfície terrestre do planeta é terra cultivável.
+0774c2	IFPRI; FAO
+cf6aa2	Projetos de água (dessalinização, barragens, irrigação)
+9ba038	Barragem que corta o rio
+790b54	Saúde do ecossistema (rios em azul)
+7389b3	Animal
+65fa72	Planta
+792a17	muito sensível
+dab812	{0} de {1} estão em risco: a causa mostrada é a que mais subtrai do ecossistema entre as suas ameaças.
+f888fa	Nenhuma está em risco por enquanto.
+759c52	Flora e fauna
+43740f	As espécies dependem da saúde do ecossistema ({0}/100).
+382971	Não alteram a economia.
+efc332	Projetos de água e alimentos
+0161e4	km³ de água por ano
+4485eb	km² de terra cultivável
+a8a5b5	alimentos para
+67b3db	Hoje contribuem com:
+947cea	Você só pode construir em províncias do seu país.
+31475a	o seu governo
+c08f3c	o governo
+977419	em construção, faltam:
+8f3bc2	Pago por:
+74bd5f	Custo
+9513ba	Leva
+d72b64	Você governa: as obras são pagas com o tesouro nacional ({0}).
+07253c	Você não governa: pode pagá-las você mesmo como investimento privado; elas rendem a cada ano (água e colheitas que se vendem). A barragem só o governo constrói.
+cef7d7	Os efeitos são medidos e pequenos: aumentam a água e a terra cultivável da província e, com isso, um pouco a autossuficiência do país.
+279a67	{0} {1} em {2}?
+4440c2	Dessalinização
+08cfe9	Irrigação
+ecde02	Espécie em risco
+aca10e	No total, contribuem com
+27aa1c	km³ de água por ano e alimentos para
+ecf3d2	O seu país não tem projetos. Abra-os na aba 🌿 Natureza de cada província.
+d78d44	Espécies em risco
+36f3bc	{0} de {1} populações de plantas e animais nas suas províncias estão em risco.
+99bd02	em perigo em
+1be5e2	Em risco em
+23eb3c	Tirar o sal da água do mar para torná-la potável. Dá água mesmo sem chuva, mas gasta muita energia e deixa salmoura que prejudica a costa.
+795688	Levar água às lavouras com canais, poços ou gotejamento. Permite semear onde chove pouco e colher mais, mas usa boa parte da água doce.
+ebcde6	Planta ou animal cuja população cai tanto que pode desaparecer de um lugar. A causa mais comum é a perda do seu habitat.
+c54050	Israel obtém cerca de 70% da sua água potável de usinas de dessalinização na costa do Mediterrâneo.
+81d1e7	Autoridade da Água de Israel
+4b8581	Os Países Baixos são o segundo maior exportador de alimentos do mundo em valor, graças em boa parte às suas estufas.
+b3342d	FAO; Universidade de Wageningen
+24513c	Cerca de um milhão de espécies de plantas e animais estão em perigo de extinção, sobretudo pela perda do seu habitat.
+4c0333	IPBES (2019)
+6e327f	Poluição das empresas (fábricas, minas, poços)
+0dc2a0	Estações de tratamento de águas
+3e6f2e	Reflorestamento e áreas protegidas
+b003ec	A sua empresa
+091b73	Empresa da bolsa
+c88f37	Extração
+d2f5b7	O tratamento de águas (nível {0}) compensa
+815fd9	Uma estação de tratamento de águas compensa metade por nível.
+324f21	Subtraem
+39de72	da saúde do ecossistema (conforme o seu tamanho frente à economia da província).
+f88adb	Alcançado em
+3602cb	Tecnologia civil
+beac5c	chega sozinho no nível
+335fa9	Pesquisar
+4e6994	Avanço: tecnologia da água
+7d2d65	Membranas, gotejamento e viveiros mais baratos: reduz em {0}% o custo e a manutenção de todos os projetos de água, alimentos e conservação.
+fd5d4d	Conservação
+e3c26d	suspenso este ano
+ea60b0	Turismo da província:
+65c7ed	de demanda em hotéis, bares e joalherias por causa da sua natureza e áreas protegidas.
+a8617f	Se você governa, o tesouro paga a obra e a manutenção; se não chegar, o projeto fica suspenso nesse ano.
+84b356	Sem governar, você pode pagar o reflorestamento e o tratamento como investimento privado (rendem um pouco: créditos de carbono e tarifas); a manutenção sai do seu dinheiro. A área protegida só o governo declara.
+868eeb	Pesquisar a tecnologia da água?
+7b8266	Poluição industrial
+edf024	Não há reflorestamento, áreas protegidas nem estações de tratamento. Abra-os na aba 🌿 Natureza de cada província.
+cb462c	Turismo do país por sua natureza e áreas protegidas:
+1abf79	de demanda.
+6dc117	Zona onde a lei limita a caça, o corte de árvores, a construção e a agricultura para conservar a natureza. Protege espécies e bacias hídricas e atrai turismo.
+6c43ff	Voltar a plantar árvores onde havia floresta. A floresta retém a chuva, recarrega os aquíferos e devolve o habitat a muitas espécies; leva anos para fazer efeito.
+517784	Resíduos que fábricas, minas e poços de petróleo lançam no ar, na água e no solo. As estações de tratamento limpam parte da água antes de devolvê-la aos rios.
+7acc17	A Costa Rica passou de cerca de 21% do território com floresta em 1987 para mais de 50% hoje, com pagamentos aos donos de terras por conservá-la.
+5208dc	SINAC; FAO, Avaliação dos Recursos Florestais
+4a6c3c	As áreas protegidas cobrem cerca de 17% da terra firme do mundo.
+a04a4e	UNEP-WCMC e UICN, Protected Planet Report 2020
+d5d83f	FAO, AQUASTAT
+2a2dc3	FAO; Banco Mundial
+ba97ca	Poluição das empresas
+ecb904	Províncias mais poluídas por empresas
+04bbf6	🏗️ Obra concluída: {0} em {1}: {2} para a província.
+7702c2	🏗️ Obra concluída: {0} em {1} (nível {2}): {3} para a província.
+5a1b46	A obra começa: {0} em {1}. Leva {2} meses.
+238966	A obra começa: {0} em {1}. Leva {2} meses; é o seu investimento privado e renderá cerca de {3}% ao ano quando funcionar.
+8c5ed2	{0} Área protegida declarada em {1}: a saúde do ecossistema melhora.
+d71837	{0} Obra concluída: {1} em {2}: a saúde do ecossistema melhora.
+43d09c	{0} Obra concluída: {1} em {2} (nível {3}): a saúde do ecossistema melhora.
+27a851	sensível
+c51d52	resistente
+f1fe5b	faltam
+98b395	suspenso
+f46b3a	tratamento
+67bbcd	degradado
+c53414	saudável
+8f12c6	Em risco
+1f3e92	Você não tem dinheiro suficiente.
+32c536	Rio grande
+327a63	Crescimento da população
+4cb456	Em 2022, vários países proibiram a exportação de alimentos após a invasão da Ucrânia, um dos maiores exportadores de trigo e milho do mundo.
+5087e8	do seu dinheiro
+b5df5e	🌳 Manutenção de reflorestamento, áreas protegidas e tratamento de águas: {0} do tesouro.
+c98083	Reflorestamento ({0})
+5230e6	Área protegida ({0})
+b74b18	Estação de tratamento de águas ({0})
+a502fe	Reflorestamento ({0}), {1}
+f324fd	Área protegida ({0}), {1}
+434a81	Estação de tratamento de águas ({0}), {1}
+58afc8	Camadas do mapa
+58d28b	Abrir a Bolsa ›
+4a8db5	Comece ou carregue uma partida para escolher ativos.
+430413	Índices
+f3c241	Nenhum
+862604	Máximo de {0} ativos.
+451845	Ativos na tela principal
+374a64	Escolha quais ativos da bolsa aparecem em uma pequena bolha na tela principal. Por padrão, nenhum. A barra completa de cotações fica dentro da Bolsa.
+01385b	Visão em pixels
+256a5c	Abrir menu
+2739ab	Recolher menu
+216b3d	Suave
+d11840	Ágil
+6aaab3	Com inércia
+6baff9	Sem inércia
+6a2be3	Mapa: sensibilidade
+57c32e	Suave: é preciso mexer mais o dedo para arrastar (os toques acertam melhor). Ágil: o mapa responde mais cedo e desliza mais ao soltar.
+54f68f	arranha-céus e avenidas
+3882bc	prédios de apartamentos e casas
+2f63ab	casas e moradias humildes
+3f273c	Cidade em pixel art
+b014ad	Vista da cidade
+06abc6	teste de estilo 3, pixel (isométrico)
+8ee5d6	Outro bairro
+921a76	Teste de estilo: é gerado por código a partir dos dados da província; ainda não se joga aqui. Escolha na issue qual dos 3 testes você prefere.
+b48248	Vista de cidade em pixel (teste 3)
+1120ae	Um bairro isométrico em pixel gerado com os dados de cada província. Abre-se em «🏙️ Cidade» embaixo do mapa, na aba de cidades.
+906dc6	Mostrar
+4f5841	Ocultar
+c94656	Vê-se: {0}. Mais renda → prédios mais altos; mais felicidade → mais parques; mais população → bairro maior.
+c635ba	Vê-se: {0}, rio. Mais renda → prédios mais altos; mais felicidade → mais parques; mais população → bairro maior.

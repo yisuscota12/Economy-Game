@@ -1,0 +1,219 @@
+cc7c7f	% par an
+5d22b6	Aéroports du Golfe
+943607	Aérocontinental
+1f7a4f	Esc
+80c9bd	% du PIB
+4241e5	Technologies
+7db3cf	Industriel
+79d127	en cristal
+a07c57	de sel
+b1f6e5	avec
+9f3a7f	de ton pays
+95ea01	5 ans
+46fb8b	Terrestre
+ac6d75	Maritime
+b8b49d	avions cargo
+c92f48	Aérien
+0c680d	Compagnie maritime
+0331b6	Fret aérien
+167498	Une compagnie maritime a besoin d'une province côtière pour son port.
+1ae2bc	Caminos del Norte
+33ab9a	Seda Exprés
+90f620	Volga Logística
+9f96de	EuroRuta
+312700	IndoCarga
+a1b23c	TransAndes
+023528	Mareas del Pacífico
+afd0b8	Atlántica Naviera
+aff5a7	Ruta del Índico
+598a17	Antípodas Shipping
+a92834	Naviera del Golfo
+251146	Ala del Pacífico
+6b04dc	Cóndor Carga
+d1d723	Tu abandonnes cette route : un autre transporteur la desservira.
+4b58b9	Tu reprends la route : ta flotte transportera ces envois.
+bc156c	Une autre de tes entreprises dessert déjà cette route.
+b27e58	Aéroport
+fafbf1	Plus de vols : touristes et fret rapide ; +0.3 % de croissance par niveau construit
+365ca1	Uniquement dans les capitales, les provinces comptant une ville de 500 mille habitants ou plus, ou 2 millions d'habitants.
+916c69	Elle possède déjà le plus grand aéroport (niveau 3).
+4b6b23	OMT et Banque mondiale (ST.INT.ARVL, ST.INT.RCPT.CD), 2019, approx.
+39a9d6	Taxe basse
+86073e	Strict
+a68851	Libre
+bbd254	Sans taxe
+d9e40a	Taxe élevée
+183290	; +0.5 de stabilité par an
+550322	Moyenne
+aeef45	Petite
+28645e	Pétroles Nationaux
+edeb9f	Compagnie aérienne nationale de fret
+f406b3	Chemins de fer et fret de l'État
+0db718	Entreprise de construction de l'État
+254cf5	Hôtels de l'État
+28e800	Transports urbains de l'État
+799715	Industries de l'État
+7da646	Banque nationale de développement
+15dfd6	Élevage de l'État
+30efee	Pharmacies du Bien-être
+4b24e3	Cliniques de l'État
+596014	Technologies de l'État
+934a2c	Logement de l'État
+bcee33	Fermes de l'État
+4b3d36	Écoles techniques de l'État
+7ebf93	Magasins du Bien-être
+b744d9	Studio numérique de l'État
+c95c37	Poste et commerce numérique de l'État
+feace3	Agence de médias de l'État
+82fe95	Secteur inconnu.
+94ef77	L'économie du pays est trop petite.
+70b177	Le pays n'a ni pétrole ni gaz.
+947c24	Le pays n'a pas de gisements minéraux.
+75b16d	Le pays a besoin de plus de développement (universités et techniciens) pour ce secteur.
+a7da06	Une compagnie maritime a besoin d'une côte.
+8b762c	d'État
+dc14f8	sa province
+033ffd	Tu as déjà une entreprise d'État dans ce secteur : investis-y.
+73d7bb	Il n'y a pas de province adaptée.
+d4a13f	Tu as déjà réduit cette entreprise cette année.
+051254	Ton pays n'a pas de bourse.
+2924eb	Pas de bourse.
+30281d	Déjà cotée.
+d2c515	Seule une entreprise bénéficiaire peut entrer en bourse.
+2f24bb	Aérospatiale
+389140	Transports
+43e93c	Services publics
+84d2bd	Mines
+9843b2	Finance
+bdb14a	Médias
+f9ba98	Télécoms
+0c55b4	Industries
+1310a4	Technologies
+18dcea	Semi-conducteurs
+18fdc5	Services publics
+2f2f07	Luxe
+3703cd	Santé
+437bcb	Énergie
+7a2c34	Logistique
+925dd3	Commerce de détail
+97f3d6	Automobile
+bd32ee	Alimentation
+bd91f0	Finance
+da33e1	Construction
+e4fdcd	Aérospatiale
+faabcf	Mines
+ac9b53	utilise une action de l'État
+51ca89	🌿 Nature et ressources
+488a86	aire protégée
+559cad	aires protégées
+f746cf	Fret des importations
+c89d74	📦 Envoi perdu ce mois-ci
+15e809	attribution automatique
+3c86ab	Flotte
+aa9a70	Routes
+dd85ae	choisies par toi
+35b09f	augmente avec la réputation
+75cfed	par mois (carburant, salaires et loyer)
+7f0d0c	Coût d'exploitation
+4df5b8	coûtent de la réputation et de la trésorerie
+72405c	Retards et pertes
+b80450	Envois à temps
+3c276e	Transporteurs
+66d405	Réseau de ton pays
+0ec38f	aucune importation dans le réseau
+e7294a	Efficacité du réseau
+97fd61	Dépendance aux importations
+df59a8	de ce qu'il consomme en ressources
+7b2233	Envois
+310ee0	Fret
+94573b	Logistique
+00e497	cette année
+c534c4	Cargaison par an
+623773	Envois (toucher pour afficher)
+86eb30	Envois (toucher pour masquer)
+1041a0	Tout ce qu'il faut pour qu'un bien aille de son lieu de production à son lieu d'utilisation : transport, entrepôts, ports, douanes et l'information qui les coordonne.
+c916db	Ce que coûte le transport d'une cargaison. Il s'ajoute au prix de ce qui est importé : c'est pourquoi un même bien coûte plus cher loin de son lieu de production.
+682b2b	🚚 Logistique de ton entreprise
+72fe85	Logistique de ton entreprise
+a21619	Une entreprise de transport vend de la capacité : camions, navires ou avions qui déplacent la cargaison des autres. Elle gagne plus quand sa flotte est pleine et que ses envois arrivent à temps ; les retards et les pertes coûtent des clients et des assurances.
+151430	🚚 Logistique
+b2284e	Près de 80 % du commerce mondial en volume voyage par bateau ; l'avion transporte peu de poids mais beaucoup de valeur. Le fret s'ajoute au prix de tout ce qui est importé.
+c1e471	Près de 80 % du commerce mondial de marchandises, mesuré en volume, voyage par mer.
+e3e451	Le canal de Suez fait gagner à un navire entre l'Asie et l'Europe environ 7,000 km par rapport au contournement de l'Afrique par le cap de Bonne-Espérance.
+e40836	Autorité du canal de Suez
+097afc	Envois sur la carte : visibles (toucher pour masquer)
+774018	Envois sur la carte : masqués (toucher pour afficher)
+7a66fc	Retour à :
+bd281d	Retour de deux écrans :
+0a5fa7	par mois
+459b30	jours cette année
+602c3c	Change
+74b095	Ta vie
+addfa4	Autres
+a61197	Masquer les envois
+ee796a	Voir les envois
+ed476b	Réseau logistique
+399313	Activité
+28f064	Entreprises d'État
+5975f6	Fret aérien et pétrole
+9c0d3d	Seul celui qui gouverne construit dans les provinces de son pays.
+2d47a7	✈️ Réseau aérien
+b4de1f	Aéroports
+604b54	100 % = aéroports de départ
+a8cac3	Connectivité aérienne
+d53e85	Routes aériennes
+3bd28d	renchérit ou allège le vol
+9db502	Fret aérien (1,500 px)
+ef6375	Pétrole à contre-tendance
+5a4421	Transit vers
+83f8d3	Ventes de l'année
+e0e325	Emploi
+03ed26	Budget annuel
+13040d	investissement et maintenance
+68ffc6	Au Trésor l'an dernier
+d35fe9	Contribution au PIB
+883839	Privatisation
+f5ef97	Fermeture
+3f403f	Entreprise d'État
+72ddfc	Tu en as déjà une dans ce secteur.
+c41dc8	Dépenses des touristes
+efc70a	Arrivées par an
+3b0035	Poids dans l'économie
+9a65f3	Rang mondial
+9b65d8	Dépense par visiteur
+f41787	par arrivées
+b523f8	Effet des politiques
+dca9ab	campagne, visa, taxe, aéroports et aires protégées
+243251	📣 Campagne
+3afae2	sans campagne
+528aa8	💵 Taxe touristique
+f66b83	🏞️ Aires protégées
+436eb1	Campagne touristique
+b6a333	Visa
+8c58b2	Taxe touristique
+8818e6	Touristes par an
+12a0ba	Du PIB de
+827139	Son secteur
+6e4c06	Entreprises en bourse
+f8b117	Entreprise dont le propriétaire est le gouvernement. Son bénéfice entre au Trésor et sa perte est payée par le Trésor ; elle peut être vendue à des privés (privatiser) ou entrer en bourse.
+9671a3	Privatiser
+d968e7	Vendre une entreprise de l'État à des propriétaires privés. Le gouvernement reçoit de l'argent une seule fois et cesse de recevoir (ou de payer) son résultat chaque année.
+c76b37	Tourisme international
+fa7584	Visiteurs venus d'un autre pays qui dépensent dans les hôtels, restaurants, transports et achats : pour l'économie, c'est comme une exportation.
+69b3bb	🏛️ Secrétariat à l'investissement
+de4490	Secrétariat à l'investissement
+dfc0bb	De nombreux pays ont des entreprises d'État dans le pétrole, l'électricité, les banques de développement ou les transports. Elles peuvent fournir des emplois et des services stratégiques, mais si elles perdent de l'argent, c'est le Trésor qui paie.
+233acd	Secrétariat au tourisme
+80b21c	🏖️ Secrétariat au tourisme
+b6cb25	En 2019, près de 1,460 millions de touristes internationaux ont voyagé dans le monde et dépensé environ 1.5 billion de dollars (OMT). La France, l'Espagne et les EE. UU. reçoivent le plus de visiteurs ; les EE. UU. sont ceux qui encaissent le plus.
+ada182	L'avion transporte moins de 1 % du poids du commerce mondial, mais près d'un tiers de sa valeur : l'urgent, le périssable et le cher. Le carburant est l'un de ses plus gros coûts.
+b8cb2c	Réseau aérien
+6ff790	🏛️ État entrepreneur et tourisme
+939ed6	OMT, Baromètre du tourisme mondial
+ae9de3	La France est le pays qui reçoit le plus de touristes internationaux (environ 89 millions en 2019), mais ce sont les EE. UU. qui gagnent le plus avec le tourisme.
+96a93b	Le transport aérien transporte moins de 1 % du volume du commerce mondial, mais environ un tiers de sa valeur.
+b5dfbe	Chaque année, les pays qui exportent une ressource approvisionnent ceux qui l'importent, et les provinces aux récoltes excédentaires approvisionnent celles qui ne se nourrissent pas seules. Le fret des importations dépend de la distance, du mode, de l'efficacité des transporteurs par rapport à la moyenne mondiale et de la guerre ; s'il augmente, la santé du commerce de détail et de l'industrie du pays baisse un peu.
+3c0b44	Flotte = succursales × unités (12 camions, 2 navires ou 1 avion par succursale) ; chaque succursale dessert une route du réseau (jusqu'à 8). Avec toutes tes routes desservies, la demande monte jusqu'à +12 % ; sans routes, elle baisse de 8 %. Chaque mois, chaque route peut être retardée (~3.5 %) ou perdre l'envoi (~0.5 % ; plus avec une faible réputation ou la guerre) : un retard retire 0.3 de réputation ; une perte, 1.5 et 3 % des ventes du mois.
+6fef37	Le Trésor apporte le capital (0.03 %, 0.1 % ou 0.3 % du PIB) et un budget annuel (0 %, 3 % ou 6 % du capital ; 70 % devient du capital et fait évoluer l'efficacité). Ventes = capital ÷ intensité capitalistique du secteur × demande (santé du secteur et prospérité de la province) × √efficacité. Le résultat va au Trésor. Elle influe sur la santé de son secteur (centrée sur la rentabilité), l'emploi et le PIB de sa province (valeur ajoutée × 0.5). Après 2 ans avec une marge inférieure à −5 %, elle fait faillite.
+8be724	Arrivées = donnée de 2019 (approx.) × croissance mondiale × politiques × conditions (guerre, sanctions, stabilité). Elles sont réparties par province selon ses attraits (ville, capitale, côte, nature, aéroport, aire protégée). Tes hôtels, bars et bijouteries vendent selon l'intensité touristique de leur province par rapport à leur pays (0.8–1.3) et les politiques (0.85–1.2).
+21cbe6	Aéroports de base dans les capitales et les villes d'un million ou plus (niveau 1–3) et ceux que tu construis. Routes par gravité (population × revenu ÷ distance). Fret aérien = 10 % + 4 % par distance, × prix du pétrole par rapport à sa tendance. Plus de connectivité qu'au départ rend l'import moins cher dans le commerce de détail et le luxe, et attire les touristes.

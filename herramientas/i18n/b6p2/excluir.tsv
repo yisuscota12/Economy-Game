@@ -775,3 +775,11 @@ d640ac	v1.8a: cuerpo de ⓘ (va por B6)
 aa4833	v1.8a: cuerpo de ⓘ (va por B6)
 4ff650	v1.8a: cuerpo de ⓘ (va por B6)
 928334	v1.8a: cuerpo de ⓘ (va por B6)
+90f1b2	etiqueta interna de la versión (no se muestra al jugador)
+690b23	mensaje de consola (console.warn), no se muestra
+51b220	mensaje de consola (console.warn), no se muestra
+8af10a	mensaje de consola (console.warn), no se muestra
+9350b0	mensaje de consola (console.warn), no se muestra
+69db7d	bloque de CSS, no es texto
+457a63	bloque de CSS, no es texto
+ee4703	plural armado con sufijos {2}{3} en español; no se puede traducir sin cambiar el código

@@ -168,9 +168,9 @@ function mpopShow(cx,cy){mpopHide();const w=$('mapWrap');if(!w)return;const b=w.
 // recuerda dónde tocaste el mapa (el mapa ya cambió la provincia elegida cuando llega aquí)
 (function(){const w=$('mapWrap');if(!w)return;let d=null,n=0,ord=false;
   w.addEventListener('pointerdown',e=>{if(e.target.closest('.zoom,.mmodes,.mleg,.mpop'))return;n++;if(n===1){d={x:e.clientX,y:e.clientY,t:performance.now()};ord=!!(typeof MO!=='undefined'&&MO&&MO.ord);}else{d=null;mpopHide();}});
-  w.addEventListener('pointermove',e=>{if(d&&Math.abs(e.clientX-d.x)+Math.abs(e.clientY-d.y)>6){d=null;mpopHide();}});
+  w.addEventListener('pointermove',e=>{if(d&&Math.hypot(e.clientX-d.x,e.clientY-d.y)>(typeof mapTapPx==='function'?mapTapPx():6)){d=null;mpopHide();}});   // v2.3e: mismo umbral que el mapa
   const up=e=>{n=Math.max(0,n-1);if(!d){return;}const tap=d;d=null;if(e.type!=='pointerup'||performance.now()-tap.t>650||ord)return;
-    const now=performance.now();if(now-PL.lt<300){PL.lt=0;mpopHide();return;}PL.lt=now;const X=e.clientX,Y=e.clientY;setTimeout(()=>mpopTap(X,Y),0);};
+    const now=performance.now();if(typeof MAPG!=='undefined'?MAPG.dbl:now-PL.lt<300){PL.lt=0;mpopHide();return;}PL.lt=now;const X=e.clientX,Y=e.clientY;setTimeout(()=>mpopTap(X,Y),0);};
   w.addEventListener('pointerup',up);w.addEventListener('pointercancel',up);w.addEventListener('wheel',()=>mpopHide(),{passive:true});})();
 // la burbuja se cierra al cambiar de vista, abrir una pantalla o redibujar con otra provincia
 {const _os=openSheetRaw;openSheetRaw=function(h,b){mpopHide();return _os(h,b);};}

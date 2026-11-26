@@ -43,6 +43,7 @@ for a in sorted(U,key=lambda a:(grp(a),a['f'],a['line'])):
 rows=collections.defaultdict(list);ids={}
 for t,(g,k,f,l) in best.items():
     i=sid(t)
+    if i in ids and ids[i]!=t:i=hashlib.sha1(t.encode('utf8')).hexdigest()[:8]   # v2.5f: colisión de 6 hex → 8 hex (solo ese texto)
     assert i not in ids or ids[i]==t,f'colisión de id {i}'
     ids[i]=t;rows[g].append((f,l,i,k,t))
 for g,b in enumerate(BLOQ):

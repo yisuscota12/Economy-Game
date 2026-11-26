@@ -121,7 +121,7 @@ f81838	T	Apruebas el curso y obtienes la {0}. Tu fuerza como DT: {1} (máximo {2
 768bb4	D	⚽ Ser dueño de un club de fútbol
 959325	D	⚽ Tu club de fútbol
 e956dc	D	Compra un club o funda uno
-b4d114	D	.ft7t{width:100%;border-collapse:collapse;font-size:12px;font-variant-numeric:tabular-nums}.ft7t td,.ft7t th{padding:3px 4px;border-bottom:1px solid #1f2b3a;text-align:left}.ft7t th{color:var(--mut);font-weight:600;font-size:11px}.ft7t td.r,.ft7t th.r{text-align:right}\n.ft7t .s{font-size:11px;color
+f20719	D	.ft7t{width:100%;border-collapse:collapse;font-size:12px;font-variant-numeric:tabular-nums}.ft7t td,.ft7t th{padding:3px 4px;border-bottom:1px solid #1f2b3a;text-align:left}.ft7t th{color:var(--mut);font-weight:600;font-size:11px}.ft7t td.r,.ft7t th.r{text-align:right}\n.ft7t .s{font-size:11px;color:var(--mut)}[data-ftc]{cursor:pointer}span[data-ftc]{text-decoration:underline dotted rgba(255,255,255,.35)}\n.ft7sw{display:flex;flex-wrap:wrap;gap:5px;margin:4px 0 8px}.ft7sw button{width:28px;height:28px;border-radius:50%;border:2px solid #334155;padding:0}.ft7sw button.on{border-color:#f2c14e;box-shadow:0 0 0 2px #f2c14e55}\n.ft7chips{display:flex;flex-wrap:wrap;gap:4px;margin:4px 0}.ft7chips span{font-size:11.5px;border:1px solid var(--line);border-radius:10px;padding:2px 7px}\n.ft7chips span.ok{border-color:#3ccf8e;color:#3ccf8e}.ft7chips span.no{border-color:#ff7b6b;color:#ff7b6b}
 0e4333	D	Edad
 3488d6	D	Formación habitual
 3c3d15	D	Récord (G-E-P)
@@ -147,7 +147,6 @@ ea9804	D	Licencias
 9d5764	D	Liga de entrada
 d41547	D	eliges el nombre en el siguiente paso
 fc4a8f	D	🏟️ Fundar un club
-64c889	D	Como exfutbolista profesional haces los cursos en la mitad del tiempo.
 514290	D	Meses dirigiendo
 84b4ae	D	Máximo con esta licencia
 b16ef5	D	Tu licencia
@@ -204,25 +203,11 @@ eb067b	D	Nombre del club
 b73399	D	Contratar
 cb5b9b	D	¿Contratar a este entrenador?
 3d7fed	D	¿Dirigir tú mismo al equipo?
-1ba5bf	D	Cada entrenador tiene una idea de juego: posesión, presión alta, contragolpe, bloque bajo o juego directo. Unos estilos neutralizan a otros: la presión alta incomoda a los equipos de posesión, pero deja espacio para el contragolpe.
-d03645	D	El choque de estilos y la calidad del DT mueven poco la fuerza de cada partido. Cuando cambia el estilo, el plantel tarda unos meses en adaptarse. Toca un club en cualquier tabla para ver a su DT.
-476cab	D	Un jugador puede brillar con un entrenador y quedarse en la banca con otro: cada sistema pide cualidades distintas.
 7decd2	D	Encaje táctico
-c8f42d	D	Compara tus atributos con los que más valora el estilo de tu DT. Un buen encaje te acerca a la titularidad; cuando llega un DT nuevo, su confianza en ti empieza de cero.
-3d5e9e	D	El modelo decide qué tan fácil vende un club, a qué precio y quién compra en cada ventana. Los clubes de cantera sacan juveniles con más potencial.
-618328	D	Los clubes grandes compran figuras y venden caro; muchos clubes de Portugal, Países Bajos o Sudamérica viven de vender jugadores a las ligas ricas; otros apuestan por su cantera.
 7ef211	D	Modelos de negocio
 960972	D	Masa salarial
-df5f62	D	La masa salarial te coloca en la tabla de gasto de tu liga y la fuerza del equipo se acerca poco a poco a la que paga. Los sueldos de las figuras cuentan.
-f7b5e9	D	En el fútbol la fuerza del equipo sigue muy de cerca a lo que paga en sueldos: los estudios sobre las ligas europeas encuentran que la masa salarial explica la mayor parte de la posición en la tabla.
-577ea4	D	En primera división hace falta un centro de entrenamiento. Si tu club termina en zona de ascenso sin licencia, sube el siguiente; en primera, la liga te multa cada temporada.
 86c8ea	D	Licencia de la liga
-e3a61c	D	Las ligas piden requisitos para competir: aforo mínimo del estadio, instalaciones de entrenamiento y finanzas en orden.
-0daa1f	D	Para dirigir en las ligas profesionales se exige una licencia: en Europa la UEFA C, B, A y Pro, con cursos de varios meses.
-29cb28	D	Con la B diriges un club regional, con la A uno de segunda y con la Pro uno de primera. Tu fuerza como DT sube cada mes que diriges.
 ca62ff	D	Licencias de entrenador
 5c188c	D	Permisos de obra
-613c1d	D	El permiso cuesta 1 % de la obra y tarda de 2 a 4 meses; 15 % de las veces se rechaza. Solo puede haber una obra a la vez.
-66ea3e	D	Las obras grandes, como ampliar un estadio, necesitan permiso del ayuntamiento y pueden tardar o ser rechazadas.
 e6907a	D	Permiso de obra
 d6d9ac	D	⚽ Fútbol mánager

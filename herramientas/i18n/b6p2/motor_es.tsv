@@ -803,11 +803,507 @@ cbf9f2	T	Salir de noche ({0})
 99c6c4	D	Amaneces con resaca: −2 salud.
 c7f562	D	Bailas, ríes y llegas tarde a casa.
 f211a1	D	Sales de noche.
+13860a	D	Abre sucursales cuando hay caja y la empresa vende a tope.
+31385f	D	Paga deudas primero y guarda caja para las crisis.
+9aa21f	D	Eficiencia
+a419b8	D	Recorta costos: la utilidad sube con la calidad del director.
+a31d55	T	Grupo {0}
+bfb596	T	{0} dirige {1} ({2}, capacidad {3}). Sueldo: {4} al año, a cargo de las empresas del grupo.
+962793	T	Despides a {0}: la indemnización ({1}) sale de la caja de las empresas del grupo.
+4c1e09	T	Barres la caja de {0}: {1} pasan a tu dinero. Cada empresa conserva 3 meses de costos.
+84f001	T	Ninguna empresa de {0} tiene caja de sobra (cada una necesita 3 meses de costos).
+6f31ff	D	Se necesitan al menos 2 empresas en el grupo.
+cfbdb2	D	No hace falta mover caja: ninguna empresa la necesita o ninguna tiene de sobra.
+a4c569	T	Préstamo interno: {0} pasa {1} a {2}{3}.
+ee0309	T	, que paga {0} de deuda bancaria
+96cf14	T	Disuelves {0}: sus empresas vuelven a depender de ti.
+90205f	T	Te faltan {0} para la auditoría.
+653aca	T	La auditoría de {0} ({1}) encuentra una deuda oculta de {2} y resultados inflados: las ventas reales son {3} % de lo que declaraba el vendedor.
+07432e	T	La auditoría de {0} ({1}) confirma las cifras del vendedor: no hay deudas ocultas.
+774901	T	El vendedor rechaza tu oferta por {0} y la retira del mercado.
+d038f3	T	El vendedor rechaza {0} por {1}. Puedes volver a intentarlo una vez más.
+b0d7b3	T	Compras {0} por {1}{2}.
+fcaff6	T	(pagas {0}; {1} de crédito quedan como deuda de la empresa)
+fa84fb	T	Al revisar los libros descubres una deuda oculta de {0}: no hiciste auditoría.
+a80a45	D	Esta empresa no se puede comprar por OPA.
+b447c9	D	Ya controlas esta empresa.
+6cba2b	D	Ya lanzaste una oferta por esta empresa este año: los accionistas no aceptan otra hasta el próximo.
+5fc942	T	Los accionistas de {0} rechazan tu oferta de {1} por acción. Pagas {2} a los asesores y la acción sube por la especulación.
+cc2471	T	Tomas el control de {0}: compras {1} acciones a {2} ({3} con comisiones). Ahora eliges su estrategia y su director.
+3da0c1	D	Reinvierte casi todo: las utilidades crecen más rápido y reparte menos dividendos.
+7a76c3	D	Crecer
+da1738	D	Equilibrada
+e65e56	D	Sigue como estaba.
+908b77	D	Reparte más: dividendos mucho mayores, pero crece menos.
+94f59e	D	Recorta costos: utilidades algo mayores y la acción se mueve menos.
+b94493	D	Dividendos
+026517	T	{0} cambia de estrategia: {1}.
+d6c94d	T	{0} es la nueva directora o director general de {1} (capacidad {2}).
+c33cbb	T	Bajas del 50 % de las acciones de {0}: pierdes el control de la empresa.
+1662ca	T	La quiebra de {0} deja sin empleo a {1} personas en {2}; los bancos de {3} pierden {4} en créditos que no se pagarán.
+737a53	T	Al cerrar {0}, {1} personas se quedan sin empleo en {2} y la demanda de la provincia baja unos meses.
+37b68c	T	{0} se retira: no acepta pagar más por {1}.
+362d66	T	{0} rechaza pagar más y baja su oferta a {1}. Puedes aceptarla o intentarlo una vez más.
+ed070a	T	({0} % más que su oferta)
+f16144	T	Vendes {0} a {1} por {2}{3}. La empresa sigue operando con su nuevo dueño.
+c33869	D	Ese país ya no existe.
+ff7f4c	T	Trámites de inversión extranjera: {0}.
+bf63fc	T	🌐 Contagio: la crisis bancaria de {0} golpea a los bancos de {1}.
+3de1d0	T	📉 {0} pierde su empleo en {1}: el sector está en {2}/100.
+829b26	T	🏛️ {0} se queda sin empleo en el gobierno: la salud fiscal está en {1}/100.
+684779	T	📈 {0} recibe un aumento: a {1} le va bien ({2}/100).
+6b921c	T	📈 {0} recibe un aumento: al gobierno le alcanza (salud fiscal {1}/100).
+068e68	T	💼 {0} consigue empleo en el gobierno después de {1} meses.
+a1fcf1	T	💼 {0} consigue empleo en {1} después de 1 mes.
+d17698	T	💼 {0} consigue empleo en {1} después de {2} meses.
+e2a88b	T	💼 {0} consigue empleo en el gobierno después de 1 mes.
+7cf003	T	Le das {0} a {1} mientras busca empleo.
+951e84	T	Ayudar con dinero ({0})
+d81819	D	+Relación, mientras busca empleo
+cffffe	T	📉 El gobierno recorta plazas: su salud fiscal está en {0}/100.
+d1bded	T	📉 {0} recorta personal: {1} está en {2}/100.
+572d28	T	⏸️ {0} congela los aumentos: {1} está en {2}/100 y se revierte tu aumento de {3} %.
+a2e72c	T	⏸️ El gobierno congela los sueldos públicos: su salud fiscal está en {0}/100 y se revierte tu aumento de {1} %.
+56b32e	T	📈 El buen momento de {0} ({1}/100) suma {2} % a tu sueldo.
+b57143	T	📈 La buena salud fiscal del gobierno ({0}/100) suma {1} % a tu sueldo.
+dacfdc	D	v21c evaluación
+2d4e49	T	😠 Malestar en {0}: sueldos bajos o exceso de trabajo dañan su reputación.
+da414d	D	v21c año
+129ff9	D	Selva tropical
+bba34c	D	Sabana
+5013cb	D	Estepa
+732b6a	D	Pradera
+bdff57	D	Bosque subtropical
+f25d99	D	Bosque templado
+ffa029	D	Taiga
+16ee1f	D	Escaso
+8071ef	D	Exporta
+db197e	D	Autosuficiente
+e38b71	D	Depende de importaciones
+432f1e	D	Jaguar
+5e8269	D	Leopardo
+d03276	D	Casuario
+da0d2b	D	Tigre
+95f1b9	D	Ave del paraíso
+c745ea	D	Guacamaya
+ea6b53	D	Loro gris
+eff2ee	D	Cálao
+00fa82	D	Chimpancé
+6c7f95	D	Mono aullador
+b34aa5	D	Canguro arborícola
+d41c16	D	Orangután
+0f7174	D	Rana venenosa
+5e5557	D	Rana voladora
+e1efe2	D	Rana arborícola
+26e570	D	Ceiba
+842f73	D	Dipterocarpo
+b2e0fa	D	Caoba africana
+f6e842	D	Orquídeas
+296747	D	Canguro rojo
+66e73c	D	Oso hormiguero
+7355df	D	Elefante
+a78f03	D	Elefante asiático
+07663e	D	Ciervo axis
+7767af	D	Dingo
+87c9a1	D	Venado de cola blanca
+ab8762	D	Jirafa
+bbd8e9	D	Venado de las pampas
+2f2e1a	D	Águila audaz
+3364b1	D	León
+8dd8a2	D	Puma
+afe7d5	D	León asiático
+63e351	D	Eucalipto
+89d02c	D	Algarrobo
+97a915	D	Acacia
+fdefe7	D	Pastos altos
+10c09c	D	Guanaco
+11a4ec	D	Camello bactriano
+15cdd5	D	Coyote
+cef9ed	D	Dromedario
+64b2a2	D	Zorro del desierto
+182538	D	Diablo espinoso
+5c8fb9	D	Lagarto
+718a47	D	Lagarto de cola espinosa
+a7fa4b	D	Monstruo de Gila
+ab3e38	D	Escorpión
+41aa62	D	Saxaúl
+52e4b9	D	Spinifex
+84b442	D	Palmera datilera
+dbbc15	D	Cactus y suculentas
+3ee8ae	D	Caballo salvaje
+502507	D	Canguro gris
+f3a236	D	Berrendo
+f441ea	D	Gacela
+39e1d4	D	Águila esteparia
+5cddc1	D	Cóndor
+e5a5ba	D	Águila real
+01d844	D	Wombat
+4173da	D	Perro de las praderas
+4c19d7	D	Jerbo
+9f5bc1	D	Vizcacha
+b42eba	D	Marmota
+6750fc	D	Pasto pluma
+06ae50	D	Artemisa
+a978b3	D	Arbusto salado
+386e7f	D	Bambú
+473ace	D	Olivo silvestre
+72a06d	D	Olivo
+52cc57	D	Encino perenne
+ad9b3c	D	Alcanforero
+cb0290	D	Araucaria
+e0b77b	D	Alcornoque
+386dc7	D	Tortuga
+9900a4	D	Mariposas
+b2d6a5	D	Mariposa monarca
+d0eb80	D	Serpientes
+067c01	D	Bisonte europeo
+7c6bc4	D	Caballo de Przewalski
+d30fa9	D	Bisonte
+562c21	D	Liebre
+840fa2	D	Mara patagónica
+574c12	D	Abejas silvestres
+5e4022	D	Amapola
+7476c9	D	Girasol silvestre
+e29ecc	D	Ciervo
+07ea1a	D	Oso pardo
+5f7738	D	Huemul
+72cc14	D	Oso negro
+74ae77	D	Koala
+7e1bb2	D	Oso negro asiático
+4a5ab7	D	Búho
+1a7553	D	Zorro rojo
+0ff152	D	Roble pellín
+bd356a	D	Roble
+8a8ba7	D	Hongos del bosque
+b4e3c3	D	Abeto y pino
+219420	D	Lobo gris
+44f33d	D	Alce
+7e469d	D	Lince
+143e7f	D	Reno
+9ee0ea	D	Caribú
+623acb	D	Zorro ártico
+f99f29	D	Búho nival
+e718dc	D	Musgos y líquenes
+edcf79	D	Trucha ártica
+1288f7	D	Quebrantahuesos
+bc4168	D	Cóndor andino
+0a34fa	D	Borrego cimarrón
+5c3e16	D	Vicuña
+aef341	D	Cabra montés
+b65196	D	Íbice
+f978ae	D	Ualabí de roca
+4b12b4	D	Leopardo de las nieves
+513928	D	Equidna
+79bda5	D	Pino de montaña
+58c018	D	Edelweiss
+dc59b0	D	Flores alpinas
+21e6f9	D	Trucha
+2f021b	D	Bacalao de Murray
+40aa10	D	Dorado
+6cc5b0	D	Tilapia
+7120ca	D	Peces de río
+822f97	D	Bagre
+ec91a8	D	Carpa
+2cc076	D	En peligro
+8f12c6	D	En riesgo
+e9c0f4	D	Estable
+84479e	D	Su hábitat se convirtió en cultivos
+e25ac6	D	Contaminación de la industria
+e7247c	D	Ciudades y población ocupan su hábitat
+6b0e77	D	Ocupación militar: caza y hábitat destruido
+94a232	D	Guerra: caza furtiva y hábitat destruido
+d9f0ee	D	Sequía: falta agua y alimento
+0633ee	D	Salmuera de la desalinización
+a6f360	D	Agua desviada para riego
+b29db0	D	Una presa corta el río
+b5e7ae	D	Poca protección ambiental
+0a532b	D	+35 m³ de agua por persona al año por nivel, sacada del mar: no depende de la lluvia ni de la sequía.
+1dd77f	D	Planta desalinizadora
+b18177	D	Sistema de riego
+e981ba	D	+12 % de tierra cultivable y entre 10 % y 20 % más cosechas por nivel (más donde llueve poco). Usa 4 % del agua.
+06f739	D	Invernaderos
+f075dd	D	Alimentos para 3 % más de la población por nivel, aun en años de sequía.
+82504c	D	Presa y embalse
+8d4bbd	D	+8 % de agua, la sequía le quita la mitad de agua y +4 % de tierra cultivable con riego. Corta el río: baja la salud del ecosistema.
+52121d	D	Provincia desconocida.
+65908c	D	Ya está en construcción.
+9ddf39	D	Ya está al máximo.
+938c1d	D	Solo en provincias con costa.
+9ad5b0	D	No hay tierra que se pueda cultivar.
+f64845	D	Necesita un río grande o un valle entre cerros.
+e30d33	D	La provincia está ocupada.
+08d9cb	D	Solo en provincias de tu país.
+834945	D	No alcanza el tesoro nacional.
+1f3e92	D	No te alcanza el dinero.
+f1e2f2	D	Solo el gobierno puede construir una presa.
+4d574e	T	Empieza la obra: {0} en {1}. Tarda {2} meses{3}.
+6837b5	D	% al año cuando funcione
+ab2a3e	D	; es tu inversión privada y te dejará cerca del
+4cc082	T	🏗️ Tus proyectos de agua y alimentos te dejan {0} este año.
+c8b376	T	Necesitas tecnología civil {0} (tienes {1}).
+cb4421	D	Tu país ya tiene este avance.
+99c4a7	D	Solo el gobierno puede financiar la investigación.
+486424	T	🔬 Tus universidades logran el avance «Tecnología del agua» ({0}): los proyectos de agua, alimentos y conservación cuestan {1} % menos.
+2ee63c	D	Reforestación
+7e9be8	D	+3 de salud del ecosistema y +1.5 % de agua renovable por nivel (el bosque retiene la lluvia). Ayuda al turismo.
+53c5a2	D	Área protegida
+6f3d0c	D	+5 de salud del ecosistema y +2 % de agua renovable (cuencas protegidas). Atrae turismo. Solo la declara el gobierno.
+08d09b	D	Compensa la mitad de la contaminación de las empresas de la provincia por nivel (+1 si no hay industria: aguas negras de las ciudades).
+2a6282	D	Planta de tratamiento de aguas
+530ffe	D	No se puede reforestar un desierto o una tundra.
+216e8d	D	Solo el gobierno puede declarar un área protegida.
+d386e0	D	Minas y pozos de la provincia
+3159c6	D	Contaminación de fábricas, minas y pozos
+85e1e6	T	🌵 Sequía en {0}: {1} produce {2} % menos este año.
+b5df5e	T	🌳 Mantenimiento de reforestación, áreas protegidas y tratamiento de aguas: {0} del tesoro.
+c854e4	T	🌳 Mantenimiento de tus proyectos de conservación: {0}.
+45c896	T	⚠️ Sin dinero para el mantenimiento: {0} quedan suspendidos este año (sin efecto).
+46fb8b	D	Terrestre
+ac6d75	D	Marítimo
+b8b49d	D	aviones de carga
+c92f48	D	Aéreo
+0c680d	D	Naviera
+0331b6	D	Carga aérea
+167498	D	Una naviera necesita una provincia con costa para su puerto.
+1ae2bc	D	Caminos del Norte
+33ab9a	D	Seda Exprés
+90f620	D	Volga Logística
+9f96de	D	EuroRuta
+312700	D	IndoCarga
+a1b23c	D	TransAndes
+023528	D	Mareas del Pacífico
+afd0b8	D	Atlántica Naviera
+aff5a7	D	Ruta del Índico
+598a17	D	Antípodas Shipping
+a92834	D	Naviera del Golfo
+251146	D	Ala del Pacífico
+6b04dc	D	Cóndor Carga
+d1d723	D	Dejas esa ruta: otro transportista la cubrirá.
+f52b55	T	Tu flota cubre {0} ruta(s): abre otra sucursal o deja una ruta.
+4b58b9	D	Tomas la ruta: tu flota llevará esos envíos.
+bc156c	D	Otra de tus empresas ya cubre esa ruta.
+999eb4	T	📦 {0} pierde un envío de {1} en la ruta {2} → {3}: pagas el seguro y baja tu reputación.
+f878d3	D	v24a año
+b27e58	D	Aeropuerto
+fafbf1	D	Más vuelos: turistas y carga rápida; +0.3 % de crecimiento por nivel que construyas
+365ca1	D	Solo en capitales, provincias con una ciudad de 500 mil habitantes o más, o con 2 millones de habitantes.
+916c69	D	Ya tiene el aeropuerto más grande (nivel 3).
+4b6b23	D	OMT y Banco Mundial (ST.INT.ARVL, ST.INT.RCPT.CD), 2019, aprox.
+39a9d6	D	Tasa baja
+86073e	D	Estricto
+a68851	D	Libre
+bbd254	D	Sin tasa
+d9e40a	D	Tasa alta
+183290	D	; +0.5 de estabilidad al año
+ca3259	T	Visado para turistas: {0}. Llegadas {1}{2}.
+3f83c3	T	Tasa turística: {0}. Llegadas {1}; al tesoro {2} % del gasto de los turistas.
+550322	D	Mediana
+aeef45	D	Pequeña
+bb90d1	D	Bajo
+f46edd	D	Alto
+28645e	D	Petróleos Nacionales
+edeb9f	D	Aerolínea Nacional de Carga
+f406b3	D	Ferrocarriles y Carga del Estado
+0db718	D	Constructora del Estado
+254cf5	D	Hoteles del Estado
+28e800	D	Transporte Urbano del Estado
+799715	D	Industrias del Estado
+7da646	D	Banco Nacional de Fomento
+15dfd6	D	Ganadera del Estado
+30efee	D	Farmacias del Bienestar
+4b24e3	D	Clínicas del Estado
+596014	D	Tecnologías del Estado
+934a2c	D	Vivienda del Estado
+bcee33	D	Granjas del Estado
+4b3d36	D	Escuelas Técnicas del Estado
+7ebf93	D	Tiendas del Bienestar
+b744d9	D	Estudio Digital del Estado
+c95c37	D	Correos y Comercio Digital del Estado
+feace3	D	Agencia de Medios del Estado
+82fe95	D	Giro desconocido.
+94ef77	D	La economía del país es demasiado pequeña.
+70b177	D	El país no tiene petróleo ni gas.
+947c24	D	El país no tiene yacimientos minerales.
+75b16d	D	El país necesita más desarrollo (universidades y técnicos) para este giro.
+a7da06	D	Una naviera necesita costa.
+8b762c	D	del Estado
+8d36f0	T	🏛️ {0} deja de operar: el país perdió {1}.
+dc14f8	D	su provincia
+956d66	T	🏛️ {0} sigue en quiebra: el gobierno la cierra y vende lo que queda.
+41f6ee	T	⚠️ {0} está en quiebra (2 años con pérdidas grandes): rescátala, privatízala o ciérrala en la Secretaría de inversiones.
+033ffd	D	Ya tienes una empresa estatal de ese giro: invierte en ella.
+5e72ad	T	El tesoro no alcanza: hacen falta {0}.
+73d7bb	D	No hay una provincia adecuada.
+d1bafb	T	Fundas {0} en {1} con {2} del tesoro.
+e9f051	T	Inviertes {0} en {1}: más capacidad y +5 de eficiencia.
+d4a13f	D	Ya recortaste esta empresa este año.
+623d29	T	Recortas {0}: vendes activos ({1} al tesoro), baja la plantilla y sube la eficiencia; −1 de felicidad en {2}.
+7c0615	T	Presupuesto de {0}: {1} ({2} % de su capital al año).
+e589b4	T	Cierras {0}: recuperas {1} al vender sus activos; {2} personas pierden su empleo.
+5b2ff4	T	Te faltan {0} para comprarla.
+446552	T	Compras {0} por {1}{2}. Ahora es {3}.
+f6dce4	T	(la parte que tu empresa puede operar: {0} sucursal(es); el resto se vende a privados)
+122aea	T	Privatizas {0}: un grupo privado paga {1} al tesoro y la empresa sigue operando.
+051254	D	Tu país no tiene bolsa de valores.
+2924eb	D	No hay bolsa.
+30281d	D	Ya cotiza.
+d2c515	D	Solo una empresa con ganancias puede salir a bolsa.
+8b802d	T	{0} sale a la bolsa con la clave {1}: el tesoro recibe {2} por el 30 % y el Estado conserva el 70 %.
+2f24bb	D	Aeroespacial
+389140	D	Transportes
+43e93c	D	Servicios Públicos
+84d2bd	D	Minera
+9843b2	D	Financiera
+bdb14a	D	Medios
+f9ba98	D	Telecom
+0c55b4	D	Industries
+1310a4	D	Technologies
+18dcea	D	Semiconductor
+18fdc5	D	Utilities
+2f2f07	D	Luxury
+3703cd	D	Health
+437bcb	D	Energy
+7a2c34	D	Logistics
+925dd3	D	Retail
+97f3d6	D	Motors
+bd32ee	D	Foods
+bd91f0	D	Financial
+da33e1	D	Construction
+e4fdcd	D	Aerospace
+faabcf	D	Mining
+f087c4	D	v24c año
+5e9654	T	💼 {0} consigue empleo en una empresa estatal de {1} después de {2} {3}.
+d089d2	T	🚧 Bloqueo en la ruta {0}: los envíos por esa vía se retrasan o se pierden más este mes.
+6afd96	D	Envíos más baratos y puntuales desde y hacia esta provincia
+f5d0fb	D	Agencia de comercio
+598215	D	Aduana
+8ed121	D	Envíos internacionales con más controles: algo más lentos y caros, pero se pierden menos
+c7aef5	T	Ya tiene el nivel más alto ({0}).
+c6928f	D	Una aduana necesita costa o frontera con otro país.
+db1e10	T	🛃 Cierre de la aduana de {0} este mes: tus envíos internacionales por ahí se retrasan o se pierden más.
+f62c55	T	⚓ Cierre del puerto de {0} este mes: tus envíos marítimos por ahí se retrasan o se pierden más.
+53a116	T	✈️ El gobierno amplía el aeropuerto de {0}: ahora es de nivel {1}.
+90f1b2	D	v25l año
+14c869	D	Infantería
+fa6d0f	D	Mecanizada
+55d1a8	D	Blindada
+b9db5d	D	Artillería
+743a0f	D	Aviación
+905224	D	ala aérea
+585e41	D	Antiaérea y misiles
+66ca7e	D	Intermedio
+8e2b67	D	Limitado
+980a92	D	Avanzado
+a33669	D	De punta
+17d4d7	D	Fusil de asalto, morteros ligeros y lanzacohetes portátiles
+606a88	D	Soldado conectado: visión térmica, drones de mano y misiles «dispara y olvida»
+a288b7	D	Fusil con visor, chaleco antibalas y vehículos ligeros
+c10b1a	D	Fusil de asalto antiguo, ametralladoras y camiones
+fc66b4	D	Fusil modular con visión nocturna, misiles antitanque y radios cifradas
+33f14a	D	Camiones y blindados de ruedas antiguos
+87be29	D	Vehículos de nueva generación con protección activa y drones
+8ce35a	D	Vehículos de combate modernos con misiles antitanque
+a545b8	D	Vehículos de combate de infantería con cañón de 30 mm
+fde350	D	Transportes blindados de personal (tipo BTR o M113)
+072c57	D	Tanques de 2.ª generación (tipo T-55 o T-62)
+63a01c	D	Tanque de nueva generación con protección activa y red de combate
+805209	D	Tanques ligeros y de posguerra
+b485dc	D	Tanque principal moderno (tipo Leopard 2, T-90 o M1 Abrams)
+fab8c8	D	Tanque principal de 3.ª generación (tipo T-72 o M60 mejorado)
+01584c	D	Artillería autopropulsada y lanzacohetes múltiples
+71162c	D	Obuses remolcados y morteros
+8c8506	D	Obuses de 122–155 mm y lanzacohetes sencillos
+af49f1	D	Cohetes de precisión de largo alcance y drones de ataque
+ed79dc	D	Artillería autopropulsada con radar de contrabatería y munición guiada
+062b17	D	Cazas de generación 4.5, aviones cisterna y drones armados
+0f18d8	D	Cazas furtivos de 5.ª generación, alerta temprana y bombarderos
+3b93c4	D	Cazas de 3.ª generación (tipo MiG-21 o F-5) y helicópteros
+54913c	D	Cazas de 4.ª generación (tipo MiG-29 o F-16) y helicópteros de ataque
+b53033	D	Aviones de entrenamiento armados y helicópteros de transporte
+2d13fa	D	Lanchas y patrulleros costeros
+89ce9d	D	Fragatas, corbetas lanzamisiles y submarinos diésel
+a0ab57	D	Destructores y fragatas con misiles, submarinos modernos
+bdd510	D	Patrulleros oceánicos y corbetas
+dcd4f9	D	Portaaviones, destructores antimisiles y submarinos nucleares
+36b849	D	Defensa en capas de largo alcance (tipo S-300 o Patriot)
+3e4c3e	D	Sistemas de medio alcance y radares de vigilancia
+96c81f	D	Escudo antimisiles balísticos y defensa contra drones
+c33bc5	D	Misiles portátiles y baterías antiguas (tipo SA-2 o SA-3)
+df04c9	D	Cañones antiaéreos y misiles portátiles
+854d18	D	Policía y unidades especiales de seguridad (armas ligeras)
+b5ec75	D	Guardacostas: patrulleros y lanchas rápidas
+85b776	D	Seguridad pública
+ab3823	D	Guardacostas
+4d226c	D	Investigación nuclear civil
+11889e	D	Combustible: enriquecimiento de bajo nivel (3–5 %)
+ad6da4	D	Construcción de reactores
+92b9ff	D	Operación de reactores
+80e171	D	Investigación militar
+cc8c61	D	Enriquecimiento de alto nivel (90 %)
+0846cd	D	Diseño del arma
+20f88f	D	Prueba nuclear
+a5017f	D	Arsenal
+8d782b	T	{0} de {1} necesarios
+e571c1	D	Capacidad técnica
+51af11	T	{0} al año; tope {1} % del ingreso del tesoro ({2})
+5e5ac6	D	sin uranio propio y sin acceso al mercado (no firma el TNP o tiene sanciones)
+97f01d	D	compra en el mercado (firmante del TNP)
+9e3675	D	producción propia
+64dcff	D	Material fisible
+e64e41	D	plutonio de sus reactores
+1d0613	D	la economía es pequeña para un reactor (PIB mínimo: 60 mil millones)
+1e16f0	D	suficiente para un reactor
+fb65ce	D	Red eléctrica
+1275c6	D	Infraestructura de enriquecimiento
+363781	D	tiene la rama civil en combustible o más
+f3e6bb	D	necesita la rama civil en fase 2 (combustible)
+3cfa0f	D	Tratado de No Proliferación
+7a1332	D	potencia reconocida por el tratado
+905e23	D	firmante: no puede tener armas nucleares
+d49a4f	D	no firmante
+2d79e1	T	{0} (mínimo 25)
+ee4703	T	{0} conecta {1} reactor{2} nuclear{3} a la red.
+79959c	T	{0} avanza su programa nuclear civil: {1}.
+712de0	T	{0} realiza una prueba nuclear y se declara potencia nuclear. El mundo responde con sanciones.
+9aea5f	T	{0} avanza su programa de armas nucleares ({1}). Hay sanciones y protestas.
+3cb3d7	T	{0} anuncia un programa de energía nuclear civil.
+3b349c	T	{0} se retira del Tratado de No Proliferación Nuclear.
+f775aa	T	El consorcio nuclear desaparece: recuperas {0}.
+fe3966	T	Dividendo del consorcio nuclear de {0}: {1}.
+690b23	D	v26c inversión
+620871	T	Los inspectores internacionales descubren el programa de armas nucleares de {0}: sanciones y programa congelado un año.
+bf7387	D	Solo el gobierno puede decidirlo.
+c768b9	D	Sistema nuclear apagado.
+025887	D	El programa ya está en marcha.
+a6c4e6	D	No cumples:
+6c9e5d	D	Inicias el programa de energía nuclear civil. Empieza la investigación.
+9205d3	D	Inicias en secreto un programa de armas nucleares. Los inspectores pueden descubrirlo.
+fb8e0c	D	No hay programa civil.
+51f117	D	Cancelas el programa nuclear civil.
+dc3f08	D	Cierras tus reactores nucleares: la energía se encarece.
+918b11	D	No hay programa militar.
+2e2a31	D	Desmantelas tu arsenal nuclear, como Sudáfrica en 1991.
+9c4568	D	Cancelas el programa de armas nucleares.
+5217cd	D	Primero cancela o desmantela el programa militar.
+ff08a4	D	Ya firmaste el tratado.
+356044	D	Firmas el Tratado de No Proliferación: el mercado de combustible nuclear se te abre.
+79e69f	D	No eres parte del tratado.
+8a6229	D	Eres potencia reconocida: retirarte no te da nada.
+c31a25	D	Te retiras del Tratado de No Proliferación. Llegan sanciones por tres años.
+4361c1	D	Tu régimen (economía planificada) prohíbe la inversión privada.
+8e2872	D	Prohíbes la inversión privada en reactores.
+b4478b	D	Permites que empresas privadas inviertan en reactores.
+159a69	D	El gobierno no permite inversión privada.
+2e43d4	D	Solo se invierte en la construcción u operación de reactores.
+13cbfb	D	Ya tienes una participación en otro país.
+2c9e3b	D	Necesitas al menos $10,000 para invertir.
+4b53c5	T	Inviertes {0} en el consorcio nuclear civil. Pagará 6 % al año mientras los reactores operen.
+5b4b15	D	No tienes participación.
+3264c5	T	Vendes tu participación por {0}.
+51b220	D	v26c año
 8bdbaa	D	attribute vec2 p;varying vec2 v;void main(){v=vec2(p.x*.5+.5,.5-p.y*.5);gl_Position=vec4(p,0.,1.);}
-8fd208	D	attribute vec4 aPQ;attribute float aS;attribute float aK;uniform vec4 uVB;uniform vec2 uView;uniform float uDpr;uniform float uDet0;uniform float uZ;varying float vS;varying float vK;varying float vW;\nvoid main(){vec2 P=aPQ.xy/16.,Q=aPQ.zw/16.;vec2 X=abs(aS)>1.5?Q:P;vec2 d=Q-P;float L=length(d);vec2
 b01808	D	Riqueza por persona
 e3b0e6	D	Densidad de población
-5c28d5	D	Georgia,serif
 2e6a34	T	Crecimiento {0}
 767999	T	Ejército {0}
 871a99	T	Inflación {0}
@@ -947,9 +1443,875 @@ f9c93a	T	¿Borrar «{0}»? No se puede deshacer.
 a57e7d	T	Quedó en la ranura {0}.
 db5434	D	Importada:
 38bb44	D	🌆 Dinámico
-3c4327	D	:root{--well:#0f1722;--ink2:#cbd5e1;--line2:#283243;--glass:rgba(16,24,36,.96);--rad:12px}\nhtml[data-theme=deportivo]{--bg:#0a1a36;--card:#10244a;--card2:#163059;--line:#28477a;--ink:#eef3fb;--mut:#9db0cf;--gold:#f6b93b;--teal:#36c5d6;--well:#0c1f42;--ink2:#d4def0;--line2:#2c4c80;--glass:rgba(14,32
+ffabe5	D	:root{--well:#0f1722;--ink2:#cbd5e1;--line2:#283243;--glass:rgba(16,24,36,.96);--rad:12px}\nhtml[data-theme=deportivo]{--bg:#0a1a36;--card:#10244a;--card2:#163059;--line:#28477a;--ink:#eef3fb;--mut:#9db0cf;--gold:#f6b93b;--teal:#36c5d6;--well:#0c1f42;--ink2:#d4def0;--line2:#2c4c80;--glass:rgba(14,32,66,.96)}\nhtml[data-theme=claro]{--bg:#eef2f7;--card:#ffffff;--card2:#f4f6fa;--line:#d6dde7;--ink:#172033;--mut:#5c6a7e;--gold:#b7791f;--teal:#1f8f84;--red:#c53030;--green:#2f855a;--blue:#2b6cb0;--well:#eef2f7;--ink2:#2d3748;--line2:#cbd5e0;--glass:rgba(255,255,255,.96)}\nhtml[data-theme=amigable]{--bg:#fff6ec;--card:#ffffff;--card2:#fff0e0;--line:#f0d8c0;--ink:#3b2a1e;--mut:#8b6d58;--gold:#e0781b;--teal:#2a9d8f;--red:#d1495b;--green:#3a9d5d;--blue:#3a7bd5;--well:#fff3e6;--ink2:#4a3626;--line2:#ecd2b8;--glass:rgba(255,255,255,.96);--rad:18px}\nhtml[data-theme=retro]{--bg:#040904;--card:#081208;--card2:#0d1c0d;--line:#1e4a1e;--ink:#b6f7ae;--mut:#5fae58;--gold:#ffcc33;--teal:#4be0c0;--red:#ff5d5d;--green:#7dff6e;--blue:#6ec3ff;--well:#061006;--ink2:#a4e89c;--line2:#1b401b;--glass:rgba(6,16,6,.96);--rad:2px}\nhtml[data-theme=medieval]{--bg:#e8dbbd;--card:#f4ead2;--card2:#ecdfbf;--line:#c4ab7c;--ink:#3a2814;--mut:#6e5638;--gold:#8f5a0f;--teal:#3d6b5a;--red:#8e1f1f;--green:#3f6b2a;--blue:#2c4f7c;--well:#efe2c4;--ink2:#4a3620;--line2:#c9b183;--glass:rgba(244,234,210,.97);--rad:6px}\nhtml[data-theme=neon]{--bg:#09051a;--card:#120b28;--card2:#1a1036;--line:#3a2470;--ink:#f3edff;--mut:#a897d4;--gold:#ff3ea5;--teal:#22e1ff;--red:#ff4d6d;--green:#3dffb0;--blue:#22e1ff;--well:#0d0820;--ink2:#e2d8ff;--line2:#3c2775;--glass:rgba(18,11,40,.96)}\nhtml[data-theme=retro] body,html[data-theme=retro] button,html[data-theme=retro] input,html[data-theme=retro] select{font-family:"Courier New",ui-monospace,monospace!important}\nhtml[data-theme=medieval] body,html[data-theme=medieval] button,html[data-theme=medieval] input,html[data-theme=medieval] select{font-family:Georgia,"Times New Roman",serif!important}\nhtml[data-theme=amigable] body,html[data-theme=amigable] button{font-family:"Trebuchet MS","Segoe UI Rounded",system-ui,sans-serif!important}\nhtml[data-theme=claro] .bottom,html[data-theme=amigable] .bottom,html[data-theme=medieval] .bottom{box-shadow:0 -4px 14px rgba(0,0,0,.12)}\nhtml[data-theme=claro] .overlay,html[data-theme=amigable] .overlay,html[data-theme=medieval] .overlay{background:rgba(30,30,40,.28)}\n.card,.sheet,.modal,.item,.wkc,.opt{border-radius:var(--rad)}\nhtml[data-theme=medieval] h2,html[data-theme=medieval] h3{letter-spacing:.04em}\nhtml[data-theme=retro] .card,html[data-theme=retro] .sheet{box-shadow:0 0 0 1px #1e4a1e,0 0 18px rgba(80,255,80,.08)}\nhtml[data-theme=neon] .btn.gold,html[data-theme=neon] #ageBtn{box-shadow:0 0 14px rgba(255,62,165,.55)}\n/* piezas que tenían colores oscuros fijos y deben seguir el tema */\n.nav{background:var(--card)!important;background-image:none!important;color:var(--ink)!important}\n.nav.on{background:var(--well)!important;color:var(--gold)!important}\n#clk .in{background:var(--glass)!important;border-color:var(--line2)!important}\n#clk button{color:var(--mut)!important}#clk button.on{background:var(--gold)!important;color:#fff!important}\nhtml[data-theme=noche] #clk button.on,html[data-theme=deportivo] #clk button.on,html[data-theme=retro] #clk button.on{color:#1a1405!important}\n#clk .ci{color:var(--ink2)!important}\nhtml[data-theme=claro] #clk .ci,html[data-theme=amigable] #clk .ci,html[data-theme=medieval] #clk .ci{text-shadow:none!important}\n#topCard,#topCard .name,#topCard b{color:#eef2f7}#topCard .sub,#topCard small{color:#c9d3df}\n.bt{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}\n.bt button{flex:1 1 auto;border:1px solid var(--line2);background:var(--card2);color:var(--ink);border-radius:9px;padding:7px 8px;font-size:12.5px}\n.bt button.g{border-color:var(--gold);color:var(--gold);font-weight:800}.bt button:disabled{opacity:.4}\nhtml[data-theme=claro] .who,html[data-theme=amigable] .who,html[data-theme=medieval] .who{color:var(--ink)}\n/* ===== vista horizontal: mapa grande a la izquierda y paneles a la derecha ===== */\nbody.land .app{max-width:none;display:grid;grid-template-columns:minmax(0,1fr) minmax(330px,34vw);grid-auto-rows:min-content;column-gap:10px;align-items:start;padding:8px 10px calc(var(--navh) + 10px)}\nbody.land .app>*{grid-column:2}\nbody.land .app>.mapcard{grid-column:1;grid-row:1 / span 30;position:sticky;top:8px;margin:0}\nbody.land #mapWrap{width:100%!important;max-width:none!important;aspect-ratio:auto!important;height:calc(100vh - var(--navh) - 34px)}\nbody.land #map,body.land #lc,body.land #glc,body.land #mapOv{aspect-ratio:auto!important;width:100%!important;height:100%!important}\nbody.land .bottom{padding:4px 10px calc(4px + env(safe-area-inset-bottom))}\nbody.land .bottom .in{grid-template-columns:repeat(5,minmax(0,112px));justify-content:center;gap:6px}\nbody.land #clk{flex-direction:row!important;gap:10px!important;margin:0 0 4px!important}\nbody.land .nav{flex-direction:row;justify-content:center;gap:5px;padding:6px 4px;font-size:12px}\nbody.land #ageBtn{padding:9px 4px;font-size:14px;border-radius:12px}\nbody.land .sheet{left:auto;right:0;top:0;width:min(460px,42vw);max-height:none;border-radius:16px 0 0 16px;transform:translateX(105%);border-left:1px solid var(--line)}\nbody.land .sheet.on{transform:translateX(0)}\nbody.land .overlay{background:transparent}\nbody.land .bottom .in{max-width:760px}
 978d57	D	Dificultad:
 941099	D	(se sobrescribe)
 19b876	D	📂 Cargar una partida guardada
 dda8c7	D	💾 Partidas, dificultad, temas y vista
 8e963b	D	🕗 Reloj de 12 horas, día y noche
+cc6a37	D	Bienvenido a
+6cefe9	D	Planeta
+8bd28d	D	Atlas
+7d9fd1	D	Volver al juego
+831f9d	D	▶ Empezar una vida
+b7d1df	D	Cargando el mapa…
+56f25c	D	↩ Volver a la portada
+672410	D	Capital del país
+36681f	D	⚔️ En guerra
+d3dd79	D	📍 Vives aquí
+58dc18	D	Ficha
+ee5318	D	Clubes
+96ad6f	D	Personas que viven aquí, según censos y estimaciones recientes.
+c01e30	D	Más población es más mercado para tus negocios, más votos y más impuestos para el gobierno.
+4b0528	D	Valor de todo lo que se produce aquí en un año (producto interno bruto).
+94d1e0	D	Mueve sueldos, ventas de tus negocios e ingresos del gobierno; crece o cae cada año.
+417e28	D	El PIB dividido entre la población: la medida más usada del nivel de vida medio.
+8a44a3	D	PIB por persona
+fdcc52	D	Define los sueldos y precios de la zona: un negocio rinde más donde es alto, pero cuesta más abrirlo.
+075e00	D	Habitantes por kilómetro cuadrado: indica qué tan urbana o rural es la zona.
+6af8c0	D	Densidad
+fb2e47	D	Las zonas densas concentran clientes y empleo; las poco densas, tierra y recursos.
+0a1929	D	Satisfacción de la población; en el mundo real se mide con encuestas como el Informe Mundial de la Felicidad.
+edf38f	D	Con felicidad baja aumentan protestas, rebeliones y la pérdida de apoyo del gobierno.
+1a45b3	D	Sube la producción de la provincia y su crecimiento; el gobierno puede invertir para subirlo.
+91317c	D	Infraestructura, servicios y capital humano acumulados (del 0 al 10).
+048ee9	D	Cambio anual del PIB de la provincia.
+c7eb8c	D	Las inversiones rinden más donde la economía crece.
+b1fa53	D	Multiplica la defensa en una guerra y afecta la producción.
+b4ead8	D	Relieve y clima: montañas, selvas y desiertos son difíciles de conquistar y de abastecer.
+23f39c	D	Si no es núcleo: −20 de felicidad y la mitad de impuestos hasta asimilarla.
+7fb1e6	D	Una provincia es núcleo cuando su población se identifica con el país que la gobierna.
+3311ed	D	Su valor sale de los precios mundiales: guerras y crisis los mueven.
+7a0bb5	D	Yacimientos y cultivos estratégicos según los datos de producción reales del país.
+00626e	D	🏠 Tu país
+f7e632	T	Ciudades ({0})
+a5460c	D	multiplicador de defensa
+c0aae1	D	De la provincia
+6af0b6	D	Nuevo nombre
+08ece5	D	Función
+88d830	D	Evaluación de desempeño
+43ba44	D	Vence una conversación
+ab1dab	D	Elecciones
+0dc62a	D	Cierre de mes
+1a6b70	D	Año nuevo
+173a56	D	en 1 día
+9e88a6	D	Tu vida social
+08b3cd	D	Tu vida social: tensa
+8a0a5f	D	Tu vida social: buena
+99ffcb	D	Tu vida social: estable
+f5847d	D	Tu vida social: sin relaciones cercanas
+d7fd30	D	#cover{position:fixed;inset:0;z-index:80;overflow:hidden;background:#04070d;color:#eef3f8;opacity:0;transition:opacity .3s ease;font-family:system-ui,-apple-system,'Segoe UI',sans-serif}\n#cover.on{opacity:1}body.cvon #toast.on{z-index:95}body.cvon{overflow:hidden}\n#cvC{position:absolute;inset:0;width:100%;height:100%;display:block}\n.cv-shade{position:absolute;inset:0;pointer-events:none;background:linear-gradient(180deg,rgba(3,6,12,.55) 0%,rgba(3,6,12,0) 28%,rgba(3,6,12,0) 50%,rgba(3,6,12,.82) 78%,rgba(3,6,12,.94) 100%)}\n.cv-logo{direction:ltr}.cv-in{position:absolute;inset:0;display:flex;flex-direction:column;justify-content:space-between;padding:calc(env(safe-area-inset-top) + 9vh) 18px calc(env(safe-area-inset-bottom) + 14px);max-width:560px;margin:0 auto;overflow-y:auto}\n.cv-mid{text-align:center}\n.cv-logo{margin:0;font-size:clamp(40px,12.5vw,76px);font-weight:900;letter-spacing:.14em;line-height:1;display:flex;justify-content:center;align-items:center;padding-left:.14em;\n background:linear-gradient(180deg,#fff7dd 0%,#f2c14e 55%,#b9852a 100%);-webkit-background-clip:text;background-clip:text;color:transparent;filter:drop-shadow(0 3px 14px rgba(0,0,0,.55))}\n.cv-logo span,.cv-logo b{display:inline-block;animation:cvIn .7s cubic-bezier(.2,.8,.2,1) both;animation-delay:calc(var(--i)*70ms + 120ms)}\n.cv-glb{width:.86em;height:.86em;fill:none;stroke:#f2c14e;stroke-width:6.5;vertical-align:-.04em;margin:0 .02em;filter:drop-shadow(0 0 8px rgba(242,193,78,.45))}\n@keyframes cvIn{from{opacity:0;transform:translateY(-.35em) scale(.9)}to{opacity:1;transform:none}}\n.cv-tag{margin-top:12px;font-size:15px;color:#d9e2ec;text-shadow:0 1px 6px rgba(0,0,0,.8);animation:cvIn .8s .7s both}\n.cv-act{display:grid;gap:9px;animation:cvIn .7s .5s both}\n.cv-cont{display:flex;align-items:center;gap:12px;width:100%;text-align:left;padding:10px 14px;border-radius:16px;border:1px solid rgba(242,193,78,.75);background:linear-gradient(135deg,rgba(242,193,78,.95),rgba(214,150,40,.95));color:#1b1204;box-shadow:0 8px 26px rgba(0,0,0,.45)}\n.cv-cont .face{border-radius:50%;flex:0 0 auto;background:rgba(255,255,255,.35)}.cv-ct{flex:1;min-width:0}.cv-ct b{display:block;font-size:17px}.cv-ct small{display:block;font-size:12.5px;opacity:.85;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.cv-cont i{font-style:normal;font-size:20px}\n.cv-b{width:100%;padding:13px 14px;border-radius:14px;border:1px solid rgba(255,255,255,.18);background:rgba(10,16,26,.66);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);color:#eef3f8;font-weight:700;font-size:15.5px}\n.cv-b.gold{background:linear-gradient(135deg,#f2c14e,#d49a2a);color:#1b1204;border-color:#f2c14e}.cv-b.sm{width:auto;flex:0 0 auto;padding:10px 12px;font-size:13px;align-self:flex-end}\n.cv-b:active,.cv-cont:active{transform:scale(.98)}\n.cv-row{display:flex;gap:8px;align-items:flex-end}.cv-lang{flex:1}.cv-lang .f{color:#c9d3df;font-size:12px}.cv-lang select{width:100%;padding:9px;border-radius:12px;background:rgba(10,16,26,.7);color:#eef3f8;border:1px solid rgba(255,255,255,.18)}\n.cv-sty{margin-top:2px}.cv-sl{display:block;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:#aeb9c6;margin-bottom:5px}\n.cv-chips{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none}.cv-chips button{flex:0 0 auto;padding:7px 11px;border-radius:999px;border:1px solid rgba(255,255,255,.2);background:rgba(10,16,26,.6);color:#dfe7ef;font-size:13px;font-weight:600}\n.cv-chips button.on{border-color:#f2c14e;color:#f2c14e;box-shadow:0 0 0 1px #f2c14e inset}\n.cv-foot{display:flex;justify-content:space-between;font-size:11.5px;color:#9aa7b6}.cv-ld{animation:cvBl 1.2s ease-in-out infinite}@keyframes cvBl{50%{opacity:.4}}\n.cv-cr{position:absolute;inset:0;z-index:2;display:none;padding:calc(env(safe-area-inset-top) + 24px) 20px 24px;overflow:auto;background:rgba(4,8,14,.94);font-size:14px;line-height:1.45}\n#cover.cr .cv-cr{display:block}.cv-cr h2{margin:0 0 12px}.cv-cr p{margin:0 0 14px;color:#cdd6e0}.cv-cr b{color:#f2c14e}\n.cv-tick{position:absolute;left:0;right:0;top:env(safe-area-inset-top);height:26px;overflow:hidden;background:rgba(0,0,0,.55);border-bottom:1px solid rgba(60,207,142,.35);font:12px ui-monospace,Menlo,monospace;color:#cfe;white-space:nowrap;z-index:1}\n.cv-tick>div{display:inline-block;padding-top:5px;animation:cvTk 60s linear infinite}.cv-tick span{margin:0 16px}.cv-tick .up{color:#3ccf8e}.cv-tick .dn{color:#ff6b6b}@keyframes cvTk{to{transform:translateX(-50%)}}\n.cv-mercados .cv-logo{background:linear-gradient(180deg,#e9fff4,#3ccf8e 60%,#1a8c5a);-webkit-background-clip:text;background-clip:text;font-family:ui-monospace,Menlo,Consolas,monospace;letter-spacing:.1em}\n.cv-mercados .cv-glb{stroke:#3ccf8e;filter:drop-shadow(0 0 8px rgba(60,207,142,.5))}.cv-mercados .cv-cont{background:linear-gradient(135deg,#3ccf8e,#1f9d66);border-color:#3ccf8e;color:#03140c}\n.cv-mercados .cv-b.gold{background:linear-gradient(135deg,#3ccf8e,#1f9d66);border-color:#3ccf8e;color:#03140c}.cv-mercados .cv-chips button.on{border-color:#3ccf8e;color:#3ccf8e;box-shadow:0 0 0 1px #3ccf8e inset}\n.cv-planeta .cv-logo{background:linear-gradient(180deg,#ffffff,#cfe8ff 60%,#7fb7ea);-webkit-background-clip:text;background-clip:text}.cv-planeta .cv-glb{stroke:#cfe8ff;filter:drop-shadow(0 0 10px rgba(127,183,234,.6))}\n.cv-planeta .cv-shade{background:linear-gradient(180deg,rgba(2,8,20,.5) 0%,rgba(2,8,20,0) 30%,rgba(2,8,20,0) 48%,rgba(2,8,20,.8) 76%,rgba(2,8,20,.94) 100%)}\n.cv-atlas{color:#2b1d0e}.cv-atlas .cv-shade{background:radial-gradient(ellipse at 50% 42%,rgba(0,0,0,0) 45%,rgba(60,36,12,.45) 100%),linear-gradient(180deg,rgba(240,226,190,0) 50%,rgba(236,220,182,.88) 80%,rgba(232,214,174,.96) 100%)}\n.cv-atlas .cv-logo{font-family:Georgia,'Times New Roman',serif;font-weight:700;letter-spacing:.12em;background:linear-gradient(180deg,#6b3a14,#3a1f08);-webkit-background-clip:text;background-clip:text;filter:drop-shadow(0 1px 0 rgba(255,240,200,.7))}\n.cv-atlas .cv-glb{stroke:#6b3a14;filter:none}.cv-atlas .cv-tag{color:#3a2610;text-shadow:0 1px 0 rgba(255,245,215,.8);font-family:Georgia,serif;font-style:italic}\n.cv-atlas .cv-b{background:rgba(248,238,212,.86);color:#3a2610;border-color:rgba(107,58,20,.45)}.cv-atlas .cv-b.gold,.cv-atlas .cv-cont{background:linear-gradient(135deg,#8a2e14,#5e1c0a);color:#fbecc9;border-color:#5e1c0a}\n.cv-atlas .cv-lang .f,.cv-atlas .cv-sl,.cv-atlas .cv-foot{color:#5a4024}.cv-atlas .cv-lang select{background:rgba(248,238,212,.9);color:#3a2610;border-color:rgba(107,58,20,.45)}\n.cv-atlas .cv-chips button{background:rgba(248,238,212,.85);color:#3a2610;border-color:rgba(107,58,20,.4)}.cv-atlas .cv-chips button.on{border-color:#8a2e14;color:#8a2e14;box-shadow:0 0 0 1px #8a2e14 inset}\n.cv-rose{position:absolute;right:16px;top:calc(env(safe-area-inset-top) + 14px);width:74px;height:74px;color:#6b3a14;opacity:.75;z-index:1}.cv-ndl{animation:cvRo 14s ease-in-out infinite alternate;transform-origin:0 0}@keyframes cvRo{from{transform:rotate(-8deg)}to{transform:rotate(8deg)}}\n@media (orientation:landscape) and (min-width:700px){.cv-in{max-width:none;flex-direction:row;align-items:center;padding:24px 4vw}.cv-mid{flex:1;text-align:left}.cv-logo{justify-content:flex-start}.cv-act{width:min(420px,42vw)}}\n@media (prefers-reduced-motion:reduce){.cv-logo span,.cv-logo b,.cv-tag,.cv-act{animation:none}.cv-tick>div,.cv-ndl{animation:none}}\n/* burbuja del mapa */\n.mpop{position:absolute;z-index:6;width:min(300px,calc(100% - 12px));background:var(--glass,rgba(13,20,29,.96));border:1px solid var(--line,#2b3a4e);border-radius:14px;padding:9px 10px 8px;box-shadow:0 10px 28px rgba(0,0,0,.5);\n opacity:0;transform:translateY(6px) scale(.97);transform-origin:var(--ax) 100%;transition:opacity .16s ease,transform .18s cubic-bezier(.2,.8,.2,1);color:var(--ink,#e8eef6)}\n.mpop.on{opacity:1;transform:none}.mpop.below{transform-origin:var(--ax) 0}\n.mpop::after{content:'';position:absolute;left:var(--ax);bottom:-7px;width:12px;height:12px;margin-left:-6px;background:inherit;border-right:1px solid var(--line,#2b3a4e);border-bottom:1px solid var(--line,#2b3a4e);transform:rotate(45deg)}\n.mpop.below::after{bottom:auto;top:-7px;transform:rotate(225deg)}\n.mph{display:flex;align-items:center;gap:7px}.mpn{flex:1;min-width:0;line-height:1.2}.mpn b{display:block;font-size:15px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.mpn small{color:var(--mut);font-size:11.5px}\n.mpx{border:none;background:none;color:var(--mut);font-size:15px;padding:2px 4px}\n.mpcs{display:flex;flex-wrap:wrap;gap:4px 10px;margin:6px 0 4px;font-size:12.5px}.mpc b{font-weight:800}.mpc small{color:var(--mut)}\n.mpt{display:flex;flex-wrap:wrap;gap:4px;margin:2px 0 4px}.mpt span{font-size:11px;padding:2px 7px;border-radius:999px;background:var(--card2);border:1px solid var(--line);color:var(--ink2,#cbd5e1)}\n.mpa{display:grid;grid-template-columns:repeat(4,1fr);gap:5px;margin-top:5px}.mpa button,.pla button{display:flex;flex-direction:column;align-items:center;gap:2px;padding:7px 3px 6px;border-radius:11px;border:1px solid var(--line);background:var(--card2);color:var(--ink);font-size:11px;font-weight:600;line-height:1.15;min-height:52px}\n.mpa button i,.pla button i{font-style:normal;font-size:19px;line-height:1.1}.mpa button span,.pla button span{display:block;max-width:100%;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}\n.mpa button:first-child{border-color:var(--gold);color:var(--gold)}.mpa button:active,.pla button:active{transform:scale(.95)}.pla button:disabled{opacity:.42}\nbody.mapfull.mpopon #selInfo{display:none}\n/* ficha del lugar */\n.plh{display:flex;align-items:center;gap:10px}.pln{flex:1;min-width:0}.pln h3,.pln h4{margin:0}.pln small{color:var(--mut);font-size:12.5px}\n.plx{border:1px solid var(--line);background:var(--card2);color:var(--ink);border-radius:999px;padding:6px 10px;font-size:12.5px;font-weight:700;white-space:nowrap}.plx.on{border-color:var(--teal);color:var(--teal)}\n.pltabs{margin:8px 0 8px}.plg{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin:4px 0 8px}\n.plt{background:var(--card2);border:1px solid var(--line);border-radius:11px;padding:7px 8px;min-width:0}.plt small{display:block;color:var(--mut);font-size:11px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.plt b{font-size:15px;display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.plt i{font-style:normal;font-size:10.5px;color:var(--mut)}\n.pla{display:grid;grid-template-columns:repeat(auto-fill,minmax(86px,1fr));gap:6px;margin:6px 0 10px}\n.plex{display:grid;gap:6px;margin:4px 0 10px}.ple{font-size:12.5px;line-height:1.4;background:rgba(60,207,142,.06);border-left:3px solid var(--teal);border-radius:6px;padding:6px 9px;color:var(--ink2,#cbd5e1)}.ple b{display:block;color:var(--ink);font-size:12.5px}\n.plr{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:8px}.plnf{line-height:1.55}\n.plcy{border:1px solid var(--gold);border-radius:12px;padding:9px 10px;margin-bottom:10px;background:rgba(242,193,78,.05)}\n.item.on{border-color:var(--gold)}\n.renb{border:1px solid var(--line);background:var(--card2);border-radius:8px;padding:1px 6px;font-size:13px;vertical-align:2px;margin-left:4px;cursor:pointer}\n/* barra del mes y lo próximo (solo con el avance automático) */\n#mnx{position:fixed;left:10px;bottom:calc(var(--navh) + 8px);z-index:12;max-width:calc(100% - 150px);height:26px;border-radius:999px;overflow:hidden;background:var(--glass,rgba(12,18,26,.92));border:1px solid var(--line2,#2b3a4e);\n display:flex;align-items:center;font-size:12px;font-weight:600;color:var(--ink,#e8eef6);opacity:0;transform:translateY(8px);pointer-events:none;transition:opacity .2s,transform .2s}\n#mnx.on{opacity:1;transform:none;pointer-events:auto}#mnx>i{position:absolute;left:0;top:0;bottom:0;background:linear-gradient(90deg,rgba(60,207,142,.28),rgba(60,207,142,.45));transition:width .35s linear}\n#mnx>span{position:relative;padding:0 11px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}body.mapfull #mnx{bottom:calc(var(--navh) + 8px)}\n/* 👥 vida social */\n#clk .ap #vsB{position:relative;min-width:30px;padding:0 6px!important}#clk .ap #vsB::after{content:'';position:absolute;right:3px;top:3px;width:7px;height:7px;border-radius:50%;background:#7b8794;box-shadow:0 0 0 1.5px var(--glass,#0c121a)}\n#clk .ap #vsB.vsg::after{background:#3ccf8e}#clk .ap #vsB.vsa::after{background:#f2c14e}#clk .ap #vsB.vsr::after{background:#ff5a5f}
+1d7e7b	D	Al tocar el mapa solo se actualiza la ficha de abajo, como antes de la v1.9a.
+26f4b2	D	🗺️ Burbuja al tocar el mapa: activada
+624861	D	Al tocar una provincia o ciudad aparece su información con botones para actuar desde ahí.
+f22b41	D	🗺️ Burbuja al tocar el mapa: desactivada
+3faf7c	D	📋 Ficha del lugar
+f664ca	D	Ficha del lugar
+c9c899	D	🗺️ El mapa: burbuja y ficha del lugar
+8becca	T	Asedio de {0}: mes {1} de ~{2}
+cb2d38	T	Asedio de {0}: la provincia puede caer el próximo mes
+441ede	T	Ejército enemigo en camino: {0} soldados, llega el próximo mes
+cdc498	T	Ejército enemigo en camino: {0} soldados, llega en ~{1} meses
+30dadb	D	India superó a China en 2023 como el país más poblado del mundo.
+24ecd8	D	Desde 2007 vive más gente en ciudades que en el campo.
+bbff83	D	La esperanza de vida mundial pasó de unos 46 años en 1950 a más de 73 hoy.
+a4d6e1	D	En los años sesenta cada mujer tenía en promedio unos 5 hijos; hoy el promedio mundial ronda los 2.2.
+5edca9	D	Corea del Sur tiene la fecundidad más baja del mundo: menos de 0.8 hijos por mujer.
+8ebd2a	D	Oficina de Estadística de Corea, 2024
+a60fb2	D	Oficina de Estadística de Japón, 2024
+bd29ae	D	En Japón casi 3 de cada 10 personas tienen 65 años o más.
+15bd7a	D	México es el país con más hablantes nativos de español: más de 120 millones.
+2d1b9b	D	La economía mundial produce unos 110 billones de dólares al año.
+b851b3	D	Estados Unidos y China generan juntos más del 40 % del PIB mundial.
+e573ab	D	México es el segundo país que más remesas recibe en el mundo, después de India.
+d729b6	D	En México, 99 de cada 100 empresas son micro, pequeñas o medianas.
+2eea62	D	El mercado de divisas mueve más de 9 billones de dólares al día.
+115baf	D	El dólar participa en casi 9 de cada 10 operaciones de divisas del mundo.
+a0e4e0	D	En Hungría, en 1946, los precios llegaron a duplicarse cada 15 horas: la peor hiperinflación registrada.
+269723	D	Banco de la Reserva de Zimbabue
+279a81	D	Zimbabue imprimió en 2009 un billete de 100 billones de dólares zimbabuenses.
+ba84cb	D	El banco central más antiguo que sigue funcionando es el de Suecia, fundado en 1668.
+dbc006	D	Banco de Suecia
+ff075c	D	La primera bolsa de valores moderna nació en Ámsterdam en 1602.
+abec67	D	Más del 80 % del comercio mundial, medido por volumen, viaja por mar.
+3dcd01	D	China produce más de la mitad del acero del mundo.
+d2efe5	D	Asociación Mundial del Acero, 2024
+8222d6	D	Venezuela tiene las mayores reservas probadas de petróleo del planeta.
+3f5e1d	D	La agricultura usa cerca del 70 % del agua dulce que se extrae en el mundo.
+0fffc5	D	Los océanos cubren alrededor del 71 % de la superficie de la Tierra.
+c90e03	D	El río Amazonas aporta cerca de una quinta parte de toda el agua dulce que los ríos del mundo llevan al mar.
+cf7d6b	D	Enciclopedia Británica
+3653c8	D	Agencia Internacional de Energía
+e25cad	D	Islandia genera casi toda su electricidad con energía hidroeléctrica y geotérmica.
+5f2f53	D	Gobierno de Rusia
+8719e1	D	Rusia abarca 11 husos horarios.
+f72b3a	D	Canadá tiene la costa más larga del mundo: más de 200,000 km.
+a6eaf9	D	El Estadio Azteca es el primero en recibir partidos de tres Copas del Mundo: 1970, 1986 y 2026.
+b2a09d	D	:root{--fs-1:11px;--fs-2:12.5px;--fs-3:13.5px;--fs-4:15px;--fs-5:17px;--fs-6:20px;--fs-7:26px;--sp-1:4px;--sp-2:8px;--sp-3:12px;--sp-4:16px;--sp-5:24px;\n --r-s:9px;--r-m:12px;--r-l:16px;--r-p:999px;--sh-1:0 1px 2px rgba(0,0,0,.18),0 2px 8px rgba(0,0,0,.12);--sh-2:0 10px 30px rgba(0,0,0,.35);\n --dur-1:.12s;--dur-2:.2s;--dur-3:.32s;--ease:cubic-bezier(.2,.8,.2,1);--tap:40px;--focus:var(--teal)}\nhtml,body{font-size:var(--fs-4);line-height:1.45;-webkit-font-smoothing:antialiased}\n.sheet h3{font-size:var(--fs-5);font-weight:800;letter-spacing:.1px}.modal h2{font-size:var(--fs-6);font-weight:800}\n.sheet .hint,.hint{line-height:1.45}.sect{font-size:11.5px;letter-spacing:.08em;font-weight:700}\n/* botones: tamaño mínimo de toque, estados claros (presionado, foco, desactivado) */\n.btn,.item,.opt,.ntabs button,.vtabs button,.seg button,.chips button,.mkt button,.nav,#ageBtn,.cv-b,.mpa button,.pla button,.bt button{transition:background-color var(--dur-2) var(--ease),border-color var(--dur-2) var(--ease),color var(--dur-2) var(--ease),transform var(--dur-1) var(--ease),box-shadow var(--dur-2) var(--ease)}\n.btn{min-height:38px;border-radius:var(--r-s);font-weight:600}\n.btn:not(:disabled):active,.item:not(:disabled):active,.opt:active,.ntabs button:active,.vtabs button:active,.seg button:active,.chips button:active,.mkt button:active,.nav:active,.cv-b:active{transform:scale(.97)}\n.btn.gold,.seg button.on,.vtabs button.on,.badge2{background:var(--act)!important;color:var(--act-ink)!important;border-color:var(--act)!important}\n#ageBtn{background:var(--act);color:var(--act-ink);box-shadow:0 6px 20px color-mix(in srgb,var(--act) 30%,transparent)}\n#clk button.on{background:var(--act)!important;color:var(--act-ink)!important}\n.btn.red{border-color:var(--red);color:var(--red)}\n.btn:disabled,.item:disabled,.opt:disabled,.nav:disabled{opacity:.45;filter:saturate(.6);cursor:not-allowed}\n:where(button,[role=button],select,input,a):focus-visible{outline:2px solid var(--focus);outline-offset:2px}\n.item{min-height:48px}.item:not(:disabled):hover{border-color:var(--line2)}\n.item .s,.item .r{color:var(--mut)}\n/* pestañas: la elegida con fondo tenue y el acento; las demás sin ruido */\n.ntabs button{min-height:34px;color:var(--mut)}.ntabs button.on{background:var(--sel-bg);color:var(--gold);border-color:var(--sel-line);box-shadow:inset 0 -2px 0 var(--act)}\n.chips button.on{background:var(--sel-bg);border-color:var(--sel-line);color:var(--gold)}\n.mkt button.on{border-color:var(--sel-line)}\n.nav.on{box-shadow:inset 0 0 0 1px var(--sel-line)}\n.card{box-shadow:var(--sh-1)}.modal,.sheet{box-shadow:var(--sh-2)}\n.lg.bad{color:var(--red)}.lg.good{color:var(--green)}\n/* tarjeta «¿Sabías que…?» de la portada */\n.cv-fact{display:grid;gap:3px;width:100%;text-align:left;padding:10px 13px 9px;border-radius:var(--r-m);border:1px solid rgba(242,193,78,.35);background:rgba(10,16,24,.72);color:#e8eef6;backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);box-shadow:0 6px 20px rgba(0,0,0,.35);margin-bottom:2px;min-height:86px}\n.cv-fl{font-size:11px;font-weight:800;letter-spacing:.09em;text-transform:uppercase;color:#f2c14e}.cv-ft{font-size:14px;line-height:1.38}.cv-fs{font-size:11.5px;color:#a9b6c6}.cv-fs span+span{margin-inline-start:.35em}html[lang^=zh] .cv-fs span+span,html[lang=ja] .cv-fs span+span{margin-inline-start:.1em}\n.cv-planeta .cv-fact{border-color:rgba(120,190,255,.35)}.cv-planeta .cv-fl{color:#8fc8ff}.cv-mercados .cv-fact{border-color:rgba(76,200,115,.4)}.cv-mercados .cv-fl{color:#6be38f}\n.cv-atlas .cv-fact{background:rgba(250,240,214,.86);border-color:#a8792a;color:#2c1d0b;box-shadow:0 4px 14px rgba(60,40,10,.25)}.cv-atlas .cv-fl{color:#7a4a06}.cv-atlas .cv-fs{color:#5f4a2f}\n/* vista horizontal: el mapa ocupa el alto disponible (la ficha de abajo se desplaza por dentro) y la barra de abajo cabe completa */\nbody.land .app>.mapcard{display:flex;flex-direction:column;height:calc(100vh - var(--navh) - 16px);overflow:hidden}\nbody.land .app>.mapcard #mapWrap{flex:1 1 auto;height:auto!important;min-height:0}\nbody.land .app>.mapcard #selInfo{flex:0 1 auto;max-height:32%;overflow-y:auto;overscroll-behavior:contain}\nbody.land .bottom .in{grid-template-columns:repeat(5,minmax(92px,132px))!important;max-width:820px}\nbody.land .nav{white-space:nowrap;min-width:0}body.land .nav .badge{font-size:11.5px}\nbody.land #clk .seg button,body.land #clk button{padding-top:4px;padding-bottom:4px}\nbody.land .sheet{top:6px;border-radius:var(--r-l) 0 0 var(--r-l)}\n@media (orientation:landscape) and (max-height:440px){body.land .bottom{padding-top:2px}body.land .nav{padding:5px 4px}body.land #ageBtn{padding:7px 4px}}
+b756ff	D	Ahora: encendidas
+f0be78	D	Ahora: apagadas
+fef622	D	.money .v,.money .y,.nst b
+cc44ae	D	El estilo pixel volvió a Actual. Desbloquéalo para usarlo siempre.
+eea2a9	D	🕹️ Terminó la vista previa
+9598fc	T	👁️ Otra vista previa en {0} h
+35bd02	T	Tienes {0} minutos para probarlo.
+acba07	D	🕹️ Vista previa del estilo pixel
+8efe45	D	El estilo pixel queda desbloqueado para tus pruebas.
+b156d4	D	Los temas vuelven a su estado normal (bloqueado, vista previa o desbloqueado).
+23ec80	D	¡Logro!
+62b44a	D	¡Ascenso!
+ff52af	D	¡Victoria!
+2d0cf6	D	población movilizable
+79e3da	T	bono de política {0} %
+718e6b	D	Su poder
+87a3da	T	de {0} países
+c7aad4	D	Puntaje
+d85ecd	D	Tu lugar
+9d0909	D	/* íconos: vista previa en Ajustes */\n.chips.ivs{display:grid;grid-template-columns:repeat(3,1fr);gap:6px}.chips.ivs button{display:grid;gap:2px;justify-items:center;padding:7px 4px;min-height:56px}\n.ivp{font-size:14px;letter-spacing:.5px;white-space:nowrap;line-height:1.2;max-width:100%;overflow:hidden}.chips.ivs button>span:last-child{white-space:normal;line-height:1.15;font-size:12px}.ivp.j{font-family:IVIPJ,system-ui!important}.ivp.l{font-family:IVIPL,system-ui!important}.ivp.e{--emo:system-ui,"Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji",sans-serif;font-family:var(--emo)!important}\n.cv-aut{color:#a9b6c6;font-size:11.5px}\n/* Lottie */\n#lotfx{position:fixed;left:50%;top:34%;width:min(58vw,250px);aspect-ratio:1;transform:translate(-50%,-50%) scale(.92);opacity:0;pointer-events:none;z-index:9990;transition:opacity .18s ease,transform .3s var(--ease,ease)}\n#lotfx.on{opacity:1;transform:translate(-50%,-50%) scale(1)}#lotfx.off{opacity:0;transform:translate(-50%,-56%) scale(.96)}\n.lot-bg{position:absolute;inset:16%;border-radius:50%;background:radial-gradient(circle,color-mix(in srgb,var(--card) 88%,transparent) 0,color-mix(in srgb,var(--card) 50%,transparent) 55%,transparent 72%)}\n.lot-c{position:absolute;inset:0}.lot-c svg{display:block}\n.lot-t{position:absolute;left:0;right:0;bottom:-2%;text-align:center;font-weight:900;font-size:var(--fs-6,20px);letter-spacing:.02em;color:var(--gold);text-shadow:0 2px 10px color-mix(in srgb,var(--bg) 85%,transparent),0 0 2px var(--bg)}\n/* ejércitos en la burbuja */\n.mpar{display:flex;gap:5px;flex-wrap:wrap;margin:5px 0 2px}\n.mparm{width:auto!important;flex:0 0 auto;display:inline-flex!important;align-items:center;gap:4px;min-height:34px;padding:3px 9px 3px 7px;border-radius:var(--r-p,999px);border:1px solid var(--line);background:var(--card2);color:var(--ink);font-size:12.5px}\n.mparm i{font-style:normal;font-size:14px}.mpmo{display:block;width:22px;height:5px;border-radius:3px;background:var(--well);overflow:hidden;text-decoration:none}.mpmo u{display:block;height:100%;border-radius:3px}.mparm em{font-style:normal;font-size:12px}\n.mparm.on{border-color:var(--sel-line);background:var(--sel-bg);box-shadow:inset 0 -2px 0 var(--act)}.mparm.on b{color:var(--gold)}\n.mpa.mpord{margin-top:4px}.mpa.mpord button:first-child{background:var(--act);color:var(--act-ink);border-color:var(--act)}.mpa.mpord button:first-child span,.mpa.mpord button:first-child i{color:var(--act-ink)}\n.mph{font-size:12px;color:var(--mut);margin:3px 0 1px}\n.mpordh{position:absolute;left:8px;right:8px;top:8px;margin:0 auto;width:fit-content;z-index:6;display:flex;align-items:center;gap:6px;background:var(--glass);border:1px solid var(--sel-line);color:var(--ink);border-radius:var(--r-m,12px);padding:5px 6px 5px 10px;font-size:12.5px;box-shadow:var(--sh-2)}\n.mpordh .btn.sm{min-height:30px;padding:3px 10px;font-size:12px}\nbody.mapfull .mpordh{top:calc(54px + env(safe-area-inset-top))}\n/* tarjetas de datos en las pantallas viejas */\n.v19g{grid-template-columns:repeat(3,1fr)}.v19g .plt small{white-space:normal;line-height:1.2;overflow:visible}.v19g .plt i{display:block;line-height:1.25}.v19g .plt b{font-size:14.5px;white-space:normal;overflow-wrap:anywhere;line-height:1.2}.v19g.c2{grid-template-columns:1fr 1fr}\n@media (max-width:360px){.v19g{grid-template-columns:1fr 1fr}}\n.v19gov{font-size:12.5px;color:var(--mut);margin:-2px 0 6px}\n.mpt.v19rel{display:flex;flex-wrap:wrap;gap:5px;margin:2px 0 8px}.mpt.v19rel>span,.mpt.v19rel .pill{font-size:12px;padding:3px 9px;border-radius:var(--r-p,999px);border:1px solid var(--line);background:var(--card2);color:var(--ink2)}\n.v19dip{display:flex;gap:12px;align-items:center;background:var(--card2);border:1px solid var(--line);border-radius:var(--r-m,12px);padding:8px 10px;margin:4px 0 8px}\n.v19dip b{display:block;font-size:13.5px;color:var(--ink)}.v19dip span{display:block;font-size:12px;color:var(--mut);margin-top:2px}\n.v19pip{display:flex;gap:4px;flex:0 0 auto}.v19pip i{width:12px;height:12px;border-radius:50%;border:2px solid var(--sel-line);background:transparent}.v19pip i.on{background:var(--act);border-color:var(--act)}\n/* Resumen del país: mismas tarjetas que la ficha del lugar */\n.ngrid{gap:6px}.nst{border-radius:11px;padding:7px 9px;gap:1px}.nst>span{font-size:11px;color:var(--mut)}.nst b{font-size:15px;font-weight:700;background:none!important;padding:0!important;text-align:start!important}\n.nst b.pos{color:var(--green)}.nst b.neg{color:var(--red)}\n.ideo{border-width:1px 1px 1px 4px;border-radius:var(--r-m,12px);padding:9px 11px}\n/* presupuesto */\n.bud{border-radius:var(--r-m,12px);padding:8px 10px}.bctl .btn{min-width:var(--tap,40px);min-height:36px}.hb{background:var(--well);height:6px}\n/* gabinete */\n.v19mn{align-items:flex-start}.v19mn .ic{font-size:24px;padding-top:2px}.v19mn .tt>b{font-size:14px}.mnw{font-size:12px;color:var(--mut);margin:1px 0 4px}\n.mnms{display:grid;gap:3px;margin:2px 0 4px}.mnm{display:grid;grid-template-columns:minmax(76px,auto) 1fr 28px;align-items:center;gap:8px;font-size:11.5px;color:var(--mut)}\n.mnm em{font-style:normal;text-align:right;color:var(--ink);font-weight:700;font-size:12px}.mb2{display:block;height:6px;border-radius:3px;background:var(--well);overflow:hidden}.mb2 b{display:block;height:100%;border-radius:3px}\n.v19mn .mini-actions{margin-top:4px}.v19mn .mini-actions .btn{min-height:34px;padding:5px 12px;font-size:12.5px}\n/* ranking */\n.item.rk1 .t,.item.rk2 .t,.item.rk3 .t{font-weight:800}.item.rk1{border-color:color-mix(in srgb,#e6b422 55%,var(--line))}.item.rk2{border-color:color-mix(in srgb,#b8c2cc 55%,var(--line))}.item.rk3{border-color:color-mix(in srgb,#c47a3a 55%,var(--line))}\n.item.mine{border-color:var(--sel-line);background:var(--sel-bg)}\n/* Bolsa: pestañas y tarjetas con el sistema de diseño */\n.mkt{gap:5px}.mkt button{border-radius:var(--r-p,999px);border-color:var(--line);background:var(--card2);color:var(--mut);min-height:34px;padding:6px 10px;font-weight:700}\n.mkt button.on{background:var(--sel-bg);color:var(--gold);border-color:var(--sel-line);box-shadow:inset 0 -2px 0 var(--act)}\n.fin{border-radius:var(--r-m,12px);background:var(--card2)}.frow{min-height:34px;align-items:center}\n.sheet h3 small{font-weight:600}\nhtml[dir=rtl] .mnm em{text-align:left}
+b4c540	D	🎨 Íconos
+c179d9	D	Íconos
+086dd6	D	🎬 Animaciones de momentos clave
+bcb749	D	Animaciones de momentos clave
+b6286d	D	🪖 Órdenes desde el mapa
+762e0c	D	hoy está desactivado
+ad2bab	D	por banco
+09821f	D	Utilidad al mes
+e59fbf	D	Ventas al mes
+6bdd17	D	al año, se descuenta cada mes
+ed0648	D	según tu patrimonio y los homicidios del país
+f1bec0	D	Riesgo de secuestro
+b4b8c9	D	avanza el reloj
+a51cf1	D	Partículas
+eb602f	D	✨ Partículas
+cc8b73	D	Sonido
+be587b	D	#pfx{position:fixed;inset:0;width:100vw;height:100vh;pointer-events:none;z-index:9985;display:none}\n#drgL{position:fixed;inset:0;pointer-events:none;z-index:9980;display:none}#drgL.on{display:block}\n#drgL svg{position:absolute;inset:0;width:100%;height:100%;overflow:visible}\n#drgL line{stroke:var(--act);stroke-width:3;stroke-dasharray:7 5;stroke-linecap:round;filter:drop-shadow(0 1px 2px rgba(0,0,0,.6))}\n#drgL circle{fill:color-mix(in srgb,var(--act) 35%,transparent);stroke:var(--act);stroke-width:2.5}\n#drgL.no line,#drgL.no circle{stroke:var(--mut)}#drgL.no circle{fill:transparent}\n.drgT{position:absolute;transform:translateX(-50%);white-space:nowrap;background:var(--glass);border:1px solid var(--sel-line);color:var(--ink);border-radius:var(--r-p,999px);padding:4px 11px;font-size:13px;font-weight:700;box-shadow:var(--sh-2)}\n#drgL.no .drgT{color:var(--mut);border-color:var(--line)}\n/* Bancos */\n.bnk .h{align-items:flex-start}.bnk .h b{min-width:0;display:flex;flex-wrap:wrap;align-items:center;gap:4px;line-height:1.25}\n.bnk .h>span{white-space:nowrap;font-size:17px;font-weight:800;color:var(--gold);font-variant-numeric:tabular-nums}\n.tier{white-space:nowrap;margin-left:0;max-width:100%;overflow:hidden;text-overflow:ellipsis}\n.bnk .mpb button,.svc .mpb button{min-height:36px}\n/* Mis empresas / Mesa: datos como tarjetas */\n.kv.kvt{grid-template-columns:1fr 1fr;gap:6px;margin:8px 0}\n.kv.kvt>div{flex-direction:column;justify-content:flex-start;align-items:flex-start;gap:1px;border:1px solid var(--line);background:var(--card2);border-radius:11px;padding:7px 9px;min-width:0}\n.kv.kvt span{font-size:11px;line-height:1.25}.kv.kvt b{text-align:start;font-size:15px;font-weight:700;color:var(--ink);overflow-wrap:anywhere}\n.kv.kvt b .up{color:var(--green)}.kv.kvt b .dn{color:var(--red)}.kv.kvt b span{font-size:inherit;font-weight:inherit}\n.bzc{border-radius:var(--r-m,12px)}.bzc .h b{font-size:15.5px}.bzc .chg{font-weight:800;white-space:nowrap}\n.svc{border-radius:var(--r-m,12px)}.svc .ic{font-size:24px;width:30px;text-align:center}
+180bc0	D	Para quien no conoce el juego ni cómo funciona la economía: reglas simples y más margen; las opciones avanzadas se abren poco a poco y cada pantalla se explica la primera vez. Una vida: 10–15 min.
+51f252	D	Calibrado con datos reales y con reglas simples: sueldo y gastos automáticos, guerras de una batalla al año, todo a la vista. Una vida: 10–15 min.
+ed96d3	D	Todas las mecánicas: impuestos, inflación, préstamos, guerras mes a mes, enfermedades, congreso y juicios. Una vida: 30–60 min.
+738665	D	Personalizado
+0a6762	D	Las opciones avanzadas se abren con tu avance.
+8e6bf4	D	Todo el menú Más está a la vista.
+901306	D	Las explicaciones de primera vez aparecerán otra vez.
+c54540	D	a los 18 años
+f613c9	D	a los 18 años, con ahorros de un año de salario medio
+87ec0c	D	con un patrimonio de 5 años de salario medio
+f30956	D	a los 30 años o al tener hijos
+0ff455	D	al gobernar o entrar al ejército
+40b8f6	D	herramienta técnica: está en «Mostrar todo»
+0d54fb	D	v20 más
+a261bb	D	Todas las opciones del menú Más están a la vista. Puedes volver a ocultarlas en Ajustes.
+b23482	D	Guardar dinero en un banco lo protege y le paga intereses (la tasa de depósito). Los bancos chicos pagan más porque quiebran más seguido; si uno quiebra, el seguro de depósitos de tu país te devuelve hasta un tope por banco. Aquí también pides créditos: el interés depende de tu historial crediticio.
+55147a	D	Una acción es una pequeña parte de una empresa. Si a la empresa le va bien, el precio sube y algunas reparten dividendos; si le va mal, puedes perder. Comprar empresas de sectores distintos (diversificar) reduce el daño de que una sola caiga.
+55c1d6	D	Una empresa vende cada mes y paga insumos, sueldos, renta, impuestos y deudas; lo que queda es la utilidad, y lo que reparte llega a tu dinero. Empezar chico y reinvertir es más seguro que endeudarse para crecer rápido.
+361159	D	Servicios que pagas cada mes: protección, salud, ayuda en casa. Mejoran tu vida o bajan riesgos (por ejemplo, el de secuestro cuando tienes mucho dinero), pero son un gasto fijo: contrátalos cuando tu ingreso los aguante.
+e8c16a	D	Tu dinero del año: ingreso bruto menos gastos de vida (y, en Realista, impuestos y pagos de préstamos) da tu neto. Si el neto es negativo, gastas más de lo que ganas y tus ahorros bajan.
+67b11d	D	Aquí decides en qué usas tu tiempo. Cada actividad cuesta tiempo o dinero y mueve tus estadísticas: estudiar sube la inteligencia; el gimnasio, la salud; la familia, la felicidad. Esas estadísticas deciden qué puertas se abren después.
+d40bce	D	Tu forma de ganarte la vida. Un empleo da sueldo desde ya; la universidad cuesta años, pero abre empleos mejor pagados; las carreras hacia el poder (política, ejército, negocios) llevan a gobernar. Los sueldos salen del salario medio real de tu país.
+40dca5	D	Lo que tienes: casa, autos y otros bienes. Tu patrimonio es todo lo que posees (efectivo, cuentas, inversiones y bienes) menos lo que debes.
+c63650	D	Tus relaciones: familia, pareja, amigos y contactos. Se enfrían si no les dedicas tiempo; los contactos te abren empleos y negocios.
+427549	D	Tu ambición es la meta que elegiste para esta vida: aquí ves cuánto te falta y los logros que ya conseguiste.
+ecab87	D	Cada país con datos reales de 2026: población, economía, ejército y relaciones con otros países. Lo que pase en el tuyo (guerras, crisis, sueldos) también te afecta a ti.
+81e3ae	D	🩺 Tu salud está baja: ve al médico o al gimnasio.
+f01ef9	D	🌴 Tu felicidad está baja: pasa tiempo con tu familia o toma vacaciones.
+831c8b	D	📚 Estudia: la inteligencia sube tus calificaciones y abre mejores carreras.
+999b71	D	💼 Busca empleo o entra a la universidad: es tu primera fuente de ingresos.
+552684	D	📉 Gastas más de lo que ganas: busca un empleo mejor pagado o prepárate más.
+7c420a	D	🏦 Tienes efectivo sin rendir: en una cuenta de banco gana intereses.
+e0d9d7	D	📈 Diversifica: pon una parte de tus ahorros en un fondo de inversión.
+2d319d	D	🏪 Ya podrías emprender: una empresa puede darte más que un sueldo.
+c0e8eb	T	📘 Tu año en números: ingresos de {0} y gastos de vida de {1}; tu patrimonio pasó de {2} a {3}.
+52cddd	D	📘 Gastaste más de lo que ganaste: tus ahorros cubrieron la diferencia.
+873c19	D	📘 Tu patrimonio creció más que tu sueldo neto: tus cuentas, inversiones o empresas también te dieron dinero.
+e943dd	D	📘 Tu patrimonio bajó más que por tus gastos: alguna inversión, empresa o compra perdió valor.
+5c4c5c	T	🔓 Se abre en Más: {0}
+8ce3c6	D	🔓 Nueva opción en Más
+a39604	T	💡 ¿Sabías que…? {0} (Fuente: {1})
+82e13b	D	v20 año
+4d935f	D	🏦 Bancos y fondos
+8e3efd	D	💼 Bienes y negocios
+dec933	D	🎯 Órdenes rápidas
+e62b0a	T	⚠️ Tienes {0} en {1}: el seguro de depósitos cubre hasta {2} por banco. Si ese banco quiebra, puedes perder la diferencia; repartir tu dinero en varios bancos reduce el riesgo.
+67799a	T	⚠️ Tienes {0} en {1} y tu país no tiene seguro de depósitos: si el banco quiebra, puedes perderlo todo. Repartir tu dinero en varios bancos grandes reduce el riesgo.
+b0e424	D	⚠️ Riesgo en tu banco
+edd50c	D	Revisa el aviso en tu historial.
+842059	D	Subida general de los precios en un año. Con 5 % de inflación, lo que costaba $100 cuesta $105: si tu sueldo no sube igual, puedes comprar menos.
+dcfd47	D	Producto interno bruto: el valor de todo lo que un país produce en un año. Mide el tamaño de su economía.
+6196eb	D	El PIB dividido entre los habitantes. Sirve para comparar qué tan rico es, en promedio, cada país.
+0ad20e	D	Salario medio
+dc4239	D	El sueldo anual típico de un trabajador del país. El juego lo usa como base de sueldos y precios.
+155753	D	El precio del dinero en el tiempo, en % al año: lo que te paga el banco por guardar tu dinero o lo que te cobra por prestártelo.
+375cfc	D	Tasa de interés
+79b5c8	D	tasa de interés
+d952b3	D	seguro de depósitos
+ea86c4	D	Garantía del gobierno: si tu banco quiebra, te devuelve tus depósitos hasta un tope por banco. Lo que pase del tope se puede perder.
+1327d2	D	Una pequeña parte de una empresa que se compra y vende en la bolsa. Su precio sube o baja según lo que se espera de la empresa.
+539e07	D	Acción (bolsa)
+a5b042	D	La parte de las ganancias que una empresa reparte entre quienes tienen sus acciones.
+0637e8	D	Diversificar
+c2858c	D	Repartir tu dinero entre varias inversiones distintas para que la caída de una sola no te afecte demasiado.
+cf2009	D	Lo que queda de las ventas después de pagar todos los costos. Si es negativa, la empresa pierde dinero.
+bdc70a	D	Todo lo que tienes (efectivo, cuentas, inversiones y bienes) menos todo lo que debes.
+a8a375	D	Calificación de qué tan buen pagador eres. Con un buen historial te prestan más y con menos interés.
+086033	D	Lo que pagas al gobierno sobre tus ingresos y compras. Con eso se pagan escuelas, hospitales, ejército y obras.
+baef67	D	Cuando una empresa o un banco no puede pagar lo que debe y cierra o es intervenido.
+a3a1f6	D	Glosario
+ea8304	D	🌱 Niveles y modo Fácil
+a27a5c	D	La Reserva Federal de Estados Unidos y el Banco Central Europeo buscan una inflación de 2 % a mediano plazo.
+6e3d04	D	Banco de México
+f3fa57	D	El Banco de México tiene como meta una inflación de 3 %, con un margen de un punto arriba o abajo.
+24cf6e	D	En junio de 2022 la inflación de Estados Unidos llegó a 9.1 %, la más alta en unos 40 años.
+c8c13f	D	Oficina de Estadísticas Laborales de EE. UU.
+15ebdd	D	Japón mantuvo tasas de interés negativas de 2016 a 2024.
+200627	D	Banco de Japón
+dd0034	D	A inicios de los ochenta, la Reserva Federal subió su tasa a cerca de 20 % para frenar una inflación de casi 15 %.
+2a34cf	D	Regla del 72
+a43297	D	Con 7 % de interés compuesto al año, un ahorro se duplica en unos 10 años: 72 entre la tasa da los años (regla del 72).
+bd33bf	D	En Estados Unidos el seguro de depósitos cubre hasta 250,000 dólares por persona y por banco.
+cccd1d	D	En México, el IPAB protege los depósitos hasta 400,000 UDIS por persona y por banco: unos 3 millones de pesos.
+1cea46	D	En México el impuesto sobre la renta de las personas sube por tramos hasta una tasa de 35 %.
+f09d8b	D	SAT, Ley del ISR
+ea8378	D	México recauda en impuestos alrededor del 17 % de su PIB, la proporción más baja de la OCDE.
+1e85a2	D	Los países de la OCDE recaudan en promedio cerca de un tercio de su PIB en impuestos.
+2ec021	D	Emiratos Árabes Unidos no cobra impuesto sobre la renta a las personas.
+de8f0e	D	Gobierno de los Emiratos Árabes Unidos
+ca0ddd	D	El IVA general en México es de 16 %.
+4c9cac	D	La ONU tiene 193 Estados miembros.
+23944b	D	Nueva Zelanda fue en 1893 el primer país autónomo en dar el voto a las mujeres.
+a07142	D	Gobierno de Nueva Zelanda
+75a132	D	Constitución de México, art. 83
+c02b9f	D	En México el presidente gobierna un solo periodo de 6 años, sin reelección.
+0fa5f3	D	La deuda pública de Japón supera dos veces el tamaño de su economía, la más alta entre los países ricos.
+43128c	D	Archivos Nacionales de EE. UU.
+a2e45a	D	La Constitución de Estados Unidos, de 1787, es la constitución escrita más antigua que sigue vigente.
+00e2df	D	El gasto militar mundial llegó a unos 2.7 billones de dólares en 2024, un récord.
+b06f0a	D	Estados Unidos concentra cerca del 37 % del gasto militar del mundo.
+6968d4	D	Gobierno de Costa Rica
+7386ff	D	Costa Rica abolió su ejército en 1948.
+0c63f2	D	Nueve países tienen armas nucleares.
+9d67d4	D	Desde 1945 ningún arma nuclear se ha usado en una guerra.
+498ddf	D	Cerca de 6 de cada 10 trabajadores del mundo están en la economía informal.
+752554	D	En México, más de la mitad de las personas ocupadas trabaja en la informalidad.
+053a93	D	Ley Federal del Trabajo, art. 87
+b075cc	D	En México el aguinaldo mínimo por ley es de 15 días de salario.
+c5c842	D	Cerca de 2 de cada 10 empresas nuevas en Estados Unidos cierran antes de cumplir un año.
+da52ad	D	El Mundial 2026 es el primero con 48 selecciones y tres países sede.
+5528ef	D	El boxeo es deporte olímpico desde 1904; solo faltó en Estocolmo 1912.
+c440f5	D	El streaming genera cerca de dos tercios de los ingresos mundiales de la música grabada.
+4fbf04	D	Resumen de tu país: PIB (el tamaño de su economía), crecimiento, estabilidad, deuda y relaciones. Si gobiernas, aquí cambias el sistema de gobierno y formas naciones nuevas.
+4c59cf	D	Cada provincia tiene población, riqueza, felicidad y desarrollo. Invertir y construir edificios las hace crecer; las ocupadas o muy infelices pueden rebelarse.
+0ac960	D	Tus ejércitos: soldados, calidad (sube con el gasto por soldado), moral y abasto. En guerra el tiempo corre mes a mes: mueves tropas, combates y sitias provincias. Cada soldado de más cuesta dinero del tesoro.
+a11ab9	D	El presupuesto reparte el dinero del país entre ejército, investigación, bienestar y más. Impuestos altos recaudan más, pero restan crecimiento y aprobación; si gastas más de lo que entra, la deuda sube.
+612c9b	D	La opinión de cada país hacia ti depende de su ideología, la historia reciente y tus acciones. Alianzas y pactos te protegen, y los aliados entran a tus guerras con sus ejércitos. Tienes pocas acciones diplomáticas por año: úsalas donde más importan.
+6e9f02	D	El parte resume la guerra: provincias ocupadas, bajas y cansancio de cada bando. Un país capitula si pierde más de la mitad de su población o se agota; antes de eso, la paz se negocia.
+0d4079	D	El ranking ordena a los países por su puntaje: 40 % economía (PIB), 30 % población y 30 % poder militar. Aquí ves tu lugar y quién va adelante.
+082073	D	El gabinete: las secretarías del gobierno, cada una con su titular. Un titular capaz mejora los resultados de su área; las directivas cambian sus prioridades a cambio de un costo.
+f61013	D	El sistema de gobierno cambia cuánto crece tu país, cuánto investiga, cuántos reclutas tiene y cuánto recauda. Cambiarlo cuesta estabilidad y solo se puede cada 4 años.
+160a1b	D	En la conferencia de paz gastas puntos de paz: cada provincia cuesta 1, liberar un país 1 y las reparaciones 2. Si el enemigo capituló, puedes tomar todo lo que ocupas.
+29ca6d	D	Gobierno e impuestos
+4637ba	D	Comercio y divisas
+5f9f6a	D	Bancos y crédito
+fe36f8	D	Economía del país
+18fd7e	D	Lo que puedes comprar con tu dinero. Si los precios suben más que tu ingreso, tu poder adquisitivo baja aunque ganes más.
+7878c2	D	poder de compra
+d435a1	D	Poder adquisitivo
+269e26	D	Ganar intereses sobre los intereses ya ganados. Con 7 % al año, un ahorro se duplica en unos 10 años; con una deuda funciona igual, pero en tu contra.
+72c061	D	interés compuesto
+8675d4	D	Interés compuesto
+365410	D	Índice de precios
+889839	D	índice de precios
+9834f0	D	Número que sigue el costo de una canasta de bienes y servicios. Si pasa de 1.00 a 1.10, los precios subieron 10 %.
+0a136a	D	La tasa de interés menos la inflación. Es lo que de verdad gana tu ahorro, o te cuesta tu deuda, en poder de compra.
+8d3fc3	D	Tasa real
+2bdc6b	D	Institución que emite la moneda de un país y fija su tasa de referencia para mantener la inflación baja y estable, como el Banco de México o la Reserva Federal.
+3c504c	D	tasa de referencia
+e77778	D	La tasa que fija el banco central. Subirla encarece el crédito y frena la inflación; bajarla abarata el crédito y anima la economía.
+d13bcb	D	Dinero que un banco te presta a cambio de devolverlo con intereses en pagos periódicos.
+f05ef4	D	Crédito
+036076	D	Fondo de inversión
+229efe	D	fondos de inversión
+46790c	D	Dinero de muchas personas que un gestor invierte en muchas acciones o bonos: diversificas sin elegir una por una.
+d5b599	D	fondo de inversión
+312a57	D	Un préstamo que le haces a un gobierno o a una empresa: te paga un interés fijo y te devuelve el dinero al vencer.
+4a46a6	D	Lo que gana una inversión en un periodo, en % de lo invertido: intereses, dividendos y cambio de precio.
+de6cb4	D	venta en corto
+f6e44e	D	Apostar a que un precio baja: vendes acciones prestadas y las recompras después. Si el precio sube, la pérdida no tiene límite.
+35d03f	D	Comprar con dinero prestado por la casa de bolsa. Multiplica las ganancias y también las pérdidas.
+4ffed5	D	ganancias de capital
+8b6db0	D	Lo que ganas al vender algo más caro de lo que lo compraste. En muchos países paga impuesto.
+bccf5b	D	Ganancia de capital
+bf61a7	D	ganancias de bolsa
+d80bfb	D	ganancia de capital
+b706b8	D	Cuando una empresa vende acciones al público por primera vez para conseguir dinero y crecer.
+a3e8d4	D	Cuando la economía de un país se contrae en vez de crecer: suben el desempleo y las quiebras.
+e770f6	D	Recesión
+429390	D	Deflación
+69b699	D	Baja general de los precios. Parece buena noticia, pero suele venir con menos ventas, menos empleo y deudas más pesadas.
+9d16c8	D	Inflación descontrolada, de 50 % o más al mes: la moneda pierde su valor en semanas.
+c72238	D	Hiperinflación
+19e14a	D	Tasa marginal
+35a203	D	El porcentaje de impuesto que se cobra sobre el último peso que ganas: el de tu tramo más alto.
+062fdd	D	Todo lo que pagas de impuestos dividido entre todo tu ingreso. En un impuesto por tramos siempre es menor que la tasa marginal.
+12983e	D	Tasa efectiva
+10d181	D	Impuesto progresivo
+519848	D	Impuesto por tramos: cada tramo de ingreso paga una tasa mayor, pero solo sobre la parte que cae en ese tramo.
+856046	D	por tramos
+428126	D	Lo que debe el gobierno. Se mide en % del PIB; si crece demasiado, los intereses se comen el presupuesto y los mercados dudan de que pueda pagar.
+43f70f	D	deuda pública
+3a8608	D	Déficit
+63ee5b	D	Cuando el gobierno gasta en un año más de lo que recauda. Se cubre con deuda o imprimiendo dinero.
+e6edd6	D	El plan de gastos del gobierno para el año: cuánto va al ejército, a la educación, a la salud y a lo demás.
+1debfe	D	tipos de cambio
+24a179	D	tipo de cambio
+3401ad	D	Cuántas unidades de tu moneda cuesta un dólar u otra moneda.
+3e9734	D	Tipo de cambio
+364a67	D	Devaluación
+cf086d	D	Cuando tu moneda pierde valor frente a otras: lo importado se encarece y lo que exportas se abarata para otros países.
+50dfae	D	Divisas y oro que guarda el banco central para pagar importaciones y deudas y para defender su moneda.
+04ef78	D	Castigos comerciales de otros países: menos comercio y menos crecimiento para el país sancionado.
+4a74a6	D	Sanciones
+9ca79b	D	Tratado comercial
+e7f41d	D	Acuerdo entre países para comerciar con menos barreras: suele subir el crecimiento de ambos.
+b40b85	D	Con tasa real positiva, ahorrar rinde y el crédito caro enfría la economía y los precios.
+d6807e	D	Con tasa real negativa, ahorrar pierde poder de compra y pedir prestado sale barato: eso empuja el consumo y los precios.
+34deae	D	Abre tu primera cuenta de banco
+548e6c	D	Consigue tu primer empleo
+0e4df9	D	Ahorra un año de salario
+51afeb	D	Termina un año ganando más de lo que gastas
+1924ae	D	Invierte en un fondo
+c3e6bf	D	Compra tu casa
+0f3c78	D	Abre tu primera empresa
+91420a	D	Ten acciones de 3 empresas distintas
+35a8c6	D	Junta un patrimonio de 5 años de salario
+1bfd9b	T	A los {0} años: consigues tu primer empleo ({1}).
+76ac82	T	A los {0} años: entras a la universidad ({1}).
+f646fb	T	A los {0} años: entras a la carrera de {1}.
+5d753e	T	A los {0} años: nace tu primer hijo.
+9f871a	T	A los {0} años: formas pareja.
+9fac40	T	A los {0} años: abres tu primera cuenta de banco.
+a31d68	T	A los {0} años: te gradúas de la universidad.
+7e2334	T	A los {0} años: pides tu primer crédito.
+92fb8d	T	A los {0} años: compras tu casa.
+c65365	T	A los {0} años: abres tu primera empresa.
+f21da5	T	A los {0} años: compras tus primeras acciones.
+1942f8	T	A los {0} años: te mudas a {1}.
+50cc43	T	A los {0} años: llegas a gobernar {1}.
+5d234b	T	A los {0} años: inviertes en tu primer fondo.
+85fa2d	T	A los {0} años: empiezas tu carrera de fama.
+083284	T	A los {0} años: tu país entra en guerra.
+da7414	T	A los {0} años: caes en bancarrota.
+1db4cf	T	el gobierno imprime dinero ({0} % del PIB al año) y hay más dinero para los mismos bienes
+05c09d	T	tu moneda perdió {0} de su valor frente al dólar y lo importado se encarece
+89cbbd	D	la guerra encarece los alimentos y el combustible
+b9f40e	T	el petróleo subió {0} y encarece el transporte y la producción
+c52a34	T	los alimentos subieron {0} en el mercado mundial
+0d7354	T	la tasa del banco central ({0}) está por encima de la inflación y frena el crédito y el consumo
+cdbd9e	T	la tasa del banco central ({0}) está por debajo de la inflación y el crédito barato empuja el consumo
+b0b099	D	la recesión bajó la demanda
+38c508	D	los precios vuelven a su ritmo habitual de los últimos años
+3369c0	T	📊 Inflación en {0}: {1} (el año pasado, {2}). Lo que más pesó: {3}.
+3c7ffc	T	📊 Tu ingreso cambió {0} y los precios {1}: en poder de compra, {2}.
+ad9594	T	📊 Impuestos del año: {0}, una tasa efectiva de {1}; tu tramo más alto cobra {2}, pero solo sobre la parte del ingreso que lo pasa.
+3289ee	T	📊 Tus cuentas rindieron en promedio {0} y la inflación fue {1}: rendimiento real de {2}.
+cc11b4	T	📊 Tus créditos cuestan en promedio {0} al año; descontando la inflación, {1} real.
+d3b4ba	T	🏦 {0} movió su tasa de {1} a {2} para sostener su tipo de cambio fijo.
+d9f81e	T	🏦 {0} subió su tasa de {1} a {2} porque la inflación ({3}) está arriba de su meta ({4}): los créditos nuevos salen más caros y las cuentas pagan más.
+b26ea6	T	🏦 {0} bajó su tasa de {1} a {2} porque la inflación ({3}) está cerca de su meta ({4}): el crédito se abarata y las cuentas pagan menos.
+c57f4f	T	🏦 {0} movió su tasa de {1} a {2}.
+d10681	D	v20b año
+fa3331	D	Abrir una cuenta desde joven deja trabajar al interés compuesto.
+decda3	D	Gastar menos de lo que ganas, aunque sea poco, es la base de cualquier patrimonio.
+eb4f4c	D	Invertir una parte de tus ahorros en un fondo diversificado suele rendir más que la inflación a largo plazo.
+a58030	D	Emprender es arriesgado, pero una empresa bien manejada puede darte más que un sueldo.
+9115f7	D	Prueba otro país u otro nivel: las mismas decisiones dan resultados distintos según la economía.
+6a49e6	D	En el historial: ingresos, gastos y cómo cambió tu patrimonio.
+df0832	D	En el historial: tu año en números, la inflación y su causa, impuestos y tasas reales.
+a6e01d	D	🔎 Por qué
+c79378	D	Por qué
+d293cb	D	🎓 Aprender en cada nivel
+4696d6	T	{0} en persona
+afaab5	D	🔍 Auditoría
+73ebba	D	Compra apalancada
+c665a3	D	Sin director
+92ac3b	D	Nombre del grupo
+d39083	D	Conglomerado
+1c6a17	D	Dividendo al año
+4b5b07	D	Estrategia
+5fa13a	D	Tus acciones
+66ca3f	D	Cambiar de director
+d9a1b7	D	Elegir director
+fb16fb	D	Te faltan
+3759a9	D	Prima de control
+e11d21cd	D	Oferta pública de adquisición
+2eea45	D	oferta pública de adquisición
+4705dc	D	Oferta para comprar las acciones de una empresa en bolsa a todos sus accionistas, a un precio fijo, para tomar el control. Se conoce por sus siglas, OPA.
+6cc33f	D	Lo que se paga por encima del precio de mercado para convencer a los accionistas de vender y quedarse con el control.
+28a776	D	Auditoría (due diligence)
+b88955	D	Revisión de los libros, contratos y deudas de una empresa antes de comprarla, para no pagar de más por cifras maquilladas.
+46cbb8	D	Comprar una empresa con mucho dinero prestado que después paga la propia empresa con sus utilidades. Multiplica la ganancia y el riesgo.
+1fa8cc	D	Grupo de empresas de giros distintos bajo un mismo dueño y una dirección común.
+5e13be	D	Ahorro o venta extra que aparece al juntar empresas que comparten clientes, proveedores o procesos.
+860c3b	D	Sinergia
+55fb54	D	Empresas en venta
+b70264	D	🛒 Empresas en venta
+83f3eb	D	Grupos
+96a561	D	Control de la empresa
+fcaa43	D	🏢 Control en bolsa
+551c65	D	🏢 Comprar empresas y grupos
+2091ec	D	Precio del petróleo
+6f40f5	D	Precio de los metales
+c42c4a	D	Tasas de interés
+da4112	D	Crecimiento del país
+25df08	D	Sus clientes (cadena)
+428aa6	D	Quiebras recientes
+8ba059	D	Consumo de los hogares
+eaa432	D	Salud de los bancos
+eb9d92	D	Tendencia del sector
+0ed580	D	Otras empresas del país
+2a9066	D	Hogares de la provincia
+2b3fa3	D	Empresas y hogares que adoptan tecnología
+90c48c	D	Hogares de todo el país
+ba2f44	D	Turistas
+cfcdcf	D	Mercado mundial: vendes a precio internacional
+bf3612	D	por la quiebra de una empresa
+fe1287	D	por el cierre de una empresa
+2dc73d	T	{0}\n{1}\nlet C=null,S=0,N=0;onmessage=e=>{const d=e.data;const t=performance.now();if(d.F){N=d.N;S=d.S;C=wmwComp(d.F,d.N,d.S,d.SK);}\n const r=wmwKernel(C,d.own,d.h,d.lx,N,S);postMessage({act:r.act,top:r.top,ms:performance.now()-t},[r.act.buffer,r.top.buffer]);};
+5cfc55	D	no disponible
+a59004	D	Con proveedores y sueldos
+ae31cc	D	Valor agregado al año
+54e3cd	D	PIB del país
+8cf54c	D	Impuestos y cuotas
+f45225	D	PIB de la provincia
+5d2777	D	Cadena de suministro
+66fdc7	D	Multiplicador económico
+694f77	D	Valor agregado
+aaabdb	D	Integración vertical
+33a71c	D	PIB de tu país
+4d3788	D	Inversión extranjera directa
+2fabc6	D	Solo compra empresas con utilidades; paga según sus flujos.
+488eb4	D	Fondo de capital privado
+b5a26e	D	Competidor del mismo giro
+ec0385	D	Paga más si la empresa está sana: le suma clientes y sucursales.
+1342fe	D	Inversionista individual
+67b06b	D	Ofrece menos, pero compra casi cualquier empresa.
+99ff29	D	Salud de la empresa
+60cc9e	D	Múltiplo de valuación
+84b89e	D	Actividad económica
+d276d5	D	Sector principal
+b6d859	D	Economía local y tus empresas
+012346	D	La actividad económica de las 3,422 provincias se calcula en otro hilo cada mes.
+bd7d15	D	La actividad económica de las provincias se calcula en el hilo principal.
+d215c8	D	No disponible en este navegador: se calcula en el hilo principal.
+bae4c1	D	⚙️ Economía del mundo en segundo plano: desactivada
+c323b4	D	⚙️ Economía del mundo en segundo plano: activada
+01640b	D	Lo que una empresa suma a la economía: sus ventas menos lo que compra a otras empresas (insumos). La suma del valor agregado de todas las empresas es el PIB.
+54f06b	D	Cada peso que una empresa gasta en proveedores y sueldos se vuelve a gastar en otros negocios; por eso su efecto total en la economía es mayor que sus propias ventas.
+220bd8	D	Red de empresas que se venden entre sí: si un cliente importante entra en crisis, sus proveedores lo sienten después, y así en cadena.
+d897af	D	cadena de suministro
+3daa84	D	Ser dueño de tu propio proveedor (o cliente): el insumo te sale más barato y no dependes de otros, pero concentras el riesgo.
+bb8333	D	integración vertical
+7b207a	D	inversión extranjera directa
+816d1b	D	Comprar o abrir empresas en otro país. Trae empleos y capital al país que la recibe; el inversionista asume sus crisis, sus impuestos y su moneda.
+ace599	D	inversión extranjera
+fab259	D	Cuántas veces su utilidad anual se paga por una empresa. Un comprador paga más múltiplo si la empresa crece, tiene buen margen y poca deuda.
+01c6b3	D	Aporte a la economía local
+e86110	D	🌐 Aporte a la economía local
+9ae8d3	D	🔗 Cadena de suministro
+5a973c	D	🏭 Salud de los sectores
+ba0b31	D	Salud de los sectores
+033f80	D	Vender la empresa
+3370d2	D	🤝 Vender la empresa
+63ff54	D	🌐 Economía conectada
+35bf06	D	Sana
+86df48	D	Muy alto
+b44405	D	Frágil
+fd0855	D	Moderado
+04161f	D	Crecimiento de las ventas
+5908a8	D	Sueldos frente al mercado
+8fb0ac	D	Carga de trabajo
+c16a01	D	Margen de utilidad
+fe1343	D	Deuda frente a ventas
+0b5c1a	D	Demanda de la provincia
+3c6663	D	Salud de sus empresas
+57396c	D	Pérdidas que amenazan empleos
+6d5a5a	D	Salud de su sector
+b6aa21	D	Endeudamiento
+cab686	D	Diversificación
+181407	D	Estabilidad política
+84fdb6	D	Sus deudores
+99a07b	D	Programa de austeridad
+a6275b	D	Capital frente a préstamos
+ac8b72	D	Alza de tasas
+d01aa6	D	Recuperación natural
+4a069d	D	Costo de la deuda frente al crecimiento
+824c69	D	Programa del FMI
+eb3bfb	D	Aprobación del gobierno
+3a99c4	D	Países en crisis bancaria
+45edda	D	Crecimiento mundial
+a42fbe	D	Felicidad de la población
+f1ab57	D	Países en recesión
+100dc0	D	Economía concentrada
+6a04c7	D	Ánimo de la afición
+8dddb5	D	Bancos débiles
+a16c6a	D	Ingresos frente a gastos
+b75288	D	Sectores frágiles
+bc6c8f	D	Contagio de vecinos
+bdd0f8	D	Crisis bancaria activa
+1282f9	D	Reservas que amortiguan
+24ffb7	D	Programas del FMI activos
+4ce7b0	D	Hogares en apuros
+53ba43	D	Deuda pública alta
+847b37	D	Gobierno
+a822ef	D	Todo en su nivel normal.
+e29d55	D	Aún no cierra su primer mes.
+d55063	D	Bancos
+f20262	D	Riesgo
+105504	D	Riesgo sistémico
+3a4bbf	D	Requerimiento de capital
+4828c7	D	Liquidez
+549599	D	Contagio financiero
+d60368	D	Solvencia
+ee35bc	D	Rescate bancario
+833d4b	D	Sectores distintos
+a2b510	D	Sector más débil
+42ad83	D	Salud social
+6b1098	D	Salud financiera
+c88199	D	Lo que la mueve este año (puntos por año):
+ac0e8f	D	Tasa de los bonos
+78f460	D	Salud fiscal
+6ad6fc	D	Sistema financiero mundial
+bb31d7	D	Programas del FMI
+02639e	D	Tu promotora
+12ae18	D	Tu gimnasio
+064aa8	T	Riesgo sistémico de {0}
+abd3d2	D	v21c país
+7e4ea7	D	v21c más
+040572	T	Trabaja en {0}
+635017	D	Trabaja en el gobierno
+1872e6	D	Busca empleo
+46f7dd	T	Busca empleo desde hace {0} meses
+deeb2b	D	Busca empleo desde hace 1 mes
+48cd53	D	Riesgo sistémico por país
+c121f9	D	🏭 El sector de una de tus empresas está débil: diversifica en otro giro y revisa su salud en 🩺.
+74ec80	D	El 15 de septiembre de 2008 quebró el banco de inversión Lehman Brothers. En 2009 la economía mundial se contrajo por primera vez desde la Segunda Guerra Mundial.
+4cbdf7	D	En la crisis de 1994–1995 («efecto tequila») el PIB de México cayó cerca de 6 % en 1995, y la crisis se contagió a otros mercados de América Latina.
+04ae42	D	La crisis asiática empezó el 2 de julio de 1997, cuando Tailandia dejó flotar su moneda. Se contagió a Indonesia, Corea del Sur y Malasia, y el PIB de Indonesia cayó más de 13 % en 1998.
+d7ae94	D	Tras la crisis de 2008, el desempleo de Estados Unidos llegó a 10 % en octubre de 2009.
+55a2d3	D	Las reglas de Basilea III piden a los bancos un capital de alta calidad de al menos 7 % de sus activos ponderados por riesgo (4.5 % mínimo más 2.5 % de colchón).
+fb747d	D	Banco de Pagos Internacionales
+668c82	D	En Estados Unidos el seguro de depósitos cubre hasta 250,000 dólares por persona en cada banco. En México el IPAB cubre hasta 400,000 UDIS.
+8d4ec0	D	Un banco es «sistémico» cuando su quiebra arrastraría a todo el sistema financiero. Por eso a los más grandes del mundo se les exige más capital.
+a8c2e4	D	Consejo de Estabilidad Financiera
+50bad6	D	Aquí ves qué tan sanas están tus empresas, los bancos, el gobierno y el mundo. Si un sector cae, arrastra a sus proveedores, a los bancos que le prestaron y a quienes trabajan en él: así se contagia una crisis.
+65b36c	D	Riesgo de que la caída de una empresa, un banco o un sector arrastre a todo el sistema económico, porque todos están conectados por créditos, ventas y empleos.
+ce810c	D	riesgo sistémico
+467500	D	Cuando la crisis de un país, un banco o un sector se transmite a otros: por deudas que no se pagan, pánico de los inversionistas o menos comercio.
+288d08	D	Cuando el gobierno (o el FMI) pone dinero para salvar a bancos en problemas y evitar que el crédito se congele. Lo pagan los contribuyentes.
+98807d	D	Capacidad de pagar todas tus deudas con lo que tienes. Una empresa o banco es insolvente cuando debe más de lo que vale.
+fbaa3c	D	Dinero disponible para pagar ya. Una empresa puede ser rentable y aun así quebrar si se queda sin efectivo para pagar sueldos y proveedores.
+01763d	D	Parte de sus activos que un banco debe tener con dinero propio (no prestado) para absorber pérdidas sin quebrar.
+b94031	D	requerimiento de capital
+c77844	D	Personas que quieren trabajar y buscan empleo pero no lo tienen. Sube cuando los sectores donde trabajan entran en crisis.
+0af73f	D	🧨 Riesgo sistémico
+6272fb	D	🩺 Salud de la economía y contagio
+2f63ab	D	casas y viviendas humildes
+3882bc	D	edificios de departamentos y casas
+54f68f	D	rascacielos y avenidas
+36f30f	D	, río
+65ed47	D	☀️ Día
+3a732c	D	/* --- seguridad de pantalla (viewport-fit=cover) --- */\n.app{padding-left:max(10px,env(safe-area-inset-left));padding-right:max(10px,env(safe-area-inset-right))}\nbody.land .app{padding-left:max(10px,env(safe-area-inset-left));padding-right:max(10px,env(safe-area-inset-right))}\n.bottom{padding-left:max(10px,env(safe-area-inset-left));padding-right:max(10px,env(safe-area-inset-right))}\n/* --- 2) toque mínimo de 44 px (sin cambiar el aspecto del tema Actual) --- */\n.mini-actions .btn,.abx .btn,.plfx .btn{min-height:44px;touch-action:manipulation}\n.btn,.item,.nav,#ageBtn{touch-action:manipulation}\n.item{min-height:44px}\n/* --- 3) burbujas de acciones --- */\n.mini-actions.abub{position:relative;display:block;height:44px;margin-top:8px}\n.abt{position:absolute;left:0;top:0;z-index:2;display:inline-flex;align-items:center;gap:5px;height:44px;min-width:44px;padding:0 12px;border-radius:22px;border:1px solid var(--gold);background:var(--card2);color:var(--gold);font-weight:800;font-size:15px;cursor:pointer;user-select:none;-webkit-user-select:none;touch-action:manipulation;box-shadow:0 3px 10px rgba(0,0,0,.28);transition:transform .16s cubic-bezier(.2,.8,.2,1),background .16s}\n.abt:active{transform:scale(.94)}\n.abt .abn{font-size:11.5px;font-weight:800;min-width:18px;height:18px;line-height:18px;text-align:center;border-radius:9px;background:var(--gold);color:#1a1405;padding:0 4px}\n.abt .abc{display:inline-block;font-size:13px;line-height:1;transition:transform .2s cubic-bezier(.2,.8,.2,1)}\n.abub.open .abt{background:var(--gold);color:#1a1405}.abub.open .abt .abn{background:#1a1405;color:var(--gold)}\n.abx{position:absolute;left:var(--abw,64px);right:0;top:0;height:44px;display:flex;flex-wrap:nowrap;align-items:center;gap:6px;padding:0 10px 0 6px;overflow-x:auto;overflow-y:hidden;scroll-behavior:smooth;scroll-snap-type:x proximity;overscroll-behavior-x:contain;-webkit-overflow-scrolling:touch;scrollbar-width:none;\n opacity:0;transform:translateX(-14px);clip-path:inset(0 100% 0 0);visibility:hidden;pointer-events:none;transition:opacity .18s ease,transform .22s cubic-bezier(.2,.8,.2,1),clip-path .24s cubic-bezier(.2,.8,.2,1),visibility 0s linear .24s;\n -webkit-mask-image:linear-gradient(90deg,#000 calc(100% - 22px),transparent);mask-image:linear-gradient(90deg,#000 calc(100% - 22px),transparent)}\n.abx::-webkit-scrollbar{display:none}\n.abx>.btn,.abx>button{flex:0 0 auto;scroll-snap-align:start;white-space:nowrap}\n.abub.open .abx{opacity:1;transform:none;clip-path:inset(0 0 0 0);visibility:visible;pointer-events:auto;transition-delay:0s}\n/* --- 4) ficha de provincia/ciudad --- */\n#selInfo.sil{background:var(--card2);border:1px solid var(--line);border-radius:14px;padding:10px 12px;box-shadow:0 6px 18px rgba(0,0,0,.26)}\n#selInfo .sih{display:flex;align-items:center;gap:9px;margin-bottom:8px}\n#selInfo .sitl{display:none}\n#selInfo .sif{height:22px;width:auto;flex:none;border-radius:3px}\n#selInfo .sit{flex:1;min-width:0;line-height:1.25;font-size:12px;color:var(--mut)}\n#selInfo .sit .sin{display:block;font-size:17px;font-weight:800;color:var(--ink);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}\n#selInfo .sik{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 8px}\n#selInfo .sic{display:inline-flex;align-items:center;gap:5px;padding:5px 10px;border-radius:999px;background:var(--card);border:1px solid var(--line);font-size:13px;color:var(--ink)}\n#selInfo .sic b{font-weight:800}\n#selInfo.sil .mem{font-size:12px}\n#selInfo .plfx{display:flex;gap:6px;margin:0 0 8px}\n#selInfo .plfx .btn{flex:1 1 0;min-width:0}\n#selInfo .plfx .btn.gold{flex:2 1 0}\n.mpop{border-radius:16px}\n@media (prefers-reduced-motion:reduce){.abt,.abx,.abt .abc{transition:none!important}}\n/* --- 1) vista horizontal con riel (iPhone en horizontal) --- */\nhtml.rail{--navh:0px!important}\nhtml.rail body.land .bottom{left:0;right:auto;top:0;bottom:0;width:calc(86px + env(safe-area-inset-left));padding:calc(6px + env(safe-area-inset-top)) 6px calc(6px + env(safe-area-inset-bottom)) calc(6px + env(safe-area-inset-left));background:var(--bg);border-right:1px solid var(--line);box-shadow:none}\nhtml.rail body.land .bottom .in{max-width:none!important;height:100%;grid-template-columns:1fr!important;grid-auto-rows:minmax(44px,1fr);gap:5px;align-items:stretch;justify-content:stretch}\nhtml.rail body.land #ageBtn{grid-column:auto;padding:6px 2px;font-size:13px;border-radius:14px;box-shadow:none}\nhtml.rail body.land .nav{flex-direction:column;justify-content:center;gap:1px;padding:3px 2px;font-size:11px;min-height:44px;line-height:1.1}\nhtml.rail body.land .nav .ic{font-size:17px}\nhtml.rail body.land .app{grid-template-columns:minmax(0,1fr) minmax(300px,38vw);padding:calc(8px + env(safe-area-inset-top)) max(10px,env(safe-area-inset-right)) calc(10px + env(safe-area-inset-bottom)) calc(96px + env(safe-area-inset-left))}\nhtml.rail body.land:not(.mapfull) .app>.mapcard{display:contents}\nhtml.rail body.land:not(.mapfull) .app>.mapcard #mapWrap{grid-column:1;grid-row:1/span 30;position:sticky;top:calc(8px + env(safe-area-inset-top));align-self:start;flex:none;height:calc(100vh - 16px - env(safe-area-inset-top) - env(safe-area-inset-bottom))!important;height:calc(100dvh - 16px - env(safe-area-inset-top) - env(safe-area-inset-bottom))!important;border:1px solid var(--line)}\nhtml.rail body.land:not(.mapfull) #cmdBar,html.rail body.land:not(.mapfull) #selInfo{grid-column:2;margin:0 0 10px}\nhtml.rail body.land:not(.mapfull) #selInfo{max-height:none;overflow:visible}\nhtml.rail body.mapfull #mapWrap{left:calc(86px + env(safe-area-inset-left));bottom:0}\nhtml.rail body.mapfull #selInfo{left:calc(96px + env(safe-area-inset-left));right:calc(8px + env(safe-area-inset-right));bottom:calc(8px + env(safe-area-inset-bottom));max-width:48vw;max-height:46vh;max-height:46dvh}\nhtml.rail .ff{right:calc(12px + env(safe-area-inset-right));bottom:calc(10px + env(safe-area-inset-bottom))}\nhtml.rail #mnx{left:calc(96px + env(safe-area-inset-left));bottom:calc(10px + env(safe-area-inset-bottom))}\nhtml.rail body.land .sheet{top:calc(6px + env(safe-area-inset-top));bottom:0;max-height:none!important;padding-right:calc(12px + env(safe-area-inset-right));padding-bottom:calc(14px + env(safe-area-inset-bottom))}\nhtml.rail body.land .modal{left:calc(50% + 43px);max-height:calc(100vh - 16px)!important;max-height:calc(100dvh - 16px)!important;top:50%!important;width:min(calc(100vw - 120px),460px)}\n/* --- estilo pixel (html[data-px=p2]) --- */\nhtml[data-px=p2] :is(.mini-actions,.abx,.plfx) .btn{min-height:44px;padding:0 14px;font-family:var(--pxf);font-size:12.5px;letter-spacing:.02em;font-weight:700;background-color:var(--card2);box-shadow:inset 2px 2px 0 var(--px-hi),inset 0 -3px 0 var(--px-lo)!important}\nhtml[data-px=p2] :is(.mini-actions,.abx,.plfx) .btn.gold{background:var(--gold);color:#1a1405;border-color:color-mix(in srgb,var(--gold) 45%,#000)!important;box-shadow:inset 2px 2px 0 rgba(255,255,255,.45),inset 0 -3px 0 rgba(0,0,0,.35)!important}\nhtml[data-px=p2] :is(.mini-actions,.abx,.plfx) .btn.red{border-color:var(--red)!important}\nhtml[data-px=p2] :is(.mini-actions,.abx,.plfx) .btn:disabled{opacity:.45;filter:saturate(.4)}\nhtml[data-px=p2] .abt{border:2px solid var(--px-edge);clip-path:var(--px-cut);border-radius:0;box-shadow:inset 2px 2px 0 var(--px-hi),inset 0 -3px 0 var(--px-lo);font-family:var(--pxf);transition:transform 60ms steps(2,end)}\nhtml[data-px=p2] .abt:active{transform:translateY(2px);filter:brightness(.92)}\nhtml[data-px=p2] .abx{clip-path:inset(0 100% 0 0)}html[data-px=p2] .abub.open .abx{clip-path:inset(0 0 0 0)}\nhtml[data-px=p2] #selInfo.sil{border:2px solid var(--px-edge);border-radius:0;background-color:var(--card2);box-shadow:inset 2px 2px 0 var(--px-hi),inset -2px -2px 0 var(--px-lo),0 3px 0 var(--px-slab,rgba(0,0,0,.4))}\nhtml[data-px=p2] #selInfo .sic{border:2px solid var(--px-edge);border-radius:0;font-family:var(--pxn);font-size:12px;background:var(--card);box-shadow:inset 2px 2px 0 var(--px-hi),inset -2px -2px 0 var(--px-lo)}\nhtml[data-px=p2] #selInfo .sit .sin{font-family:var(--pxf);font-size:15px;letter-spacing:.02em}\nhtml[data-px=p2] #selInfo .sih{border-bottom:2px solid var(--px-edge);padding-bottom:8px;margin-bottom:8px}\nhtml[data-px=p2] #selInfo .sif{border-radius:0;image-rendering:pixelated}\n/* losa isométrica (la misma que el barrio de la prueba 3): cara de césped, canto de tierra y remate de tejado */\nhtml[data-px=p2] #selInfo .sitl{display:block;position:relative;flex:none;width:30px;height:20px}\nhtml[data-px=p2] #selInfo .sitl::before,html[data-px=p2] #selInfo .sitl::after{content:'';position:absolute;left:0;width:30px;height:16px;clip-path:polygon(50% 0,100% 50%,50% 100%,0 50%)}\nhtml[data-px=p2] #selInfo .sitl::before{top:4px;background:var(--c-roof,#a8473b)}\nhtml[data-px=p2] #selInfo .sitl::after{top:0;background:linear-gradient(135deg,var(--c-grass,#5f9a3e) 0 50%,var(--c-grass2,#548b37) 50%)}\nhtml[data-px=p2] .mpop{box-shadow:inset 2px 2px 0 var(--px-hi),inset -2px -2px 0 var(--px-lo),0 3px 0 var(--px-slab,rgba(0,0,0,.4))!important}\nhtml[data-px=p2] .mpop::after{display:none}\nhtml[data-px=p2].rail body.land .bottom,html[data-px=p2].rail body.land .bottom .in{background-image:none}\nhtml[data-px=p2] .mpa button:first-child{box-shadow:inset 0 0 0 2px var(--gold),inset -2px -4px 0 var(--px-lo)!important}
+2b9ece	D	Enter
+32c536	D	Río grande
+57e681	D	Industria y ciudades
+966987	D	Tierra convertida en cultivos
+c86b99	D	Desarrollo y regulación ambiental
+ca4813	D	Población por km²
+0a4d47	D	Agua del resto del país
+1eb141	D	Lluvia y clima
+69b7e0	D	Ocupación militar
+d8cb2a	D	Sequía este año
+de4b55	D	Sequía en la provincia
+327a63	D	Crecimiento de la población
+b79a11	D	Presas, pozos y redes de agua
+ed1999	D	Tierra cultivable por persona
+f91ad3	D	Capacidad de importar alimentos
+26f86e	D	Precio mundial de los granos
+56bd80	D	Cosechas de la provincia
+0d2145	D	Alimentos importados y su precio
+510f15	D	Sequía (contra un año normal)
+67e676	D	Energía importada y su precio
+cea13f	D	Menos agua por persona
+4b7975	D	Qué tan conservada está la naturaleza: baja con la población, la industria, los cultivos, la guerra y la sequía.
+b196fa	D	Salud del ecosistema
+2d3200	D	Con menos de 1,700 m³ por persona al año hay estrés hídrico; con menos de 1,000, escasez.
+4fb591	D	Agua dulce
+f09aaa	D	Seguridad alimentaria
+5da13c	D	de la superficie
+5e971d	D	Tierra cultivable
+85d589	D	Agua por persona
+8fbe58	D	Riesgo de sequía
+c49c23	D	por año
+197242	D	Ecosistema
+e624ee	D	Agua
+3ef09e	D	Bioma
+7d313f	D	Gran región natural con un clima, una vegetación y una fauna parecidos: selva, sabana, desierto, taiga…
+ee3a7a	D	Define cuánta lluvia escurre, cuánta tierra se puede cultivar y qué tan seguido hay sequías.
+859a20	D	Con poca agua por persona, la sequía pega más fuerte a las cosechas, los servicios públicos y la felicidad.
+ad3776	D	El agua de lluvia que escurre por ríos y se filtra a los acuíferos cada año, más la que traen los ríos de aguas arriba.
+cfffcd	D	Agua dulce renovable
+20e90d	D	Un país que importa mucha comida sufre cuando los granos se encarecen en el mundo.
+4784a0	D	Que la población tenga suficientes alimentos: produciéndolos o pudiendo comprarlos fuera.
+650adf	D	Agua renovable
+851d27	D	Autosuficiencia alimentaria
+9e6e0b	D	de la población
+e3252b	D	Provincias con sequía
+3ce609	D	Promedio de sus provincias según su superficie.
+7e2b92	D	Umbral de Falkenmark: menos de 1,700 m³ por persona al año es estrés hídrico; menos de 1,000, escasez; menos de 500, escasez absoluta.
+77a1de	D	v23a país
+bc1dbe	D	Estrés hídrico
+619ecb	D	Naturaleza y recursos
+01fe0f	D	Gran región natural con clima, plantas y animales parecidos: selva, sabana, desierto, estepa, bosque, taiga, tundra o montaña.
+8ba1b0	D	Agua dulce que la lluvia repone cada año en ríos y acuíferos. Se mide en metros cúbicos por persona al año.
+edc5e7	D	Cuando hay menos de 1,700 m³ de agua renovable por persona al año. Bajo 1,000 es escasez y bajo 500, escasez absoluta (umbral de Falkenmark).
+eeccd8	D	estrés hídrico
+cc7f99	D	Parte del territorio que se puede sembrar. Depende del clima, del relieve y del agua, y crece con el riego.
+a601f6	D	Que toda la población tenga alimentos suficientes, ya sea porque los produce o porque puede comprarlos a otros países.
+0fdc9f	D	Un año con mucha menos lluvia de lo normal. Reduce las cosechas y el agua disponible, y pega más a los países que dependen del campo.
+f05314	D	Sequía
+8d6cae	D	🌿 Salud del ecosistema
+51ca89	D	🌿 Naturaleza y recursos
+d8a207	D	Un país con menos de 1,700 m³ de agua renovable por persona al año vive estrés hídrico. Bajo 1,000 m³ hay escasez y bajo 500, escasez absoluta.
+dbe190	D	Solo cerca del 11 % de la superficie terrestre del planeta es tierra cultivable.
+4cb456	D	En 2022, varios países prohibieron exportar alimentos tras la invasión de Ucrania, uno de los mayores exportadores de trigo y maíz del mundo.
+9ba038	D	Presa que corta el río
+cf6aa2	D	Proyectos de agua (desalinización, presas, riego)
+790b54	D	Salud del ecosistema (ríos en azul)
+65fa72	D	Planta
+7389b3	D	Animal
+dab812	T	{0} de {1} están en riesgo: la causa es lo que más le resta al ecosistema entre sus amenazas.
+f888fa	D	Ninguna está en riesgo por ahora.
+947cea	D	Solo puedes construir en provincias de tu país.
+31475a	D	tu gobierno
+c08f3c	D	el gobierno
+08cfe9	D	Riego
+4440c2	D	Desalinización
+ecde02	D	Especie en riesgo
+1c01c8	D	v23b país
+23eb3c	D	Quitar la sal al agua de mar para volverla potable. Da agua aunque no llueva, pero gasta mucha energía y deja salmuera que daña la costa.
+795688	D	Llevar agua a los cultivos con canales, pozos o goteo. Permite sembrar donde llueve poco y cosechar más, pero usa gran parte del agua dulce.
+37e3fb	D	especies en riesgo
+807a23	D	en peligro
+86730f	D	especie en riesgo
+ebcde6	D	Planta o animal cuya población baja tanto que podría desaparecer de un lugar. La causa más común es la pérdida de su hábitat.
+759c52	D	Flora y fauna
+aacf0f	D	🦋 Flora y fauna
+eae466	D	🏗️ Proyectos de agua y alimentos
+efc332	D	Proyectos de agua y alimentos
+81d1e7	D	Autoridad del Agua de Israel
+c54050	D	Israel obtiene cerca de 70 % de su agua potable de plantas desalinizadoras en la costa del Mediterráneo.
+4b8581	D	Los Países Bajos son el segundo exportador de alimentos del mundo por valor, gracias en buena parte a sus invernaderos.
+b3342d	D	FAO; Universidad de Wageningen
+24513c	D	Cerca de un millón de especies de plantas y animales están en peligro de extinción, sobre todo por la pérdida de su hábitat.
+0dc2a0	D	Plantas de tratamiento de aguas
+6e327f	D	Contaminación de empresas (fábricas, minas, pozos)
+3e6f2e	D	Reforestación y áreas protegidas
+091b73	D	Empresa de bolsa
+b003ec	D	Tu empresa
+c88f37	D	Extracción
+335fa9	D	Investigar
+7b8266	D	Contaminación industrial
+f02e61	D	v23c país
+488a86	D	área protegida
+559cad	D	áreas protegidas
+6dc117	D	Zona donde la ley limita la caza, la tala, la construcción y la agricultura para conservar la naturaleza. Protege especies y cuencas de agua y atrae turismo.
+6c43ff	D	Volver a plantar árboles donde hubo bosque. El bosque retiene la lluvia, recarga los acuíferos y devuelve el hábitat a muchas especies; tarda años en dar efecto.
+517784	D	Desechos que fábricas, minas y pozos petroleros echan al aire, al agua y al suelo. Las plantas de tratamiento limpian parte del agua antes de devolverla a los ríos.
+c4450e	D	contaminación industrial
+653009	D	🏭 Contaminación de empresas
+ba97ca	D	Contaminación de empresas
+47818f	D	🌳 Conservación
+fd5d4d	D	Conservación
+5208dc	D	SINAC; FAO, Evaluación de los Recursos Forestales
+7acc17	D	Costa Rica pasó de cerca de 21 % de su territorio con bosque en 1987 a más de 50 % hoy, con pagos a los dueños de tierras por conservarlo.
+4a6c3c	D	Las áreas protegidas cubren cerca de 17 % de la tierra firme del mundo.
+a04a4e	D	UNEP-WCMC y UICN, Protected Planet Report 2020
+58afc8	D	Capas del mapa
+862604	T	Máximo {0} activos.
+7056f6	D	/* ---------- 1) pestañas: una fila, trazo en la activa ---------- */\nbody :is(.ntabs,.mkt,.nwt){position:relative;display:flex;flex-wrap:nowrap;gap:0;margin:2px 0 10px;padding:0;overflow-x:auto;overflow-y:hidden;border:0;border-bottom:1px solid var(--line);border-radius:0;background:none;scrollbar-width:none;-webkit-overflow-scrolling:touch;overscroll-behavior-x:contain}\nbody :is(.ntabs,.mkt,.nwt)::-webkit-scrollbar{display:none}\nbody :is(.ntabs,.mkt,.nwt) button{position:relative;flex:1 0 auto;min-height:42px;margin:0;padding:0 12px;border:0!important;border-radius:0!important;background:none!important;box-shadow:none!important;color:var(--mut)!important;font-size:13px;font-weight:650;white-space:nowrap;transition:color .16s ease}\nbody :is(.ntabs,.mkt,.nwt) button::after{content:'';position:absolute;left:10px;right:10px;bottom:0;height:2px;border-radius:2px 2px 0 0;background:var(--act,var(--gold));opacity:0;transform:scaleX(.3);transition:transform .2s cubic-bezier(.2,.8,.2,1),opacity .16s ease;pointer-events:none}\nbody :is(.ntabs,.mkt,.nwt) button.on{color:var(--ink)!important}\nbody :is(.ntabs,.mkt,.nwt) button.on::after{opacity:1;transform:none}\nbody :is(.ntabs,.mkt,.nwt) button:not(.on):active{color:var(--ink)!important}\n/* subpestañas: pequeñas y ligeras */\nbody .chips:not(.ivs){position:relative;gap:5px;margin:2px 0 8px;padding:1px 0 3px;flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none}\nbody .chips:not(.ivs) button{min-height:34px;padding:0 10px;border:1px solid var(--line);background:transparent;border-radius:999px;font-size:12px;font-weight:600;color:var(--mut)}\nbody .chips:not(.ivs) button.on{color:var(--ink);border-color:var(--act,var(--gold));background:color-mix(in srgb,var(--act,#f2c14e) 13%,transparent)}\nbody .tfs{position:relative;flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;gap:3px}\nbody .tfs::-webkit-scrollbar,body .chips::-webkit-scrollbar{display:none}\nbody .tfs button{flex:none;min-height:32px;padding:0 9px;border-color:transparent;background:transparent;font-size:11.5px;color:var(--mut)}\nbody .tfs button.on{color:var(--ink);border-color:transparent;box-shadow:inset 0 -2px 0 var(--act,var(--gold))}\n/* opciones (.seg) y Personaje/País (.vtabs): grupo con tinte leve, sin relleno pesado */\nbody :is(.seg,.vtabs){gap:2px;padding:2px;border:1px solid var(--line);border-radius:11px;background:var(--card2)}\nbody :is(.seg,.vtabs) button{min-height:40px;border:0!important;border-radius:9px;background:transparent!important;color:var(--mut)!important;box-shadow:none}\nbody :is(.seg,.vtabs) button.on{background:color-mix(in srgb,var(--act,#f2c14e) 17%,transparent)!important;color:var(--ink)!important;box-shadow:inset 0 -2px 0 var(--act,var(--gold))!important}\nbody .seg button.on.sell{background:color-mix(in srgb,var(--red,#f0565d) 18%,transparent)!important;box-shadow:inset 0 -2px 0 var(--red,#f0565d)!important}\nbody .seg button:disabled{opacity:.35}\n/* la fila que no cabe: desvanecido a la derecha mientras quede algo por ver */\nbody .v3ov:not(.v3ve){-webkit-mask-image:linear-gradient(90deg,#000 calc(100% - 22px),transparent);mask-image:linear-gradient(90deg,#000 calc(100% - 22px),transparent)}\n/* ⓘ de la pestaña: solo el botón, discreto */\n.ibrow{margin:-4px 0 4px;min-height:0}.ibrow>span:first-child{display:none!important}\n@media (prefers-reduced-motion:reduce){body :is(.ntabs,.mkt,.nwt) button::after{transition:none}}\n/* pixel: trazo de 4 px (ventana encendida), sin bisel en las pestañas */\nhtml[data-px=p2] body :is(.ntabs,.mkt,.nwt){border-bottom:2px solid var(--px-edge)}\nhtml[data-px=p2] body :is(.ntabs,.mkt,.nwt) button{border:0!important;clip-path:none;box-shadow:none!important;background:none!important;min-height:42px;padding:0 10px;font-family:var(--pxf);font-size:12px}\nhtml[data-px=p2] body :is(.ntabs,.mkt,.nwt) button::after{display:none}\nhtml[data-px=p2] body :is(.ntabs,.mkt,.nwt) button.on{color:var(--ink)!important;box-shadow:inset 0 -4px 0 var(--c-lit,var(--gold))!important}\nhtml[data-px=p2] body :is(.ntabs,.mkt,.nwt) button:not(:disabled):active{transform:translateY(1px)!important;filter:none}\nhtml[data-px=p2] body .chips:not(.ivs) button{min-height:36px;padding:0 8px;background:transparent;box-shadow:none!important}\nhtml[data-px=p2] body .chips:not(.ivs) button.on{background:color-mix(in srgb,var(--c-lit,#ffd166) 14%,transparent);box-shadow:inset 0 -4px 0 var(--c-lit,var(--gold))!important}\nhtml[data-px=p2] body :is(.seg,.vtabs){border:2px solid var(--px-edge);border-radius:0;padding:2px}\nhtml[data-px=p2] body :is(.seg,.vtabs) button{clip-path:none;border:0!important;border-radius:0;min-height:40px;box-shadow:none!important}\nhtml[data-px=p2] body :is(.seg,.vtabs) button.on{box-shadow:inset 0 -4px 0 var(--c-lit,var(--gold))!important}\nhtml[data-px=p2] body .seg button.on.sell{box-shadow:inset 0 -4px 0 var(--red,#f0565d)!important}\nhtml[data-px=p2] body .tfs button{clip-path:none;box-shadow:none!important;border:0!important;min-height:32px}\nhtml[data-px=p2] body .tfs button.on{box-shadow:inset 0 -4px 0 var(--c-lit,var(--gold))!important}\n\n/* ---------- 2) riel izquierdo en horizontal: flotante, angosto y plegable ---------- */\n#v3rt{display:none}\nhtml.v3m{--v3l:calc(80px + env(safe-area-inset-left));--v3zl:var(--v3l);--v3pl:var(--v3l)}\nhtml.v3m.v3rc{--v3l:calc(8px + env(safe-area-inset-left));--v3zl:calc(70px + env(safe-area-inset-left));--v3pl:calc(70px + env(safe-area-inset-left))}\nhtml.v3m body.land .bottom{top:var(--v3t);bottom:auto;left:calc(6px + env(safe-area-inset-left));right:auto;width:66px;height:auto;max-height:calc(100% - var(--v3t) - var(--v3bt));padding:5px!important;\n border:1px solid var(--line2,#2b3a4e)!important;border-radius:20px;background:rgba(10,14,20,.56)!important;box-shadow:0 6px 18px rgba(0,0,0,.28);overflow-x:hidden;overflow-y:auto;scrollbar-width:none;overscroll-behavior:contain;\n transition:top .22s cubic-bezier(.2,.8,.2,1),width .2s cubic-bezier(.2,.8,.2,1),border-radius .2s ease}\n@supports (background:color-mix(in srgb,red 50%,transparent)){html.v3m body.land .bottom{background:color-mix(in srgb,var(--bg) 58%,transparent)!important}}\nhtml.v3m body.land .bottom::-webkit-scrollbar{display:none}\nhtml.v3m body.land .bottom>.in{display:flex!important;flex-direction:column;align-items:stretch;gap:3px;height:auto;max-width:none!important}\nhtml.v3m #v3rt{position:relative;display:flex;align-items:center;justify-content:center;flex:none;height:34px;border-radius:12px;color:var(--mut);font-size:16px;font-weight:800;line-height:1;cursor:pointer;user-select:none;-webkit-user-select:none;-webkit-tap-highlight-color:transparent;touch-action:manipulation;transition:color .15s,transform .15s}\nhtml.v3m #v3rt::after{content:'';position:absolute;inset:-5px -5px 0}\nhtml.v3m #v3rt:active{transform:scale(.92);color:var(--ink)}\nhtml.v3m body.land .bottom .nav{position:relative;flex:none;width:100%;min-height:46px;padding:4px 0 3px!important;gap:2px;border:0!important;border-radius:12px;background:transparent!important;box-shadow:none!important;clip-path:none;\n font-size:9.5px;font-weight:700;letter-spacing:.01em;line-height:1.1;color:var(--ink2,var(--ink));white-space:nowrap;overflow:hidden;text-overflow:clip;animation:v3ein .18s cubic-bezier(.2,.8,.2,1)}\nhtml.v3m body.land .bottom .nav .ic{font-size:20px;line-height:1;opacity:.95}\nhtml.v3m body.land .bottom .nav .ic svg{width:21px;height:21px}\nhtml.v3m body.land .bottom .nav:active{background:rgba(255,255,255,.08)!important;transform:scale(.95)}\nhtml.v3m body.land .bottom .nav.on{box-shadow:inset 3px 0 0 var(--act,var(--gold))!important;color:var(--ink)}\nhtml.v3m body.land .bottom .nav .badge{position:absolute;top:3px;right:5px;min-width:15px;height:15px;line-height:15px;padding:0 3px;border-radius:8px;background:var(--gold);color:#1a1405;font-size:9.5px;font-weight:800}\nhtml.v3m body.land .bottom .nav .badge:empty{display:none}\nhtml.v3m body.land #ageBtn{flex:none;width:100%;min-height:52px;margin:1px 0;padding:4px 2px;border-radius:15px;font-size:11px!important;font-weight:800;line-height:1.1;white-space:normal;letter-spacing:-.01em;overflow-wrap:anywhere;box-shadow:0 3px 10px rgba(0,0,0,.3)}\n@keyframes v3ein{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}\n/* plegado: una burbuja con ☰ y el botón dorado, debajo de la burbuja Personaje */\nhtml.v3m.v3rc body.land .bottom{top:calc(var(--v3t) + 50px);width:58px;padding:4px!important;border-radius:29px}\nhtml.v3m.v3rc body.land .bottom .nav{display:none}\nhtml.v3m.v3rc #v3rt{height:30px}\nhtml.v3m.v3rc body.land #ageBtn{min-height:48px;border-radius:24px;font-size:10.5px!important}\n/* lo que se apoya en el riel */\nhtml.v3m body.land .app{left:var(--v3pl)}\nhtml.v3m #mapWrap .zoom{left:var(--v3zl)}\nhtml.v3m #mapWrap .mleg{left:calc(var(--v3zl) + 52px)}\nhtml.v3m #mapWrap .zoom,html.v3m #mapWrap .mleg,html.v3m #v3top{transition:left .2s cubic-bezier(.2,.8,.2,1)}\nhtml.v3m #mapWrap .mmodes>button.on{border-color:var(--act,var(--gold));box-shadow:inset 0 -2px 0 var(--act,var(--gold))}\n/* pixel */\nhtml[data-px=p2].v3m body.land .bottom{border:2px solid var(--px-edge)!important;border-radius:0;box-shadow:inset 2px 2px 0 var(--px-hi),inset -2px -2px 0 var(--px-lo),0 3px 0 var(--px-slab,rgba(0,0,0,.4))}\nhtml[data-px=p2].v3m body.land .bottom .nav{font-size:8px;border-radius:0;background-image:none}\nhtml[data-px=p2].v3m body.land .bottom .nav.on{box-shadow:inset 4px 0 0 var(--c-lit,var(--gold))!important}\nhtml[data-px=p2].v3m body.land .bottom .nav .badge{border-radius:0;font-size:8px}\nhtml[data-px=p2].v3m body.land #ageBtn{font-size:8px!important;line-height:1.35;border-radius:0}\nhtml[data-px=p2].v3m #v3rt{border-radius:0;font-family:var(--pxf);font-size:12px}\nhtml[data-px=p2].v3m body.land .bottom,html[data-px=p2].v3m #mapWrap .zoom,html[data-px=p2].v3m #v3top{transition:none}\n\n/* ---------- 3) pantalla completa en horizontal: hojas compactas (la información importante sin desplazarse) ---------- */\nhtml.v3m body.land .sheet h3{margin:0 0 6px;font-size:16px;line-height:1.25}\nhtml.v3m body.land .sheet .item{padding-top:7px;padding-bottom:7px}\nhtml.v3m body.land .sheet .hint{font-size:12px}\nhtml.v3m body.land .sheet .card{margin-bottom:8px}\n@media (prefers-reduced-motion:reduce){html.v3m body.land .bottom,html.v3m body.land .bottom .nav,html.v3m #mapWrap .zoom,html.v3m #v3top{transition:none!important;animation:none!important}}
+256a5c	D	Abrir menú
+2739ab	D	Plegar menú
+216b3d	D	Suave
+d11840	D	Ágil
+6aaab3	D	Con inercia
+6baff9	D	Sin inercia
+f746cf	D	Flete de las importaciones
+c89d74	D	📦 Envío perdido este mes
+15e809	D	asignación automática
+3c86ab	D	Flota
+aa9a70	D	Rutas
+dd85ae	D	elegidas por ti
+35b09f	D	sube con la reputación
+75cfed	D	al mes (combustible, sueldos y renta)
+7f0d0c	D	Costo operativo
+4df5b8	D	restan reputación y caja
+72405c	D	Retrasos y pérdidas
+b80450	D	Envíos a tiempo
+f017a6	T	{0} de {1} este año
+3c276e	D	Transportistas
+66d405	D	Red de tu país
+0ec38f	D	sin importaciones en la red
+e7294a	D	Eficiencia de la red
+97fd61	D	Dependencia de importaciones
+df59a8	D	de lo que consume en recursos
+7b2233	D	Envíos
+310ee0	D	Flete
+94573b	D	Logística
+4a4620	D	v24a país
+00e497	D	este año
+c534c4	D	Carga al año
+623773	D	Envíos (tocar para mostrar)
+86eb30	D	Envíos (tocar para ocultar)
+1041a0	D	Todo lo que hace falta para que un bien llegue de donde se produce a donde se usa: transporte, almacenes, puertos, aduanas y la información que los coordina.
+c916db	D	Lo que cuesta transportar una carga. Se suma al precio de lo que se importa: por eso un mismo bien cuesta más lejos de donde se produce.
+3c0b44	D	Flota = sucursales × unidades (12 camiones, 2 buques o 1 avión por sucursal); cada sucursal cubre una ruta de la red (hasta 8). Con todas tus rutas cubiertas la demanda sube hasta +12 %; sin rutas baja 8 %. Cada mes cada ruta puede retrasarse (~3.5 %) o perder el envío (~0.5 %; más con baja reputación o guerra): un retraso resta 0.3 de reputación; una pérdida, 1.5 y el 3 % de las ventas del mes.
+682b2b	D	🚚 Logística de tu empresa
+72fe85	D	Logística de tu empresa
+a21619	D	Una empresa de transporte vende capacidad: camiones, buques o aviones que mueven carga de otros. Gana más cuando su flota va llena y sus envíos llegan a tiempo; los retrasos y las pérdidas cuestan clientes y seguros.
+151430	D	🚚 Logística
+b2284e	D	Cerca del 80 % del comercio mundial por volumen viaja en barco; el avión mueve poco peso pero mucho valor. El flete se suma al precio de todo lo que se importa.
+b5dfbe	D	Cada año los países que exportan un recurso abastecen a los que lo importan, y las provincias con cosechas de sobra a las que no se alimentan solas. El flete de las importaciones depende de la distancia, del modo, de la eficiencia de los transportistas contra la media del mundo y de la guerra; si sube, baja un poco la salud del Comercio minorista y de la Industria del país.
+c1e471	D	Cerca del 80 % del comercio mundial de mercancías, medido por volumen, viaja por mar.
+e3e451	D	El canal de Suez ahorra a un barco entre Asia y Europa unos 7,000 km frente a rodear África por el cabo de Buena Esperanza.
+e40836	D	Autoridad del Canal de Suez
+0c67e9	D	:root{--v4rim:rgba(255,255,255,.2);--v4gb:rgba(16,24,34,.62);--v4gr:radial-gradient(130% 120% at 28% 16%,rgba(255,255,255,.26),rgba(255,255,255,.07) 42%,rgba(0,0,0,.12) 100%);\n --v4sh:inset 0 1px 1px rgba(255,255,255,.34),inset 0 -4px 8px rgba(0,0,0,.22),0 5px 12px rgba(0,0,0,.32);--v4on:var(--act,var(--gold));--v4glow:rgba(242,193,78,.5)}\n@supports (background:color-mix(in srgb,red 50%,transparent)){:root{--v4gb:color-mix(in srgb,var(--glass,#0c121a) 62%,transparent);--v4glow:color-mix(in srgb,var(--act,#f2c14e) 50%,transparent)}}\n.v4i{width:1.2em;height:1.2em;vertical-align:-.22em;flex:none}\n/* ---------- gota de cristal líquido (luz arriba a la izquierda, brillo especular pequeño, sombra suave abajo) ---------- */\n.v4d,.v4cc,.v4m,#v4dr .v4dn,html.v3m body.land .bottom>.in>.nav,html.v3m body.land .shx button,html.v3m body.land :is(.sheet,.app) :is(.ntabs,.mkt,.nwt) button,html.v3m .abx>.btn:not(.gold),html.v3m .abt{\n position:relative;border:1px solid var(--v4rim)!important;background:var(--v4gr),var(--v4gb)!important;box-shadow:var(--v4sh)!important;color:var(--ink)}\n.v4d::before,.v4cc::before,html.v3m body.land .bottom>.in>.nav::before{content:'';position:absolute;left:19%;top:8%;width:30%;height:17%;border-radius:50%;background:radial-gradient(closest-side,rgba(255,255,255,.72),rgba(255,255,255,0));pointer-events:none}\nhtml:not(.v4lt) .v4d,html.v3m:not(.v4lt) body.land .bottom>.in>.nav{-webkit-backdrop-filter:blur(9px) saturate(1.5);backdrop-filter:blur(9px) saturate(1.5)}\n\n/* ---------- C) riel: gotas por categoría ---------- */\n.v4cat{display:none}\nhtml.v3m:not(.v3rc) body.land .bottom{width:72px;left:calc(4px + env(safe-area-inset-left));padding:4px!important;background:transparent!important;border-color:transparent!important;box-shadow:none!important}\nhtml.v3m body.land .bottom{z-index:22}\nhtml.v3m body.land .bottom>.in{gap:4px!important;align-items:center!important}\nhtml.v3m body.land .bottom>.in>*{order:8}\nhtml.v3m body.land .bottom>.in>#v3rt{order:0;align-self:stretch}\nhtml.v3m body.land .bottom>.in>.v4cat[data-c=tu]{order:1}html.v3m body.land .bottom>.in>#nAct{order:2}html.v3m body.land .bottom>.in>#nCar{order:3}\nhtml.v3m body.land .bottom>.in>.v4cat[data-c=mu]{order:4}html.v3m body.land .bottom>.in>#nNat{order:5}\nhtml.v3m body.land .bottom>.in>.v4cat[data-c=ju]{order:6}html.v3m body.land .bottom>.in>#nMore{order:7}html.v3m body.land .bottom>.in>#ageBtn{order:9}\nhtml.v3m:not(.v3rc) body.land .bottom>.in>.v4cat{display:block;align-self:stretch;margin:3px 0 -2px;font-size:8px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;text-align:center;color:var(--ink);opacity:.75;text-shadow:0 1px 3px rgba(0,0,0,.85);pointer-events:none;white-space:nowrap;overflow:hidden}\nhtml.v3m body.land .bottom>.in>.nav{width:56px!important;height:56px;min-height:56px!important;flex:none!important;padding:3px 2px 0!important;border-radius:50%!important;display:flex!important;flex-direction:column;align-items:center;justify-content:center;gap:1px!important;\n font-size:8.5px!important;line-height:1.05!important;overflow:visible!important;animation:none!important;transition:transform .24s cubic-bezier(.3,1.4,.5,1),box-shadow .2s ease,border-color .2s ease}\nhtml.v3m body.land .bottom>.in>.nav .ic{font-size:19px!important}\nhtml.v3m body.land .bottom>.in>.nav .badge{top:-3px!important;right:-4px!important}\nhtml.v3m body.land .bottom>.in>.nav:active{transform:scale(.92)}\nhtml.v3m body.land .bottom>.in>.nav.on{border-color:var(--v4on)!important;color:var(--ink)!important;transform:scale(1.08);z-index:1;\n box-shadow:0 0 0 1.5px var(--v4on),0 0 14px var(--v4glow),inset 0 1px 1px rgba(255,255,255,.42),0 5px 12px rgba(0,0,0,.32)!important}\nhtml.v3m:not(.v3rc) body.land .bottom>.in>#ageBtn{width:62px!important;margin-top:6px!important;box-shadow:inset 0 1px 1px rgba(255,255,255,.5),inset 0 -4px 8px rgba(0,0,0,.18),0 5px 12px rgba(0,0,0,.35)!important}\n/* submenús que brotan del botón tocado */\n#v4dr{position:fixed;z-index:23;display:flex;align-items:center;height:62px;pointer-events:none}\n#v4dr[hidden]{display:none}\n#v4dr .v4dn{flex:none;width:16px;height:24px;margin-right:-6px;border-radius:50%;opacity:0;transform:scale(.3);transition:opacity .16s ease,transform .26s cubic-bezier(.3,1.4,.5,1)}\n#v4dr .v4dt{display:flex;align-items:center;gap:6px;padding:5px 8px 5px 6px;border-radius:31px;overflow-x:auto;overflow-y:hidden;scrollbar-width:none;-webkit-overflow-scrolling:touch;overscroll-behavior-x:contain;touch-action:pan-x;pointer-events:auto;background:rgba(10,14,20,.25)}\n#v4dr .v4dt::-webkit-scrollbar{display:none}\n.v4d{flex:none;width:50px;height:50px;border-radius:50%!important;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:1px;padding:2px 3px 0;font-size:8.5px;font-weight:700;line-height:1.05;cursor:pointer;touch-action:manipulation;-webkit-tap-highlight-color:transparent;\n opacity:0;transform:translateX(calc(var(--n,0) * -56px)) scale(.35);transition:transform .34s cubic-bezier(.3,1.35,.5,1) calc(var(--n,0) * 28ms),opacity .18s ease calc(var(--n,0) * 28ms)}\n.v4d i{font-style:normal;font-size:18px;line-height:1}.v4d span{max-width:46px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}\n#v4dr.v4o .v4dn{opacity:1;transform:none}#v4dr.v4o .v4d{opacity:1;transform:none}\n.v4d:active{transform:scale(.92)!important}\n.v4d.on{border-color:var(--v4on)!important;box-shadow:0 0 0 1.5px var(--v4on),0 0 10px var(--v4glow),var(--v4sh)!important}\n.sect.v4gh{display:flex;align-items:center;gap:6px}.sect.v4gh.v4fl{animation:v4fl .9s ease}\n@keyframes v4fl{0%,100%{color:inherit}30%{color:var(--v4on)}}\n\n/* ---------- D) barra de submenús: cristal compacto, atrás con historial, métricas con su tiempo, filas que se arrastran ---------- */\nhtml.v3m body.land .shx{justify-content:flex-start;height:34px;gap:5px;margin:-4px 0 6px}\nhtml.v3m body.land .shx button{height:32px;padding:0 12px;border-radius:16px!important;font-size:12px;max-width:40%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}\nhtml.v3m body.land .shx .hm{margin-left:auto}html.v3m body.land .shx .v4ck{opacity:.8;font-size:11px;max-width:30%}\n.shx .bk,.shx .v4ck{max-width:44%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}\nhtml.v3m body.land :is(.sheet,.app) :is(.ntabs,.mkt,.nwt){gap:5px;border-bottom:0!important;padding:3px 2px 6px;margin:2px 0 4px}\nhtml.v3m body.land :is(.sheet,.app) :is(.ntabs,.mkt,.nwt) button{flex:0 0 auto!important;height:34px;min-height:34px!important;padding:0 13px!important;border-radius:17px!important;color:var(--mut)!important;font-size:12.5px}\nhtml.v3m body.land :is(.sheet,.app) :is(.ntabs,.mkt,.nwt) button::after{display:none}\nhtml.v3m body.land :is(.sheet,.app) :is(.ntabs,.mkt,.nwt) button.on{color:var(--ink)!important;border-color:var(--v4on)!important;box-shadow:0 0 0 1px var(--v4on),0 0 10px var(--v4glow),inset 0 1px 1px rgba(255,255,255,.36)!important}\nhtml.v3m .abt{border-color:var(--gold)!important;color:var(--gold)}\nhtml.v3m .abx{scroll-behavior:auto;scroll-snap-type:none}\nhtml.v3m .abx>.btn{border-radius:22px!important}\n.v4mt{display:flex;gap:6px;overflow-x:auto;overflow-y:hidden;scrollbar-width:none;margin:2px 0 8px;padding:2px 1px 5px;-webkit-overflow-scrolling:touch;overscroll-behavior-x:contain;touch-action:pan-x}\n.v4mt::-webkit-scrollbar{display:none}\n.v4m{flex:none;display:flex;flex-direction:column;min-width:86px;padding:5px 11px;border-radius:14px!important;line-height:1.2}\n.v4m small{font-size:10.5px;color:var(--mut);white-space:nowrap}.v4m b{font-size:14px;white-space:nowrap}.v4m em{font-style:normal;font-size:10px;color:var(--mut);white-space:nowrap}\n.v4m b.u{color:var(--teal,#3ccf8e)}.v4m b.d{color:var(--red,#f0565d)}\n.app #v4np{margin:0 0 8px}\n/* barra fina para desplazar una fila larga (se puede agarrar y arrastrar) */\n.v4th{position:relative;height:14px;margin:-9px 4px 2px;touch-action:none;cursor:grab;-webkit-tap-highlight-color:transparent}\n.v4th[hidden]{display:none}\n.v4th>i{position:absolute;left:0;top:5px;height:3px;min-width:24px;border-radius:3px;background:var(--mut,#7b8794);opacity:.4;transition:opacity .15s ease,height .15s ease,top .15s ease}\n.v4th:hover>i,.v4th.v4g>i{opacity:.85;height:5px;top:4px}\n\n/* ---------- A) ficha de ciudad y de provincia sin desplazarse (horizontal) ---------- */\n.v4cs[hidden]{display:none!important}\nhtml.v3m body.land #sheetIn.v4pl .plh{gap:8px}\nhtml.v3m body.land #sheetIn.v4pl .plh h3{font-size:17px;margin:0}\nhtml.v3m body.land #sheetIn.v4pl .plh .pln small{font-size:11.5px}\nhtml.v3m body.land #sheetIn.v4pl .plh>img{width:22px;height:auto}\nhtml.v3m body.land #sheetIn.v4pl .plx{padding:5px 9px;font-size:12px}\nhtml.v3m body.land #sheetIn.v4pl>.mpt{margin:3px 0 0;font-size:11px}\nhtml.v3m body.land #sheetIn.v4pl .pltabs{margin:4px 0 4px}\nhtml.v3m body.land #sheetIn.v4pl .plg{grid-template-columns:repeat(auto-fill,minmax(92px,1fr));gap:5px;margin:4px 0 6px}\nhtml.v3m body.land #sheetIn.v4pl .plt{padding:4px 8px}html.v3m body.land #sheetIn.v4pl .plt b{font-size:14px}\nhtml.v3m body.land #sheetIn.v4pl .plcy{padding:7px 9px;margin-bottom:6px}\nhtml.v3m body.land #sheetIn.v4pl .plcy h4{font-size:15px}\nhtml.v3m body.land #sheetIn.v4pl .plcy .plg{margin:5px 0 0}\nhtml.v3m body.land #sheetIn.v4pl .sect.v4as{display:none}\nhtml.v3m body.land #sheetIn.v4pl .v4ct{margin:2px 0 6px}\nhtml.v3m body.land #sheetIn.v4pl .pla.v4ab{position:sticky;bottom:0;z-index:5;margin:8px -4px 0;padding:6px 5px;border-radius:16px;grid-template-columns:repeat(auto-fit,minmax(70px,1fr));\n background:var(--glass,#0c121a);border:1px solid var(--line2,#2b3a4e);box-shadow:0 -6px 16px rgba(0,0,0,.28)}\nhtml.v3m body.land #sheetIn.v4pl .pla.v4ab button{min-height:50px;padding:5px 2px 4px}\n/* ---------- B) botón de envíos ---------- */\n.mmodes button.lgt{display:none!important}\n#selInfo .plfx .btn.v4lgb{flex:0 0 46px;min-width:46px;padding:0;display:flex;align-items:center;justify-content:center;font-size:17px}\n[data-v4lg].on{color:var(--teal,#3ccf8e)!important;border-color:var(--teal,#3ccf8e)!important}\n[data-v4lg]:not(.on){color:var(--mut)}\n/* ---------- E) burbuja del mapa por tipo de mapa ---------- */\n.mpop .v4mc{display:flex;gap:4px;margin:7px 0 3px}\n.v4cc{flex:1 1 0;min-width:0;height:32px;border-radius:16px!important;display:flex;align-items:center;justify-content:center;gap:4px;padding:0 6px;color:var(--mut);font-size:11px;font-weight:700;cursor:pointer;-webkit-tap-highlight-color:transparent;transition:flex-grow .2s ease}\n.v4cc i{font-style:normal;font-size:15px;line-height:1}.v4cc span{display:none}\n.v4cc.on{flex:2.6 1 0;color:var(--ink);border-color:var(--v4on)!important;box-shadow:0 0 0 1px var(--v4on),0 0 8px var(--v4glow),var(--v4sh)!important}\n.v4cc.on span{display:inline;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}\n.mpop .v4mm{display:flex;flex-wrap:wrap;gap:3px 10px;margin:4px 0 2px;font-size:12px}\n.v4mm b{font-weight:800}.v4mm small{color:var(--mut)}.v4mm em{font-style:normal;color:var(--mut);font-size:10.5px}\n.mpop .mpa.v4m6{grid-template-columns:repeat(3,1fr)}\n/* ---------- pixel y movimiento reducido ---------- */\nhtml[data-px=p2] :is(.v4d,.v4cc,.v4m,#v4dr .v4dn,#v4dr .v4dt),html[data-px=p2].v3m body.land .bottom>.in>.nav,html[data-px=p2].v3m body.land .shx button{border-radius:0!important;background:var(--card2)!important;border:2px solid var(--px-edge)!important;\n box-shadow:inset 2px 2px 0 var(--px-hi),inset -2px -2px 0 var(--px-lo)!important;-webkit-backdrop-filter:none!important;backdrop-filter:none!important}\nhtml[data-px=p2] :is(.v4d,.v4cc)::before,html[data-px=p2].v3m body.land .bottom>.in>.nav::before{display:none}\nhtml[data-px=p2].v3m body.land .bottom>.in>.nav.on,html[data-px=p2] :is(.v4d,.v4cc).on{box-shadow:inset 0 -4px 0 var(--c-lit,var(--gold)),inset 2px 2px 0 var(--px-hi)!important;transform:none}\nhtml[data-px=p2].v3m body.land :is(.sheet,.app) :is(.ntabs,.mkt,.nwt) button{border-radius:0!important;border:0!important;background:none!important;box-shadow:none!important}\nhtml[data-px=p2].v3m body.land :is(.sheet,.app) :is(.ntabs,.mkt,.nwt) button.on{box-shadow:inset 0 -4px 0 var(--c-lit,var(--gold))!important}\nhtml[data-px=p2] #v4dr .v4d,html[data-px=p2] #v4dr .v4dn{transition:opacity 80ms steps(2,end),transform 80ms steps(2,end)}\n@media (prefers-reduced-motion:reduce){.v4d,#v4dr .v4dn,.v4cc,html.v3m body.land .bottom>.in>.nav{transition:none!important}.sect.v4gh.v4fl{animation:none}}
+097afc	D	Envíos en el mapa: visibles (tocar para ocultar)
+774018	D	Envíos en el mapa: ocultos (tocar para mostrar)
+da98cd	T	Otras ciudades ({0})
+8749db	T	Clubes ({0})
+7a66fc	D	Volver a:
+bd281d	D	Volver dos pantallas:
+0a5fa7	D	por mes
+459b30	D	días este año
+602c3c	D	Cambio
+60180b	D	v24b país
+74b095	D	Tu vida
+c87aa1	D	Aprender
+de9aa2	D	Juego
+addfa4	D	Otros
+fb4187	D	v24b menú
+f828c6	D	Naturaleza
+ce4ec9	D	Ver tu país
+fc6296	D	Naturaleza de tu país
+a61197	D	Ocultar envíos
+ee796a	D	Ver envíos
+ed476b	D	Red logística
+399313	D	Actividad
+28f064	D	Empresas estatales
+5975f6	D	Carga aérea y petróleo
+9c0d3d	D	Solo quien gobierna construye en provincias de su país.
+5b4c58	T	Construyes ✈️ un aeropuerto en {0}: ahora es de nivel {1}.
+2d47a7	D	✈️ Red aérea
+b4de1f	D	Aeropuertos
+604b54	D	100 % = aeropuertos de partida
+a8cac3	D	Conectividad aérea
+d53e85	D	Rutas aéreas
+3bd28d	D	encarece o abarata el vuelo
+9db502	D	Flete aéreo (1,500 px)
+ef6375	D	Petróleo contra su tendencia
+5a4421	D	Tránsito a
+83f8d3	D	Ventas del año
+e0e325	D	Empleo
+03ed26	D	Presupuesto anual
+13040d	D	inversión y mantenimiento
+68ffc6	D	Al tesoro el año pasado
+d35fe9	D	Aporte al PIB
+883839	D	Privatización
+f5ef97	D	Cierre
+3f403f	D	Empresa estatal
+72ddfc	D	Ya tienes una de este giro.
+c41dc8	D	Gasto de los turistas
+efc70a	D	Llegadas al año
+3b0035	D	Peso en la economía
+9a65f3	D	Lugar en el mundo
+9b65d8	D	Gasto por visitante
+f41787	D	por llegadas
+b523f8	D	Efecto de las políticas
+dca9ab	D	campaña, visado, tasa, aeropuertos y áreas protegidas
+243251	D	📣 Campaña
+3afae2	D	sin campaña
+528aa8	D	💵 Tasa turística
+f66b83	D	🏞️ Áreas protegidas
+436eb1	D	Campaña turística
+b6a333	D	Visado
+8c58b2	D	Tasa turística
+8818e6	D	Turistas al año
+e5a0a1	D	v24c país
+12a0ba	D	Del PIB de
+827139	D	Su sector
+6e4c06	D	Empresas en la bolsa
+f8b117	D	Empresa cuyo dueño es el gobierno. Su ganancia entra al tesoro y su pérdida la paga el tesoro; puede venderse a privados (privatizar) o salir a la bolsa.
+9671a3	D	Privatizar
+d968e7	D	Vender una empresa del Estado a dueños privados. El gobierno recibe dinero una vez y deja de recibir (o de pagar) su resultado cada año.
+c76b37	D	Turismo internacional
+fa7584	D	Visitantes que llegan de otro país y gastan en hoteles, restaurantes, transporte y compras: para la economía es como una exportación.
+69b3bb	D	🏛️ Secretaría de inversiones
+6fef37	D	El tesoro pone el capital (0.03 %, 0.1 % o 0.3 % del PIB) y un presupuesto anual (0 %, 3 % o 6 % del capital; el 70 % se vuelve capital y mueve la eficiencia). Ventas = capital ÷ intensidad de capital del giro × demanda (salud del sector y prosperidad de la provincia) × √eficiencia. El resultado va al tesoro. Mueve la salud de su sector (centrado en la rentabilidad), el empleo y el PIB de su provincia (valor agregado × 0.5). Con 2 años de margen bajo −5 % entra en quiebra.
+de4490	D	Secretaría de inversiones
+dfc0bb	D	Muchos países tienen empresas del Estado en petróleo, electricidad, bancos de fomento o transporte. Pueden dar empleo y servicios estratégicos, pero si pierden dinero lo paga el tesoro.
+233acd	D	Secretaría de turismo
+80b21c	D	🏖️ Secretaría de turismo
+8be724	D	Llegadas = dato de 2019 (aprox.) × crecimiento del mundo × políticas × condiciones (guerra, sanciones, estabilidad). Se reparten por provincia según sus atractivos (ciudad, capital, costa, naturaleza, aeropuerto, área protegida). Tus hoteles, bares y joyerías venden según la intensidad turística de su provincia contra su país (0.8–1.3) y las políticas (0.85–1.2).
+b6cb25	D	En 2019 llegaron cerca de 1,460 millones de turistas internacionales en el mundo y gastaron alrededor de 1.5 billones de dólares (OMT). Francia, España y EE. UU. reciben más visitantes; EE. UU. es el que más ingresa.
+21cbe6	D	Aeropuertos base en capitales y ciudades de 1 millón o más (nivel 1–3) y los que construyas. Rutas por gravedad (población × ingreso ÷ distancia). Flete aéreo = 10 % + 4 % por distancia, × precio del petróleo contra su tendencia. Más conectividad que la de partida abarata lo importado en Comercio minorista y Lujo y atrae turistas.
+ada182	D	El avión mueve menos del 1 % del peso del comercio mundial, pero cerca de un tercio de su valor: lo urgente, lo perecedero y lo caro. El combustible es una de sus mayores costos.
+b8cb2c	D	Red aérea
+6ff790	D	🏛️ Estado empresario y turismo
+939ed6	D	OMT, Barómetro del Turismo Mundial
+ae9de3	D	Francia es el país que más turistas internacionales recibe (unos 89 millones en 2019), pero EE. UU. es el que más ingresa por turismo.
+96a93b	D	El transporte aéreo lleva menos del 1 % del volumen del comercio mundial, pero alrededor de un tercio de su valor.
+54eb72	D	:root{--v5rim:rgba(255,255,255,.26);--v5gb:rgba(14,20,30,.42);\n --v5gr:radial-gradient(120% 110% at 30% 14%,rgba(255,255,255,.3),rgba(255,255,255,.08) 40%,rgba(255,255,255,0) 62%,rgba(0,0,0,.16) 100%);\n --v5sh:inset 0 1px 1px rgba(255,255,255,.4),inset 0 -5px 9px rgba(0,0,0,.2),inset 0 0 0 1px rgba(255,255,255,.05),0 6px 14px rgba(0,0,0,.28)}\n@supports (background:color-mix(in srgb,red 50%,transparent)){:root{--v5gb:color-mix(in srgb,var(--glass,#0c121a) 42%,transparent)}}\n/* botones del riel: cristal más claro y más transparente */\nhtml.v3m body.land .bottom>.in>.nav{border:1px solid var(--v5rim)!important;background:var(--v5gr),var(--v5gb)!important;box-shadow:var(--v5sh)!important;\n transition:transform .18s cubic-bezier(.3,1.5,.5,1),box-shadow .16s ease,border-color .16s ease,background-color .16s ease}\n/* brillo especular más nítido (reflejo de la gota) */\nhtml.v3m body.land .bottom>.in>.nav::before{left:20%;top:9%;width:34%;height:19%;background:radial-gradient(closest-side,rgba(255,255,255,.85),rgba(255,255,255,0))}\n/* reflejo inferior suave (refracción) */\nhtml.v3m body.land .bottom>.in>.nav::after{content:'';position:absolute;left:30%;bottom:7%;width:40%;height:12%;border-radius:50%;background:radial-gradient(closest-side,rgba(255,255,255,.22),rgba(255,255,255,0));pointer-events:none}\n/* activo: brilla un poco más y crece con rebote */\nhtml.v3m body.land .bottom>.in>.nav.on{transform:scale(1.1)}\n/* submenús que brotan: más rápidos y más transparentes */\n.v4d{background:var(--v5gr),var(--v5gb)!important;border:1px solid var(--v5rim)!important;box-shadow:var(--v5sh)!important;\n transition:transform .24s cubic-bezier(.3,1.5,.5,1) calc(var(--n,0) * 18ms),opacity .14s ease calc(var(--n,0) * 18ms)}\n.v4d::before{left:20%;top:9%;width:32%;height:18%;background:radial-gradient(closest-side,rgba(255,255,255,.8),rgba(255,255,255,0))}\n#v4dr .v4dn{background:var(--v5gb);border:1px solid var(--v5rim);transition:opacity .12s ease,transform .18s cubic-bezier(.3,1.5,.5,1)}\n#v4dr.v4o .v4d,#v4dr.v4o .v4dn{opacity:1}\nhtml.v3m body.land .bottom>.in>.nav:active,.v4d:active{transform:scale(.9)!important}\n/* burbujas superiores (reloj, Personaje, País, noticias): mismo cristal que el riel */\nhtml.v3m #v3top>.v3bb,html.v3m #v3top #tick.v3dot{border:1px solid var(--v5rim)!important;background:var(--v5gr),var(--v5gb)!important;box-shadow:var(--v5sh)!important;transition:transform .18s cubic-bezier(.3,1.5,.5,1),box-shadow .16s ease}\nhtml.v3m #v3top>.v3bb:active{transform:scale(.92)}\n/* barra de submenús (.shx): una cápsula de cristal que contiene las opciones; «‹ Atrás» con tinte propio */\nhtml.v3m body.land .shx{position:relative;padding:3px;border-radius:20px;background:var(--v5gb);border:1px solid var(--v5rim);box-shadow:inset 0 1px 1px rgba(255,255,255,.18),0 3px 8px rgba(0,0,0,.2);width:max-content;max-width:100%;margin:-2px 0 8px}\nhtml.v3m body.land .shx button{border:1px solid var(--v5rim)!important;background:var(--v5gr),var(--v5gb)!important;box-shadow:var(--v5sh)!important;transition:transform .18s cubic-bezier(.3,1.5,.5,1),box-shadow .16s ease,border-color .16s ease}\nhtml.v3m body.land .shx button:active{transform:scale(.93)}\nhtml.v3m body.land .shx button.on,html.v3m body.land .shx button[aria-current=true]{border-color:var(--v4on)!important;box-shadow:0 0 0 1px var(--v4on),0 0 10px var(--v4glow),var(--v5sh)!important;transform:scale(1.04)}\nhtml.v3m body.land .shx .bk{background:linear-gradient(180deg,rgba(255,255,255,.16),rgba(255,255,255,.02)),var(--v5gb)!important;color:var(--mut,#b9c4d2)!important}\n/* métricas de la barra (.v4mt): mismas gotas, más transparentes */\nhtml.v3m body.land .v4m{background:var(--v5gr),var(--v5gb)!important;border:1px solid var(--v5rim)!important;box-shadow:var(--v5sh)!important;transition:transform .18s cubic-bezier(.3,1.5,.5,1)}\nhtml.v3m body.land .v4m:active{transform:scale(.96)}\n/* pestañas de las hojas (.ntabs, .mkt, .nwt): gotas pequeñas; la activa brilla */\nhtml.v3m body.land :is(.sheet,.app) :is(.ntabs,.mkt,.nwt) button{border:1px solid var(--v5rim)!important;background:var(--v5gr),var(--v5gb)!important;box-shadow:var(--v5sh)!important;transition:transform .18s cubic-bezier(.3,1.5,.5,1),box-shadow .16s ease,border-color .16s ease}\nhtml.v3m body.land :is(.sheet,.app) :is(.ntabs,.mkt,.nwt) button:active{transform:scale(.94)}\nhtml.v3m body.land :is(.sheet,.app) :is(.ntabs,.mkt,.nwt) button.on{border-color:var(--v4on)!important;box-shadow:0 0 0 1px var(--v4on),0 0 10px var(--v4glow),var(--v5sh)!important}\n/* con desenfoque (fuera del modo ligero): ligero y sin costo en el iPhone */\nhtml:not(.v4lt) .v4d,html.v3m:not(.v4lt) body.land .bottom>.in>.nav{-webkit-backdrop-filter:blur(6px) saturate(1.6);backdrop-filter:blur(6px) saturate(1.6)}\n/* modo ligero (Toshiba, mapa en Canvas 2D): sin desenfoque ni reflejos extra */\nhtml.v4lt .v4d,html.v4lt body.land .bottom>.in>.nav{-webkit-backdrop-filter:none!important;backdrop-filter:none!important}\nhtml.v4lt body.land .bottom>.in>.nav::after{display:none}\n@media (prefers-reduced-motion:reduce){html.v3m body.land .bottom>.in>.nav,.v4d,#v4dr .v4dn{transition:none!important}}
+a32171	D	Familiares
+2c7de1	T	Construyes {0} {1} en {2}: ahora es de nivel {3}.
+f396d6	D	Nocauts
+69db7d	D	/* ---------- 6) gotas más vivas: matiz del tema, más brillo, reflejo marcado ---------- */\n:root{--v5rim:rgba(255,255,255,.38);--v5gb:rgba(18,40,70,.5);\n --v5gr:radial-gradient(120% 110% at 30% 10%,rgba(255,255,255,.46),rgba(255,255,255,.13) 36%,rgba(255,255,255,0) 58%,rgba(0,0,0,.14) 100%),linear-gradient(165deg,rgba(110,190,255,.22),rgba(110,190,255,0) 60%);\n --v5sh:inset 0 1.5px 1px rgba(255,255,255,.62),inset 0 -6px 10px rgba(0,0,0,.2),inset 0 0 0 1px rgba(255,255,255,.07),0 6px 14px rgba(0,0,0,.28);\n --v6rim:rgba(255,255,255,.26);--v6bar:rgba(12,22,36,.66)}\n@supports (background:color-mix(in srgb,red 50%,transparent)){:root{\n --v5gb:color-mix(in srgb,var(--act,#f2c14e) 16%,var(--glass,#0c121a) 36%);\n --v5rim:color-mix(in srgb,var(--act,#f2c14e) 38%,rgba(255,255,255,.62));\n --v5gr:radial-gradient(120% 110% at 30% 10%,rgba(255,255,255,.46),rgba(255,255,255,.13) 36%,rgba(255,255,255,0) 58%,rgba(0,0,0,.14) 100%),linear-gradient(165deg,color-mix(in srgb,var(--act,#f2c14e) 34%,transparent),transparent 62%);\n --v4glow:color-mix(in srgb,var(--act,#f2c14e) 62%,transparent);\n --v6rim:color-mix(in srgb,var(--act,#f2c14e) 26%,rgba(255,255,255,.34));\n --v6bar:color-mix(in srgb,var(--act,#f2c14e) 8%,var(--glass,#0c121a) 64%)}}\n.v4d::before,html.v3m #v3top>.v3bb::before{background:radial-gradient(closest-side,rgba(255,255,255,.98),rgba(255,255,255,0))!important}\n.v4d::before{left:18%;top:7%;width:38%;height:22%}\nhtml.v3m #v3top>.v3bb{position:relative}\nhtml.v3m:not(.v4lt) #v3top>.v3bb::before{content:'';position:absolute;left:10%;top:6%;width:26%;height:30%;border-radius:50%;pointer-events:none;opacity:.55}\nhtml.v4lt{--v5gr:linear-gradient(180deg,rgba(255,255,255,.2),rgba(255,255,255,0) 55%);--v5sh:inset 0 1px 0 rgba(255,255,255,.4),0 3px 8px rgba(0,0,0,.3)}\nhtml.v4lt .v4d::before{display:none}\n\n/* ---------- 2) riel unido: una barra de cristal común ---------- */\n#v5per{display:none}\nhtml.v3m{--v3l:calc(110px + env(safe-area-inset-left));--v3zl:var(--v3l);--v3pl:var(--v3l)}\nhtml.v3m.v3rc{--v3l:calc(110px + env(safe-area-inset-left));--v3zl:calc(8px + env(safe-area-inset-left));--v3pl:var(--v3l)}\nhtml.v3m body.land .bottom.bottom{left:calc(6px + env(safe-area-inset-left))!important;top:var(--v3t)!important;padding:4px!important;border:1px solid var(--v6rim)!important;background:var(--v6bar)!important;\n box-shadow:inset 0 1px 0 rgba(255,255,255,.22),inset 0 0 0 1px rgba(255,255,255,.04),0 8px 20px rgba(0,0,0,.32)!important;border-radius:22px!important}\nhtml.v3m:not(.v3rc) body.land .bottom{width:98px!important}\nhtml.v3m body.land .bottom>.in{display:grid!important;grid-template-columns:1fr 1fr;gap:2px!important;align-items:stretch!important}\nhtml.v3m body.land .bottom>.in>:is(#v3rt,#v5per,#ageBtn){grid-column:1/-1}\nhtml.v3m body.land .bottom>.in>.v4cat{display:none!important}\nhtml.v3m body.land .bottom>.in>#v5per{order:8}\nhtml.v3m #v3rt{height:24px;border-radius:10px}\n/* botones del riel: celdas planas dentro de la barra (sin gota propia ni desenfoque) */\nhtml.v3m body.land .bottom>.in>.nav{width:auto!important;height:44px;min-height:44px!important;padding:3px 1px 1px!important;border:0!important;border-radius:12px!important;\n background:transparent!important;box-shadow:none!important;-webkit-backdrop-filter:none!important;backdrop-filter:none!important;transform:none;font-size:8.5px!important;gap:1px!important;overflow:hidden!important}\nhtml.v3m body.land .bottom>.in>.nav::before,html.v3m body.land .bottom>.in>.nav::after{display:none!important}\nhtml.v3m body.land .bottom>.in>.nav .ic{font-size:18px!important}\nhtml.v3m body.land .bottom>.in>.nav .badge{top:1px!important;right:2px!important}\nhtml.v3m body.land .bottom>.in>.nav:active{background:rgba(255,255,255,.1)!important;transform:scale(.95)!important}\nhtml.v3m body.land .bottom>.in>.nav.on{transform:none!important;color:var(--ink)!important;background:rgba(242,193,78,.2)!important;box-shadow:inset 0 0 0 1px var(--v4on),inset 0 1px 0 rgba(255,255,255,.3)!important}\n@supports (background:color-mix(in srgb,red 50%,transparent)){html.v3m body.land .bottom>.in>.nav.on,html.v3m body.land #v5per>button.on{background:color-mix(in srgb,var(--act,#f2c14e) 24%,transparent)!important}}\n/* 4) periodos: rejilla de 2×3 entre separadores finos */\nhtml.v3m:not(.v3rc) body.land #v5per{display:grid;grid-template-columns:1fr 1fr;gap:2px;margin:3px 0;padding:4px 0;border-top:1px solid rgba(255,255,255,.14);border-bottom:1px solid rgba(255,255,255,.14)}\nhtml.v3m body.land #v5per>button{height:38px;min-height:38px;margin:0;padding:1px 0 0;border:0;border-radius:10px;background:rgba(255,255,255,.05);color:var(--ink2,var(--ink));display:flex;flex-direction:column;align-items:center;justify-content:center;gap:0;\n font:700 8.5px/1.05 system-ui,-apple-system,'Segoe UI',sans-serif;cursor:pointer;touch-action:manipulation;-webkit-tap-highlight-color:transparent;user-select:none;-webkit-user-select:none;overflow:hidden;transition:background-color .14s ease,transform .14s ease}\nhtml.v3m body.land #v5per>button b{font-size:14px;line-height:1;font-weight:800}\nhtml.v3m body.land #v5per>button small{font-size:8.5px;max-width:44px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;opacity:.85}\nhtml.v3m body.land #v5per>button:active{transform:scale(.94)}\nhtml.v3m body.land #v5per>button.on{color:var(--ink);background:rgba(242,193,78,.22);box-shadow:inset 0 0 0 1px var(--v4on),0 0 8px var(--v4glow)}\nhtml.v3m body.land #v5per>button.on small{opacity:1}\n/* botón de avanzar integrado al pie de la barra (siempre visible: pegado abajo si la barra se desplaza) */\nhtml.v3m:not(.v3rc) body.land .bottom>.in>#ageBtn{width:auto!important;min-height:46px;margin:0!important;border-radius:16px;position:sticky;bottom:0;z-index:1;\n box-shadow:inset 0 1px 1px rgba(255,255,255,.55),inset 0 -4px 8px rgba(0,0,0,.18),0 2px 8px rgba(0,0,0,.3)!important}\n/* pantallas bajas (Safari con barras): todo cabe sin desplazarse */\n@media (max-height:350px){html.v3m body.land .bottom>.in>.nav{height:40px;min-height:40px!important}html.v3m body.land #v5per>button{height:34px;min-height:34px}html.v3m #v3rt{height:20px}html.v3m:not(.v3rc) body.land .bottom>.in>#ageBtn{min-height:42px}}\n@media (min-height:400px){html.v3m body.land #v5per>button{height:44px;min-height:44px}}\n/* ---------- 3) plegado: solo el botón de avanzar (donde empezaba el riel) y una pestaña para abrir ---------- */\nhtml.v3m.v3rc body.land .bottom.bottom{width:auto!important;max-width:calc(var(--v3l) - 10px - env(safe-area-inset-left));border-radius:26px!important}\nhtml.v3m.v3rc body.land .bottom>.in{grid-template-columns:62px 24px}\nhtml.v3m.v3rc body.land .bottom>.in>:is(.nav,#v5per){display:none!important}\nhtml.v3m.v3rc body.land .bottom>.in>#ageBtn{grid-column:1;order:1;width:62px!important;min-height:46px;margin:0!important;border-radius:22px;font-size:10.5px!important}\nhtml.v3m.v3rc body.land .bottom>.in>#v3rt{grid-column:2;order:2;height:auto;align-self:stretch;font-size:0;border-radius:12px;background:rgba(255,255,255,.06)}\nhtml.v3m.v3rc body.land .bottom>.in>#v3rt::before{content:'›';font-size:20px;font-weight:800;line-height:1;color:var(--ink)}\nhtml.v3m.v3rc #v3rt::after{inset:-6px -10px -6px -4px}\n/* pixel */\nhtml[data-px=p2].v3m body.land .bottom.bottom{border-radius:0!important;border:2px solid var(--px-edge)!important;background:var(--card)!important;box-shadow:inset 2px 2px 0 var(--px-hi),inset -2px -2px 0 var(--px-lo),0 3px 0 var(--px-slab,rgba(0,0,0,.4))!important}\nhtml[data-px=p2].v3m body.land .bottom>.in>.nav,html[data-px=p2].v3m body.land #v5per>button,html[data-px=p2].v3m body.land .bottom>.in>#ageBtn{border-radius:0!important}\nhtml[data-px=p2].v3m body.land .bottom>.in>.nav.on,html[data-px=p2].v3m body.land #v5per>button.on{box-shadow:inset 0 -4px 0 var(--c-lit,var(--gold))!important;background:var(--card2)!important}\nhtml[data-px=p2].v3m body.land #v5per>button{font-family:var(--pxf);font-size:7px;transition:none}\n/* modo ligero: barra opaca y sin brillos */\nhtml.v4lt.v3m body.land .bottom.bottom{background:var(--glass,#0c121a)!important;box-shadow:0 3px 10px rgba(0,0,0,.35)!important}\nhtml.v4lt.v3m body.land #v5per>button.on{box-shadow:inset 0 0 0 1px var(--v4on)}\n@media (prefers-reduced-motion:reduce){html.v3m body.land #v5per>button{transition:none}}\n\n/* ---------- 5) medidas: nada se encima ---------- */\nhtml.v3m #v3top{min-width:0}\nhtml.v3m body>.mapcard{max-width:calc(100vw - var(--v3l) - var(--v3r) - 60px)}\n\n/* ---------- 1) portada «Facetas» ---------- */\n#cover.cv-facetas{--cvf0:#0794e4;--cvf1:#0a86d6;--cvfk:#0a6fc2;background:linear-gradient(160deg,var(--cvf0),var(--cvf1));color:#fff}\n.cv-facetas #cvC{display:none}\n.cv-fac{position:absolute;inset:0;width:100%;height:100%;display:block;pointer-events:none}\n.cv-fac g{animation:cvFa 28s ease-in-out infinite alternate;transform-origin:50% 50%}\n@keyframes cvFa{from{transform:translate(-6px,-4px) scale(1.04)}to{transform:translate(6px,4px) scale(1.05)}}\n.cv-facetas .cv-shade{background:linear-gradient(180deg,rgba(0,40,96,0) 0%,rgba(0,40,96,0) 55%,rgba(0,40,96,.38) 100%)}\n.cv-facetas .cv-logo{background:none;-webkit-background-clip:border-box;background-clip:border-box;color:#fff;-webkit-text-fill-color:#fff;font-family:system-ui,-apple-system,'Segoe UI',sans-serif;font-weight:900;letter-spacing:.05em;padding-left:.05em;\n font-size:clamp(44px,13vw,92px);filter:drop-shadow(0 4px 0 rgba(0,52,112,.26))}\n.cv-facetas .cv-glb{stroke:#fff;stroke-width:8;filter:none}\n.cv-facetas .cv-tag{color:#eef8ff;font-weight:600;text-shadow:0 1px 2px rgba(0,50,110,.45)}\n.cv-facetas .cv-b{background:rgba(255,255,255,.16);border-color:rgba(255,255,255,.55);color:#fff}\n.cv-facetas .cv-b.gold,.cv-facetas .cv-cont{background:#fff;border-color:#fff;color:var(--cvfk);box-shadow:0 6px 18px rgba(0,50,110,.3)}\n.cv-facetas .cv-fact{background:rgba(0,56,120,.42);border-color:rgba(255,255,255,.4);color:#fff}\n.cv-facetas .cv-sl,.cv-facetas .cv-foot,.cv-facetas .cv-lang .f{color:#e2f4ff}\n.cv-facetas .cv-lang select{background:rgba(0,56,120,.4);border-color:rgba(255,255,255,.5);color:#fff}\n.cv-facetas .cv-chips button{background:rgba(255,255,255,.14);border-color:rgba(255,255,255,.45);color:#fff}\n.cv-facetas .cv-chips button.on{background:#fff;border-color:#fff;color:var(--cvfk);box-shadow:none}\n.cv-facetas .cv-cr{background:rgba(4,58,120,.96)}.cv-facetas .cv-cr b{color:#bfeaff}\nhtml.v4lt .cv-fac g{animation:none}\n@media (prefers-reduced-motion:reduce){.cv-fac g{animation:none}}
+6b94e2	D	Facetas
+a0d831	D	Periodo de avance
+8af10a	D	v25p envíos
+457a63	D	/* ---------- 1) elegir vida ---------- */\n.modal.v5ng{padding:10px 14px 0}\n.v5ng .v5h{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:2px}\n.v5ng .v5h>h2{margin:0;flex:1 1 auto;font-size:18px;line-height:1.2}\n.v5ng .v5ht{display:flex;align-items:center;gap:6px;flex-wrap:wrap}\n.v5ng .v5ht>div{margin:0!important}.v5ng .v5ht select{width:auto;padding:5px 8px;font-size:13px}.v5ng .v5ht label.f{display:none}\n.v5ng #sCv{width:auto;margin:0;padding:6px 10px;font-size:12.5px}\n.v5ng>p.src{margin:2px 0 6px;font-size:12px}\n.v5ng .v5c{display:flex;gap:6px;margin:4px 0 6px}.v5ng .v5c>.opt{flex:1;margin:0;padding:8px 10px;font-size:13.5px}\n.v5ng .sect{position:static;margin:6px 0 4px;font-size:11px}\n.v5ng .v5g{display:grid;gap:4px 14px}\n.v5ng .v5a .row2{gap:6px}\n.v5ng label.f{margin:4px 0 2px;font-size:11.5px}\n.v5ng .v5a input,.v5ng .v5a select{padding:7px 9px;min-height:36px}\n.v5ng .modes.lvls,.v5ng .modes.gms{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}\n.v5ng .modes.lvls .lv,.v5ng .modes.gms .mode{margin:0;padding:7px 4px;min-height:40px;text-align:center;border-radius:11px}\n.v5ng .modes.lvls .lv b,.v5ng .modes.gms .mode b{font-size:13.5px;margin:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}\n.v5ng .modes.lvls .lv span,.v5ng .modes.gms .mode span{display:none}\n.v5ng .v5ds{font-size:11.5px;line-height:1.3;color:var(--mut);margin:4px 1px 2px;min-height:2.6em;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}\n.v5ng #v20lv>.sect:first-child{display:none}.v5ng #v20mo{display:none}\n.v5ng #v20pz{margin:4px 0 0;padding:5px 8px;font-size:12px}\n.v5ng details.v5mo{margin:8px 0 0;border:1px dashed var(--line);border-radius:10px;padding:5px 10px}\n.v5ng details.v5mo>summary{cursor:pointer;font-weight:700;font-size:13.5px;padding:3px 0;list-style-position:inside}\n.v5ng details.v5mo>summary small{color:var(--mut);font-weight:600;font-size:11.5px}\n.v5ng details.v5mo .modes{gap:6px}.v5ng details.v5mo .mode{padding:7px 10px}.v5ng details.v5mo .mode span{font-size:11.5px}\n.v5ng .v5ft{position:sticky;bottom:0;z-index:2;display:flex;align-items:center;gap:10px;margin:8px -14px 0;padding:8px 14px calc(10px + env(safe-area-inset-bottom));background:var(--card);border-top:1px solid var(--line);box-shadow:0 -6px 12px rgba(0,0,0,.18)}\n.v5ng .v5ft .v5sum{flex:1 1 auto;min-width:0;font-size:12px;color:var(--mut);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}\n.v5ng .v5ft #sGo{width:auto!important;flex:0 0 auto;margin:0!important;padding:11px 22px!important}\n@media (max-width:520px){.v5ng .v5ft{flex-wrap:wrap}.v5ng .v5ft .v5sum{flex-basis:100%}.v5ng .v5ft #sGo{flex:1 1 auto}}\n@media (orientation:landscape) and (min-width:600px){\n html body .modal.v5ng{width:min(calc(100vw - 24px - env(safe-area-inset-left) - env(safe-area-inset-right)),860px)!important;left:50%!important;top:50%!important;\n  max-height:calc(100vh - 12px)!important;max-height:calc(100dvh - 12px)!important}\n .v5ng .v5g{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}\n .v5ng>p.src{display:none}}\n@media (orientation:landscape) and (max-height:430px){.v5ng .sect{margin:4px 0 3px}.v5ng label.f{margin:2px 0 1px}.v5ng .v5a input,.v5ng .v5a select{padding:5px 8px;min-height:32px}.v5ng .v5ds{min-height:0}}\n\n/* ---------- 2) riel: botones juntos, barra continua y separada de los bordes ---------- */\nhtml.v3m body.land .bottom.bottom{left:calc(10px + env(safe-area-inset-left))!important;top:calc(var(--v3t) + 4px)!important;max-height:calc(100% - var(--v3t) - var(--v3bt) - 8px)!important;padding:5px!important;border-radius:24px!important;\n background:linear-gradient(180deg,rgba(255,255,255,.11),rgba(255,255,255,.02) 22%,rgba(255,255,255,0) 70%,rgba(0,0,0,.14)),var(--v6bar)!important}\nhtml.v3m:not(.v3rc) body.land .bottom{width:94px!important}\nhtml.v3m body.land .bottom>.in{gap:2px!important;grid-auto-rows:auto!important;align-content:start!important;height:auto!important}\nhtml.v3m body.land .bottom>.in>.nav{height:42px;min-height:42px!important;margin:0!important;border-radius:13px!important}\nhtml.v3m body.land .bottom>.in>.nav:not(.on):hover{background:rgba(255,255,255,.06)!important}\nhtml.v3m #v3rt{height:20px;margin:0 0 1px}\nhtml.v3m:not(.v3rc) body.land #v5per{margin:3px 2px!important;padding:4px 0!important;gap:2px!important;border-color:rgba(255,255,255,.1)!important}\nhtml.v3m body.land #v5per>button{height:34px;min-height:34px}\n@media (min-height:400px){html.v3m body.land #v5per>button{height:38px;min-height:38px}}\nhtml.v3m:not(.v3rc) body.land .bottom>.in>#ageBtn{min-height:44px;margin-top:2px!important}\n@media (max-height:350px){html.v3m body.land .bottom>.in>.nav{height:38px;min-height:38px!important}html.v3m body.land #v5per>button{height:31px;min-height:31px}}\n\n/* ---------- 3) portada «Facetas» viva ---------- */\n#cover.cv-facetas{overflow:hidden}\n.cv-fac.v5qf{inset:-5%;width:110%;height:110%;will-change:transform;backface-visibility:hidden}\n.cv-fac.v5qf g{animation:none!important}\n.v5qf1{animation:v5qF1 38s ease-in-out infinite alternate}\n.v5qf2{animation:v5qF2 29s ease-in-out infinite alternate}\n.v5qf3{animation:v5qF3 23s ease-in-out infinite alternate}\n@keyframes v5qF1{from{transform:translate3d(-10px,-6px,0) scale(1.01)}to{transform:translate3d(12px,7px,0) scale(1.03)}}\n@keyframes v5qF2{from{transform:translate3d(14px,-8px,0) rotate(-.4deg)}to{transform:translate3d(-12px,9px,0) rotate(.4deg)}}\n@keyframes v5qF3{from{transform:translate3d(-16px,10px,0)}to{transform:translate3d(18px,-10px,0)}}\n.v5qsw{position:absolute;top:0;bottom:0;left:-100%;width:200%;pointer-events:none;will-change:transform;\n background:linear-gradient(104deg,rgba(255,255,255,0) 38%,rgba(255,255,255,.13) 47%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.13) 53%,rgba(255,255,255,0) 62%);\n animation:v5qSw 13s cubic-bezier(.45,0,.55,1) infinite;transform:translate3d(-30%,0,0)}\n@keyframes v5qSw{0%{transform:translate3d(-30%,0,0)}55%,100%{transform:translate3d(55%,0,0)}}\n.cv-facetas .cv-logo span{background:linear-gradient(105deg,#fff 0%,#fff 40%,#b8ecff 46%,#fff 50%,#b8ecff 54%,#fff 60%,#fff 100%);background-size:320% 100%;background-position:100% 0;\n -webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:transparent;\n animation:cvIn .7s cubic-bezier(.2,.8,.2,1) both,v5qSh 7s ease-in-out infinite;animation-delay:calc(var(--i)*70ms + 120ms),calc(var(--i)*90ms + 1.6s)}\n@keyframes v5qSh{0%{background-position:100% 0}28%,100%{background-position:0% 0}}\nhtml.v4lt .v5qf,html.v4lt .v5qsw{animation:none!important}html.v4lt .v5qsw{display:none}\nhtml.v4lt .cv-facetas .cv-logo span{animation:cvIn .7s cubic-bezier(.2,.8,.2,1) both;animation-delay:calc(var(--i)*70ms + 120ms)}\n@media (prefers-reduced-motion:reduce){.v5qf,.v5qsw,.cv-facetas .cv-logo span{animation:none!important}.v5qsw{display:none}}
+6392d9	D	y unidades menores
+773cf8	D	Divisiones
+7aad70	D	Efectivos activos
+37b2ab	D	Armamento
+86697f	D	Reservistas
+1009ee	D	Presupuesto militar
+2d72a4	D	y los guardacostas
+6a4693	D	los efectivos salen de las tropas en campaña
+9350b0	D	v26a ejército
+14b199	D	Sube
+2a126d	D	Sin dato de tendencia
+883cc9	T	Estable ({0})
+8919b4	D	Baja
+2d8c9d	D	Poder militar
+6c648b	T	Flechas: cambio desde {0} (verde sube, rojo baja, gris estable ±1 %). Barras: valor frente al líder.
+f755b5	D	Flechas con * estimadas con el crecimiento del último año; el poder militar se verá al pasar el próximo año. Barras: valor frente al líder.
+e16f9b	D	Energía nuclear
+277eaa	D	⚡ Energía nuclear civil
+761638	D	Sin programa.
+fbb5ec	T	Cerró sus reactores en {0}.
+d0fb2a	T	año {0} de {1}
+3896b7	D	No firmante
+d9f17c	D	Potencia reconocida
+e4b33f	D	Firmante
+b74cc9	D	puede armarse, con sanciones
+80d0f7	D	en operación
+b26acd	D	Reactores
+3772bd	D	Iniciar energía nuclear
+fb5c98	D	Detener la rama civil
+0b0d31	D	Cancelar el programa militar
+79d6bd	D	Iniciar programa militar
+c35518	D	Desmantelar el arsenal
+61cb58	D	Retirarse del TNP
+f4c857	D	Firmar el TNP
+c8b43c	D	Prohibir inversión privada
+dfbd5f	D	Permitir inversión privada
+0788a4	T	cobrado {0}
+5509cb	T	: {0} en {1}

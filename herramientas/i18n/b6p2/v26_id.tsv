@@ -1,0 +1,154 @@
+14c869	Infanteri
+fa6d0f	Mekanis
+55d1a8	Lapis baja
+b9db5d	Artileri
+743a0f	Penerbangan
+905224	sayap udara
+585e41	Pertahanan udara dan rudal
+66ca7e	Menengah
+8e2b67	Terbatas
+980a92	Maju
+a33669	Mutakhir
+17d4d7	Senapan serbu, mortir ringan, dan peluncur roket portabel
+606a88	Prajurit terhubung: penglihatan termal, drone genggam, dan rudal «tembak dan lupakan»
+a288b7	Senapan dengan teropong, rompi antipeluru, dan kendaraan ringan
+c10b1a	Senapan serbu lama, senapan mesin, dan truk
+fc66b4	Senapan modular dengan penglihatan malam, rudal antitank, dan radio terenkripsi
+33f14a	Truk dan kendaraan lapis baja roda lama
+87be29	Kendaraan generasi baru dengan perlindungan aktif dan drone
+8ce35a	Kendaraan tempur modern dengan rudal antitank
+a545b8	Kendaraan tempur infanteri dengan meriam 30 mm
+fde350	Pengangkut personel lapis baja (tipe BTR atau M113)
+072c57	Tank generasi ke-2 (tipe T-55 atau T-62)
+63a01c	Tank generasi baru dengan perlindungan aktif dan jaringan tempur
+805209	Tank ringan dan tank pascaperang
+b485dc	Tank tempur utama modern (tipe Leopard 2, T-90, atau M1 Abrams)
+fab8c8	Tank tempur utama generasi ke-3 (tipe T-72 atau M60 yang ditingkatkan)
+01584c	Artileri swagerak dan peluncur roket ganda
+71162c	Howitzer tarik dan mortir
+8c8506	Howitzer 122–155 mm dan peluncur roket sederhana
+af49f1	Roket presisi jarak jauh dan drone serang
+ed79dc	Artileri swagerak dengan radar kontra-baterai dan amunisi terpandu
+062b17	Jet tempur generasi 4.5, pesawat tanker, dan drone bersenjata
+0f18d8	Jet tempur siluman generasi ke-5, peringatan dini, dan pembom
+3b93c4	Jet tempur generasi ke-3 (tipe MiG-21 atau F-5) dan helikopter
+54913c	Jet tempur generasi ke-4 (tipe MiG-29 atau F-16) dan helikopter serang
+b53033	Pesawat latih bersenjata dan helikopter angkut
+2d13fa	Kapal cepat dan kapal patroli pantai
+89ce9d	Fregat, korvet rudal, dan kapal selam diesel
+a0ab57	Kapal perusak dan fregat berpeluru kendali, kapal selam modern
+bdd510	Kapal patroli samudra dan korvet
+dcd4f9	Kapal induk, kapal perusak antirudal, dan kapal selam nuklir
+36b849	Pertahanan berlapis jarak jauh (tipe S-300 atau Patriot)
+3e4c3e	Sistem jarak menengah dan radar pengawasan
+96c81f	Perisai rudal balistik dan pertahanan terhadap drone
+c33bc5	Rudal portabel dan baterai lama (tipe SA-2 atau SA-3)
+df04c9	Meriam antipesawat dan rudal portabel
+854d18	Polisi dan unit keamanan khusus (senjata ringan)
+b5ec75	Penjaga pantai: kapal patroli dan kapal cepat
+85b776	Keamanan publik
+ab3823	Penjaga pantai
+4d226c	Riset nuklir sipil
+11889e	Bahan bakar: pengayaan tingkat rendah (3–5 %)
+ad6da4	Pembangunan reaktor
+92b9ff	Pengoperasian reaktor
+80e171	Riset militer
+cc8c61	Pengayaan tingkat tinggi (90 %)
+0846cd	Desain senjata
+20f88f	Uji coba nuklir
+a5017f	Persenjataan
+8d782b	{0} dari {1} dibutuhkan
+e571c1	Kapasitas teknis
+51af11	{0} per tahun; batas {1} % dari pendapatan kas negara ({2})
+5e5ac6	tanpa uranium sendiri dan tanpa akses pasar (tidak menandatangani NPT atau terkena sanksi)
+97f01d	membeli di pasar (penandatangan NPT)
+9e3675	produksi sendiri
+64dcff	Bahan fisil
+e64e41	plutonium dari reaktornya
+1d0613	ekonominya terlalu kecil untuk satu reaktor (PDB minimum: 60 miliar)
+1e16f0	cukup untuk satu reaktor
+fb65ce	Jaringan listrik
+1275c6	Infrastruktur pengayaan
+363781	memiliki cabang sipil di tahap bahan bakar atau lebih
+f3e6bb	membutuhkan cabang sipil di fase 2 (bahan bakar)
+3cfa0f	Perjanjian Nonproliferasi
+7a1332	kekuatan yang diakui perjanjian
+905e23	penandatangan: tidak boleh memiliki senjata nuklir
+d49a4f	bukan penandatangan
+2d79e1	{0} (minimum 25)
+79959c	{0} memajukan program nuklir sipilnya: {1}.
+712de0	{0} melakukan uji coba nuklir dan menyatakan diri sebagai kekuatan nuklir. Dunia menanggapi dengan sanksi.
+9aea5f	{0} memajukan program senjata nuklirnya ({1}). Ada sanksi dan protes.
+3cb3d7	{0} mengumumkan program energi nuklir sipil.
+3b349c	{0} menarik diri dari Perjanjian Nonproliferasi Nuklir.
+f775aa	Konsorsium nuklir lenyap: kamu mendapat kembali {0}.
+fe3966	Dividen konsorsium nuklir {0}: {1}.
+620871	Inspektur internasional menemukan program senjata nuklir {0}: sanksi dijatuhkan dan program dibekukan selama satu tahun.
+bf7387	Hanya pemerintah yang dapat memutuskannya.
+c768b9	Sistem nuklir dimatikan.
+025887	Program sudah berjalan.
+a6c4e6	Kamu belum memenuhi syarat:
+6c9e5d	Kamu memulai program energi nuklir sipil. Riset dimulai.
+9205d3	Kamu diam-diam memulai program senjata nuklir. Inspektur bisa menemukannya.
+fb8e0c	Tidak ada program sipil.
+51f117	Kamu membatalkan program nuklir sipil.
+dc3f08	Kamu menutup reaktor nuklirmu: energi jadi lebih mahal.
+918b11	Tidak ada program militer.
+2e2a31	Kamu membongkar persenjataan nuklirmu, seperti Afrika Selatan pada 1991.
+9c4568	Kamu membatalkan program senjata nuklir.
+5217cd	Batalkan atau bongkar dulu program militer.
+ff08a4	Kamu sudah menandatangani perjanjian.
+356044	Kamu menandatangani Perjanjian Nonproliferasi: pasar bahan bakar nuklir terbuka untukmu.
+79e69f	Kamu bukan pihak dalam perjanjian.
+8a6229	Kamu kekuatan yang diakui: keluar tidak memberimu apa-apa.
+c31a25	Kamu menarik diri dari Perjanjian Nonproliferasi. Sanksi datang selama tiga tahun.
+4361c1	Rezimmu (ekonomi terencana) melarang investasi swasta.
+8e2872	Kamu melarang investasi swasta di reaktor.
+b4478b	Kamu mengizinkan perusahaan swasta berinvestasi di reaktor.
+159a69	Pemerintah tidak mengizinkan investasi swasta.
+2e43d4	Investasi hanya untuk pembangunan atau pengoperasian reaktor.
+13cbfb	Kamu sudah memiliki saham di negara lain.
+2c9e3b	Kamu butuh minimal $10,000 untuk berinvestasi.
+4b53c5	Kamu menanamkan {0} di konsorsium nuklir sipil. Akan membayar 6 % per tahun selama reaktor beroperasi.
+5b4b15	Kamu tidak punya saham.
+3264c5	Kamu menjual sahammu seharga {0}.
+f396d6	Knockout
+6b94e2	Faset
+a0d831	Periode kemajuan
+6392d9	dan unit kecil
+773cf8	Divisi
+7aad70	Personel aktif
+37b2ab	Persenjataan
+86697f	Cadangan
+1009ee	Anggaran militer
+2d72a4	dan penjaga pantai
+6a4693	personel berasal dari pasukan di medan perang
+14b199	Naik
+2a126d	Tidak ada data tren
+883cc9	Stabil ({0})
+8919b4	Turun
+2d8c9d	Kekuatan militer
+6c648b	Panah: perubahan sejak {0} (hijau naik, merah turun, abu-abu stabil ±1 %). Batang: nilai dibanding pemimpin.
+f755b5	Panah dengan * diperkirakan dari pertumbuhan tahun terakhir; kekuatan militer akan terlihat setelah tahun depan berlalu. Batang: nilai dibanding pemimpin.
+e16f9b	Energi nuklir
+277eaa	⚡ Energi nuklir sipil
+761638	Tidak ada program.
+fbb5ec	Menutup reaktornya pada {0}.
+d0fb2a	tahun ke-{0} dari {1}
+3896b7	Bukan penandatangan
+d9f17c	Kekuatan yang diakui
+e4b33f	Penandatangan
+b74cc9	boleh mempersenjatai diri, dengan sanksi
+80d0f7	beroperasi
+b26acd	Reaktor
+3772bd	Mulai energi nuklir
+fb5c98	Hentikan cabang sipil
+0b0d31	Batalkan program militer
+79d6bd	Mulai program militer
+c35518	Bongkar persenjataan
+61cb58	Menarik diri dari NPT
+f4c857	Tandatangani NPT
+c8b43c	Larang investasi swasta
+dfbd5f	Izinkan investasi swasta
+0788a4	diterima {0}
+5509cb	: {0} di {1}

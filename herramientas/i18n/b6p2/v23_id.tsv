@@ -1,0 +1,406 @@
+129ff9	Hutan hujan tropis
+bba34c	Sabana
+5013cb	Stepa
+bdff57	Hutan subtropis
+732b6a	Padang rumput
+f25d99	Hutan beriklim sedang
+ffa029	Taiga
+16ee1f	Langka
+e38b71	Bergantung impor
+db197e	Swasembada
+8071ef	Mengekspor
+16a69b	Kekeringan di {0} dari {1} provinsi {2} pada {3}: panen berkurang, air dijatah, dan kebahagiaan turun.
+432f1e	Jaguar
+5e8269	Macan tutul
+da0d2b	Harimau
+d03276	Kasuari
+c745ea	Macaw
+ea6b53	Nuri kelabu
+eff2ee	Rangkong
+95f1b9	Burung cenderawasih
+6c7f95	Monyet howler
+00fa82	Simpanse
+d41c16	Orangutan
+b34aa5	Kanguru pohon
+0f7174	Katak racun
+e1efe2	Katak pohon
+5e5557	Katak terbang
+26e570	Pohon kapuk
+b2e0fa	Mahoni Afrika
+842f73	Dipterokarpa
+f6e842	Anggrek
+7355df	Gajah
+66e73c	Pemakan semut
+a78f03	Gajah Asia
+296747	Kanguru merah
+ab8762	Jerapah
+87c9a1	Rusa ekor putih
+bbd8e9	Rusa pampas
+07663e	Rusa axis
+7767af	Dingo
+3364b1	Singa
+8dd8a2	Puma
+afe7d5	Singa Asia
+2f2e1a	Elang ekor baji
+97a915	Akasia
+89d02c	Prosopis
+63e351	Eukaliptus
+fdefe7	Rumput tinggi
+cef9ed	Unta Arab
+15cdd5	Koyote
+10c09c	Guanako
+11a4ec	Unta Baktria
+64b2a2	Rubah gurun
+5c8fb9	Kadal
+a7fa4b	Gila monster
+182538	Iblis berduri
+718a47	Kadal ekor duri
+ab3e38	Kalajengking
+dbbc15	Kaktus dan sukulen
+84b442	Kurma
+41aa62	Saksaul
+52e4b9	Spinifex
+3ee8ae	Kuda liar
+f3a236	Pronghorn
+f441ea	Gazel
+502507	Kanguru abu-abu
+39e1d4	Elang stepa
+e5a5ba	Elang emas
+5cddc1	Kondor
+b42eba	Marmut
+4173da	Anjing padang rumput
+9f5bc1	Viskacha
+4c19d7	Jerboa
+01d844	Wombat
+6750fc	Rumput bulu
+06ae50	Artemisia
+a978b3	Semak garam
+386e7f	Bambu
+473ace	Zaitun liar
+72a06d	Pohon zaitun
+52cc57	Ek hijau
+ad9b3c	Pohon kamper
+e0b77b	Ek gabus
+cb0290	Araukaria
+386dc7	Kura-kura
+9900a4	Kupu-kupu
+b2d6a5	Kupu-kupu raja
+d0eb80	Ular
+d30fa9	Bison
+067c01	Bison Eropa
+7c6bc4	Kuda Przewalski
+562c21	Terwelu
+840fa2	Mara Patagonia
+574c12	Lebah liar
+7476c9	Bunga matahari liar
+5e4022	Bunga poppi
+e29ecc	Rusa
+07ea1a	Beruang cokelat
+72cc14	Beruang hitam
+7e1bb2	Beruang hitam Asia
+5f7738	Huemul
+74ae77	Koala
+4a5ab7	Burung hantu
+1a7553	Rubah merah
+bd356a	Pohon ek
+0ff152	Roble pellín
+8a8ba7	Jamur hutan
+b4e3c3	Cemara dan pinus
+219420	Serigala abu-abu
+44f33d	Moose
+7e469d	Lynx
+143e7f	Rusa kutub
+9ee0ea	Karibu
+623acb	Rubah kutub
+f99f29	Burung hantu salju
+e718dc	Lumut dan lumut kerak
+edcf79	Ikan char arktik
+bc4168	Kondor Andes
+1288f7	Burung nasar berjanggut
+aef341	Kambing gunung
+0a34fa	Domba bighorn
+5c3e16	Vikunya
+b65196	Ibeks
+f978ae	Walabi batu
+4b12b4	Macan tutul salju
+513928	Ekidna
+79bda5	Pinus gunung
+dc59b0	Bunga alpin
+58c018	Edelweis
+7120ca	Ikan sungai
+822f97	Ikan lele
+40aa10	Dorado
+21e6f9	Ikan trout
+ec91a8	Ikan mas
+6cc5b0	Nila
+2f021b	Ikan kod Murray
+2cc076	Terancam punah
+e7247c	Kota dan penduduk menempati habitatnya
+e25ac6	Pencemaran industri
+84479e	Habitatnya berubah menjadi lahan pertanian
+6b0e77	Pendudukan militer: perburuan dan habitat rusak
+94a232	Perang: perburuan liar dan habitat rusak
+d9f0ee	Kekeringan: kekurangan air dan makanan
+b29db0	Bendungan memotong sungai
+a6f360	Air dialihkan untuk irigasi
+0633ee	Air garam pekat dari desalinasi
+b5e7ae	Perlindungan lingkungan lemah
+1dd77f	Pabrik desalinasi
+0a532b	+35 m³ air per orang per tahun per level, diambil dari laut: tidak bergantung pada hujan atau kekeringan.
+b18177	Sistem irigasi
+e981ba	+12% lahan subur dan panen 10–20% lebih banyak per level (lebih besar di tempat yang jarang hujan). Memakai 4% air.
+06f739	Rumah kaca
+f075dd	Pangan untuk 3% lebih banyak penduduk per level, bahkan di tahun kekeringan.
+82504c	Bendungan dan waduk
+8d4bbd	+8% air (kekeringan mengurangi separuhnya) dan +4% lahan subur dengan irigasi. Memotong sungai: kesehatan ekosistem turun.
+52121d	Provinsi tidak dikenal.
+65908c	Sudah dalam pembangunan.
+9ddf39	Sudah mencapai maksimum.
+938c1d	Hanya di provinsi pesisir.
+9ad5b0	Tidak ada lahan yang bisa ditanami.
+f64845	Butuh sungai besar atau lembah di antara perbukitan.
+e30d33	Provinsi sedang diduduki.
+c7b369	lebih banyak air tawar
+3693c3	lebih banyak pangan
+08d9cb	Hanya di provinsi negaramu.
+834945	Kas negara tidak cukup.
+f1e2f2	Hanya pemerintah yang bisa membangun bendungan.
+7818cd	Proyek air dan pangan milikmu menghasilkan {0} tahun ini.
+cb4421	Negaramu sudah memiliki terobosan ini.
+c8b376	Butuh teknologi sipil {0} (kamu punya {1}).
+99c4a7	Hanya pemerintah yang bisa mendanai riset.
+95d4c1	Universitasmu mencapai terobosan «Teknologi air» ({0}): proyek air, pangan, dan konservasi lebih murah {1}%.
+a07ebb	{0} mencapai terobosan «Teknologi air»: proyek air dan konservasi lebih murah {1}%.
+2ee63c	Reboisasi
+7e9be8	+3 kesehatan ekosistem dan +1,5% air terbarukan per level (hutan menahan hujan). Membantu pariwisata.
+53c5a2	Kawasan lindung
+6f3d0c	+5 kesehatan ekosistem dan +2% air terbarukan (daerah tangkapan air terlindungi). Menarik wisatawan. Hanya pemerintah yang bisa menetapkannya.
+2a6282	Instalasi pengolahan air
+08d09b	Mengimbangi separuh pencemaran perusahaan di provinsi per level (+1 jika tidak ada industri: limbah kota).
+530ffe	Gurun atau tundra tidak bisa direboisasi.
+216e8d	Hanya pemerintah yang bisa menetapkan kawasan lindung.
+d386e0	Tambang dan sumur di provinsi
+3159c6	Pencemaran dari pabrik, tambang, dan sumur
+061944	Kekeringan di {0}: {1} menghasilkan {2}% lebih sedikit tahun ini.
+904c5e	Pemeliharaan proyek konservasimu: {0}.
+213a9b	Tidak ada dana untuk pemeliharaan: {0} ditangguhkan tahun ini (tanpa efek).
+ca4813	Penduduk per km²
+57e681	Industri dan kota
+966987	Lahan yang dialihkan menjadi pertanian
+c86b99	Pembangunan dan regulasi lingkungan
+69b7e0	Pendudukan militer
+d8cb2a	Kekeringan tahun ini
+de4b55	Kekeringan di provinsi
+1eb141	Curah hujan dan iklim
+0a4d47	Air dari wilayah lain negara
+b79a11	Bendungan, sumur, dan jaringan air
+ed1999	Lahan subur per orang
+f91ad3	Kemampuan mengimpor pangan
+26f86e	Harga biji-bijian dunia
+56bd80	Panen provinsi
+0d2145	Pangan impor dan harganya
+510f15	Kekeringan (dibanding tahun normal)
+cea13f	Air per orang berkurang
+67e676	Energi impor dan harganya
+e3c2a9	Bilah membandingkan produksi dengan konsumsi (garis menandai 100%). Konsumsi diperkirakan dari bobotnya dalam ekonomi dan penduduk dunia.
+b196fa	Kesehatan ekosistem
+4b7975	Seberapa terjaga alam: turun karena penduduk, industri, pertanian, perang, dan kekeringan.
+4fb591	Air tawar
+82916c	m³ per orang per tahun di provinsi
+a266f2	km³ diperbarui
+2d3200	Di bawah 1.700 m³ per orang per tahun terjadi stres air; di bawah 1.000, kelangkaan.
+f09aaa	Ketahanan pangan
+f901ec	Panennya memberi makan
+520213	dari penduduknya
+5e971d	Lahan subur
+5da13c	dari luas wilayah
+85d589	Air per orang
+f114c9	orang terpenuhi pangannya
+8fbe58	Risiko kekeringan
+c49c23	per tahun
+c3db36	Tanaman utama
+4a5cca	Sumber daya bawah tanah
+197242	Ekosistem
+e624ee	Air
+b9e984	Kelangkaan sumber daya {0}
+3ef09e	Bioma
+7d313f	Wilayah alam luas dengan iklim, vegetasi, dan fauna yang mirip: hutan hujan, sabana, gurun, taiga…
+ee3a7a	Menentukan seberapa banyak hujan mengalir, seberapa luas lahan bisa ditanami, dan seberapa sering terjadi kekeringan.
+cfffcd	Air tawar terbarukan
+ad3776	Air hujan yang tiap tahun mengalir lewat sungai dan meresap ke akuifer, ditambah air kiriman sungai dari hulu.
+859a20	Dengan air per orang yang sedikit, kekeringan lebih keras memukul panen, layanan publik, dan kebahagiaan.
+4784a0	Penduduk punya pangan yang cukup: dengan memproduksinya atau mampu membelinya dari luar.
+20e90d	Negara yang banyak mengimpor pangan menderita saat harga biji-bijian dunia naik.
+fc6296	Alam negaramu
+650adf	Air terbarukan
+f828c6	Alam
+7dfe24	Alam dan sumber daya {0}
+851d27	Swasembada pangan
+e3252b	Provinsi dilanda kekeringan
+9e6e0b	dari penduduk
+3ce609	Rata-rata provinsinya, dibobot menurut luas wilayah.
+554c08	km³ air terbarukan per tahun
+e22349	m³ per orang
+7e2b92	Ambang Falkenmark: di bawah 1.700 m³ per orang per tahun berarti stres air; di bawah 1.000, kelangkaan; di bawah 500, kelangkaan absolut.
+5d1bbc	Menghasilkan pangan untuk
+74226c	Apa yang digerakkan alam dalam ekonomi
+f79ce2	Kelangkaan sumber daya
+5379ab	Provinsi dilanda kekeringan tahun ini
+0747d3	Tingkat keparahan
+b61f6c	Provinsi dengan air per orang paling sedikit
+6a6160	Ketuk provinsi di peta dan buka tab 🌿 Alam pada kartunya untuk melihat detailnya. Mode peta 🌿 mewarnai kesehatan ekosistem di seluruh dunia.
+bc1dbe	Stres air
+f05314	Kekeringan
+619ecb	Alam dan sumber daya
+01fe0f	Wilayah alam luas dengan iklim, tumbuhan, dan hewan yang mirip: hutan hujan, sabana, gurun, stepa, hutan, taiga, tundra, atau pegunungan.
+8ba1b0	Air tawar yang diisi ulang hujan setiap tahun di sungai dan akuifer. Diukur dalam meter kubik per orang per tahun.
+edc5e7	Saat air terbarukan kurang dari 1.700 m³ per orang per tahun. Di bawah 1.000 disebut kelangkaan dan di bawah 500, kelangkaan absolut (ambang Falkenmark).
+cc7f99	Bagian wilayah yang bisa ditanami. Bergantung pada iklim, relief, dan air, serta bertambah dengan irigasi.
+a601f6	Seluruh penduduk memiliki pangan yang cukup, baik karena memproduksinya sendiri maupun karena bisa membelinya dari negara lain.
+0fdc9f	Tahun dengan hujan jauh lebih sedikit dari biasanya. Mengurangi panen dan air yang tersedia, dan lebih memukul negara yang bergantung pada pertanian.
+d8a207	Negara dengan air terbarukan kurang dari 1.700 m³ per orang per tahun mengalami stres air. Di bawah 1.000 m³ terjadi kelangkaan dan di bawah 500, kelangkaan absolut.
+50873e	Falkenmark (1989); UN-Water
+dbe190	Hanya sekitar 11% permukaan daratan planet ini yang merupakan lahan subur.
+0774c2	IFPRI; FAO
+cf6aa2	Proyek air (desalinasi, bendungan, irigasi)
+9ba038	Bendungan yang memotong sungai
+790b54	Kesehatan ekosistem (sungai berwarna biru)
+7389b3	Hewan
+65fa72	Tumbuhan
+792a17	sangat sensitif
+dab812	{0} dari {1} berisiko: penyebab yang ditampilkan adalah yang paling mengurangi ekosistem di antara ancamannya.
+f888fa	Untuk saat ini tidak ada yang berisiko.
+759c52	Flora dan fauna
+43740f	Spesies bergantung pada kesehatan ekosistem ({0}/100).
+382971	Tidak mengubah ekonomi.
+efc332	Proyek air dan pangan
+0161e4	km³ air per tahun
+4485eb	km² lahan subur
+a8a5b5	pangan untuk
+67b3db	Saat ini menyumbang:
+947cea	Kamu hanya bisa membangun di provinsi negaramu.
+31475a	pemerintahmu
+c08f3c	pemerintah
+977419	dalam pembangunan, tersisa:
+8f3bc2	Dibayar oleh:
+74bd5f	Biaya
+9513ba	Durasi
+d72b64	Kamu memerintah: proyek dibayar dari kas negara ({0}).
+07253c	Kamu tidak memerintah: kamu bisa membayarnya sendiri sebagai investasi swasta; hasilnya mengalir tiap tahun (air dan panen yang dijual). Bendungan hanya dibangun pemerintah.
+cef7d7	Efeknya terukur dan kecil: menambah air dan lahan subur provinsi, dan dengan itu sedikit meningkatkan swasembada negara.
+279a67	{0} {1} di {2}?
+4440c2	Desalinasi
+08cfe9	Irigasi
+ecde02	Spesies berisiko
+aca10e	Secara total menyumbang
+27aa1c	km³ air per tahun dan pangan untuk
+ecf3d2	Negaramu belum punya proyek. Mulailah dari tab 🌿 Alam di tiap provinsi.
+d78d44	Spesies berisiko
+36f3bc	{0} dari {1} populasi tumbuhan dan hewan di provinsimu berisiko.
+99bd02	terancam punah di
+1be5e2	Berisiko di
+23eb3c	Menghilangkan garam dari air laut agar bisa diminum. Menghasilkan air walau tidak hujan, tetapi boros energi dan meninggalkan air garam pekat yang merusak pesisir.
+795688	Mengalirkan air ke tanaman lewat kanal, sumur, atau tetes. Memungkinkan menanam di tempat yang jarang hujan dan panen lebih banyak, tetapi memakai sebagian besar air tawar.
+ebcde6	Tumbuhan atau hewan yang populasinya turun begitu banyak sehingga bisa lenyap dari suatu tempat. Penyebab paling umum adalah hilangnya habitat.
+c54050	Israel memperoleh sekitar 70% air minumnya dari pabrik desalinasi di pesisir Mediterania.
+81d1e7	Otoritas Air Israel
+4b8581	Belanda adalah pengekspor pangan terbesar kedua di dunia berdasarkan nilai, sebagian besar berkat rumah kacanya.
+b3342d	FAO; Universitas Wageningen
+24513c	Sekitar satu juta spesies tumbuhan dan hewan terancam punah, terutama karena hilangnya habitat.
+4c0333	IPBES (2019)
+6e327f	Pencemaran perusahaan (pabrik, tambang, sumur)
+0dc2a0	Instalasi pengolahan air
+3e6f2e	Reboisasi dan kawasan lindung
+b003ec	Perusahaanmu
+091b73	Perusahaan bursa
+c88f37	Ekstraksi
+d2f5b7	Pengolahan air (level {0}) mengimbangi
+815fd9	Instalasi pengolahan air mengimbangi separuhnya per level.
+324f21	Mengurangi
+39de72	dari kesehatan ekosistem (menurut ukurannya dibanding ekonomi provinsi).
+f88adb	Dicapai pada
+3602cb	Teknologi sipil
+beac5c	datang sendiri pada level
+335fa9	Riset
+4e6994	Terobosan: teknologi air
+7d2d65	Membran, irigasi tetes, dan pembibitan yang lebih murah: memangkas biaya dan pemeliharaan semua proyek air, pangan, dan konservasi sebesar {0}%.
+fd5d4d	Konservasi
+e3c26d	ditangguhkan tahun ini
+ea60b0	Pariwisata provinsi:
+65c7ed	permintaan di hotel, bar, dan toko perhiasan berkat alam dan kawasan lindungnya.
+a8617f	Jika kamu memerintah, kas negara membayar pembangunan dan pemeliharaan; jika tidak cukup, proyek ditangguhkan pada tahun itu.
+84b356	Tanpa memerintah, kamu bisa membayar reboisasi dan pengolahan sebagai investasi swasta (hasilnya sedikit: kredit karbon dan tarif); pemeliharaan diambil dari uangmu. Kawasan lindung hanya ditetapkan pemerintah.
+868eeb	Riset teknologi air?
+7b8266	Pencemaran industri
+edf024	Belum ada reboisasi, kawasan lindung, atau instalasi pengolahan. Mulailah dari tab 🌿 Alam di tiap provinsi.
+cb462c	Pariwisata negara berkat alam dan kawasan lindungnya:
+1abf79	permintaan.
+6dc117	Zona tempat hukum membatasi perburuan, penebangan, pembangunan, dan pertanian demi menjaga alam. Melindungi spesies dan daerah tangkapan air serta menarik wisatawan.
+6c43ff	Menanam kembali pohon di tempat yang dulu hutan. Hutan menahan hujan, mengisi ulang akuifer, dan mengembalikan habitat banyak spesies; butuh bertahun-tahun untuk terasa.
+517784	Limbah yang dilepaskan pabrik, tambang, dan sumur minyak ke udara, air, dan tanah. Instalasi pengolahan membersihkan sebagian air sebelum dikembalikan ke sungai.
+7acc17	Kosta Rika naik dari sekitar 21% wilayah berhutan pada 1987 menjadi lebih dari 50% sekarang, dengan pembayaran kepada pemilik lahan yang menjaganya.
+5208dc	SINAC; FAO, Penilaian Sumber Daya Hutan
+4a6c3c	Kawasan lindung mencakup sekitar 17% daratan dunia.
+a04a4e	UNEP-WCMC dan IUCN, Protected Planet Report 2020
+d5d83f	FAO, AQUASTAT
+2a2dc3	FAO; Bank Dunia
+ba97ca	Pencemaran perusahaan
+ecb904	Provinsi paling tercemar oleh perusahaan
+04bbf6	🏗️ Pembangunan {0} di {1} selesai: {2} untuk provinsi.
+7702c2	🏗️ Pembangunan {0} di {1} (level {2}) selesai: {3} untuk provinsi.
+5a1b46	Pembangunan dimulai: {0} di {1}. Butuh {2} bulan.
+238966	Pembangunan dimulai: {0} di {1}. Butuh {2} bulan; ini investasi swastamu dan akan menghasilkan sekitar {3}% per tahun setelah beroperasi.
+8c5ed2	{0} Kawasan lindung ditetapkan di {1}: kesehatan ekosistem membaik.
+d71837	{0} Selesai: {1} di {2}: kesehatan ekosistem membaik.
+43d09c	{0} Selesai: {1} di {2} (level {3}): kesehatan ekosistem membaik.
+27a851	sensitif
+c51d52	tangguh
+f1fe5b	tersisa
+98b395	ditangguhkan
+f46b3a	pengolahan
+67bbcd	terdegradasi
+c53414	sehat
+8f12c6	Berisiko
+1f3e92	Uangmu tidak cukup.
+32c536	Sungai besar
+327a63	Pertumbuhan penduduk
+4cb456	Pada 2022, beberapa negara melarang ekspor pangan setelah invasi ke Ukraina, salah satu pengekspor gandum dan jagung terbesar di dunia.
+5087e8	dari uangmu sendiri
+b5df5e	🌳 Pemeliharaan reboisasi, kawasan lindung, dan pengolahan air: {0} dari kas negara.
+c98083	Reboisasi ({0})
+5230e6	Kawasan lindung ({0})
+b74b18	Instalasi pengolahan air ({0})
+a502fe	Reboisasi ({0}), {1}
+f324fd	Kawasan lindung ({0}), {1}
+434a81	Instalasi pengolahan air ({0}), {1}
+58afc8	Lapisan peta
+58d28b	Buka Bursa ›
+4a8db5	Mulai atau muat permainan untuk memilih aset.
+430413	Indeks
+f3c241	Tidak ada
+862604	Maksimal {0} aset.
+451845	Aset di layar utama
+374a64	Pilih aset bursa mana yang tampil di gelembung kecil pada layar utama. Secara bawaan tidak ada. Bilah kuotasi lengkap ada di dalam Bursa.
+01385b	Tampilan piksel
+256a5c	Buka menu
+2739ab	Ciutkan menu
+216b3d	Halus
+d11840	Gesit
+6aaab3	Dengan inersia
+6baff9	Tanpa inersia
+6a2be3	Peta: sensitivitas
+57c32e	Halus: jari perlu digeser lebih jauh untuk menyeret (ketukan lebih tepat). Gesit: peta merespons lebih cepat dan meluncur lebih jauh saat dilepas.
+54f68f	gedung pencakar langit dan jalan raya
+3882bc	gedung apartemen dan rumah
+2f63ab	rumah sederhana dan hunian bersahaja
+3f273c	Kota dalam pixel art
+b014ad	Tampilan kota
+06abc6	uji gaya 3, piksel (isometrik)
+8ee5d6	Lingkungan lain
+921a76	Uji gaya: dibuat lewat kode dari data provinsi; belum bisa dimainkan di sini. Pilih di issue mana dari 3 uji yang kamu suka.
+b48248	Tampilan kota piksel (uji 3)
+1120ae	Lingkungan piksel isometrik yang dibuat dari data tiap provinsi. Dibuka lewat «🏙️ Kota» di bawah peta, pada tab kota.
+906dc6	Tampilkan
+4f5841	Sembunyikan
+c94656	Terlihat: {0}. Pendapatan lebih besar → gedung lebih tinggi; kebahagiaan lebih besar → lebih banyak taman; penduduk lebih banyak → lingkungan lebih luas.
+c635ba	Terlihat: {0}, sungai. Pendapatan lebih besar → gedung lebih tinggi; kebahagiaan lebih besar → lebih banyak taman; penduduk lebih banyak → lingkungan lebih luas.

@@ -1,0 +1,154 @@
+14c869	Infantaria
+fa6d0f	Mecanizada
+55d1a8	Blindada
+b9db5d	Artilharia
+743a0f	Aviação
+905224	ala aérea
+585e41	Antiaérea e mísseis
+66ca7e	Intermediário
+8e2b67	Limitado
+980a92	Avançado
+a33669	De ponta
+17d4d7	Fuzis de assalto, morteiros leves e lança-foguetes portáteis
+606a88	Soldado conectado: visão térmica, drones de mão e mísseis «dispare e esqueça»
+a288b7	Fuzil com mira, colete à prova de balas e veículos leves
+c10b1a	Fuzis de assalto antigos, metralhadoras e caminhões
+fc66b4	Fuzil modular com visão noturna, mísseis antitanque e rádios criptografados
+33f14a	Caminhões e blindados de rodas antigos
+87be29	Veículos de nova geração com proteção ativa e drones
+8ce35a	Veículos de combate modernos com mísseis antitanque
+a545b8	Veículos de combate de infantaria com canhão de 30 mm
+fde350	Transportes blindados de pessoal (tipo BTR ou M113)
+072c57	Tanques de 2.ª geração (tipo T-55 ou T-62)
+63a01c	Tanque de nova geração com proteção ativa e rede de combate
+805209	Tanques leves e do pós-guerra
+b485dc	Tanque principal moderno (tipo Leopard 2, T-90 ou M1 Abrams)
+fab8c8	Tanque principal de 3.ª geração (tipo T-72 ou M60 modernizado)
+01584c	Artilharia autopropulsada e lança-foguetes múltiplos
+71162c	Obuses rebocados e morteiros
+8c8506	Obuses de 122–155 mm e lança-foguetes simples
+af49f1	Foguetes de precisão de longo alcance e drones de ataque
+ed79dc	Artilharia autopropulsada com radar de contrabateria e munição guiada
+062b17	Caças de geração 4.5, aviões-tanque e drones armados
+0f18d8	Caças furtivos de 5.ª geração, alerta antecipado e bombardeiros
+3b93c4	Caças de 3.ª geração (tipo MiG-21 ou F-5) e helicópteros
+54913c	Caças de 4.ª geração (tipo MiG-29 ou F-16) e helicópteros de ataque
+b53033	Aviões de treinamento armados e helicópteros de transporte
+2d13fa	Lanchas e patrulhas costeiras
+89ce9d	Fragatas, corvetas lança-mísseis e submarinos a diesel
+a0ab57	Contratorpedeiros e fragatas com mísseis, submarinos modernos
+bdd510	Patrulhas oceânicas e corvetas
+dcd4f9	Porta-aviões, contratorpedeiros antimísseis e submarinos nucleares
+36b849	Defesa em camadas de longo alcance (tipo S-300 ou Patriot)
+3e4c3e	Sistemas de médio alcance e radares de vigilância
+96c81f	Escudo antimísseis balísticos e defesa contra drones
+c33bc5	Mísseis portáteis e baterias antigas (tipo SA-2 ou SA-3)
+df04c9	Canhões antiaéreos e mísseis portáteis
+854d18	Polícia e unidades especiais de segurança (armas leves)
+b5ec75	Guarda costeira: patrulhas e lanchas rápidas
+85b776	Segurança pública
+ab3823	Guarda costeira
+4d226c	Pesquisa nuclear civil
+11889e	Combustível: enriquecimento de baixo nível (3–5 %)
+ad6da4	Construção de reatores
+92b9ff	Operação de reatores
+80e171	Pesquisa militar
+cc8c61	Enriquecimento de alto nível (90 %)
+0846cd	Projeto da arma
+20f88f	Teste nuclear
+a5017f	Arsenal
+8d782b	{0} de {1} necessários
+e571c1	Capacidade técnica
+51af11	{0} por ano; limite de {1} % da receita do tesouro ({2})
+5e5ac6	sem urânio próprio e sem acesso ao mercado (não assina o TNP ou tem sanções)
+97f01d	compra no mercado (signatário do TNP)
+9e3675	produção própria
+64dcff	Material físsil
+e64e41	plutônio dos seus reatores
+1d0613	a economia é pequena para um reator (PIB mínimo: 60 bilhões)
+1e16f0	suficiente para um reator
+fb65ce	Rede elétrica
+1275c6	Infraestrutura de enriquecimento
+363781	tem o ramo civil em combustível ou além
+f3e6bb	precisa do ramo civil na fase 2 (combustível)
+3cfa0f	Tratado de Não Proliferação
+7a1332	potência reconhecida pelo tratado
+905e23	signatário: não pode ter armas nucleares
+d49a4f	não signatário
+2d79e1	{0} (mínimo 25)
+79959c	{0} avança no seu programa nuclear civil: {1}.
+712de0	{0} realiza um teste nuclear e se declara potência nuclear. O mundo responde com sanções.
+9aea5f	{0} avança no seu programa de armas nucleares ({1}). Há sanções e protestos.
+3cb3d7	{0} anuncia um programa de energia nuclear civil.
+3b349c	{0} se retira do Tratado de Não Proliferação Nuclear.
+f775aa	O consórcio nuclear desaparece: você recupera {0}.
+fe3966	Dividendo do consórcio nuclear de {0}: {1}.
+620871	Os inspetores internacionais descobrem o programa de armas nucleares de {0}: sanções e programa congelado por um ano.
+bf7387	Só o governo pode decidir isso.
+c768b9	Sistema nuclear desligado.
+025887	O programa já está em andamento.
+a6c4e6	Você não cumpre os requisitos:
+6c9e5d	Você inicia o programa de energia nuclear civil. A pesquisa começa.
+9205d3	Você inicia em segredo um programa de armas nucleares. Os inspetores podem descobri-lo.
+fb8e0c	Não há programa civil.
+51f117	Você cancela o programa nuclear civil.
+dc3f08	Você fecha seus reatores nucleares: a energia fica mais cara.
+918b11	Não há programa militar.
+2e2a31	Você desmonta seu arsenal nuclear, como a África do Sul em 1991.
+9c4568	Você cancela o programa de armas nucleares.
+5217cd	Primeiro cancele ou desmonte o programa militar.
+ff08a4	Você já assinou o tratado.
+356044	Você assina o Tratado de Não Proliferação: o mercado de combustível nuclear se abre para você.
+79e69f	Você não faz parte do tratado.
+8a6229	Você é uma potência reconhecida: se retirar não lhe dá nada.
+c31a25	Você se retira do Tratado de Não Proliferação. Chegam sanções por três anos.
+4361c1	Seu regime (economia planificada) proíbe o investimento privado.
+8e2872	Você proíbe o investimento privado em reatores.
+b4478b	Você permite que empresas privadas invistam em reatores.
+159a69	O governo não permite investimento privado.
+2e43d4	Só se investe na construção ou operação de reatores.
+13cbfb	Você já tem uma participação em outro país.
+2c9e3b	Você precisa de pelo menos $10,000 para investir.
+4b53c5	Você investe {0} no consórcio nuclear civil. Pagará 6 % ao ano enquanto os reatores operarem.
+5b4b15	Você não tem participação.
+3264c5	Você vende sua participação por {0}.
+f396d6	Nocautes
+6b94e2	Facetas
+a0d831	Período de avanço
+6392d9	e unidades menores
+773cf8	Divisões
+7aad70	Efetivos ativos
+37b2ab	Armamento
+86697f	Reservistas
+1009ee	Orçamento militar
+2d72a4	e a guarda costeira
+6a4693	os efetivos saem das tropas em campanha
+14b199	Sobe
+2a126d	Sem dados de tendência
+883cc9	Estável ({0})
+8919b4	Cai
+2d8c9d	Poder militar
+6c648b	Setas: mudança desde {0} (verde sobe, vermelho cai, cinza estável ±1 %). Barras: valor em relação ao líder.
+f755b5	As setas com * são estimadas com o crescimento do último ano; o poder militar aparecerá quando passar o próximo ano. Barras: valor em relação ao líder.
+e16f9b	Energia nuclear
+277eaa	⚡ Energia nuclear civil
+761638	Sem programa.
+fbb5ec	Fechou seus reatores em {0}.
+d0fb2a	ano {0} de {1}
+3896b7	Não signatário
+d9f17c	Potência reconhecida
+e4b33f	Signatário
+b74cc9	pode se armar, com sanções
+80d0f7	em operação
+b26acd	Reatores
+3772bd	Iniciar energia nuclear
+fb5c98	Parar o ramo civil
+0b0d31	Cancelar o programa militar
+79d6bd	Iniciar programa militar
+c35518	Desmontar o arsenal
+61cb58	Sair do TNP
+f4c857	Assinar o TNP
+c8b43c	Proibir investimento privado
+dfbd5f	Permitir investimento privado
+0788a4	recebido {0}
+5509cb	: {0} em {1}

@@ -1,0 +1,375 @@
+129ff9	D	Selva tropical
+bba34c	D	Sabana
+5013cb	D	Estepa
+bdff57	D	Bosque subtropical
+732b6a	D	Pradera
+f25d99	D	Bosque templado
+ffa029	D	Taiga
+16ee1f	D	Escaso
+e38b71	D	Depende de importaciones
+db197e	D	Autosuficiente
+8071ef	D	Exporta
+16a69b	T	Sequía en {0} de {1} provincias de {2} en {3}: menos cosechas, agua racionada y la felicidad baja.
+432f1e	D	Jaguar
+5e8269	D	Leopardo
+da0d2b	D	Tigre
+d03276	D	Casuario
+c745ea	D	Guacamaya
+ea6b53	D	Loro gris
+eff2ee	D	Cálao
+95f1b9	D	Ave del paraíso
+6c7f95	D	Mono aullador
+00fa82	D	Chimpancé
+d41c16	D	Orangután
+b34aa5	D	Canguro arborícola
+0f7174	D	Rana venenosa
+e1efe2	D	Rana arborícola
+5e5557	D	Rana voladora
+26e570	D	Ceiba
+b2e0fa	D	Caoba africana
+842f73	D	Dipterocarpo
+f6e842	D	Orquídeas
+7355df	D	Elefante
+66e73c	D	Oso hormiguero
+a78f03	D	Elefante asiático
+296747	D	Canguro rojo
+ab8762	D	Jirafa
+87c9a1	D	Venado de cola blanca
+bbd8e9	D	Venado de las pampas
+07663e	D	Ciervo axis
+7767af	D	Dingo
+3364b1	D	León
+8dd8a2	D	Puma
+afe7d5	D	León asiático
+2f2e1a	D	Águila audaz
+97a915	D	Acacia
+89d02c	D	Algarrobo
+63e351	D	Eucalipto
+fdefe7	D	Pastos altos
+cef9ed	D	Dromedario
+15cdd5	D	Coyote
+10c09c	D	Guanaco
+11a4ec	D	Camello bactriano
+64b2a2	D	Zorro del desierto
+5c8fb9	D	Lagarto
+a7fa4b	D	Monstruo de Gila
+182538	D	Diablo espinoso
+718a47	D	Lagarto de cola espinosa
+ab3e38	D	Escorpión
+dbbc15	D	Cactus y suculentas
+84b442	D	Palmera datilera
+41aa62	D	Saxaúl
+52e4b9	D	Spinifex
+3ee8ae	D	Caballo salvaje
+f3a236	D	Berrendo
+f441ea	D	Gacela
+502507	D	Canguro gris
+39e1d4	D	Águila esteparia
+e5a5ba	D	Águila real
+5cddc1	D	Cóndor
+b42eba	D	Marmota
+4173da	D	Perro de las praderas
+9f5bc1	D	Vizcacha
+4c19d7	D	Jerbo
+01d844	D	Wombat
+6750fc	D	Pasto pluma
+06ae50	D	Artemisa
+a978b3	D	Arbusto salado
+386e7f	D	Bambú
+473ace	D	Olivo silvestre
+72a06d	D	Olivo
+52cc57	D	Encino perenne
+ad9b3c	D	Alcanforero
+e0b77b	D	Alcornoque
+cb0290	D	Araucaria
+386dc7	D	Tortuga
+9900a4	D	Mariposas
+b2d6a5	D	Mariposa monarca
+d0eb80	D	Serpientes
+d30fa9	D	Bisonte
+067c01	D	Bisonte europeo
+7c6bc4	D	Caballo de Przewalski
+562c21	D	Liebre
+840fa2	D	Mara patagónica
+574c12	D	Abejas silvestres
+7476c9	D	Girasol silvestre
+5e4022	D	Amapola
+e29ecc	D	Ciervo
+07ea1a	D	Oso pardo
+72cc14	D	Oso negro
+7e1bb2	D	Oso negro asiático
+5f7738	D	Huemul
+74ae77	D	Koala
+4a5ab7	D	Búho
+1a7553	D	Zorro rojo
+bd356a	D	Roble
+0ff152	D	Roble pellín
+8a8ba7	D	Hongos del bosque
+b4e3c3	D	Abeto y pino
+219420	D	Lobo gris
+44f33d	D	Alce
+7e469d	D	Lince
+143e7f	D	Reno
+9ee0ea	D	Caribú
+623acb	D	Zorro ártico
+f99f29	D	Búho nival
+e718dc	D	Musgos y líquenes
+edcf79	D	Trucha ártica
+bc4168	D	Cóndor andino
+1288f7	D	Quebrantahuesos
+aef341	D	Cabra montés
+0a34fa	D	Borrego cimarrón
+5c3e16	D	Vicuña
+b65196	D	Íbice
+f978ae	D	Ualabí de roca
+4b12b4	D	Leopardo de las nieves
+513928	D	Equidna
+79bda5	D	Pino de montaña
+dc59b0	D	Flores alpinas
+58c018	D	Edelweiss
+7120ca	D	Peces de río
+822f97	D	Bagre
+40aa10	D	Dorado
+21e6f9	D	Trucha
+ec91a8	D	Carpa
+6cc5b0	D	Tilapia
+2f021b	D	Bacalao de Murray
+2cc076	D	En peligro
+e7247c	D	Ciudades y población ocupan su hábitat
+e25ac6	D	Contaminación de la industria
+84479e	D	Su hábitat se convirtió en cultivos
+6b0e77	D	Ocupación militar: caza y hábitat destruido
+94a232	D	Guerra: caza furtiva y hábitat destruido
+d9f0ee	D	Sequía: falta agua y alimento
+b29db0	D	Una presa corta el río
+a6f360	D	Agua desviada para riego
+0633ee	D	Salmuera de la desalinización
+b5e7ae	D	Poca protección ambiental
+1dd77f	D	Planta desalinizadora
+0a532b	D	+35 m³ de agua por persona al año por nivel, sacada del mar: no depende de la lluvia ni de la sequía.
+b18177	D	Sistema de riego
+e981ba	D	+12 % de tierra cultivable y entre 10 % y 20 % más cosechas por nivel (más donde llueve poco). Usa 4 % del agua.
+06f739	D	Invernaderos
+f075dd	D	Alimentos para 3 % más de la población por nivel, aun en años de sequía.
+82504c	D	Presa y embalse
+8d4bbd	D	+8 % de agua, la sequía le quita la mitad de agua y +4 % de tierra cultivable con riego. Corta el río: baja la salud del ecosistema.
+52121d	D	Provincia desconocida.
+65908c	D	Ya está en construcción.
+9ddf39	D	Ya está al máximo.
+938c1d	D	Solo en provincias con costa.
+9ad5b0	D	No hay tierra que se pueda cultivar.
+f64845	D	Necesita un río grande o un valle entre cerros.
+e30d33	D	La provincia está ocupada.
+c7b369	D	más agua dulce
+3693c3	D	más alimentos
+08d9cb	D	Solo en provincias de tu país.
+834945	D	No alcanza el tesoro nacional.
+f1e2f2	D	Solo el gobierno puede construir una presa.
+7818cd	T	Tus proyectos de agua y alimentos te dejan {0} este año.
+cb4421	D	Tu país ya tiene este avance.
+c8b376	T	Necesitas tecnología civil {0} (tienes {1}).
+99c4a7	D	Solo el gobierno puede financiar la investigación.
+95d4c1	T	Tus universidades logran el avance «Tecnología del agua» ({0}): los proyectos de agua, alimentos y conservación cuestan {1} % menos.
+a07ebb	T	{0} logra el avance «Tecnología del agua»: los proyectos de agua y conservación cuestan {1} % menos.
+2ee63c	D	Reforestación
+7e9be8	D	+3 de salud del ecosistema y +1.5 % de agua renovable por nivel (el bosque retiene la lluvia). Ayuda al turismo.
+53c5a2	D	Área protegida
+6f3d0c	D	+5 de salud del ecosistema y +2 % de agua renovable (cuencas protegidas). Atrae turismo. Solo la declara el gobierno.
+2a6282	D	Planta de tratamiento de aguas
+08d09b	D	Compensa la mitad de la contaminación de las empresas de la provincia por nivel (+1 si no hay industria: aguas negras de las ciudades).
+530ffe	D	No se puede reforestar un desierto o una tundra.
+216e8d	D	Solo el gobierno puede declarar un área protegida.
+d386e0	D	Minas y pozos de la provincia
+3159c6	D	Contaminación de fábricas, minas y pozos
+061944	T	Sequía en {0}: {1} produce {2} % menos este año.
+904c5e	T	Mantenimiento de tus proyectos de conservación: {0}.
+213a9b	T	Sin dinero para el mantenimiento: {0} quedan suspendidos este año (sin efecto).
+ca4813	D	Población por km²
+57e681	D	Industria y ciudades
+966987	D	Tierra convertida en cultivos
+c86b99	D	Desarrollo y regulación ambiental
+69b7e0	D	Ocupación militar
+d8cb2a	D	Sequía este año
+de4b55	D	Sequía en la provincia
+1eb141	D	Lluvia y clima
+0a4d47	D	Agua del resto del país
+b79a11	D	Presas, pozos y redes de agua
+ed1999	D	Tierra cultivable por persona
+f91ad3	D	Capacidad de importar alimentos
+26f86e	D	Precio mundial de los granos
+56bd80	D	Cosechas de la provincia
+0d2145	D	Alimentos importados y su precio
+510f15	D	Sequía (contra un año normal)
+cea13f	D	Menos agua por persona
+67e676	D	Energía importada y su precio
+e3c2a9	D	La barra compara lo que produce con lo que consume (la raya marca el 100 %). El consumo se estima con su peso en la economía y en la población del mundo.
+b196fa	D	Salud del ecosistema
+4b7975	D	Qué tan conservada está la naturaleza: baja con la población, la industria, los cultivos, la guerra y la sequía.
+4fb591	D	Agua dulce
+82916c	D	m³ por persona al año en la provincia
+a266f2	D	km³ se renuevan
+2d3200	D	Con menos de 1,700 m³ por persona al año hay estrés hídrico; con menos de 1,000, escasez.
+f09aaa	D	Seguridad alimentaria
+f901ec	D	Sus cosechas alimentan a
+520213	D	de su población
+5e971d	D	Tierra cultivable
+5da13c	D	de la superficie
+85d589	D	Agua por persona
+f114c9	D	personas alimentadas
+8fbe58	D	Riesgo de sequía
+c49c23	D	por año
+c3db36	D	Cultivos principales
+4a5cca	D	Recursos del subsuelo
+197242	D	Ecosistema
+e624ee	D	Agua
+b9e984	T	Escasez de recursos de {0}
+3ef09e	D	Bioma
+7d313f	D	Gran región natural con un clima, una vegetación y una fauna parecidos: selva, sabana, desierto, taiga…
+ee3a7a	D	Define cuánta lluvia escurre, cuánta tierra se puede cultivar y qué tan seguido hay sequías.
+cfffcd	D	Agua dulce renovable
+ad3776	D	El agua de lluvia que escurre por ríos y se filtra a los acuíferos cada año, más la que traen los ríos de aguas arriba.
+859a20	D	Con poca agua por persona, la sequía pega más fuerte a las cosechas, los servicios públicos y la felicidad.
+4784a0	D	Que la población tenga suficientes alimentos: produciéndolos o pudiendo comprarlos fuera.
+20e90d	D	Un país que importa mucha comida sufre cuando los granos se encarecen en el mundo.
+fc6296	D	Naturaleza de tu país
+650adf	D	Agua renovable
+f828c6	D	Naturaleza
+7dfe24	T	Naturaleza y recursos de {0}
+851d27	D	Autosuficiencia alimentaria
+e3252b	D	Provincias con sequía
+9e6e0b	D	de la población
+3ce609	D	Promedio de sus provincias según su superficie.
+554c08	D	km³ de agua renovable al año
+e22349	D	m³ por persona
+7e2b92	D	Umbral de Falkenmark: menos de 1,700 m³ por persona al año es estrés hídrico; menos de 1,000, escasez; menos de 500, escasez absoluta.
+5d1bbc	D	Produce alimentos para
+74226c	D	Lo que la naturaleza mueve en la economía
+f79ce2	D	Escasez de recursos
+5379ab	D	Provincias con sequía este año
+0747d3	D	Severidad
+b61f6c	D	Provincias con menos agua por persona
+6a6160	D	Toca una provincia en el mapa y abre la pestaña 🌿 Naturaleza de su ficha para ver el detalle. El modo de mapa 🌿 pinta la salud del ecosistema en todo el mundo.
+bc1dbe	D	Estrés hídrico
+f05314	D	Sequía
+619ecb	D	Naturaleza y recursos
+01fe0f	D	Gran región natural con clima, plantas y animales parecidos: selva, sabana, desierto, estepa, bosque, taiga, tundra o montaña.
+8ba1b0	D	Agua dulce que la lluvia repone cada año en ríos y acuíferos. Se mide en metros cúbicos por persona al año.
+edc5e7	D	Cuando hay menos de 1,700 m³ de agua renovable por persona al año. Bajo 1,000 es escasez y bajo 500, escasez absoluta (umbral de Falkenmark).
+cc7f99	D	Parte del territorio que se puede sembrar. Depende del clima, del relieve y del agua, y crece con el riego.
+a601f6	D	Que toda la población tenga alimentos suficientes, ya sea porque los produce o porque puede comprarlos a otros países.
+0fdc9f	D	Un año con mucha menos lluvia de lo normal. Reduce las cosechas y el agua disponible, y pega más a los países que dependen del campo.
+d8a207	D	Un país con menos de 1,700 m³ de agua renovable por persona al año vive estrés hídrico. Bajo 1,000 m³ hay escasez y bajo 500, escasez absoluta.
+50873e	D	Falkenmark (1989); ONU-Agua
+dbe190	D	Solo cerca del 11 % de la superficie terrestre del planeta es tierra cultivable.
+0774c2	D	IFPRI; FAO
+cf6aa2	D	Proyectos de agua (desalinización, presas, riego)
+9ba038	D	Presa que corta el río
+790b54	D	Salud del ecosistema (ríos en azul)
+7389b3	D	Animal
+65fa72	D	Planta
+792a17	D	muy sensible
+dab812	T	{0} de {1} están en riesgo: la causa es lo que más le resta al ecosistema entre sus amenazas.
+f888fa	D	Ninguna está en riesgo por ahora.
+759c52	D	Flora y fauna
+43740f	T	Las especies dependen de la salud del ecosistema ({0}/100).
+382971	D	No cambian la economía.
+efc332	D	Proyectos de agua y alimentos
+0161e4	D	km³ de agua al año
+4485eb	D	km² cultivables
+a8a5b5	D	alimentos para
+67b3db	D	Hoy aportan:
+947cea	D	Solo puedes construir en provincias de tu país.
+31475a	D	tu gobierno
+c08f3c	D	el gobierno
+977419	D	en construcción: faltan
+8f3bc2	D	Pagado por:
+74bd5f	D	Costo
+9513ba	D	Tarda
+d72b64	T	Gobiernas: las obras se pagan con el tesoro nacional ({0}).
+07253c	D	No gobiernas: puedes pagarlas tú como inversión privada; rinden cada año (agua y cosechas que se venden). La presa solo la construye el gobierno.
+cef7d7	D	Los efectos son medidos y pequeños: suben el agua y la tierra cultivable de la provincia, y con eso un poco la autosuficiencia del país.
+279a67	T	{0} ¿{1} en {2}?
+4440c2	D	Desalinización
+08cfe9	D	Riego
+ecde02	D	Especie en riesgo
+aca10e	D	En total aportan
+27aa1c	D	km³ de agua al año y alimentos para
+ecf3d2	D	Tu país no tiene proyectos. Ábrelos desde la pestaña 🌿 Naturaleza de cada provincia.
+d78d44	D	Especies en riesgo
+36f3bc	T	{0} de {1} poblaciones de plantas y animales en tus provincias están en riesgo.
+99bd02	D	en peligro en
+1be5e2	D	En riesgo en
+23eb3c	D	Quitar la sal al agua de mar para volverla potable. Da agua aunque no llueva, pero gasta mucha energía y deja salmuera que daña la costa.
+795688	D	Llevar agua a los cultivos con canales, pozos o goteo. Permite sembrar donde llueve poco y cosechar más, pero usa gran parte del agua dulce.
+ebcde6	D	Planta o animal cuya población baja tanto que podría desaparecer de un lugar. La causa más común es la pérdida de su hábitat.
+c54050	D	Israel obtiene cerca de 70 % de su agua potable de plantas desalinizadoras en la costa del Mediterráneo.
+81d1e7	D	Autoridad del Agua de Israel
+4b8581	D	Los Países Bajos son el segundo exportador de alimentos del mundo por valor, gracias en buena parte a sus invernaderos.
+b3342d	D	FAO; Universidad de Wageningen
+24513c	D	Cerca de un millón de especies de plantas y animales están en peligro de extinción, sobre todo por la pérdida de su hábitat.
+4c0333	D	IPBES (2019)
+6e327f	D	Contaminación de empresas (fábricas, minas, pozos)
+0dc2a0	D	Plantas de tratamiento de aguas
+3e6f2e	D	Reforestación y áreas protegidas
+b003ec	D	Tu empresa
+091b73	D	Empresa de bolsa
+c88f37	D	Extracción
+d2f5b7	T	El tratamiento de aguas (nivel {0}) compensa
+815fd9	D	Una planta de tratamiento de aguas compensa la mitad por nivel.
+324f21	D	Restan
+39de72	D	a la salud del ecosistema (según su tamaño frente a la economía de la provincia).
+f88adb	D	Logrado en
+3602cb	D	Tecnología civil
+beac5c	D	llega solo con el nivel
+335fa9	D	Investigar
+4e6994	D	Avance: tecnología del agua
+7d2d65	T	Membranas, riego por goteo y viveros más baratos: abarata {0} % el costo y el mantenimiento de todos los proyectos de agua, alimentos y conservación.
+fd5d4d	D	Conservación
+e3c26d	D	suspendido este año
+ea60b0	D	Turismo de la provincia:
+65c7ed	D	de demanda en hoteles, bares y joyerías por su naturaleza y sus áreas protegidas.
+a8617f	D	Si gobiernas, el tesoro paga la obra y el mantenimiento; si no alcanza, el proyecto se suspende ese año.
+84b356	D	Sin gobernar puedes pagar la reforestación y el tratamiento como inversión privada (rinden un poco: bonos de carbono y tarifas); el mantenimiento sale de tu dinero. El área protegida solo la declara el gobierno.
+868eeb	D	¿Investigar la tecnología del agua?
+7b8266	D	Contaminación industrial
+edf024	D	No hay reforestación, áreas protegidas ni plantas de tratamiento. Ábrelas desde la pestaña 🌿 Naturaleza de cada provincia.
+cb462c	D	Turismo del país por su naturaleza y sus áreas protegidas:
+1abf79	D	de demanda.
+6dc117	D	Zona donde la ley limita la caza, la tala, la construcción y la agricultura para conservar la naturaleza. Protege especies y cuencas de agua y atrae turismo.
+6c43ff	D	Volver a plantar árboles donde hubo bosque. El bosque retiene la lluvia, recarga los acuíferos y devuelve el hábitat a muchas especies; tarda años en dar efecto.
+517784	D	Desechos que fábricas, minas y pozos petroleros echan al aire, al agua y al suelo. Las plantas de tratamiento limpian parte del agua antes de devolverla a los ríos.
+7acc17	D	Costa Rica pasó de cerca de 21 % de su territorio con bosque en 1987 a más de 50 % hoy, con pagos a los dueños de tierras por conservarlo.
+5208dc	D	SINAC; FAO, Evaluación de los Recursos Forestales
+4a6c3c	D	Las áreas protegidas cubren cerca de 17 % de la tierra firme del mundo.
+a04a4e	D	UNEP-WCMC y UICN, Protected Planet Report 2020
+d5d83f	D	FAO, AQUASTAT
+2a2dc3	D	FAO; Banco Mundial
+ba97ca	D	Contaminación de empresas
+ecb904	D	Provincias más contaminadas por empresas
+04bbf6	T	🏗️ Termina {0} en {1}: {2} para la provincia.
+7702c2	T	🏗️ Termina {0} en {1} (nivel {2}): {3} para la provincia.
+5a1b46	T	Empieza la obra: {0} en {1}. Tarda {2} meses.
+238966	T	Empieza la obra: {0} en {1}. Tarda {2} meses; es tu inversión privada y te dejará cerca del {3} % al año cuando funcione.
+8c5ed2	T	{0} Se declara área protegida {1}: mejora la salud del ecosistema.
+d71837	T	{0} Termina {1} en {2}: mejora la salud del ecosistema.
+43d09c	T	{0} Termina {1} en {2} (nivel {3}): mejora la salud del ecosistema.
+27a851	D	sensible
+c51d52	D	resistente
+f1fe5b	D	faltan
+98b395	D	suspendido
+f46b3a	D	tratamiento
+67bbcd	D	degradado
+c53414	D	sano
+8f12c6	D	En riesgo
+1f3e92	D	No te alcanza el dinero.
+32c536	D	Río grande
+327a63	D	Crecimiento de la población
+4cb456	D	En 2022, varios países prohibieron exportar alimentos tras la invasión de Ucrania, uno de los mayores exportadores de trigo y maíz del mundo.
+5087e8	D	de tu dinero
+b5df5e	T	🌳 Mantenimiento de reforestación, áreas protegidas y tratamiento de aguas: {0} del tesoro.
+c98083	T	Reforestación ({0})
+5230e6	T	Área protegida ({0})
+b74b18	T	Planta de tratamiento de aguas ({0})
+a502fe	T	Reforestación ({0}), {1}
+f324fd	T	Área protegida ({0}), {1}
+434a81	T	Planta de tratamiento de aguas ({0}), {1}

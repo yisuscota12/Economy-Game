@@ -29,7 +29,7 @@ function pxOn(){try{return CFG.pxui==='p2';}catch(e){return false;}}
 function mapDpr(){return pxOn()?1:Math.min(2,window.devicePixelRatio||1);}
 const VS='attribute vec2 p;varying vec2 v;void main(){v=vec2(p.x*.5+.5,.5-p.y*.5);gl_Position=vec4(p,0.,1.);}';
 const FS=`precision highp float;
-uniform sampler2D uId,uRel,uLut,uOwn,uCoast;uniform float uFx;uniform vec2 uTex,uLutN,uView;uniform vec4 uVB;uniform float uSel,uMe,uDetail,uMix,uVec,uPulse;varying vec2 v;
+uniform sampler2D uId,uRel,uLut,uOwn,uCoast;uniform float uFx;uniform vec2 uTex,uLutN,uView;uniform vec4 uVB;uniform float uSel,uMe,uDetail,uMix,uVec,uPulse,uRiv;varying vec2 v;
 float idAt(vec2 m){if(m.x<0.||m.y<0.||m.x>=uTex.x||m.y>=uTex.y)return 0.;vec4 c=texture2D(uId,(floor(m)+.5)/uTex);return floor(c.r*255.+.5)+floor(c.g*255.+.5)*256.;}
 vec2 lc(float i){return (vec2(mod(i,${LUTW}.),floor(i/${LUTW}.))+.5)/uLutN;}
 vec4 lut(float i){return texture2D(uLut,lc(i));}
@@ -49,6 +49,7 @@ void main(){vec2 m=uVB.xy+v*uVB.zw;float px=uVB.z/uView.x;vec3 rel=texture2D(uRe
   if(n>.5)c=mix(c,vec3(.04,.06,.09),.55);gl_FragColor=vec4(c,1.);return;}
  vec4 o=lut(id);vec4 ow=own(id);float lum=dot(rel,vec3(.3,.59,.11));
  vec3 c=mix(rel,o.rgb*(.5+.75*lum),uMix);
+ if(uRiv>.5){vec3 q=rel*255.;if(abs(q.r-58.)<30.&&abs(q.g-108.)<30.&&abs(q.b-160.)<35.&&q.b>q.r+55.)c=mix(c,vec3(.25,.6,.95),.9);}
  float prov=0.,nat=0.,sel=0.,me=0.;
  bool need=uVec<.5||id==uSel||id==uMe;
  if(need)for(int k=0;k<8;k++){vec2 d=k==0?vec2(1.,0.):k==1?vec2(-1.,0.):k==2?vec2(0.,1.):k==3?vec2(0.,-1.):k==4?vec2(2.,0.):k==5?vec2(-2.,0.):k==6?vec2(0.,2.):vec2(0.,-2.);
@@ -81,7 +82,7 @@ function initGL(idImg,relImg){
     gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_MIN_FILTER,filter);gl.texParameteri(gl.TEXTURE_2D,gl.TEXTURE_MAG_FILTER,filter);
     if(src instanceof Uint8Array)gl.texImage2D(gl.TEXTURE_2D,0,gl.RGBA,w,h,0,gl.RGBA,gl.UNSIGNED_BYTE,src);else gl.texImage2D(gl.TEXTURE_2D,0,gl.RGBA,gl.RGBA,gl.UNSIGNED_BYTE,src);return t;};
   tex(0,idImg,gl.NEAREST);tex(1,relImg,gl.LINEAR);GLX.lutData=new Uint8Array(LUTW*LUTH*4);GLX.lut=tex(2,GLX.lutData,gl.NEAREST,LUTW,LUTH);GLX.ownData=new Uint8Array(LUTW*LUTH*4);GLX.own=tex(3,GLX.ownData,gl.NEAREST,LUTW,LUTH);if(GLX.coastImg)tex(4,GLX.coastImg,gl.LINEAR);else tex(4,new Uint8Array(4),gl.NEAREST,1,1);
-  const U=n=>gl.getUniformLocation(pr,n);GLX.u={id:U('uId'),rel:U('uRel'),lut:U('uLut'),tex:U('uTex'),lutN:U('uLutN'),view:U('uView'),vb:U('uVB'),sel:U('uSel'),me:U('uMe'),det:U('uDetail'),own:U('uOwn'),mix:U('uMix'),vec:U('uVec'),pulse:U('uPulse'),coast:U('uCoast'),fx:U('uFx')};GLX.prog=pr;GLX.pLoc=loc;GLX.qbuf=b;
+  const U=n=>gl.getUniformLocation(pr,n);GLX.u={id:U('uId'),rel:U('uRel'),lut:U('uLut'),tex:U('uTex'),lutN:U('uLutN'),view:U('uView'),vb:U('uVB'),sel:U('uSel'),me:U('uMe'),det:U('uDetail'),own:U('uOwn'),mix:U('uMix'),vec:U('uVec'),pulse:U('uPulse'),coast:U('uCoast'),fx:U('uFx'),riv:U('uRiv')};GLX.prog=pr;GLX.pLoc=loc;GLX.qbuf=b;
   gl.uniform1i(GLX.u.id,0);gl.uniform1i(GLX.u.rel,1);gl.uniform1i(GLX.u.lut,2);gl.uniform1i(GLX.u.own,3);gl.uniform1i(GLX.u.coast,4);gl.uniform2f(GLX.u.tex,MW,MH);gl.uniform2f(GLX.u.lutN,LUTW,LUTH);
   cv.addEventListener('webglcontextlost',e=>{e.preventDefault();try{localStorage.setItem('imperioLite','1');}catch(_){}} ,false);
   try{initBorders();}catch(e){GLX.lines=null;}
@@ -149,7 +150,7 @@ function setMapMode(k){MMODE=k;document.querySelectorAll('.mmodes button').forEa
   $('mLeg').innerHTML=md.lo?`<span>${md.n}</span><div class="lg-bar"></div><div class="lg-lab"><span>${md.lo}</span><span>${md.hi}</span></div>`:'';$('mLeg').style.display=md.lo?'block':'none';refreshMap();}
 function drawGL(){const cv=$('glc');gl.viewport(0,0,cv.width,cv.height);const u=GLX.u;
   gl.uniform2f(u.view,cv.width,cv.height);gl.uniform4f(u.vb,vb.x,vb.y,vb.w,vb.h);
-  gl.uniform1f(u.mix,MODES_MAP[MMODE].mix);gl.uniform1f(u.fx,mapFx()&&GLX.coastImg?1:0);gl.uniform1f(u.pulse,PULSE.v);gl.uniform1f(u.sel,G.sel&&RG[G.sel]?RG[G.sel].i:-1);gl.uniform1f(u.me,P&&RG[P.r]?RG[P.r].i:-1);
+  gl.uniform1f(u.mix,MODES_MAP[MMODE].mix);gl.uniform1f(u.riv,MMODE==='nat'?1:0);gl.uniform1f(u.fx,mapFx()&&GLX.coastImg?1:0);gl.uniform1f(u.pulse,PULSE.v);gl.uniform1f(u.sel,G.sel&&RG[G.sel]?RG[G.sel].i:-1);gl.uniform1f(u.me,P&&RG[P.r]?RG[P.r].i:-1);
   const tpp=vb.w/cv.width,det=clamp((2.2-tpp)/1.4,0,1);gl.uniform1f(u.det,det);gl.uniform1f(u.vec,GLX.lines?1:0);gl.drawArrays(gl.TRIANGLE_STRIP,0,4);
   if(GLX.roads&&mapRoads()){const rd=clamp((1.5-tpp)/.9,0,1);if(rd>0)drawLines(rd,GLX.roads);}
   if(GLX.lines)drawLines(det);}
@@ -196,7 +197,7 @@ const PULSE={v:0,t0:0,on:false};
 function pulseConquests(){if(mapMode!=='gl'||!G)return;let any=false;for(const id in G.regions)if(G.regions[id].cq===G.year){any=true;break;}if(!any)return;PULSE.t0=performance.now();if(!PULSE.on){PULSE.on=true;requestAnimationFrame(pulseStep);}}
 function pulseStep(t){const e=(t-PULSE.t0)/2600;if(e>=1){PULSE.v=0;PULSE.on=false;requestDraw();return;}PULSE.v=Math.sin(e*Math.PI*4)**2*(1-e);if(mapMode==='gl')drawGL();requestAnimationFrame(pulseStep);}
 /* zoom y centrado animados */
-let TW=null;function tweenVB(x,y,w,ms){const s={x:vb.x,y:vb.y,w:vb.w},t0=performance.now();ms=ms||320;const go=t=>{const e=Math.min(1,(t-t0)/ms),k=1-Math.pow(1-e,3);vb.w=s.w+(w-s.w)*k;vb.x=s.x+(x-s.x)*k;vb.y=s.y+(y-s.y)*k;setVB();if(e<1)TW=requestAnimationFrame(go);else{TW=null;drawOverlay();}};if(TW)cancelAnimationFrame(TW);TW=requestAnimationFrame(go);}
+let TW=null;function tweenVB(x,y,w,ms){if(typeof mapInrStop==="function")mapInrStop();const s={x:vb.x,y:vb.y,w:vb.w},t0=performance.now();ms=ms||320;const go=t=>{const e=Math.min(1,(t-t0)/ms),k=1-Math.pow(1-e,3);vb.w=s.w+(w-s.w)*k;vb.x=s.x+(x-s.x)*k;vb.y=s.y+(y-s.y)*k;setVB();if(e<1)TW=requestAnimationFrame(go);else{TW=null;drawOverlay();}};if(TW)cancelAnimationFrame(TW);TW=requestAnimationFrame(go);}
 function requestDraw(){if(raf)return;raf=requestAnimationFrame(()=>{raf=0;if(!mapReady)return;if(mapMode==='gl')drawGL();else drawLite();});}
 function refreshMap(){if(!mapReady||!G)return;if(mapMode==='gl'){updateLut();updateBorders();}else composeLite();drawOverlay();setVB();}
 function centerOn(id,w,anim){const r=RG[id];if(!r)return;const h=w*wrap().clientHeight/Math.max(1,wrap().clientWidth);if(anim&&mapReady){tweenVB(r.c[0]-w/2,r.c[1]-h/2,w);return;}vb.w=w;vb.h=h;vb.x=r.c[0]-w/2;vb.y=r.c[1]-vb.h/2;setVB();}
@@ -264,19 +265,54 @@ function drawOverlay(){
   if(P&&RG[P.r]){const c=RG[P.r].c;el('circle',{cx:c[0],cy:c[1],r:4*u,fill:'#f2c14e',stroke:'#1a1405','stroke-width':1.5*u},ov);}
   if(typeof drawArmies==='function')drawArmies(ov,u);
 }
-/* arrastrar, pellizcar, rueda, tocar */
-(function(){const w=wrap();const pts=new Map();let down=null,moved=false,pinch=null,lastU=0;
-  w.addEventListener('pointerdown',e=>{if(e.target.closest('.zoom,.mmodes,.mleg'))return;pts.set(e.pointerId,{x:e.clientX,y:e.clientY});w.setPointerCapture(e.pointerId);
-    if(pts.size===1){down={x:e.clientX,y:e.clientY,vx:vb.x,vy:vb.y};moved=false;}
-    else if(pts.size===2){const [a,b]=[...pts.values()];pinch={d:Math.hypot(a.x-b.x,a.y-b.y),w:vb.w,cx:vb.x+vb.w/2,cy:vb.y+vb.h/2};moved=true;}});
-  w.addEventListener('pointermove',e=>{if(!pts.has(e.pointerId))return;pts.set(e.pointerId,{x:e.clientX,y:e.clientY});
-    if(pinch&&pts.size===2){const [a,b]=[...pts.values()];const d=Math.hypot(a.x-b.x,a.y-b.y);vb.w=clamp(pinch.w*pinch.d/Math.max(d,1),ZMIN,MW*1.1);vb.h=vb.w*w.clientHeight/w.clientWidth;vb.x=pinch.cx-vb.w/2;vb.y=pinch.cy-vb.h/2;setVB();return;}
-    if(!down)return;const dx=e.clientX-down.x,dy=e.clientY-down.y;if(Math.abs(dx)+Math.abs(dy)>6)moved=true;if(moved){const s=upp();vb.x=down.vx-dx*s;vb.y=down.vy-dy*s;setVB();}});
-  const end=e=>{const wasPinch=!!pinch;if(!pts.has(e.pointerId))return;pts.delete(e.pointerId);
-    if(!moved&&down&&e.type==='pointerup'){const now=performance.now();if(now-(w._lt||0)<300){w._lt=0;const b=w.getBoundingClientRect();const mx=vb.x+(e.clientX-b.left)/b.width*vb.w,my=vb.y+(e.clientY-b.top)/b.height*vb.h;const nw=clamp(vb.w*.5,ZMIN,MW*1.1),nh=nw*w.clientHeight/w.clientWidth;tweenVB(mx-nw/2,my-nh/2,nw,260);}w._lt=now;const id=pickAt(e.clientX,e.clientY);if(id&&G){if(typeof onMapPick==='function'&&onMapPick(id))return;G.sel=id;requestDraw();drawOverlay();renderSel();}}
-    if(pts.size<2)pinch=null;if(!pts.size){down=null;if(wasPinch)drawOverlay();}};
+/* arrastrar, pellizcar, rueda, tocar — v2.3e: el arrastre sigue al dedo (sin salto al pasar el umbral ni al levantar un dedo del pellizco),
+   el pellizco se centra en los dedos, doble toque estable (el punto tocado queda bajo el dedo), umbral de toque pequeño y ajustable,
+   inercia que frena sin rebote. Ajustes → «🖐️ Mapa: sensibilidad» (CFG.msens 's'|'n'|'a', CFG.minr 0 = sin inercia). */
+const MSN={s:{tap:10,fr:.88,dbl:330},n:{tap:7,fr:.915,dbl:300},a:{tap:5,fr:.94,dbl:280}};
+function mapSens(){let k='n',inr=1;try{if(CFG&&MSN[CFG.msens])k=CFG.msens;if(CFG&&CFG.minr===0)inr=0;}catch(e){}return Object.assign({k,inr},MSN[k]);}
+function mapTapPx(){return mapSens().tap;}
+// estado del último gesto (lo leen otros módulos: la burbuja del mapa usa tap y dbl en vez de su propio umbral)
+const MAPG={tap:false,dbl:false,lt:0,lx:0,ly:0};
+var MINR={id:0};function mapInrStop(){if(MINR.id){cancelAnimationFrame(MINR.id);MINR.id=0;}}
+function mapWorld(cx,cy){const b=wrap().getBoundingClientRect();return {x:vb.x+(cx-b.left)/Math.max(1,b.width)*vb.w,y:vb.y+(cy-b.top)/Math.max(1,b.height)*vb.h,b};}
+(function(){const w=wrap();const pts=new Map();let mode=null,anc=null,pinch=null,smp=[],ovT=0;
+  const ovLater=ms=>{clearTimeout(ovT);ovT=setTimeout(()=>{try{drawOverlay();}catch(e){}},ms||0);};
+  // ancla del arrastre: el punto del mundo bajo el dedo se queda bajo el dedo
+  const anchor=p=>{anc={x:p.x,y:p.y,vx:vb.x,vy:vb.y};smp=[{t:performance.now(),x:p.x,y:p.y}];};
+  const pinchStart=()=>{const [a,b]=[...pts.values()];const cx=(a.x+b.x)/2,cy=(a.y+b.y)/2;const m=mapWorld(cx,cy);pinch={d:Math.max(1,Math.hypot(a.x-b.x,a.y-b.y)),w:vb.w,mx:m.x,my:m.y};};
+  w.addEventListener('pointerdown',e=>{if(e.target.closest('.zoom,.mmodes,.mleg,.mpop'))return;if(e.pointerType==='mouse'&&e.button!==0)return;
+    mapInrStop();if(TW){cancelAnimationFrame(TW);TW=null;}pts.set(e.pointerId,{x:e.clientX,y:e.clientY,x0:e.clientX,y0:e.clientY});try{w.setPointerCapture(e.pointerId);}catch(_){}
+    if(pts.size===1){mode='tap';anchor(pts.get(e.pointerId));}
+    else if(pts.size===2){mode='pinch';pinchStart();}});
+  w.addEventListener('pointermove',e=>{const p=pts.get(e.pointerId);if(!p)return;p.x=e.clientX;p.y=e.clientY;
+    if(mode==='pinch'){if(pts.size<2)return;const [a,b]=[...pts.values()];const d=Math.max(1,Math.hypot(a.x-b.x,a.y-b.y));const cx=(a.x+b.x)/2,cy=(a.y+b.y)/2,r=w.getBoundingClientRect();
+      vb.w=clamp(pinch.w*pinch.d/d,ZMIN,MW*1.1);vb.h=vb.w*w.clientHeight/Math.max(1,w.clientWidth);
+      vb.x=pinch.mx-(cx-r.left)/Math.max(1,r.width)*vb.w;vb.y=pinch.my-(cy-r.top)/Math.max(1,r.height)*vb.h;setVB();return;}
+    if(!anc)return;
+    if(mode==='tap'){if(Math.hypot(e.clientX-p.x0,e.clientY-p.y0)<=mapTapPx())return;mode='pan';anchor(p);return;}   // pasa el umbral: el arrastre empieza aquí, sin salto
+    if(mode!=='pan')return;const s=upp();vb.x=anc.vx-(e.clientX-anc.x)*s;vb.y=anc.vy-(e.clientY-anc.y)*s;setVB();
+    const t=performance.now();smp.push({t,x:e.clientX,y:e.clientY});while(smp.length>2&&t-smp[0].t>100)smp.shift();});
+  const inertia=()=>{const S=mapSens();if(!S.inr||smp.length<2)return false;const t=performance.now(),A=smp[0],B=smp[smp.length-1];if(t-B.t>60)return false;const dt=Math.max(16,B.t-A.t);
+    let vx=(B.x-A.x)/dt,vy=(B.y-A.y)/dt;const sp=Math.hypot(vx,vy);if(sp<.25)return false;if(sp>4){vx*=4/sp;vy*=4/sp;}   // px/ms, con tope
+    let last=performance.now();const step=now=>{const f=Math.min(64,now-last);last=now;const s=upp(),ox=vb.x,oy=vb.y;vb.x-=vx*f*s;vb.y-=vy*f*s;setVB();
+      if(Math.abs(vb.x-(ox-vx*f*s))>1e-6)vx=0;if(Math.abs(vb.y-(oy-vy*f*s))>1e-6)vy=0;   // tocó el borde: se detiene ese eje (sin rebote)
+      const k=Math.pow(S.fr,f/16.7);vx*=k;vy*=k;if(Math.hypot(vx,vy)<.02){MINR.id=0;ovLater(0);return;}MINR.id=requestAnimationFrame(step);};
+    MINR.id=requestAnimationFrame(step);return true;};
+  const end=e=>{const p=pts.get(e.pointerId);if(!p)return;pts.delete(e.pointerId);const was=mode;
+    if(was==='pinch'){if(pts.size===1){mode='pan';anchor([...pts.values()][0]);}   // queda un dedo: sigue arrastrando desde aquí (sin salto)
+      else if(pts.size>=2)pinchStart();else{mode=null;anc=null;ovLater(0);}return;}
+    if(pts.size)return;mode=null;MAPG.tap=false;MAPG.dbl=false;
+    if(was==='pan'){anc=null;if(e.type!=='pointerup'||!inertia())ovLater(0);return;}
+    anc=null;if(was!=='tap'||e.type!=='pointerup')return;
+    const now=performance.now(),S=mapSens();const dbl=now-MAPG.lt<S.dbl&&Math.hypot(e.clientX-MAPG.lx,e.clientY-MAPG.ly)<Math.max(28,S.tap*4);
+    MAPG.tap=true;MAPG.dbl=dbl;
+    if(dbl){MAPG.lt=0;const m=mapWorld(e.clientX,e.clientY);const nw=clamp(vb.w*.5,ZMIN,MW*1.1),k=nw/vb.w;tweenVB(m.x-(m.x-vb.x)*k,m.y-(m.y-vb.y)*k,nw,240);}   // el punto tocado se queda bajo el dedo
+    else{MAPG.lt=now;MAPG.lx=e.clientX;MAPG.ly=e.clientY;}
+    const id=pickAt(e.clientX,e.clientY);if(id&&G){if(typeof onMapPick==='function'&&onMapPick(id))return;G.sel=id;requestDraw();drawOverlay();renderSel();}};
   w.addEventListener('pointerup',end);w.addEventListener('pointercancel',end);
-  let wT=0;w.addEventListener('wheel',e=>{e.preventDefault();const b=w.getBoundingClientRect(),f=e.deltaY>0?1.15:1/1.15;const mx=vb.x+(e.clientX-b.left)/b.width*vb.w,my=vb.y+(e.clientY-b.top)/b.height*vb.h;const nw=clamp(vb.w*f,ZMIN,MW*1.1),k=nw/vb.w;vb.x=mx-(mx-vb.x)*k;vb.y=my-(my-vb.y)*k;vb.w=nw;setVB();clearTimeout(wT);wT=setTimeout(drawOverlay,120);},{passive:false});
+  w.addEventListener('lostpointercapture',e=>{if(pts.has(e.pointerId))end({pointerId:e.pointerId,type:'pointercancel',clientX:0,clientY:0});});
+  let wT=0;w.addEventListener('wheel',e=>{e.preventDefault();mapInrStop();const f=Math.pow(1.0015,Math.max(-120,Math.min(120,e.deltaMode===1?e.deltaY*16:e.deltaY)));const m=mapWorld(e.clientX,e.clientY);const nw=clamp(vb.w*f,ZMIN,MW*1.1),k=nw/vb.w;vb.x=m.x-(m.x-vb.x)*k;vb.y=m.y-(m.y-vb.y)*k;vb.w=nw;setVB();clearTimeout(wT);wT=setTimeout(drawOverlay,120);},{passive:false});
+  w.addEventListener('contextmenu',e=>{if(e.pointerType!=='mouse'&&pts.size)e.preventDefault();});
   window.addEventListener('resize',()=>{if(!mapReady)return;fitCanvas();setVB();drawOverlay();});
 })();
 function zoomBy(f,anim){const cx=vb.x+vb.w/2,cy=vb.y+vb.h/2;const w=clamp(vb.w*f,ZMIN,MW*1.1),h=w*wrap().clientHeight/wrap().clientWidth;if(anim){tweenVB(cx-w/2,cy-h/2,w,240);return;}vb.w=w;vb.h=h;vb.x=cx-vb.w/2;vb.y=cy-vb.h/2;setVB();drawOverlay();}

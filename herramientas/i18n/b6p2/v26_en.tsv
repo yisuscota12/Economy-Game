@@ -1,0 +1,154 @@
+14c869	Infantry
+fa6d0f	Mechanized
+55d1a8	Armored
+b9db5d	Artillery
+743a0f	Aviation
+905224	air wing
+585e41	Air defense and missiles
+66ca7e	Intermediate
+8e2b67	Limited
+980a92	Advanced
+a33669	Cutting-edge
+17d4d7	Assault rifles, light mortars and portable rocket launchers
+606a88	Connected soldier: thermal vision, handheld drones and fire-and-forget missiles
+a288b7	Scoped rifles, body armor and light vehicles
+c10b1a	Old assault rifles, machine guns and trucks
+fc66b4	Modular rifles with night vision, anti-tank missiles and encrypted radios
+33f14a	Old trucks and wheeled armored vehicles
+87be29	Next-generation vehicles with active protection and drones
+8ce35a	Modern combat vehicles with anti-tank missiles
+a545b8	Infantry fighting vehicles with 30 mm cannon
+fde350	Armored personnel carriers (BTR or M113 type)
+072c57	2nd-generation tanks (T-55 or T-62 type)
+63a01c	Next-generation tank with active protection and combat network
+805209	Light and post-war tanks
+b485dc	Modern main battle tank (Leopard 2, T-90 or M1 Abrams type)
+fab8c8	3rd-generation main battle tank (T-72 or upgraded M60 type)
+01584c	Self-propelled artillery and multiple rocket launchers
+71162c	Towed howitzers and mortars
+8c8506	122–155 mm howitzers and simple rocket launchers
+af49f1	Long-range precision rockets and attack drones
+ed79dc	Self-propelled artillery with counter-battery radar and guided munitions
+062b17	4.5th-generation fighters, tanker aircraft and armed drones
+0f18d8	5th-generation stealth fighters, early warning and bombers
+3b93c4	3rd-generation fighters (MiG-21 or F-5 type) and helicopters
+54913c	4th-generation fighters (MiG-29 or F-16 type) and attack helicopters
+b53033	Armed trainer aircraft and transport helicopters
+2d13fa	Coastal boats and patrol vessels
+89ce9d	Frigates, missile corvettes and diesel submarines
+a0ab57	Destroyers and frigates with missiles, modern submarines
+bdd510	Ocean patrol vessels and corvettes
+dcd4f9	Aircraft carriers, missile-defense destroyers and nuclear submarines
+36b849	Long-range layered defense (S-300 or Patriot type)
+3e4c3e	Medium-range systems and surveillance radars
+96c81f	Ballistic missile shield and drone defense
+c33bc5	Portable missiles and old batteries (SA-2 or SA-3 type)
+df04c9	Anti-aircraft guns and portable missiles
+854d18	Police and special security units (light arms)
+b5ec75	Coast guard: patrol vessels and fast boats
+85b776	Public security
+ab3823	Coast guard
+4d226c	Civil nuclear research
+11889e	Fuel: low-level enrichment (3–5 %)
+ad6da4	Reactor construction
+92b9ff	Reactor operation
+80e171	Military research
+cc8c61	High-level enrichment (90 %)
+0846cd	Weapon design
+20f88f	Nuclear test
+a5017f	Arsenal
+8d782b	{0} of {1} required
+e571c1	Technical capacity
+51af11	{0} per year; cap {1} % of the treasury's income ({2})
+5e5ac6	no uranium of its own and no market access (not an NPT signatory or under sanctions)
+97f01d	buys on the market (NPT signatory)
+9e3675	own production
+64dcff	Fissile material
+e64e41	plutonium from its reactors
+1d0613	the economy is too small for a reactor (minimum GDP: 60 billion)
+1e16f0	enough for a reactor
+fb65ce	Power grid
+1275c6	Enrichment infrastructure
+363781	has the civil branch at fuel stage or beyond
+f3e6bb	needs the civil branch at phase 2 (fuel)
+3cfa0f	Non-Proliferation Treaty
+7a1332	power recognized by the treaty
+905e23	signatory: cannot have nuclear weapons
+d49a4f	non-signatory
+2d79e1	{0} (minimum 25)
+79959c	{0} advances its civil nuclear program: {1}.
+712de0	{0} conducts a nuclear test and declares itself a nuclear power. The world responds with sanctions.
+9aea5f	{0} advances its nuclear weapons program ({1}). Sanctions and protests follow.
+3cb3d7	{0} announces a civil nuclear energy program.
+3b349c	{0} withdraws from the Nuclear Non-Proliferation Treaty.
+f775aa	The nuclear consortium disappears: you recover {0}.
+fe3966	Nuclear consortium dividend from {0}: {1}.
+620871	International inspectors discover the nuclear weapons program of {0}: sanctions and the program frozen for one year.
+bf7387	Only the government can decide this.
+c768b9	Nuclear system off.
+025887	The program is already under way.
+a6c4e6	You do not qualify:
+6c9e5d	You start the civil nuclear energy program. Research begins.
+9205d3	You secretly start a nuclear weapons program. Inspectors may discover it.
+fb8e0c	There is no civil program.
+51f117	You cancel the civil nuclear program.
+dc3f08	You shut down your nuclear reactors: energy becomes more expensive.
+918b11	There is no military program.
+2e2a31	You dismantle your nuclear arsenal, like South Africa in 1991.
+9c4568	You cancel the nuclear weapons program.
+5217cd	First cancel or dismantle the military program.
+ff08a4	You have already signed the treaty.
+356044	You sign the Non-Proliferation Treaty: the nuclear fuel market opens to you.
+79e69f	You are not a party to the treaty.
+8a6229	You are a recognized power: withdrawing gains you nothing.
+c31a25	You withdraw from the Non-Proliferation Treaty. Sanctions arrive for three years.
+4361c1	Your regime (planned economy) prohibits private investment.
+8e2872	You ban private investment in reactors.
+b4478b	You allow private companies to invest in reactors.
+159a69	The government does not allow private investment.
+2e43d4	Investment is only possible in reactor construction or operation.
+13cbfb	You already hold a stake in another country.
+2c9e3b	You need at least $10,000 to invest.
+4b53c5	You invest {0} in the civil nuclear consortium. It will pay 6 % per year while the reactors operate.
+5b4b15	You hold no stake.
+3264c5	You sell your stake for {0}.
+f396d6	Knockouts
+6b94e2	Facets
+a0d831	Advance period
+6392d9	and minor units
+773cf8	Divisions
+7aad70	Active personnel
+37b2ab	Weaponry
+86697f	Reservists
+1009ee	Military budget
+2d72a4	and the coast guard
+6a4693	personnel come from the troops in the field
+14b199	Up
+2a126d	No trend data
+883cc9	Stable ({0})
+8919b4	Down
+2d8c9d	Military power
+6c648b	Arrows: change since {0} (green up, red down, gray stable ±1 %). Bars: value compared with the leader.
+f755b5	Arrows with * are estimated from last year's growth; military power will show once next year passes. Bars: value compared with the leader.
+e16f9b	Nuclear energy
+277eaa	⚡ Civil nuclear energy
+761638	No program.
+fbb5ec	Shut down its reactors in {0}.
+d0fb2a	year {0} of {1}
+3896b7	Non-signatory
+d9f17c	Recognized power
+e4b33f	Signatory
+b74cc9	can arm itself, with sanctions
+80d0f7	in operation
+b26acd	Reactors
+3772bd	Start nuclear energy
+fb5c98	Stop the civil branch
+0b0d31	Cancel the military program
+79d6bd	Start military program
+c35518	Dismantle the arsenal
+61cb58	Withdraw from the NPT
+f4c857	Sign the NPT
+c8b43c	Ban private investment
+dfbd5f	Allow private investment
+0788a4	collected {0}
+5509cb	: {0} in {1}
