@@ -116,3 +116,19 @@ Documento de traspaso. Léelo completo antes de tocar código. Complementa a `CO
 3. Confirmar el estado con `git log --oneline -5` y `git status`.
 4. Empezar por A (vista vertical) y B (gotas), que son las peticiones más recientes del dueño.
 5. Al terminar cada parte: `node build.js`, commit, push, y publicar el link actualizado.
+
+## 8. Estado final (26 de noviembre de 2026, rama `claude/busy-goldberg-g55ljm`, commit 4e513d7)
+
+Todo lo de la lista original está hecho en código, salvo lo que depende de ver el juego en pantalla o de una revisión humana.
+
+- **A (vista vertical):** cubierta por el aviso «Gira el teléfono» (`ui_v25a.js`). El código vertical se conserva sin uso, a petición del dueño.
+- **B (gotas de cristal):** riel, submenús, burbujas, pestañas y barras (`ui_v25b.js`); riel unido con periodos y plegado (`ui_v25o.js`). Falta verlo en el iPhone 11.
+- **C (ciudades en pixel):** `ui_v25k.js`. Falta verlo en pantalla.
+- **D (traducciones):** textos de v2.4 y v2.5 en los 13 idiomas (`b6p2/v24_*.tsv`, `v25_*.tsv`). Falta revisión de un hablante nativo, sobre todo alemán y ruso.
+- **E (economía):** turismo interno, carga aérea, estatales en la red de personas, bolsa según PIB, navieras con costa, IA con aeropuertos y estatales (`engine_v25a` a `v25l`). Todos dentro del ruido de las pruebas de balance, sin calibrar en partida.
+- **F (logística y fase 6):** bloqueos, agencias, aduanas, puertos, cierres, íconos de línea y métricas (salud, familia, fama, box y MMA).
+- **G (interfaz heredada):** recorrido guiado corregido (`ui_v25g.js`). La Guía (`showGuide`) no señala elementos; el pendiente del traspaso sobre `ui_v15.js` era un error (ese archivo es el ticker de mercado).
+
+**Pendientes:** probar todo en iPhone 11 y Toshiba; lista de nombres para la portada (no está en el repositorio); revisión de traducciones; y el cambio de `build.js` que se perdió antes de v2.5b (no se recupera).
+
+**No tocar sin pedir:** `ui_v18b.js`, las claves `imperioVida_v3` e `imperioCfg` (solo campos opcionales), y no convertir `function nombre(){}` en `const`.
