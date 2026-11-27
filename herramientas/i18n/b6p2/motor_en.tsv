@@ -1,0 +1,119 @@
+a4c569	Internal loan: {0} moves {1} to {2}{3}.
+ee0309	, which pays {0} of bank debt
+b0d7b3	You buy {0} for {1}{2}.
+fcaff6	(you pay {0}; {1} of credit stays as company debt)
+fa84fb	Reviewing the books, you discover a hidden debt of {0}: you did not run an audit.
+ed070a	({0} % more than its offer)
+f16144	You sell {0} to {1} for {2}{3}. The company keeps operating under its new owner.
+4d574e	Construction begins: {0} in {1}. It takes {2} months{3}.
+6837b5	% per year once it is running
+ab2a3e	; it is your private investment and will leave you near
+4cc082	🏗️ Your water and food projects leave you {0} this year.
+486424	🔬 Your universities achieve the breakthrough "Water technology" ({0}): water, food and conservation projects cost {1} % less.
+85e1e6	🌵 Drought in {0}: {1} produces {2} % less this year.
+c854e4	🌳 Upkeep of your conservation projects: {0}.
+45c896	⚠️ No money for upkeep: {0} are suspended this year (no effect).
+f52b55	Your fleet covers {0} route(s): open another branch or drop a route.
+999eb4	📦 {0} loses a shipment of {1} on the route {2} → {3}: you pay the insurance and your reputation drops.
+ca3259	Tourist visa: {0}. Arrivals {1}{2}.
+3f83c3	Tourist tax: {0}. Arrivals {1}; the treasury gets {2} % of tourist spending.
+8d36f0	🏛️ {0} stops operating: the country lost {1}.
+956d66	🏛️ {0} is still bankrupt: the government shuts it down and sells what is left.
+41f6ee	⚠️ {0} is bankrupt (2 years of big losses): rescue it, privatize it or close it at the Secretariat of Investments.
+5e72ad	The treasury is not enough: you need {0}.
+d1bafb	You found {0} in {1} with {2} from the treasury.
+e9f051	You invest {0} in {1}: more capacity and +5 efficiency.
+623d29	You cut back {0}: assets are sold ({1} to the treasury), staff shrinks and efficiency rises; −1 happiness in {2}.
+7c0615	Budget of {0}: {1} ({2} % of its capital per year).
+e589b4	You close {0}: you recover {1} by selling its assets; {2} people lose their jobs.
+5b2ff4	You are {0} short of buying it.
+446552	You buy {0} for {1}{2}. It is now {3}.
+f6dce4	(the part your company can operate: {0} branch(es); the rest is sold to private owners)
+122aea	You privatize {0}: a private group pays {1} to the treasury and the company keeps operating.
+8b802d	{0} goes public with the ticker {1}: the treasury receives {2} for 30 % and the State keeps 70 %.
+5e9654	💼 {0} gets a job at a state company in {1} after {2} {3}.
+cc6a37	Welcome to
+831f9d	▶ Start a life
+56f25c	↩ Back to the cover
+36681f	⚔️ At war
+d3dd79	📍 You live here
+00626e	🏠 Your country
+26f4b2	🗺️ Bubble on map tap: on
+f22b41	🗺️ Bubble on map tap: off
+3faf7c	📋 Place card
+c9c899	🗺️ The map: bubble and place card
+cc44ae	The pixel style went back to Current. Unlock it to use it always.
+eea2a9	🕹️ The preview is over
+9598fc	👁️ Another preview in {0} h
+35bd02	You have {0} minutes to try it.
+acba07	🕹️ Pixel style preview
+8efe45	The pixel style is unlocked for your tests.
+b156d4	Themes go back to their normal state (locked, preview or unlocked).
+b4c540	🎨 Icons
+086dd6	🎬 Key-moment animations
+b6286d	🪖 Orders from the map
+09821f	Profit per month
+e59fbf	Sales per month
+b4b8c9	the clock advances
+eb602f	✨ Particles
+8ce3c6	🔓 New option in More
+4d935f	🏦 Banks and funds
+8e3efd	💼 Assets and businesses
+dec933	🎯 Quick orders
+b0e424	⚠️ Risk at your bank
+79b5c8	interest rate
+d952b3	deposit insurance
+ea8304	🌱 Levels and Easy mode
+7878c2	purchasing power
+72c061	compound interest
+889839	price index
+3c504c	benchmark rate
+229efe	investment funds
+d5b599	investment fund
+de6cb4	short selling
+4ffed5	capital gains
+bf61a7	stock market gains
+d80bfb	capital gain
+856046	in brackets
+43f70f	public debt
+1debfe	exchange rates
+24a179	exchange rate
+a6e01d	🔎 Why
+d293cb	🎓 Learn at every level
+afaab5	🔍 Audit
+2eea45	takeover bid
+b70264	🛒 Companies for sale
+fcaa43	🏢 Control on the stock market
+551c65	🏢 Buy companies and groups
+5cfc55	not available
+bae4c1	⚙️ World economy in the background: off
+c323b4	⚙️ World economy in the background: on
+d897af	supply chain
+bb8333	vertical integration
+7b207a	foreign direct investment
+ace599	foreign investment
+e86110	🌐 Contribution to the local economy
+9ae8d3	🔗 Supply chain
+5a973c	🏭 Health of the sectors
+3370d2	🤝 Sell the company
+63ff54	🌐 Connected economy
+ce810c	systemic risk
+b94031	capital requirement
+0af73f	🧨 Systemic risk
+6272fb	🩺 Health of the economy and contagion
+36f30f	, river
+65ed47	☀️ Day
+eeccd8	water stress
+8d6cae	🌿 Ecosystem health
+37e3fb	endangered species
+807a23	endangered
+86730f	endangered species
+aacf0f	🦋 Flora and fauna
+eae466	🏗️ Water and food projects
+c4450e	industrial pollution
+653009	🏭 Pollution from companies
+47818f	🌳 Conservation
+f017a6	{0} of {1} this year
+da98cd	Other cities ({0})
+8749db	Clubs ({0})
+5b4c58	You build an airport ✈️ in {0}: it is now level {1}.

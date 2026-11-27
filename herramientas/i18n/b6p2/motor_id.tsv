@@ -1,0 +1,119 @@
+a4c569	Pinjaman internal: {0} memindahkan {1} ke {2}{3}.
+ee0309	, yang melunasi utang bank sebesar {0}
+b0d7b3	Kamu membeli {0} seharga {1}{2}.
+fcaff6	(kamu membayar {0}; kredit {1} tetap menjadi utang perusahaan)
+fa84fb	Saat memeriksa pembukuan, kamu menemukan utang tersembunyi sebesar {0}: kamu tidak melakukan audit.
+ed070a	({0} % lebih tinggi dari tawarannya)
+f16144	Kamu menjual {0} kepada {1} seharga {2}{3}. Perusahaan tetap beroperasi di bawah pemilik barunya.
+4d574e	Pembangunan dimulai: {0} di {1}. Butuh {2} bulan{3}.
+6837b5	% per tahun setelah beroperasi
+ab2a3e	; ini investasi pribadimu dan akan membuatmu mendekati
+4cc082	🏗️ Proyek air dan pangan milikmu memberimu {0} tahun ini.
+486424	🔬 Universitasmu mencapai terobosan «Teknologi air» ({0}): proyek air, pangan, dan konservasi lebih murah {1} %.
+85e1e6	🌵 Kekeringan di {0}: {1} berproduksi {2} % lebih sedikit tahun ini.
+c854e4	🌳 Pemeliharaan proyek konservasimu: {0}.
+45c896	⚠️ Tidak ada uang untuk pemeliharaan: {0} ditangguhkan tahun ini (tanpa efek).
+f52b55	Armadamu melayani {0} rute: buka cabang lain atau lepaskan satu rute.
+999eb4	📦 {0} kehilangan kiriman senilai {1} di rute {2} → {3}: kamu membayar asuransi dan reputasimu turun.
+ca3259	Visa turis: {0}. Kedatangan {1}{2}.
+3f83c3	Pajak turis: {0}. Kedatangan {1}; kas negara menerima {2} % dari belanja turis.
+8d36f0	🏛️ {0} berhenti beroperasi: negara kehilangan {1}.
+956d66	🏛️ {0} masih bangkrut: pemerintah menutupnya dan menjual sisanya.
+41f6ee	⚠️ {0} bangkrut (2 tahun rugi besar): selamatkan, swastakan, atau tutup di Sekretariat Investasi.
+5e72ad	Kas negara tidak cukup: dibutuhkan {0}.
+d1bafb	Kamu mendirikan {0} di {1} dengan {2} dari kas negara.
+e9f051	Kamu menginvestasikan {0} di {1}: kapasitas bertambah dan efisiensi +5.
+623d29	Kamu memangkas {0}: aset dijual ({1} ke kas negara), jumlah staf turun dan efisiensi naik; kebahagiaan −1 di {2}.
+7c0615	Anggaran {0}: {1} ({2} % dari modalnya per tahun).
+e589b4	Kamu menutup {0}: kamu memulihkan {1} dengan menjual asetnya; {2} orang kehilangan pekerjaan.
+5b2ff4	Kamu kurang {0} untuk membelinya.
+446552	Kamu membeli {0} seharga {1}{2}. Sekarang statusnya {3}.
+f6dce4	(bagian yang bisa dioperasikan perusahaanmu: {0} cabang; sisanya dijual ke swasta)
+122aea	Kamu menswastakan {0}: kelompok swasta membayar {1} ke kas negara dan perusahaan tetap beroperasi.
+8b802d	{0} melantai di bursa dengan kode {1}: kas negara menerima {2} untuk 30 % dan negara mempertahankan 70 %.
+5e9654	💼 {0} mendapat pekerjaan di perusahaan negara {1} setelah {2} {3}.
+cc6a37	Selamat datang di
+831f9d	▶ Mulai sebuah kehidupan
+56f25c	↩ Kembali ke sampul
+36681f	⚔️ Sedang berperang
+d3dd79	📍 Kamu tinggal di sini
+00626e	🏠 Negaramu
+26f4b2	🗺️ Gelembung saat peta disentuh: aktif
+f22b41	🗺️ Gelembung saat peta disentuh: nonaktif
+3faf7c	📋 Kartu tempat
+c9c899	🗺️ Peta: gelembung dan kartu tempat
+cc44ae	Gaya piksel kembali ke Saat ini. Buka kuncinya agar bisa dipakai terus.
+eea2a9	🕹️ Pratinjau selesai
+9598fc	👁️ Pratinjau lagi dalam {0} jam
+35bd02	Kamu punya {0} menit untuk mencobanya.
+acba07	🕹️ Pratinjau gaya piksel
+8efe45	Gaya piksel terbuka untuk uji cobamu.
+b156d4	Tema kembali ke keadaan normal (terkunci, pratinjau, atau terbuka).
+b4c540	🎨 Ikon
+086dd6	🎬 Animasi momen penting
+b6286d	🪖 Perintah dari peta
+09821f	Laba per bulan
+e59fbf	Penjualan per bulan
+b4b8c9	jam berjalan
+eb602f	✨ Partikel
+8ce3c6	🔓 Opsi baru di Lainnya
+4d935f	🏦 Bank dan dana
+8e3efd	💼 Aset dan bisnis
+dec933	🎯 Perintah cepat
+b0e424	⚠️ Risiko di banmu
+79b5c8	suku bunga
+d952b3	asuransi simpanan
+ea8304	🌱 Level dan mode Mudah
+7878c2	daya beli
+72c061	bunga majemuk
+889839	indeks harga
+3c504c	suku bunga acuan
+229efe	dana investasi
+d5b599	dana investasi
+de6cb4	jual kosong
+4ffed5	keuntungan modal
+bf61a7	keuntungan bursa
+d80bfb	keuntungan modal
+856046	berjenjang
+43f70f	utang publik
+1debfe	nilai tukar
+24a179	nilai tukar
+a6e01d	🔎 Mengapa
+d293cb	🎓 Belajar di setiap level
+afaab5	🔍 Audit
+2eea45	penawaran tender
+b70264	🛒 Perusahaan dijual
+fcaa43	🏢 Kendali di bursa
+551c65	🏢 Beli perusahaan dan grup
+5cfc55	tidak tersedia
+bae4c1	⚙️ Ekonomi dunia di latar belakang: nonaktif
+c323b4	⚙️ Ekonomi dunia di latar belakang: aktif
+d897af	rantai pasok
+bb8333	integrasi vertikal
+7b207a	investasi asing langsung
+ace599	investasi asing
+e86110	🌐 Kontribusi bagi ekonomi lokal
+9ae8d3	🔗 Rantai pasok
+5a973c	🏭 Kesehatan sektor
+3370d2	🤝 Jual perusahaan
+63ff54	🌐 Ekonomi terhubung
+ce810c	risiko sistemik
+b94031	persyaratan modal
+0af73f	🧨 Risiko sistemik
+6272fb	🩺 Kesehatan ekonomi dan penularan
+36f30f	, sungai
+65ed47	☀️ Siang
+eeccd8	tekanan air
+8d6cae	🌿 Kesehatan ekosistem
+37e3fb	spesies terancam
+807a23	terancam
+86730f	spesies terancam
+aacf0f	🦋 Flora dan fauna
+eae466	🏗️ Proyek air dan pangan
+c4450e	polusi industri
+653009	🏭 Polusi dari perusahaan
+47818f	🌳 Konservasi
+f017a6	{0} dari {1} tahun ini
+da98cd	Kota lain ({0})
+8749db	Klub ({0})
+5b4c58	Kamu membangun bandara ✈️ di {0}: sekarang levelnya {1}.

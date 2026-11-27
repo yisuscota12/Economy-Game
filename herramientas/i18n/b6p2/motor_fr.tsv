@@ -1,0 +1,119 @@
+a4c569	Prêt interne : {0} transfère {1} à {2}{3}.
+ee0309	, qui rembourse {0} de dette bancaire
+b0d7b3	Tu achètes {0} pour {1}{2}.
+fcaff6	(tu paies {0} ; {1} de crédit restent comme dette de l'entreprise)
+fa84fb	En examinant les comptes, tu découvres une dette cachée de {0} : tu n'as pas fait d'audit.
+ed070a	({0} % de plus que son offre)
+f16144	Tu vends {0} à {1} pour {2}{3}. L'entreprise continue d'opérer sous son nouveau propriétaire.
+4d574e	Les travaux commencent : {0} à {1}. Ils durent {2} mois{3}.
+6837b5	% par an une fois en service
+ab2a3e	; c'est ton investissement privé et il te laissera près de
+4cc082	🏗️ Tes projets d'eau et d'alimentation te laissent {0} cette année.
+486424	🔬 Tes universités réalisent la percée « Technologie de l'eau » ({0}) : les projets d'eau, d'alimentation et de conservation coûtent {1} % de moins.
+85e1e6	🌵 Sécheresse à {0} : {1} produit {2} % de moins cette année.
+c854e4	🌳 Entretien de tes projets de conservation : {0}.
+45c896	⚠️ Pas d'argent pour l'entretien : {0} sont suspendus cette année (sans effet).
+f52b55	Ta flotte couvre {0} ligne(s) : ouvre une autre succursale ou abandonne une ligne.
+999eb4	📦 {0} perd un envoi de {1} sur la ligne {2} → {3} : tu paies l'assurance et ta réputation baisse.
+ca3259	Visa touristique : {0}. Arrivées {1}{2}.
+3f83c3	Taxe touristique : {0}. Arrivées {1} ; le trésor reçoit {2} % des dépenses des touristes.
+8d36f0	🏛️ {0} cesse ses activités : le pays a perdu {1}.
+956d66	🏛️ {0} est toujours en faillite : le gouvernement la ferme et vend ce qui reste.
+41f6ee	⚠️ {0} est en faillite (2 ans de grosses pertes) : sauve-la, privatise-la ou ferme-la au secrétariat des investissements.
+5e72ad	Le trésor ne suffit pas : il faut {0}.
+d1bafb	Tu fondes {0} à {1} avec {2} du trésor.
+e9f051	Tu investis {0} dans {1} : plus de capacité et +5 d'efficacité.
+623d29	Tu réduis {0} : des actifs sont vendus ({1} au trésor), le personnel diminue et l'efficacité augmente ; −1 de bonheur à {2}.
+7c0615	Budget de {0} : {1} ({2} % de son capital par an).
+e589b4	Tu fermes {0} : tu récupères {1} en vendant ses actifs ; {2} personnes perdent leur emploi.
+5b2ff4	Il te manque {0} pour l'acheter.
+446552	Tu achètes {0} pour {1}{2}. Elle est maintenant {3}.
+f6dce4	(la part que ton entreprise peut exploiter : {0} succursale(s) ; le reste est vendu à des privés)
+122aea	Tu privatises {0} : un groupe privé verse {1} au trésor et l'entreprise continue d'opérer.
+8b802d	{0} entre en bourse sous le symbole {1} : le trésor reçoit {2} pour 30 % et l'État garde 70 %.
+5e9654	💼 {0} décroche un emploi dans une entreprise publique de {1} après {2} {3}.
+cc6a37	Bienvenue à
+831f9d	▶ Commencer une vie
+56f25c	↩ Retour à l'accueil
+36681f	⚔️ En guerre
+d3dd79	📍 Tu habites ici
+00626e	🏠 Ton pays
+26f4b2	🗺️ Bulle au toucher de la carte : activée
+f22b41	🗺️ Bulle au toucher de la carte : désactivée
+3faf7c	📋 Fiche du lieu
+c9c899	🗺️ La carte : bulle et fiche du lieu
+cc44ae	Le style pixel est revenu à Actuel. Débloque-le pour l'utiliser en permanence.
+eea2a9	🕹️ L'aperçu est terminé
+9598fc	👁️ Un autre aperçu dans {0} h
+35bd02	Tu as {0} minutes pour l'essayer.
+acba07	🕹️ Aperçu du style pixel
+8efe45	Le style pixel est débloqué pour tes tests.
+b156d4	Les thèmes reviennent à leur état normal (verrouillé, aperçu ou débloqué).
+b4c540	🎨 Icônes
+086dd6	🎬 Animations des moments clés
+b6286d	🪖 Ordres depuis la carte
+09821f	Bénéfice par mois
+e59fbf	Ventes par mois
+b4b8c9	le temps avance
+eb602f	✨ Particules
+8ce3c6	🔓 Nouvelle option dans Plus
+4d935f	🏦 Banques et fonds
+8e3efd	💼 Biens et entreprises
+dec933	🎯 Ordres rapides
+b0e424	⚠️ Risque dans ta banque
+79b5c8	taux d'intérêt
+d952b3	assurance des dépôts
+ea8304	🌱 Niveaux et mode Facile
+7878c2	pouvoir d'achat
+72c061	intérêts composés
+889839	indice des prix
+3c504c	taux de référence
+229efe	fonds d'investissement
+d5b599	fonds d'investissement
+de6cb4	vente à découvert
+4ffed5	plus-values
+bf61a7	gains en bourse
+d80bfb	plus-value
+856046	par tranches
+43f70f	dette publique
+1debfe	taux de change
+24a179	taux de change
+a6e01d	🔎 Pourquoi
+d293cb	🎓 Apprendre à chaque niveau
+afaab5	🔍 Audit
+2eea45	offre publique d'achat
+b70264	🛒 Entreprises à vendre
+fcaa43	🏢 Contrôle en bourse
+551c65	🏢 Acheter des entreprises et des groupes
+5cfc55	non disponible
+bae4c1	⚙️ Économie mondiale en arrière-plan : désactivée
+c323b4	⚙️ Économie mondiale en arrière-plan : activée
+d897af	chaîne d'approvisionnement
+bb8333	intégration verticale
+7b207a	investissement direct étranger
+ace599	investissement étranger
+e86110	🌐 Apport à l'économie locale
+9ae8d3	🔗 Chaîne d'approvisionnement
+5a973c	🏭 Santé des secteurs
+3370d2	🤝 Vendre l'entreprise
+63ff54	🌐 Économie connectée
+ce810c	risque systémique
+b94031	exigence de fonds propres
+0af73f	🧨 Risque systémique
+6272fb	🩺 Santé de l'économie et contagion
+36f30f	, rivière
+65ed47	☀️ Jour
+eeccd8	stress hydrique
+8d6cae	🌿 Santé de l'écosystème
+37e3fb	espèces menacées
+807a23	en danger
+86730f	espèce menacée
+aacf0f	🦋 Flore et faune
+eae466	🏗️ Projets d'eau et d'alimentation
+c4450e	pollution industrielle
+653009	🏭 Pollution des entreprises
+47818f	🌳 Conservation
+f017a6	{0} sur {1} cette année
+da98cd	Autres villes ({0})
+8749db	Clubs ({0})
+5b4c58	Tu construis un aéroport ✈️ à {0} : il est maintenant de niveau {1}.

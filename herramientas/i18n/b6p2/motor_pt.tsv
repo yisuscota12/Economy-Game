@@ -1,0 +1,119 @@
+a4c569	Empréstimo interno: {0} transfere {1} para {2}{3}.
+ee0309	, que paga {0} de dívida bancária
+b0d7b3	Você compra {0} por {1}{2}.
+fcaff6	(você paga {0}; {1} de crédito ficam como dívida da empresa)
+fa84fb	Ao revisar os livros, você descobre uma dívida oculta de {0}: você não fez auditoria.
+ed070a	({0} % a mais que a oferta dela)
+f16144	Você vende {0} a {1} por {2}{3}. A empresa segue operando com o novo dono.
+4d574e	A obra começa: {0} em {1}. Leva {2} meses{3}.
+6837b5	% ao ano quando funcionar
+ab2a3e	; é seu investimento privado e vai te deixar perto de
+4cc082	🏗️ Seus projetos de água e alimentos deixam {0} para você este ano.
+486424	🔬 Suas universidades alcançam o avanço «Tecnologia da água» ({0}): os projetos de água, alimentos e conservação custam {1} % menos.
+85e1e6	🌵 Seca em {0}: {1} produz {2} % menos este ano.
+c854e4	🌳 Manutenção dos seus projetos de conservação: {0}.
+45c896	⚠️ Sem dinheiro para a manutenção: {0} ficam suspensos este ano (sem efeito).
+f52b55	Sua frota cobre {0} rota(s): abra outra filial ou deixe uma rota.
+999eb4	📦 {0} perde uma carga de {1} na rota {2} → {3}: você paga o seguro e sua reputação cai.
+ca3259	Visto de turista: {0}. Chegadas {1}{2}.
+3f83c3	Taxa turística: {0}. Chegadas {1}; ao tesouro vão {2} % do gasto dos turistas.
+8d36f0	🏛️ {0} deixa de operar: o país perdeu {1}.
+956d66	🏛️ {0} continua falida: o governo a fecha e vende o que sobra.
+41f6ee	⚠️ {0} está falida (2 anos com grandes perdas): resgate-a, privatize-a ou feche-a na Secretaria de investimentos.
+5e72ad	O tesouro não é suficiente: faltam {0}.
+d1bafb	Você funda {0} em {1} com {2} do tesouro.
+e9f051	Você investe {0} em {1}: mais capacidade e +5 de eficiência.
+623d29	Você enxuga {0}: ativos são vendidos ({1} para o tesouro), o quadro diminui e a eficiência sobe; −1 de felicidade em {2}.
+7c0615	Orçamento de {0}: {1} ({2} % do seu capital por ano).
+e589b4	Você fecha {0}: recupera {1} vendendo seus ativos; {2} pessoas perdem o emprego.
+5b2ff4	Faltam {0} para você comprá-la.
+446552	Você compra {0} por {1}{2}. Agora é {3}.
+f6dce4	(a parte que sua empresa pode operar: {0} filial(is); o resto é vendido a privados)
+122aea	Você privatiza {0}: um grupo privado paga {1} ao tesouro e a empresa segue operando.
+8b802d	{0} abre capital na bolsa com o código {1}: o tesouro recebe {2} por 30 % e o Estado mantém 70 %.
+5e9654	💼 {0} consegue emprego numa empresa estatal de {1} depois de {2} {3}.
+cc6a37	Bem-vindo a
+831f9d	▶ Começar uma vida
+56f25c	↩ Voltar à capa
+36681f	⚔️ Em guerra
+d3dd79	📍 Você mora aqui
+00626e	🏠 Seu país
+26f4b2	🗺️ Balão ao tocar no mapa: ativado
+f22b41	🗺️ Balão ao tocar no mapa: desativado
+3faf7c	📋 Ficha do lugar
+c9c899	🗺️ O mapa: balão e ficha do lugar
+cc44ae	O estilo pixel voltou para Atual. Desbloqueie-o para usá-lo sempre.
+eea2a9	🕹️ A prévia terminou
+9598fc	👁️ Outra prévia em {0} h
+35bd02	Você tem {0} minutos para testar.
+acba07	🕹️ Prévia do estilo pixel
+8efe45	O estilo pixel está desbloqueado para seus testes.
+b156d4	Os temas voltam ao estado normal (bloqueado, prévia ou desbloqueado).
+b4c540	🎨 Ícones
+086dd6	🎬 Animações de momentos-chave
+b6286d	🪖 Ordens pelo mapa
+09821f	Lucro por mês
+e59fbf	Vendas por mês
+b4b8c9	o relógio avança
+eb602f	✨ Partículas
+8ce3c6	🔓 Nova opção em Mais
+4d935f	🏦 Bancos e fundos
+8e3efd	💼 Bens e negócios
+dec933	🎯 Ordens rápidas
+b0e424	⚠️ Risco no seu banco
+79b5c8	taxa de juros
+d952b3	seguro de depósitos
+ea8304	🌱 Níveis e modo Fácil
+7878c2	poder de compra
+72c061	juros compostos
+889839	índice de preços
+3c504c	taxa de referência
+229efe	fundos de investimento
+d5b599	fundo de investimento
+de6cb4	venda a descoberto
+4ffed5	ganhos de capital
+bf61a7	ganhos na bolsa
+d80bfb	ganho de capital
+856046	por faixas
+43f70f	dívida pública
+1debfe	taxas de câmbio
+24a179	taxa de câmbio
+a6e01d	🔎 Por quê
+d293cb	🎓 Aprender em cada nível
+afaab5	🔍 Auditoria
+2eea45	oferta pública de aquisição
+b70264	🛒 Empresas à venda
+fcaa43	🏢 Controle na bolsa
+551c65	🏢 Comprar empresas e grupos
+5cfc55	indisponível
+bae4c1	⚙️ Economia mundial em segundo plano: desativada
+c323b4	⚙️ Economia mundial em segundo plano: ativada
+d897af	cadeia de suprimentos
+bb8333	integração vertical
+7b207a	investimento estrangeiro direto
+ace599	investimento estrangeiro
+e86110	🌐 Aporte à economia local
+9ae8d3	🔗 Cadeia de suprimentos
+5a973c	🏭 Saúde dos setores
+3370d2	🤝 Vender a empresa
+63ff54	🌐 Economia conectada
+ce810c	risco sistêmico
+b94031	exigência de capital
+0af73f	🧨 Risco sistêmico
+6272fb	🩺 Saúde da economia e contágio
+36f30f	, rio
+65ed47	☀️ Dia
+eeccd8	estresse hídrico
+8d6cae	🌿 Saúde do ecossistema
+37e3fb	espécies em risco
+807a23	em perigo
+86730f	espécie em risco
+aacf0f	🦋 Flora e fauna
+eae466	🏗️ Projetos de água e alimentos
+c4450e	poluição industrial
+653009	🏭 Poluição das empresas
+47818f	🌳 Conservação
+f017a6	{0} de {1} este ano
+da98cd	Outras cidades ({0})
+8749db	Clubes ({0})
+5b4c58	Você constrói um aeroporto ✈️ em {0}: agora ele é de nível {1}.
