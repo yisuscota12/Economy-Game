@@ -132,3 +132,14 @@ Todo lo de la lista original está hecho en código, salvo lo que depende de ver
 **Pendientes:** probar todo en iPhone 11 y Toshiba; lista de nombres para la portada (no está en el repositorio); revisión de traducciones; y el cambio de `build.js` que se perdió antes de v2.5b (no se recupera).
 
 **No tocar sin pedir:** `ui_v18b.js`, las claves `imperioVida_v3` e `imperioCfg` (solo campos opcionales), y no convertir `function nombre(){}` en `const`.
+
+## 9. Actualización (27 de noviembre de 2026)
+
+Desde la sección 8 se añadieron: v2.5m–v2.5q (textos de v2.5 en 13 idiomas, métricas de box y MMA, rutas de barcos y envíos en el mapa, pantalla de elegir vida, riel unido y portada Facetas), v2.6a (ejércitos), v2.6b (ranking con vectores), v2.6c (programas nucleares) y v2.6d (textos de v2.6 en 13 idiomas).
+
+**Decisiones abiertas:**
+- Programas nucleares: quedan **apagados** (`NUKE_SYS.on=false` en `src/engine_v26c.js`). Las crisis bancarias suben en una tanda de balance. Decidir si se activan.
+- Lista de nombres para la portada: no está en el repositorio.
+- Supuestos de ejércitos, ranking y nuclear: revisar con el dueño.
+
+**Pendientes:** probar todo en iPhone 11 y Toshiba; revisión de traducciones por hablantes nativos; calibrar en partida los efectos de v2.5 (la IA sube su deuda sin bajarla sola).
